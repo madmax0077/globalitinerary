@@ -8,6 +8,7 @@ import { Footer } from "@/components/layout/footer";
 import { ChromeGate } from "@/components/layout/chrome-gate";
 import { CookieConsent } from "@/components/layout/cookie-consent";
 import { GoogleAnalytics } from "@/components/shared/google-analytics";
+import { Ezoic } from "@/components/shared/ezoic";
 import { siteConfig, adsenseClientId, gaMeasurementId } from "@/lib/config";
 
 const adsenseClient = adsenseClientId;
@@ -96,6 +97,7 @@ export default function RootLayout({
           />
         )}
         <GoogleAnalytics id={gaMeasurementId} />
+        <Ezoic />
       </body>
     </html>
   );
