@@ -34,3 +34,7 @@ export type SiteConfig = typeof siteConfig;
 // NEXT_PUBLIC_ADSENSE_CLIENT_ID; falls back to the account's default.
 export const adsenseClientId =
   process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID || "ca-pub-5084738834329206";
+
+// Google Analytics 4 Measurement ID (e.g. "G-XXXXXXXXXX"). Set
+// NEXT_PUBLIC_GA_ID or replace the fallback below. Empty = analytics off.
+export const gaMeasurementId = process.env.NEXT_PUBLIC_GA_ID || "G-0BNGB35JZN";

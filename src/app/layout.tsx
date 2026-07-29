@@ -7,7 +7,8 @@ import { Navbar } from "@/components/layout/navbar";
 import { Footer } from "@/components/layout/footer";
 import { ChromeGate } from "@/components/layout/chrome-gate";
 import { CookieConsent } from "@/components/layout/cookie-consent";
-import { siteConfig, adsenseClientId } from "@/lib/config";
+import { GoogleAnalytics } from "@/components/shared/google-analytics";
+import { siteConfig, adsenseClientId, gaMeasurementId } from "@/lib/config";
 
 const adsenseClient = adsenseClientId;
 
@@ -94,6 +95,7 @@ export default function RootLayout({
             src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsenseClient}`}
           />
         )}
+        <GoogleAnalytics id={gaMeasurementId} />
       </body>
     </html>
   );
