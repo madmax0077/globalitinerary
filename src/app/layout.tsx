@@ -7,9 +7,9 @@ import { Navbar } from "@/components/layout/navbar";
 import { Footer } from "@/components/layout/footer";
 import { ChromeGate } from "@/components/layout/chrome-gate";
 import { CookieConsent } from "@/components/layout/cookie-consent";
-import { siteConfig } from "@/lib/config";
+import { siteConfig, adsenseClientId } from "@/lib/config";
 
-const adsenseClient = process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID;
+const adsenseClient = adsenseClientId;
 
 const inter = Inter({
   variable: "--font-sans",

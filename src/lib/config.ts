@@ -29,3 +29,8 @@ export const siteConfig = {
 } as const;
 
 export type SiteConfig = typeof siteConfig;
+
+// Google AdSense publisher ID. Can be overridden per-environment via
+// NEXT_PUBLIC_ADSENSE_CLIENT_ID; falls back to the account's default.
+export const adsenseClientId =
+  process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID || "ca-pub-5084738834329206";
