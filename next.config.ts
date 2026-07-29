@@ -1,7 +1,46 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  images: {
+    // Use a custom loader so remote images are served directly from their CDN
+    // to the browser. This avoids the Node-side optimizer, which fails behind
+    // corporate SSL-inspecting proxies (SELF_SIGNED_CERT_IN_CHAIN), and lets
+    // each CDN handle resizing. Works identically in local and cloud deploys.
+    loader: "custom",
+    loaderFile: "./src/lib/image-loader.ts",
+    formats: ["image/avif", "image/webp"],
+    remotePatterns: [
+      { protocol: "https", hostname: "images.unsplash.com" },
+      { protocol: "https", hostname: "i.pravatar.cc" },
+      { protocol: "https", hostname: "flagcdn.com" },
+      { protocol: "https", hostname: "upload.wikimedia.org" },
+    ],
+  },
+  experimental: {
+    optimizePackageImports: ["lucide-react", "framer-motion"],
+  },
+  // Production security headers. HSTS tells browsers to always use HTTPS
+  // (the SSL certificate itself is provisioned automatically by the host).
+  async headers() {
+    return [
+      {
+        source: "/:path*",
+        headers: [
+          {
+            key: "Strict-Transport-Security",
+            value: "max-age=63072000; includeSubDomains; preload",
+          },
+          { key: "X-Content-Type-Options", value: "nosniff" },
+          { key: "X-Frame-Options", value: "SAMEORIGIN" },
+          { key: "Referrer-Policy", value: "strict-origin-when-cross-origin" },
+          {
+            key: "Permissions-Policy",
+            value: "camera=(), microphone=(), geolocation=(self)",
+          },
+        ],
+      },
+    ];
+  },
 };
 
 export default nextConfig;

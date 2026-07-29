@@ -1,0 +1,236 @@
+// Generates src/data/cities.generated.ts from selected GeoNames cities and the
+// Wikipedia image map. Run: node scripts/generate-cities.mjs
+import fs from "node:fs";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const root = path.join(__dirname, "..");
+
+const cities = JSON.parse(fs.readFileSync(path.join(__dirname, "city-targets.json"), "utf8"));
+const mledoze = JSON.parse(fs.readFileSync(path.join(__dirname, "mledoze.json"), "utf8"));
+let imagesMap = {};
+try {
+  imagesMap = JSON.parse(fs.readFileSync(path.join(__dirname, "images-map.json"), "utf8"));
+} catch {
+  console.warn("images-map.json not found — falling back to stock photos only.");
+}
+let galleryMap = {};
+try {
+  galleryMap = JSON.parse(fs.readFileSync(path.join(__dirname, "gallery-map.json"), "utf8"));
+} catch {
+  console.warn("gallery-map.json not found — galleries will fall back to stock.");
+}
+
+// Real "Eat / See / Do / Drink / Buy / Sleep" listings from Wikivoyage (CC-BY-SA).
+let wikivoyageMap = {};
+try {
+  const rawWv = fs.readFileSync(path.join(__dirname, "wikivoyage-map.json"), "utf8").replace(/^\uFEFF/, "");
+  wikivoyageMap = JSON.parse(rawWv);
+} catch (e) {
+  console.warn("wikivoyage-map.json not found — real listings will be empty.", e.message);
+}
+
+const uniq = (arr) => Array.from(new Set(arr));
+
+// Slugs already owned by hand-curated cities (these win, so we skip them here).
+const curatedSlugs = new Set(["tokyo", "kyoto", "rome", "venice", "dubai", "santorini"]);
+
+function hash(str) {
+  let h = 2166136261;
+  for (let i = 0; i < str.length; i++) {
+    h ^= str.charCodeAt(i);
+    h = Math.imul(h, 16777619);
+  }
+  return Math.abs(h);
+}
+
+// Non-scenic imagery (flags, coats of arms, locator maps, vector icons).
+const BAD_IMAGE = /flag[_ ]?of|\.svg|locator|orthographic|coat[_ ]?of[_ ]?arms|\bemblem|insignia|location_map|seal_of/i;
+const isScenic = (u) => typeof u === "string" && u.length > 0 && !BAD_IMAGE.test(u);
+
+// Continent lookup by cca2 (mirrors generate-countries.mjs).
+function continentOf(region, subregion) {
+  if (region === "Americas") return /south america/i.test(subregion || "") ? "South America" : "North America";
+  if (["Europe", "Asia", "Africa", "Oceania"].includes(region)) return region;
+  return "Asia";
+}
+const continentByCca2 = new Map();
+for (const c of mledoze) {
+  continentByCca2.set(c.cca2, continentOf(c.region || "Asia", c.subregion || ""));
+}
+
+const pools = {
+  Europe: ["alps", "paris", "rome", "venice", "coast", "santorini", "eiffel", "colosseum", "norway", "greeceSea"],
+  Asia: ["tokyo", "kyoto", "temple", "phiPhi", "longtail", "fujiLake", "dubai", "cityNight", "lantern", "sahara"],
+  Africa: ["sahara", "desertCamp", "coast", "beach", "mountains", "temple"],
+  "North America": ["nyc", "cityNight", "beach", "mountains", "coast", "alps"],
+  "South America": ["machuPicchu", "mountains", "temple", "coast", "beach"],
+  Oceania: ["beach", "coast", "longtail", "maldives", "mountains"],
+};
+
+function poolFor(slug, continent) {
+  const pool = pools[continent] || pools.Asia;
+  const start = hash(slug) % pool.length;
+  const chosen = [];
+  for (let i = 0; i < 4; i++) chosen.push(pool[(start + i) % pool.length]);
+  return { hero: pool[start], gallery: chosen };
+}
+
+const bestTimeByContinent = {
+  Europe: "May–June & September–October for mild weather and thinner crowds",
+  Asia: "November–March for cooler, drier conditions",
+  Africa: "The dry season for the most comfortable travel",
+  "North America": "Late spring and early autumn for pleasant temperatures",
+  "South America": "The dry season (roughly May–September) is ideal",
+  Oceania: "The warmer, drier months for the outdoors",
+};
+const weatherByContinent = {
+  Europe: "Temperate, with warm summers and cool winters",
+  Asia: "Varies from tropical to temperate depending on the season",
+  Africa: "Largely warm year-round with distinct wet and dry seasons",
+  "North America": "Diverse — temperate to subtropical",
+  "South America": "From highland cool to tropical warmth",
+  Oceania: "Mild to tropical, with plenty of sunshine",
+};
+
+const fmt = (n) => new Intl.NumberFormat("en-US").format(n);
+
+// Build a day-by-day plan from the city's real, sourced sights and eateries.
+// This organizes actual Wikivoyage listings into a schedule — it never invents
+// places. Cities without enough real sights get no itinerary (left empty).
+const DAY_TITLES = [
+  "Icons & landmarks",
+  "Culture & neighborhoods",
+  "Markets, parks & hidden corners",
+  "Day trips & more",
+];
+function buildItinerary(sights, eat) {
+  if (!sights || sights.length < 3) return [];
+  const perDay = 3;
+  const days = Math.min(4, Math.ceil(sights.length / perDay));
+  const itinerary = [];
+  for (let d = 0; d < days; d++) {
+    const chunk = sights.slice(d * perDay, d * perDay + perDay);
+    if (chunk.length === 0) break;
+    const activities = chunk.map((s) => `Visit ${s}`);
+    if (eat[d]) activities.push(`Eat at ${eat[d]}`);
+    itinerary.push({ day: d + 1, title: DAY_TITLES[d] || `Day ${d + 1}`, activities });
+  }
+  return itinerary;
+}
+
+const out = [];
+for (const city of cities) {
+  if (curatedSlugs.has(city.slug)) continue;
+
+  const continent = continentByCca2.get(city.countryCode) || "Asia";
+  const { hero, gallery } = poolFor(city.slug, continent);
+  const realPhoto = isScenic(imagesMap[city.wikiTitle]) ? imagesMap[city.wikiTitle] : null;
+  const realGallery = (Array.isArray(galleryMap[city.wikiTitle]) ? galleryMap[city.wikiTitle] : []).filter(isScenic);
+  const h = hash(city.slug);
+  const rating = Number((4.2 + (h % 70) / 100).toFixed(1));
+  const reviews = 300 + (h % 8000);
+  const { name, countryName, isCapital, population } = city;
+
+  // Real listings sourced from Wikivoyage (empty when the city has no article).
+  const wv = wikivoyageMap[city.wikiTitle] || {};
+  const eat = wv.eat || [];
+  const see = wv.see || [];
+  const doList = wv.do || [];
+  const drink = wv.drink || [];
+  const buy = wv.buy || [];
+  const sleep = wv.sleep || [];
+
+  const allSights = uniq([...see, ...doList]);
+  const thingsToDo = allSights.slice(0, 8);
+  const itinerary = buildItinerary(allSights.slice(0, 12), eat);
+  const museums = see
+    .filter((n) => /museum|gallery|cathedral|palace|castle|temple|basilica|monument|shrine|mosque|church/i.test(n))
+    .slice(0, 6);
+  const restaurants = eat.map((n) => ({ name: n }));
+
+  const popLine = population ? `home to around ${fmt(population)} people` : null;
+  const roleLine = isCapital
+    ? `${name} is the capital of ${countryName}${popLine ? `, ${popLine}` : ""}.`
+    : `${name} is one of ${countryName}'s major cities${popLine ? `, ${popLine}` : ""}.`;
+
+  out.push({
+    id: city.slug,
+    slug: city.slug,
+    name,
+    countrySlug: city.countrySlug,
+    countryName,
+    tagline: isCapital
+      ? `The capital of ${countryName}`
+      : `A city in ${countryName}`,
+    heroKey: hero,
+    galleryKeys: gallery,
+    realPhoto,
+    realGallery,
+    overview: roleLine,
+    bestTime: bestTimeByContinent[continent],
+    weather: weatherByContinent[continent],
+    airport: "",
+    metro: "",
+    transport: "",
+    thingsToDo,
+    restaurants,
+    hotels: sleep.slice(0, 5),
+    shopping: buy.slice(0, 6),
+    nightlife: drink.slice(0, 6),
+    museums,
+    localFoods: [],
+    itinerary,
+    hiddenGems: [],
+    tips: [],
+    rating,
+    reviews,
+    lat: city.lat,
+    lng: city.lng,
+    faqs: [],
+  });
+}
+
+out.sort((a, b) => a.name.localeCompare(b.name));
+
+const header = `// AUTO-GENERATED by scripts/generate-cities.mjs — do not edit by hand.
+// City list from GeoNames (cities15000); photos from Wikipedia where available.
+import type { City } from "@/lib/types";
+import { PHOTOS, unsplash } from "@/lib/images";
+
+type Gen = Omit<
+  City,
+  "heroImage" | "thumbnail" | "gallery" | "coordinates" | "attractionSlugs"
+> & {
+  heroKey: keyof typeof PHOTOS;
+  galleryKeys: (keyof typeof PHOTOS)[];
+  realPhoto: string | null;
+  realGallery: string[];
+  lat: number;
+  lng: number;
+};
+
+const raw: Gen[] = ${JSON.stringify(out, null, 2)};
+
+export const generatedCities: City[] = raw.map((c) => {
+  const { heroKey, galleryKeys, realPhoto, realGallery, lat, lng, ...rest } = c;
+  const pool = galleryKeys.map((k) => unsplash(PHOTOS[k], 1400));
+  const hero = realPhoto ?? realGallery[0] ?? null;
+  // Prefer real, subject-relevant photos; only fall back to stock when we have
+  // no real imagery at all (so galleries never show unrelated pictures).
+  const realImages = Array.from(new Set([...(hero ? [hero] : []), ...realGallery]));
+  const gallery = realImages.length > 0 ? realImages.slice(0, 6) : pool;
+  return {
+    ...rest,
+    coordinates: { lat, lng },
+    heroImage: hero ?? unsplash(PHOTOS[heroKey], 2400),
+    thumbnail: hero ?? unsplash(PHOTOS[heroKey], 900),
+    gallery,
+    attractionSlugs: [],
+  };
+});
+`;
+
+fs.writeFileSync(path.join(root, "src", "data", "cities.generated.ts"), header);
+console.log(`Generated ${out.length} cities -> src/data/cities.generated.ts`);

@@ -1,0 +1,98 @@
+"use client";
+
+import * as React from "react";
+import { Wallet } from "lucide-react";
+
+/**
+ * A simple, honest trip-cost estimator: it multiplies the traveller's own
+ * inputs. It does not invent local prices — you enter your daily spend.
+ */
+export function BudgetCalculator() {
+  const [days, setDays] = React.useState(7);
+  const [travelers, setTravelers] = React.useState(2);
+  const [accommodation, setAccommodation] = React.useState(120);
+  const [food, setFood] = React.useState(40);
+  const [transport, setTransport] = React.useState(15);
+  const [activities, setActivities] = React.useState(25);
+  const [flights, setFlights] = React.useState(600);
+
+  const dailyPerPerson = food + transport + activities;
+  const lodgingTotal = accommodation * days; // per room/stay
+  const perPersonOnGround = dailyPerPerson * days;
+  const flightsTotal = flights * travelers;
+  const total = flightsTotal + lodgingTotal + perPersonOnGround * travelers;
+
+  const rows: [string, string, (v: number) => void, number][] = [
+    ["Flights (per person, round trip)", "flights", setFlights, flights],
+    ["Accommodation (per night)", "acc", setAccommodation, accommodation],
+    ["Food (per person / day)", "food", setFood, food],
+    ["Local transport (per person / day)", "trans", setTransport, transport],
+    ["Activities (per person / day)", "act", setActivities, activities],
+  ];
+
+  return (
+    <div className="rounded-3xl border border-border bg-card p-6 shadow-soft">
+      <div className="flex items-center gap-2.5">
+        <span className="grid size-9 place-items-center rounded-xl bg-emerald/10 text-emerald">
+          <Wallet className="size-4" />
+        </span>
+        <h3 className="font-display text-lg font-bold">Trip budget estimator</h3>
+      </div>
+
+      <div className="mt-4 grid grid-cols-2 gap-3">
+        <label className="text-sm">
+          <span className="text-muted-foreground">Days</span>
+          <input
+            type="number"
+            min={1}
+            value={days}
+            onChange={(e) => setDays(Math.max(1, parseInt(e.target.value) || 1))}
+            className="mt-1 w-full rounded-xl border border-border bg-background px-3 py-2 outline-none focus:border-primary"
+          />
+        </label>
+        <label className="text-sm">
+          <span className="text-muted-foreground">Travelers</span>
+          <input
+            type="number"
+            min={1}
+            value={travelers}
+            onChange={(e) => setTravelers(Math.max(1, parseInt(e.target.value) || 1))}
+            className="mt-1 w-full rounded-xl border border-border bg-background px-3 py-2 outline-none focus:border-primary"
+          />
+        </label>
+      </div>
+
+      <div className="mt-3 flex flex-col gap-2">
+        {rows.map(([label, key, setter, value]) => (
+          <label key={key} className="flex items-center justify-between gap-3 text-sm">
+            <span className="text-muted-foreground">{label}</span>
+            <div className="flex items-center gap-1">
+              <span className="text-muted-foreground">$</span>
+              <input
+                type="number"
+                min={0}
+                value={value}
+                onChange={(e) => setter(Math.max(0, parseInt(e.target.value) || 0))}
+                className="w-24 rounded-xl border border-border bg-background px-3 py-1.5 text-right outline-none focus:border-primary"
+              />
+            </div>
+          </label>
+        ))}
+      </div>
+
+      <div className="mt-4 rounded-2xl bg-muted/50 p-4">
+        <p className="text-sm text-muted-foreground">Estimated total (your figures)</p>
+        <p className="font-display text-3xl font-extrabold">
+          ${total.toLocaleString(undefined, { maximumFractionDigits: 0 })}
+        </p>
+        <p className="mt-1 text-xs text-muted-foreground">
+          ≈ ${Math.round(total / travelers).toLocaleString()} per person · $
+          {Math.round(total / days).toLocaleString()} per day
+        </p>
+      </div>
+      <p className="mt-2 text-[11px] text-muted-foreground">
+        This tool only multiplies the numbers you enter — no prices are assumed.
+      </p>
+    </div>
+  );
+}

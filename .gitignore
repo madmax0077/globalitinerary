@@ -32,9 +32,13 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+!.env.example
 
 # vercel
 .vercel
+
+# large raw data dumps used only for local data generation (not needed to build/run)
+/scripts/geo/
 
 # typescript
 *.tsbuildinfo

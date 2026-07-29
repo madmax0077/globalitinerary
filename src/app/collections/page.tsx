@@ -1,0 +1,28 @@
+import { PageHero } from "@/components/shared/page-hero";
+import { CollectionsGrid } from "@/components/home/collections-grid";
+import { buildMetadata } from "@/lib/seo";
+
+export const revalidate = 86400;
+
+export const metadata = buildMetadata({
+  title: "Travel Collections",
+  description:
+    "Curated travel collections — luxury escapes, beach paradises, mountain adventures, food journeys and more. Travel by mood.",
+  path: "/collections",
+});
+
+export default function CollectionsPage() {
+  return (
+    <>
+      <PageHero
+        eyebrow="Collections"
+        title="Travel by mood, not just map"
+        description="Hand-picked themes that match exactly how you want to explore the world."
+        breadcrumbs={[{ name: "Collections", href: "/collections" }]}
+      />
+      <div className="container-lux py-12">
+        <CollectionsGrid />
+      </div>
+    </>
+  );
+}

@@ -1,0 +1,13 @@
+# Netlify configuration for the Global Itinerary Next.js app.
+# The official Next.js runtime handles SSR, ISR, API routes and the edge
+# OG image automatically. SSL is provisioned by Netlify once the domain
+# is connected — nothing to configure here.
+
+[build]
+  command = "npm run build"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
