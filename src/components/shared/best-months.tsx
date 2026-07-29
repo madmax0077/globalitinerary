@@ -39,8 +39,8 @@ export function BestMonths({ bestTime }: { bestTime: string }) {
       <div className="flex flex-wrap items-center justify-between gap-2">
         <h3 className="font-display text-lg font-bold">Best time to visit</h3>
         <span className="inline-flex items-center gap-1.5 text-xs font-medium text-muted-foreground">
-          <span className="size-2.5 rounded-full bg-gradient-to-r from-primary to-sky" />
-          Ideal months
+          <span className="size-2.5 rounded-full bg-gradient-to-r from-emerald-300 to-emerald-500" />
+          Good months to visit
         </span>
       </div>
 
@@ -53,7 +53,7 @@ export function BestMonths({ bestTime }: { bestTime: string }) {
                 className={cn(
                   "h-9 w-full rounded-lg transition-colors",
                   hi
-                    ? "bg-gradient-to-b from-primary to-sky shadow-glow"
+                    ? "bg-gradient-to-b from-emerald-300 to-emerald-500 shadow-glow"
                     : "bg-muted"
                 )}
               />
