@@ -8,7 +8,10 @@ import { Reveal } from "@/components/ui/reveal";
 import { Button } from "@/components/ui/button";
 import { BudgetCalculator } from "@/components/tools/budget-calculator";
 import { PackingChecklist, PreTripChecklist } from "@/components/tools/checklist";
+import { DestinationFinder, type FinderCountry } from "@/components/tools/destination-finder";
+import { DistanceCalculator, type DistanceCity } from "@/components/tools/distance-calculator";
 import { countries } from "@/data/countries";
+import { cities } from "@/data/cities";
 import { buildMetadata } from "@/lib/seo";
 
 export const metadata = buildMetadata({
@@ -26,6 +29,27 @@ const steps = [
 ];
 
 export default function PlannerPage() {
+  const finderCountries: FinderCountry[] = countries.map((c) => ({
+    slug: c.slug,
+    name: c.name,
+    flag: c.flag,
+    thumbnail: c.thumbnail || c.heroImage,
+    continent: c.continent,
+    region: c.region,
+    budgetPerDay: c.budgetPerDay,
+    bestTime: c.bestTime,
+    tags: c.tags,
+    tagline: c.tagline,
+  }));
+
+  const distanceCities: DistanceCity[] = cities.map((c) => ({
+    slug: c.slug,
+    name: c.name,
+    country: c.countryName,
+    lat: c.coordinates.lat,
+    lng: c.coordinates.lng,
+  }));
+
   return (
     <>
       <PageHero
@@ -57,11 +81,25 @@ export default function PlannerPage() {
         </div>
 
         <div className="mt-16">
+          <SectionHeading
+            eyebrow="Not sure where to go?"
+            title="Find your next destination"
+            description="Filter every country by region, budget, the month you want to travel and what you love to do."
+          />
+          <div className="mt-8">
+            <DestinationFinder countries={finderCountries} />
+          </div>
+        </div>
+
+        <div className="mt-16">
           <SectionHeading eyebrow="Trip tools" title="Plan the practical details" />
           <div className="mt-8 grid gap-6 lg:grid-cols-3">
             <BudgetCalculator />
             <PreTripChecklist />
             <PackingChecklist />
+          </div>
+          <div className="mt-6">
+            <DistanceCalculator cities={distanceCities} />
           </div>
         </div>
 

@@ -15,9 +15,11 @@ import {
   Gem,
   Lightbulb,
   Check,
+  Gift,
 } from "lucide-react";
 import { getCity, getPrerenderedCitySlugs, cities } from "@/data/cities";
 import { getAttractionsByCity } from "@/data/attractions";
+import { getFreeThings } from "@/lib/free-things";
 import { getCountry } from "@/data/countries";
 import { Breadcrumbs } from "@/components/shared/breadcrumbs";
 import { DestinationCard } from "@/components/shared/destination-card";
@@ -123,6 +125,7 @@ export default async function CityPage({
 
   const country = getCountry(city.countrySlug);
   const cityAttractions = getAttractionsByCity(city.slug);
+  const freeThings = getFreeThings(city, cityAttractions);
 
   // Day trips = nearest cities within the same country (by real coordinates).
   const dayTrips = cities
@@ -248,6 +251,34 @@ export default async function CityPage({
               ))}
             </div>
           </div>
+          )}
+
+          {/* Free things to do */}
+          {freeThings.length >= 2 && (
+            <div>
+              <SectionHeading
+                eyebrow="Budget travel"
+                title={`Free things to do in ${city.name}`}
+              />
+              <div className="mt-8 grid gap-4 sm:grid-cols-2">
+                {freeThings.map((thing, i) => (
+                  <Reveal
+                    key={thing}
+                    delay={i * 0.05}
+                    className="flex items-start gap-3 rounded-2xl border border-emerald-500/20 bg-emerald-500/5 p-4 shadow-soft"
+                  >
+                    <span className="grid size-8 shrink-0 place-items-center rounded-full bg-emerald-500/15 text-emerald-600 dark:text-emerald-400">
+                      <Gift className="size-4" />
+                    </span>
+                    <p className="text-sm font-medium">{thing}</p>
+                  </Reveal>
+                ))}
+              </div>
+              <p className="mt-3 text-sm text-muted-foreground">
+                Mostly free or pay-what-you-like — always double-check opening times and
+                any seasonal fees before you go.
+              </p>
+            </div>
           )}
 
           {/* Itinerary */}

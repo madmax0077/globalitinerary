@@ -76,6 +76,15 @@ export function MobileNav() {
                     {item.label}
                   </Link>
                 ))}
+                <Link
+                  href="/favorites"
+                  className={cn(
+                    "rounded-2xl px-4 py-3 text-lg font-semibold transition-colors hover:bg-muted",
+                    pathname === "/favorites" && "text-primary"
+                  )}
+                >
+                  Saved places
+                </Link>
               </nav>
 
               <div>

@@ -5,7 +5,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { usePathname } from "next/navigation";
 import { AnimatePresence, motion } from "framer-motion";
-import { ChevronDown, Globe2, Sparkles } from "lucide-react";
+import { ChevronDown, Globe2, Sparkles, Heart } from "lucide-react";
 import { Logo } from "@/components/layout/logo";
 import { ThemeToggle } from "@/components/layout/theme-toggle";
 import { SearchTrigger, SearchIconButton } from "@/components/search/search-trigger";
@@ -94,6 +94,16 @@ export function Navbar() {
 
           <div className="ml-auto flex items-center gap-2 md:ml-0">
             <SearchIconButton className="md:hidden" />
+            <Link
+              href="/favorites"
+              aria-label="Saved places"
+              className={cn(
+                "grid size-9 place-items-center rounded-full transition-colors hover:bg-muted",
+                pathname === "/favorites" && "text-primary"
+              )}
+            >
+              <Heart className="size-[18px]" />
+            </Link>
             <ThemeToggle />
             <Button asChild variant="gradient" size="sm" className="hidden sm:inline-flex">
               <Link href="/planner">

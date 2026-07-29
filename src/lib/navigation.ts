@@ -34,6 +34,7 @@ export const megaMenu = {
 export const primaryNav = [
   { label: "Destinations", href: "/countries", hasMega: true },
   { label: "Cities", href: "/cities" },
+  { label: "Compare", href: "/compare" },
   { label: "Collections", href: "/collections" },
   { label: "Guides", href: "/blog" },
   { label: "Map", href: "/map" },
@@ -54,6 +55,8 @@ export const footerNav = {
   ],
   Resources: [
     { label: "Trip Planner", href: "/planner" },
+    { label: "Compare Destinations", href: "/compare" },
+    { label: "Saved Places", href: "/favorites" },
     { label: "Interactive Map", href: "/map" },
     { label: "Newsletter", href: "/#newsletter" },
   ],
