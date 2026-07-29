@@ -66,11 +66,19 @@ export async function generateMetadata({
   const city = getCity(slug);
   if (!city) return {};
   return buildMetadata({
-    title: `${city.name} Travel Guide`,
-    description: `${city.tagline}. ${city.overview.slice(0, 140)}`,
+    title: `Things to Do in ${city.name} — Travel Guide & Itinerary`,
+    description: `The best things to do in ${city.name}: top attractions, a day-by-day itinerary, where to stay, best time to visit, local food and free things to do.`,
     path: `/cities/${city.slug}`,
     image: city.heroImage,
-    keywords: [city.name, `${city.name} travel`, `things to do in ${city.name}`],
+    keywords: [
+      `things to do in ${city.name}`,
+      `${city.name} travel guide`,
+      `${city.name} itinerary`,
+      `best time to visit ${city.name}`,
+      `where to stay in ${city.name}`,
+      `free things to do in ${city.name}`,
+      `visit ${city.name}`,
+    ],
   });
 }
 

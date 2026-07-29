@@ -17,6 +17,14 @@ import { countries } from "@/data/countries";
 import { cities } from "@/data/cities";
 import { attractions } from "@/data/attractions";
 import { articles } from "@/data/content";
+import { buildMetadata } from "@/lib/seo";
+
+export const metadata = buildMetadata({
+  title: "Travel Guides, Itineraries & Things to Do Worldwide",
+  description:
+    "Free travel guides to every country and city: things to do, the best time to visit, day-by-day itineraries, where to stay, budgets, maps and trip-planning tools.",
+  path: "/",
+});
 
 export const revalidate = 3600;
 

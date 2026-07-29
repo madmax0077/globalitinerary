@@ -97,11 +97,19 @@ export async function generateMetadata({
   const country = getCountry(slug);
   if (!country) return {};
   return buildMetadata({
-    title: `${country.name} Travel Guide`,
-    description: `${country.tagline}. ${country.overview.slice(0, 140)}`,
+    title: `${country.name} Travel Guide — Things to Do & Best Time to Visit`,
+    description: `Plan your trip to ${country.name}: top things to do, the best time to visit, sample itineraries, where to stay, visa & entry rules, budget and local travel tips.`,
     path: `/countries/${country.slug}`,
     image: country.heroImage,
-    keywords: [country.name, `${country.name} travel`, ...country.tags],
+    keywords: [
+      `${country.name} travel guide`,
+      `things to do in ${country.name}`,
+      `best time to visit ${country.name}`,
+      `${country.name} itinerary`,
+      `${country.name} travel tips`,
+      `visit ${country.name}`,
+      ...country.tags,
+    ],
   });
 }
 

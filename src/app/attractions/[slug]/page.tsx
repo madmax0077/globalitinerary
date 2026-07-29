@@ -47,11 +47,18 @@ export async function generateMetadata({
   const attraction = getAttraction(slug);
   if (!attraction) return {};
   return buildMetadata({
-    title: `${attraction.name} — Visitor Guide`,
-    description: `${attraction.tagline}. ${attraction.description.slice(0, 140)}`,
+    title: `${attraction.name} — Visitor Guide, Tickets & Tips`,
+    description: `${attraction.name} visitor guide: how to visit, tickets, opening hours, best time to go, photography tips and nearby attractions. ${attraction.tagline}.`,
     path: `/attractions/${attraction.slug}`,
     image: attraction.heroImage,
-    keywords: [attraction.name, attraction.category, `visit ${attraction.name}`],
+    keywords: [
+      attraction.name,
+      `visit ${attraction.name}`,
+      `${attraction.name} tickets`,
+      `${attraction.name} opening hours`,
+      `things to do near ${attraction.name}`,
+      attraction.category,
+    ],
   });
 }
 
