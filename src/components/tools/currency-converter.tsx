@@ -3,6 +3,53 @@
 import * as React from "react";
 import { ArrowRightLeft } from "lucide-react";
 
+// All world currency codes supported by open.er-api.com (ISO 4217).
+const CURRENCY_CODES = [
+  "AED", "AFN", "ALL", "AMD", "ANG", "AOA", "ARS", "AUD", "AWG", "AZN",
+  "BAM", "BBD", "BDT", "BGN", "BHD", "BIF", "BMD", "BND", "BOB", "BRL",
+  "BSD", "BTN", "BWP", "BYN", "BZD", "CAD", "CDF", "CHF", "CLP", "CNY",
+  "COP", "CRC", "CUP", "CVE", "CZK", "DJF", "DKK", "DOP", "DZD", "EGP",
+  "ERN", "ETB", "EUR", "FJD", "FKP", "FOK", "GBP", "GEL", "GGP", "GHS",
+  "GIP", "GMD", "GNF", "GTQ", "GYD", "HKD", "HNL", "HRK", "HTG", "HUF",
+  "IDR", "ILS", "IMP", "INR", "IQD", "IRR", "ISK", "JEP", "JMD", "JOD",
+  "JPY", "KES", "KGS", "KHR", "KID", "KMF", "KRW", "KWD", "KYD", "KZT",
+  "LAK", "LBP", "LKR", "LRD", "LSL", "LYD", "MAD", "MDL", "MGA", "MKD",
+  "MMK", "MNT", "MOP", "MRU", "MUR", "MVR", "MWK", "MXN", "MYR", "MZN",
+  "NAD", "NGN", "NIO", "NOK", "NPR", "NZD", "OMR", "PAB", "PEN", "PGK",
+  "PHP", "PKR", "PLN", "PYG", "QAR", "RON", "RSD", "RUB", "RWF", "SAR",
+  "SBD", "SCR", "SDG", "SEK", "SGD", "SHP", "SLE", "SLL", "SOS", "SRD",
+  "SSP", "STN", "SYP", "SZL", "THB", "TJS", "TMT", "TND", "TOP", "TRY",
+  "TTD", "TVD", "TWD", "TZS", "UAH", "UGX", "USD", "UYU", "UZS", "VES",
+  "VND", "VUV", "WST", "XAF", "XCD", "XDR", "XOF", "XPF", "YER", "ZAR",
+  "ZMW", "ZWL",
+];
+
+/** Builds `[code, "CODE — Currency Name"]` pairs, sorted by code. */
+function useCurrencyOptions(extra?: string) {
+  return React.useMemo(() => {
+    let names: Intl.DisplayNames | null = null;
+    try {
+      names = new Intl.DisplayNames(["en"], { type: "currency" });
+    } catch {
+      names = null;
+    }
+    const codes = new Set(CURRENCY_CODES);
+    if (extra) codes.add(extra.toUpperCase());
+    return Array.from(codes)
+      .sort()
+      .map((code) => {
+        let label = code;
+        try {
+          const name = names?.of(code);
+          if (name && name !== code) label = `${code} — ${name}`;
+        } catch {
+          /* keep code as label */
+        }
+        return { code, label };
+      });
+  }, [extra]);
+}
+
 /**
  * Live currency converter using the free, no-key Open Exchange Rates API
  * (open.er-api.com). Rates are real and fetched client-side at runtime.
@@ -15,6 +62,7 @@ export function CurrencyConverter({
   countryCurrencyName?: string;
 }) {
   const target = (countryCurrency || "EUR").toUpperCase();
+  const options = useCurrencyOptions(target);
   const [base, setBase] = React.useState("USD");
   const [amount, setAmount] = React.useState("100");
   const [rate, setRate] = React.useState<number | null>(null);
@@ -68,12 +116,12 @@ export function CurrencyConverter({
           <select
             value={base}
             onChange={(e) => setBase(e.target.value)}
-            className="rounded-xl border border-border bg-background px-3 py-2 text-sm outline-none focus:border-primary"
+            className="max-w-[9rem] rounded-xl border border-border bg-background px-3 py-2 text-sm outline-none focus:border-primary"
             aria-label="From currency"
           >
-            {["USD", "EUR", "GBP", "JPY", "AUD", "CAD", "CHF", "CNY", "INR"].map((c) => (
-              <option key={c} value={c}>
-                {c}
+            {options.map((o) => (
+              <option key={o.code} value={o.code}>
+                {o.label}
               </option>
             ))}
           </select>
