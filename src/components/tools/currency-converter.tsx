@@ -2,6 +2,7 @@
 
 import * as React from "react";
 import { ArrowRightLeft } from "lucide-react";
+import { formatMoney, currencySymbol } from "@/lib/currency";
 
 // All world currency codes supported by open.er-api.com (ISO 4217).
 const CURRENCY_CODES = [
@@ -139,11 +140,11 @@ export function CurrencyConverter({
           {status === "ok" && converted !== null && (
             <>
               <p className="text-2xl font-bold">
-                {converted.toLocaleString(undefined, { maximumFractionDigits: 2 })}{" "}
+                {formatMoney(converted, target, { maximumFractionDigits: 2 })}{" "}
                 <span className="text-base font-semibold text-muted-foreground">{target}</span>
               </p>
               <p className="mt-1 text-xs text-muted-foreground">
-                1 {base} = {rate?.toLocaleString(undefined, { maximumFractionDigits: 4 })} {target}
+                {currencySymbol(base)}1 {base} = {formatMoney(rate ?? 0, target, { maximumFractionDigits: 4 })} {target}
                 {countryCurrencyName ? ` · ${countryCurrencyName}` : ""}
               </p>
             </>

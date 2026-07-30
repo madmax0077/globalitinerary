@@ -46,6 +46,7 @@ import {
   JsonLd,
 } from "@/lib/seo";
 import { formatNumber } from "@/lib/utils";
+import { currencySymbol } from "@/lib/currency";
 import type { City } from "@/lib/types";
 
 function haversine(a: { lat: number; lng: number }, b: { lat: number; lng: number }) {
@@ -141,7 +142,11 @@ export default async function CountryPage({
   const facts = [
     { icon: MapPin, label: "Capital", value: country.capital },
     { icon: Users, label: "Population", value: formatNumber(country.population) },
-    { icon: Banknote, label: "Currency", value: `${country.currency} (${country.currencyCode})` },
+    {
+      icon: Banknote,
+      label: "Currency",
+      value: `${currencySymbol(country.currencyCode)} · ${country.currency} (${country.currencyCode})`,
+    },
     { icon: Languages, label: "Languages", value: country.languages.join(", ") },
     { icon: Clock3, label: "Timezone", value: country.timezone },
     { icon: Globe, label: "Calling code", value: country.callingCode },

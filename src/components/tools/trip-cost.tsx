@@ -3,6 +3,7 @@
 import * as React from "react";
 import { Wallet } from "lucide-react";
 import { cn } from "@/lib/utils";
+import { formatMoney } from "@/lib/currency";
 
 export type CostCountry = {
   slug: string;
@@ -73,11 +74,10 @@ export function TripCostEstimator({ countries }: { countries: CostCountry[] }) {
     };
   }, [country?.currencyCode]);
 
-  const fmtUsd = (n: number) =>
-    n.toLocaleString("en-US", { style: "currency", currency: "USD", maximumFractionDigits: 0 });
+  const fmtUsd = (n: number) => formatMoney(n, "USD");
   const local =
     rate && country && country.currencyCode !== "USD"
-      ? (totalUsd * rate).toLocaleString("en-US", { maximumFractionDigits: 0 })
+      ? formatMoney(totalUsd * rate, country.currencyCode)
       : null;
 
   return (

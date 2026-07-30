@@ -29,6 +29,7 @@ export default function ComparePage() {
     region: c.region,
     continent: c.continent,
     currency: c.currency,
+    currencyCode: c.currencyCode,
     languages: c.languages,
     bestTime: c.bestTime,
     weather: c.weather,

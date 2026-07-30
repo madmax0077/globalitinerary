@@ -5,6 +5,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { ArrowRightLeft, ArrowUpRight } from "lucide-react";
 import { formatNumber } from "@/lib/utils";
+import { currencySymbol } from "@/lib/currency";
 
 export type CompareCountry = {
   slug: string;
@@ -14,6 +15,7 @@ export type CompareCountry = {
   region: string;
   continent: string;
   currency: string;
+  currencyCode: string;
   languages: string[];
   bestTime: string;
   weather: string;
@@ -33,7 +35,13 @@ const ROWS: { label: string; get: (c: CompareCountry) => string }[] = [
   { label: "Region", get: (c) => c.region || c.continent },
   { label: "Best time to visit", get: (c) => c.bestTime },
   { label: "Budget / day", get: (c) => c.budgetPerDay },
-  { label: "Currency", get: (c) => c.currency },
+  {
+    label: "Currency",
+    get: (c) =>
+      c.currencyCode
+        ? `${currencySymbol(c.currencyCode)} · ${c.currency} (${c.currencyCode})`
+        : c.currency,
+  },
   { label: "Languages", get: (c) => c.languages.join(", ") },
   { label: "Visa", get: (c) => c.visa },
   { label: "Safety", get: (c) => c.safety },
