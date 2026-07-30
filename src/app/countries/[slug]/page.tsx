@@ -31,6 +31,7 @@ import { Badge } from "@/components/ui/badge";
 import { Reveal } from "@/components/ui/reveal";
 import { SectionHeading } from "@/components/shared/section-heading";
 import { KnowBeforeYouGo } from "@/components/shared/know-before";
+import { GettingAround } from "@/components/shared/getting-around";
 import { PracticalFacts } from "@/components/shared/practical-facts";
 import { BestMonths } from "@/components/shared/best-months";
 import { ClimateChart } from "@/components/tools/climate-chart";
@@ -277,6 +278,13 @@ export default async function CountryPage({
 
           {/* Know before you go (real Wikivoyage guidance) */}
           {info && <KnowBeforeYouGo info={info} countryName={country.name} />}
+
+          {/* Getting around: cheapest ride apps + SIM/eSIM for foreigners */}
+          <GettingAround
+            iso2={country.id}
+            continent={country.continent}
+            countryName={country.name}
+          />
 
           {/* Suggested route */}
           {route.length >= 2 && (
