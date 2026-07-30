@@ -11,7 +11,7 @@ import {
 } from "lucide-react";
 import type { CountryInfo } from "@/data/country-info.generated";
 import { SectionHeading } from "@/components/shared/section-heading";
-import { parseWikiSections } from "@/lib/wikitext";
+import { parseWikiSections, extractPhoneList } from "@/lib/wikitext";
 
 const FIELDS: { key: keyof CountryInfo; label: string; icon: React.ElementType }[] = [
   { key: "getIn", label: "Getting in & visas", icon: Plane },
@@ -51,16 +51,39 @@ export function KnowBeforeYouGo({
               <h3 className="font-display text-base font-bold">{f.label}</h3>
             </div>
             <div className="mt-3 flex flex-col gap-2.5">
-              {parseWikiSections(String(info[f.key])).map((sec, i) => (
-                <div key={i}>
-                  {sec.heading && (
-                    <p className="text-sm font-semibold text-foreground">{sec.heading}</p>
-                  )}
-                  {sec.body && (
-                    <p className="text-sm leading-relaxed text-muted-foreground">{sec.body}</p>
-                  )}
-                </div>
-              ))}
+              {parseWikiSections(String(info[f.key])).map((sec, i) => {
+                const phones = sec.body ? extractPhoneList(sec.body) : null;
+                return (
+                  <div key={i}>
+                    {sec.heading && (
+                      <p className="text-sm font-semibold text-foreground">{sec.heading}</p>
+                    )}
+                    {phones ? (
+                      <div className="flex flex-col gap-1.5">
+                        {phones.intro && (
+                          <p className="text-sm leading-relaxed text-muted-foreground">
+                            {phones.intro}:
+                          </p>
+                        )}
+                        <ul className="flex flex-col gap-1.5">
+                          {phones.items.map((p, j) => (
+                            <li key={j} className="flex items-baseline gap-2.5 text-sm">
+                              <span className="min-w-[3.25rem] shrink-0 rounded-md bg-primary/10 px-2 py-0.5 text-center font-semibold tabular-nums text-primary">
+                                {p.number}
+                              </span>
+                              <span className="text-muted-foreground">{p.label}</span>
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    ) : (
+                      sec.body && (
+                        <p className="text-sm leading-relaxed text-muted-foreground">{sec.body}</p>
+                      )
+                    )}
+                  </div>
+                );
+              })}
             </div>
           </div>
         ))}
