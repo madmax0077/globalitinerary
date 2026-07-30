@@ -2,6 +2,7 @@ import type { City, Stay } from "@/lib/types";
 import { PHOTOS, unsplash } from "@/lib/images";
 import { generatedCities } from "@/data/cities.generated";
 import { cityPicks } from "@/data/city-picks";
+import { citySights } from "@/data/city-sights";
 
 /** Prefer curated local-favourite eats + tourist-favourite stays when available. */
 function applyCityPicks(city: City): City {
@@ -19,6 +20,31 @@ function applyCityPicks(city: City): City {
       ? city.stays
       : (city.hotels || []).map((name) => ({ name }));
   return { ...city, stays };
+}
+
+function itineraryFromSights(sights: string[]) {
+  const titles = ["Icons & landmarks", "Culture & neighborhoods", "More highlights", "Day trips & more"];
+  const days = Math.min(4, Math.ceil(sights.length / 3));
+  return Array.from({ length: days }, (_, d) => ({
+    day: d + 1,
+    title: titles[d] || `Day ${d + 1}`,
+    activities: sights.slice(d * 3, d * 3 + 3).map((s) => `Visit ${s}`),
+  }));
+}
+
+/** Prefer curated famous landmarks over polluted Wikivoyage see/do lists. */
+function applyCitySights(city: City): City {
+  const sights = citySights[city.slug];
+  if (!sights || sights.length === 0) return city;
+  // Keep hand-written itineraries (Bali etc.); rebuild auto "Visit …" ones.
+  const handWritten = city.itinerary?.some((d) =>
+    d.activities?.some((a) => !/^Visit\s/i.test(a)),
+  );
+  return {
+    ...city,
+    thingsToDo: sights,
+    itinerary: handWritten ? city.itinerary! : itineraryFromSights(sights),
+  };
 }
 
 const curatedCities: City[] = [
@@ -341,12 +367,18 @@ const curatedCities: City[] = [
     metro: "No metro — scooters, private drivers, Grab/Gojek and tourist shuttles",
     transport: "Rent a scooter if confident, or hire a driver by the day for temples and day trips",
     thingsToDo: [
+      "Gates of Heaven at Pura Lempuyang (Mount Agung backdrop)",
       "Watch the kecak fire dance at Uluwatu Temple at sunset",
       "Walk the Tegallalang rice terraces near Ubud",
+      "Sacred Monkey Forest Sanctuary in Ubud",
+      "Tirta Empul holy spring temple",
       "Visit cliffside Tanah Lot at golden hour",
       "Day-trip to Nusa Penida's cliffs and snorkel spots",
+      "Mount Batur sunrise trek",
       "Surf or swim along Seminyak and Canggu beaches",
       "See Pura Ulun Danu Bratan on Lake Bratan in the highlands",
+      "Jatiluwih UNESCO rice terraces",
+      "Tirta Gangga water palace",
     ],
     restaurants: [
       { name: "Nasi Ayam Kedewatan Ibu Mangku", cuisine: "Balinese", priceLevel: 1, note: "Ubud legend for spicy chicken rice since the 1960s" },
@@ -374,10 +406,15 @@ const curatedCities: City[] = [
       {
         day: 2,
         title: "Ubud culture",
-        activities: ["Tegallalang rice terraces", "Ubud Palace & Art Market", "Sacred Monkey Forest", "Warung dinner"],
+        activities: ["Tegallalang rice terraces", "Sacred Monkey Forest", "Tirta Empul", "Warung dinner"],
       },
       {
         day: 3,
+        title: "East Bali icons",
+        activities: ["Gates of Heaven at Pura Lempuyang", "Tirta Gangga water palace", "Optional Mount Batur sunrise"],
+      },
+      {
+        day: 4,
         title: "Highlands or island day",
         activities: ["Pura Ulun Danu Bratan / Jatiluwih terraces", "or Nusa Penida boat day trip"],
       },
@@ -420,6 +457,7 @@ export const cities: City[] = [
   ...generatedCities.filter((c) => !curatedSlugs.has(c.slug)),
 ]
   .map(applyCityPicks)
+  .map(applyCitySights)
   .sort((a, b) => a.name.localeCompare(b.name));
 
 export function getCity(slug: string) {

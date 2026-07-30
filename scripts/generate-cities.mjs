@@ -164,11 +164,28 @@ for (const city of cities) {
     ...sleepList.filter((s) => !BUDGET_SLEEP.test(s.name) && !HOTELISH.test(s.name)),
   ].slice(0, 5);
 
-  const allSights = uniq([...see, ...doList]);
+  // Drop junk Wikivoyage see/do: universities, city passes, tour operators,
+  // district wiki anchors (e.g. "Paris/7th arrondissement#Q243").
+  const sightName = (x) => (typeof x === "string" ? x : x && x.name ? x.name : "");
+  const JUNK_SIGHT =
+    /university|college|campus|institute|school\b|administration|\bpass\b|city.?card|\bticket\b|hop[- ]?on|\btours?\b|biking|bicycle|scooter|rental|bus\s*tur|segway|cruise|boat(?:y|s|\b)|yacht|charter|festival|concert|comedy|jazz|rock\s*in|moda\s|culinary|cordon\s*bleu|foodist|cuisine\s|cooking|cyclones|#|\/\d|arrondissement|district#|wikipedia|wikivoyage|go\s*city|omnitour|big\s*bus|adventures?|spice.?road|grasshopper|follow\s*me|company\b|private\s*boat|rent\s*a\s*boat|sloep|lovers\s*company|canal\s*company|wine\s*boat|steam\s*boats|evd\b|sonar\b|monegros|festes|indie|peixe\em|dias\s*da|santos\b|ultraschall|berlinale|maerzmusik|stern\s*und|werder/i;
+  const LANDMARKISH =
+    /temple|palace|castle|cathedral|basilica|mosque|church|shrine|museum|gallery|monument|tower|bridge|fort\b|park|garden|market|square|plaza|beach|island|pyramid|ruins?|old\s*town|historic|waterfall|lake|mountain|viewpoint|statue|memorial|zoo|aquarium|opera|pagoda|stupa|citadel|medina|souks?|harbour|harbor|waterfront|promenade|necropolis|observatory|acropolis|colosseum|pyramid|tomb|mausoleum|mosque|synagogue|chapel|abbey|monastery|wall\b|gate\b|fountain|pier\b|wharf|quay|bund\b|medina/i;
+  const cleanSights = uniq(
+    [...see, ...doList]
+      .map(sightName)
+      .map((n) => n.trim())
+      .filter((n) => n.length >= 3 && n.length <= 80)
+      .filter((n) => !JUNK_SIGHT.test(n))
+      .filter((n) => !/[\/#]/.test(n)),
+  );
+  // Prefer landmark-like names; leave empty rather than listing tour operators.
+  const landmarkSights = cleanSights.filter((n) => LANDMARKISH.test(n));
+  const allSights = (landmarkSights.length >= 2 ? landmarkSights : []).slice(0, 12);
   const thingsToDo = allSights.slice(0, 8);
   const eatNames = localEats.map((e) => e.name);
-  const itinerary = buildItinerary(allSights.slice(0, 12), eatNames);
-  const museums = see
+  const itinerary = buildItinerary(allSights, eatNames);
+  const museums = cleanSights
     .filter((n) => /museum|gallery|cathedral|palace|castle|temple|basilica|monument|shrine|mosque|church/i.test(n))
     .slice(0, 6);
   const restaurants = localEats.map((e) => ({

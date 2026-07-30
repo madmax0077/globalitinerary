@@ -88,14 +88,10 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Aalborg Akvavit",
       "Aalborghus Castle",
       "Aalborg Tower",
-      "Aalborg Townhall",
       "Aalborg Zoo",
-      "Budolfi Church",
-      "Jens Bangs Stenhus",
-      "Jørgen Olufsens House"
+      "Budolfi Church"
     ],
     "restaurants": [
       {
@@ -176,9 +172,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Aalborg Akvavit",
           "Visit Aalborghus Castle",
           "Visit Aalborg Tower",
+          "Visit Aalborg Zoo",
           "Eat at Fontænen"
         ]
       },
@@ -186,30 +182,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Aalborg Townhall",
-          "Visit Aalborg Zoo",
           "Visit Budolfi Church",
           "Eat at 1000fryd"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Jens Bangs Stenhus",
-          "Visit Jørgen Olufsens House",
-          "Visit Casino Aalborg",
-          "Eat at Husets Café"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Ice-skating",
-          "Visit Open Swimming Pool",
-          "Visit Nordkraft",
-          "Eat at Café Friends"
         ]
       }
     ],
@@ -312,7 +286,6 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "St. Paul's Cathedral",
-      "National Library of Côte d'Ivoire",
       "Banco National Park",
       "Museum of Civilizations in Côte d'Ivoire",
       "Adama-Toungara Museum of Contemporary Cultures",
@@ -373,8 +346,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit St. Paul's Cathedral",
-          "Visit National Library of Côte d'Ivoire",
           "Visit Banco National Park",
+          "Visit Museum of Civilizations in Côte d'Ivoire",
           "Eat at Restaurant des Combattants"
         ]
       },
@@ -382,7 +355,6 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Museum of Civilizations in Côte d'Ivoire",
           "Visit Adama-Toungara Museum of Contemporary Cultures",
           "Visit Cocody Municipal Museum of Contemporary Art",
           "Eat at Chez Georges Hollywood"
@@ -464,9 +436,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Musée Historique d'Abomey"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -560,13 +530,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Sheikh Zayed Grand Mosque",
-      "Qasr Al Watan",
-      "Qasr al-Hosn",
-      "Corniche Road",
-      "Yas Island",
-      "UAE flag pole",
-      "Louvre Abu Dhabi",
-      "Masdar City"
+      "Yas Island"
     ],
     "restaurants": [
       {
@@ -641,48 +605,7 @@ const raw: Gen[] = [
       "Sheikh Zayed Grand Mosque"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Sheikh Zayed Grand Mosque",
-          "Visit Qasr Al Watan",
-          "Visit Qasr al-Hosn",
-          "Eat at Fish Market"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Corniche Road",
-          "Visit Yas Island",
-          "Visit UAE flag pole",
-          "Eat at Liwan Mansour Restaurant & Grill - AlKhalidiya"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Louvre Abu Dhabi",
-          "Visit Masdar City",
-          "Visit Lessons",
-          "Eat at The Resto Pinoy, Al Khalidiyah Branch"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Desert safari",
-          "Visit Shopping",
-          "Visit Helicopter Tour",
-          "Eat at Ghalib Restaurant"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -720,14 +643,14 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Aso Rock",
       "Millennium Tower",
       "National Mosque",
       "National Church of Nigeria",
-      "National Assembly Complex",
       "Millennium Park",
-      "Sarius Planetum",
-      "Tobix Recreational Park and Garden"
+      "Tobix Recreational Park and Garden",
+      "Jabi Lake (Jabi Recreational Park)",
+      "National Children's Park and Zoo Abuja",
+      "Magic Land Amusement Park"
     ],
     "restaurants": [
       {
@@ -803,9 +726,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Aso Rock",
           "Visit Millennium Tower",
           "Visit National Mosque",
+          "Visit National Church of Nigeria",
           "Eat at Exclusive Supermarket"
         ]
       },
@@ -813,9 +736,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit National Church of Nigeria",
-          "Visit National Assembly Complex",
           "Visit Millennium Park",
+          "Visit Tobix Recreational Park and Garden",
+          "Visit Jabi Lake (Jabi Recreational Park)",
           "Eat at Naira Restaurant"
         ]
       },
@@ -823,20 +746,10 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Sarius Planetum",
-          "Visit Tobix Recreational Park and Garden",
-          "Visit Jabi Lake (Jabi Recreational Park)",
-          "Eat at NengiWills African Recipes"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
           "Visit National Children's Park and Zoo Abuja",
-          "Visit Usuma Lower Dam",
-          "Visit IBB International Golf & Country Club",
-          "Eat at Paseyjays Restaurant"
+          "Visit Magic Land Amusement Park",
+          "Visit Dreams Recreational Active Park",
+          "Eat at NengiWills African Recipes"
         ]
       }
     ],
@@ -881,10 +794,9 @@ const raw: Gen[] = [
       "Kwame Nkrumah Memorial Park",
       "Independence Square",
       "W.E.B. DuBois Memorial Centre",
-      "Kane Kwei Carpentry Workshop",
-      "The National Archives of Ghana",
-      "Ghana Academy of Arts and Sciences",
-      "Artists Alliance Gallery"
+      "Artists Alliance Gallery",
+      "Bojo Beach",
+      "Labadi Beach"
     ],
     "restaurants": [
       {
@@ -964,8 +876,8 @@ const raw: Gen[] = [
         "title": "Culture & neighborhoods",
         "activities": [
           "Visit W.E.B. DuBois Memorial Centre",
-          "Visit Kane Kwei Carpentry Workshop",
-          "Visit The National Archives of Ghana",
+          "Visit Artists Alliance Gallery",
+          "Visit Bojo Beach",
           "Eat at Coco Vanilla"
         ]
       },
@@ -973,19 +885,8 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Ghana Academy of Arts and Sciences",
-          "Visit Artists Alliance Gallery",
-          "Visit Bojo Beach",
-          "Eat at Eddys Pizza"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
           "Visit Labadi Beach",
-          "Visit Densu Delta Protected Area",
-          "Eat at 50 50 Special Dish"
+          "Eat at Eddys Pizza"
         ]
       }
     ],
@@ -1140,18 +1041,8 @@ const raw: Gen[] = [
         "activities": [
           "Visit Anwar Mosque",
           "Visit Gola Saint Michael Church",
-          "Visit Hager Fikir Theatre",
+          "Visit Entoto Mountain",
           "Eat at Finfine Restaurant"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Jan Meda Race Ground",
-          "Visit Bihere Tsige Recreation Center",
-          "Visit Addis Ababa Golf Club",
-          "Eat at Yohannes Kitfo Bet"
         ]
       }
     ],
@@ -1237,14 +1128,11 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Big Ben Aden",
       "St. Francis of Assisi Church",
       "Queen Victoria Park",
-      "Tourist Port",
       "Aden Military Museum",
       "National Museum",
-      "Central market",
-      "Cisterns of Tawila"
+      "Central market"
     ],
     "restaurants": [],
     "hotels": [
@@ -1268,26 +1156,17 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Big Ben Aden",
           "Visit St. Francis of Assisi Church",
-          "Visit Queen Victoria Park"
+          "Visit Queen Victoria Park",
+          "Visit Aden Military Museum"
         ]
       },
       {
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Tourist Port",
-          "Visit Aden Military Museum",
-          "Visit National Museum"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Central market",
-          "Visit Cisterns of Tawila"
+          "Visit National Museum",
+          "Visit Central market"
         ]
       }
     ],
@@ -1485,9 +1364,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Ajman Museum"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Ajman Fish Market",
@@ -1551,9 +1428,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "FC Aktobe"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Ilek Hotel"
@@ -1609,11 +1484,7 @@ const raw: Gen[] = [
       "Akureyri Art Museum",
       "Aviation Museum of Iceland",
       "Akureyri Botanical Garden",
-      "Akureyrarkirkja",
-      "Gásir",
-      "Icelandic Aviation Museum",
-      "Akureyri Drama Society",
-      "Akureyri Swimming Pool"
+      "Icelandic Aviation Museum"
     ],
     "restaurants": [
       {
@@ -1685,30 +1556,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Akureyrarkirkja",
-          "Visit Gásir",
           "Visit Icelandic Aviation Museum",
           "Eat at DJ Grill"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Akureyri Drama Society",
-          "Visit Akureyri Swimming Pool",
-          "Visit Hof",
-          "Eat at Sprettur-Inn"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Skautafelag Akureyrar",
-          "Visit Græni hatturinn",
-          "Visit SAMbíó",
-          "Eat at Backpackers restaurant"
         ]
       }
     ],
@@ -1946,9 +1795,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Al Hudayda castle"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Hodeidah Land Resort"
@@ -2215,14 +2062,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "The Central Cathedral",
-      "Iglesia La Agonía",
-      "Parque Juan Santamaría",
-      "Museo Histórico Cultural Juan Santamaría",
-      "Liga Deportiva Alajuelense",
-      "Hairdresser"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Miski Perú",
@@ -2271,27 +2111,7 @@ const raw: Gen[] = [
       "The Central Cathedral"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit The Central Cathedral",
-          "Visit Iglesia La Agonía",
-          "Visit Parque Juan Santamaría",
-          "Eat at Miski Perú"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Museo Histórico Cultural Juan Santamaría",
-          "Visit Liga Deportiva Alajuelense",
-          "Visit Hairdresser"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.7,
@@ -2330,13 +2150,10 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Citadel of Aleppo",
-      "Al-Madina Souq",
       "Central Synagogue of Aleppo",
       "Bab al-Faraj Clock Tower",
       "Aleppo Public Park",
-      "Khan al-Saboon",
-      "National Museum of Aleppo",
-      "Bimaristan Arghan"
+      "National Museum of Aleppo"
     ],
     "restaurants": [
       {
@@ -2398,8 +2215,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Citadel of Aleppo",
-          "Visit Al-Madina Souq",
           "Visit Central Synagogue of Aleppo",
+          "Visit Bab al-Faraj Clock Tower",
           "Eat at Haj Abdo"
         ]
       },
@@ -2407,19 +2224,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Bab al-Faraj Clock Tower",
           "Visit Aleppo Public Park",
-          "Visit Khan al-Saboon",
-          "Eat at La Gondole"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit National Museum of Aleppo",
-          "Visit Bimaristan Arghan",
-          "Eat at Al Mir"
+          "Eat at La Gondole"
         ]
       }
     ],
@@ -2462,12 +2269,10 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Citadel of Qaitbay",
       "Mostafa Kamel Necropolis",
-      "Catacombs of Kom el Shoqafa",
-      "Pompey's Pillar",
-      "Kom el-Dikka",
       "Montaza Palace",
       "Alexandria Naval Unknown Soldier Memorial",
-      "Ras el-Tin Palace"
+      "Ras el-Tin Palace",
+      "Montazah Royal Gardens"
     ],
     "restaurants": [
       {
@@ -2548,7 +2353,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Citadel of Qaitbay",
           "Visit Mostafa Kamel Necropolis",
-          "Visit Catacombs of Kom el Shoqafa",
+          "Visit Montaza Palace",
           "Eat at Tawn Coffe Shop"
         ]
       },
@@ -2556,30 +2361,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Pompey's Pillar",
-          "Visit Kom el-Dikka",
-          "Visit Montaza Palace",
-          "Eat at Kushari Bondok"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Alexandria Naval Unknown Soldier Memorial",
           "Visit Ras el-Tin Palace",
-          "Visit Double decker bus ride along the Corniche",
-          "Eat at Meto"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
           "Visit Montazah Royal Gardens",
-          "Visit Renaissance Royal Cinema",
-          "Visit Cineplex",
-          "Eat at Asmak Shabaan"
+          "Eat at Kushari Bondok"
         ]
       }
     ],
@@ -2664,10 +2449,6 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Martyrs' Memorial",
       "National Museum of Fine Arts of Algiers",
-      "Grande Poste d'Alger",
-      "Palais des Raïs",
-      "Jardin d'essais of el-hamma",
-      "Djamaa el Djazaïr",
       "Bardo National Museum",
       "National Museum of Antiquities and Islamic Art"
     ],
@@ -2735,7 +2516,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Martyrs' Memorial",
           "Visit National Museum of Fine Arts of Algiers",
-          "Visit Grande Poste d'Alger",
+          "Visit Bardo National Museum",
           "Eat at Al Boustan Restaurant"
         ]
       },
@@ -2743,28 +2524,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Palais des Raïs",
-          "Visit Jardin d'essais of el-hamma",
-          "Visit Djamaa el Djazaïr",
-          "Eat at Sapori"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Bardo National Museum",
           "Visit National Museum of Antiquities and Islamic Art",
-          "Visit Sablette",
-          "Eat at Le Ciloc"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Marina Palm",
-          "Eat at Seventy-Five Lounge at El Aurassi Hotel"
+          "Eat at Sapori"
         ]
       }
     ],
@@ -2963,14 +2724,6 @@ const raw: Gen[] = [
           "Visit Kok-Tobe Park",
           "Eat at China Town"
         ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Tau Spa",
-          "Eat at Crudo Steakhouse"
-        ]
       }
     ],
     "hiddenGems": [],
@@ -3050,11 +2803,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Necrópole de Carenque",
-      "KidZania Lisboa",
-      "Amadora BD"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Lugar ao Sul"
@@ -3088,18 +2837,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Necrópole de Carenque",
-          "Visit KidZania Lisboa",
-          "Visit Amadora BD",
-          "Eat at Lugar ao Sul"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -3130,11 +2868,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "City Center",
-      "Jardín Botánico Atocha-La Liria",
-      "Quinta De Juan Leon Mera"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Pastelería Quito",
@@ -3161,18 +2895,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit City Center",
-          "Visit Jardín Botánico Atocha-La Liria",
-          "Visit Quinta De Juan Leon Mera",
-          "Eat at Pastelería Quito"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.4,
@@ -3215,9 +2938,8 @@ const raw: Gen[] = [
       "Temple of Herakles",
       "Umayyad Palace",
       "Byzantine Church",
-      "Roman Theater",
-      "Roman Nymphaeum",
-      "Ammonite Watchtower"
+      "Ammonite Watchtower",
+      "Amman Waves Aqua Park and Resort"
     ],
     "restaurants": [
       {
@@ -3301,7 +3023,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Umayyad Palace",
           "Visit Byzantine Church",
-          "Visit Roman Theater",
+          "Visit Ammonite Watchtower",
           "Eat at Pizza Roma Cafe"
         ]
       },
@@ -3309,19 +3031,8 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Roman Nymphaeum",
-          "Visit Ammonite Watchtower",
-          "Visit Tareef Cycling Club",
-          "Eat at Rouhi AlAqili Restaurant"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Cycling Jordan",
           "Visit Amman Waves Aqua Park and Resort",
-          "Eat at Shahrazad Restaurant"
+          "Eat at Rouhi AlAqili Restaurant"
         ]
       }
     ],
@@ -3361,16 +3072,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Amsterdam Boats B.V.",
-      "Amsterdam Jewel Cruises",
-      "Boaty Rent a Boat",
-      "Boats4rent Boat Rental",
-      "Boatboys Private Boat Tours",
-      "Canal Company",
-      "Lovers Company",
-      "Sloepdelen"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -3378,34 +3080,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Amsterdam Boats B.V.",
-          "Visit Amsterdam Jewel Cruises",
-          "Visit Boaty Rent a Boat"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Boats4rent Boat Rental",
-          "Visit Boatboys Private Boat Tours",
-          "Visit Canal Company"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Lovers Company",
-          "Visit Sloepdelen"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -3534,13 +3209,8 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Church of Saint Stephen",
-      "Noblesse du Temps",
       "Church of Sant Andreu",
-      "Casa de la Vall",
-      "Consell General and old town",
-      "Parc Central",
-      "El Portal de la Vall",
-      "Caldes Project"
+      "Consell General and old town"
     ],
     "restaurants": [
       {
@@ -3625,38 +3295,9 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Church of Saint Stephen",
-          "Visit Noblesse du Temps",
           "Visit Church of Sant Andreu",
-          "Eat at Bar Els Manyos"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Casa de la Vall",
           "Visit Consell General and old town",
-          "Visit Parc Central",
-          "Eat at Bar Restaurant Las Vegas"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit El Portal de la Vall",
-          "Visit Caldes Project",
-          "Visit Rec del Solà",
-          "Eat at Pizzeria Primavera"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Rec de l'Obac hiking trail",
-          "Visit Caldea spa",
-          "Eat at Pizzeria La Piazza"
+          "Eat at Bar Els Manyos"
         ]
       }
     ],
@@ -3699,12 +3340,12 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Ankara Castle",
       "Sultan Alaeddin Mosque",
-      "Roman Theatre",
       "Arslanhane Mosque",
       "Ahielvan Mosque",
       "Museum of Anatolian Civilizations",
       "Kelime Museum",
-      "Koç Museum"
+      "Koç Museum",
+      "Ankara Opera & Ballet"
     ],
     "restaurants": [
       {
@@ -3792,7 +3433,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Ankara Castle",
           "Visit Sultan Alaeddin Mosque",
-          "Visit Roman Theatre",
+          "Visit Arslanhane Mosque",
           "Eat at Ward Restaurant and café مطعم ورد"
         ]
       },
@@ -3800,9 +3441,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Arslanhane Mosque",
           "Visit Ahielvan Mosque",
           "Visit Museum of Anatolian Civilizations",
+          "Visit Kelime Museum",
           "Eat at Zelal Cafe"
         ]
       },
@@ -3810,9 +3451,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Kelime Museum",
           "Visit Koç Museum",
           "Visit Ankara Opera & Ballet",
+          "Visit Goksu Park",
           "Eat at Nado's"
         ]
       },
@@ -3820,9 +3461,8 @@ const raw: Gen[] = [
         "day": 4,
         "title": "Day trips & more",
         "activities": [
-          "Visit Presidential Symphony Orchestra",
-          "Visit Atatürk Culture Center",
-          "Visit Feza Gürsey Science Center",
+          "Visit Youth Park",
+          "Visit Seğmenler Park",
           "Eat at Kırık Oklava"
         ]
       }
@@ -3953,14 +3593,11 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Rova",
       "Prime Minister's Palace",
       "Lemurs' Park",
-      "Croc Farm",
       "Botanical and Zoological Garden of Tsimbazaza",
       "Cathedrale catholique d Andohalo",
-      "Museum of Art and Archaeology",
-      "Independence Avenue"
+      "Museum of Art and Archaeology"
     ],
     "restaurants": [
       {
@@ -4037,9 +3674,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Rova",
           "Visit Prime Minister's Palace",
           "Visit Lemurs' Park",
+          "Visit Botanical and Zoological Garden of Tsimbazaza",
           "Eat at La Table de Mariette"
         ]
       },
@@ -4047,28 +3684,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Croc Farm",
-          "Visit Botanical and Zoological Garden of Tsimbazaza",
           "Visit Cathedrale catholique d Andohalo",
-          "Eat at Ile Bourbon"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Museum of Art and Archaeology",
-          "Visit Independence Avenue",
-          "Visit Jean Be Tours",
-          "Eat at La Brasserie at the France Hotel"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Mada-Liberté Off Road Motorcycle Tours in Madagascar (4WD Off Road Tours)",
-          "Eat at Grill De Rova"
+          "Eat at Ile Bourbon"
         ]
       }
     ],
@@ -4108,11 +3726,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Ruinas de Huanchaca",
-      "La Portada",
-      "Mano del Desierto"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Georgio pizza",
@@ -4139,18 +3753,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Ruinas de Huanchaca",
-          "Visit La Portada",
-          "Visit Mano del Desierto",
-          "Eat at Georgio pizza"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.6,
@@ -4187,11 +3790,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Rando Raid Madagascar",
-      "Lac Tritriva",
-      "Lac Andraikiba"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Hotel Trianon",
@@ -4227,17 +3826,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Rando Raid Madagascar",
-          "Visit Lac Tritriva",
-          "Visit Lac Andraikiba"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -4275,14 +3864,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Antwerp City Pass",
-      "City Hall/Old Market Square",
-      "Diamond District",
-      "The hidden street Vlaeykensgang",
-      "Jewish Quarter",
       "Bouwmeester synagogue",
-      "Romi Goldmuntz Synagogue",
-      "Antwerp Ruien"
+      "Romi Goldmuntz Synagogue"
     ],
     "restaurants": [
       {
@@ -4343,48 +3926,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Antwerp City Pass",
-          "Visit City Hall/Old Market Square",
-          "Visit Diamond District",
-          "Eat at Aahaar"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit The hidden street Vlaeykensgang",
-          "Visit Jewish Quarter",
-          "Visit Bouwmeester synagogue",
-          "Eat at D’Oude Stad"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Romi Goldmuntz Synagogue",
-          "Visit Antwerp Ruien",
-          "Visit St. Anna pedestrian tunnel (Sint-Annatunnel)",
-          "Eat at Kumpir Eethuis"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Baja Bikes",
-          "Visit Kinepolis Antwerpen",
-          "Visit Port of Antwerp",
-          "Eat at The Yellow Window Coffee House"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -4423,13 +3965,12 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Robert Louis Stevenson Museum",
-      "Robert Louis Stevenson's grave",
       "Falemata'aga - Museum of Samoa",
       "The fish market",
-      "Mulinu'u peninsula",
       "Clock tower",
       "Immaculate Conception Cathedral",
-      "Apia Samoa Temple"
+      "Apia Samoa Temple",
+      "Apia Park"
     ],
     "restaurants": [
       {
@@ -4515,8 +4056,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Robert Louis Stevenson Museum",
-          "Visit Robert Louis Stevenson's grave",
           "Visit Falemata'aga - Museum of Samoa",
+          "Visit The fish market",
           "Eat at Amanis Restaurant"
         ]
       },
@@ -4524,9 +4065,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit The fish market",
-          "Visit Mulinu'u peninsula",
           "Visit Clock tower",
+          "Visit Immaculate Conception Cathedral",
+          "Visit Apia Samoa Temple",
           "Eat at Burger Bills"
         ]
       },
@@ -4534,18 +4075,8 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Immaculate Conception Cathedral",
-          "Visit Apia Samoa Temple",
-          "Visit Palolo Deep Marine Reserve",
-          "Eat at The Curry House Restaurant"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
           "Visit Apia Park",
-          "Eat at Kokobanana Bar & Grill"
+          "Eat at The Curry House Restaurant"
         ]
       }
     ],
@@ -4708,9 +4239,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Bougainville Experience Tours"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Reasons Bar & Grill",
@@ -4806,12 +4335,7 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Plaza de Armas",
       "Cathedral Basilica of Arequipa",
-      "San Camilo Market",
-      "Museo Santuarios Andinos",
-      "Monasterio de Santa Catalina",
-      "Convento de Santa Teresa",
-      "Puente Bolognesi",
-      "Puente Fierro"
+      "San Camilo Market"
     ],
     "restaurants": [
       {
@@ -4889,36 +4413,6 @@ const raw: Gen[] = [
           "Visit San Camilo Market",
           "Eat at Picantería La Capitana"
         ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Museo Santuarios Andinos",
-          "Visit Monasterio de Santa Catalina",
-          "Visit Convento de Santa Teresa",
-          "Eat at Picantería La Lucila Sachaca"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Puente Bolognesi",
-          "Visit Puente Fierro",
-          "Visit Free Walking Tour (Downtown Arequipa)",
-          "Eat at Tacos y Tequilas"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Exquisito Perú",
-          "Visit Horse Pa Enrique Tours",
-          "Visit Ventura Travel",
-          "Eat at Mandala"
-        ]
       }
     ],
     "hiddenGems": [],
@@ -4959,13 +4453,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Aarhus Viking Museum",
-      "Museum Aarhus",
-      "Aarhus Domkirke",
-      "Vor Frue Kirke",
-      "ARoS",
-      "Den Gamle By",
-      "Kunsthal Aarhus",
-      "KØN"
+      "Museum Aarhus"
     ],
     "restaurants": [
       {
@@ -5042,48 +4530,7 @@ const raw: Gen[] = [
       "Museum Aarhus"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Aarhus Viking Museum",
-          "Visit Museum Aarhus",
-          "Visit Aarhus Domkirke",
-          "Eat at Burger Boom"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Vor Frue Kirke",
-          "Visit ARoS",
-          "Visit Den Gamle By",
-          "Eat at Kødstadens Burger Joint"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Kunsthal Aarhus",
-          "Visit KØN",
-          "Visit Salling Rooftop",
-          "Eat at Havnens Perle"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit AarhusGuides",
-          "Visit Aarhus Culture Walks",
-          "Visit Hop-on-hop-off Aarhus",
-          "Eat at De Fyrretyve Røvere"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -5119,9 +4566,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Asa Wright Nature Centre"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -5341,7 +4786,6 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Arusha Declaration Museum",
-      "Arusha Cultural Heritage Centre",
       "Arusha National Natural History Museum"
     ],
     "restaurants": [
@@ -5415,18 +4859,7 @@ const raw: Gen[] = [
       "Arusha National Natural History Museum"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Arusha Declaration Museum",
-          "Visit Arusha Cultural Heritage Centre",
-          "Visit Arusha National Natural History Museum",
-          "Eat at Africafe Coffee House"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -5509,8 +4942,8 @@ const raw: Gen[] = [
       "Museum of Turkmen National Values",
       "Oguzhan Palace",
       "Turkmenistan Independence Monument",
-      "Ashgabat Flagpole",
-      "Inspiration Park"
+      "Inspiration Park",
+      "Ashgabat Botanical Garden"
     ],
     "restaurants": [
       {
@@ -5597,19 +5030,10 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Ashgabat Flagpole",
           "Visit Inspiration Park",
-          "Visit Mollanepes Drama Theatre",
+          "Visit Ashgabat Botanical Garden",
+          "Visit Asghabat Zoo",
           "Eat at Altyn Jam"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Magtymguly Theatre",
-          "Visit Pushkin Russian Theatre",
-          "Visit World of Turkmenbashi Tales"
         ]
       }
     ],
@@ -5650,7 +5074,6 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Asmara Theatre",
       "Great Mosque of Asmara",
       "National Museum of Eritrea",
       "Church of Our Lady of the Rosary",
@@ -5722,9 +5145,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Asmara Theatre",
           "Visit Great Mosque of Asmara",
           "Visit National Museum of Eritrea",
+          "Visit Church of Our Lady of the Rosary",
           "Eat at Bar Zilli"
         ]
       },
@@ -5732,7 +5155,6 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Church of Our Lady of the Rosary",
           "Visit Enda Mariam Cathedral",
           "Eat at Albergo Italia"
         ]
@@ -5864,12 +5286,10 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Palace of Peace and Reconciliation",
       "KazMunayGas Palace",
-      "The Triumph of Astana",
       "Shabyt palace",
       "Palace of Independence",
       "Ak Orda presidential palace",
-      "Parliament building",
-      "National education academy"
+      "Alau ice palace"
     ],
     "restaurants": [
       {
@@ -5947,7 +5367,8 @@ const raw: Gen[] = [
       "KazMunayGas Palace",
       "Shabyt palace",
       "Palace of Independence",
-      "Ak Orda presidential palace"
+      "Ak Orda presidential palace",
+      "Alau ice palace"
     ],
     "localFoods": [],
     "itinerary": [
@@ -5957,7 +5378,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Palace of Peace and Reconciliation",
           "Visit KazMunayGas Palace",
-          "Visit The Triumph of Astana",
+          "Visit Shabyt palace",
           "Eat at Cafe Shymkent"
         ]
       },
@@ -5965,30 +5386,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Shabyt palace",
           "Visit Palace of Independence",
           "Visit Ak Orda presidential palace",
+          "Visit Alau ice palace",
           "Eat at Melnitsa"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Parliament building",
-          "Visit National education academy",
-          "Visit Ak Bulak sauna Complex",
-          "Eat at Rafe"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Duman",
-          "Visit Astana Arena",
-          "Visit Stadio Kazhymukan Munaitpasov",
-          "Eat at Line Brew"
         ]
       }
     ],
@@ -6029,14 +5430,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "National Congress of Paraguay",
       "Metropolitan Cathedral",
-      "Panteón Nacional de los Héroes",
-      "Centro Cultural El Cabildo",
-      "Casa de la Independencia",
-      "Palacio de López",
-      "Estación Central del Ferrocarril",
-      "Teatro Municipal"
+      "Jardín Botánico y Zoológico"
     ],
     "restaurants": [
       {
@@ -6116,48 +5511,7 @@ const raw: Gen[] = [
       "Metropolitan Cathedral"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit National Congress of Paraguay",
-          "Visit Metropolitan Cathedral",
-          "Visit Panteón Nacional de los Héroes",
-          "Eat at Burger King"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Centro Cultural El Cabildo",
-          "Visit Casa de la Independencia",
-          "Visit Palacio de López",
-          "Eat at Ña Eustaquia"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Estación Central del Ferrocarril",
-          "Visit Teatro Municipal",
-          "Visit Trade fair",
-          "Eat at Seoul"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Ñu Guazu",
-          "Visit Running",
-          "Visit Jardín Botánico y Zoológico",
-          "Eat at El Bolsi"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.9,
@@ -6237,13 +5591,9 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Acropolis of Athens",
-      "Propylaea",
-      "Parthenon",
-      "Erectheion",
-      "Theatre of Dionysus",
-      "Odeon of Herodes Atticus",
       "Acropolis Museum",
-      "Pnyx"
+      "National Gardens",
+      "Parnitha National Park"
     ],
     "restaurants": [
       {
@@ -6326,8 +5676,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Acropolis of Athens",
-          "Visit Propylaea",
-          "Visit Parthenon",
+          "Visit Acropolis Museum",
+          "Visit National Gardens",
           "Eat at Σουβλάκι Κώστας 1950 συνταγμα (Kostas)"
         ]
       },
@@ -6335,30 +5685,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Erectheion",
-          "Visit Theatre of Dionysus",
-          "Visit Odeon of Herodes Atticus",
-          "Eat at The 2 Brothers"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Acropolis Museum",
-          "Visit Pnyx",
-          "Visit National Gardens",
-          "Eat at Vegan Beat Athens"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Pedion tou Areos",
-          "Visit Dionysiou Aeropagitou Street",
           "Visit Parnitha National Park",
-          "Eat at The Traditional"
+          "Eat at The 2 Brothers"
         ]
       }
     ],
@@ -6523,11 +5851,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Chutes de la Métché",
-      "Chefferie Bandjoun",
-      "Grotte Fovu"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Maison Bambou",
@@ -6571,18 +5895,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Chutes de la Métché",
-          "Visit Chefferie Bandjoun",
-          "Visit Grotte Fovu",
-          "Eat at Maison Bambou"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.7,
@@ -6620,14 +5933,13 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Mustansiriya Madrasah",
-      "Qushla building",
       "Baghdad Zoo",
-      "Khan Murjan",
       "Firdos Square",
       "National Museum of Iraq",
       "Baghdadi Museum",
-      "National Museum of Modern Art"
+      "National Museum of Modern Art",
+      "Baghdad Island Park",
+      "Souk al-Safafeer (Coppersmiths' Market)"
     ],
     "restaurants": [
       {
@@ -6699,9 +6011,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Mustansiriya Madrasah",
-          "Visit Qushla building",
           "Visit Baghdad Zoo",
+          "Visit Firdos Square",
+          "Visit National Museum of Iraq",
           "Eat at Saj Alreef Restaurant"
         ]
       },
@@ -6709,9 +6021,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Khan Murjan",
-          "Visit Firdos Square",
-          "Visit National Museum of Iraq",
+          "Visit Baghdadi Museum",
+          "Visit National Museum of Modern Art",
+          "Visit Baghdad Island Park",
           "Eat at Barley Restaurant"
         ]
       },
@@ -6719,20 +6031,8 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Baghdadi Museum",
-          "Visit National Museum of Modern Art",
-          "Visit Iraqi National Theatre",
+          "Visit Souk al-Safafeer (Coppersmiths' Market)",
           "Eat at Samad Restaurant"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Baghdad Island Park",
-          "Visit Abu Nawas Street",
-          "Visit Mutanabbi Street",
-          "Eat at Jadiriyah Floating Restaurant"
         ]
       }
     ],
@@ -6816,10 +6116,8 @@ const raw: Gen[] = [
       "Saray Mosque",
       "Maiden's Tower",
       "Fortress walls and towers",
-      "Bukhara Caravanserai",
-      "Multani Caravanserai",
-      "Hajji Gayyib bathhouse",
-      "Agha Mikayil bathhouse"
+      "National Opera and Ballet",
+      "Aqua Park Baku"
     ],
     "restaurants": [
       {
@@ -6908,29 +6206,9 @@ const raw: Gen[] = [
         "title": "Culture & neighborhoods",
         "activities": [
           "Visit Fortress walls and towers",
-          "Visit Bukhara Caravanserai",
-          "Visit Multani Caravanserai",
-          "Eat at Nergiz Restaurant"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Hajji Gayyib bathhouse",
-          "Visit Agha Mikayil bathhouse",
-          "Visit Boat tours of Baku",
-          "Eat at Bizim Ev Restaurant & Cafe"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Pantomima theatre",
           "Visit National Opera and Ballet",
-          "Visit Baku Funicular Railroad",
-          "Eat at Doner House"
+          "Visit Aqua Park Baku",
+          "Eat at Nergiz Restaurant"
         ]
       }
     ],
@@ -7014,10 +6292,6 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Regional History Museum",
       "Russian Orthodox Church",
-      "Gozli Ata",
-      "Yangykala Canyon",
-      "Dekhistan",
-      "Tarshavat",
       "Shir Kabir Mausoleum"
     ],
     "restaurants": [
@@ -7056,24 +6330,8 @@ const raw: Gen[] = [
         "activities": [
           "Visit Regional History Museum",
           "Visit Russian Orthodox Church",
-          "Visit Gozli Ata",
+          "Visit Shir Kabir Mausoleum",
           "Eat at Kafe Ruslan"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Yangykala Canyon",
-          "Visit Dekhistan",
-          "Visit Tarshavat"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Shir Kabir Mausoleum"
         ]
       }
     ],
@@ -7156,11 +6414,11 @@ const raw: Gen[] = [
       "Mali National Park",
       "Bamako Botanical Gardens",
       "Bamako Zoo",
-      "Point G Hill",
       "National Museum of Mali",
       "Muso Kunda Museum of Women",
       "Grand Mosque of Bamako",
-      "Sacred Heart Cathedral"
+      "Sacred Heart Cathedral",
+      "Cultural Palace Hamadou Hampaté Ba"
     ],
     "restaurants": [
       {
@@ -7222,7 +6480,8 @@ const raw: Gen[] = [
       "National Museum of Mali",
       "Muso Kunda Museum of Women",
       "Grand Mosque of Bamako",
-      "Sacred Heart Cathedral"
+      "Sacred Heart Cathedral",
+      "Cultural Palace Hamadou Hampaté Ba"
     ],
     "localFoods": [],
     "itinerary": [
@@ -7240,9 +6499,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Point G Hill",
           "Visit National Museum of Mali",
           "Visit Muso Kunda Museum of Women",
+          "Visit Grand Mosque of Bamako",
           "Eat at Hotel Badala"
         ]
       },
@@ -7250,18 +6509,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Grand Mosque of Bamako",
           "Visit Sacred Heart Cathedral",
-          "Visit Casino de l'Amitie a Bamako",
-          "Eat at Le Relax"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
           "Visit Cultural Palace Hamadou Hampaté Ba",
-          "Eat at La Fourmi"
+          "Eat at Le Relax"
         ]
       }
     ],
@@ -7297,9 +6547,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Cathedral of St. Joseph"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Restaurant Chez Chantou",
@@ -7486,9 +6734,7 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Omar Ali Saifuddien Mosque",
       "Jame'Asr Hassanal Bolkiah Mosque",
-      "Kampong Ayer",
       "Royal Regalia Museum",
-      "Istana Nurul Iman",
       "Brunei Museum",
       "Malay Technology Museum",
       "Tasek Lama Recreational Park"
@@ -7560,7 +6806,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Omar Ali Saifuddien Mosque",
           "Visit Jame'Asr Hassanal Bolkiah Mosque",
-          "Visit Kampong Ayer",
+          "Visit Royal Regalia Museum",
           "Eat at Kianggeh Market"
         ]
       },
@@ -7568,18 +6814,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Royal Regalia Museum",
-          "Visit Istana Nurul Iman",
           "Visit Brunei Museum",
-          "Eat at Aminah Arif Restaurant"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Malay Technology Museum",
-          "Visit Tasek Lama Recreational Park"
+          "Visit Tasek Lama Recreational Park",
+          "Eat at Aminah Arif Restaurant"
         ]
       }
     ],
@@ -7619,10 +6857,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Ram Fighting",
-      "Puncrut-Lembang walking trail"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -7708,16 +6943,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Chulalongkorn University",
-      "National Institute of Development Administration",
-      "Assumption University",
-      "Ramkhamhaeng University",
-      "Bangkok Biking",
-      "Co van Kessel",
-      "Follow Me Bicycle Tours",
-      "Grasshopper Adventures"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Chao Phraya Princess",
@@ -7746,46 +6972,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Chulalongkorn University",
-          "Visit National Institute of Development Administration",
-          "Visit Assumption University",
-          "Eat at Chao Phraya Princess"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Ramkhamhaeng University",
-          "Visit Bangkok Biking",
-          "Visit Co van Kessel",
-          "Eat at Loy Nava"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Follow Me Bicycle Tours",
-          "Visit Grasshopper Adventures",
-          "Visit SpiceRoads",
-          "Eat at Manohra"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Go Bangkok Tours",
-          "Eat at Wan Fah"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -7824,7 +7011,6 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Boganda National Museum",
-      "Cathédrale Notre-Dame-de-l'Immaculée-Conception of Bangui",
       "Renaissance Palace"
     ],
     "restaurants": [],
@@ -7856,17 +7042,7 @@ const raw: Gen[] = [
       "Renaissance Palace"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Boganda National Museum",
-          "Visit Cathédrale Notre-Dame-de-l'Immaculée-Conception of Bangui",
-          "Visit Renaissance Palace"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.6,
@@ -7904,14 +7080,12 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Kastel Fortress",
       "Ferhat-Pasha Mosque",
       "Cathedral of Saint Bonaventure",
-      "Banski Dvor",
       "Monastery of Gomionica",
       "Mariastern Abbey",
       "Monument to the Fallen Krajina Fighters",
-      "Gospodska street"
+      "Market"
     ],
     "restaurants": [
       {
@@ -7981,9 +7155,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Kastel Fortress",
           "Visit Ferhat-Pasha Mosque",
           "Visit Cathedral of Saint Bonaventure",
+          "Visit Monastery of Gomionica",
           "Eat at Pite pod sačem"
         ]
       },
@@ -7991,30 +7165,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Banski Dvor",
-          "Visit Monastery of Gomionica",
           "Visit Mariastern Abbey",
-          "Eat at Tihe noći"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Monument to the Fallen Krajina Fighters",
-          "Visit Gospodska street",
-          "Visit Boom Boom Room",
-          "Eat at Cap Cap (Obilićevo / Mejdan)"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Demofest klub",
           "Visit Market",
-          "Visit Dajak tour",
-          "Eat at Ćevabdžinica Mrvica 1"
+          "Eat at Tihe noći"
         ]
       }
     ],
@@ -8054,10 +7208,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Arch 22",
-      "The Gambia National Museum"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Nefertiti",
@@ -8135,10 +7286,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Stari Bar (Bar Old Town)",
-      "Bar Fortress",
-      "Stara Maslina",
       "Bar Royal Palace",
-      "Port of Bar",
       "Beaches in Susanj",
       "Church of St. Jovan Vladimir"
     ],
@@ -8198,8 +7346,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Stari Bar (Bar Old Town)",
-          "Visit Bar Fortress",
-          "Visit Stara Maslina",
+          "Visit Bar Royal Palace",
+          "Visit Beaches in Susanj",
           "Eat at Pizzeria Pulena"
         ]
       },
@@ -8207,18 +7355,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Bar Royal Palace",
-          "Visit Port of Bar",
-          "Visit Beaches in Susanj",
-          "Eat at Sunce, nacionalna kuc'a"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Church of St. Jovan Vladimir",
-          "Eat at Banjalučki ćevap"
+          "Eat at Sunce, nacionalna kuc'a"
         ]
       }
     ],
@@ -8258,16 +7396,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Barcelona Bus Turístic",
-      "Barcelona City Tour",
-      "Tibidabo Mountain amusement park",
-      "Barcelona Segway Day",
-      "Artoba Tours",
-      "Spanish Civil War tours",
-      "Sónar",
-      "Monegros Desert Festival"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Barcelona Eat Local Food Tours",
@@ -8295,47 +7424,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Barcelona Bus Turístic",
-          "Visit Barcelona City Tour",
-          "Visit Tibidabo Mountain amusement park",
-          "Eat at Barcelona Eat Local Food Tours"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Barcelona Segway Day",
-          "Visit Artoba Tours",
-          "Visit Spanish Civil War tours",
-          "Eat at Comer y no Bombas"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Sónar",
-          "Visit Monegros Desert Festival",
-          "Visit Festes de la Mercè",
-          "Eat at El Glop"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Festes de Gràcia",
-          "Visit Festes de Sants",
-          "Eat at Balordi"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.7,
@@ -8372,16 +7461,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Barcelona Bus Turístic",
-      "Barcelona City Tour",
-      "Tibidabo Mountain amusement park",
-      "Barcelona Segway Day",
-      "Artoba Tours",
-      "Spanish Civil War tours",
-      "Sónar",
-      "Monegros Desert Festival"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Barcelona Eat Local Food Tours",
@@ -8409,47 +7489,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Barcelona Bus Turístic",
-          "Visit Barcelona City Tour",
-          "Visit Tibidabo Mountain amusement park",
-          "Eat at Barcelona Eat Local Food Tours"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Barcelona Segway Day",
-          "Visit Artoba Tours",
-          "Visit Spanish Civil War tours",
-          "Eat at Comer y no Bombas"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Sónar",
-          "Visit Monegros Desert Festival",
-          "Visit Festes de la Mercè",
-          "Eat at El Glop"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Festes de Gràcia",
-          "Visit Festes de Sants",
-          "Eat at Balordi"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.4,
@@ -8487,14 +7527,11 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "The Obelisk",
       "Plaza Bolivar",
       "Barquisimeto Museum",
-      "Juares Theatre",
-      "Museo de Ciencias Naturales \"La Salle\"",
       "Cathedral of Barquisimeto",
       "Monumento Manto de María Divina Pastora",
-      "Flor de Venezuela"
+      "Temático Bosque Macuto Park"
     ],
     "restaurants": [],
     "hotels": [
@@ -8532,34 +7569,17 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit The Obelisk",
           "Visit Plaza Bolivar",
-          "Visit Barquisimeto Museum"
+          "Visit Barquisimeto Museum",
+          "Visit Cathedral of Barquisimeto"
         ]
       },
       {
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Juares Theatre",
-          "Visit Museo de Ciencias Naturales \"La Salle\"",
-          "Visit Cathedral of Barquisimeto"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Monumento Manto de María Divina Pastora",
-          "Visit Flor de Venezuela",
           "Visit Temático Bosque Macuto Park"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit El Mundo de los Niños"
         ]
       }
     ],
@@ -8600,14 +7620,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Castillo de Salgar",
-      "Gran Malecón",
-      "Museo Mapuka",
       "Zoológico de Barranquilla",
-      "Go bowling at: Bolera Moñona",
-      "Xtreme Park Barranquilla",
-      "Mini Golf",
-      "Bocas de Ceniza"
+      "Xtreme Park Barranquilla"
     ],
     "restaurants": [],
     "hotels": [
@@ -8643,34 +7657,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Castillo de Salgar",
-          "Visit Gran Malecón",
-          "Visit Museo Mapuka"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Zoológico de Barranquilla",
-          "Visit Go bowling at: Bolera Moñona",
-          "Visit Xtreme Park Barranquilla"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Mini Golf",
-          "Visit Bocas de Ceniza"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.7,
@@ -8708,10 +7695,7 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Basler Münster",
-      "Elisabethenkirche",
       "Kunstmuseum Basel",
-      "Kunsthalle Basel",
       "Museum der Kulturen",
       "Antikenmuseum Basel",
       "Spielzeug Welten Museum",
@@ -8801,9 +7785,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Basler Münster",
-          "Visit Elisabethenkirche",
           "Visit Kunstmuseum Basel",
+          "Visit Museum der Kulturen",
+          "Visit Antikenmuseum Basel",
           "Eat at Mister Wong"
         ]
       },
@@ -8811,30 +7795,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Kunsthalle Basel",
-          "Visit Museum der Kulturen",
-          "Visit Antikenmuseum Basel",
-          "Eat at Brötlibar"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Spielzeug Welten Museum",
           "Visit Museum Jean Tinguely",
-          "Visit Basel ferry",
-          "Eat at Hirscheneck"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit The Third Man",
-          "Visit Chienbäse",
-          "Visit BaselWorld",
-          "Eat at Migros"
+          "Eat at Brötlibar"
         ]
       }
     ],
@@ -8878,11 +7841,8 @@ const raw: Gen[] = [
       "Basra Museum",
       "Basta Natural History Museum",
       "Badr Shakir al-Sayyab statue",
-      "Badr Shakir al-Sayyab Home",
       "Sinbad Island",
-      "Corniche al-Basra",
-      "Basra Memorial",
-      "Basra War Cemetery"
+      "Basra Memorial"
     ],
     "restaurants": [
       {
@@ -8946,26 +7906,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Badr Shakir al-Sayyab Home",
           "Visit Sinbad Island",
-          "Visit Corniche al-Basra"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Basra Memorial",
-          "Visit Basra War Cemetery",
-          "Visit Basra Sports City"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit River cruise",
-          "Visit Basrah Land"
+          "Visit Basra Memorial"
         ]
       }
     ],
@@ -9052,13 +7994,11 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Independence Square",
-      "The Circus",
       "St. George's Anglican Church",
       "Basseterre Co-Cathedral of Immaculate Conception",
-      "The Cenotaph",
-      "St. Kitts Heritage Society",
       "National Museum of Saint Kitts",
-      "Queen Victoria Statue Roundabout"
+      "Queen Victoria Statue Roundabout",
+      "Warner Park Sporting Complex"
     ],
     "restaurants": [],
     "hotels": [
@@ -9090,32 +8030,16 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Independence Square",
-          "Visit The Circus",
-          "Visit St. George's Anglican Church"
+          "Visit St. George's Anglican Church",
+          "Visit Basseterre Co-Cathedral of Immaculate Conception"
         ]
       },
       {
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Basseterre Co-Cathedral of Immaculate Conception",
-          "Visit The Cenotaph",
-          "Visit St. Kitts Heritage Society"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit National Museum of Saint Kitts",
           "Visit Queen Victoria Statue Roundabout",
-          "Visit Bicycle Rental"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
           "Visit Warner Park Sporting Complex"
         ]
       }
@@ -9153,7 +8077,6 @@ const raw: Gen[] = [
     "thingsToDo": [
       "The Promenade",
       "Freedom Tower",
-      "Gran Mercado Central",
       "St. James and Our Lady of the Pillar Cathedral, Bata"
     ],
     "restaurants": [],
@@ -9179,13 +8102,6 @@ const raw: Gen[] = [
         "activities": [
           "Visit The Promenade",
           "Visit Freedom Tower",
-          "Visit Gran Mercado Central"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
           "Visit St. James and Our Lady of the Pillar Cathedral, Bata"
         ]
       }
@@ -9266,14 +8182,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Battambang Circus",
-      "Phnom Sampeu",
-      "Wat Banan",
       "Statues",
-      "Lok Ta Dambong Kra Nhoung",
-      "Peace Bird Statue",
-      "Wat Baydamram",
-      "Wat Ek Phnom"
+      "Peace Bird Statue"
     ],
     "restaurants": [
       {
@@ -9351,48 +8261,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Battambang Circus",
-          "Visit Phnom Sampeu",
-          "Visit Wat Banan",
-          "Eat at Pomme Hostel, Bar & Restaurant"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Statues",
-          "Visit Lok Ta Dambong Kra Nhoung",
-          "Visit Peace Bird Statue",
-          "Eat at Au Cabaret Vert Restaurant"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Wat Baydamram",
-          "Visit Wat Ek Phnom",
-          "Visit Bamboo Train",
-          "Eat at Cafe Eden"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Soksabike Tours",
-          "Visit Green Orange Kayak",
-          "Visit Volunteer Teaching English",
-          "Eat at Coconut Lyly"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -9430,14 +8299,14 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Black Sea",
       "Music fountain",
-      "Dolphinarium",
       "Batumi Botanical Garden",
       "Medea statue",
       "Cathedral of the Mother of God",
       "Church of the Holy Spirit",
-      "Armenian Cathedral of Christ the Savior"
+      "Armenian Cathedral of Christ the Savior",
+      "Aqua Park",
+      "6 May Park"
     ],
     "restaurants": [
       {
@@ -9513,9 +8382,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Black Sea",
           "Visit Music fountain",
-          "Visit Dolphinarium",
+          "Visit Batumi Botanical Garden",
+          "Visit Medea statue",
           "Eat at Fish market"
         ]
       },
@@ -9523,9 +8392,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Batumi Botanical Garden",
-          "Visit Medea statue",
           "Visit Cathedral of the Mother of God",
+          "Visit Church of the Holy Spirit",
+          "Visit Armenian Cathedral of Christ the Savior",
           "Eat at Kozlovichi"
         ]
       },
@@ -9533,20 +8402,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Church of the Holy Spirit",
-          "Visit Armenian Cathedral of Christ the Savior",
-          "Visit Panoramic Wheel",
-          "Eat at Maspindzeli-First Adjarian Restaurant"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Cable car",
           "Visit Aqua Park",
-          "Visit Olympic Swimming Pool",
-          "Eat at Batumis Shawarma"
+          "Visit 6 May Park",
+          "Eat at Maspindzeli-First Adjarian Restaurant"
         ]
       }
     ],
@@ -9752,11 +8610,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Black Sesame Kitchen",
-      "Beijing Cookery",
-      "The Hutong"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -9764,17 +8618,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Black Sesame Kitchen",
-          "Visit Beijing Cookery",
-          "Visit The Hutong"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.2,
@@ -9805,10 +8649,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Our Lady of the Rosary Cathedral",
-      "Grande Hotel Beira"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Biques",
@@ -9914,12 +8755,7 @@ const raw: Gen[] = [
     "thingsToDo": [
       "National Museum of Beirut",
       "Sursock Museum",
-      "Archaeological Museum of the American University of Beirut",
-      "The Silk Museum - Bsous",
-      "Beirut International Film Festival",
-      "Beirut International Jazz Festival",
-      "Festival du cinéma francophone",
-      "Ramlet Al-Baida"
+      "The Silk Museum - Bsous"
     ],
     "restaurants": [],
     "hotels": [],
@@ -9932,7 +8768,6 @@ const raw: Gen[] = [
     "museums": [
       "National Museum of Beirut",
       "Sursock Museum",
-      "Archaeological Museum of the American University of Beirut",
       "The Silk Museum - Bsous"
     ],
     "localFoods": [],
@@ -9943,33 +8778,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit National Museum of Beirut",
           "Visit Sursock Museum",
-          "Visit Archaeological Museum of the American University of Beirut"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit The Silk Museum - Bsous",
-          "Visit Beirut International Film Festival",
-          "Visit Beirut International Jazz Festival"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Festival du cinéma francophone",
-          "Visit Ramlet Al-Baida",
-          "Visit NISD"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit LD",
-          "Visit Atlantis"
+          "Visit The Silk Museum - Bsous"
         ]
       }
     ],
@@ -10009,11 +8818,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Pura Agung Tirta Bhuana",
-      "Situ Rawa Gede",
-      "Stadion Patriot Candrabhaga"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Ruko Kemang Pratama",
@@ -10059,18 +8864,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Pura Agung Tirta Bhuana",
-          "Visit Situ Rawa Gede",
-          "Visit Stadion Patriot Candrabhaga",
-          "Eat at Ruko Kemang Pratama"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -10112,10 +8906,10 @@ const raw: Gen[] = [
       "Belgrade Zoo",
       "Belgrade Cathedral",
       "Museum of the Serbian Orthodox Church",
-      "Residence of Princess Ljubica",
       "Museum of Applied Art",
       "Zepter Museum",
-      "Ethnographic Museum"
+      "Ethnographic Museum",
+      "Public Observatory"
     ],
     "restaurants": [
       {
@@ -10190,8 +8984,8 @@ const raw: Gen[] = [
         "title": "Culture & neighborhoods",
         "activities": [
           "Visit Museum of the Serbian Orthodox Church",
-          "Visit Residence of Princess Ljubica",
           "Visit Museum of Applied Art",
+          "Visit Zepter Museum",
           "Eat at Roll Bar"
         ]
       },
@@ -10199,18 +8993,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Zepter Museum",
           "Visit Ethnographic Museum",
           "Visit Public Observatory",
           "Eat at Pizzeria Trg"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit National Theatre",
-          "Eat at Yalla Yalla"
         ]
       }
     ],
@@ -10251,14 +9036,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Bliss Centre for the Performing Arts",
-      "Government House",
-      "Image Factory Art Foundation",
       "The Museum of Belize",
-      "Old Belize",
-      "St John's Cathedral",
-      "Yarborough Cemetery",
-      "Cave Tubing"
+      "St John's Cathedral"
     ],
     "restaurants": [
       {
@@ -10326,37 +9105,7 @@ const raw: Gen[] = [
       "St John's Cathedral"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Bliss Centre for the Performing Arts",
-          "Visit Government House",
-          "Visit Image Factory Art Foundation",
-          "Eat at Marva's"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit The Museum of Belize",
-          "Visit Old Belize",
-          "Visit St John's Cathedral",
-          "Eat at Dit's Restaurant"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Yarborough Cemetery",
-          "Visit Cave Tubing",
-          "Eat at Don Ceviche"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.7,
@@ -10394,11 +9143,7 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "St. Herman’s Cave",
-      "St. Herman’s Cave Tour (Belize Inland Tours)",
       "St. Herman's Blue Hole National Park",
-      "Mountain Cow Cave Tour (MayaWalk)",
-      "Mountain Cow Cave Tour (Belize Inland Tours)",
       "Belize Zoo"
     ],
     "restaurants": [],
@@ -10430,26 +9175,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit St. Herman’s Cave",
-          "Visit St. Herman’s Cave Tour (Belize Inland Tours)",
-          "Visit St. Herman's Blue Hole National Park"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Mountain Cow Cave Tour (MayaWalk)",
-          "Visit Mountain Cow Cave Tour (Belize Inland Tours)",
-          "Visit Belize Zoo"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.9,
@@ -10487,14 +9213,9 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Pampulha",
-      "Mineirão Stadium",
       "Mangabeiras Park",
-      "Praça da Liberdade",
       "Museum of Arts and Crafts",
-      "Alta Vila Tower",
-      "Parque Municipal",
-      "Museu de Ciencias Naturais"
+      "Alta Vila Tower"
     ],
     "restaurants": [
       {
@@ -10552,29 +9273,10 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Pampulha",
-          "Visit Mineirão Stadium",
           "Visit Mangabeiras Park",
-          "Eat at Restaurante Chen Chang Kee Noodle House - Galeria BH"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Praça da Liberdade",
           "Visit Museum of Arts and Crafts",
           "Visit Alta Vila Tower",
-          "Eat at Marilanches"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Parque Municipal",
-          "Visit Museu de Ciencias Naturais",
-          "Eat at A Pastelândia"
+          "Eat at Restaurante Chen Chang Kee Noodle House - Galeria BH"
         ]
       }
     ],
@@ -10608,9 +9310,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Bendery Fortress"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -10655,14 +9355,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Cinemax",
-      "Cinepolis",
-      "Gopalan Cinemas",
-      "Inox theatre",
-      "PVR Cinemas",
-      "Bangalore Film Society"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "The Adiga's chain",
@@ -10703,28 +9396,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Cinemax",
-          "Visit Cinepolis",
-          "Visit Gopalan Cinemas",
-          "Eat at The Adiga's chain"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Inox theatre",
-          "Visit PVR Cinemas",
-          "Visit Bangalore Film Society",
-          "Eat at Beijing Bites"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.7,
@@ -10835,10 +9507,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Baathela Beach",
-      "NASA Runway"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Maan-Soor Hotel",
@@ -10942,14 +9611,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Fjellveien panorama road",
-      "Skansen panorama point",
-      "Tippetue panorama point",
-      "Nordnes panorama",
       "Nordnes park",
-      "St Johns",
-      "Fjellsiden neighbourhood",
-      "Marken"
+      "Bergen Nasjonale Opera"
     ],
     "restaurants": [
       {
@@ -11024,48 +9687,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Fjellveien panorama road",
-          "Visit Skansen panorama point",
-          "Visit Tippetue panorama point",
-          "Eat at Pasta Sentral"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Nordnes panorama",
-          "Visit Nordnes park",
-          "Visit St Johns",
-          "Eat at Kafe Spesial"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Fjellsiden neighbourhood",
-          "Visit Marken",
-          "Visit Bergen Jazzforum",
-          "Eat at Bergen Kebab"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Bergen Live",
-          "Visit Bergen Philharmonic Orchestra",
-          "Visit Det Akademiske Kvarter",
-          "Eat at Hot Wok City"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.9,
@@ -11102,16 +9724,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Berlin Tour by public bus line 100 and 200",
-      "Stern und Kreisschiffahrt",
-      "Segway Tour Berlin",
-      "Ticket B",
-      "Yachtcharter Werder",
-      "Ultraschall Berlin - Festival für neue Musik",
-      "Berlinale – Berlin Film Festival",
-      "MaerzMusik"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -11119,34 +9732,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Berlin Tour by public bus line 100 and 200",
-          "Visit Stern und Kreisschiffahrt",
-          "Visit Segway Tour Berlin"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Ticket B",
-          "Visit Yachtcharter Werder",
-          "Visit Ultraschall Berlin - Festival für neue Musik"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Berlinale – Berlin Film Festival",
-          "Visit MaerzMusik"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -11185,13 +9771,8 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Bern Historical Museum",
-      "Bundeshaus",
-      "Zytglogge",
-      "Einsteinhaus",
-      "Invasion of Bern - successful!",
       "Kunstmuseum",
-      "Swiss Alpine Museum",
-      "Zentrum Paul Klee"
+      "Swiss Alpine Museum"
     ],
     "restaurants": [
       {
@@ -11274,39 +9855,9 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Bern Historical Museum",
-          "Visit Bundeshaus",
-          "Visit Zytglogge",
-          "Eat at Restaurant Zunft zu Webern"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Einsteinhaus",
-          "Visit Invasion of Bern - successful!",
           "Visit Kunstmuseum",
-          "Eat at Coop Restaurant Bern Ryfflihof"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Swiss Alpine Museum",
-          "Visit Zentrum Paul Klee",
-          "Visit Gurten",
-          "Eat at Lo stuzzichino da Mohan"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Rosengarten",
-          "Visit SC Bern",
-          "Visit Swimming in the river Aare",
-          "Eat at Tong Fong"
+          "Eat at Restaurant Zunft zu Webern"
         ]
       }
     ],
@@ -11342,13 +9893,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Lohagarh Fort",
-      "Chowbruj",
-      "Astadhatu",
-      "Jawahar Burj",
-      "Kishori Mahal",
-      "Keoladeo Bird Sanctuary",
-      "Ganga Maharani Temple",
-      "Jama Masjid"
+      "Ganga Maharani Temple"
     ],
     "restaurants": [
       {
@@ -11383,36 +9928,7 @@ const raw: Gen[] = [
       "Ganga Maharani Temple"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Lohagarh Fort",
-          "Visit Chowbruj",
-          "Visit Astadhatu",
-          "Eat at Buns and Tins"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Jawahar Burj",
-          "Visit Kishori Mahal",
-          "Visit Keoladeo Bird Sanctuary",
-          "Eat at Saras Hotel"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Ganga Maharani Temple",
-          "Visit Jama Masjid"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -11535,9 +10051,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Biratnagar Jute Mills"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Angan Sweets & Vegetarian Family Restaurant",
@@ -11606,12 +10120,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Parsa Wildlife Reserve",
-      "Ghadiarwa Pokhari",
-      "Birgunj Clocktower",
-      "Maisthan Mandir"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Magic Bells",
@@ -11652,25 +10161,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Parsa Wildlife Reserve",
-          "Visit Ghadiarwa Pokhari",
-          "Visit Birgunj Clocktower",
-          "Eat at Magic Bells"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Maisthan Mandir"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.9,
@@ -11753,14 +10244,9 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Aston Hall",
-      "Barber Institute of Fine Arts",
       "Birmingham Museum and Art Gallery",
       "IKON Gallery",
-      "Lapworth Museum of Geology",
-      "Sarehole Mill",
-      "Royal Birmingham Society of Artists",
-      "Soho House"
+      "Lapworth Museum of Geology"
     ],
     "restaurants": [
       {
@@ -11844,40 +10330,10 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Aston Hall",
-          "Visit Barber Institute of Fine Arts",
           "Visit Birmingham Museum and Art Gallery",
-          "Eat at Eat4Less"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
           "Visit IKON Gallery",
           "Visit Lapworth Museum of Geology",
-          "Visit Sarehole Mill",
-          "Eat at Grand Central Kitchen"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Royal Birmingham Society of Artists",
-          "Visit Soho House",
-          "Visit National Exhibition Centre",
-          "Eat at Tortilla Birmingham"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Arena Birmingham",
-          "Visit International Convention Centre (ICC)",
-          "Visit The Custard Factory",
-          "Eat at The Chicken Hut"
+          "Eat at Eat4Less"
         ]
       }
     ],
@@ -11924,8 +10380,7 @@ const raw: Gen[] = [
       "Russian Orthodox Cathedral",
       "Fine Arts Museum \"Gapar Aitiev\"",
       "Victory Square",
-      "Panfilov Park",
-      "Zhirgal Banya"
+      "Panfilov Park"
     ],
     "restaurants": [
       {
@@ -12033,8 +10488,6 @@ const raw: Gen[] = [
         "title": "Markets, parks & hidden corners",
         "activities": [
           "Visit Panfilov Park",
-          "Visit Zhirgal Banya",
-          "Visit Karven Club",
           "Eat at Oasis Azian Doner and Kabab"
         ]
       }
@@ -12178,13 +10631,13 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Clock Tower",
-      "Širok Sokak",
       "Yeni Mosque",
       "Magnolia Square",
       "Church of Saint Demetrius",
       "Church of the Holy Mother of God",
-      "Prespa-Pelagonia Diocese",
-      "Cathedral of the Sacred Heart"
+      "Cathedral of the Sacred Heart",
+      "Bitola Metro Zoo",
+      "City Park"
     ],
     "restaurants": [
       {
@@ -12268,8 +10721,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Clock Tower",
-          "Visit Širok Sokak",
           "Visit Yeni Mosque",
+          "Visit Magnolia Square",
           "Eat at Grne"
         ]
       },
@@ -12277,9 +10730,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Magnolia Square",
           "Visit Church of Saint Demetrius",
           "Visit Church of the Holy Mother of God",
+          "Visit Cathedral of the Sacred Heart",
           "Eat at Kus Kus"
         ]
       },
@@ -12287,9 +10740,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Prespa-Pelagonia Diocese",
-          "Visit Cathedral of the Sacred Heart",
           "Visit Bitola Metro Zoo",
+          "Visit City Park",
+          "Visit The Champions Park",
           "Eat at Pita Giro"
         ]
       },
@@ -12297,9 +10750,7 @@ const raw: Gen[] = [
         "day": 4,
         "title": "Day trips & more",
         "activities": [
-          "Visit City Park",
-          "Visit Culture House",
-          "Visit Olympic Swimming Pool",
+          "Visit Stiv Naumov Park",
           "Eat at Pizza Bure"
         ]
       }
@@ -12342,7 +10793,6 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Spanish Fort",
-      "Kasba",
       "Oceanographic Museum",
       "Wander the beach"
     ],
@@ -12382,16 +10832,9 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Spanish Fort",
-          "Visit Kasba",
           "Visit Oceanographic Museum",
+          "Visit Wander the beach",
           "Eat at Restaurant Le Phénicien"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Wander the beach"
         ]
       }
     ],
@@ -12432,10 +10875,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Mandala House",
       "Museum of Malawi",
-      "St. Michael and All Angels Church",
-      "Record a Song"
+      "St. Michael and All Angels Church"
     ],
     "restaurants": [
       {
@@ -12491,26 +10932,7 @@ const raw: Gen[] = [
       "St. Michael and All Angels Church"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Mandala House",
-          "Visit Museum of Malawi",
-          "Visit St. Michael and All Angels Church",
-          "Eat at Jungle Pepper"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Record a Song",
-          "Eat at Bombay Palace"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.4,
@@ -12588,10 +11010,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Chréa National Park",
-      "Mustapha Tchaker Stadium"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Burgred",
@@ -12646,9 +11065,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Clock Tower"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Americana Bakery and Cafe"
@@ -12716,10 +11133,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Grande Mosquée",
-      "Place de la Nation Musee Provincial"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "La Canne d'Or",
@@ -12797,10 +11211,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Ciclovía",
-      "Sabana de Bogotá"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -12894,9 +11305,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "St. Teresa of Infant Jesus Cathedral"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Hotel AHO",
@@ -12958,14 +11367,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Arco da Porta Nova",
-      "Braga Cathedral",
-      "Arcada",
-      "Árvore da Vida: Capela do Seminário Conciliar de Braga",
-      "Sanctuary of Bom Jesus do Monte",
-      "Teatro Circo"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Restaurante Britos",
@@ -13008,28 +11410,7 @@ const raw: Gen[] = [
       "Braga Cathedral"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Arco da Porta Nova",
-          "Visit Braga Cathedral",
-          "Visit Arcada",
-          "Eat at Restaurante Britos"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Árvore da Vida: Capela do Seminário Conciliar de Braga",
-          "Visit Sanctuary of Bom Jesus do Monte",
-          "Visit Teatro Circo",
-          "Eat at Sabores do Bairro (Maximinos)"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -13068,13 +11449,11 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Three Powers Square",
-      "Congresso Nacional",
       "Itamaraty Palace",
       "Brasilia Cathedral",
       "Brasilia National Museum",
       "Television Tower",
-      "Juscelino Kubitschek Memorial",
-      "Palácio da Alvorada"
+      "Juscelino Kubitschek Memorial"
     ],
     "restaurants": [
       {
@@ -13150,8 +11529,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Three Powers Square",
-          "Visit Congresso Nacional",
           "Visit Itamaraty Palace",
+          "Visit Brasilia Cathedral",
           "Eat at Giraffas"
         ]
       },
@@ -13159,30 +11538,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Brasilia Cathedral",
           "Visit Brasilia National Museum",
           "Visit Television Tower",
-          "Eat at Pizzaria Dom Bosco"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Juscelino Kubitschek Memorial",
-          "Visit Palácio da Alvorada",
-          "Visit Japanese Festival",
-          "Eat at Pizzaria Dom Bosco South Wing"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Porão do Rock",
-          "Visit Chapada Imperial",
-          "Visit Golf",
-          "Eat at Pizzaria Dom Bosco North Wing"
+          "Eat at Pizzaria Dom Bosco"
         ]
       }
     ],
@@ -13337,17 +11696,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit National Museum",
           "Visit Bratislava City Museum",
-          "Visit Speedboats.sk",
           "Eat at U Sedliaka"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit International Film Festival Bratislava",
-          "Visit The Uprising Music Festival",
-          "Eat at Olive Tree"
         ]
       }
     ],
@@ -13388,14 +11737,9 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Palais du Peuple",
       "Pierre Savorgnan de Brazza Memorial",
-      "Le Palais des Congrès",
       "Brazzaville Zoo",
-      "Basilique Sainte-Anne of the Congo",
-      "Sacred Heart Cathedral",
-      "Corniche",
-      "Tennis Club"
+      "Sacred Heart Cathedral"
     ],
     "restaurants": [
       {
@@ -13444,28 +11788,10 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Palais du Peuple",
           "Visit Pierre Savorgnan de Brazza Memorial",
-          "Visit Le Palais des Congrès",
-          "Eat at Hippocampe"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
           "Visit Brazzaville Zoo",
-          "Visit Basilique Sainte-Anne of the Congo",
-          "Visit Sacred Heart Cathedral"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Corniche",
-          "Visit Tennis Club",
-          "Visit Brazzaville Golf Club"
+          "Visit Sacred Heart Cathedral",
+          "Eat at Hippocampe"
         ]
       }
     ],
@@ -13549,9 +11875,6 @@ const raw: Gen[] = [
       "Exchange Museum",
       "St Mary's Church",
       "Nidhe Israel Synagogue",
-      "Parliament",
-      "Ilaro Court",
-      "George Washington House",
       "Barbados Museum"
     ],
     "restaurants": [],
@@ -13607,26 +11930,7 @@ const raw: Gen[] = [
         "title": "Culture & neighborhoods",
         "activities": [
           "Visit Nidhe Israel Synagogue",
-          "Visit Parliament",
-          "Visit Ilaro Court"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit George Washington House",
-          "Visit Barbados Museum",
-          "Visit Mount Gay Rum"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Atlantis Submarines",
-          "Visit Kensington Oval",
-          "Visit Garrison Savannah Racetrack"
+          "Visit Barbados Museum"
         ]
       }
     ],
@@ -13663,10 +11967,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Makasutu Culture Forest",
-      "Brikama Woodcarvers' Market"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Domorr Deema Mini Hotel",
@@ -13740,12 +12041,10 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Brisbane City Hall and King George Square",
       "Brisbane City Hall Clock Tower",
-      "The University of Queensland",
-      "Wheel of Brisbane",
       "Cathedral of St. Stephen",
-      "Brisbane Convention & Exhibition Centre",
-      "State Law Building",
-      "Commissariat Store Museum"
+      "Commissariat Store Museum",
+      "Jan Powers Farmers Markets",
+      "Explore Brisbane's Moreton Bay and Islands"
     ],
     "restaurants": [
       {
@@ -13826,7 +12125,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Brisbane City Hall and King George Square",
           "Visit Brisbane City Hall Clock Tower",
-          "Visit The University of Queensland",
+          "Visit Cathedral of St. Stephen",
           "Eat at Kadoya"
         ]
       },
@@ -13834,30 +12133,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Wheel of Brisbane",
-          "Visit Cathedral of St. Stephen",
-          "Visit Brisbane Convention & Exhibition Centre",
-          "Eat at Beach House"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit State Law Building",
           "Visit Commissariat Store Museum",
-          "Visit Kangaroo Point",
-          "Eat at Bar Merlo"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Story Bridge Adventure Climb",
           "Visit Jan Powers Farmers Markets",
-          "Visit Balloons over Brisbane",
-          "Eat at Pancake Manor"
+          "Visit Explore Brisbane's Moreton Bay and Islands",
+          "Eat at Beach House"
         ]
       }
     ],
@@ -13903,9 +12182,7 @@ const raw: Gen[] = [
       "Church of St. James",
       "Petrov Cathedral",
       "Špilberk Castle",
-      "Tugendhat Villa",
-      "Veveří street",
-      "Villa Stiassni"
+      "Brno Zoo"
     ],
     "restaurants": [
       {
@@ -13992,28 +12269,8 @@ const raw: Gen[] = [
         "activities": [
           "Visit Petrov Cathedral",
           "Visit Špilberk Castle",
-          "Visit Tugendhat Villa",
-          "Eat at Carmel Divadelní"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Veveří street",
-          "Visit Villa Stiassni",
           "Visit Brno Zoo",
-          "Eat at Bistro Bastardo"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Ignis Brunensis",
-          "Visit Brno Racing Circuit",
-          "Visit Brno Trade and Fair Centre",
-          "Eat at Restaurace U Draka"
+          "Eat at Carmel Divadelní"
         ]
       }
     ],
@@ -14054,7 +12311,6 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Adventurer's Family Entertainment Center",
       "Deno's Wonder Wheel Amusement Park",
       "Luna Park at Coney Island"
     ],
@@ -14065,17 +12321,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Adventurer's Family Entertainment Center",
-          "Visit Deno's Wonder Wheel Amusement Park",
-          "Visit Luna Park at Coney Island"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.6,
@@ -14205,13 +12451,13 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Palace of the Parliament",
-      "Old City",
       "Revolution Square",
-      "Arch of Triumph",
-      "Romanian Atheneum",
       "Victory Square",
       "National Art Museum",
-      "Aviation Museum"
+      "Aviation Museum",
+      "Cişmigiu Garden",
+      "Herăstrău Park",
+      "Botanical Gardens"
     ],
     "restaurants": [
       {
@@ -14291,8 +12537,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Palace of the Parliament",
-          "Visit Old City",
           "Visit Revolution Square",
+          "Visit Victory Square",
           "Eat at Kanteen 162"
         ]
       },
@@ -14300,9 +12546,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Arch of Triumph",
-          "Visit Romanian Atheneum",
-          "Visit Victory Square",
+          "Visit National Art Museum",
+          "Visit Aviation Museum",
+          "Visit Cişmigiu Garden",
           "Eat at LUCA"
         ]
       },
@@ -14310,9 +12556,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit National Art Museum",
-          "Visit Aviation Museum",
-          "Visit Therme București",
+          "Visit Herăstrău Park",
+          "Visit Botanical Gardens",
+          "Visit Carol Park",
           "Eat at SC Argentin Impex LLC"
         ]
       },
@@ -14320,9 +12566,9 @@ const raw: Gen[] = [
         "day": 4,
         "title": "Day trips & more",
         "activities": [
-          "Visit Cişmigiu Garden",
-          "Visit Herăstrău Park",
-          "Visit Botanical Gardens",
+          "Visit Tineretului Park",
+          "Visit Titan Park",
+          "Visit Opera Naţională",
           "Eat at Bodega \"La Mahala\""
         ]
       }
@@ -14363,12 +12609,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Hungaria Koncert",
-      "Budapest Spring Festival",
-      "Firework above Danube River",
-      "Jewish Summer Festival"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Trófea Grill",
@@ -14385,26 +12626,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Hungaria Koncert",
-          "Visit Budapest Spring Festival",
-          "Visit Firework above Danube River",
-          "Eat at Trófea Grill"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Jewish Summer Festival",
-          "Eat at Leroy Cafe"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -14441,12 +12663,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Hungaria Koncert",
-      "Budapest Spring Festival",
-      "Firework above Danube River",
-      "Jewish Summer Festival"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Trófea Grill",
@@ -14463,26 +12680,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Hungaria Koncert",
-          "Visit Budapest Spring Festival",
-          "Visit Firework above Danube River",
-          "Eat at Trófea Grill"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Jewish Summer Festival",
-          "Eat at Leroy Cafe"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -14561,7 +12759,6 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Stari Grad (Old Town)",
       "Budva Citadel",
-      "Museum of the Town of Budva / Archaeology Museum",
       "Mogren Beach",
       "Dancing Girl Statue",
       "Church of Saint John",
@@ -14636,7 +12833,6 @@ const raw: Gen[] = [
       "Caffe Greco"
     ],
     "museums": [
-      "Museum of the Town of Budva / Archaeology Museum",
       "Church of Saint John",
       "Church of Holy Trinity",
       "Church of Saint Sava"
@@ -14649,7 +12845,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Stari Grad (Old Town)",
           "Visit Budva Citadel",
-          "Visit Museum of the Town of Budva / Archaeology Museum",
+          "Visit Mogren Beach",
           "Eat at Paradise Food"
         ]
       },
@@ -14657,9 +12853,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Mogren Beach",
           "Visit Dancing Girl Statue",
           "Visit Church of Saint John",
+          "Visit Church of Holy Trinity",
           "Eat at Kod Iva"
         ]
       },
@@ -14667,20 +12863,8 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Church of Holy Trinity",
           "Visit Church of Saint Sava",
-          "Visit Boat Trip around Budva Riviera",
           "Eat at Andora Fast Food"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Bungee jumping",
-          "Visit Paragliding",
-          "Visit Hike old cliffy-road above the sea",
-          "Eat at Verde"
         ]
       }
     ],
@@ -14774,13 +12958,9 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Musée Vivant",
       "Rusizi National Park",
       "Livingstone–Stanley Monument",
-      "Cathédrale Regina Mundi de Bujumbura",
       "Monument de l’Unité National",
-      "Mausolée du Prince Louis Rwagasore",
-      "Bugarama",
       "Karera Beach"
     ],
     "restaurants": [
@@ -14850,9 +13030,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Musée Vivant",
           "Visit Rusizi National Park",
           "Visit Livingstone–Stanley Monument",
+          "Visit Monument de l’Unité National",
           "Eat at Botanika"
         ]
       },
@@ -14860,28 +13040,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Cathédrale Regina Mundi de Bujumbura",
-          "Visit Monument de l’Unité National",
-          "Visit Mausolée du Prince Louis Rwagasore",
-          "Eat at Le Bouteille d'Or"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Bugarama",
           "Visit Karera Beach",
-          "Visit Saga Plage",
-          "Eat at Le Cayor"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Association Burundaise pour la protection de la Nature (ABN)",
-          "Eat at Le Plaisir"
+          "Eat at Le Bouteille d'Or"
         ]
       }
     ],
@@ -14921,9 +13081,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Our Lady of Peace Cathedral"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Hotel Residence",
@@ -15003,10 +13161,8 @@ const raw: Gen[] = [
       "National Art Gallery",
       "Bulawayo Railway Museum",
       "Khami Ruins",
-      "Queens Sports Club",
-      "Swimming pool",
-      "Hillside Dams",
-      "to Chipangali Wildlife Orphanage"
+      "to Khami Ruins",
+      "to Hwange National Park"
     ],
     "restaurants": [
       {
@@ -15100,28 +13256,9 @@ const raw: Gen[] = [
         "title": "Culture & neighborhoods",
         "activities": [
           "Visit Khami Ruins",
-          "Visit Queens Sports Club",
-          "Visit Swimming pool",
-          "Eat at Haefelli's Bakery"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Hillside Dams",
-          "Visit to Chipangali Wildlife Orphanage",
           "Visit to Khami Ruins",
-          "Eat at Cubana Bulawayo"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit to Matopos",
           "Visit to Hwange National Park",
-          "Eat at Bulawayo Club"
+          "Eat at Haefelli's Bakery"
         ]
       }
     ],
@@ -15244,10 +13381,7 @@ const raw: Gen[] = [
       "Archaeological Museum",
       "Historical Museum",
       "Natural History Museum",
-      "Poda",
-      "Sea Garden",
-      "Mosta",
-      "Flamingos"
+      "Sea Garden"
     ],
     "restaurants": [
       {
@@ -15329,29 +13463,8 @@ const raw: Gen[] = [
         "title": "Culture & neighborhoods",
         "activities": [
           "Visit Natural History Museum",
-          "Visit Poda",
           "Visit Sea Garden",
           "Eat at Pizzaria Venice"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Mosta",
-          "Visit Flamingos",
-          "Visit Bourgas Sand Fest",
-          "Eat at The Crazy Family"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Burgas Yachting Week",
-          "Visit Bulgarian Dead Sea",
-          "Visit Burgas Mineral Baths",
-          "Eat at Fish express"
         ]
       }
     ],
@@ -15393,7 +13506,6 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Grand Mosque",
-      "Koza Han",
       "City Museum",
       "Green Mosque",
       "Turkish & Islamic Art Museum",
@@ -15473,8 +13585,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Grand Mosque",
-          "Visit Koza Han",
           "Visit City Museum",
+          "Visit Green Mosque",
           "Eat at İskender Tarihi Ahşap Dükkan"
         ]
       },
@@ -15482,9 +13594,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Green Mosque",
           "Visit Turkish & Islamic Art Museum",
           "Visit Museum of the Ottoman House",
+          "Visit Tofaş Anatolian Car Museum",
           "Eat at Kebapçı İskender (Mavi Dükkan)"
         ]
       },
@@ -15492,9 +13604,7 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Tofaş Anatolian Car Museum",
           "Visit Beyazid I Mosque",
-          "Visit Yeni Baths",
           "Eat at Çiçek Izgara"
         ]
       }
@@ -15535,14 +13645,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Polar Bear Swim",
-      "Busan International Rock Festival",
-      "Sea Art Festival 2013",
-      "Busan Sailing",
-      "Chicago Fitness Club",
-      "Busan Bandits Rugby Football Club"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -15550,26 +13653,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Polar Bear Swim",
-          "Visit Busan International Rock Festival",
-          "Visit Sea Art Festival 2013"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Busan Sailing",
-          "Visit Chicago Fitness Club",
-          "Visit Busan Bandits Rugby Football Club"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.9,
@@ -15692,10 +13776,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Muzeul Tinutului Cahul",
-      "Nufărul Alb"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Don Umberto",
@@ -15798,11 +13879,11 @@ const raw: Gen[] = [
       "Grand Egyptian Museum",
       "Egyptian Museum",
       "National Museum of Egyptian Civilization",
-      "Ibn Tulun",
       "Al-Azhar Park",
-      "Khan El Khalily",
       "Abdeen Palace",
-      "Pharaonic Village"
+      "The Garden Theater",
+      "Cairo Opera House",
+      "The Townhouse Gallery of Contemporary Art"
     ],
     "restaurants": [],
     "hotels": [],
@@ -15813,7 +13894,8 @@ const raw: Gen[] = [
       "Grand Egyptian Museum",
       "Egyptian Museum",
       "National Museum of Egyptian Civilization",
-      "Abdeen Palace"
+      "Abdeen Palace",
+      "The Townhouse Gallery of Contemporary Art"
     ],
     "localFoods": [],
     "itinerary": [
@@ -15830,27 +13912,17 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Ibn Tulun",
           "Visit Al-Azhar Park",
-          "Visit Khan El Khalily"
+          "Visit Abdeen Palace",
+          "Visit The Garden Theater"
         ]
       },
       {
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Abdeen Palace",
-          "Visit Pharaonic Village",
-          "Visit The Culture Wheel"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit The Garden Theater",
           "Visit Cairo Opera House",
-          "Visit Egyptian Centre for Culture & Art"
+          "Visit The Townhouse Gallery of Contemporary Art"
         ]
       }
     ],
@@ -15890,16 +13962,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Calgary Stampede",
-      "High Performance Rodeo",
-      "Calgary International Salsa Congress",
-      "Calgary Spoken Word Festival",
-      "Calgary Expo",
-      "FunnyFest Calgary Comedy Festival",
-      "Lilac Festival",
-      "Sled Island Festival"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -15910,34 +13973,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Calgary Stampede",
-          "Visit High Performance Rodeo",
-          "Visit Calgary International Salsa Congress"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Calgary Spoken Word Festival",
-          "Visit Calgary Expo",
-          "Visit FunnyFest Calgary Comedy Festival"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Lilac Festival",
-          "Visit Sled Island Festival"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.9,
@@ -15976,8 +14012,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "St. Peter the Apostle Cathedral",
-      "The River Cat statue",
-      "Motolombia"
+      "The River Cat statue"
     ],
     "restaurants": [
       {
@@ -16054,18 +14089,7 @@ const raw: Gen[] = [
       "St. Peter the Apostle Cathedral"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit St. Peter the Apostle Cathedral",
-          "Visit The River Cat statue",
-          "Visit Motolombia",
-          "Eat at El Solar"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.6,
@@ -16102,12 +14126,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Fortaleza del Real Felipe",
-      "Museo de la Fuerza de Aviación Naval",
-      "Museo Naval",
-      "Museo de Sitio Naval Submarino Abtao"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Villa La Punta",
@@ -16144,24 +14163,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Fortaleza del Real Felipe",
-          "Visit Museo de la Fuerza de Aviación Naval",
-          "Visit Museo Naval"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Museo de Sitio Naval Submarino Abtao"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -16242,8 +14244,7 @@ const raw: Gen[] = [
       "San Roque Cathedral",
       "Caloocan City People's Park",
       "Thai-To Taosit Temple",
-      "Ung Siu Si Buddhist Temple",
-      "Green Paddle (Caloocan City)"
+      "Ung Siu Si Buddhist Temple"
     ],
     "restaurants": [
       {
@@ -16327,7 +14328,6 @@ const raw: Gen[] = [
         "activities": [
           "Visit Thai-To Taosit Temple",
           "Visit Ung Siu Si Buddhist Temple",
-          "Visit Green Paddle (Caloocan City)",
           "Eat at Tapa ni Mama"
         ]
       }
@@ -16494,12 +14494,12 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Ninh Kieu Park & Riverfront",
       "Can Tho Museum of Tarot",
-      "Xuan Khanh Quarter",
       "Munirensay Temple",
       "Chùa Ông (Ong Pagoda)",
       "Quang Duc Pagoda",
       "Tham Tướng Church",
-      "Tin Lanh Baptist Church"
+      "Tin Lanh Baptist Church",
+      "Floating markets"
     ],
     "restaurants": [
       {
@@ -16584,7 +14584,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Ninh Kieu Park & Riverfront",
           "Visit Can Tho Museum of Tarot",
-          "Visit Xuan Khanh Quarter",
+          "Visit Munirensay Temple",
           "Eat at Nam Bo Restaurant"
         ]
       },
@@ -16592,9 +14592,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Munirensay Temple",
           "Visit Chùa Ông (Ong Pagoda)",
           "Visit Quang Duc Pagoda",
+          "Visit Tham Tướng Church",
           "Eat at Nem Nuong Thanh Van"
         ]
       },
@@ -16602,19 +14602,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Tham Tướng Church",
           "Visit Tin Lanh Baptist Church",
-          "Visit Canals",
-          "Eat at Burger King"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
           "Visit Floating markets",
-          "Visit Countryside Tour",
-          "Eat at Pad Thai Tomato"
+          "Eat at Burger King"
         ]
       }
     ],
@@ -16654,16 +14644,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Mount Ainslie",
-      "Mount Pleasant",
-      "Mount Majura",
-      "Mount Taylor",
-      "Red Hill",
-      "Geocaching",
-      "Corin Forest",
-      "Floriade"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -16678,44 +14659,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Mount Ainslie",
-          "Visit Mount Pleasant",
-          "Visit Mount Majura"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Mount Taylor",
-          "Visit Red Hill",
-          "Visit Geocaching"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Corin Forest",
-          "Visit Floriade",
-          "Visit Summernats"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit The Multicultural Festival",
-          "Visit Thai Food & Cultural Festival",
-          "Visit The Canberra Show"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -16755,9 +14699,7 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Cape Coast Castle",
       "Fort Victoria",
-      "Fort William",
-      "Cape Coast Centre for National Culture",
-      "The Haven Workspace"
+      "Fort William"
     ],
     "restaurants": [
       {
@@ -16807,14 +14749,6 @@ const raw: Gen[] = [
           "Visit Fort William",
           "Eat at Assase Pa"
         ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Cape Coast Centre for National Culture",
-          "Visit The Haven Workspace"
-        ]
       }
     ],
     "hiddenGems": [],
@@ -16854,14 +14788,13 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Bo-Kaap",
       "Castle of Good Hope",
-      "City Hall",
       "Kirstenbosch National Botanical Garden",
       "Rhodes Memorial",
-      "South African Houses of Parliament",
       "Two Oceans Aquarium",
-      "Victoria and Alfred Waterfront"
+      "Victoria and Alfred Waterfront",
+      "Cable Car to the top of Table Mountain",
+      "Climbing Table Mountain"
     ],
     "restaurants": [
       {
@@ -16928,9 +14861,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Bo-Kaap",
           "Visit Castle of Good Hope",
-          "Visit City Hall",
+          "Visit Kirstenbosch National Botanical Garden",
+          "Visit Rhodes Memorial",
           "Eat at Eastern Food Bazaar"
         ]
       },
@@ -16938,9 +14871,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Kirstenbosch National Botanical Garden",
-          "Visit Rhodes Memorial",
-          "Visit South African Houses of Parliament",
+          "Visit Two Oceans Aquarium",
+          "Visit Victoria and Alfred Waterfront",
+          "Visit Cable Car to the top of Table Mountain",
           "Eat at Best Of Asia Green Point"
         ]
       },
@@ -16948,20 +14881,8 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Two Oceans Aquarium",
-          "Visit Victoria and Alfred Waterfront",
-          "Visit Cable Car to the top of Table Mountain",
-          "Eat at Randy Warthog Bar & Grill"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
           "Visit Climbing Table Mountain",
-          "Visit Cape Peninsula",
-          "Visit Winelands",
-          "Eat at Vasco da Gama Taverna"
+          "Eat at Randy Warthog Bar & Grill"
         ]
       }
     ],
@@ -17042,16 +14963,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "La Plaza Bolivar",
-      "Simón Bolívar Birthplace House",
-      "Boulevard of Sabana Grande",
-      "Museo de Bellas Artes de Caracas",
-      "Centro de Arte La Estancia",
-      "Jardin Botanico",
-      "Casa John Boulton Caracas",
-      "Parque del Este"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "El Granjero del Este",
@@ -17130,38 +15042,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit La Plaza Bolivar",
-          "Visit Simón Bolívar Birthplace House",
-          "Visit Boulevard of Sabana Grande",
-          "Eat at El Granjero del Este"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Museo de Bellas Artes de Caracas",
-          "Visit Centro de Arte La Estancia",
-          "Visit Jardin Botanico",
-          "Eat at Malabar"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Casa John Boulton Caracas",
-          "Visit Parque del Este",
-          "Visit Paragliding Colonia Tovar Venezuela",
-          "Eat at Aranjuez"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -17324,10 +15205,7 @@ const raw: Gen[] = [
     "thingsToDo": [
       "King Hassan II Mosque",
       "Old Medina",
-      "The Corniche",
       "Shrine of Sidi Abderrahman",
-      "Mahkama du Pacha",
-      "Central Post Office",
       "Octagon Square",
       "Museum of Moroccan Judaism"
     ],
@@ -17407,7 +15285,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit King Hassan II Mosque",
           "Visit Old Medina",
-          "Visit The Corniche",
+          "Visit Shrine of Sidi Abderrahman",
           "Eat at Brasserie La Cigale"
         ]
       },
@@ -17415,28 +15293,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Shrine of Sidi Abderrahman",
-          "Visit Mahkama du Pacha",
-          "Visit Central Post Office",
-          "Eat at Solidarité Féminine Association's restaurant"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Octagon Square",
           "Visit Museum of Moroccan Judaism",
-          "Visit Solidarité Féminine Association's Hammam",
-          "Eat at La Corrida"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Stade Mohammed V",
-          "Eat at Taverne du Dauphin"
+          "Eat at Solidarité Féminine Association's restaurant"
         ]
       }
     ],
@@ -17477,10 +15336,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Fond Bay Suites",
       "Derek Walcott Square (Columbus Square)",
-      "Morne Fortune With Fort Charlotte",
-      "La Toc Battery"
+      "Morne Fortune With Fort Charlotte"
     ],
     "restaurants": [],
     "hotels": [
@@ -17516,24 +15373,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Fond Bay Suites",
-          "Visit Derek Walcott Square (Columbus Square)",
-          "Visit Morne Fortune With Fort Charlotte"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit La Toc Battery"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -17571,10 +15411,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Stari Grad",
       "Laško castle",
-      "Lemberg castle",
-      "Šmatinsko Jezero"
+      "Lemberg castle"
     ],
     "restaurants": [],
     "hotels": [],
@@ -17586,24 +15424,7 @@ const raw: Gen[] = [
       "Lemberg castle"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Stari Grad",
-          "Visit Laško castle",
-          "Visit Lemberg castle"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Šmatinsko Jezero"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.2,
@@ -17640,12 +15461,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Caroni Swamp",
-      "The Lion House",
-      "Divali Nagar",
-      "Spa Paradis"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Passage to Asia",
@@ -17684,26 +15500,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Caroni Swamp",
-          "Visit The Lion House",
-          "Visit Divali Nagar",
-          "Eat at Passage to Asia"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Spa Paradis",
-          "Eat at Medford's Grill Xpress"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -17740,16 +15537,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Musée des Beaux-Arts",
-      "Musée des chasseurs à pied",
-      "BPS22",
-      "Museum of Photography",
-      "Site du bois du Cazier à Marcinelle",
-      "Musée du verre",
-      "Charleroi Expo",
-      "ULB Scientific Cultural Centre"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Le Chateaubriand"
@@ -17806,38 +15594,7 @@ const raw: Gen[] = [
       "Museum of Photography"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Musée des Beaux-Arts",
-          "Visit Musée des chasseurs à pied",
-          "Visit BPS22",
-          "Eat at Le Chateaubriand"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Museum of Photography",
-          "Visit Site du bois du Cazier à Marcinelle",
-          "Visit Musée du verre",
-          "Eat at Sandwicherie l’Impériale"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Charleroi Expo",
-          "Visit ULB Scientific Cultural Centre",
-          "Visit Cinéma Le Parc",
-          "Eat at Emirdag köftecisi"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -17875,14 +15632,12 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "BNS Issa Khan",
       "Chittagong Buddhist Monastery",
       "Chittagong Zoo",
-      "J M Sen Hall",
       "Anderkilla Shahi Jame Mosque",
-      "Chandanpura Nachghar",
-      "Cheragi Pahar",
-      "Chittagong Court Building"
+      "Foy's Lake Concord",
+      "Karnaphuli Shishu Park",
+      "Chittagong Shishu Park"
     ],
     "restaurants": [
       {
@@ -17958,9 +15713,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit BNS Issa Khan",
           "Visit Chittagong Buddhist Monastery",
           "Visit Chittagong Zoo",
+          "Visit Anderkilla Shahi Jame Mosque",
           "Eat at Ambrosia Restaurant Ltd"
         ]
       },
@@ -17968,30 +15723,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit J M Sen Hall",
-          "Visit Anderkilla Shahi Jame Mosque",
-          "Visit Chandanpura Nachghar",
-          "Eat at Barcode Cafe"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Cheragi Pahar",
-          "Visit Chittagong Court Building",
-          "Visit Batali Hill",
-          "Eat at Barcode Cafe (GEC)"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Agrabad Deba",
           "Visit Foy's Lake Concord",
           "Visit Karnaphuli Shishu Park",
-          "Eat at Barcode On Fire"
+          "Visit Chittagong Shishu Park",
+          "Eat at Barcode Cafe"
         ]
       }
     ],
@@ -18032,10 +15767,7 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Jinli Ancient Street",
-      "Kuanzhaixiangzi",
       "Tianfu Square",
-      "A Thousand Plateaus Art Space",
       "Sichuan Art Museum",
       "Chengdu Art Museum",
       "Chengdu Museum",
@@ -18121,9 +15853,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Jinli Ancient Street",
-          "Visit Kuanzhaixiangzi",
           "Visit Tianfu Square",
+          "Visit Sichuan Art Museum",
+          "Visit Chengdu Art Museum",
           "Eat at Yulinchuanchuanxiang"
         ]
       },
@@ -18131,30 +15863,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit A Thousand Plateaus Art Space",
-          "Visit Sichuan Art Museum",
-          "Visit Chengdu Art Museum",
-          "Eat at Lanzhou beef noodles"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Chengdu Museum",
           "Visit Chengdu Natural History Museum",
-          "Visit Cosmetics and Hair",
-          "Eat at Steamed buns"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Chunxi Road",
-          "Visit Drink tea",
-          "Visit Foot and body Massage",
-          "Eat at Lao Chengdu Yi Cheng Xian San Yang Mian"
+          "Eat at Lanzhou beef noodles"
         ]
       }
     ],
@@ -18239,13 +15950,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Northwestern Wildcats",
-      "DePaul Blue Demons",
-      "Loyola Ramblers",
-      "UIC Flames",
-      "Chicago State Cougars"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -18253,25 +15958,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Northwestern Wildcats",
-          "Visit DePaul Blue Demons",
-          "Visit Loyola Ramblers"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit UIC Flames",
-          "Visit Chicago State Cougars"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -18309,14 +15996,11 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Paseo Yortuque",
-      "Paseo de las Musas",
       "St. Mary's Cathedral",
-      "Museo de Sitio Túcume",
       "Royal Tombs of Sipán Museum",
-      "Museo de Sitio Huaca Rajada - Sipán",
       "Pómac Forest Historical Sanctuary",
-      "Sicán National Museum"
+      "Sicán National Museum",
+      "Beach of Pimentel"
     ],
     "restaurants": [
       {
@@ -18363,9 +16047,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Paseo Yortuque",
-          "Visit Paseo de las Musas",
           "Visit St. Mary's Cathedral",
+          "Visit Royal Tombs of Sipán Museum",
+          "Visit Pómac Forest Historical Sanctuary",
           "Eat at Curandero Cevichería"
         ]
       },
@@ -18373,26 +16057,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Museo de Sitio Túcume",
-          "Visit Royal Tombs of Sipán Museum",
-          "Visit Museo de Sitio Huaca Rajada - Sipán",
-          "Eat at Fiesta Gourmet Chiclayo"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Pómac Forest Historical Sanctuary",
           "Visit Sicán National Museum",
-          "Visit Stadium Elías Aguirre"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Beach of Pimentel"
+          "Visit Beach of Pimentel",
+          "Eat at Fiesta Gourmet Chiclayo"
         ]
       }
     ],
@@ -18430,12 +16097,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Monte Cabeça de Velho",
-      "Cachoeira de Amizade",
-      "Casa Msika",
-      "Chimanimani Mountains"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Hotel Inter-Chimoio",
@@ -18464,24 +16126,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Monte Cabeça de Velho",
-          "Visit Cachoeira de Amizade",
-          "Visit Casa Msika"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Chimanimani Mountains"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -18521,8 +16166,7 @@ const raw: Gen[] = [
       "Santa Ana Church",
       "El Calvario Church",
       "Sanctuary Church of Our Lady of Guadeloupe",
-      "Chorotega Nicarao Archeological Museum",
-      "Estadio de Beisbol Pedro Silva"
+      "Chorotega Nicarao Archeological Museum"
     ],
     "restaurants": [
       {
@@ -18573,8 +16217,7 @@ const raw: Gen[] = [
         "title": "Culture & neighborhoods",
         "activities": [
           "Visit Sanctuary Church of Our Lady of Guadeloupe",
-          "Visit Chorotega Nicarao Archeological Museum",
-          "Visit Estadio de Beisbol Pedro Silva"
+          "Visit Chorotega Nicarao Archeological Museum"
         ]
       }
     ],
@@ -18613,9 +16256,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Chipata Juma Mosque"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Al Jameel Enterprise",
@@ -18697,12 +16338,11 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Cathedral Park",
       "Ștefan cel Mare Monument",
-      "Rose Valley",
       "Râşcani Park",
       "Chișinău Botanical Garden",
       "Village Museum",
       "Valea Morilor Park",
-      "Parcul Dendrariu"
+      "Opera and Ballet Theatre"
     ],
     "restaurants": [
       {
@@ -18788,7 +16428,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Cathedral Park",
           "Visit Ștefan cel Mare Monument",
-          "Visit Rose Valley",
+          "Visit Râşcani Park",
           "Eat at Gălbenuș"
         ]
       },
@@ -18796,9 +16436,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Râşcani Park",
           "Visit Chișinău Botanical Garden",
           "Visit Village Museum",
+          "Visit Valea Morilor Park",
           "Eat at Foișor"
         ]
       },
@@ -18806,20 +16446,8 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Valea Morilor Park",
-          "Visit Parcul Dendrariu",
           "Visit Opera and Ballet Theatre",
           "Eat at Cantină"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Mihai Eminescu Theatre",
-          "Visit The National Philharmonic",
-          "Visit Cineplex",
-          "Eat at Star Kebab"
         ]
       }
     ],
@@ -19005,16 +16633,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Ang Sila",
-      "Khao Sam Muk",
-      "Laem Thaen",
-      "Phra Phutthasihing Shrine",
-      "Wat Thammanimit",
-      "Wat Yai Inthraram",
-      "Chonburi Annual Festival",
-      "Chonburi Buffalo Races"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -19024,44 +16643,7 @@ const raw: Gen[] = [
       "Phra Phutthasihing Shrine"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Ang Sila",
-          "Visit Khao Sam Muk",
-          "Visit Laem Thaen"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Phra Phutthasihing Shrine",
-          "Visit Wat Thammanimit",
-          "Visit Wat Yai Inthraram"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Chonburi Annual Festival",
-          "Visit Chonburi Buffalo Races",
-          "Visit Ko Phra Sai Wan Lai Festival"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Ngan Bun Klang Ban and Phanat Nikhom Basketwork Festival",
-          "Visit Songkran Si Maha Racha Festival and Kong Khao Tradition",
-          "Visit Wan Lai Festival"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.7,
@@ -19099,14 +16681,14 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Arts Centre",
       "Christchurch Art Gallery",
-      "Centre of Contemporary Art",
       "Cardboard Cathedral",
       "St Michael and All Angels Church",
       "Air Force Museum",
       "Canterbury Museum",
-      "International Antarctic Centre"
+      "Christchurch Casino",
+      "Christchurch Gondola",
+      "Garden City Helicopters"
     ],
     "restaurants": [
       {
@@ -19189,7 +16771,8 @@ const raw: Gen[] = [
       "Cardboard Cathedral",
       "St Michael and All Angels Church",
       "Air Force Museum",
-      "Canterbury Museum"
+      "Canterbury Museum",
+      "Christchurch Casino"
     ],
     "localFoods": [],
     "itinerary": [
@@ -19197,9 +16780,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Arts Centre",
           "Visit Christchurch Art Gallery",
-          "Visit Centre of Contemporary Art",
+          "Visit Cardboard Cathedral",
+          "Visit St Michael and All Angels Church",
           "Eat at Fresh Choice"
         ]
       },
@@ -19207,9 +16790,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Cardboard Cathedral",
-          "Visit St Michael and All Angels Church",
           "Visit Air Force Museum",
+          "Visit Canterbury Museum",
+          "Visit Christchurch Casino",
           "Eat at Woolworths"
         ]
       },
@@ -19217,20 +16800,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Canterbury Museum",
-          "Visit International Antarctic Centre",
-          "Visit Antigua Boatsheds",
-          "Eat at New World"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Christchurch Adventure Park",
-          "Visit Christchurch Casino",
           "Visit Christchurch Gondola",
-          "Eat at Pak'n'Save"
+          "Visit Garden City Helicopters",
+          "Eat at New World"
         ]
       }
     ],
@@ -19374,14 +16946,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Itaipú",
-      "Panoramic tour of the dam",
-      "Special visit to the dam",
-      "Technical visit to the dam",
       "Monumental Light Show",
-      "Scale model of the dam",
-      "Itaipu Museum Guarani Land",
-      "Salto del Monday"
+      "Itaipu Museum Guarani Land"
     ],
     "restaurants": [
       {
@@ -19447,38 +17013,7 @@ const raw: Gen[] = [
       "Itaipu Museum Guarani Land"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Itaipú",
-          "Visit Panoramic tour of the dam",
-          "Visit Special visit to the dam",
-          "Eat at Govinda Restaurante Veg"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Technical visit to the dam",
-          "Visit Monumental Light Show",
-          "Visit Scale model of the dam",
-          "Eat at Gouranga Restaurant"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Itaipu Museum Guarani Land",
-          "Visit Salto del Monday",
-          "Visit Refugio Biológico Tati Yupi",
-          "Eat at Mister Burguer"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -19515,12 +17050,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Parque La Llovizna",
-      "Parque Punta Vista",
-      "Parque Loefling",
-      "Parque Cachamay"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Casa de Lobo"
@@ -19535,24 +17065,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Parque La Llovizna",
-          "Visit Parque Punta Vista",
-          "Visit Parque Loefling"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Parque Cachamay"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -19583,9 +17096,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Las Victorias National Park"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Los Faroles Hotel",
@@ -19643,13 +17154,9 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Cristo de la Concordia",
       "Martín Cárdenas Botanical Garden",
       "Medical Museum",
-      "Museo Archeologico",
-      "Museo Convento Santa Teresa",
       "Natural History Museum \"Alcide d'Orbigny\"",
-      "Parque de la Familia",
       "Plaza Colon"
     ],
     "restaurants": [
@@ -19729,9 +17236,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Cristo de la Concordia",
           "Visit Martín Cárdenas Botanical Garden",
           "Visit Medical Museum",
+          "Visit Natural History Museum \"Alcide d'Orbigny\"",
           "Eat at Bufalo's Rodizio"
         ]
       },
@@ -19739,30 +17246,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Museo Archeologico",
-          "Visit Museo Convento Santa Teresa",
-          "Visit Natural History Museum \"Alcide d'Orbigny\"",
-          "Eat at Casa de Campo"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Parque de la Familia",
           "Visit Plaza Colon",
-          "Visit Ciudad Jardín",
-          "Eat at Dumbo"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Renacer",
-          "Visit Jacarandá",
-          "Visit Teleférico",
-          "Eat at Heladeria Cristal"
+          "Eat at Casa de Campo"
         ]
       }
     ],
@@ -19803,10 +17288,6 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "University of Coimbra",
-      "Medieval Downtown",
-      "Quinta das Lagrimas",
-      "Estádio Cidade de Coimbra",
       "Old Cathedral of Coimbra",
       "New Cathedral of Coimbra de Coimbra",
       "Monastery of the Holy Cross",
@@ -19888,9 +17369,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit University of Coimbra",
-          "Visit Medieval Downtown",
-          "Visit Quinta das Lagrimas",
+          "Visit Old Cathedral of Coimbra",
+          "Visit New Cathedral of Coimbra de Coimbra",
+          "Visit Monastery of the Holy Cross",
           "Eat at Molho de Brocolos"
         ]
       },
@@ -19898,20 +17379,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Estádio Cidade de Coimbra",
-          "Visit Old Cathedral of Coimbra",
-          "Visit New Cathedral of Coimbra de Coimbra",
-          "Eat at Fangas Mercearia Bar"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Monastery of the Holy Cross",
           "Visit Old Monastery of Saint Clare",
-          "Visit Portugal dos Pequenitos",
-          "Eat at Itália"
+          "Eat at Fangas Mercearia Bar"
         ]
       }
     ],
@@ -20076,7 +17545,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Colombo Zoological Gardens",
           "Visit Viharamahadevi Park",
-          "Visit Attidiya Bird Sanctuary",
+          "Visit Gordon Gardens",
           "Eat at The Lagoon"
         ]
       }
@@ -20284,14 +17753,13 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Old Casino Constanța",
       "Statue of Ovid",
       "Grand Mosque of Constanța",
-      "Roman Mosaic Edifice",
       "National Museum of History and Archeology",
       "The Popular Art Museum",
       "Marine Museum",
-      "The Natural Sciences Museum Complex"
+      "The Natural Sciences Museum Complex",
+      "Teatrul de Opera si Balet Oleg Danovski"
     ],
     "restaurants": [
       {
@@ -20360,9 +17828,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Old Casino Constanța",
           "Visit Statue of Ovid",
           "Visit Grand Mosque of Constanța",
+          "Visit National Museum of History and Archeology",
           "Eat at Extrablatt"
         ]
       },
@@ -20370,9 +17838,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Roman Mosaic Edifice",
-          "Visit National Museum of History and Archeology",
           "Visit The Popular Art Museum",
+          "Visit Marine Museum",
+          "Visit The Natural Sciences Museum Complex",
           "Eat at Alandala Smash Burger n Hot Dog"
         ]
       },
@@ -20380,20 +17848,8 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Marine Museum",
-          "Visit The Natural Sciences Museum Complex",
-          "Visit Cityplex",
-          "Eat at Pizza Pui cu Bacon"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Cinema City",
-          "Visit Teatrul Național Constanța",
           "Visit Teatrul de Opera si Balet Oleg Danovski",
-          "Eat at Albatros"
+          "Eat at Pizza Pui cu Bacon"
         ]
       }
     ],
@@ -20430,12 +17886,10 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Gustave Mercier Museum",
       "Ben-Badis Mosque",
-      "Emir Abdel Kader University & Mosque",
       "Soumma Mausoleum",
       "Palace of Ahmed Bey",
       "Ruins of the Antonian Roman aqueduct",
-      "Emir Abd Elkader Mosque",
-      "Théâtre Régional de Constantine Mohamed Tahar Fergani"
+      "Emir Abd Elkader Mosque"
     ],
     "restaurants": [],
     "hotels": [
@@ -20457,7 +17911,6 @@ const raw: Gen[] = [
     "museums": [
       "Gustave Mercier Museum",
       "Ben-Badis Mosque",
-      "Emir Abdel Kader University & Mosque",
       "Palace of Ahmed Bey",
       "Emir Abd Elkader Mosque"
     ],
@@ -20469,24 +17922,16 @@ const raw: Gen[] = [
         "activities": [
           "Visit Gustave Mercier Museum",
           "Visit Ben-Badis Mosque",
-          "Visit Emir Abdel Kader University & Mosque"
+          "Visit Soumma Mausoleum"
         ]
       },
       {
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Soumma Mausoleum",
           "Visit Palace of Ahmed Bey",
-          "Visit Ruins of the Antonian Roman aqueduct"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Emir Abd Elkader Mosque",
-          "Visit Théâtre Régional de Constantine Mohamed Tahar Fergani"
+          "Visit Ruins of the Antonian Roman aqueduct",
+          "Visit Emir Abd Elkader Mosque"
         ]
       }
     ],
@@ -20565,16 +18010,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Crafts Fair",
-      "Copenhagen Fashion Week",
-      "CPH PIX",
-      "International Workers Day",
-      "CPH Distortion",
-      "Zulu Sommerbio",
-      "Copenhagen Jazzfestival",
-      "Grøn Koncert"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -20584,34 +18020,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Crafts Fair",
-          "Visit Copenhagen Fashion Week",
-          "Visit CPH PIX"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit International Workers Day",
-          "Visit CPH Distortion",
-          "Visit Zulu Sommerbio"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Copenhagen Jazzfestival",
-          "Visit Grøn Koncert"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.6,
@@ -20685,7 +18094,6 @@ const raw: Gen[] = [
       "Crawford Art Gallery",
       "Elizabeth Fort",
       "St Fin Barre's Cathedral",
-      "Nano Nagle Place",
       "Church of St Anne, Shandon",
       "Butter Museum",
       "Cathedral of St Mary and St Anne",
@@ -20786,9 +18194,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Nano Nagle Place",
           "Visit Church of St Anne, Shandon",
           "Visit Butter Museum",
+          "Visit Cathedral of St Mary and St Anne",
           "Eat at My Goodness"
         ]
       },
@@ -20796,18 +18204,8 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Cathedral of St Mary and St Anne",
           "Visit Holy Trinity Church",
-          "Visit Páirc Ui Chaoimh",
           "Eat at Kellys Restaurant"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Cork City FC",
-          "Eat at O'Flynns Gourmet Sausage Co"
         ]
       }
     ],
@@ -20849,13 +18247,8 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Cotonou Cathedral",
-      "Fondation Zinzou",
-      "Grande Mosquée de Zongo",
-      "Place de la Bulgarie",
-      "Place des Martyrs",
-      "Place de l'Amazone",
       "Monument Bio Guera",
-      "Etoile Rouge"
+      "Obama Beach"
     ],
     "restaurants": [
       {
@@ -20934,39 +18327,9 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Cotonou Cathedral",
-          "Visit Fondation Zinzou",
-          "Visit Grande Mosquée de Zongo",
-          "Eat at Boucherie Zitawi"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Place de la Bulgarie",
-          "Visit Place des Martyrs",
-          "Visit Place de l'Amazone",
-          "Eat at Chez Maman Bénin"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Monument Bio Guera",
-          "Visit Etoile Rouge",
-          "Visit Institut Français",
-          "Eat at Fifadji Pork Maquis"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Stade de l'Amitié",
-          "Visit Air de Jeux Plage Erevan",
           "Visit Obama Beach",
-          "Eat at La Galette à Sucre"
+          "Eat at Boucherie Zitawi"
         ]
       }
     ],
@@ -21046,10 +18409,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Trou aux Cerfs",
       "Botanic Gardens",
-      "Monvert Nature Park",
-      "Stade George V"
+      "Monvert Nature Park"
     ],
     "restaurants": [
       {
@@ -21074,26 +18435,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Trou aux Cerfs",
-          "Visit Botanic Gardens",
-          "Visit Monvert Nature Park",
-          "Eat at Bistro Barbu"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Stade George V",
-          "Eat at Blue Ivy Café"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.6,
@@ -21131,14 +18473,14 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Ba Na Hill Station",
       "Golden Bridge",
       "Dragon Bridge",
       "Han River Promenade",
       "Linh Ung Temple",
       "Marble Mountains",
       "Museum of Cham Sculpture",
-      "My Khe Beach"
+      "My Khe Beach",
+      "Motorbike ride up Monkey Mountain"
     ],
     "restaurants": [
       {
@@ -21225,9 +18567,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Ba Na Hill Station",
           "Visit Golden Bridge",
           "Visit Dragon Bridge",
+          "Visit Han River Promenade",
           "Eat at Phở 29 - Phở Hà Nội"
         ]
       },
@@ -21235,9 +18577,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Han River Promenade",
           "Visit Linh Ung Temple",
           "Visit Marble Mountains",
+          "Visit Museum of Cham Sculpture",
           "Eat at Edo Sushi"
         ]
       },
@@ -21245,18 +18587,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Museum of Cham Sculpture",
           "Visit My Khe Beach",
           "Visit Motorbike ride up Monkey Mountain",
           "Eat at Cơm gà A.Hải"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Ride a motorbike up the Hai Van Pass",
-          "Eat at Bánh Mì̀ Bà Lan"
         ]
       }
     ],
@@ -21299,12 +18632,7 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Duryu Park",
       "E-World and 83 Tower",
-      "The Arc",
-      "Kim Gwangseok-gil Street",
-      "Hillcrest",
-      "Suseong Lake",
-      "Gatbawi",
-      "Mt. Palgong"
+      "Suseong Lake"
     ],
     "restaurants": [
       {
@@ -21381,27 +18709,8 @@ const raw: Gen[] = [
         "activities": [
           "Visit Duryu Park",
           "Visit E-World and 83 Tower",
-          "Visit The Arc",
-          "Eat at Samsong Bakery"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Kim Gwangseok-gil Street",
-          "Visit Hillcrest",
           "Visit Suseong Lake",
-          "Eat at Seomun Market"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Gatbawi",
-          "Visit Mt. Palgong",
-          "Eat at Anjirang Gopchang Town"
+          "Eat at Samsong Bakery"
         ]
       }
     ],
@@ -21443,13 +18752,13 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Sikjangsan Mountain Forest",
-      "Mount Bomunsan",
-      "Mount Gubongsan",
-      "Mount Jangtaesan",
-      "Yuseong Spa",
       "Expo Park",
       "Daecheong Lake",
-      "Mount Gyejoksan"
+      "Daejeon Observatory",
+      "National Science Museum",
+      "Daejeon Currency Museum",
+      "Daejeon Museum of Art",
+      "Donghak-sa Temple"
     ],
     "restaurants": [
       {
@@ -21519,7 +18828,12 @@ const raw: Gen[] = [
       "Rest, fish cake, and a drink",
       "Thank you very much"
     ],
-    "museums": [],
+    "museums": [
+      "National Science Museum",
+      "Daejeon Currency Museum",
+      "Daejeon Museum of Art",
+      "Donghak-sa Temple"
+    ],
     "localFoods": [],
     "itinerary": [
       {
@@ -21527,8 +18841,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Sikjangsan Mountain Forest",
-          "Visit Mount Bomunsan",
-          "Visit Mount Gubongsan",
+          "Visit Expo Park",
+          "Visit Daecheong Lake",
           "Eat at Indy"
         ]
       },
@@ -21536,9 +18850,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Mount Jangtaesan",
-          "Visit Yuseong Spa",
-          "Visit Expo Park",
+          "Visit Daejeon Observatory",
+          "Visit National Science Museum",
+          "Visit Daejeon Currency Museum",
           "Eat at Loving Hut"
         ]
       },
@@ -21546,20 +18860,10 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Daecheong Lake",
-          "Visit Mount Gyejoksan",
-          "Visit Yuseong Hot Springs Resort",
+          "Visit Daejeon Museum of Art",
+          "Visit Donghak-sa Temple",
+          "Visit Uam Historical Park",
           "Eat at Sung Sim Dang"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Daejeon Observatory",
-          "Visit National Science Museum",
-          "Visit Daejeon Currency Museum",
-          "Eat at Flying Pan"
         ]
       }
     ],
@@ -21644,12 +18948,11 @@ const raw: Gen[] = [
     "thingsToDo": [
       "African Renaissance Monument",
       "IFAN Museum of African Arts",
-      "Ile de Gorée",
-      "Les Almadies",
       "Dakar Grand Mosque",
       "Dakar Cathedral",
       "Hann Park and Zoo",
-      "Léopold Sédar Senghor national stadium"
+      "Lake Retba",
+      "Madeline Islands National Park"
     ],
     "restaurants": [
       {
@@ -21729,7 +19032,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit African Renaissance Monument",
           "Visit IFAN Museum of African Arts",
-          "Visit Ile de Gorée",
+          "Visit Dakar Grand Mosque",
           "Eat at Chez Elias"
         ]
       },
@@ -21737,9 +19040,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Les Almadies",
-          "Visit Dakar Grand Mosque",
           "Visit Dakar Cathedral",
+          "Visit Hann Park and Zoo",
+          "Visit Lake Retba",
           "Eat at Les batons (\"BANT-YII\")"
         ]
       },
@@ -21747,20 +19050,8 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Hann Park and Zoo",
-          "Visit Léopold Sédar Senghor national stadium",
-          "Visit Lake Retba",
-          "Eat at Ali Baba"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Birdwatching",
           "Visit Madeline Islands National Park",
-          "Visit Magic Land, Dakar",
-          "Eat at Hotel Restaurant Farid"
+          "Eat at Ali Baba"
         ]
       }
     ],
@@ -21886,9 +19177,8 @@ const raw: Gen[] = [
       "Azm Palace",
       "Citadel of Damascus",
       "Statue of Saladin",
-      "Khan As'ad Pasha",
-      "Khan al-Harir",
-      "Menarsha Synagogue"
+      "Menarsha Synagogue",
+      "Damascus Opera House"
     ],
     "restaurants": [
       {
@@ -21978,7 +19268,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Citadel of Damascus",
           "Visit Statue of Saladin",
-          "Visit Khan As'ad Pasha",
+          "Visit Menarsha Synagogue",
           "Eat at Al-Sehhi Restaurant"
         ]
       },
@@ -21986,19 +19276,8 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Khan al-Harir",
-          "Visit Menarsha Synagogue",
           "Visit Damascus Opera House",
           "Eat at Il Forno Pizzeria"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Nur-al-Din Bath",
-          "Visit Bakri Bath",
-          "Eat at Leila's Restaurant and Terrace"
         ]
       }
     ],
@@ -22039,12 +19318,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Dammam Corniche",
       "Al Morjan island",
-      "Flagpole",
-      "Abu Loza's Bath",
-      "Tarout Castle",
-      "Prince Mohammed Bin Fadh Stadium"
+      "Tarout Castle"
     ],
     "restaurants": [
       {
@@ -22088,28 +19363,7 @@ const raw: Gen[] = [
       "Tarout Castle"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Dammam Corniche",
-          "Visit Al Morjan island",
-          "Visit Flagpole",
-          "Eat at Dammam taj hotel"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Abu Loza's Bath",
-          "Visit Tarout Castle",
-          "Visit Prince Mohammed Bin Fadh Stadium",
-          "Eat at Karachi Restaurant"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.6,
@@ -22232,10 +19486,8 @@ const raw: Gen[] = [
       "Makumbusho Village Museum",
       "Askari Monument",
       "Zoological Gardens",
-      "Karimjee Hall",
       "Azania Front Lutheran Church",
-      "St. Joseph's Cathedral",
-      "Graham"
+      "St. Joseph's Cathedral"
     ],
     "restaurants": [
       {
@@ -22328,27 +19580,9 @@ const raw: Gen[] = [
         "title": "Culture & neighborhoods",
         "activities": [
           "Visit Zoological Gardens",
-          "Visit Karimjee Hall",
           "Visit Azania Front Lutheran Church",
-          "Eat at Chef's Pride"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit St. Joseph's Cathedral",
-          "Visit Graham",
-          "Visit Century Cinemax",
-          "Eat at Durban Hotel"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Suncrest Cineplex",
-          "Eat at Khana Khazana"
+          "Eat at Chef's Pride"
         ]
       }
     ],
@@ -22422,13 +19656,9 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "American Corner Darkhan",
       "Buddha's Statue of Northern",
-      "Darkhan 50 Complex",
       "Darkhan Iron Man Statue",
       "Darkhan-Uul Cultural Center and Mosque",
-      "I Love Darkhan Sculpture",
-      "Morin Khuur Complex",
       "Museum of Darkhan-Uul Province"
     ],
     "restaurants": [
@@ -22493,9 +19723,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit American Corner Darkhan",
           "Visit Buddha's Statue of Northern",
-          "Visit Darkhan 50 Complex",
+          "Visit Darkhan Iron Man Statue",
+          "Visit Darkhan-Uul Cultural Center and Mosque",
           "Eat at Chinggis Pub & Restaurant"
         ]
       },
@@ -22503,29 +19733,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Darkhan Iron Man Statue",
-          "Visit Darkhan-Uul Cultural Center and Mosque",
-          "Visit I Love Darkhan Sculpture",
-          "Eat at Modern Nomads Restaurant"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Morin Khuur Complex",
           "Visit Museum of Darkhan-Uul Province",
-          "Visit Darkhan Motocross Track",
-          "Eat at Science Café Darkhan"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit New York Hill",
-          "Visit Yello Art",
-          "Eat at Zochil Restaurant and Pub"
+          "Eat at Modern Nomads Restaurant"
         ]
       }
     ],
@@ -22632,12 +19841,7 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Daugavpils fortress",
-      "19th-century architecture",
       "Historical centre",
-      "Jaunbūve",
-      "Sport complex",
-      "\"Ebreji Daugavpilī un Latgalē\" muzejs un ekspozīcija",
       "Latgales Zoodārzs",
       "Naujene Local History Museum"
     ],
@@ -22711,40 +19915,10 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Daugavpils fortress",
-          "Visit 19th-century architecture",
           "Visit Historical centre",
-          "Eat at Restorāns “Gubernators”"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Jaunbūve",
-          "Visit Sport complex",
-          "Visit \"Ebreji Daugavpilī un Latgalē\" muzejs un ekspozīcija",
-          "Eat at Bistro “Grill Niko”"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Latgales Zoodārzs",
           "Visit Naujene Local History Museum",
-          "Visit Stropi",
-          "Eat at Kafejnīca “Pasaules brīnumi”"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit The Daugavpils Musical and Drama Theater",
-          "Visit Daugavpils Spīdveja centrs",
-          "Visit Ledus Halle",
-          "Eat at Kafejnīca “Pīlādzis”"
+          "Eat at Restorāns “Gubernators”"
         ]
       }
     ],
@@ -22779,14 +19953,12 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Mt. Apo",
       "Crocodile Park",
       "Eden Nature Park",
-      "Jack's Ridge",
-      "Philippine Eagle Center",
       "People's Park",
       "San Pedro Cathedral",
-      "Shrine of the Holy Infant of Jesus"
+      "Shrine of the Holy Infant of Jesus",
+      "Wake Board Park"
     ],
     "restaurants": [
       {
@@ -22858,9 +20030,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Mt. Apo",
           "Visit Crocodile Park",
           "Visit Eden Nature Park",
+          "Visit People's Park",
           "Eat at Taco Boy"
         ]
       },
@@ -22868,20 +20040,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Jack's Ridge",
-          "Visit Philippine Eagle Center",
-          "Visit People's Park",
-          "Eat at Albertos Pizza Davao"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit San Pedro Cathedral",
           "Visit Shrine of the Holy Infant of Jesus",
           "Visit Wake Board Park",
-          "Eat at Jenny Fried Chicken JFC"
+          "Eat at Albertos Pizza Davao"
         ]
       }
     ],
@@ -23114,7 +20276,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Mester Street Reformed Church",
           "Visit Lutheran Church",
-          "Visit Csokonai Theatre",
+          "Visit Nagyerdő - The City Park",
           "Eat at Byblos Gyros"
         ]
       },
@@ -23122,7 +20284,6 @@ const raw: Gen[] = [
         "day": 4,
         "title": "Day trips & more",
         "activities": [
-          "Visit Nagyerdő - The City Park",
           "Visit Amusement Park",
           "Visit Zoo",
           "Eat at Pizza Fortuna"
@@ -23295,9 +20456,7 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "GPIB Immanuel",
       "Golden Dome Mosque",
-      "Sawangan Golf Hotel & Resort",
       "Trans Studio Cibubur Theme Park"
     ],
     "restaurants": [],
@@ -23329,24 +20488,7 @@ const raw: Gen[] = [
       "Golden Dome Mosque"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit GPIB Immanuel",
-          "Visit Golden Dome Mosque",
-          "Visit Sawangan Golf Hotel & Resort"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Trans Studio Cibubur Theme Park"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -23472,12 +20614,9 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Cape Fatucama",
       "Resistance Museum",
       "Dare War Memorial",
-      "Motael Church",
-      "Chega! Exhibition",
-      "Santa Cruz cemetery"
+      "Motael Church"
     ],
     "restaurants": [
       {
@@ -23565,20 +20704,10 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Cape Fatucama",
           "Visit Resistance Museum",
           "Visit Dare War Memorial",
-          "Eat at New Lili's"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
           "Visit Motael Church",
-          "Visit Chega! Exhibition",
-          "Visit Santa Cruz cemetery",
-          "Eat at Starco Cafe"
+          "Eat at New Lili's"
         ]
       }
     ],
@@ -23620,7 +20749,6 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Great Mosque",
-      "Sülüklü Han",
       "Surp Giragos Armenian church",
       "Diyarbakır Archaeological Museum",
       "Virgin Mary Church"
@@ -23674,15 +20802,14 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Great Mosque",
-          "Visit Sülüklü Han",
-          "Visit Surp Giragos Armenian church"
+          "Visit Surp Giragos Armenian church",
+          "Visit Diyarbakır Archaeological Museum"
         ]
       },
       {
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Diyarbakır Archaeological Museum",
           "Visit Virgin Mary Church"
         ]
       }
@@ -23769,14 +20896,14 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Prospekt Dmytra Yavornytskoho",
       "Historical Museum",
       "Monument of Glory",
       "Preobrazhensky Cathedral",
       "ChurchSviato-Pokrovs'ka",
       "Saint Nicholas church",
       "Trinity Church",
-      "Church of Icon of Our Lady Ivers'ka"
+      "Church of Icon of Our Lady Ivers'ka",
+      "Botanical garden"
     ],
     "restaurants": [
       {
@@ -23837,9 +20964,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Prospekt Dmytra Yavornytskoho",
           "Visit Historical Museum",
           "Visit Monument of Glory",
+          "Visit Preobrazhensky Cathedral",
           "Eat at Amphora Cafe"
         ]
       },
@@ -23847,9 +20974,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Preobrazhensky Cathedral",
           "Visit ChurchSviato-Pokrovs'ka",
           "Visit Saint Nicholas church",
+          "Visit Trinity Church",
           "Eat at Italian Quarter"
         ]
       },
@@ -23857,9 +20984,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Trinity Church",
           "Visit Church of Icon of Our Lady Ivers'ka",
           "Visit Botanical garden",
+          "Visit Gagarin park",
           "Eat at Mimino"
         ]
       },
@@ -23867,7 +20994,6 @@ const raw: Gen[] = [
         "day": 4,
         "title": "Day trips & more",
         "activities": [
-          "Visit Gagarin park",
           "Visit Shevchenko park",
           "Visit Monastic Island",
           "Eat at Myshi Blyakhera"
@@ -23910,14 +21036,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Bunge la Tanzania",
-      "Ismaili Mosque",
-      "Lion Rock",
-      "Excursions",
-      "Swimming Pool",
-      "Gym"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Acacia Bar and Restaurant",
@@ -23966,27 +21085,7 @@ const raw: Gen[] = [
       "Ismaili Mosque"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Bunge la Tanzania",
-          "Visit Ismaili Mosque",
-          "Visit Lion Rock",
-          "Eat at Acacia Bar and Restaurant"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Excursions",
-          "Visit Swimming Pool",
-          "Visit Gym"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -24138,16 +21237,6 @@ const raw: Gen[] = [
           "Visit Beaches",
           "Eat at Noodle House"
         ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Dhow tour",
-          "Visit Doha Film Institute",
-          "Visit Doha Golf Club",
-          "Eat at Oishi Sushi"
-        ]
       }
     ],
     "hiddenGems": [],
@@ -24273,12 +21362,12 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Ahat Cami Mosque",
       "Roman Catholic church of parish of St. Joseph",
-      "Svyato-Iverskiy Ukrainian Orthodox Nunnery",
       "Temple of the Exaltation of the Cross",
       "Sviato-Voskresens'kyi temple",
       "Forged Figures Park",
-      "Kyivskyi district Court",
-      "Kyivskyi district State Administration"
+      "Istoki Kalmiusa (Kalmius Source) Nature Monument",
+      "Donetsk minizoo",
+      "Ukraine National academy botanical garden"
     ],
     "restaurants": [
       {
@@ -24341,7 +21430,8 @@ const raw: Gen[] = [
       "Ahat Cami Mosque",
       "Roman Catholic church of parish of St. Joseph",
       "Temple of the Exaltation of the Cross",
-      "Sviato-Voskresens'kyi temple"
+      "Sviato-Voskresens'kyi temple",
+      "Istoki Kalmiusa (Kalmius Source) Nature Monument"
     ],
     "localFoods": [],
     "itinerary": [
@@ -24351,7 +21441,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Ahat Cami Mosque",
           "Visit Roman Catholic church of parish of St. Joseph",
-          "Visit Svyato-Iverskiy Ukrainian Orthodox Nunnery",
+          "Visit Temple of the Exaltation of the Cross",
           "Eat at Eli-peli Restaurant"
         ]
       },
@@ -24359,9 +21449,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Temple of the Exaltation of the Cross",
           "Visit Sviato-Voskresens'kyi temple",
           "Visit Forged Figures Park",
+          "Visit Istoki Kalmiusa (Kalmius Source) Nature Monument",
           "Eat at Sely zely"
         ]
       },
@@ -24369,9 +21459,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Kyivskyi district Court",
-          "Visit Kyivskyi district State Administration",
-          "Visit Istoki Kalmiusa (Kalmius Source) Nature Monument",
+          "Visit Donetsk minizoo",
+          "Visit Ukraine National academy botanical garden",
+          "Visit Ukrainskyi steppe Sculpture Park",
           "Eat at McDonald's"
         ]
       },
@@ -24379,9 +21469,7 @@ const raw: Gen[] = [
         "day": 4,
         "title": "Day trips & more",
         "activities": [
-          "Visit Donetsk minizoo",
-          "Visit Glade of fairy-tales",
-          "Visit Ukraine National academy botanical garden",
+          "Visit Park Shcherbakova",
           "Eat at Ukrainske bistro"
         ]
       }
@@ -24424,12 +21512,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Douala Maritime Museum",
-      "Place du Gouvernement",
-      "Cathedral of St Peter and Paul Bonadibong",
-      "Doual'art",
-      "La Nouvelle Liberté",
-      "Palais Dika Akwa",
-      "CanalOlympia Bessengué"
+      "Cathedral of St Peter and Paul Bonadibong"
     ],
     "restaurants": [],
     "hotels": [
@@ -24470,33 +21553,7 @@ const raw: Gen[] = [
       "Cathedral of St Peter and Paul Bonadibong"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Douala Maritime Museum",
-          "Visit Place du Gouvernement",
-          "Visit Cathedral of St Peter and Paul Bonadibong"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Doual'art",
-          "Visit La Nouvelle Liberté",
-          "Visit Palais Dika Akwa"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit CanalOlympia Bessengué"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.4,
@@ -24535,13 +21592,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Bragenes Church",
-      "Drammens Museum",
-      "Drammens Teater",
-      "Spiralen",
-      "Ypsilon",
-      "Union Scene",
-      "Bowling 1",
-      "Downhill skiing"
+      "Drammens Museum"
     ],
     "restaurants": [
       {
@@ -24604,48 +21655,7 @@ const raw: Gen[] = [
       "Drammens Museum"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Bragenes Church",
-          "Visit Drammens Museum",
-          "Visit Drammens Teater",
-          "Eat at Bighorne Steakhouse"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Spiralen",
-          "Visit Ypsilon",
-          "Visit Union Scene",
-          "Eat at Cafe Picasso"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Bowling 1",
-          "Visit Downhill skiing",
-          "Visit Drammen Skisenter",
-          "Eat at Hannas Kjøkken"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Haukåsløypa",
-          "Visit Skoger Golfbane",
-          "Visit KinoCity",
-          "Eat at Jonas B Gundersen"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -24687,10 +21697,9 @@ const raw: Gen[] = [
       "St Mary's Pro-Cathedral",
       "National Leprechaun Museum",
       "Hugh Lane Gallery",
-      "James Joyce Centre",
       "EPIC The Irish Emigration Museum",
-      "The Jeanie Johnston",
-      "Green on Red Gallery"
+      "Green on Red Gallery",
+      "Abbey Theatre"
     ],
     "restaurants": [
       {
@@ -24792,8 +21801,8 @@ const raw: Gen[] = [
         "title": "Culture & neighborhoods",
         "activities": [
           "Visit Hugh Lane Gallery",
-          "Visit James Joyce Centre",
           "Visit EPIC The Irish Emigration Museum",
+          "Visit Green on Red Gallery",
           "Eat at Butlers Chocolate Café"
         ]
       },
@@ -24801,20 +21810,8 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit The Jeanie Johnston",
-          "Visit Green on Red Gallery",
-          "Visit Guinness Storehouse",
+          "Visit Abbey Theatre",
           "Eat at Lemon Crèpe & Coffee Company"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Teeling Distillery",
-          "Visit Jameson Distillery",
-          "Visit The Lazy Bike Tour Company",
-          "Eat at Govinda's"
         ]
       }
     ],
@@ -24893,14 +21890,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Centre d'Art Nei Liicht / Dominique Lang",
       "National Resistance Museum",
-      "Parc Merveilleux",
-      "Train 1900",
-      "Minièresbunn",
-      "Musée National des Mines de Fer Luxembourgeoises",
-      "Circular hikes and tours",
-      "Ellergronn nature reserve"
+      "Escher Déirepark-Gaalgebierg"
     ],
     "restaurants": [
       {
@@ -24973,46 +21964,7 @@ const raw: Gen[] = [
       "National Resistance Museum"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Centre d'Art Nei Liicht / Dominique Lang",
-          "Visit National Resistance Museum",
-          "Visit Parc Merveilleux",
-          "Eat at Stella Rosa"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Train 1900",
-          "Visit Minièresbunn",
-          "Visit Musée National des Mines de Fer Luxembourgeoises",
-          "Eat at Moustache"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Circular hikes and tours",
-          "Visit Ellergronn nature reserve",
-          "Visit Escher Déirepark-Gaalgebierg",
-          "Eat at Brasserie K116"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Bains du Parc indoor pool and sauna",
-          "Eat at Restaurant le Pavillon"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.7,
@@ -25051,13 +22003,8 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Durban Botanical Gardens",
-      "Berea",
-      "Moses Mabhida Stadium",
-      "City Hall",
-      "Mahatma Gandhi Settlement",
       "Durban North Japanese Gardens",
-      "KwaZulu Natal National Parks",
-      "Kenneth Stainbank Nature Reserve"
+      "KwaZulu Natal National Parks"
     ],
     "restaurants": [
       {
@@ -25111,37 +22058,9 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Durban Botanical Gardens",
-          "Visit Berea",
-          "Visit Moses Mabhida Stadium",
-          "Eat at California Dreaming"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit City Hall",
-          "Visit Mahatma Gandhi Settlement",
           "Visit Durban North Japanese Gardens",
-          "Eat at Circus Circus Beach Cafe"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit KwaZulu Natal National Parks",
-          "Visit Kenneth Stainbank Nature Reserve",
-          "Visit The Golden Mile"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Watersports",
-          "Visit Kingsmead",
-          "Visit Calypso Dive & Adventure Center"
+          "Eat at California Dreaming"
         ]
       }
     ],
@@ -25189,7 +22108,7 @@ const raw: Gen[] = [
       "Great Mosque of Durrës",
       "Archaeological Museum",
       "Popular Culture Museum",
-      "World War II Relics Hall"
+      "Culture Palace"
     ],
     "restaurants": [
       {
@@ -25291,8 +22210,8 @@ const raw: Gen[] = [
         "title": "Markets, parks & hidden corners",
         "activities": [
           "Visit Popular Culture Museum",
-          "Visit World War II Relics Hall",
           "Visit Culture Palace",
+          "Visit Lalzit Bay Beach",
           "Eat at Rehat Kebab"
         ]
       },
@@ -25300,9 +22219,8 @@ const raw: Gen[] = [
         "day": 4,
         "title": "Day trips & more",
         "activities": [
-          "Visit Evening walk",
-          "Visit Villa Hill",
-          "Visit Seaside Large Steps",
+          "Visit Portez Beach",
+          "Visit Golem beach",
           "Eat at Mema House"
         ]
       }
@@ -25346,12 +22264,12 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Haji Yaqub Mosque",
       "Sari Osiyo Mosque",
-      "Ismaili Centre",
       "St. Nicholas Cathedral",
       "Gurminj Museum of Musical Instruments",
       "National Museum of Tajikistan",
       "Monument of Amir Ismail Samani",
-      "Rudaki statue"
+      "Rudaki statue",
+      "Aquapark Dolphin"
     ],
     "restaurants": [
       {
@@ -25436,7 +22354,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Haji Yaqub Mosque",
           "Visit Sari Osiyo Mosque",
-          "Visit Ismaili Centre",
+          "Visit St. Nicholas Cathedral",
           "Eat at Cafe Merve"
         ]
       },
@@ -25444,9 +22362,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit St. Nicholas Cathedral",
           "Visit Gurminj Museum of Musical Instruments",
           "Visit National Museum of Tajikistan",
+          "Visit Monument of Amir Ismail Samani",
           "Eat at Merve Restaurant"
         ]
       },
@@ -25454,9 +22372,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Monument of Amir Ismail Samani",
           "Visit Rudaki statue",
           "Visit Aquapark Dolphin",
+          "Visit Botanical Gardens",
           "Eat at Delhi Darbar"
         ]
       },
@@ -25464,9 +22382,9 @@ const raw: Gen[] = [
         "day": 4,
         "title": "Day trips & more",
         "activities": [
-          "Visit Circus",
-          "Visit Botanical Gardens",
           "Visit Dushanbe Zoo",
+          "Visit Park named after S. Ayni",
+          "Visit Victory Park",
           "Eat at Salsa"
         ]
       }
@@ -25509,13 +22427,10 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Theatermuseum",
-      "Burgplatz",
       "Cartwheelers' Fountain",
       "City Monument",
       "Schifffahrtmuseum Düsseldorf",
-      "Pegeluhr",
-      "St. Lambertus Basilika",
-      "Liefergasse 1"
+      "Christmas market"
     ],
     "restaurants": [
       {
@@ -25595,8 +22510,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Theatermuseum",
-          "Visit Burgplatz",
           "Visit Cartwheelers' Fountain",
+          "Visit City Monument",
           "Eat at Zum Kochlöffel"
         ]
       },
@@ -25604,30 +22519,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit City Monument",
           "Visit Schifffahrtmuseum Düsseldorf",
-          "Visit Pegeluhr",
-          "Eat at Ham Ham bei Josef"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit St. Lambertus Basilika",
-          "Visit Liefergasse 1",
-          "Visit Fortuna Düsseldorf",
-          "Eat at Schweine Janes Altstadt"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Nacht der Museen",
           "Visit Christmas market",
-          "Visit Kirmes",
-          "Eat at Ludwigs Bier&Brot"
+          "Eat at Ham Ham bei Josef"
         ]
       }
     ],
@@ -25800,11 +22694,8 @@ const raw: Gen[] = [
       "Van Abbemuseum",
       "DAF Museum",
       "Eindhoven Museum",
-      "De Fabriek",
-      "MU Artspace",
       "Philips Museum",
-      "Ton Smits House",
-      "Lichttoren"
+      "Parktheater"
     ],
     "restaurants": [
       {
@@ -25901,30 +22792,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit De Fabriek",
-          "Visit MU Artspace",
           "Visit Philips Museum",
+          "Visit Parktheater",
           "Eat at Soho"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Ton Smits House",
-          "Visit Lichttoren",
-          "Visit Light Tour",
-          "Eat at Bakkertje Bol"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Dynamo",
-          "Visit Effenaar",
-          "Visit Muziekgebouw Frits Philips",
-          "Eat at Hizmet Bakery & Shawarma"
         ]
       }
     ],
@@ -25966,13 +22836,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Elbasan Castle",
-      "Bysheku",
-      "Ad Quintum",
-      "Rafting in Shkumbin river",
-      "Canyon of Valësh",
-      "Church Shën e Premte",
-      "Hike the Via Egnatia",
-      "Kozani-8 thermal baths"
+      "Church Shën e Premte"
     ],
     "restaurants": [
       {
@@ -26028,50 +22892,11 @@ const raw: Gen[] = [
       "Pit stop Coffee Bar"
     ],
     "museums": [
-      "Elbasan Castle"
+      "Elbasan Castle",
+      "Church Shën e Premte"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Elbasan Castle",
-          "Visit Bysheku",
-          "Visit Ad Quintum",
-          "Eat at Tavë Elbasani me kumbulla"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Rafting in Shkumbin river",
-          "Visit Canyon of Valësh",
-          "Visit Church Shën e Premte",
-          "Eat at Byrek me mish dhe me gjizë"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Hike the Via Egnatia",
-          "Visit Kozani-8 thermal baths",
-          "Visit [[Southeastern Albania#Do",
-          "Eat at Kondor Restorant"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Gjinar",
-          "Visit Tre Bujtinat",
-          "Eat at Gjuetari Restorant"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -26108,10 +22933,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Eldoret Nature & Culture Centre",
-      "Chepkiit Waterfalls"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "KFC"
@@ -26238,7 +23060,6 @@ const raw: Gen[] = [
       "Grand Mosque",
       "Kurdish Textile Museum",
       "Erbil Gem Museum",
-      "Mudhafaria Minaret",
       "Qaysari Market",
       "Jalil Khayat Mosque",
       "Mohamed Jolly Mosque"
@@ -26336,8 +23157,8 @@ const raw: Gen[] = [
         "title": "Culture & neighborhoods",
         "activities": [
           "Visit Erbil Gem Museum",
-          "Visit Mudhafaria Minaret",
           "Visit Qaysari Market",
+          "Visit Jalil Khayat Mosque",
           "Eat at Abu Afif"
         ]
       },
@@ -26345,9 +23166,7 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Jalil Khayat Mosque",
           "Visit Mohamed Jolly Mosque",
-          "Visit Erbil Marathon",
           "Eat at Second Cup"
         ]
       }
@@ -26389,10 +23208,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Erdenet Mining Co.",
       "Friendship Monument",
       "Orkhon Provincial Museum",
-      "Erdenet Sport and Recreation Area",
       "Erdenet City Theme Park"
     ],
     "restaurants": [],
@@ -26431,16 +23248,8 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Erdenet Mining Co.",
           "Visit Friendship Monument",
-          "Visit Orkhon Provincial Museum"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Erdenet Sport and Recreation Area",
+          "Visit Orkhon Provincial Museum",
           "Visit Erdenet City Theme Park"
         ]
       }
@@ -26521,14 +23330,9 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Man meets the sea",
       "Fisheries and Maritime Museum",
-      "Tirpitz",
-      "Svømmestadion Danmark",
-      "Biocity Esbjerg",
       "Parks of Esbjerg",
-      "Island of Fanø",
-      "Esbjerg Storcenter"
+      "Island of Fanø"
     ],
     "restaurants": [
       {
@@ -26587,30 +23391,10 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Man meets the sea",
           "Visit Fisheries and Maritime Museum",
-          "Visit Tirpitz",
-          "Eat at Mammas Pizzeria"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Svømmestadion Danmark",
-          "Visit Biocity Esbjerg",
           "Visit Parks of Esbjerg",
-          "Eat at Den Røde Okse"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Island of Fanø",
-          "Visit Esbjerg Storcenter",
-          "Visit City Nord",
-          "Eat at Brasserie B"
+          "Eat at Mammas Pizzeria"
         ]
       }
     ],
@@ -26651,14 +23435,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Centre d'Art Nei Liicht / Dominique Lang",
       "National Resistance Museum",
-      "Parc Merveilleux",
-      "Train 1900",
-      "Minièresbunn",
-      "Musée National des Mines de Fer Luxembourgeoises",
-      "Circular hikes and tours",
-      "Ellergronn nature reserve"
+      "Escher Déirepark-Gaalgebierg"
     ],
     "restaurants": [
       {
@@ -26731,46 +23509,7 @@ const raw: Gen[] = [
       "National Resistance Museum"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Centre d'Art Nei Liicht / Dominique Lang",
-          "Visit National Resistance Museum",
-          "Visit Parc Merveilleux",
-          "Eat at Stella Rosa"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Train 1900",
-          "Visit Minièresbunn",
-          "Visit Musée National des Mines de Fer Luxembourgeoises",
-          "Eat at Moustache"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Circular hikes and tours",
-          "Visit Ellergronn nature reserve",
-          "Visit Escher Déirepark-Gaalgebierg",
-          "Eat at Brasserie K116"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Bains du Parc indoor pool and sauna",
-          "Eat at Restaurant le Pavillon"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.4,
@@ -26853,13 +23592,10 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "The Gallen-Kallela museum",
-      "Otaniemi Campus",
-      "EMMA",
       "Glims Farmstead Museum",
-      "Espoon automuseo",
       "Espoo cathedral",
       "Marketanpuisto",
-      "Espoo TV and radio mast"
+      "Espoo Waterfront Walkway"
     ],
     "restaurants": [
       {
@@ -26952,8 +23688,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit The Gallen-Kallela museum",
-          "Visit Otaniemi Campus",
-          "Visit EMMA",
+          "Visit Glims Farmstead Museum",
+          "Visit Espoo cathedral",
           "Eat at Student diners in Otaniemi"
         ]
       },
@@ -26961,30 +23697,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Glims Farmstead Museum",
-          "Visit Espoon automuseo",
-          "Visit Espoo cathedral",
-          "Eat at Maukas"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Marketanpuisto",
-          "Visit Espoo TV and radio mast",
-          "Visit Espoo archipelago",
-          "Eat at Fazer Food & Co."
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Classical music",
-          "Visit Mini-Tapiola",
           "Visit Espoo Waterfront Walkway",
-          "Eat at Pizzaman"
+          "Eat at Maukas"
         ]
       }
     ],
@@ -27024,12 +23739,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "La Garnacha",
-      "Miraflor Nature Reserve",
-      "Proyecto de Las Mujeres Ambientalistas",
-      "Tisey"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Cafe Luz",
@@ -27070,26 +23780,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit La Garnacha",
-          "Visit Miraflor Nature Reserve",
-          "Visit Proyecto de Las Mujeres Ambientalistas",
-          "Eat at Cafe Luz"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Tisey",
-          "Eat at Mocha Nana Cafe"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -27128,7 +23819,6 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Lyallpur Museum",
-      "Ghanta Ghar",
       "Cathedral of Sts. Peter and Paul"
     ],
     "restaurants": [
@@ -27174,18 +23864,7 @@ const raw: Gen[] = [
       "Cathedral of Sts. Peter and Paul"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Lyallpur Museum",
-          "Visit Ghanta Ghar",
-          "Visit Cathedral of Sts. Peter and Paul",
-          "Eat at Cock'N'Bull"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -27265,8 +23944,6 @@ const raw: Gen[] = [
       "Othello Castle",
       "Church of St George of the Latins",
       "Lala Mustafa Paşa Mosque",
-      "Namik Kemal's Dungeon",
-      "Palazzo del Provveditore",
       "Franciscan Church",
       "Twin Churches",
       "Church of St George of the Greeks"
@@ -27332,15 +24009,7 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Namik Kemal's Dungeon",
-          "Visit Palazzo del Provveditore",
-          "Visit Franciscan Church"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
+          "Visit Franciscan Church",
           "Visit Twin Churches",
           "Visit Church of St George of the Greeks"
         ]
@@ -27467,12 +24136,7 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "The Tanneries",
-      "Bou Inania Madrasa",
-      "Al Attarine Madrasa",
       "Andalusian Mosque",
-      "Borj Nord",
-      "Borj Sud",
       "Merenid Tombs",
       "Moulay Idriss II shrine"
     ],
@@ -27551,38 +24215,10 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit The Tanneries",
-          "Visit Bou Inania Madrasa",
-          "Visit Al Attarine Madrasa",
-          "Eat at Bouanania"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
           "Visit Andalusian Mosque",
-          "Visit Borj Nord",
-          "Visit Borj Sud",
-          "Eat at La Kasbah de Fes"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Merenid Tombs",
           "Visit Moulay Idriss II shrine",
-          "Visit Sofitel Palais Jamai terrace",
-          "Eat at Medina cafe"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Fez Stadium",
-          "Eat at Maison Fassi"
+          "Eat at Bouanania"
         ]
       }
     ],
@@ -27622,10 +24258,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Historical part of the city",
-      "FCE Railway"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Hotel Arinofy",
@@ -27828,14 +24461,9 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Theatro José de Alencar",
       "Metropolitan Cathedral of Fortaleza",
-      "Estoril",
-      "Mercado dos Pinhões",
-      "Ponte dos Ingleses (Metálica)",
       "Iracema Statue",
-      "Seminário da Prainha",
-      "Fortaleza railway station"
+      "Beach Park"
     ],
     "restaurants": [
       {
@@ -27917,40 +24545,10 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Theatro José de Alencar",
           "Visit Metropolitan Cathedral of Fortaleza",
-          "Visit Estoril",
-          "Eat at Bebelu"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Mercado dos Pinhões",
-          "Visit Ponte dos Ingleses (Metálica)",
           "Visit Iracema Statue",
-          "Eat at La Massa"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Seminário da Prainha",
-          "Visit Fortaleza railway station",
-          "Visit Chandler Surf",
-          "Eat at Restaurante Boa Mistura"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Aldeia Surf School",
-          "Visit Windzen",
           "Visit Beach Park",
-          "Eat at Bar e Restaurante O Cazuza"
+          "Eat at Bebelu"
         ]
       }
     ],
@@ -27990,10 +24588,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Statuette debrazza de la Corniche",
-      "Franceville Stadium"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Hotel Laconi",
@@ -28151,13 +24746,8 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Historic Half-timbered Houses",
-      "Goetheturm",
       "Frankfurter Zoo",
-      "Höchst Old Town",
-      "Frankfurt Airport Tours",
-      "The Dresden Frankfurt Dance Company",
-      "River cruises along the Main River",
-      "Goethe Institut"
+      "Höchst Old Town"
     ],
     "restaurants": [
       {
@@ -28179,34 +24769,9 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Historic Half-timbered Houses",
-          "Visit Goetheturm",
           "Visit Frankfurter Zoo",
-          "Eat at Best Worscht in Town"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
           "Visit Höchst Old Town",
-          "Visit Frankfurt Airport Tours",
-          "Visit The Dresden Frankfurt Dance Company"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit River cruises along the Main River",
-          "Visit Goethe Institut",
-          "Visit Johann Wolfgang Goethe University"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Volkshochschule Frankfurt"
+          "Eat at Best Worscht in Town"
         ]
       }
     ],
@@ -28247,13 +24812,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "City Hall (Rådhuset)",
       "Storm P. Museum",
-      "Cisternerne",
-      "Revymuseet",
-      "Møstings Hus",
       "The Bakkehus Museum",
-      "Landbohøjskolens Have",
       "Music Museum"
     ],
     "restaurants": [
@@ -28338,40 +24898,10 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit City Hall (Rådhuset)",
           "Visit Storm P. Museum",
-          "Visit Cisternerne",
-          "Eat at Cafe Sokkelund"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Revymuseet",
-          "Visit Møstings Hus",
           "Visit The Bakkehus Museum",
-          "Eat at Mio"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Landbohøjskolens Have",
           "Visit Music Museum",
-          "Visit Forum",
-          "Eat at Hansens Old Family Garden"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit The Betty Nansen Theater",
-          "Visit Camp X Theatre",
-          "Visit Frederiksberg Svømmehal",
-          "Eat at Falernum"
+          "Eat at Cafe Sokkelund"
         ]
       }
     ],
@@ -28451,14 +24981,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Cape Sierra Leone Lighthouse",
       "National Rail Museum",
-      "Sierra Leone National Museum",
-      "Tacugama Chimpanzee Sanctuary",
-      "Charlotte falls",
-      "Remains of Cotton tree",
-      "Supreme Court building",
-      "Portuguese steps"
+      "Sierra Leone National Museum"
     ],
     "restaurants": [
       {
@@ -28526,46 +25050,7 @@ const raw: Gen[] = [
       "Sierra Leone National Museum"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Cape Sierra Leone Lighthouse",
-          "Visit National Rail Museum",
-          "Visit Sierra Leone National Museum",
-          "Eat at Crown Bakery Restaurant"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Tacugama Chimpanzee Sanctuary",
-          "Visit Charlotte falls",
-          "Visit Remains of Cotton tree",
-          "Eat at Crown Bakery Express"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Supreme Court building",
-          "Visit Portuguese steps",
-          "Visit Freetown Golf Club",
-          "Eat at Diaspora"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Casino Leone",
-          "Eat at Roy's Beach Bar"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -28603,14 +25088,10 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Nakasu",
-      "Gion",
       "Kushida Shrine",
-      "Tōchō-ji",
-      "Shōfuku-ji",
       "ACROS rooftop garden",
-      "ACROS observation deck",
-      "Fukuoka Tower"
+      "Fukuoka Tower",
+      "Nokonoshima Island Park"
     ],
     "restaurants": [
       {
@@ -28692,9 +25173,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Nakasu",
-          "Visit Gion",
           "Visit Kushida Shrine",
+          "Visit ACROS rooftop garden",
+          "Visit Fukuoka Tower",
           "Eat at Nagahama"
         ]
       },
@@ -28702,30 +25183,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Tōchō-ji",
-          "Visit Shōfuku-ji",
-          "Visit ACROS rooftop garden",
+          "Visit Nokonoshima Island Park",
           "Eat at Daimyo"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit ACROS observation deck",
-          "Visit Fukuoka Tower",
-          "Visit Kabuki theatre",
-          "Eat at Ichiran"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Noh theatre",
-          "Visit Fukuoka SoftBank Hawks baseball",
-          "Visit Hakata Dontaku",
-          "Eat at Ramen Stadium"
         ]
       }
     ],
@@ -28811,14 +25270,9 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "The Hindu hall",
       "Three Dikgosi Monument",
       "Statue of Seretse Khama",
-      "National Botanical Garden",
-      "The parliament",
-      "Southern African Development Community headquarters",
-      "National Stadium",
-      "New Ministry Building"
+      "National Botanical Garden"
     ],
     "restaurants": [
       {
@@ -28897,40 +25351,10 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit The Hindu hall",
           "Visit Three Dikgosi Monument",
           "Visit Statue of Seretse Khama",
-          "Eat at White box food"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
           "Visit National Botanical Garden",
-          "Visit The parliament",
-          "Visit Southern African Development Community headquarters",
-          "Eat at Deli's"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit National Stadium",
-          "Visit New Ministry Building",
-          "Visit Kgale Hill",
-          "Eat at Funyama Holdings Chinese Restaurant"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Gaborone Cycling Club",
-          "Visit Gaborone Dam",
-          "Visit Mokolodi",
-          "Eat at Bull & Bush"
+          "Eat at White box food"
         ]
       }
     ],
@@ -29024,13 +25448,8 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Galway City Museum",
-      "Galway Atlantaquaria",
-      "Legend of the Claddagh Ring",
-      "University Quad",
-      "Hall of the Red Earl",
       "Galway Cathedral",
-      "Saint Nicholas Collegiate Church",
-      "Corrib Princess river cruises"
+      "Saint Nicholas Collegiate Church"
     ],
     "restaurants": [
       {
@@ -29125,39 +25544,9 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Galway City Museum",
-          "Visit Galway Atlantaquaria",
-          "Visit Legend of the Claddagh Ring",
-          "Eat at Hooked"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit University Quad",
-          "Visit Hall of the Red Earl",
           "Visit Galway Cathedral",
-          "Eat at Kirby's"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Saint Nicholas Collegiate Church",
-          "Visit Corrib Princess river cruises",
-          "Visit Town Hall Theatre",
-          "Eat at McCambridges"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Druid Theater",
-          "Visit An Taibhdhearc",
-          "Visit Galway Races",
-          "Eat at Freddy's"
+          "Eat at Hooked"
         ]
       }
     ],
@@ -29197,11 +25586,8 @@ const raw: Gen[] = [
       "Xatirə parkı",
       "World War II memorial and grave of unknown soldier",
       "City Hall Square with Museum of Heydar Aliyev",
-      "Gəncə Filarmoniyası",
-      "Aleksandr Nevski Rus Pravoslav Kilsəsi",
-      "Bottle House",
       "Complex of Shah Abbas mosque, with medieval baths and tomb of Javadkhan",
-      "Chokek Hamam"
+      "CinemaPlus \"Khamsa Park\""
     ],
     "restaurants": [
       {
@@ -29249,24 +25635,7 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Gəncə Filarmoniyası",
-          "Visit Aleksandr Nevski Rus Pravoslav Kilsəsi",
-          "Visit Bottle House"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Complex of Shah Abbas mosque, with medieval baths and tomb of Javadkhan",
-          "Visit Chokek Hamam",
-          "Visit Gəncə Dövlət Dram Teatrı"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
           "Visit CinemaPlus \"Khamsa Park\""
         ]
       }
@@ -29469,10 +25838,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Nuhash Polli",
       "Bhawal National Park",
       "Bangabandhu Sheikh Mujib Safari Park",
-      "Fantasy Kingdom",
       "Nandan Park"
     ],
     "restaurants": [],
@@ -29514,16 +25881,8 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Nuhash Polli",
           "Visit Bhawal National Park",
-          "Visit Bangabandhu Sheikh Mujib Safari Park"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Fantasy Kingdom",
+          "Visit Bangabandhu Sheikh Mujib Safari Park",
           "Visit Nandan Park"
         ]
       }
@@ -29604,14 +25963,12 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Main Town Hall",
-      "Artus Court",
       "Neptune Fountain",
-      "Golden House",
-      "Uphagen House",
       "Highland Gate",
       "Prison Tower and Torture Chamber",
-      "Golden Gate"
+      "Golden Gate",
+      "Jelitkowo beach",
+      "Brzeźno beach"
     ],
     "restaurants": [
       {
@@ -29687,9 +26044,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Main Town Hall",
-          "Visit Artus Court",
           "Visit Neptune Fountain",
+          "Visit Highland Gate",
+          "Visit Prison Tower and Torture Chamber",
           "Eat at Pyra Bar"
         ]
       },
@@ -29697,30 +26054,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Golden House",
-          "Visit Uphagen House",
-          "Visit Highland Gate",
-          "Eat at No To Cyk"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Prison Tower and Torture Chamber",
           "Visit Golden Gate",
-          "Visit Polish Baltic Philharmonic",
-          "Eat at Pasta House"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Gdańsk Shakespeare Theatre",
-          "Visit Wyspa Institute of Art",
-          "Visit Lechia Gdańsk",
-          "Eat at Dominikański"
+          "Visit Jelitkowo beach",
+          "Visit Brzeźno beach",
+          "Eat at No To Cyk"
         ]
       }
     ],
@@ -29761,14 +26098,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Jet d'Eau",
-      "Cathédrale St-Pierre and Calvin's auditorium",
       "Old Town",
-      "Palais des Nations",
-      "Quartier des Grottes",
-      "Monument Brunswick",
-      "Île Rousseau",
-      "L'Ile"
+      "Monument Brunswick"
     ],
     "restaurants": [
       {
@@ -29847,48 +26178,7 @@ const raw: Gen[] = [
       "Monument Brunswick"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Jet d'Eau",
-          "Visit Cathédrale St-Pierre and Calvin's auditorium",
-          "Visit Old Town",
-          "Eat at Buvette des Bains (Bains des Paquis)"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Palais des Nations",
-          "Visit Quartier des Grottes",
-          "Visit Monument Brunswick",
-          "Eat at Espresso Club"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Île Rousseau",
-          "Visit L'Ile",
-          "Visit Salève cable car",
-          "Eat at Café Art's"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Association Genevoise des Amis du Salève",
-          "Visit Genève Plage",
-          "Visit International Geneva Motor Show",
-          "Eat at Sing Fa la maison du Ravioli (Sing Fa dumpling house)"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -29926,13 +26216,7 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Cristoforo Colombo house",
-      "Spianata Castelletto",
-      "Via Garibaldi",
       "The Old Harbour",
-      "Lanterna di Genova",
-      "Castello d'Albertis",
-      "Palazzo Ducale",
       "Cathedral of San Lorenzo"
     ],
     "restaurants": [
@@ -29996,37 +26280,7 @@ const raw: Gen[] = [
       "Cathedral of San Lorenzo"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Cristoforo Colombo house",
-          "Visit Spianata Castelletto",
-          "Visit Via Garibaldi",
-          "Eat at Trattoria Da Maria"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit The Old Harbour",
-          "Visit Lanterna di Genova",
-          "Visit Castello d'Albertis",
-          "Eat at Il Tempio Dell'Hamburger"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Palazzo Ducale",
-          "Visit Cathedral of San Lorenzo",
-          "Eat at Il Masetto"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.4,
@@ -30057,16 +26311,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Belfort en Lakenhalle",
-      "Sint-Baafskathedraal",
-      "Het Gravensteen",
-      "Sint-Niklaaskerk",
-      "Vooruit",
-      "Groentenmarkt, Korenmarkt & Vrijdagmarkt",
-      "Leie",
-      "Graslei"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Soup Lounge",
@@ -30132,48 +26377,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Belfort en Lakenhalle",
-          "Visit Sint-Baafskathedraal",
-          "Visit Het Gravensteen",
-          "Eat at Soup Lounge"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Sint-Niklaaskerk",
-          "Visit Vooruit",
-          "Visit Groentenmarkt, Korenmarkt & Vrijdagmarkt",
-          "Eat at Frituur Bij Sint-Jacobs SYMPA"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Leie",
-          "Visit Graslei",
-          "Visit De Bootjes van Gent",
-          "Eat at Vandevoorde / Olivier"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Jan Plezier Boottochten",
-          "Visit Go Swimming at Badhuis Van Eyck",
-          "Visit Blaarmeersen sports grounds",
-          "Eat at HFC Korenmarkt-Gent"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.4,
@@ -30247,11 +26451,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Bralirwa brewery",
-      "Pfunda Tea Factory",
-      "Lake Kivu and the Public beach."
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Wazi Wine Garage",
@@ -30312,18 +26512,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Bralirwa brewery",
-          "Visit Pfunda Tea Factory",
-          "Visit Lake Kivu and the Public beach.",
-          "Eat at Wazi Wine Garage"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -30405,8 +26594,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "National Museum",
-      "Christ the King Cathedral",
-      "Gishora Drum Sanctuary"
+      "Christ the King Cathedral"
     ],
     "restaurants": [],
     "hotels": [],
@@ -30420,17 +26608,7 @@ const raw: Gen[] = [
       "Christ the King Cathedral"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit National Museum",
-          "Visit Christ the King Cathedral",
-          "Visit Gishora Drum Sanctuary"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -30472,10 +26650,10 @@ const raw: Gen[] = [
       "Queens' Pyramids and Nobles' Tombs",
       "Pyramid of Khafre",
       "Pyramid of Menkaure",
-      "Great Sphinx of Giza",
       "Grand Egyptian Museum",
-      "Cairo Horse Riding School",
-      "FB Stables"
+      "Pyramids Sound and Light Show",
+      "Giza Zoo",
+      "Orman Botanical Garden"
     ],
     "restaurants": [
       {
@@ -30532,8 +26710,8 @@ const raw: Gen[] = [
         "title": "Culture & neighborhoods",
         "activities": [
           "Visit Pyramid of Menkaure",
-          "Visit Great Sphinx of Giza",
           "Visit Grand Egyptian Museum",
+          "Visit Pyramids Sound and Light Show",
           "Eat at Nile Pharaoh Cruising restaurant"
         ]
       },
@@ -30541,20 +26719,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Cairo Horse Riding School",
-          "Visit FB Stables",
-          "Visit Pyramids Sound and Light Show",
-          "Eat at Khufu’s Restaurant"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
           "Visit Giza Zoo",
-          "Visit Mena House Oberoi Golf Course",
           "Visit Orman Botanical Garden",
-          "Eat at Khan El Khalili"
+          "Eat at Khufu’s Restaurant"
         ]
       }
     ],
@@ -30597,11 +26764,8 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Glasgow Cathedral",
       "St Mungo's Museum of Religious Life and Art",
-      "Provand's Lordship",
       "Glasgow Necropolis",
-      "Glasgow Vintage Vehicle Trust",
       "George Square",
-      "City Chambers",
       "Gallery of Modern Art"
     ],
     "restaurants": [
@@ -30684,7 +26848,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Glasgow Cathedral",
           "Visit St Mungo's Museum of Religious Life and Art",
-          "Visit Provand's Lordship",
+          "Visit Glasgow Necropolis",
           "Eat at The Merchant"
         ]
       },
@@ -30692,30 +26856,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Glasgow Necropolis",
-          "Visit Glasgow Vintage Vehicle Trust",
           "Visit George Square",
-          "Eat at Romans Pizzeria"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit City Chambers",
           "Visit Gallery of Modern Art",
-          "Visit Nice'N'Sleazy",
-          "Eat at BLOC+"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Barrowland Ballroom",
-          "Visit King Tut's Wah Wah Hut",
-          "Visit The Cathouse",
-          "Eat at China Sea"
+          "Eat at Romans Pizzeria"
         ]
       }
     ],
@@ -30834,11 +26977,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Fasil Ghebbi (Royal Enclosure)",
-      "Fasilides' Bath",
       "Debre Birhan Selassie Church",
-      "Atse Tewodros Square",
-      "Dhama"
+      "Atse Tewodros Square"
     ],
     "restaurants": [
       {
@@ -30896,27 +27036,7 @@ const raw: Gen[] = [
       "Debre Birhan Selassie Church"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Fasil Ghebbi (Royal Enclosure)",
-          "Visit Fasilides' Bath",
-          "Visit Debre Birhan Selassie Church",
-          "Eat at Alliance Restaurant"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Atse Tewodros Square",
-          "Visit Dhama",
-          "Eat at Four Sisters"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.7,
@@ -30948,14 +27068,12 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Gori Fortress",
       "Virgin Mary Cathedral",
       "Stalin Museum",
-      "Stalin's Birthplace",
       "Stalin Statue",
-      "Uplistsikhe",
-      "Gorijvari",
-      "Historical Ethnographic Museum"
+      "Historical Ethnographic Museum",
+      "The Great Patriotic War Museum",
+      "Stalin Park"
     ],
     "restaurants": [
       {
@@ -31016,7 +27134,9 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [
       "Virgin Mary Cathedral",
-      "Stalin Museum"
+      "Stalin Museum",
+      "Historical Ethnographic Museum",
+      "The Great Patriotic War Museum"
     ],
     "localFoods": [],
     "itinerary": [
@@ -31024,9 +27144,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Gori Fortress",
           "Visit Virgin Mary Cathedral",
           "Visit Stalin Museum",
+          "Visit Stalin Statue",
           "Eat at Atrium"
         ]
       },
@@ -31034,29 +27154,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Stalin's Birthplace",
-          "Visit Stalin Statue",
-          "Visit Uplistsikhe",
-          "Eat at Cake House"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Gorijvari",
           "Visit Historical Ethnographic Museum",
           "Visit The Great Patriotic War Museum",
-          "Eat at Coffee House"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Gori Academic Theater",
           "Visit Stalin Park",
-          "Eat at Intourist Cafe"
+          "Eat at Cake House"
         ]
       }
     ],
@@ -31099,12 +27200,7 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Gothenburg Cathedral",
       "Christinæ Church",
-      "Crown House",
-      "Feskekôrka",
-      "Haga",
-      "Oscar Fredrik Church",
-      "Skansen Kronan",
-      "Skanskaskrapan"
+      "Oscar Fredrik Church"
     ],
     "restaurants": [
       {
@@ -31190,38 +27286,8 @@ const raw: Gen[] = [
         "activities": [
           "Visit Gothenburg Cathedral",
           "Visit Christinæ Church",
-          "Visit Crown House",
-          "Eat at Feskekörka"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Feskekôrka",
-          "Visit Haga",
           "Visit Oscar Fredrik Church",
-          "Eat at Alexandras Grekiska Soppkök"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Skansen Kronan",
-          "Visit Skanskaskrapan",
-          "Visit Liseberg",
-          "Eat at Baguetten"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Lisebergslinjen",
-          "Visit Ale Vikingagård",
-          "Visit Paddan",
-          "Eat at Franks"
+          "Eat at Feskekörka"
         ]
       }
     ],
@@ -31262,14 +27328,14 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Donkin Reserve",
-      "Alexandria Dune Fields",
-      "Tour Nelson Mandela Bay City",
       "St. Augustine's Cathedral",
       "South Africa Airforce Museum",
       "Bayworld Kangaroo Park",
       "Nelson Mandela Metropolitan Art Museum",
-      "No 7 Castle Hill Museum"
+      "No 7 Castle Hill Museum",
+      "St George's Park",
+      "Beaches",
+      "Kragga Kamma Game Park"
     ],
     "restaurants": [
       {
@@ -31349,9 +27415,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Donkin Reserve",
-          "Visit Alexandria Dune Fields",
-          "Visit Tour Nelson Mandela Bay City",
+          "Visit St. Augustine's Cathedral",
+          "Visit South Africa Airforce Museum",
+          "Visit Bayworld Kangaroo Park",
           "Eat at Blue Waters Cafe"
         ]
       },
@@ -31359,9 +27425,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit St. Augustine's Cathedral",
-          "Visit South Africa Airforce Museum",
-          "Visit Bayworld Kangaroo Park",
+          "Visit Nelson Mandela Metropolitan Art Museum",
+          "Visit No 7 Castle Hill Museum",
+          "Visit St George's Park",
           "Eat at Fishmonger"
         ]
       },
@@ -31369,20 +27435,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Nelson Mandela Metropolitan Art Museum",
-          "Visit No 7 Castle Hill Museum",
-          "Visit St George's Park",
-          "Eat at Leonardo's"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit African Dawn Bird and Wildlife Sanctuary",
           "Visit Beaches",
-          "Visit Algoa Bay Yacht Club",
-          "Eat at Ocean Grill"
+          "Visit Kragga Kamma Game Park",
+          "Eat at Leonardo's"
         ]
       }
     ],
@@ -31423,14 +27478,9 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "The Schlossberg",
       "Clock Tower",
-      "Glockenspiel",
       "Eggenberg Palace",
-      "Kunsthaus",
-      "Murinsel",
-      "Joanneum Museum of Styria",
-      "Armory Zeughaus"
+      "Joanneum Museum of Styria"
     ],
     "restaurants": [
       {
@@ -31512,40 +27562,10 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit The Schlossberg",
           "Visit Clock Tower",
-          "Visit Glockenspiel",
-          "Eat at Bäckerei Sorger"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
           "Visit Eggenberg Palace",
-          "Visit Kunsthaus",
-          "Visit Murinsel",
-          "Eat at Martin Auer"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Joanneum Museum of Styria",
-          "Visit Armory Zeughaus",
-          "Visit Eggenberger Bad",
-          "Eat at Tribeka"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Augartenbad",
-          "Visit Bad Strassgang",
-          "Visit Margarethenbad",
-          "Eat at Café Kaiserfeld"
+          "Eat at Bäckerei Sorger"
         ]
       }
     ],
@@ -31586,14 +27606,11 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Dot",
       "Wall House II",
-      "Reitdiep colourful houses",
-      "Forum Groningen",
       "Groninger Museum",
       "Noordelijk Scheepvaartmuseum",
       "Universiteitsmuseum",
-      "Storyworld"
+      "Martiniplaza"
     ],
     "restaurants": [
       {
@@ -31675,9 +27692,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Dot",
           "Visit Wall House II",
-          "Visit Reitdiep colourful houses",
+          "Visit Groninger Museum",
+          "Visit Noordelijk Scheepvaartmuseum",
           "Eat at Kaashandel van der Ley"
         ]
       },
@@ -31685,30 +27702,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Forum Groningen",
-          "Visit Groninger Museum",
-          "Visit Noordelijk Scheepvaartmuseum",
-          "Eat at Groninger Kaasboetiek"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Universiteitsmuseum",
-          "Visit Storyworld",
-          "Visit Canal cruise",
-          "Eat at Eeterie De Globe"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Canoeing",
-          "Visit Play Pitch&Putt",
-          "Visit Klimcentrum Bjoeks",
-          "Eat at Land van Kokanje"
+          "Visit Martiniplaza",
+          "Eat at Groninger Kaasboetiek"
         ]
       }
     ],
@@ -31747,12 +27743,8 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Pigeon Island National Park",
       "Reduit Beach",
-      "Cas en Bas",
-      "Anse Lavoutte",
       "Gros Islet Beach",
-      "Pigeon Point Beach",
-      "Rodney Bay Marina",
-      "Daren Sammy Cricket Ground"
+      "Pigeon Point Beach"
     ],
     "restaurants": [
       {
@@ -31805,7 +27797,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Pigeon Island National Park",
           "Visit Reduit Beach",
-          "Visit Cas en Bas",
+          "Visit Gros Islet Beach",
           "Eat at Somewhere Special Restaurant and Bar"
         ]
       },
@@ -31813,18 +27805,7 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Anse Lavoutte",
-          "Visit Gros Islet Beach",
           "Visit Pigeon Point Beach"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Rodney Bay Marina",
-          "Visit Daren Sammy Cricket Ground",
-          "Visit Snuba Saint Lucia"
         ]
       }
     ],
@@ -31956,13 +27937,8 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "National Palace of Culture",
-      "Mapa en Relieve",
       "La Aurora Zoo",
-      "Kaminal Juyu Parque Arqueologico",
-      "Parque Central (Plaza de la Constitucion)",
-      "Catedral Metropolitana de Santiago de Guatemala",
-      "Jardines Botánico",
-      "Cayalá City"
+      "Parque Central (Plaza de la Constitucion)"
     ],
     "restaurants": [
       {
@@ -32046,37 +28022,9 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit National Palace of Culture",
-          "Visit Mapa en Relieve",
           "Visit La Aurora Zoo",
-          "Eat at Hacienda Real"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Kaminal Juyu Parque Arqueologico",
           "Visit Parque Central (Plaza de la Constitucion)",
-          "Visit Catedral Metropolitana de Santiago de Guatemala",
-          "Eat at Tre Fratelli"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Jardines Botánico",
-          "Visit Cayalá City",
-          "Visit Guatemala National Football Team",
-          "Eat at Tamarindos"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Authentic Guatemala",
-          "Eat at Restaurante Fridas"
+          "Eat at Hacienda Real"
         ]
       }
     ],
@@ -32117,9 +28065,6 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Bosque Protector Cerro Blanco",
-      "Reserva Ecologica Manglares Churute",
-      "Finca Cumanda",
       "El Lago Park",
       "Botanical Garden",
       "Zoo el Pantanal"
@@ -32176,19 +28121,10 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Bosque Protector Cerro Blanco",
-          "Visit Reserva Ecologica Manglares Churute",
-          "Visit Finca Cumanda",
-          "Eat at Red Crab"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
           "Visit El Lago Park",
           "Visit Botanical Garden",
-          "Visit Zoo el Pantanal"
+          "Visit Zoo el Pantanal",
+          "Eat at Red Crab"
         ]
       }
     ],
@@ -32276,8 +28212,7 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Estcourt Clock Tower",
       "Sialkoti Gate",
-      "St. Paul's Presbyterian Church",
-      "Breakfast"
+      "St. Paul's Presbyterian Church"
     ],
     "restaurants": [
       {
@@ -32304,13 +28239,6 @@ const raw: Gen[] = [
           "Visit Sialkoti Gate",
           "Visit St. Paul's Presbyterian Church",
           "Eat at Baba Fareed Burger"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Breakfast"
         ]
       }
     ],
@@ -32351,13 +28279,7 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Asia Culture Center",
-      "Art Street",
       "Jeungsimsa Temple",
-      "Mt. Mudeungsan pillar-shaped joint cliff",
-      "Gwangju Confucian School",
-      "May 18 Archives",
-      "The Traditional Culture Center",
       "Daein Market"
     ],
     "restaurants": [
@@ -32426,48 +28348,7 @@ const raw: Gen[] = [
       "Jeungsimsa Temple"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Asia Culture Center",
-          "Visit Art Street",
-          "Visit Jeungsimsa Temple",
-          "Eat at Songjeong Tteokgal-bi"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Mt. Mudeungsan pillar-shaped joint cliff",
-          "Visit Gwangju Confucian School",
-          "Visit May 18 Archives",
-          "Eat at Ori-tang"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit The Traditional Culture Center",
-          "Visit Daein Market",
-          "Visit Geumnam-ro and Chungjang-ro Streets",
-          "Eat at Sangchu-Twigim"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Gwangju Biennale & Design Biennale",
-          "Visit Ice skating",
-          "Visit Baseball",
-          "Eat at Yuk-jeon"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.7,
@@ -32503,9 +28384,7 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Boggie Clock Tower",
       "Zimbabwe Military Museum",
-      "Nalatale and Danangombe archaeological sites",
-      "St. Theresa Cathedral",
-      "Gweru Theatre"
+      "St. Theresa Cathedral"
     ],
     "restaurants": [
       {
@@ -32564,16 +28443,8 @@ const raw: Gen[] = [
         "activities": [
           "Visit Boggie Clock Tower",
           "Visit Zimbabwe Military Museum",
-          "Visit Nalatale and Danangombe archaeological sites",
-          "Eat at food express"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
           "Visit St. Theresa Cathedral",
-          "Visit Gweru Theatre"
+          "Eat at food express"
         ]
       }
     ],
@@ -32659,13 +28530,10 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Bahá'í Gardens and World Center",
-      "Cave of Elijah",
-      "Stella Maris",
-      "German Colony",
-      "University of Haifa",
-      "Wadi Nisnas",
-      "Tel Shikmona",
-      "Sail Tower"
+      "Sail Tower",
+      "The (student's) beach",
+      "Hecht Park",
+      "Nesher park"
     ],
     "restaurants": [
       {
@@ -32732,8 +28600,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Bahá'í Gardens and World Center",
-          "Visit Cave of Elijah",
-          "Visit Stella Maris",
+          "Visit Sail Tower",
+          "Visit The (student's) beach",
           "Eat at Frangelico"
         ]
       },
@@ -32741,30 +28609,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit German Colony",
-          "Visit University of Haifa",
-          "Visit Wadi Nisnas",
+          "Visit Hecht Park",
+          "Visit Nesher park",
           "Eat at Café Louise"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Tel Shikmona",
-          "Visit Sail Tower",
-          "Visit The (student's) beach",
-          "Eat at Roladin"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Cable car",
-          "Visit Carmelit",
-          "Visit Holiday of the holidays",
-          "Eat at Hanamal 24"
         ]
       }
     ],
@@ -32956,11 +28803,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Hafengeburtstag",
-      "Kirschblütenfest",
-      "Hamburger Dom"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -32970,17 +28813,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Hafengeburtstag",
-          "Visit Kirschblütenfest",
-          "Visit Hamburger Dom"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -33017,10 +28850,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Hamhung Grand Theatre",
-      "Hamhung Water Park"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -33220,18 +29050,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Vietnam Military History Museum",
           "Visit Museum of Ethnology",
-          "Visit August Movie Theater",
           "Eat at Bun Cha Ta Hanoi"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit CGV Cinemas (formerly Megastar)",
-          "Visit EZ Cooking Class",
-          "Visit EDUMA",
-          "Eat at Bánh Mì 25"
         ]
       }
     ],
@@ -33272,12 +29091,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "National Heroes Acre",
-      "Harare City Library",
-      "The Kopje",
       "National Gallery of Zimbabwe",
       "Zimbabwe Museum of Human Sciences",
-      "National Archives",
       "Chapungu Sculpture Park",
       "Sacred Heart Cathedral"
     ],
@@ -33353,9 +29168,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit National Heroes Acre",
-          "Visit Harare City Library",
-          "Visit The Kopje",
+          "Visit National Gallery of Zimbabwe",
+          "Visit Zimbabwe Museum of Human Sciences",
+          "Visit Chapungu Sculpture Park",
           "Eat at Pick N Pay Supermarkers"
         ]
       },
@@ -33363,28 +29178,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit National Gallery of Zimbabwe",
-          "Visit Zimbabwe Museum of Human Sciences",
-          "Visit National Archives",
-          "Eat at Choppies Supermarket"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Chapungu Sculpture Park",
           "Visit Sacred Heart Cathedral",
-          "Visit Harare Sports Club",
-          "Eat at Khaya Nyama Wombles"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Epworth Balancing Rocks",
-          "Eat at Coimbra"
+          "Eat at Choppies Supermarket"
         ]
       }
     ],
@@ -33471,13 +29266,10 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Museum of the Revolution",
-      "National Capitol Building",
-      "Partagás Cigar factory",
       "Havana Club Rum Museum",
       "Plaza de la Revolución",
       "Lennon Park",
-      "US Embassy",
-      "Hotel Habana Libre"
+      "Go to the eastern beaches"
     ],
     "restaurants": [
       {
@@ -33558,8 +29350,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Museum of the Revolution",
-          "Visit National Capitol Building",
-          "Visit Partagás Cigar factory",
+          "Visit Havana Club Rum Museum",
+          "Visit Plaza de la Revolución",
           "Eat at Coppelia Ice Cream parlour"
         ]
       },
@@ -33567,30 +29359,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Havana Club Rum Museum",
-          "Visit Plaza de la Revolución",
           "Visit Lennon Park",
+          "Visit Go to the eastern beaches",
           "Eat at Chan Li Po"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit US Embassy",
-          "Visit Hotel Habana Libre",
-          "Visit Walk along the Malecón",
-          "Eat at Hanoi"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Walk down the Paseo del Prado",
-          "Visit Latin American New Cinema Festival",
-          "Visit Bike tour, Discover Havana by bike",
-          "Eat at El Aljibe"
         ]
       }
     ],
@@ -33735,16 +29506,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Helsinki Philharmonic Orchestra",
-      "UMO Jazz Orchestra",
-      "Söderskär Lighthouse",
-      "Skippered Day Sailing",
-      "Lux Helsinki",
-      "Vappu",
-      "World Village Festival",
-      "Helsinki City Run"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -33752,34 +29514,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Helsinki Philharmonic Orchestra",
-          "Visit UMO Jazz Orchestra",
-          "Visit Söderskär Lighthouse"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Skippered Day Sailing",
-          "Visit Lux Helsinki",
-          "Visit Vappu"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit World Village Festival",
-          "Visit Helsinki City Run"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.9,
@@ -33820,11 +29555,7 @@ const raw: Gen[] = [
       "The Friday Mosque",
       "Herat Citadel",
       "Herat National Museum",
-      "Mousallah Complex",
-      "Minarets of Sultan Baiqara",
-      "Tomb of Jami",
-      "Gazar Gah",
-      "Takht-e Safar"
+      "Tomb of Jami"
     ],
     "restaurants": [
       {
@@ -33873,17 +29604,7 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Mousallah Complex",
-          "Visit Minarets of Sultan Baiqara",
           "Visit Tomb of Jami"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Gazar Gah",
-          "Visit Takht-e Safar"
         ]
       }
     ],
@@ -33924,14 +29645,12 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Forte Mare",
       "Citadel",
-      "Kanli Kula",
       "Fort Španjola",
-      "Mamula Fortress",
       "Clock Tower",
       "Western Tower",
-      "Tower of St. Jerome"
+      "Tower of St. Jerome",
+      "Nude beach"
     ],
     "restaurants": [],
     "hotels": [
@@ -33963,36 +29682,18 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Forte Mare",
           "Visit Citadel",
-          "Visit Kanli Kula"
+          "Visit Fort Španjola",
+          "Visit Clock Tower"
         ]
       },
       {
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Fort Španjola",
-          "Visit Mamula Fortress",
-          "Visit Clock Tower"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Western Tower",
           "Visit Tower of St. Jerome",
           "Visit Nude beach"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Film Festival",
-          "Visit Sunčane Skale",
-          "Visit Jadran"
         ]
       }
     ],
@@ -34165,14 +29866,14 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "People's Committee Hall",
       "Ho Chi Minh Museum",
       "Museum of Vietnamese History",
       "Independence Palace",
       "War Remnants Museum",
       "Southern Women’s Museum",
       "FITO Museum of Traditional Vietnamese Medicine",
-      "The Geological Museum of Vietnam"
+      "The Geological Museum of Vietnam",
+      "Dai Nam Tourist Park"
     ],
     "restaurants": [
       {
@@ -34259,9 +29960,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit People's Committee Hall",
           "Visit Ho Chi Minh Museum",
           "Visit Museum of Vietnamese History",
+          "Visit Independence Palace",
           "Eat at Ben Thanh Market"
         ]
       },
@@ -34269,9 +29970,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Independence Palace",
           "Visit War Remnants Museum",
           "Visit Southern Women’s Museum",
+          "Visit FITO Museum of Traditional Vietnamese Medicine",
           "Eat at Bánh Mì 37"
         ]
       },
@@ -34279,9 +29980,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit FITO Museum of Traditional Vietnamese Medicine",
           "Visit The Geological Museum of Vietnam",
           "Visit Dai Nam Tourist Park",
+          "Visit Dam Sen Water Park",
           "Eat at Pho 24"
         ]
       },
@@ -34289,9 +29990,8 @@ const raw: Gen[] = [
         "day": 4,
         "title": "Day trips & more",
         "activities": [
-          "Visit Dam Sen Water Park",
-          "Visit Happy Ending Massage Yuan",
           "Visit Twenty-Three September Park",
+          "Visit Vietnamese Language Garden",
           "Eat at Pho Quynh"
         ]
       }
@@ -34522,10 +30222,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Guadalcanal American Memorial",
-      "National Museum",
-      "Aola Bay",
-      "Tenaru Falls",
-      "Matanikau River"
+      "National Museum"
     ],
     "restaurants": [
       {
@@ -34565,27 +30262,7 @@ const raw: Gen[] = [
       "National Museum"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Guadalcanal American Memorial",
-          "Visit National Museum",
-          "Visit Aola Bay",
-          "Eat at The Taj Mahal"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Tenaru Falls",
-          "Visit Matanikau River",
-          "Eat at Point Cruz Yacht Club"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.9,
@@ -34622,16 +30299,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Astrodome",
-      "Wildcat Golf Club",
-      "Houston Country club",
-      "River Oaks Country Club",
-      "Redstone",
-      "Houston CaribFest",
-      "Art Car Parade",
-      "Houston Motocross"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -34644,35 +30312,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Astrodome",
-          "Visit Wildcat Golf Club",
-          "Visit Houston Country club"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit River Oaks Country Club",
-          "Visit Redstone",
-          "Visit Houston CaribFest"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Art Car Parade",
-          "Visit Houston Motocross",
-          "Visit Houston Cougars"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.4,
@@ -34827,9 +30467,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Ho Chi Minh Museum",
-      "Phu Bai Airport",
       "Thien Mu Pagoda",
-      "Imperial City of Hue",
       "Huế Museum of Royal Fine Arts",
       "Tomb of Gia Long",
       "Tomb of Minh Mang",
@@ -34917,8 +30555,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Ho Chi Minh Museum",
-          "Visit Phu Bai Airport",
           "Visit Thien Mu Pagoda",
+          "Visit Huế Museum of Royal Fine Arts",
           "Eat at Banh Bao"
         ]
       },
@@ -34926,29 +30564,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Imperial City of Hue",
-          "Visit Huế Museum of Royal Fine Arts",
           "Visit Tomb of Gia Long",
-          "Eat at Quán Chay Thanh Liễu"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Tomb of Minh Mang",
           "Visit Tomb of Thieu Tri",
-          "Visit Blind Massage",
-          "Eat at Cafe on Thu Wheels"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit My An Hot Spring and Spa",
-          "Visit Thanh Tan Hot Springs",
-          "Eat at Family Home Restaurant"
+          "Eat at Quán Chay Thanh Liễu"
         ]
       }
     ],
@@ -34986,10 +30605,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Hamhung Grand Theatre",
-      "Hamhung Water Park"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -35034,11 +30650,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Heritage walk",
-      "Friends of Snakes Society",
-      "Hatsclub Hyderabad Adventure & Trekker’s club"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Hyderabadi dum biryani",
@@ -35075,18 +30687,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Heritage walk",
-          "Visit Friends of Snakes Society",
-          "Visit Hatsclub Hyderabad Adventure & Trekker’s club",
-          "Eat at Hyderabadi dum biryani"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -35125,9 +30726,6 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Palace of Culture",
-      "Casa Dosoftei",
-      "The Catacombs",
-      "Vasile Alecsandri National Theatre",
       "Ethnographic Museum of Moldavia",
       "Art Museum",
       "History Museum of Moldavia",
@@ -35207,8 +30805,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Palace of Culture",
-          "Visit Casa Dosoftei",
-          "Visit The Catacombs",
+          "Visit Ethnographic Museum of Moldavia",
+          "Visit Art Museum",
           "Eat at Pizza Pazzo"
         ]
       },
@@ -35216,20 +30814,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Vasile Alecsandri National Theatre",
-          "Visit Ethnographic Museum of Moldavia",
-          "Visit Art Museum",
-          "Eat at Phenicia"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit History Museum of Moldavia",
           "Visit \"Ștefan Procopiu\" Museum of Science and Technology",
-          "Visit Aerial Sightseeing Flight",
-          "Eat at La Gara"
+          "Eat at Phenicia"
         ]
       }
     ],
@@ -35273,11 +30860,9 @@ const raw: Gen[] = [
       "National Museum of Unity",
       "Agodi Gardens",
       "Bower Memorial Tower",
-      "The University of Ibadan",
-      "Mapo Hall",
-      "Cocoa House",
-      "The Broking House",
-      "IITA"
+      "Ado Awaye Mountains and Suspended Lakes",
+      "Old Oyo National Park",
+      "Trans-Amusement park"
     ],
     "restaurants": [
       {
@@ -35367,30 +30952,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit The University of Ibadan",
-          "Visit Mapo Hall",
-          "Visit Cocoa House",
-          "Eat at Chicken Republic"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit The Broking House",
-          "Visit IITA",
           "Visit Ado Awaye Mountains and Suspended Lakes",
-          "Eat at Ose Olorun Food Canteen"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
           "Visit Old Oyo National Park",
           "Visit Trans-Amusement park",
-          "Visit Viva Cinema",
-          "Eat at Dominos Pizza"
+          "Eat at Chicken Republic"
         ]
       }
     ],
@@ -35514,13 +31079,10 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Wolmido Island",
-      "Chinatown",
-      "Sorae Port",
-      "Beam of light",
       "Dongmak Beach",
       "Yeonan Pier (연안부두)",
-      "Jeondeungsa Daeungjeon",
-      "Incheon government office building"
+      "Eulwang-ri Beach",
+      "Sorae bridge"
     ],
     "restaurants": [
       {
@@ -35598,8 +31160,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Wolmido Island",
-          "Visit Chinatown",
-          "Visit Sorae Port",
+          "Visit Dongmak Beach",
+          "Visit Yeonan Pier (연안부두)",
           "Eat at New York Banjeom"
         ]
       },
@@ -35607,30 +31169,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Beam of light",
-          "Visit Dongmak Beach",
-          "Visit Yeonan Pier (연안부두)",
-          "Eat at Jeongdeun Dakbal"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Jeondeungsa Daeungjeon",
-          "Visit Incheon government office building",
           "Visit Eulwang-ri Beach",
-          "Eat at Yeongyeong"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Incheon culture & arts center",
-          "Visit Haughty Cat",
-          "Visit Fairy-tale town",
-          "Eat at Sinpo Dakgangjeong"
+          "Visit Sorae bridge",
+          "Eat at Jeongdeun Dakbal"
         ]
       }
     ],
@@ -35670,16 +31211,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Birch Memorial Clocktower",
-      "Ipoh Railway Station",
-      "Ipoh Town Hall and Law Courts",
-      "Muzium Darul Ridzuan",
-      "Padang Ipoh",
-      "Han Chin Pet Soo",
-      "Kinta Riverfront Walk",
-      "Little India"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Sin Meng Kee Products",
@@ -35752,48 +31284,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Birch Memorial Clocktower",
-          "Visit Ipoh Railway Station",
-          "Visit Ipoh Town Hall and Law Courts",
-          "Eat at Sin Meng Kee Products"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Muzium Darul Ridzuan",
-          "Visit Padang Ipoh",
-          "Visit Han Chin Pet Soo",
-          "Eat at Choy Kee Bakery"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Kinta Riverfront Walk",
-          "Visit Little India",
-          "Visit Royal Ipoh Club",
-          "Eat at Dai Shu Geok"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Caving at Gua Tempurung",
-          "Visit White Water Rafting",
-          "Visit Bukit Kledang",
-          "Eat at Restoran Li Heng Fatt"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -35925,13 +31416,11 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Naqsh-e Jahan Square",
-      "Chaharbagh Boulevard",
-      "Meydan Kohne",
       "Shahshahan Square",
       "Imam Mosque",
       "Sheikh Lotf Allah Mosque",
-      "Masjed-e Jāmé of Isfahan",
-      "Hakim Mosque"
+      "Hakim Mosque",
+      "Soffeh Mountain"
     ],
     "restaurants": [
       {
@@ -35994,8 +31483,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Naqsh-e Jahan Square",
-          "Visit Chaharbagh Boulevard",
-          "Visit Meydan Kohne",
+          "Visit Shahshahan Square",
+          "Visit Imam Mosque",
           "Eat at Shem Shad Restaurant"
         ]
       },
@@ -36003,20 +31492,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Shahshahan Square",
-          "Visit Imam Mosque",
           "Visit Sheikh Lotf Allah Mosque",
-          "Eat at Naqsh-e Jahan Traditional Restaurant"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Masjed-e Jāmé of Isfahan",
           "Visit Hakim Mosque",
           "Visit Soffeh Mountain",
-          "Eat at Shahrzad restaurant"
+          "Eat at Naqsh-e Jahan Traditional Restaurant"
         ]
       }
     ],
@@ -36104,8 +31583,6 @@ const raw: Gen[] = [
       "Golra Pakistan Railways Heritage Museum",
       "Pakistan Museum of Natural History",
       "National Art Gallery",
-      "Daman-e-Koh",
-      "Shakarparian",
       "Japanese Park",
       "Rawal Lake"
     ],
@@ -36195,19 +31672,9 @@ const raw: Gen[] = [
         "title": "Culture & neighborhoods",
         "activities": [
           "Visit National Art Gallery",
-          "Visit Daman-e-Koh",
-          "Visit Shakarparian",
-          "Eat at Nando's"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Japanese Park",
           "Visit Rawal Lake",
-          "Visit Art & Craft Village",
-          "Eat at Khiva"
+          "Eat at Nando's"
         ]
       }
     ],
@@ -36247,9 +31714,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "MegaPass Istanbul"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -36294,9 +31759,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Museum of Local History"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -36345,8 +31808,6 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Izmir Archaeological Museum",
-      "Asansör",
-      "Smyrna Agora",
       "Atatürk Museum",
       "History and Art Museum",
       "Railway Museum",
@@ -36425,8 +31886,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Izmir Archaeological Museum",
-          "Visit Asansör",
-          "Visit Smyrna Agora",
+          "Visit Atatürk Museum",
+          "Visit History and Art Museum",
           "Eat at Sultan Yemek Evi"
         ]
       },
@@ -36434,19 +31895,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Atatürk Museum",
-          "Visit History and Art Museum",
           "Visit Railway Museum",
-          "Eat at Alsancak Pide"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Radio and Democracy Museum",
           "Visit Church of St Vukolos",
-          "Eat at Köfteci Okan"
+          "Eat at Alsancak Pide"
         ]
       }
     ],
@@ -36487,14 +31939,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Catedral de Iztapalapa",
-      "Ex-convento de San Juan Evangelista Culhuacán",
       "Head of Juarez Monument",
-      "Museo Fuego Nuevo",
-      "Museo de Servicio Transportes Electricos",
-      "Estadio Alfredo Harp Helu",
-      "Autodromo Hermanos Rodriguez",
-      "Palacio de los Deportes"
+      "Cerro de la Estrella National Park"
     ],
     "restaurants": [
       {
@@ -36538,38 +31984,7 @@ const raw: Gen[] = [
       "Head of Juarez Monument"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Catedral de Iztapalapa",
-          "Visit Ex-convento de San Juan Evangelista Culhuacán",
-          "Visit Head of Juarez Monument",
-          "Eat at Dolce Maria"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Museo Fuego Nuevo",
-          "Visit Museo de Servicio Transportes Electricos",
-          "Visit Estadio Alfredo Harp Helu",
-          "Eat at La Oaxaqueña"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Autodromo Hermanos Rodriguez",
-          "Visit Palacio de los Deportes",
-          "Visit Cerro de la Estrella National Park",
-          "Eat at Abathía \"La kbañita\""
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -36609,12 +32024,7 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Nallur Kandaswamy temple",
       "Thondaimanaru Selva Sannithi Temple",
-      "Nagapoosani Temple",
-      "Nagadeepa Purana Viharaya",
-      "Sri Nagavihara International Buddhist Centre",
-      "Palaly Raja Rajeswari Amman Kovil",
-      "Jaffna Library",
-      "Kankesanthurai"
+      "Nagapoosani Temple"
     ],
     "restaurants": [
       {
@@ -36687,25 +32097,6 @@ const raw: Gen[] = [
           "Visit Thondaimanaru Selva Sannithi Temple",
           "Visit Nagapoosani Temple",
           "Eat at Akshathai/Nila"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Nagadeepa Purana Viharaya",
-          "Visit Sri Nagavihara International Buddhist Centre",
-          "Visit Palaly Raja Rajeswari Amman Kovil",
-          "Eat at Rio Ice cream"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Jaffna Library",
-          "Visit Kankesanthurai",
-          "Eat at Mangos"
         ]
       }
     ],
@@ -36863,14 +32254,9 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Xalapa Catedral",
       "Anthropology Museum of Xalapa",
       "Juárez Park",
-      "Botanical Garden Francisco Javier Clavijero",
-      "Patio Muñoz",
-      "Jardín de Esculturas",
-      "Pinacoteca Diego Rivera",
-      "Museo El Lencero"
+      "Botanical Garden Francisco Javier Clavijero"
     ],
     "restaurants": [
       {
@@ -36937,30 +32323,10 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Xalapa Catedral",
           "Visit Anthropology Museum of Xalapa",
           "Visit Juárez Park",
-          "Eat at Restaurante La Güerita"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
           "Visit Botanical Garden Francisco Javier Clavijero",
-          "Visit Patio Muñoz",
-          "Visit Jardín de Esculturas",
-          "Eat at Casumi"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Pinacoteca Diego Rivera",
-          "Visit Museo El Lencero",
-          "Visit Teatro del Estado \"Gral. Ignacio de la Llave\"",
-          "Eat at El Itacate fonda"
+          "Eat at Restaurante La Güerita"
         ]
       }
     ],
@@ -37001,14 +32367,12 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Souq al-Alawi",
-      "Naseef House",
       "Jeddah Regional Museum of Archaeology and Ethnography",
       "Abdul Raouf Khalil Museum",
-      "House of Islamic Arts",
-      "teamLab Borderless Jeddah",
       "King Fahd's Fountain",
-      "Asfan Castle"
+      "Asfan Castle",
+      "Al-Shalal Theme Park",
+      "La Plage beach club"
     ],
     "restaurants": [
       {
@@ -37082,9 +32446,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Souq al-Alawi",
-          "Visit Naseef House",
           "Visit Jeddah Regional Museum of Archaeology and Ethnography",
+          "Visit Abdul Raouf Khalil Museum",
+          "Visit King Fahd's Fountain",
           "Eat at Al Baik"
         ]
       },
@@ -37092,30 +32456,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Abdul Raouf Khalil Museum",
-          "Visit House of Islamic Arts",
-          "Visit teamLab Borderless Jeddah",
-          "Eat at Byblos Xpress"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit King Fahd's Fountain",
           "Visit Asfan Castle",
-          "Visit King Abdullah Sports City",
-          "Eat at Khayal"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Prince Abdullah Al-Faisal Sports City",
           "Visit Al-Shalal Theme Park",
           "Visit La Plage beach club",
-          "Eat at Aromi Restaurant"
+          "Eat at Byblos Xpress"
         ]
       }
     ],
@@ -37157,13 +32501,10 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Jelgava Palace",
-      "Academia Petrina",
       "Victory Park",
       "Jelgava branch of the Latvian Railway History Museum",
       "Rundāle Palace",
-      "Latvian FreeFly Peppers",
-      "International Ice Sculpture Festival",
-      "Semigallians Days in Tervete"
+      "Tērvete Nature Park"
     ],
     "restaurants": [
       {
@@ -37209,8 +32550,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Jelgava Palace",
-          "Visit Academia Petrina",
           "Visit Victory Park",
+          "Visit Jelgava branch of the Latvian Railway History Museum",
           "Eat at Kafe Picerija"
         ]
       },
@@ -37218,17 +32559,7 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Jelgava branch of the Latvian Railway History Museum",
           "Visit Rundāle Palace",
-          "Visit Latvian FreeFly Peppers"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit International Ice Sculpture Festival",
-          "Visit Semigallians Days in Tervete",
           "Visit Tērvete Nature Park"
         ]
       }
@@ -37269,16 +32600,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Rockefeller Museum",
-      "Bike Jerusalem",
-      "Jerusalem Segway Tours",
-      "Eco Israel Tours",
-      "Jerusalem Studies Tour",
-      "Lights in Jerusalem Festival",
-      "Hutzot HaYotzer - International Arts and Crafts Festival",
-      "Jerusalem March"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -37288,35 +32610,7 @@ const raw: Gen[] = [
       "Rockefeller Museum"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Rockefeller Museum",
-          "Visit Bike Jerusalem",
-          "Visit Jerusalem Segway Tours"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Eco Israel Tours",
-          "Visit Jerusalem Studies Tour",
-          "Visit Lights in Jerusalem Festival"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Hutzot HaYotzer - International Arts and Crafts Festival",
-          "Visit Jerusalem March",
-          "Visit Jerusalem International Oud Festival"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.4,
@@ -37392,9 +32686,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Livestock Market"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Mahuraan Bakery",
@@ -37456,9 +32748,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "City Sightseeing"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -37504,14 +32794,12 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Chinatown",
-      "Little India",
-      "Majidee Malay Village",
-      "Austin International Convention Centre",
       "JLand Tower",
       "Johor Bahru City Square",
-      "Johor Public Library",
-      "Mahmoodiah Royal Mausoleum"
+      "Mahmoodiah Royal Mausoleum",
+      "Dinosaur Alive Water Theme Park",
+      "La Stella Water Theme Park",
+      "Tiram Indoor Water Park"
     ],
     "restaurants": [
       {
@@ -37591,9 +32879,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Chinatown",
-          "Visit Little India",
-          "Visit Majidee Malay Village",
+          "Visit JLand Tower",
+          "Visit Johor Bahru City Square",
+          "Visit Mahmoodiah Royal Mausoleum",
           "Eat at Food Generation JB (FGJB)"
         ]
       },
@@ -37601,30 +32889,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Austin International Convention Centre",
-          "Visit JLand Tower",
-          "Visit Johor Bahru City Square",
-          "Eat at Cedar Point Food Centre"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Johor Public Library",
-          "Visit Mahmoodiah Royal Mausoleum",
-          "Visit Legoland Malaysia",
-          "Eat at 大马花园小贩中心"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Austin Heights Water and Adventure Park",
           "Visit Dinosaur Alive Water Theme Park",
           "Visit La Stella Water Theme Park",
-          "Eat at Bulat Bulat Corner"
+          "Visit Tiram Indoor Water Park",
+          "Eat at Cedar Point Food Centre"
         ]
       }
     ],
@@ -37704,9 +32972,6 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Wiltins Transporters",
-      "\"Greek\" buildings",
-      "Juba Stadium",
       "John Garang Mausoleum",
       "St. Theresa Cathedral"
     ],
@@ -37760,27 +33025,7 @@ const raw: Gen[] = [
       "St. Theresa Cathedral"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Wiltins Transporters",
-          "Visit \"Greek\" buildings",
-          "Visit Juba Stadium",
-          "Eat at Da Vinci's Restaurant"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit John Garang Mausoleum",
-          "Visit St. Theresa Cathedral",
-          "Eat at Notos Lounge Bar & Grill"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.7,
@@ -37946,9 +33191,6 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Bagh-e Babur",
-      "Bagh-e Bala",
-      "British Cemetery",
       "Darul Aman Palace",
       "Tajbeg Palace",
       "Kabul Zoo",
@@ -38029,9 +33271,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Bagh-e Babur",
-          "Visit Bagh-e Bala",
-          "Visit British Cemetery",
+          "Visit Darul Aman Palace",
+          "Visit Tajbeg Palace",
+          "Visit Kabul Zoo",
           "Eat at Andkhoi Bastan Turkmen Restaurant"
         ]
       },
@@ -38039,30 +33281,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Darul Aman Palace",
-          "Visit Tajbeg Palace",
-          "Visit Kabul Zoo",
-          "Eat at Ansari Kunduz Kabab"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Lake Qargha",
           "Visit Mausoleum of Nadir Shah and Zahir Shah",
-          "Visit Kabul Golf Club",
-          "Eat at Biryani House"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Ariana Cinema",
-          "Visit Amani High School sports field",
-          "Visit Ghazi Stadium",
-          "Eat at Bolani"
+          "Eat at Ansari Kunduz Kabab"
         ]
       }
     ],
@@ -38102,10 +33323,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "The Big Tree",
-      "Mulungushi Rock of Authority"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Model Lodge",
@@ -38173,13 +33391,10 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Lugard Footbridge",
-      "Arewa House",
       "National Commission for Museums and Monuments, Kaduna",
       "Kajuru Castle",
       "Splash Park",
-      "Makarfi Plaza",
-      "Lugard Hall",
-      "Ahmadu Bello Stadium"
+      "Makarfi Plaza"
     ],
     "restaurants": [
       {
@@ -38237,8 +33452,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Lugard Footbridge",
-          "Visit Arewa House",
           "Visit National Commission for Museums and Monuments, Kaduna",
+          "Visit Kajuru Castle",
           "Eat at Byblos Restaurant, Abakwa"
         ]
       },
@@ -38246,19 +33461,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Kajuru Castle",
           "Visit Splash Park",
           "Visit Makarfi Plaza",
           "Eat at The Courtyard Restaurant"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Lugard Hall",
-          "Visit Ahmadu Bello Stadium",
-          "Eat at Gwandu Restaurant"
         ]
       }
     ],
@@ -38304,9 +33509,7 @@ const raw: Gen[] = [
       "Sonjuk Bridge",
       "Tomb of King Kongmin",
       "Tomb of King Wanggon",
-      "Kaesong Old Town",
-      "Kaesong Industrial Area",
-      "Pakyon Falls"
+      "Kaesong Old Town"
     ],
     "restaurants": [],
     "hotels": [
@@ -38345,14 +33548,6 @@ const raw: Gen[] = [
           "Visit Tomb of King Kongmin",
           "Visit Tomb of King Wanggon",
           "Visit Kaesong Old Town"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Kaesong Industrial Area",
-          "Visit Pakyon Falls"
         ]
       }
     ],
@@ -38395,10 +33590,6 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Great Mosque of Kairouan",
       "Mosque of the Three Doors",
-      "Bi'r Barouta",
-      "Maison de Gouveneur",
-      "Aghlabid Basins",
-      "Zaouia of Sidi Abid el-Ghariani",
       "Mosque of Ansar",
       "Mosque Al Bey"
     ],
@@ -38441,23 +33632,13 @@ const raw: Gen[] = [
         "activities": [
           "Visit Great Mosque of Kairouan",
           "Visit Mosque of the Three Doors",
-          "Visit Bi'r Barouta"
+          "Visit Mosque of Ansar"
         ]
       },
       {
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Maison de Gouveneur",
-          "Visit Aghlabid Basins",
-          "Visit Zaouia of Sidi Abid el-Ghariani"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Mosque of Ansar",
           "Visit Mosque Al Bey"
         ]
       }
@@ -38494,10 +33675,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Kakamega Rainforest",
-      "Ilesi Crying Stone"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Franky Grill",
@@ -38661,14 +33839,14 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "National Theatre",
       "Nommo Gallery",
       "Uganda Museum",
       "Uganda National Mosque",
       "Bahai Temple",
       "Kasubi tombs",
       "Wamala tombs",
-      "Namirembe Cathedral"
+      "Namirembe Cathedral",
+      "Ggaba Beach and KK Beach"
     ],
     "restaurants": [
       {
@@ -38754,9 +33932,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit National Theatre",
           "Visit Nommo Gallery",
           "Visit Uganda Museum",
+          "Visit Uganda National Mosque",
           "Eat at Great Wall"
         ]
       },
@@ -38764,9 +33942,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Uganda National Mosque",
           "Visit Bahai Temple",
           "Visit Kasubi tombs",
+          "Visit Wamala tombs",
           "Eat at Fang Fang"
         ]
       },
@@ -38774,9 +33952,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Wamala tombs",
           "Visit Namirembe Cathedral",
-          "Visit Boda boda tour around town",
+          "Visit Ggaba Beach and KK Beach",
+          "Visit One Love Beach",
           "Eat at Pizza or BBQ night at the Red Chilli Hideaway"
         ]
       },
@@ -38784,9 +33962,7 @@ const raw: Gen[] = [
         "day": 4,
         "title": "Day trips & more",
         "activities": [
-          "Visit Speke Resort Munyonyo",
-          "Visit Ndrere Centre",
-          "Visit Ggaba Beach and KK Beach",
+          "Visit Latembe Beach",
           "Eat at The Roots Restaurant"
         ]
       }
@@ -38863,9 +34039,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "St. Clement Cathedral"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Douze Maisons Motel"
@@ -38920,12 +34094,10 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Mosque of the Cloak of the Prophet Mohammad",
-      "Chil Zena",
       "Kandahar Museum",
       "Tomb of Ahmad Shah Durrani",
       "Shrine of Hassan Abdal",
-      "Shrine of Mirwais Khan Hotak",
-      "Dahla Dam"
+      "Shrine of Mirwais Khan Hotak"
     ],
     "restaurants": [
       {
@@ -38992,8 +34164,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Mosque of the Cloak of the Prophet Mohammad",
-          "Visit Chil Zena",
           "Visit Kandahar Museum",
+          "Visit Tomb of Ahmad Shah Durrani",
           "Eat at Farhad Super Market"
         ]
       },
@@ -39001,18 +34173,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Tomb of Ahmad Shah Durrani",
           "Visit Shrine of Hassan Abdal",
           "Visit Shrine of Mirwais Khan Hotak",
           "Eat at Kandahar Super Market"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Dahla Dam",
-          "Eat at Anar Restaurant"
         ]
       }
     ],
@@ -39050,9 +34213,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Great Mosque of Kankan"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Hotel Bate"
@@ -39103,11 +34264,10 @@ const raw: Gen[] = [
       "Kurmi market",
       "Gidan Makama Museum",
       "Gidan Dan Hausa Museum and Kano State Cultural Centre",
-      "Sani Abacha Stadium",
       "Great Mosque of Kano",
       "Kano Zoo",
-      "Dalla Hill",
-      "Emir's Palace"
+      "Emir's Palace",
+      "Roxy Amusement Park"
     ],
     "restaurants": [
       {
@@ -39197,9 +34357,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Sani Abacha Stadium",
           "Visit Great Mosque of Kano",
           "Visit Kano Zoo",
+          "Visit Emir's Palace",
           "Eat at Palace Restaurant"
         ]
       },
@@ -39207,8 +34367,6 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Dalla Hill",
-          "Visit Emir's Palace",
           "Visit Roxy Amusement Park",
           "Eat at Lebanon Club"
         ]
@@ -39359,11 +34517,11 @@ const raw: Gen[] = [
       "Abdullah Shah Ghazi Mausoleum",
       "Chaukhandi Tombs",
       "Empress Market",
-      "Frere Hall",
-      "Hindu Gymkhana",
       "Holy Trinity Cathedral",
-      "I. I. Chundrigar Rd",
-      "Jehangir Kothari Parade"
+      "Hawke's Bay Beach",
+      "Sandspit Beach",
+      "French Beach",
+      "Tushan Beach"
     ],
     "restaurants": [
       {
@@ -39455,9 +34613,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Frere Hall",
-          "Visit Hindu Gymkhana",
           "Visit Holy Trinity Cathedral",
+          "Visit Hawke's Bay Beach",
+          "Visit Sandspit Beach",
           "Eat at Burns Road"
         ]
       },
@@ -39465,20 +34623,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit I. I. Chundrigar Rd",
-          "Visit Jehangir Kothari Parade",
-          "Visit Arena",
+          "Visit French Beach",
+          "Visit Tushan Beach",
           "Eat at Do Darya"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Cinemas",
-          "Visit Dinner Cruise",
-          "Visit Hawke's Bay Beach",
-          "Eat at Hot N Spicy"
         ]
       }
     ],
@@ -39565,8 +34712,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Pearl Palace",
-      "Suleymanieh Palace",
-      "Shah Abbasi Caravanserai"
+      "Suleymanieh Palace"
     ],
     "restaurants": [],
     "hotels": [
@@ -39601,17 +34747,7 @@ const raw: Gen[] = [
       "Suleymanieh Palace"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Pearl Palace",
-          "Visit Suleymanieh Palace",
-          "Visit Shah Abbasi Caravanserai"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -39654,9 +34790,7 @@ const raw: Gen[] = [
       "Karakol Regional Museum",
       "Przevalski Museum and Memorial",
       "Karakol Zoo",
-      "Karakol Animal Market",
-      "Jeti Ögüz",
-      "Rent a bike"
+      "Karakol Animal Market"
     ],
     "restaurants": [
       {
@@ -39740,26 +34874,6 @@ const raw: Gen[] = [
           "Visit Karakol Animal Market",
           "Eat at Ethno Cafe Dastokon"
         ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Jeti Ögüz",
-          "Visit Rent a bike",
-          "Visit Karakol Ski Base",
-          "Eat at Kench"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Altyn Arashan Hot Springs",
-          "Visit commercial",
-          "Visit free",
-          "Eat at Karakol Coffee"
-        ]
       }
     ],
     "hiddenGems": [],
@@ -39796,9 +34910,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Cultural & Museum Center Karonga"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Mbande Cafe"
@@ -39966,11 +35078,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Future Nepal",
-      "Hidden Journeys Nepal",
-      "Volunteer Society Nepal"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -39985,17 +35093,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Future Nepal",
-          "Visit Hidden Journeys Nepal",
-          "Visit Volunteer Society Nepal"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -40074,7 +35172,6 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Kaunas Castle",
       "Church of St George",
-      "Kaunas City Hall",
       "Museum of the History of Lithuanian Medicine and Pharmacy",
       "Church of Holy Trinity",
       "Maironis Museum of Lithuanian Literature",
@@ -40170,7 +35267,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Kaunas Castle",
           "Visit Church of St George",
-          "Visit Kaunas City Hall",
+          "Visit Museum of the History of Lithuanian Medicine and Pharmacy",
           "Eat at Radharanė"
         ]
       },
@@ -40178,9 +35275,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Museum of the History of Lithuanian Medicine and Pharmacy",
           "Visit Church of Holy Trinity",
           "Visit Maironis Museum of Lithuanian Literature",
+          "Visit Church of St Francis Xavier",
           "Eat at Spurginė"
         ]
       },
@@ -40188,20 +35285,8 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Church of St Francis Xavier",
           "Visit Cathedral of Sts Peter & Paul",
-          "Visit State Musical Theatre",
           "Eat at Arena Pizza"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Kaunas Chamber Theatre",
-          "Visit National Kaunas Drama Theatre",
-          "Visit Aura Dance Theatre",
-          "Eat at Bernelių Užeiga"
         ]
       }
     ],
@@ -40289,9 +35374,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Medina Fort"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -40334,9 +35417,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Medina Fort"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -40382,14 +35463,13 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Kazan Kremlin",
       "Church of St Nicholas-Ratny",
       "Natural History Museum",
       "Kul-Sharif Mosque",
-      "Kazan Hermitage",
-      "Warrior Spirit",
       "\"Hazine\" National Gallery of Art",
-      "Annunciation Cathedral"
+      "Annunciation Cathedral",
+      "Victory Park",
+      "Opera and Ballet Theatre"
     ],
     "restaurants": [
       {
@@ -40461,9 +35541,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Kazan Kremlin",
           "Visit Church of St Nicholas-Ratny",
           "Visit Natural History Museum",
+          "Visit Kul-Sharif Mosque",
           "Eat at Dobraya Stolovaya"
         ]
       },
@@ -40471,9 +35551,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Kul-Sharif Mosque",
-          "Visit Kazan Hermitage",
-          "Visit Warrior Spirit",
+          "Visit \"Hazine\" National Gallery of Art",
+          "Visit Annunciation Cathedral",
+          "Visit Victory Park",
           "Eat at Dom Chaya"
         ]
       },
@@ -40481,20 +35561,8 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit \"Hazine\" National Gallery of Art",
-          "Visit Annunciation Cathedral",
-          "Visit Kazan Arena",
+          "Visit Opera and Ballet Theatre",
           "Eat at Govindas"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Kyrlay",
-          "Visit Victory Park",
-          "Visit Chernoe Ozero",
-          "Eat at Sofra Kebab"
         ]
       }
     ],
@@ -40532,9 +35600,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Viking World"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Rain",
@@ -40982,9 +36048,7 @@ const raw: Gen[] = [
         "day": 4,
         "title": "Day trips & more",
         "activities": [
-          "Visit Nemo delphinarium",
-          "Visit Shevchenko Drama Theatre",
-          "Visit Arabeski Theater",
+          "Visit Zhuravlovskyi hydropark Beach",
           "Eat at Buhara"
         ]
       }
@@ -41027,8 +36091,6 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Sudan Presidential Palace Museum",
-      "Confluence of the Blue and White Nile",
-      "Souq Arabi",
       "National Museum of Sudan",
       "Sudan Ethnographic Museum",
       "Sudan National Botanical Garden",
@@ -41115,8 +36177,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Sudan Presidential Palace Museum",
-          "Visit Confluence of the Blue and White Nile",
-          "Visit Souq Arabi",
+          "Visit National Museum of Sudan",
+          "Visit Sudan Ethnographic Museum",
           "Eat at Universal"
         ]
       },
@@ -41124,19 +36186,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit National Museum of Sudan",
-          "Visit Sudan Ethnographic Museum",
           "Visit Sudan National Botanical Garden",
-          "Eat at Amwaj Restaurant"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit King Farouq Mosque",
           "Visit St. Matthew's Cathedral",
-          "Eat at Royal Broast"
+          "Eat at Amwaj Restaurant"
         ]
       }
     ],
@@ -41269,8 +36322,6 @@ const raw: Gen[] = [
       "Historical Museum of Sughd Region",
       "Independence day monument",
       "Kamoli Khujandi Park and Museum",
-      "Kamoli Khujandi Theatre",
-      "Khujand Fortress",
       "Mausoleum of Sheikh Muslihiddin",
       "Somoni Park"
     ],
@@ -41361,19 +36412,9 @@ const raw: Gen[] = [
         "title": "Culture & neighborhoods",
         "activities": [
           "Visit Kamoli Khujandi Park and Museum",
-          "Visit Kamoli Khujandi Theatre",
-          "Visit Khujand Fortress",
-          "Eat at World of Shish-Kabobs"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Mausoleum of Sheikh Muslihiddin",
           "Visit Somoni Park",
-          "Visit Kanatnaya Doroga",
-          "Eat at Golden Fish"
+          "Eat at World of Shish-Kabobs"
         ]
       }
     ],
@@ -41415,9 +36456,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Gollamari Memorial",
-      "Khulna University",
-      "Divisional Museum, Khulna",
-      "Birsrestho Ruhul Amin Complex"
+      "Divisional Museum, Khulna"
     ],
     "restaurants": [
       {
@@ -41454,26 +36493,7 @@ const raw: Gen[] = [
       "Divisional Museum, Khulna"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Gollamari Memorial",
-          "Visit Khulna University",
-          "Visit Divisional Museum, Khulna",
-          "Eat at Hotel Castle Salam"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Birsrestho Ruhul Amin Complex",
-          "Eat at Aloka Restaurant"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.4,
@@ -41597,7 +36617,6 @@ const raw: Gen[] = [
     "thingsToDo": [
       "The Kigali Genocide Memorial Centre",
       "Presidential Palace Museum",
-      "Inema Arts Centre",
       "Kandt House Museum",
       "Belgian Peacekeepers Memorial",
       "Campaign Against Genocide Museum",
@@ -41681,7 +36700,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit The Kigali Genocide Memorial Centre",
           "Visit Presidential Palace Museum",
-          "Visit Inema Arts Centre",
+          "Visit Kandt House Museum",
           "Eat at La Classe"
         ]
       },
@@ -41689,9 +36708,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Kandt House Museum",
           "Visit Belgian Peacekeepers Memorial",
           "Visit Campaign Against Genocide Museum",
+          "Visit Nyanza Genocide Memorial",
           "Eat at Ki Asili Resto Bar and Fast Food"
         ]
       },
@@ -41699,19 +36718,8 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Nyanza Genocide Memorial",
           "Visit Nyandungu Eco-park",
-          "Visit Gisozi circuit",
           "Eat at Milima"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Ten pin bowling",
-          "Visit Nyamirambo Women's Center",
-          "Eat at Chez Robert"
         ]
       }
     ],
@@ -41791,11 +36799,9 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Killarney House",
       "Ross Castle",
       "Muckross Abbey",
-      "Muckross House, Gardens and Traditional Farms",
-      "Killarney Races"
+      "Muckross House, Gardens and Traditional Farms"
     ],
     "restaurants": [
       {
@@ -41875,19 +36881,10 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Killarney House",
           "Visit Ross Castle",
           "Visit Muckross Abbey",
-          "Eat at The Laurels"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
           "Visit Muckross House, Gardens and Traditional Farms",
-          "Visit Killarney Races",
-          "Eat at Stonechat"
+          "Eat at The Laurels"
         ]
       }
     ],
@@ -41966,11 +36963,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Botanic Gardens",
-      "SVG National Trust",
-      "Arnos Vale Stadium"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Veejays",
@@ -42001,18 +36994,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Botanic Gardens",
-          "Visit SVG National Trust",
-          "Visit Arnos Vale Stadium",
-          "Eat at Veejays"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -42051,11 +37033,6 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "National Museum of the Democratic Republic of Congo",
-      "Lola ya Bonobo",
-      "Kinkole",
-      "Jardin d'Eden",
-      "Parc de la Vallée de la N'Sele",
-      "Mbudi Nature",
       "Limete Tower",
       "Our Lady of the Congo Cathedral"
     ],
@@ -42128,28 +37105,9 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit National Museum of the Democratic Republic of Congo",
-          "Visit Lola ya Bonobo",
-          "Visit Kinkole",
-          "Eat at Café Conc"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Jardin d'Eden",
-          "Visit Parc de la Vallée de la N'Sele",
-          "Visit Mbudi Nature",
-          "Eat at Le Cercle Gourmand"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Limete Tower",
           "Visit Our Lady of the Congo Cathedral",
-          "Eat at La Brasserie"
+          "Eat at Café Conc"
         ]
       }
     ],
@@ -42228,12 +37186,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Boyoma Falls",
-      "Kisangani Cathedral",
-      "Villa of the \"African Queen\"",
-      "Congo boat rides"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Hôtel Congo Palace",
@@ -42260,24 +37213,7 @@ const raw: Gen[] = [
       "Kisangani Cathedral"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Boyoma Falls",
-          "Visit Kisangani Cathedral",
-          "Visit Villa of the \"African Queen\""
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Congo boat rides"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -42368,10 +37304,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Chembe Bird Sanctuary",
-      "Chimfunshi Wildlife Orphanage"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Hungry Lion fast food",
@@ -42445,13 +37378,12 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Klaipėda Castle",
-      "Black Ghost",
       "Theatre Square",
       "History Museum of Lithuania Minor",
       "Blacksmith's Museum",
       "Ship Museum Sūduvis",
-      "Meridianas",
-      "Museum of Clocks"
+      "Museum of Clocks",
+      "Malūno Park"
     ],
     "restaurants": [
       {
@@ -42538,8 +37470,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Klaipėda Castle",
-          "Visit Black Ghost",
           "Visit Theatre Square",
+          "Visit History Museum of Lithuania Minor",
           "Eat at Samurai"
         ]
       },
@@ -42547,9 +37479,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit History Museum of Lithuania Minor",
           "Visit Blacksmith's Museum",
           "Visit Ship Museum Sūduvis",
+          "Visit Museum of Clocks",
           "Eat at Cancan Pizza"
         ]
       },
@@ -42557,19 +37489,8 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Meridianas",
-          "Visit Museum of Clocks",
-          "Visit Dramatic Theatre of Klaipėda",
-          "Eat at Storas Katinas"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
           "Visit Malūno Park",
-          "Visit Central stadium of Klaipėda",
-          "Eat at Senamiestis"
+          "Eat at Storas Katinas"
         ]
       }
     ],
@@ -42697,14 +37618,13 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Kölner Dom",
       "Basilica of St. Cunibert",
       "Basilica of St. Severin",
-      "St. Maria Lyskirchen",
       "St. Andrew's Church",
       "Basilica of the Holy Apostles",
       "St. Gereon's Basilica",
-      "Basilica of St. Ursula"
+      "Basilica of St. Ursula",
+      "Kölner Zoo"
     ],
     "restaurants": [
       {
@@ -42788,9 +37708,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Kölner Dom",
           "Visit Basilica of St. Cunibert",
           "Visit Basilica of St. Severin",
+          "Visit St. Andrew's Church",
           "Eat at Weinhaus Vogel"
         ]
       },
@@ -42798,9 +37718,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit St. Maria Lyskirchen",
-          "Visit St. Andrew's Church",
           "Visit Basilica of the Holy Apostles",
+          "Visit St. Gereon's Basilica",
+          "Visit Basilica of St. Ursula",
           "Eat at Thiebolds-Eck"
         ]
       },
@@ -42808,20 +37728,8 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit St. Gereon's Basilica",
-          "Visit Basilica of St. Ursula",
-          "Visit Kölner Philharmonie",
+          "Visit Kölner Zoo",
           "Eat at Curry B."
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Oper Köln",
-          "Visit Stadtgarten",
-          "Visit Metropolis Cinema",
-          "Eat at Maison Baguette"
         ]
       }
     ],
@@ -42857,9 +37765,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Mirrajab Dodkhoh Museum"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Gostinitsa Dushanbe"
@@ -42912,11 +37818,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Smárabíó",
-      "Skemmtigarðurinn",
-      "Salalaug and Kópavogslaug"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "American Style",
@@ -42952,18 +37854,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Smárabíó",
-          "Visit Skemmtigarðurinn",
-          "Visit Salalaug and Kópavogslaug",
-          "Eat at American Style"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -43006,8 +37897,6 @@ const raw: Gen[] = [
       "Bell Tower (City Tower)",
       "Armoury and Foresteria Palace",
       "Loggia Palace",
-      "Taverna Koper / St Mark’s storage",
-      "Carpaccio House",
       "Da Ponte Fountain"
     ],
     "restaurants": [
@@ -43095,17 +37984,8 @@ const raw: Gen[] = [
         "activities": [
           "Visit Armoury and Foresteria Palace",
           "Visit Loggia Palace",
-          "Visit Taverna Koper / St Mark’s storage",
-          "Eat at Anacur Döner Kebab"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Carpaccio House",
           "Visit Da Ponte Fountain",
-          "Eat at Azure Koper"
+          "Eat at Anacur Döner Kebab"
         ]
       }
     ],
@@ -43197,11 +38077,11 @@ const raw: Gen[] = [
       "East Slovak Museum",
       "Slovak Technical Museum",
       "Archeological museum Lower gate",
-      "Mikluš's Prison",
-      "Executioner's bastion and Rodosto",
       "Museum of Aviation",
       "Vojtech Loffler Museum",
-      "East Slovak Gallery"
+      "East Slovak Gallery",
+      "Walking the historic centre",
+      "Zoo"
     ],
     "restaurants": [
       {
@@ -43303,9 +38183,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Mikluš's Prison",
-          "Visit Executioner's bastion and Rodosto",
           "Visit Museum of Aviation",
+          "Visit Vojtech Loffler Museum",
+          "Visit East Slovak Gallery",
           "Eat at Pizzeria Zvon"
         ]
       },
@@ -43313,20 +38193,10 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Vojtech Loffler Museum",
-          "Visit East Slovak Gallery",
           "Visit Walking the historic centre",
-          "Eat at Bamboo"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Children's Heritage Railway",
           "Visit Zoo",
-          "Visit The State Theatre",
-          "Eat at Burekas"
+          "Visit Kasárne Kulturpark",
+          "Eat at Bamboo"
         ]
       }
     ],
@@ -43504,11 +38374,9 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Chateau Vial",
       "Holy Spirit Cathedral",
       "Wome Waterfall",
-      "Kpime Waterfall",
-      "Municipal Stadium"
+      "Kpime Waterfall"
     ],
     "restaurants": [
       {
@@ -43546,19 +38414,10 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Chateau Vial",
           "Visit Holy Spirit Cathedral",
           "Visit Wome Waterfall",
-          "Eat at Le Bon Vivant"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
           "Visit Kpime Waterfall",
-          "Visit Municipal Stadium",
-          "Eat at Macumba"
+          "Eat at Le Bon Vivant"
         ]
       }
     ],
@@ -43600,13 +38459,13 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Šumarice Memorial Park",
-      "The circle of Prince Miloš",
-      "Prince’s arsenal",
       "Museum \"Stara livnica\"",
-      "Amidža’s Lodgings",
-      "The building of Grammar School (Gymnasium)",
       "Old Church",
-      "National museum Kragujevac"
+      "National museum Kragujevac",
+      "Big or Upper Park",
+      "Eco - park “Ilina voda”",
+      "Botanical garden",
+      "Lake Bubanj Park"
     ],
     "restaurants": [
       {
@@ -43678,8 +38537,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Šumarice Memorial Park",
-          "Visit The circle of Prince Miloš",
-          "Visit Prince’s arsenal",
+          "Visit Museum \"Stara livnica\"",
+          "Visit Old Church",
           "Eat at Labud"
         ]
       },
@@ -43687,9 +38546,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Museum \"Stara livnica\"",
-          "Visit Amidža’s Lodgings",
-          "Visit The building of Grammar School (Gymnasium)",
+          "Visit National museum Kragujevac",
+          "Visit Big or Upper Park",
+          "Visit Eco - park “Ilina voda”",
           "Eat at Lepenica"
         ]
       },
@@ -43697,20 +38556,10 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Old Church",
-          "Visit National museum Kragujevac",
-          "Visit Big or Upper Park",
-          "Eat at Plavi Bik"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Eco - park “Ilina voda”",
           "Visit Botanical garden",
           "Visit Lake Bubanj Park",
-          "Eat at McDonald's"
+          "Visit Aquarium \"Kragujevac\"",
+          "Eat at Plavi Bik"
         ]
       }
     ],
@@ -43750,16 +38599,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Jewish Culture Festival",
-      "Bajit Chadasz",
-      "Krakow Film Festival",
-      "Off Camera",
-      "Etiuda and Anima",
-      "Photomonth",
-      "Live Music Festival",
-      "Unsound"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -43767,34 +38607,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Jewish Culture Festival",
-          "Visit Bajit Chadasz",
-          "Visit Krakow Film Festival"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Off Camera",
-          "Visit Etiuda and Anima",
-          "Visit Photomonth"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Live Music Festival",
-          "Visit Unsound"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -43834,8 +38647,7 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Kieselstein Castle",
       "Prešeren poet house and museum",
-      "St. Cantianius and Companions Parish Church",
-      "Kokra Canyon"
+      "St. Cantianius and Companions Parish Church"
     ],
     "restaurants": [
       {
@@ -43870,13 +38682,6 @@ const raw: Gen[] = [
           "Visit Prešeren poet house and museum",
           "Visit St. Cantianius and Companions Parish Church",
           "Eat at Gostilna Krištof"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Kokra Canyon"
         ]
       }
     ],
@@ -43917,14 +38722,11 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Fiskebrygga",
       "Kristiansand Dyrepark",
-      "Posebyen",
-      "Christiansholm Fortress",
       "Odderøya Museumshavn",
       "Vest-Agder Museum Kristiansand",
-      "Arkivet",
-      "Kristiansand Cannon Museum"
+      "Kristiansand Cannon Museum",
+      "Badelandet Aqua Park"
     ],
     "restaurants": [
       {
@@ -44008,9 +38810,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Fiskebrygga",
           "Visit Kristiansand Dyrepark",
-          "Visit Posebyen",
+          "Visit Odderøya Museumshavn",
+          "Visit Vest-Agder Museum Kristiansand",
           "Eat at Hennig-Olsen ice cream"
         ]
       },
@@ -44018,30 +38820,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Christiansholm Fortress",
-          "Visit Odderøya Museumshavn",
-          "Visit Vest-Agder Museum Kristiansand",
-          "Eat at McDonald's"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Arkivet",
           "Visit Kristiansand Cannon Museum",
-          "Visit Baneheia",
-          "Eat at Lotus Grillbar"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Odderøya",
-          "Visit Aquarama",
           "Visit Badelandet Aqua Park",
-          "Eat at Håndverkeren"
+          "Eat at McDonald's"
         ]
       }
     ],
@@ -44123,10 +38904,7 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Belait District Museum",
       "Silver Jubilee Park",
-      "Menara Cendera Kenangan",
-      "Teapot",
-      "Kampong Pandan Mosque",
-      "Jalan Pretty"
+      "Kampong Pandan Mosque"
     ],
     "restaurants": [],
     "hotels": [
@@ -44164,16 +38942,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Belait District Museum",
           "Visit Silver Jubilee Park",
-          "Visit Menara Cendera Kenangan"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Teapot",
-          "Visit Kampong Pandan Mosque",
-          "Visit Jalan Pretty"
+          "Visit Kampong Pandan Mosque"
         ]
       }
     ],
@@ -44213,11 +38982,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Nur Salam",
-      "SPCA Selangor",
-      "Zoo Negara"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -44225,17 +38990,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Nur Salam",
-          "Visit SPCA Selangor",
-          "Visit Zoo Negara"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.9,
@@ -44429,17 +39184,8 @@ const raw: Gen[] = [
         "activities": [
           "Visit Kodža Mehmet Beg Mosque",
           "Visit Beljakovce Monastery",
-          "Visit City Stadion",
-          "Eat at Restaurant AROMA"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
           "Visit Kosturnica Memorial Park",
-          "Visit Kumanovo Baths",
-          "Eat at Restauranti Elegant"
+          "Eat at Restaurant AROMA"
         ]
       }
     ],
@@ -44482,12 +39228,10 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Kumasi Zoological Garden",
       "Kejetia Market",
-      "Okomfo Anokye Sword Site",
       "St. Peter's Cathedral",
-      "Wesley Methodist Cathedral/Man Standing On A Lion Statue",
       "Manhyia Palace Museum",
       "Prempeh II Jubilee Museum",
-      "Ghana Armed Forces Museum/Kumasi Fort"
+      "Lake Bosumtwi"
     ],
     "restaurants": [
       {
@@ -44539,10 +39283,8 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [
       "St. Peter's Cathedral",
-      "Wesley Methodist Cathedral/Man Standing On A Lion Statue",
       "Manhyia Palace Museum",
-      "Prempeh II Jubilee Museum",
-      "Ghana Armed Forces Museum/Kumasi Fort"
+      "Prempeh II Jubilee Museum"
     ],
     "localFoods": [],
     "itinerary": [
@@ -44552,7 +39294,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Kumasi Zoological Garden",
           "Visit Kejetia Market",
-          "Visit Okomfo Anokye Sword Site",
+          "Visit St. Peter's Cathedral",
           "Eat at Friends Gardens"
         ]
       },
@@ -44560,27 +39302,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit St. Peter's Cathedral",
-          "Visit Wesley Methodist Cathedral/Man Standing On A Lion Statue",
           "Visit Manhyia Palace Museum",
-          "Eat at Moti Mahal"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Prempeh II Jubilee Museum",
-          "Visit Ghana Armed Forces Museum/Kumasi Fort",
           "Visit Lake Bosumtwi",
-          "Eat at Ike's Cafe and Grill"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Owabi Wildlife Sanctuary"
+          "Eat at Moti Mahal"
         ]
       }
     ],
@@ -44664,13 +39389,13 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Bagrati Cathedral (former UNESCO World Heritage site)",
-      "Uqimerioni Fortress",
       "Synagogue",
       "St. Thekla church",
       "St Elijah the prophet church.",
       "St. Cyprian and Justina church",
-      "Parliament of Georgia",
-      "White Bridge"
+      "White Bridge",
+      "Botanical Garden \"Kolchuri\"",
+      "Park of Culture and Rest"
     ],
     "restaurants": [
       {
@@ -44750,8 +39475,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Bagrati Cathedral (former UNESCO World Heritage site)",
-          "Visit Uqimerioni Fortress",
           "Visit Synagogue",
+          "Visit St. Thekla church",
           "Eat at Tea House Foe-Foe"
         ]
       },
@@ -44759,9 +39484,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit St. Thekla church",
           "Visit St Elijah the prophet church.",
           "Visit St. Cyprian and Justina church",
+          "Visit White Bridge",
           "Eat at Bikentia's Kebabery"
         ]
       },
@@ -44769,9 +39494,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Parliament of Georgia",
-          "Visit White Bridge",
-          "Visit FC Torpedo Kutaisi",
+          "Visit Botanical Garden \"Kolchuri\"",
+          "Visit Park of Culture and Rest",
+          "Visit Central Garden",
           "Eat at ქართული • Kartuli"
         ]
       },
@@ -44779,9 +39504,7 @@ const raw: Gen[] = [
         "day": 4,
         "title": "Day trips & more",
         "activities": [
-          "Visit Tskaltubo Spa Resort",
-          "Visit Lado Meskhisvili Theater",
-          "Visit Puppet Theater",
+          "Visit Kharazov Park",
           "Eat at best shwarma"
         ]
       }
@@ -44826,7 +39549,6 @@ const raw: Gen[] = [
       "Kuwait Towers",
       "National Museum",
       "Seif Palace",
-      "National Assembly",
       "Grand Mosque",
       "War Museum",
       "Al Shaheed Park",
@@ -44889,16 +39611,15 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit National Assembly",
           "Visit Grand Mosque",
-          "Visit War Museum"
+          "Visit War Museum",
+          "Visit Al Shaheed Park"
         ]
       },
       {
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Al Shaheed Park",
           "Visit Fish Market"
         ]
       }
@@ -44979,14 +39700,10 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Maidan Nezalezhnosti",
-      "On the weekend, go and people watch on Khreshchatyk",
-      "Andriyivsky Uzviz or Andrew's Descent",
-      "Podil",
-      "Arsenalna",
-      "Kyiv Pechersk Lavra",
       "Great Lavra Bell Tower",
-      "Pechersk Lavra fortification"
+      "Attend Ukrainian Orthodox church",
+      "Go kayaking in-between the islands of Dnipro river or countless river bays",
+      "Palace of Sports"
     ],
     "restaurants": [
       {
@@ -45053,16 +39770,19 @@ const raw: Gen[] = [
       "Trolleybus",
       "Viola's Bierstube"
     ],
-    "museums": [],
+    "museums": [
+      "Attend Ukrainian Orthodox church",
+      "Palace of Sports"
+    ],
     "localFoods": [],
     "itinerary": [
       {
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Maidan Nezalezhnosti",
-          "Visit On the weekend, go and people watch on Khreshchatyk",
-          "Visit Andriyivsky Uzviz or Andrew's Descent",
+          "Visit Great Lavra Bell Tower",
+          "Visit Attend Ukrainian Orthodox church",
+          "Visit Go kayaking in-between the islands of Dnipro river or countless river bays",
           "Eat at Celentano"
         ]
       },
@@ -45070,30 +39790,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Podil",
-          "Visit Arsenalna",
-          "Visit Kyiv Pechersk Lavra",
+          "Visit Palace of Sports",
           "Eat at Korchma Budmo"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Great Lavra Bell Tower",
-          "Visit Pechersk Lavra fortification",
-          "Visit Attend Ukrainian Orthodox church",
-          "Eat at Mister Snack"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Go kayaking in-between the islands of Dnipro river or countless river bays",
-          "Visit Pysankarstvo workshop",
-          "Visit Petrykivka drawing workshop",
-          "Eat at Potato House"
         ]
       }
     ],
@@ -45282,14 +39980,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Sagarnaga Street",
       "The Witches' Market",
-      "Eloy Salmon",
-      "Calle Jaen",
-      "Plaza Murillo",
-      "Palacio Quemado",
-      "Main cemetery",
-      "Valle de La Luna"
+      "Plaza Murillo"
     ],
     "restaurants": [
       {
@@ -45354,48 +40046,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Sagarnaga Street",
-          "Visit The Witches' Market",
-          "Visit Eloy Salmon",
-          "Eat at Chifa Puerta del Sol"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Calle Jaen",
-          "Visit Plaza Murillo",
-          "Visit Palacio Quemado",
-          "Eat at El Consulado"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Main cemetery",
-          "Visit Valle de La Luna",
-          "Visit Crazy Dave",
-          "Eat at Angelo Colonial"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Bolivian wrestling cholitas",
-          "Visit Monje Campero",
-          "Visit Instituto Exclusivo",
-          "Eat at Tambo Colonial"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.6,
@@ -45534,9 +40185,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Lae Botanic Gardens"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Lae Garden Restaurant",
@@ -45670,9 +40319,9 @@ const raw: Gen[] = [
       "Shah Burj gate",
       "Badshahi Mosque",
       "Tomb of Ranjit Singh",
-      "Minar-e-Pakistan",
       "Wazir Khan Mosque",
-      "Shahi Hammam"
+      "Lawrence Gardens & Library",
+      "Jallo Park"
     ],
     "restaurants": [
       {
@@ -45758,7 +40407,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Badshahi Mosque",
           "Visit Tomb of Ranjit Singh",
-          "Visit Minar-e-Pakistan",
+          "Visit Wazir Khan Mosque",
           "Eat at Mini Golf"
         ]
       },
@@ -45766,9 +40415,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Wazir Khan Mosque",
-          "Visit Shahi Hammam",
-          "Visit Gaddafi Stadium",
+          "Visit Lawrence Gardens & Library",
+          "Visit Jallo Park",
+          "Visit Race Course Park",
           "Eat at Chatkhara"
         ]
       },
@@ -45776,9 +40425,7 @@ const raw: Gen[] = [
         "day": 4,
         "title": "Day trips & more",
         "activities": [
-          "Visit Lawrence Gardens & Library",
-          "Visit Jallo Park",
-          "Visit Race Course Park",
+          "Visit Gulshan-e-Iqbal Park",
           "Eat at Balouchi Sajji"
         ]
       }
@@ -45894,14 +40541,11 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Ancient Greek Theater",
-      "Second Ancient Theater",
       "Diachronic Museum of Larissa",
       "Municipal Art Gallery - G I Katsigras Museum",
       "Folklore Museum of Larissa",
-      "St. Achilios",
-      "Ottoman Bedesten",
-      "Ruined Basilica of St. Achillios"
+      "Ruined Basilica of St. Achillios",
+      "Alkazar Park"
     ],
     "restaurants": [
       {
@@ -45964,9 +40608,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Ancient Greek Theater",
-          "Visit Second Ancient Theater",
           "Visit Diachronic Museum of Larissa",
+          "Visit Municipal Art Gallery - G I Katsigras Museum",
+          "Visit Folklore Museum of Larissa",
           "Eat at Kimatothrafstis"
         ]
       },
@@ -45974,29 +40618,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Municipal Art Gallery - G I Katsigras Museum",
-          "Visit Folklore Museum of Larissa",
-          "Visit St. Achilios",
-          "Eat at Nikodimos"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Ottoman Bedesten",
           "Visit Ruined Basilica of St. Achillios",
-          "Visit Village Cinemas",
-          "Eat at Syndrivani"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Victoria Cinemas",
           "Visit Alkazar Park",
-          "Visit AEL 1964 FC"
+          "Eat at Nikodimos"
         ]
       }
     ],
@@ -46039,12 +40663,8 @@ const raw: Gen[] = [
     "thingsToDo": [
       "The Church of St. Lazarus",
       "Larnaca Salt Lake",
-      "Hala Sultan Tekke",
       "Faneromeni Church",
-      "Archaeological Museum of the Larnaka District",
-      "@lpha Divers",
-      "Dive-In Cyprus",
-      "Aquadream Scuba Diving Academy"
+      "Archaeological Museum of the Larnaka District"
     ],
     "restaurants": [
       {
@@ -46122,7 +40742,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit The Church of St. Lazarus",
           "Visit Larnaca Salt Lake",
-          "Visit Hala Sultan Tekke",
+          "Visit Faneromeni Church",
           "Eat at Edesma Cyprus Taverna - Souvlaki Place"
         ]
       },
@@ -46130,20 +40750,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Faneromeni Church",
           "Visit Archaeological Museum of the Larnaka District",
-          "Visit @lpha Divers",
           "Eat at Falafel Abu Dany"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Dive-In Cyprus",
-          "Visit Aquadream Scuba Diving Academy",
-          "Visit Windsurf City",
-          "Eat at Souvlaki.gr"
         ]
       }
     ],
@@ -46177,10 +40785,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Las Piedras Pueblo",
-      "Cueva del Indio"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -46275,8 +40880,7 @@ const raw: Gen[] = [
       "National Evangelical Presbyterian Church of Latakia",
       "Qala'at Saladin, or Saladin Castle",
       "Free public beach near Al Siwar",
-      "Free public beach near South Corniche Park",
-      "Resort hotels in the north (Le Meridien, Cote d'Azur Cham)"
+      "Free public beach near South Corniche Park"
     ],
     "restaurants": [
       {
@@ -46348,18 +40952,7 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Free public beach near South Corniche Park",
-          "Visit Resort hotels in the north (Le Meridien, Cote d'Azur Cham)",
-          "Visit Afamia"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Loop run around Latakia Sports Complex",
-          "Visit Loop run along Latakia water front",
-          "Visit Park loop run near the University"
+          "Visit Free public beach near South Corniche Park"
         ]
       }
     ],
@@ -46439,14 +41032,9 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Collection de l'Art Brut",
-      "Palais de Rumine",
-      "Musée d'archéologie et d'histoire",
-      "Musée des Beaux-Arts",
-      "Musée Historique de Lausanne",
-      "Mudac",
-      "Musée de l'Elysée",
-      "Espace Arlaud"
+      "Explore The Old Town",
+      "Enjoy the lakefront of Ouchy",
+      "Climb up the Cathedral Tower"
     ],
     "restaurants": [
       {
@@ -46516,47 +41104,19 @@ const raw: Gen[] = [
       "Café Couronne d'Or",
       "Café du Château"
     ],
-    "museums": [],
+    "museums": [
+      "Climb up the Cathedral Tower"
+    ],
     "localFoods": [],
     "itinerary": [
       {
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Collection de l'Art Brut",
-          "Visit Palais de Rumine",
-          "Visit Musée d'archéologie et d'histoire",
-          "Eat at P'tit Bar"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Musée des Beaux-Arts",
-          "Visit Musée Historique de Lausanne",
-          "Visit Mudac",
-          "Eat at Tibits"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Musée de l'Elysée",
-          "Visit Espace Arlaud",
           "Visit Explore The Old Town",
-          "Eat at Crêperie de la Chandeleur"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Explore the Sauvabelin Forest",
           "Visit Enjoy the lakefront of Ouchy",
           "Visit Climb up the Cathedral Tower",
-          "Eat at Holy Cow!"
+          "Eat at P'tit Bar"
         ]
       }
     ],
@@ -46595,11 +41155,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Viseisei",
-      "Botanical Gardens",
-      "Mt Batilamu and Abaca Trekking"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Blue Ginger Café & Deli",
@@ -46666,18 +41222,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Viseisei",
-          "Visit Botanical Gardens",
-          "Visit Mt Batilamu and Abaca Trekking",
-          "Eat at Blue Ginger Café & Deli"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.7,
@@ -46715,10 +41260,6 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "The White Rose Way",
-      "Leeds Lights",
-      "Leeds Festival",
-      "Leeds International Pianoforte Competition",
       "Party in the Park",
       "Opera in the Park"
     ],
@@ -46736,26 +41277,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit The White Rose Way",
-          "Visit Leeds Lights",
-          "Visit Leeds Festival"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Leeds International Pianoforte Competition",
-          "Visit Party in the Park",
-          "Visit Opera in the Park"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -46794,10 +41316,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Castle (Castelo de Leiria)",
-      "Museu de Leiria",
-      "Museu da Imagem em Movimento - m{{!",
-      "Paper museum",
-      "Sanctuary of Our Lady of the Incarnation"
+      "Paper museum"
     ],
     "restaurants": [
       {
@@ -46831,27 +41350,7 @@ const raw: Gen[] = [
       "Paper museum"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Castle (Castelo de Leiria)",
-          "Visit Museu de Leiria",
-          "Visit Museu da Imagem em Movimento - m{{!",
-          "Eat at Casinha Velha"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Paper museum",
-          "Visit Sanctuary of Our Lady of the Incarnation",
-          "Eat at Coconuts Restaurante"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -46970,14 +41469,13 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "City Hall",
       "Dr. Edvard Beneš Square",
-      "Tourist information center",
-      "Theatre of F.X. Šalda",
       "Church of St. Anthony the Great",
       "Liberec Castle",
       "North Bohemian museum",
-      "Regional Gallery"
+      "Regional Gallery",
+      "Ještěd Mountain",
+      "Vratislavice chateau park"
     ],
     "restaurants": [
       {
@@ -47024,9 +41522,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit City Hall",
           "Visit Dr. Edvard Beneš Square",
-          "Visit Tourist information center",
+          "Visit Church of St. Anthony the Great",
+          "Visit Liberec Castle",
           "Eat at Duli"
         ]
       },
@@ -47034,9 +41532,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Theatre of F.X. Šalda",
-          "Visit Church of St. Anthony the Great",
-          "Visit Liberec Castle",
+          "Visit North Bohemian museum",
+          "Visit Regional Gallery",
+          "Visit Ještěd Mountain",
           "Eat at Kavárna Pošta"
         ]
       },
@@ -47044,20 +41542,8 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit North Bohemian museum",
-          "Visit Regional Gallery",
-          "Visit Ještěd Mountain",
-          "Eat at Café Praha"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Centrum Babylon",
           "Visit Vratislavice chateau park",
-          "Visit iQLANDIA",
-          "Eat at Om Restaurant"
+          "Eat at Café Praha"
         ]
       }
     ],
@@ -47143,13 +41629,9 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Cathédrale Sainte Marie",
-      "Notre Dame de Lourdes",
       "Church of St. Michael Nkembo",
       "National Museum of Arts and Traditions",
-      "Musée National du Gabon",
       "Presidential Palace",
-      "Cour Constitutionnelle du Gabon",
       "Memorial Leon Mba"
     ],
     "restaurants": [
@@ -47218,9 +41700,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Cathédrale Sainte Marie",
-          "Visit Notre Dame de Lourdes",
           "Visit Church of St. Michael Nkembo",
+          "Visit National Museum of Arts and Traditions",
+          "Visit Presidential Palace",
           "Eat at Life By Mayena"
         ]
       },
@@ -47228,20 +41710,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit National Museum of Arts and Traditions",
-          "Visit Musée National du Gabon",
-          "Visit Presidential Palace",
-          "Eat at Le Shalimar"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Cour Constitutionnelle du Gabon",
           "Visit Memorial Leon Mba",
-          "Visit Casino Croisette",
-          "Eat at Roma Restaurant & Hotel"
+          "Eat at Le Shalimar"
         ]
       }
     ],
@@ -47283,13 +41753,9 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Palace of the Prince-Bishops",
-      "archéoforum",
-      "Hôtel de ville de Liège",
-      "Hôtel d’Ansembourg",
-      "La Boverie",
       "Curtius Palace",
-      "Hôtel de Hayme de Bomal",
-      "Saint Barthélémy Church"
+      "Saint Barthélémy Church",
+      "Royal Opera"
     ],
     "restaurants": [
       {
@@ -47372,8 +41838,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Palace of the Prince-Bishops",
-          "Visit archéoforum",
-          "Visit Hôtel de ville de Liège",
+          "Visit Curtius Palace",
+          "Visit Saint Barthélémy Church",
           "Eat at Le Cloître"
         ]
       },
@@ -47381,30 +41847,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Hôtel d’Ansembourg",
-          "Visit La Boverie",
-          "Visit Curtius Palace",
-          "Eat at Brasserie Sauvenière (Les Grignoux)"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Hôtel de Hayme de Bomal",
-          "Visit Saint Barthélémy Church",
-          "Visit Philharmonic Orchestra",
-          "Eat at Messieurs"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
           "Visit Royal Opera",
-          "Visit Theater de la Place",
-          "Visit Theater Al Botroule",
-          "Eat at Amour, Maracas et Salami"
+          "Eat at Brasserie Sauvenière (Les Grignoux)"
         ]
       }
     ],
@@ -47445,14 +41889,14 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Amber clock",
-      "Craftman's house",
       "Liepāja Museum",
-      "Liepāja During Occupational Regimes",
       "The Oskars Kalpaks Bridge",
       "Museum of Fishing and Navigation",
       "Holy Trinity Cathedral",
-      "Saint Anne's Church"
+      "Saint Anne's Church",
+      "Seaside Park",
+      "Beaches and swimming",
+      "Baltic Beach Party"
     ],
     "restaurants": [
       {
@@ -47533,9 +41977,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Amber clock",
-          "Visit Craftman's house",
           "Visit Liepāja Museum",
+          "Visit The Oskars Kalpaks Bridge",
+          "Visit Museum of Fishing and Navigation",
           "Eat at Serenāde"
         ]
       },
@@ -47543,9 +41987,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Liepāja During Occupational Regimes",
-          "Visit The Oskars Kalpaks Bridge",
-          "Visit Museum of Fishing and Navigation",
+          "Visit Holy Trinity Cathedral",
+          "Visit Saint Anne's Church",
+          "Visit Seaside Park",
           "Eat at Doka Pica"
         ]
       },
@@ -47553,20 +41997,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Holy Trinity Cathedral",
-          "Visit Saint Anne's Church",
-          "Visit Liepāja Theatre",
-          "Eat at Karosta Prison Canteen"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Liepāja Concert Hall",
-          "Visit Seaside Park",
           "Visit Beaches and swimming",
-          "Eat at Upe"
+          "Visit Baltic Beach Party",
+          "Eat at Karosta Prison Canteen"
         ]
       }
     ],
@@ -47650,12 +42083,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Lilongwe Wildlife Centre",
-      "Kumbali Cultural Centre",
-      "Parliament buildings",
       "Kamuzu Mausoleum",
-      "World War I Memorial tower and statue of Hastings Kamuzu Banda",
-      "Golf Lessons"
+      "World War I Memorial tower and statue of Hastings Kamuzu Banda"
     ],
     "restaurants": [
       {
@@ -47710,28 +42139,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Lilongwe Wildlife Centre",
-          "Visit Kumbali Cultural Centre",
-          "Visit Parliament buildings",
-          "Eat at Sana"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Kamuzu Mausoleum",
-          "Visit World War I Memorial tower and statue of Hastings Kamuzu Banda",
-          "Visit Golf Lessons",
-          "Eat at Chicken Inn"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.6,
@@ -47768,13 +42176,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Bike Tours of Lima",
-      "The Lima Gourmet Company",
-      "Exquisito Perú",
-      "Folkloric dance shows",
-      "Mirabus bus and road train tours"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -47782,25 +42184,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Bike Tours of Lima",
-          "Visit The Lima Gourmet Company",
-          "Visit Exquisito Perú"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Folkloric dance shows",
-          "Visit Mirabus bus and road train tours"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -47839,8 +42223,6 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Limassol Castle",
-      "Amathus",
-      "Kourion",
       "Kolossi Castle",
       "St. Catherine's Church",
       "Governor's Beach",
@@ -47911,8 +42293,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Limassol Castle",
-          "Visit Amathus",
-          "Visit Kourion",
+          "Visit Kolossi Castle",
+          "Visit St. Catherine's Church",
           "Eat at Hfwlia Tou Koukou"
         ]
       },
@@ -47920,18 +42302,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Kolossi Castle",
-          "Visit St. Catherine's Church",
           "Visit Governor's Beach",
-          "Eat at Sykaminia Cook Shop"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Lady's Mile Beach",
-          "Eat at Megaro Restaurant"
+          "Eat at Sykaminia Cook Shop"
         ]
       }
     ],
@@ -47978,8 +42351,7 @@ const raw: Gen[] = [
       "St John's Cathedral",
       "Limerick City Gallery of Art",
       "People's Museum of Limerick",
-      "Glenstal Abbey",
-      "Belltable"
+      "Glenstal Abbey"
     ],
     "restaurants": [
       {
@@ -48085,18 +42457,7 @@ const raw: Gen[] = [
         "title": "Markets, parks & hidden corners",
         "activities": [
           "Visit Glenstal Abbey",
-          "Visit Belltable",
-          "Visit Munster Rugby",
           "Eat at Melody"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Treaty United FC",
-          "Visit Limerick Races",
-          "Eat at Volcano Wings"
         ]
       }
     ],
@@ -48262,12 +42623,10 @@ const raw: Gen[] = [
     "thingsToDo": [
       "New Cathedral",
       "Old Cathedral",
-      "Pöstlingbergkirche",
       "St Martin's Church",
       "Parish church Christ the King",
-      "Trinity Column",
       "Linz Castle",
-      "Bishop's Residence"
+      "Aquapulco Pirate's World Water Park"
     ],
     "restaurants": [
       {
@@ -48345,7 +42704,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit New Cathedral",
           "Visit Old Cathedral",
-          "Visit Pöstlingbergkirche",
+          "Visit St Martin's Church",
           "Eat at Leberkäse Pepi"
         ]
       },
@@ -48353,30 +42712,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit St Martin's Church",
           "Visit Parish church Christ the King",
-          "Visit Trinity Column",
-          "Eat at Big Joe Falafel"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Linz Castle",
-          "Visit Bishop's Residence",
-          "Visit Pöstlingberg tram",
-          "Eat at Gösserkeller"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit The Grotto Railway",
-          "Visit City Express",
-          "Visit Danube",
-          "Eat at Don"
+          "Visit Aquapulco Pirate's World Water Park",
+          "Eat at Big Joe Falafel"
         ]
       }
     ],
@@ -48416,16 +42755,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Moda Lisboa",
-      "English Comedy Showcase",
-      "Peixe em Lisboa",
-      "Dias da Música em Belém",
-      "IndieLisboa",
-      "Rock in Rio Lisboa",
-      "Festas dos Santos",
-      "Jazz em Agosto"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -48433,34 +42763,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Moda Lisboa",
-          "Visit English Comedy Showcase",
-          "Visit Peixe em Lisboa"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Dias da Música em Belém",
-          "Visit IndieLisboa",
-          "Visit Rock in Rio Lisboa"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Festas dos Santos",
-          "Visit Jazz em Agosto"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -48503,9 +42806,7 @@ const raw: Gen[] = [
       "Dragon Bridge",
       "Ljubljana Castle",
       "Republic Square",
-      "Roman Ruins",
-      "Krakovo",
-      "Metelkova"
+      "Roman Ruins"
     ],
     "restaurants": [
       {
@@ -48606,26 +42907,6 @@ const raw: Gen[] = [
           "Visit Roman Ruins",
           "Eat at Hot Horse"
         ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Krakovo",
-          "Visit Metelkova",
-          "Visit Hot Air Balloon Flights",
-          "Eat at Nobel Burek"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Olimpija Ljubljana",
-          "Visit Water City of Atlantis",
-          "Visit Laguna Fun & Spa",
-          "Eat at Klobasarna"
-        ]
       }
     ],
     "hiddenGems": [],
@@ -48665,12 +42946,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Mantenga Nature Reserve",
-      "Mlilwane Wildlife Sanctuary",
       "King Sobhuza II Memorial Park",
-      "Swaziland National Museum",
-      "Somhlolo National Stadium",
-      "Mantenga Cultural Village"
+      "Swaziland National Museum"
     ],
     "restaurants": [
       {
@@ -48712,27 +42989,7 @@ const raw: Gen[] = [
       "Swaziland National Museum"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Mantenga Nature Reserve",
-          "Visit Mlilwane Wildlife Sanctuary",
-          "Visit King Sobhuza II Memorial Park",
-          "Eat at Malandela's Restaurant"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Swaziland National Museum",
-          "Visit Somhlolo National Stadium",
-          "Visit Mantenga Cultural Village"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.4,
@@ -48770,14 +43027,9 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Piotrkowska street",
-      "Łódź Walk of Fame",
       "Old Market Square",
       "The Decalogue Memorial",
-      "Litzmannstadt Ghetto",
-      "Radegast Station",
-      "Poznański Palace",
-      "Ludwik Geyer's Mansion"
+      "Poznański Palace"
     ],
     "restaurants": [
       {
@@ -48860,40 +43112,10 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Piotrkowska street",
-          "Visit Łódź Walk of Fame",
           "Visit Old Market Square",
-          "Eat at Da Grasso"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
           "Visit The Decalogue Memorial",
-          "Visit Litzmannstadt Ghetto",
-          "Visit Radegast Station",
-          "Eat at In Centro"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Poznański Palace",
-          "Visit Ludwik Geyer's Mansion",
-          "Visit Łódź of Four Cultures Festival",
-          "Eat at Green Way"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Light Move Festival",
-          "Visit Explorers Festival",
-          "Visit International Festival of Photography",
-          "Eat at Manekin"
+          "Eat at Da Grasso"
         ]
       }
     ],
@@ -48936,12 +43158,9 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Independence Monument",
       "Sacred Heart Cathedral",
-      "Le Palais de Lomé",
       "Togo National Museum",
-      "Musée International du Golfe de Guinée",
       "Marcelo Beach",
-      "Royal Beach Lome",
-      "Lac Est"
+      "Royal Beach Lome"
     ],
     "restaurants": [
       {
@@ -49012,7 +43231,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Independence Monument",
           "Visit Sacred Heart Cathedral",
-          "Visit Le Palais de Lomé",
+          "Visit Togo National Museum",
           "Eat at Le Galion"
         ]
       },
@@ -49020,19 +43239,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Togo National Museum",
-          "Visit Musée International du Golfe de Guinée",
           "Visit Marcelo Beach",
-          "Eat at Le Caliendi - Café Bar Restaurant"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Royal Beach Lome",
-          "Visit Lac Est",
-          "Eat at Alt München"
+          "Eat at Le Caliendi - Café Bar Restaurant"
         ]
       }
     ],
@@ -49207,14 +43416,10 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Fortress of São Miguel",
-      "São Pedro da Barra Fortress",
       "Museum of Money",
       "National Museum of Slavery",
       "National Museum of Natural History",
-      "National Museum of Anthropology",
-      "Igreja do Carmo",
-      "Igreja da Nazare"
+      "National Museum of Anthropology"
     ],
     "restaurants": [
       {
@@ -49284,9 +43489,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Fortress of São Miguel",
-          "Visit São Pedro da Barra Fortress",
           "Visit Museum of Money",
+          "Visit National Museum of Slavery",
+          "Visit National Museum of Natural History",
           "Eat at Panela de Barro"
         ]
       },
@@ -49294,19 +43499,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit National Museum of Slavery",
-          "Visit National Museum of Natural History",
           "Visit National Museum of Anthropology",
           "Eat at Chez Wou"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Igreja do Carmo",
-          "Visit Igreja da Nazare",
-          "Eat at Macau Restaurante"
         ]
       }
     ],
@@ -49349,10 +43543,7 @@ const raw: Gen[] = [
     "thingsToDo": [
       "National Museum of Lubumbashi",
       "Cathedral of Saint Pierre and Paul",
-      "Lubumbashi Zoological Garden",
-      "Waza Art Center & Spilulu’Studio",
-      "Cercle Wallon",
-      "Lubumbashi Golf Club"
+      "Lubumbashi Zoological Garden"
     ],
     "restaurants": [],
     "hotels": [
@@ -49397,15 +43588,6 @@ const raw: Gen[] = [
           "Visit National Museum of Lubumbashi",
           "Visit Cathedral of Saint Pierre and Paul",
           "Visit Lubumbashi Zoological Garden"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Waza Art Center & Spilulu’Studio",
-          "Visit Cercle Wallon",
-          "Visit Lubumbashi Golf Club"
         ]
       }
     ],
@@ -49605,16 +43787,6 @@ const raw: Gen[] = [
           "Visit Beaches",
           "Eat at Noodle House"
         ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Dhow tour",
-          "Visit Doha Film Institute",
-          "Visit Doha Golf Club",
-          "Eat at Oishi Sushi"
-        ]
       }
     ],
     "hiddenGems": [],
@@ -49657,10 +43829,8 @@ const raw: Gen[] = [
       "Anglican Cathedral of the Holy Cross",
       "Henry Tayali Gallery",
       "Munda Wanga Environmental Park",
-      "Lilayi Lodge",
       "Lusaka National Museum",
       "Freedom Statue",
-      "Kabwata Cultural Village",
       "Kalimba Reptile Park"
     ],
     "restaurants": [
@@ -49742,19 +43912,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Lilayi Lodge",
           "Visit Lusaka National Museum",
           "Visit Freedom Statue",
-          "Eat at Marlin Restaurant"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Kabwata Cultural Village",
           "Visit Kalimba Reptile Park",
-          "Eat at Melsim Lodge Ethiopian Restaurant"
+          "Eat at Marlin Restaurant"
         ]
       }
     ],
@@ -49891,8 +44052,8 @@ const raw: Gen[] = [
       "Dominican Roman-Catholic Church",
       "Assumption Church",
       "Cathedral (Latin)",
-      "Bernardynskyi monastyr",
-      "Remains of the former Golden Rose Synagogue"
+      "Remains of the former Golden Rose Synagogue",
+      "S. Krushelnytska Opera House"
     ],
     "restaurants": [
       {
@@ -49990,20 +44151,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Bernardynskyi monastyr",
           "Visit Remains of the former Golden Rose Synagogue",
           "Visit S. Krushelnytska Opera House",
           "Eat at McDonald's Restaurant"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Lviv philharmonic Society Concert hall",
-          "Visit Mini \"People and Dolls\" Theatre",
-          "Visit Les Kurbas youth theatre",
-          "Eat at Bistro"
         ]
       }
     ],
@@ -50046,12 +44196,7 @@ const raw: Gen[] = [
     "thingsToDo": [
       "St Jean Cathedral",
       "St Jean archaeological garden",
-      "Traboules",
-      "Renaissance courtyards",
-      "Rue St Jean",
-      "Rue du Boeuf",
-      "Place du Change",
-      "Rue Juiverie"
+      "Opera house"
     ],
     "restaurants": [
       {
@@ -50134,38 +44279,8 @@ const raw: Gen[] = [
         "activities": [
           "Visit St Jean Cathedral",
           "Visit St Jean archaeological garden",
-          "Visit Traboules",
-          "Eat at Chez Mounier"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Renaissance courtyards",
-          "Visit Rue St Jean",
-          "Visit Rue du Boeuf",
-          "Eat at Chez M'man"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Place du Change",
-          "Visit Rue Juiverie",
-          "Visit Auditorium",
-          "Eat at Apiales"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
           "Visit Opera house",
-          "Visit Transbordeur",
-          "Visit Ninkasi",
-          "Eat at Pitaya Thaï Street Food"
+          "Eat at Chez Mounier"
         ]
       }
     ],
@@ -50277,12 +44392,6 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "The Prophet's Mosque",
-      "Al-Baqi'",
-      "Mount Uhud",
-      "Masjid al-Qiblatayn",
-      "Masjid Jumua",
-      "Masjid Al Ghamamah",
-      "Masjid Quba",
       "Al-Madinah Museum"
     ],
     "restaurants": [],
@@ -50320,34 +44429,7 @@ const raw: Gen[] = [
       "Al-Madinah Museum"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit The Prophet's Mosque",
-          "Visit Al-Baqi'",
-          "Visit Mount Uhud"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Masjid al-Qiblatayn",
-          "Visit Masjid Jumua",
-          "Visit Masjid Al Ghamamah"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Masjid Quba",
-          "Visit Al-Madinah Museum"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -50423,14 +44505,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Orquesta Nacional de España",
-      "Orquesta Sinfónica de Madrid",
-      "Orquesta de la Comunidad de Madrid",
-      "Banda Sinfónica Municipal de Madrid",
-      "La Trashumancia",
-      "Madrid Gay Pride"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -50446,26 +44521,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Orquesta Nacional de España",
-          "Visit Orquesta Sinfónica de Madrid",
-          "Visit Orquesta de la Comunidad de Madrid"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Banda Sinfónica Municipal de Madrid",
-          "Visit La Trashumancia",
-          "Visit Madrid Gay Pride"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -50499,11 +44555,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Diphiring Mill",
-      "Leshoboro Seeiso Sports Complex",
-      "Malealea Lodge and Pony Trekking Centre"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Grace Guest House"
@@ -50521,17 +44573,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Diphiring Mill",
-          "Visit Leshoboro Seeiso Sports Complex",
-          "Visit Malealea Lodge and Pony Trekking Centre"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.7,
@@ -50786,9 +44828,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "National Wine Museum",
-      "Plaza 12 de Febrero",
-      "Parque Metropolitano",
-      "Arena Maipu"
+      "Plaza 12 de Febrero"
     ],
     "restaurants": [
       {
@@ -50838,26 +44878,7 @@ const raw: Gen[] = [
       "National Wine Museum"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit National Wine Museum",
-          "Visit Plaza 12 de Febrero",
-          "Visit Parque Metropolitano",
-          "Eat at Il Mercato Maipú"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Arena Maipu",
-          "Eat at Al Rescoldo Bodegón"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -50897,8 +44918,7 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Laura Beach",
       "Alele Museum and Public Library",
-      "Eneko Island",
-      "Arno"
+      "Eneko Island"
     ],
     "restaurants": [
       {
@@ -50962,14 +44982,6 @@ const raw: Gen[] = [
           "Visit Alele Museum and Public Library",
           "Visit Eneko Island",
           "Eat at Tidetable Restaurant"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Arno",
-          "Eat at DAR"
         ]
       }
     ],
@@ -51062,14 +45074,12 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Masjid al-Haram",
-      "Kaaba",
-      "Maqaam-e-Ibrahim",
-      "Al-Safa and Al-Marwah",
-      "Cave of Hira",
-      "Cave Thawr",
-      "Jannat al-Mu'alla",
-      "Holy Quran Museum"
+      "Holy Quran Museum",
+      "Al-Zaher Palace Museum",
+      "The Two Holy Mosques Architecture Exhibition",
+      "Clock Tower Museum",
+      "Hussainiya Park",
+      "King Abdullah Garden"
     ],
     "restaurants": [
       {
@@ -51129,7 +45139,10 @@ const raw: Gen[] = [
       "Zamzam Cafe"
     ],
     "museums": [
-      "Holy Quran Museum"
+      "Holy Quran Museum",
+      "Al-Zaher Palace Museum",
+      "The Two Holy Mosques Architecture Exhibition",
+      "Clock Tower Museum"
     ],
     "localFoods": [],
     "itinerary": [
@@ -51137,9 +45150,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Masjid al-Haram",
-          "Visit Kaaba",
-          "Visit Maqaam-e-Ibrahim",
+          "Visit Holy Quran Museum",
+          "Visit Al-Zaher Palace Museum",
+          "Visit The Two Holy Mosques Architecture Exhibition",
           "Eat at Five Guys"
         ]
       },
@@ -51147,30 +45160,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Al-Safa and Al-Marwah",
-          "Visit Cave of Hira",
-          "Visit Cave Thawr",
-          "Eat at Faisalabad Restaurant"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Jannat al-Mu'alla",
-          "Visit Holy Quran Museum",
-          "Visit The Kiswa Factory of the Holy Ka'aba",
-          "Eat at Relish Joy of Taste"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Al-Zaher Palace Museum",
-          "Visit The Two Holy Mosques Architecture Exhibition",
           "Visit Clock Tower Museum",
-          "Eat at Al Qasr"
+          "Visit Hussainiya Park",
+          "Visit King Abdullah Garden",
+          "Eat at Faisalabad Restaurant"
         ]
       }
     ],
@@ -51211,8 +45204,6 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Bioko Biodiversity Protection Program",
-      "Universidad Nacional de Guinea Ecuatorial",
       "St. Elizabeth's Cathedral",
       "Ilachi Waterfall",
       "Old Town"
@@ -51267,19 +45258,10 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Bioko Biodiversity Protection Program",
-          "Visit Universidad Nacional de Guinea Ecuatorial",
           "Visit St. Elizabeth's Cathedral",
-          "Eat at L'Attelier"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
           "Visit Ilachi Waterfall",
           "Visit Old Town",
-          "Eat at Aviator Pub & Café"
+          "Eat at L'Attelier"
         ]
       }
     ],
@@ -51320,14 +45302,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Alcazaba",
-      "Roman Theater",
-      "Castillo de Gibralfaro",
       "Málaga Cathedral",
-      "Picasso Museum",
-      "Picasso's birthplace",
-      "Museo Carmen Thyssen",
-      "Centre Pompidou Málaga"
+      "Picasso Museum"
     ],
     "restaurants": [
       {
@@ -51399,48 +45375,7 @@ const raw: Gen[] = [
       "Picasso Museum"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Alcazaba",
-          "Visit Roman Theater",
-          "Visit Castillo de Gibralfaro",
-          "Eat at Bodeguita El Gallo"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Málaga Cathedral",
-          "Visit Picasso Museum",
-          "Visit Picasso's birthplace",
-          "Eat at Vegetariano El Calafate"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Museo Carmen Thyssen",
-          "Visit Centre Pompidou Málaga",
-          "Visit Escapada Cycling",
-          "Eat at Taberna Quitapenas Sánchez Pastor"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Sightseeing Treasure Hunt Málaga",
-          "Visit La Cochera Caberet",
-          "Visit La Trinchera",
-          "Eat at Taperia El Beato"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -51562,9 +45497,6 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Torre del Vigía",
-      "Cuartel de Dragones",
-      "El Puente de la Barra",
       "San Fernando de Maldonado Cathedral",
       "Chihuahua resort and beach"
     ],
@@ -51600,26 +45532,7 @@ const raw: Gen[] = [
       "San Fernando de Maldonado Cathedral"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Torre del Vigía",
-          "Visit Cuartel de Dragones",
-          "Visit El Puente de la Barra",
-          "Eat at Parrillada Classic"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit San Fernando de Maldonado Cathedral",
-          "Visit Chihuahua resort and beach"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.4,
@@ -51652,13 +45565,8 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Friday Mosque",
-      "Kalhu Vakaru Miskiy",
       "Republic Square",
-      "Islamic Centre",
-      "Ministry of Defence HQ",
-      "Sultan Park and National Museum",
-      "Ali Rasgefaanu Ziyaaraiy",
-      "Medhu Ziyaaraiy"
+      "Sultan Park and National Museum"
     ],
     "restaurants": [
       {
@@ -51739,37 +45647,9 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Friday Mosque",
-          "Visit Kalhu Vakaru Miskiy",
           "Visit Republic Square",
-          "Eat at Waterfront Franchise Building"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Islamic Centre",
-          "Visit Ministry of Defence HQ",
           "Visit Sultan Park and National Museum",
-          "Eat at The Hive Café"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Ali Rasgefaanu Ziyaaraiy",
-          "Visit Medhu Ziyaaraiy",
-          "Visit Whale Submarine",
-          "Eat at The Hive Restaurant"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Cruise-maldives.com",
-          "Eat at Café Marine Drive"
+          "Eat at Waterfront Franchise Building"
         ]
       }
     ],
@@ -51881,14 +45761,12 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Davidshallstorg",
-      "Gamla Väster",
-      "Gustav Adolfs torg",
-      "Lilla torg",
-      "Möllevångstorget",
-      "Stortorget",
-      "Katrinetorp",
-      "Malmöhus Castle"
+      "Malmöhus Castle",
+      "Malmö Museum Tram",
+      "Pildammsparken",
+      "Kungsparken",
+      "Folkets park",
+      "Bulltoftaparken"
     ],
     "restaurants": [
       {
@@ -51958,7 +45836,8 @@ const raw: Gen[] = [
       "Inkonst"
     ],
     "museums": [
-      "Malmöhus Castle"
+      "Malmöhus Castle",
+      "Malmö Museum Tram"
     ],
     "localFoods": [],
     "itinerary": [
@@ -51966,9 +45845,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Davidshallstorg",
-          "Visit Gamla Väster",
-          "Visit Gustav Adolfs torg",
+          "Visit Malmöhus Castle",
+          "Visit Malmö Museum Tram",
+          "Visit Pildammsparken",
           "Eat at Vegegården"
         ]
       },
@@ -51976,30 +45855,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Lilla torg",
-          "Visit Möllevångstorget",
-          "Visit Stortorget",
-          "Eat at Korvhuset"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Katrinetorp",
-          "Visit Malmöhus Castle",
-          "Visit Malmö Museum Tram",
-          "Eat at Malmö City Pizzeria"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Pildammsparken",
           "Visit Kungsparken",
-          "Visit Slottsträdgården",
-          "Eat at Nguyen's Sandwiches"
+          "Visit Folkets park",
+          "Visit Bulltoftaparken",
+          "Eat at Korvhuset"
         ]
       }
     ],
@@ -52044,9 +45903,6 @@ const raw: Gen[] = [
       "Plaza de la Revolucion",
       "Museum National Palace of the Culture",
       "Monumento a Ruben Dario",
-      "Rotonda Ruben Dario",
-      "Tiscapa Lagoon",
-      "Parque Loma de Tiscapa",
       "Museum of Ancient footprints of Acahualinca"
     ],
     "restaurants": [
@@ -52141,29 +45997,8 @@ const raw: Gen[] = [
         "title": "Culture & neighborhoods",
         "activities": [
           "Visit Monumento a Ruben Dario",
-          "Visit Rotonda Ruben Dario",
-          "Visit Tiscapa Lagoon",
-          "Eat at La Plancha"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Parque Loma de Tiscapa",
           "Visit Museum of Ancient footprints of Acahualinca",
-          "Visit Dennis Martinez National Stadium",
-          "Eat at Le Café de Paris"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Rubén Darío National Theatre",
-          "Visit Pharaoh's Casino",
-          "Visit Parque Luis Alfonso Velásquez Flores",
-          "Eat at Asados El Gueguense"
+          "Eat at La Plancha"
         ]
       }
     ],
@@ -52204,14 +46039,12 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Bab Al Bahrain",
-      "Manama Souq",
       "Al Fateh Grand Mosque",
-      "Corniche al-Fateh",
       "Bahrain National Museum",
       "Bahrain Fort",
       "Bahrain Fort Museum",
-      "Barbar Temple"
+      "Barbar Temple",
+      "Adhari Park"
     ],
     "restaurants": [
       {
@@ -52296,9 +46129,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Bab Al Bahrain",
-          "Visit Manama Souq",
           "Visit Al Fateh Grand Mosque",
+          "Visit Bahrain National Museum",
+          "Visit Bahrain Fort",
           "Eat at Al-Abraaj"
         ]
       },
@@ -52306,30 +46139,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Corniche al-Fateh",
-          "Visit Bahrain National Museum",
-          "Visit Bahrain Fort",
-          "Eat at Al-Suraj"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Bahrain Fort Museum",
           "Visit Barbar Temple",
-          "Visit Dolphin Watching",
-          "Eat at Habara Snacks & Fish"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Scuba Diving",
-          "Visit Horse riding",
-          "Visit Horse racing",
-          "Eat at Bahay Kubo"
+          "Visit Adhari Park",
+          "Eat at Al-Suraj"
         ]
       }
     ],
@@ -52363,10 +46176,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Barpy Teatr",
-      "Royal Spa"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Kafe Bayrukha",
@@ -52446,14 +46256,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Teatro Amazonas",
-      "Saint Sebastian, Martyr and Saint Francis of Assisi Parish",
-      "Museu da Casa Eduardo Ribeiro",
-      "Mercado Municipal Adolpho Lisboa",
-      "Palácio Rio Negro",
-      "Praca Heliodoro Balbi",
       "Palacete Provincial",
-      "Biblioteca Pública do Amazonas"
+      "Sumaúma State Park"
     ],
     "restaurants": [
       {
@@ -52524,48 +46328,7 @@ const raw: Gen[] = [
       "Palacete Provincial"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Teatro Amazonas",
-          "Visit Saint Sebastian, Martyr and Saint Francis of Assisi Parish",
-          "Visit Museu da Casa Eduardo Ribeiro",
-          "Eat at Restaurante Shekinah II"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Mercado Municipal Adolpho Lisboa",
-          "Visit Palácio Rio Negro",
-          "Visit Praca Heliodoro Balbi",
-          "Eat at Castelinho Restaurante"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Palacete Provincial",
-          "Visit Biblioteca Pública do Amazonas",
-          "Visit Amazon BackPackers Tour",
-          "Eat at Kilo Center Restaurante"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Amazon Brasil Tour",
-          "Visit Amazon Tree Climbing",
-          "Visit Amazing Tours Agency",
-          "Eat at Restaurante e Churrascaria Zitos"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -52654,12 +46417,8 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Jade Market",
       "Flower Market",
-      "Maha Myat Muni Paya",
-      "Kuthodaw Paya",
-      "Sandamuni Paya",
-      "Shwe Kyi Myin Paya",
       "Shwenandaw Monastery",
-      "Atumashi Kyaung"
+      "Waterfall Hill"
     ],
     "restaurants": [
       {
@@ -52739,7 +46498,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Jade Market",
           "Visit Flower Market",
-          "Visit Maha Myat Muni Paya",
+          "Visit Shwenandaw Monastery",
           "Eat at Myint Myint Khin"
         ]
       },
@@ -52747,30 +46506,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Kuthodaw Paya",
-          "Visit Sandamuni Paya",
-          "Visit Shwe Kyi Myin Paya",
+          "Visit Waterfall Hill",
           "Eat at Unique Bar and Restaurant"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Shwenandaw Monastery",
-          "Visit Atumashi Kyaung",
-          "Visit Mandalay Hill",
-          "Eat at Mingalar-bar"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Gold leaf pressing tour",
-          "Visit Mandalay Marionettes Theatre",
-          "Visit Mintha Theater",
-          "Eat at Shop for Htou mont"
         ]
       }
     ],
@@ -52889,12 +46626,9 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "University of Santo Tomas",
       "National Museum of the Philippines",
       "Museum of Philippine Political History",
       "Metropolitan Museum of Manila",
-      "Bahay Tsinoy",
-      "Museo Pambata",
       "Manila Zoo"
     ],
     "restaurants": [],
@@ -52913,23 +46647,14 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit University of Santo Tomas",
           "Visit National Museum of the Philippines",
-          "Visit Museum of Philippine Political History"
+          "Visit Museum of Philippine Political History",
+          "Visit Metropolitan Museum of Manila"
         ]
       },
       {
         "day": 2,
         "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Metropolitan Museum of Manila",
-          "Visit Bahay Tsinoy",
-          "Visit Museo Pambata"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
         "activities": [
           "Visit Manila Zoo"
         ]
@@ -53009,9 +46734,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Manzini Market"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Gil Vicente Restaurant",
@@ -53069,11 +46792,7 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Maputo Fortress",
       "Tunduru Botanical Gardens",
-      "Maputo City Hall",
-      "Mercado Central",
-      "Praça dos Trabalhadores",
       "Cathedral of Our Lady of the Immaculate Conception",
       "Saint Anthony Catholic Church",
       "Museum of the Revolution"
@@ -53154,9 +46873,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Maputo Fortress",
           "Visit Tunduru Botanical Gardens",
-          "Visit Maputo City Hall",
+          "Visit Cathedral of Our Lady of the Immaculate Conception",
+          "Visit Saint Anthony Catholic Church",
           "Eat at Cantinho do Brasil"
         ]
       },
@@ -53164,19 +46883,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Mercado Central",
-          "Visit Praça dos Trabalhadores",
-          "Visit Cathedral of Our Lady of the Immaculate Conception",
-          "Eat at Mercado Janeta"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Saint Anthony Catholic Church",
           "Visit Museum of the Revolution",
-          "Eat at Mamma Mia"
+          "Eat at Mercado Janeta"
         ]
       }
     ],
@@ -53328,14 +47036,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Puente General Rafael Urdaneta",
       "Basilica de Nuestra Señora de Chiquinquira",
-      "Plaza del Rosario de Nuestra Señora de La Chiquinquirá",
-      "Museo Rafael Urdaneta",
-      "Santa Lucía",
-      "Calle Carabobo",
-      "Jardín Botánico de Maracaibo",
-      "Casa de la Capitulación"
+      "Plaza del Rosario de Nuestra Señora de La Chiquinquirá"
     ],
     "restaurants": [
       {
@@ -53410,46 +47112,7 @@ const raw: Gen[] = [
       "Basilica de Nuestra Señora de Chiquinquira"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Puente General Rafael Urdaneta",
-          "Visit Basilica de Nuestra Señora de Chiquinquira",
-          "Visit Plaza del Rosario de Nuestra Señora de La Chiquinquirá",
-          "Eat at Chop's"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Museo Rafael Urdaneta",
-          "Visit Santa Lucía",
-          "Visit Calle Carabobo",
-          "Eat at Arepas Santa Rita"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Jardín Botánico de Maracaibo",
-          "Visit Casa de la Capitulación",
-          "Visit Changing money",
-          "Eat at Cachapas Frank"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Vereda del Lago / Aquamania",
-          "Eat at Los Dulces de Alicia"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.7,
@@ -53480,11 +47143,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Grand Marché",
-      "Sultan's Palace",
-      "Artisans' Center"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "The Guest House",
@@ -53511,18 +47170,7 @@ const raw: Gen[] = [
       "Sultan's Palace"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Grand Marché",
-          "Visit Sultan's Palace",
-          "Visit Artisans' Center",
-          "Eat at The Guest House"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -53560,14 +47208,12 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Old Vine",
-      "The Old Vine House",
-      "Vinag Wine Cellar",
-      "Lent",
       "Slomškov Square",
       "Main square",
       "Castle square",
-      "Maribor Castle & Regional Museum"
+      "Maribor Castle & Regional Museum",
+      "Mestni Park",
+      "Adrenalinski park Pohorje"
     ],
     "restaurants": [
       {
@@ -53622,9 +47268,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Old Vine",
-          "Visit The Old Vine House",
-          "Visit Vinag Wine Cellar",
+          "Visit Slomškov Square",
+          "Visit Main square",
+          "Visit Castle square",
           "Eat at City Grill"
         ]
       },
@@ -53632,30 +47278,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Lent",
-          "Visit Slomškov Square",
-          "Visit Main square",
-          "Eat at Mr. Falafel"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Castle square",
           "Visit Maribor Castle & Regional Museum",
           "Visit Mestni Park",
-          "Eat at Restavracija Mak"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Slovene National Theatre",
           "Visit Adrenalinski park Pohorje",
-          "Visit Festival Lent",
-          "Eat at Nana Bistro & Kavarna"
+          "Eat at Mr. Falafel"
         ]
       }
     ],
@@ -53734,11 +47360,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Mont Maroua",
-      "Place des Fetes de Maroua",
-      "Village artisanal de Maroua"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Restaurant le Noumou de Maroua",
@@ -53805,18 +47427,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Mont Maroua",
-          "Visit Place des Fetes de Maroua",
-          "Visit Village artisanal de Maroua",
-          "Eat at Restaurant le Noumou de Maroua"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.4,
@@ -53855,12 +47466,9 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Medina",
-      "Djemaa El-Fna",
       "The Souks",
       "Koutoubia Mosque",
-      "Tanneries",
       "Saadian Tombs",
-      "Moroccan Culinary Arts Museum",
       "Majorelle Gardens"
     ],
     "restaurants": [
@@ -53936,8 +47544,7 @@ const raw: Gen[] = [
       "Jad Mahal"
     ],
     "museums": [
-      "Koutoubia Mosque",
-      "Moroccan Culinary Arts Museum"
+      "Koutoubia Mosque"
     ],
     "localFoods": [],
     "itinerary": [
@@ -53946,8 +47553,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Medina",
-          "Visit Djemaa El-Fna",
           "Visit The Souks",
+          "Visit Koutoubia Mosque",
           "Eat at Chez Chegrouni"
         ]
       },
@@ -53955,30 +47562,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Koutoubia Mosque",
-          "Visit Tanneries",
           "Visit Saadian Tombs",
-          "Eat at Chez Yassine"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Moroccan Culinary Arts Museum",
           "Visit Majorelle Gardens",
-          "Visit Chez Ali Fantasia",
-          "Eat at Henna Cafe"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Stade de Marrakesh",
-          "Visit Les Bains de Marrakech",
-          "Visit Hammam Dar el-Bacha",
-          "Eat at Chez Bismilah"
+          "Eat at Chez Yassine"
         ]
       }
     ],
@@ -54019,14 +47605,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Vieux Port",
-      "Basilique Notre Dame de la Garde",
       "Abbey of Saint Victor",
-      "L'Hotel de Ville",
-      "Le Panier",
-      "Marseille Cathedral",
-      "La Vieille Charité",
-      "Cours Belsunce"
+      "Marseille Cathedral"
     ],
     "restaurants": [
       {
@@ -54096,48 +47676,7 @@ const raw: Gen[] = [
       "Marseille Cathedral"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Vieux Port",
-          "Visit Basilique Notre Dame de la Garde",
-          "Visit Abbey of Saint Victor",
-          "Eat at Café Cantine"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit L'Hotel de Ville",
-          "Visit Le Panier",
-          "Visit Marseille Cathedral",
-          "Eat at Sampolo"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit La Vieille Charité",
-          "Visit Cours Belsunce",
-          "Visit Artplexe",
-          "Eat at Brasserie Le Saint Victor"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Cinéma l'Alhambra",
-          "Visit City of Music",
-          "Visit CEPAC Silo",
-          "Eat at Moon Burger"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.4,
@@ -54171,9 +47710,7 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Mary Museum",
       "Gurbanguly Hajji Mosque",
-      "Pokrovskaya Church",
-      "MIG aeroplane",
-      "Mary Theatre"
+      "Pokrovskaya Church"
     ],
     "restaurants": [
       {
@@ -54229,15 +47766,6 @@ const raw: Gen[] = [
           "Visit Pokrovskaya Church",
           "Eat at Gyzylgum"
         ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit MIG aeroplane",
-          "Visit Mary Theatre",
-          "Eat at Sachra"
-        ]
       }
     ],
     "hiddenGems": [],
@@ -54276,16 +47804,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "El Malecón",
-      "El Mercado Viejo",
-      "Museo de Heróes y Mártires",
-      "7 Esquinas Masaya",
-      "Masaya Central Park",
-      "El Coyotepe",
-      "Volcan Masaya",
-      "Volcán Masaya"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "La Placita",
@@ -54304,35 +47823,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit El Malecón",
-          "Visit El Mercado Viejo",
-          "Visit Museo de Heróes y Mártires",
-          "Eat at La Placita"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit 7 Esquinas Masaya",
-          "Visit Masaya Central Park",
-          "Visit El Coyotepe"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Volcan Masaya",
-          "Visit Volcán Masaya"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -54369,10 +47860,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Go canoeing on the Caledon river",
-      "Avani Lesotho Casino"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Oh Lah Lah French Café",
@@ -54456,9 +47944,7 @@ const raw: Gen[] = [
       "Carpet Museum",
       "Nader Shah Park & Mausoleum",
       "Ferdowsi Park & Mausoleum",
-      "Gombade Sabz Mausoleum",
-      "Torghabeh",
-      "Shandiz"
+      "Gombade Sabz Mausoleum"
     ],
     "restaurants": [
       {
@@ -54525,14 +48011,6 @@ const raw: Gen[] = [
           "Visit Nader Shah Park & Mausoleum",
           "Visit Ferdowsi Park & Mausoleum",
           "Visit Gombade Sabz Mausoleum"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Torghabeh",
-          "Visit Shandiz"
         ]
       }
     ],
@@ -54627,9 +48105,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Castillo de Cacao"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "La Buena Onda"
@@ -54718,16 +48194,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Delta Air",
-      "Kavango Air",
-      "Moremi Air",
-      "Mack Air",
-      "Sefofane",
-      "Helicopters Horizons",
-      "Merlin Air Services",
-      "Safari Air"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Sedia Riverside Hotel",
@@ -54776,44 +48243,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Delta Air",
-          "Visit Kavango Air",
-          "Visit Moremi Air",
-          "Eat at Sedia Riverside Hotel"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Mack Air",
-          "Visit Sefofane",
-          "Visit Helicopters Horizons",
-          "Eat at Arts Cafe"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Merlin Air Services",
-          "Visit Safari Air",
-          "Visit Mokoro trip"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Gumasema Adventures & Safaris"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.7,
@@ -54852,9 +48282,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Kyaik Tan Lan Pagoda",
-      "Mahamuni Paya",
       "Ogre Island",
-      "Gaung Say Kyun / Shampoo Island with the Sandawshin Pagoda",
       "Thanlwin Bridge (Mawlamyine)",
       "Nwa-La-Boh Pagoda",
       "Shwe Nat Taung Pagoda",
@@ -54929,8 +48357,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Kyaik Tan Lan Pagoda",
-          "Visit Mahamuni Paya",
           "Visit Ogre Island",
+          "Visit Thanlwin Bridge (Mawlamyine)",
           "Eat at Night market & food stalls"
         ]
       },
@@ -54938,19 +48366,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Gaung Say Kyun / Shampoo Island with the Sandawshin Pagoda",
-          "Visit Thanlwin Bridge (Mawlamyine)",
           "Visit Nwa-La-Boh Pagoda",
-          "Eat at Yunnan / Yuu Nan Pan Tay Restaurant"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Shwe Nat Taung Pagoda",
           "Visit Pa-Auk Tawya Monastery",
-          "Eat at YKKO Restaurant"
+          "Eat at Yunnan / Yuu Nan Pan Tay Restaurant"
         ]
       }
     ],
@@ -54990,11 +48409,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Blue Mosque",
-      "Qala-i-Jangi",
-      "Takht-e Rustam"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Mansoor Restaurant",
@@ -55038,18 +48453,7 @@ const raw: Gen[] = [
       "Blue Mosque"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Blue Mosque",
-          "Visit Qala-i-Jangi",
-          "Visit Takht-e Rustam",
-          "Eat at Mansoor Restaurant"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.6,
@@ -55086,11 +48490,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Sibebe Rock",
-      "Tourist information",
-      "Hawane Nature Reserve"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Mantenga Lodge",
@@ -55122,17 +48522,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Sibebe Rock",
-          "Visit Tourist information",
-          "Visit Hawane Nature Reserve"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -55167,9 +48557,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Igongo Cultural Centre"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Agip Motel"
@@ -55302,7 +48690,6 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Lake Ngozi",
-      "Mbozi Meteorite",
       "Kitulo National Park",
       "Malamba waterfalls",
       "Matema Public Beach"
@@ -55365,8 +48752,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Lake Ngozi",
-          "Visit Mbozi Meteorite",
           "Visit Kitulo National Park",
+          "Visit Malamba waterfalls",
           "Eat at Mbeya Hotel Limited"
         ]
       },
@@ -55374,7 +48761,6 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Malamba waterfalls",
           "Visit Matema Public Beach",
           "Eat at Metro Cuisine"
         ]
@@ -55469,12 +48855,12 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Gunung Timur Temple",
       "Great Mosque of Medan",
-      "Graha Maria Annai Velangkanni",
-      "Maha Vihara Maitreya",
       "Maimoon Palace",
       "Rahmat International Wildlife Museum & Gallery",
       "Sri Mariamman Temple",
-      "Sikh Temple"
+      "Sikh Temple",
+      "Pantai Cermin Theme Park & Resort",
+      "Zengarden"
     ],
     "restaurants": [
       {
@@ -55563,7 +48949,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Gunung Timur Temple",
           "Visit Great Mosque of Medan",
-          "Visit Graha Maria Annai Velangkanni",
+          "Visit Maimoon Palace",
           "Eat at Kedai Kopi Apek"
         ]
       },
@@ -55571,9 +48957,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Maha Vihara Maitreya",
-          "Visit Maimoon Palace",
           "Visit Rahmat International Wildlife Museum & Gallery",
+          "Visit Sri Mariamman Temple",
+          "Visit Sikh Temple",
           "Eat at Bollywood Food Centre"
         ]
       },
@@ -55581,20 +48967,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Sri Mariamman Temple",
-          "Visit Sikh Temple",
           "Visit Pantai Cermin Theme Park & Resort",
-          "Eat at Cahaya Baru Indian Restaurant"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Quan Spa",
           "Visit Zengarden",
-          "Visit Eucalyptus Spa",
-          "Eat at Restoran Garuda"
+          "Eat at Cahaya Baru Indian Restaurant"
         ]
       }
     ],
@@ -55634,16 +49009,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Museo de Antioquia",
-      "Museo Universidad de Antioquia",
-      "Casa Museo Fernando González",
-      "Museo Pedro Nel Gómez",
-      "Museo Interactivo EPM",
-      "Museo Etnográfico Miguel Angel Builes",
-      "Parque de los Deseos",
-      "Plaza de Cisneros"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Al Patio",
@@ -55719,48 +49085,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Museo de Antioquia",
-          "Visit Museo Universidad de Antioquia",
-          "Visit Casa Museo Fernando González",
-          "Eat at Al Patio"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Museo Pedro Nel Gómez",
-          "Visit Museo Interactivo EPM",
-          "Visit Museo Etnográfico Miguel Angel Builes",
-          "Eat at Mystic Restaurante"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Parque de los Deseos",
-          "Visit Plaza de Cisneros",
-          "Visit Metrocables",
-          "Eat at Milagros"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit GTOPIK Paragliding Medellin San Felix",
-          "Visit Biblioteca España",
-          "Visit Planetario Municipal",
-          "Eat at El Pilon Guarceño"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.7,
@@ -56018,11 +49343,6 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Plaza de la Bellas Artes",
       "Plaza de la Constitución",
-      "Catedral Metropolitana de la Ciudad de México",
-      "Angel de la Independencia",
-      "Basílica de Guadalupe",
-      "Ciudad Universitaria",
-      "Mexico City/Coyoacán",
       "Plaza Garibaldi-Mariachi"
     ],
     "restaurants": [],
@@ -56046,34 +49366,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Plaza de la Bellas Artes",
           "Visit Plaza de la Constitución",
-          "Visit Catedral Metropolitana de la Ciudad de México"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Angel de la Independencia",
-          "Visit Basílica de Guadalupe",
-          "Visit Ciudad Universitaria"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Mexico City/Coyoacán",
-          "Visit Plaza Garibaldi-Mariachi",
-          "Visit Wise Men's day"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Art Week",
-          "Visit Independence Day \"Yell\"",
-          "Visit Independence Parade"
+          "Visit Plaza Garibaldi-Mariachi"
         ]
       }
     ],
@@ -56113,11 +49406,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Corteo dei Re Magi",
-      "Plastic",
-      "Milano Pride"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -56127,17 +49416,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Corteo dei Re Magi",
-          "Visit Plastic",
-          "Visit Milano Pride"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.6,
@@ -56330,10 +49609,10 @@ const raw: Gen[] = [
       "Belarusian National History Museum",
       "Belarusian Great Patriotic War Museum",
       "Art Palace",
-      "House of the Vankovichs",
       "Cat Museum",
       "Cathedral of the Holy Spirit",
-      "Saint Apostles Peter and Paul Church"
+      "Saint Apostles Peter and Paul Church",
+      "Botanical Garden"
     ],
     "restaurants": [
       {
@@ -56431,8 +49710,8 @@ const raw: Gen[] = [
         "title": "Culture & neighborhoods",
         "activities": [
           "Visit Art Palace",
-          "Visit House of the Vankovichs",
           "Visit Cat Museum",
+          "Visit Cathedral of the Holy Spirit",
           "Eat at Draniki"
         ]
       },
@@ -56440,9 +49719,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Cathedral of the Holy Spirit",
           "Visit Saint Apostles Peter and Paul Church",
-          "Visit Alivaria Brewery Tour",
+          "Visit Botanical Garden",
+          "Visit Park Čaliuskincaǔ",
           "Eat at Pesochnica"
         ]
       },
@@ -56450,9 +49729,8 @@ const raw: Gen[] = [
         "day": 4,
         "title": "Day trips & more",
         "activities": [
-          "Visit Minsk Tractor Works",
-          "Visit Minsk Sea",
-          "Visit Children's Railroad",
+          "Visit Park Horkaha",
+          "Visit Park Janki Kupaly",
           "Eat at ENZO"
         ]
       }
@@ -56601,7 +49879,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Lutheran parish church in Miskolc",
           "Visit St. Anne's Church",
-          "Visit Miskolc Ice Hall",
+          "Visit Palace of Music",
           "Eat at Julia Chinese restaurant"
         ]
       },
@@ -56609,9 +49887,7 @@ const raw: Gen[] = [
         "day": 4,
         "title": "Day trips & more",
         "activities": [
-          "Visit Wine Tasting at Avas Cellars Aranykorona Hotel, Restaurant and Cellar",
-          "Visit National Theatre of Miskolc",
-          "Visit Palace of Music",
+          "Visit Miskolc Zoo",
           "Eat at Lángosgyár"
         ]
       }
@@ -56652,10 +49928,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Raidat Mosque",
-      "Misrata National Theater"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -56827,13 +50100,11 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Arba-Rucun Mosque",
-      "Arch of Triumph",
-      "Banadir Governor Office",
-      "Black Hawk Down Crash Site",
       "Ruins of Mogadishu Cathedral",
-      "Mogadishu Lighthouse",
       "Mogadishu Peace Park",
-      "Almnara Tower"
+      "Almnara Tower",
+      "Jaziira Beach",
+      "Liido Beach"
     ],
     "restaurants": [
       {
@@ -56890,8 +50161,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Arba-Rucun Mosque",
-          "Visit Arch of Triumph",
-          "Visit Banadir Governor Office",
+          "Visit Ruins of Mogadishu Cathedral",
+          "Visit Mogadishu Peace Park",
           "Eat at Liido Seafood Restaurant"
         ]
       },
@@ -56899,27 +50170,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Black Hawk Down Crash Site",
-          "Visit Ruins of Mogadishu Cathedral",
-          "Visit Mogadishu Lighthouse",
-          "Eat at Istanbul Restaurant"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Mogadishu Peace Park",
           "Visit Almnara Tower",
-          "Visit National Theatre of Somalia"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
           "Visit Jaziira Beach",
-          "Visit Liido Beach"
+          "Visit Liido Beach",
+          "Eat at Istanbul Restaurant"
         ]
       }
     ],
@@ -57090,11 +50344,11 @@ const raw: Gen[] = [
       "Fort Jesus",
       "Fort St Joseph",
       "Old town",
-      "The tusks of Moi Avenue",
-      "Leven House",
       "Holy Ghost Cathedral",
       "Hindu temples",
-      "Shri Kutch Satsang Temple"
+      "Shri Kutch Satsang Temple",
+      "Wild Waters Amusement Park",
+      "Mombasa Marine National Park and Marine Reserve"
     ],
     "restaurants": [
       {
@@ -57187,9 +50441,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit The tusks of Moi Avenue",
-          "Visit Leven House",
           "Visit Holy Ghost Cathedral",
+          "Visit Hindu temples",
+          "Visit Shri Kutch Satsang Temple",
           "Eat at Pistacchio Café"
         ]
       },
@@ -57197,9 +50451,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Hindu temples",
-          "Visit Shri Kutch Satsang Temple",
           "Visit Wild Waters Amusement Park",
+          "Visit Mombasa Marine National Park and Marine Reserve",
+          "Visit Mama Ngina Park",
           "Eat at Ratna shopping mall"
         ]
       },
@@ -57207,9 +50461,7 @@ const raw: Gen[] = [
         "day": 4,
         "title": "Day trips & more",
         "activities": [
-          "Visit Mombasa Marine National Park and Marine Reserve",
-          "Visit Bouccaner Diving",
-          "Visit Peponi Divers Mombasa",
+          "Visit Bamburi Forest Trails and Butterfly Park",
           "Eat at City Mall"
         ]
       }
@@ -57289,16 +50541,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Monte Carlo Casino",
-      "Opéra de Monaco",
-      "Monaco-Ville",
-      "Palais Princier",
-      "Cathédrale Notre-Dame-Immaculée",
-      "Jardins Saint-Martin",
-      "Musée océanographique",
-      "Musée de l'automobile de Monaco"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Chez Roger",
@@ -57368,48 +50611,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Monte Carlo Casino",
-          "Visit Opéra de Monaco",
-          "Visit Monaco-Ville",
-          "Eat at Chez Roger"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Palais Princier",
-          "Visit Cathédrale Notre-Dame-Immaculée",
-          "Visit Jardins Saint-Martin",
-          "Eat at Mickey’s Pizza"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Musée océanographique",
-          "Visit Musée de l'automobile de Monaco",
-          "Visit Hike or drive up Tête de Chien (\"Dogs Head\")",
-          "Eat at Cooks Monaco"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Hike along the coastal path from Monaco to Carnoles",
-          "Visit Azur Express",
-          "Visit Monte-Carlo Sporting",
-          "Eat at Lo Sfizio Street"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.7,
@@ -57446,13 +50648,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "National Museum of Liberia",
-      "Ducor Hotel",
-      "Blo Degbo—Rock formation",
-      "Samuel Kanyon Doe Sports Complex",
-      "Antoinette Tubman Stadium"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Diana",
@@ -57517,27 +50713,7 @@ const raw: Gen[] = [
       "National Museum of Liberia"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit National Museum of Liberia",
-          "Visit Ducor Hotel",
-          "Visit Blo Degbo—Rock formation",
-          "Eat at Diana"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Samuel Kanyon Doe Sports Complex",
-          "Visit Antoinette Tubman Stadium",
-          "Eat at The Living Room Sushi Restaurant"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -57620,14 +50796,10 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "The Centerstage Theatre",
-      "Rose Hall Great House",
       "Cornwall Beach",
       "Doctor's Cave Beach",
       "Dunn’s River Falls & Park",
-      "John Halls Montego Bay Adventure Tour",
-      "KiteBoarding Jamaica",
-      "Montego Bay Sea Trek Adventure"
+      "Walter Fletcher Beach"
     ],
     "restaurants": [
       {
@@ -57695,9 +50867,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit The Centerstage Theatre",
-          "Visit Rose Hall Great House",
           "Visit Cornwall Beach",
+          "Visit Doctor's Cave Beach",
+          "Visit Dunn’s River Falls & Park",
           "Eat at Pier One Seafood"
         ]
       },
@@ -57705,28 +50877,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Doctor's Cave Beach",
-          "Visit Dunn’s River Falls & Park",
-          "Visit John Halls Montego Bay Adventure Tour",
-          "Eat at Evelyn's"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit KiteBoarding Jamaica",
-          "Visit Montego Bay Sea Trek Adventure",
           "Visit Walter Fletcher Beach",
-          "Eat at Pork Pit"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Chukka Caribbean Adventures",
-          "Eat at Jimmy Buffet's Margaritaville"
+          "Eat at Evelyn's"
         ]
       }
     ],
@@ -57766,16 +50918,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Plaza Independencia",
-      "Palacio Salvo",
-      "Mausoleo de Artigas",
-      "Palacio Estévez",
-      "Torre Ejecutiva",
-      "Edificio Ciudadela",
-      "Puerta de la Ciudadela",
-      "Museo del Tango de Montevideo"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Mercado de la Abundancia",
@@ -57852,48 +50995,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Plaza Independencia",
-          "Visit Palacio Salvo",
-          "Visit Mausoleo de Artigas",
-          "Eat at Mercado de la Abundancia"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Palacio Estévez",
-          "Visit Torre Ejecutiva",
-          "Visit Edificio Ciudadela",
-          "Eat at Mercado del Puerto"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Puerta de la Ciudadela",
-          "Visit Museo del Tango de Montevideo",
-          "Visit [[Along the Rambla of Montevideo",
-          "Eat at Nuevo Citadelle"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Tango",
-          "Visit Estadio Gran Parque Central",
-          "Visit Montevideo Comics",
-          "Eat at La Pasiva"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.4,
@@ -57930,16 +51032,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Parc Maisonneuve and Jardin Botanique de Montreal",
-      "Parc du Mont-Royal",
-      "Parc de l'Ile-de-la-Visitation",
-      "Just For Laughs Festival",
-      "Shakespeare-in-the-Park",
-      "Festival du Monde Arabe",
-      "Festival Mondiale de la bière",
-      "Montréal en lumière"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Brasserie La Cage",
@@ -57975,37 +51068,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Parc Maisonneuve and Jardin Botanique de Montreal",
-          "Visit Parc du Mont-Royal",
-          "Visit Parc de l'Ile-de-la-Visitation",
-          "Eat at Brasserie La Cage"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Just For Laughs Festival",
-          "Visit Shakespeare-in-the-Park",
-          "Visit Festival du Monde Arabe",
-          "Eat at Les Trois Brasseurs"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Festival Mondiale de la bière",
-          "Visit Montréal en lumière",
-          "Eat at Juliette et chocolat"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.4,
@@ -58042,9 +51105,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Grand Mosque of Mopti"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -58259,9 +51320,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Rotunda of Mosta"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -58309,12 +51368,10 @@ const raw: Gen[] = [
     "thingsToDo": [
       "The Old Bridge",
       "Old Bridge Museum",
-      "Muslibegovića House",
       "Museum of Herzegovina",
       "Koski Mehmed Pasha Mosque",
       "Karađoz Bey Mosque",
-      "Cemetery",
-      "Ottoman house"
+      "Watch locals dive off the Old Bridge"
     ],
     "restaurants": [
       {
@@ -58387,7 +51444,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit The Old Bridge",
           "Visit Old Bridge Museum",
-          "Visit Muslibegovića House",
+          "Visit Museum of Herzegovina",
           "Eat at National Restaurant Ćevabdžinica Tima - Irma"
         ]
       },
@@ -58395,29 +51452,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Museum of Herzegovina",
           "Visit Koski Mehmed Pasha Mosque",
           "Visit Karađoz Bey Mosque",
-          "Eat at Konoba Taurus"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Cemetery",
-          "Visit Ottoman house",
           "Visit Watch locals dive off the Old Bridge",
-          "Eat at Behar"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Walk Along the Former Front-line",
-          "Visit Zvonik mira",
-          "Eat at Moon Star Caffe & Pizzeria"
+          "Eat at Konoba Taurus"
         ]
       }
     ],
@@ -58464,7 +51502,6 @@ const raw: Gen[] = [
       "Mausoleum of Yahya Abu al-Qasim",
       "Mosque of the Prophet Yunus",
       "Al-Raabiya Mosque",
-      "Shamoun Al-Safa",
       "Church of St. Thomas"
     ],
     "restaurants": [],
@@ -58521,17 +51558,7 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Shamoun Al-Safa",
-          "Visit Church of St. Thomas",
-          "Visit Spring Theater"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Baytna",
-          "Visit Mosul Forest"
+          "Visit Church of St. Thomas"
         ]
       }
     ],
@@ -58567,9 +51594,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Sacred Heart Cathedral"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Centre d'Accueil La Fraternité"
@@ -58621,10 +51646,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Mount Hagen Market",
-      "Hagen Show"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Highlander Hotel",
@@ -58926,8 +51948,6 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Fort Al-Ghwayzi",
       "Qu'aiti palace museum",
-      "Sik'kat Yaqoub",
-      "Khor al-Mukalla",
       "Omar Mosque",
       "Al-Rawdah Mosque",
       "The Martyrs' Monument"
@@ -58967,22 +51987,14 @@ const raw: Gen[] = [
         "activities": [
           "Visit Fort Al-Ghwayzi",
           "Visit Qu'aiti palace museum",
-          "Visit Sik'kat Yaqoub"
+          "Visit Omar Mosque"
         ]
       },
       {
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Khor al-Mukalla",
-          "Visit Omar Mosque",
-          "Visit Al-Rawdah Mosque"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
+          "Visit Al-Rawdah Mosque",
           "Visit The Martyrs' Monument"
         ]
       }
@@ -59062,12 +52074,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Join for heritage walks",
-      "Banganga Festival",
-      "Elephanta Festival",
-      "Kala Ghoda Festival"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -59075,24 +52082,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Join for heritage walks",
-          "Visit Banganga Festival",
-          "Visit Elephanta Festival"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Kala Ghoda Festival"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -59384,16 +52374,6 @@ const raw: Gen[] = [
           "Visit Royal Opera House Muscat",
           "Eat at Saravana Bhavan Restaurant"
         ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Muscat Festival",
-          "Visit Trekking path C38",
-          "Visit Trekking paths C52 and C53",
-          "Eat at KERA"
-        ]
       }
     ],
     "hiddenGems": [],
@@ -59479,11 +52459,8 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Cross Kopje Memorial",
-      "Cecil Kop Nature Reserve",
       "Mutare museum",
-      "The Civic Centre Complex",
-      "Mutare Main Park Aloe Gardens",
-      "Lake Alexander / Ozdani Dam"
+      "Mutare Main Park Aloe Gardens"
     ],
     "restaurants": [
       {
@@ -59520,18 +52497,9 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Cross Kopje Memorial",
-          "Visit Cecil Kop Nature Reserve",
           "Visit Mutare museum",
-          "Eat at Zimbo's Cafe"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit The Civic Centre Complex",
           "Visit Mutare Main Park Aloe Gardens",
-          "Visit Lake Alexander / Ozdani Dam"
+          "Eat at Zimbo's Cafe"
         ]
       }
     ],
@@ -59571,9 +52539,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Bismarck Rock"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Pizzeria Kuleana",
@@ -59663,9 +52629,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Museum"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Macondo Camp",
@@ -59758,8 +52722,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Chad National Museum",
-      "N'Djamena Grand Mosque",
-      "Avenue Charles de Gaulle"
+      "N'Djamena Grand Mosque"
     ],
     "restaurants": [
       {
@@ -59806,18 +52769,7 @@ const raw: Gen[] = [
       "N'Djamena Grand Mosque"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Chad National Museum",
-          "Visit N'Djamena Grand Mosque",
-          "Visit Avenue Charles de Gaulle",
-          "Eat at Cote Jardin"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.9,
@@ -59857,10 +52809,7 @@ const raw: Gen[] = [
       "Wailoaloa Beach",
       "Garden of the Sleeping Giant",
       "Sri Siva Subramaniya Temple",
-      "Sabeto Hot Springs and Mud Pool",
       "Pacific Island Air Scenic Flights",
-      "Skydive Fiji",
-      "Jetboards Fiji",
       "Island Surf Beauty And Spa"
     ],
     "restaurants": [
@@ -59947,20 +52896,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Sabeto Hot Springs and Mud Pool",
           "Visit Pacific Island Air Scenic Flights",
-          "Visit Skydive Fiji",
-          "Eat at Daikoku Restaurant"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Jetboards Fiji",
           "Visit Island Surf Beauty And Spa",
-          "Visit Land and Sea Tours Fiji",
-          "Eat at Mumbai Dhaba"
+          "Eat at Daikoku Restaurant"
         ]
       }
     ],
@@ -60112,18 +53050,8 @@ const raw: Gen[] = [
         "activities": [
           "Visit Nittai-ji Temple",
           "Visit Shirakawa Park",
-          "Visit Nagoya Adventure Cycle",
+          "Visit Midland Square Cinemas",
           "Eat at Yabaton"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Nagoya Sumo Tournament",
-          "Visit Osu Summer Festival",
-          "Visit World Cosplay Summit",
-          "Eat at Desperados"
         ]
       }
     ],
@@ -60164,14 +53092,11 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Kenyatta International Conference Centre (KICC)",
       "August 7 Memorial Park",
-      "Westlands by night",
-      "UN Office at Nairobi",
-      "Nairobi Mamba Village",
       "Nairobi National Museum",
       "National Railway Museum",
-      "Nairobi Gallery"
+      "Nairobi Gallery",
+      "Village Market"
     ],
     "restaurants": [
       {
@@ -60255,9 +53180,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Kenyatta International Conference Centre (KICC)",
           "Visit August 7 Memorial Park",
-          "Visit Westlands by night",
+          "Visit Nairobi National Museum",
+          "Visit National Railway Museum",
           "Eat at Hot dishes"
         ]
       },
@@ -60265,30 +53190,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit UN Office at Nairobi",
-          "Visit Nairobi Mamba Village",
-          "Visit Nairobi National Museum",
-          "Eat at KK Restaurant"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit National Railway Museum",
           "Visit Nairobi Gallery",
-          "Visit Go-Down Arts Centre",
-          "Eat at Roast House"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Kazuri Beads shop",
           "Visit Village Market",
-          "Visit Try excellent food",
-          "Eat at Habesha"
+          "Eat at KK Restaurant"
         ]
       }
     ],
@@ -60330,8 +53234,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Hyrax Hill Prehistoric Site and Museum",
-      "Lake Nakuru National Park",
-      "Menengai Forest"
+      "Lake Nakuru National Park"
     ],
     "restaurants": [
       {
@@ -60380,18 +53283,7 @@ const raw: Gen[] = [
       "Hyrax Hill Prehistoric Site and Museum"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Hyrax Hill Prehistoric Site and Museum",
-          "Visit Lake Nakuru National Park",
-          "Visit Menengai Forest",
-          "Eat at Rift Fries Restaurant"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.9,
@@ -60468,10 +53360,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Mullo Kyrgyz Madrasseh",
       "Mosque of Ota Valikhan Tur",
       "Namangan Natural History Museum",
-      "Hadja Amin Kabri Architectural Complex",
       "Akhsykent ruins"
     ],
     "restaurants": [],
@@ -60511,16 +53401,8 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Mullo Kyrgyz Madrasseh",
           "Visit Mosque of Ota Valikhan Tur",
-          "Visit Namangan Natural History Museum"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Hadja Amin Kabri Architectural Complex",
+          "Visit Namangan Natural History Museum",
           "Visit Akhsykent ruins"
         ]
       }
@@ -60606,10 +53488,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Our Lady of Fatima Cathedral",
-      "Museu Nacional de Etnologia"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Residencial Karuthakka",
@@ -60726,15 +53605,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Château des ducs de Bretagne",
-      "Cathédrale Saint-Pierre-et-Saint-Paul",
-      "Musée des Beaux-Arts",
-      "Muséum d'Histoire Naturelle",
-      "Le Maillé-Brézé D627",
-      "Musée Jules Verne",
-      "Les Machines de l'Île"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "La Ripaille Burger",
@@ -60799,36 +53670,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Château des ducs de Bretagne",
-          "Visit Cathédrale Saint-Pierre-et-Saint-Paul",
-          "Visit Musée des Beaux-Arts",
-          "Eat at La Ripaille Burger"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Muséum d'Histoire Naturelle",
-          "Visit Le Maillé-Brézé D627",
-          "Visit Musée Jules Verne",
-          "Eat at L'Épicerie de Ginette"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Les Machines de l'Île",
-          "Eat at L'endroit"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -60866,14 +53708,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Cappella Sansevero",
-      "San Francesco di Paola",
-      "Gesù Nuovo",
-      "San Domenico Maggiore",
-      "Santa Chiara",
       "Naples Cathedral",
-      "San Gregorio Armeno",
-      "Santa Maria del Carmine Maggiore"
+      "Underwater Park of Gaiola"
     ],
     "restaurants": [
       {
@@ -60941,48 +53777,7 @@ const raw: Gen[] = [
       "Naples Cathedral"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Cappella Sansevero",
-          "Visit San Francesco di Paola",
-          "Visit Gesù Nuovo",
-          "Eat at Di Matteo"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit San Domenico Maggiore",
-          "Visit Santa Chiara",
-          "Visit Naples Cathedral",
-          "Eat at Trattoria Don Vincenzo"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit San Gregorio Armeno",
-          "Visit Santa Maria del Carmine Maggiore",
-          "Visit Real Teatro San Carlo",
-          "Eat at Decumano 31"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Teatro Bellini",
-          "Visit Teatro Augusteo",
-          "Visit Underwater Park of Gaiola",
-          "Eat at 120 Grammi Spaghetti Takeaway"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -61059,9 +53854,7 @@ const raw: Gen[] = [
       "National Art Gallery of the Bahamas",
       "Pirates of Nassau Museum",
       "Fort Fincastle",
-      "James Bond wrecks",
-      "Cable Beach",
-      "Queen's Staircase"
+      "Cable Beach"
     ],
     "restaurants": [
       {
@@ -61132,16 +53925,8 @@ const raw: Gen[] = [
         "title": "Culture & neighborhoods",
         "activities": [
           "Visit Fort Fincastle",
-          "Visit James Bond wrecks",
           "Visit Cable Beach",
           "Eat at Cafe Matisse"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Queen's Staircase"
         ]
       }
     ],
@@ -61241,13 +54026,6 @@ const raw: Gen[] = [
         "activities": [
           "Visit Uppatasanti Pagoda",
           "Visit City Park",
-          "Visit Golf"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
           "Visit Ngalaik Lake Gardens"
         ]
       }
@@ -61357,8 +54135,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Dag Hammarskjöld Crash Site Memorial",
-      "Copperbelt Museum",
-      "Nsobe Game Camp"
+      "Copperbelt Museum"
     ],
     "restaurants": [
       {
@@ -61420,18 +54197,7 @@ const raw: Gen[] = [
       "Copperbelt Museum"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Dag Hammarskjöld Crash Site Memorial",
-          "Visit Copperbelt Museum",
-          "Visit Nsobe Game Camp",
-          "Eat at Bei Tempi"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.4,
@@ -61475,7 +54241,6 @@ const raw: Gen[] = [
       "St. Sebastian Church",
       "Church of Jesus Christ of Latter-day Saints",
       "Negombo fish market",
-      "Negombo Grand Jumma Masjid",
       "Agurukaramulla Raja maha viharaya Buddhist temple"
     ],
     "restaurants": [
@@ -61559,7 +54324,6 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Negombo Grand Jumma Masjid",
           "Visit Agurukaramulla Raja maha viharaya Buddhist temple",
           "Eat at Koththamalli"
         ]
@@ -61775,12 +54539,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "GoCity Pass",
-      "New York Pass",
-      "New York CityPASS",
-      "Brooklyn Cyclones"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -61788,24 +54547,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit GoCity Pass",
-          "Visit New York Pass",
-          "Visit New York CityPASS"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Brooklyn Cyclones"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -61912,16 +54654,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Palau's capitol complex",
-      "Did el Bad er a Beriber",
-      "Ngermecheluch Site",
-      "Lomech er Ngii el mora",
-      "Odalmelech",
-      "Meteu el Klechem",
-      "Bai el Melekeong/Euang el Chades",
-      "Badrulchau Stone Monoliths"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Airai Water Paradise Hotel & Spa"
@@ -61936,34 +54669,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Palau's capitol complex",
-          "Visit Did el Bad er a Beriber",
-          "Visit Ngermecheluch Site"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Lomech er Ngii el mora",
-          "Visit Odalmelech",
-          "Visit Meteu el Klechem"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Bai el Melekeong/Euang el Chades",
-          "Visit Badrulchau Stone Monoliths"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -62082,13 +54788,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Musée National Boubou-Hama and Zoo",
-      "Grande Mosquée",
-      "Cathedral de Maorey",
-      "Grande Marché",
-      "Centre Culturel Franco-Nigerien (CCFN)",
-      "Centre Culturel Oumarou Ganda",
-      "The Hippodrome",
-      "Stade de la Lutte Traditionelle"
+      "Cathedral de Maorey"
     ],
     "restaurants": [
       {
@@ -62157,38 +54857,7 @@ const raw: Gen[] = [
       "Cathedral de Maorey"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Musée National Boubou-Hama and Zoo",
-          "Visit Grande Mosquée",
-          "Visit Cathedral de Maorey",
-          "Eat at Le Gawlo senegalese restaurant"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Grande Marché",
-          "Visit Centre Culturel Franco-Nigerien (CCFN)",
-          "Visit Centre Culturel Oumarou Ganda",
-          "Eat at Baobab Senegalese Restaurant"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit The Hippodrome",
-          "Visit Stade de la Lutte Traditionelle",
-          "Visit Swimming Pools",
-          "Eat at Fast Food de L’Année"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -62225,16 +54894,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Colline du Château",
-      "Parc Phoenix",
-      "Musée des Arts Asiatiques",
-      "Musée Marc Chagall",
-      "Musée Matisse",
-      "Musée d’Archéologie de Nice",
-      "Museum of Modern and Contemporary Art",
-      "Musée des Beaux-Arts Jules Chéret"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Fennocchio's",
@@ -62309,47 +54969,7 @@ const raw: Gen[] = [
       "Museum of Modern and Contemporary Art"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Colline du Château",
-          "Visit Parc Phoenix",
-          "Visit Musée des Arts Asiatiques",
-          "Eat at Fennocchio's"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Musée Marc Chagall",
-          "Visit Musée Matisse",
-          "Visit Musée d’Archéologie de Nice",
-          "Eat at Lou Pilha Leva"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Museum of Modern and Contemporary Art",
-          "Visit Musée des Beaux-Arts Jules Chéret",
-          "Visit Cliff Walk",
-          "Eat at L'americano"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Train des Pignes",
-          "Visit Opéra Nice Côte d'Azur",
-          "Eat at Chez Palmyre"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -62391,10 +55011,10 @@ const raw: Gen[] = [
       "Byzantine Museum",
       "National Struggle Museum",
       "Leventis Municipal Museum",
-      "House of the Dragoman Hadjigeorgakis Kornesios",
       "Museum of the History of Cypriot Coinage",
       "Ledra Observatory Museum",
-      "The Cyprus Classic Motorcycle Museum"
+      "The Cyprus Classic Motorcycle Museum",
+      "Zena Palace Cinema"
     ],
     "restaurants": [
       {
@@ -62494,8 +55114,8 @@ const raw: Gen[] = [
         "title": "Culture & neighborhoods",
         "activities": [
           "Visit Leventis Municipal Museum",
-          "Visit House of the Dragoman Hadjigeorgakis Kornesios",
           "Visit Museum of the History of Cypriot Coinage",
+          "Visit Ledra Observatory Museum",
           "Eat at Toronto Pizza Agioi Omologites"
         ]
       },
@@ -62503,20 +55123,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Ledra Observatory Museum",
           "Visit The Cyprus Classic Motorcycle Museum",
-          "Visit Hamam Omerye",
-          "Eat at Piatsa Gourounaki"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit K. Cineplex",
           "Visit Zena Palace Cinema",
-          "Visit Horse Racing",
-          "Eat at Cookshop"
+          "Eat at Piatsa Gourounaki"
         ]
       }
     ],
@@ -62557,13 +55166,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Carev Most",
-      "Most na Moštanici",
-      "Bedem Fortress",
       "St Basil of Ostrog's Cathedral",
-      "Spomenik Palim Borcima U Drugom Svjetskom Ratu",
       "Ostrog Monastery",
-      "Krupačko Jezero",
       "Trebjesa Forest Park"
     ],
     "restaurants": [
@@ -62593,29 +55197,10 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Carev Most",
-          "Visit Most na Moštanici",
-          "Visit Bedem Fortress",
-          "Eat at Gradska Pijaca"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
           "Visit St Basil of Ostrog's Cathedral",
-          "Visit Spomenik Palim Borcima U Drugom Svjetskom Ratu",
           "Visit Ostrog Monastery",
-          "Eat at iDEA"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Krupačko Jezero",
           "Visit Trebjesa Forest Park",
-          "Eat at Galerija"
+          "Eat at Gradska Pijaca"
         ]
       }
     ],
@@ -62651,13 +55236,8 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Skull Tower",
-      "Niš Fortress",
       "Rusalia Church",
-      "Kazandzijsko sokace",
-      "Serbian Wartime Parliament Building - Birthplace of Yugoslavia",
-      "Red Cross Concentration Camp",
-      "Holocaust memorial on Bubanj hill",
-      "Mediana"
+      "Holocaust memorial on Bubanj hill"
     ],
     "restaurants": [
       {
@@ -62735,28 +55315,9 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Skull Tower",
-          "Visit Niš Fortress",
           "Visit Rusalia Church",
-          "Eat at Underground passage"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Kazandzijsko sokace",
-          "Visit Serbian Wartime Parliament Building - Birthplace of Yugoslavia",
-          "Visit Red Cross Concentration Camp",
-          "Eat at Etno Ćumurko"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Holocaust memorial on Bubanj hill",
-          "Visit Mediana",
-          "Eat at Ekspres Mali Vikend"
+          "Eat at Underground passage"
         ]
       }
     ],
@@ -62798,13 +55359,11 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "The Nitra Castle",
-      "The Small Seminary",
-      "The Marian Sculpture",
-      "The Diocesan Library",
       "St. Emeram´s Church",
       "The Statue of Corgoň",
       "Sts. Peter and Paul Church and Monastery of the Franciscan",
-      "The Region House"
+      "The Park \"Sihoť\"",
+      "The Zobor Mountain"
     ],
     "restaurants": [],
     "hotels": [],
@@ -62823,35 +55382,17 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit The Nitra Castle",
-          "Visit The Small Seminary",
-          "Visit The Marian Sculpture"
+          "Visit St. Emeram´s Church",
+          "Visit The Statue of Corgoň"
         ]
       },
       {
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit The Diocesan Library",
-          "Visit St. Emeram´s Church",
-          "Visit The Statue of Corgoň"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Sts. Peter and Paul Church and Monastery of the Franciscan",
-          "Visit The Region House",
-          "Visit The Park \"Sihoť\""
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit The Zobor Mountain",
-          "Visit The Pedestrian Zone",
-          "Visit Calvary Hill"
+          "Visit The Park \"Sihoť\"",
+          "Visit The Zobor Mountain"
         ]
       }
     ],
@@ -62892,14 +55433,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "The Kremlin",
       "Minin and Pozharsky Square",
-      "Bolshaya Pokrovskaya Street",
-      "Rozhdestvenskaya st.",
-      "Ilyinskaya st.",
-      "Varvarskaya st.",
-      "Upper Volga embankment",
-      "Lower Volga embankment"
+      "Limpopo zoo"
     ],
     "restaurants": [
       {
@@ -62963,48 +55498,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit The Kremlin",
-          "Visit Minin and Pozharsky Square",
-          "Visit Bolshaya Pokrovskaya Street",
-          "Eat at Ta samaya shaurma na Srednom"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Rozhdestvenskaya st.",
-          "Visit Ilyinskaya st.",
-          "Visit Varvarskaya st.",
-          "Eat at Yolki-Palki"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Upper Volga embankment",
-          "Visit Lower Volga embankment",
-          "Visit Jet fighter flight on Sokol Airbase in MiG Jets, Nizhny Novgorod",
-          "Eat at Ochag"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Nizhny Novgorod Cableway",
-          "Visit Nizhny Novgorod planetarium",
-          "Visit Nizhny Novgorod circus",
-          "Eat at Biblioteca"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.7,
@@ -63245,9 +55739,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "National Museum of Mauritania"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Azalaï Hotel (Marhaba)",
@@ -63320,14 +55812,13 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Petrovaradin Fortress",
-      "Town Hall",
       "Name of Mary Church",
       "Statue of Svetozar Miletić",
       "Monument to the Victims of Fascism in Novi Sad",
       "Church of the Great Martyr St. George",
-      "Gimnasium Jovan Jovanović Zmaj",
-      "Fish Market"
+      "Fish Market",
+      "Mountaineering club Naftaš",
+      "Železnicar Association of mountaineers and skiers"
     ],
     "restaurants": [
       {
@@ -63409,9 +55900,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Petrovaradin Fortress",
-          "Visit Town Hall",
           "Visit Name of Mary Church",
+          "Visit Statue of Svetozar Miletić",
+          "Visit Monument to the Victims of Fascism in Novi Sad",
           "Eat at Kuća kobasice"
         ]
       },
@@ -63419,9 +55910,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Statue of Svetozar Miletić",
-          "Visit Monument to the Victims of Fascism in Novi Sad",
           "Visit Church of the Great Martyr St. George",
+          "Visit Fish Market",
+          "Visit Mountaineering club Naftaš",
           "Eat at Restoran Forum"
         ]
       },
@@ -63429,19 +55920,8 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Gimnasium Jovan Jovanović Zmaj",
-          "Visit Fish Market",
-          "Visit EXIT Festival",
-          "Eat at Dottore per la pizza"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Mountaineering club Naftaš",
           "Visit Železnicar Association of mountaineers and skiers",
-          "Eat at Stevča soul food"
+          "Eat at Dottore per la pizza"
         ]
       }
     ],
@@ -63483,9 +55963,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Museum of Dolenjska",
-      "Otočec castle",
-      "Heritage Trail - Novo mesto",
-      "Zeleznik Joze"
+      "Otočec castle"
     ],
     "restaurants": [
       {
@@ -63523,26 +56001,7 @@ const raw: Gen[] = [
       "Otočec castle"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Museum of Dolenjska",
-          "Visit Otočec castle",
-          "Visit Heritage Trail - Novo mesto",
-          "Eat at La Storia"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Zeleznik Joze",
-          "Eat at Okrepčevalnica Gedžo"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.7,
@@ -63719,12 +56178,11 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Tonga National Museum",
       "Tukuʻaho Memorial Museum",
-      "Ha’amonga ‘a Maui",
-      "Captain Cook Landing Site",
-      "Abel Tasman Landing Site",
-      "Mu’a",
       "Ancient Royal Tombs of Lapaha",
-      "War Memorial"
+      "War Memorial",
+      "Matatahi 'Anahulu Beach",
+      "Ha'atafu Beach",
+      "Niutao Beach"
     ],
     "restaurants": [
       {
@@ -63798,7 +56256,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Tonga National Museum",
           "Visit Tukuʻaho Memorial Museum",
-          "Visit Ha’amonga ‘a Maui",
+          "Visit Ancient Royal Tombs of Lapaha",
           "Eat at Friend's Cafe"
         ]
       },
@@ -63806,9 +56264,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Captain Cook Landing Site",
-          "Visit Abel Tasman Landing Site",
-          "Visit Mu’a",
+          "Visit War Memorial",
+          "Visit Matatahi 'Anahulu Beach",
+          "Visit Ha'atafu Beach",
           "Eat at Pot Luck Training Restaurant"
         ]
       },
@@ -63816,20 +56274,8 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Ancient Royal Tombs of Lapaha",
-          "Visit War Memorial",
-          "Visit Ancient Tonga",
+          "Visit Niutao Beach",
           "Eat at Tavana Restaurant"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Kolomotu'a",
-          "Visit Anahulu Caves",
-          "Visit Matatahi 'Anahulu Beach",
-          "Eat at Waterfront Restaurant"
         ]
       }
     ],
@@ -63981,9 +56427,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Darfur Community Museum"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Al Daman Hotel"
@@ -64079,14 +56523,11 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Brandts Klædefabrik",
       "Hans Christian Andersen Museum",
       "Danish Railway Museum",
-      "Hans Christian Andersen's House",
       "Hans Christian Andersen's Garden",
       "Odense Zoo",
-      "St. Canute's Cathedral",
-      "Galleri Galschiot"
+      "St. Canute's Cathedral"
     ],
     "restaurants": [
       {
@@ -64161,9 +56602,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Brandts Klædefabrik",
           "Visit Hans Christian Andersen Museum",
           "Visit Danish Railway Museum",
+          "Visit Hans Christian Andersen's Garden",
           "Eat at Emils Hot House"
         ]
       },
@@ -64171,30 +56612,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Hans Christian Andersen's House",
-          "Visit Hans Christian Andersen's Garden",
           "Visit Odense Zoo",
-          "Eat at Happy Chicken"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit St. Canute's Cathedral",
-          "Visit Galleri Galschiot",
-          "Visit Odense Golfklub",
-          "Eat at Cafe du Nord"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Odense Go-Kart-Hal",
-          "Visit Odense Symphony Orchestra (Odense Symfoniokester)",
-          "Visit Odense Aafart",
-          "Eat at Cuckoo's Nest"
+          "Eat at Happy Chicken"
         ]
       }
     ],
@@ -64240,9 +56660,9 @@ const raw: Gen[] = [
       "Odesa Orthodox Cathedral",
       "Alexander Pushkin museum",
       "Archaeological Museum",
-      "Bleschunov Collection",
-      "Filiki Etheria",
-      "Museum of Western and Eastern Art"
+      "Museum of Western and Eastern Art",
+      "Odesa National Academic Opera and Ballet Theater",
+      "Museum of Partisan Glory and Catacombs"
     ],
     "restaurants": [
       {
@@ -64303,7 +56723,8 @@ const raw: Gen[] = [
       "Odesa Orthodox Cathedral",
       "Alexander Pushkin museum",
       "Archaeological Museum",
-      "Museum of Western and Eastern Art"
+      "Museum of Western and Eastern Art",
+      "Museum of Partisan Glory and Catacombs"
     ],
     "localFoods": [],
     "itinerary": [
@@ -64323,7 +56744,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Alexander Pushkin museum",
           "Visit Archaeological Museum",
-          "Visit Bleschunov Collection",
+          "Visit Museum of Western and Eastern Art",
           "Eat at Pivnoy Sad"
         ]
       },
@@ -64331,20 +56752,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Filiki Etheria",
-          "Visit Museum of Western and Eastern Art",
           "Visit Odesa National Academic Opera and Ballet Theater",
-          "Eat at Olio Pizzeria"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Odesa Philharmonic",
-          "Visit Dolphinarium Nemo",
           "Visit Museum of Partisan Glory and Catacombs",
-          "Eat at Gavannaya"
+          "Eat at Olio Pizzeria"
         ]
       }
     ],
@@ -64385,8 +56795,6 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Holy Trinity Column",
-      "Astronomical clock",
       "St. Wenceslas Cathedral",
       "St. Moritz church",
       "St. Michael's church",
@@ -64474,9 +56882,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Holy Trinity Column",
-          "Visit Astronomical clock",
           "Visit St. Wenceslas Cathedral",
+          "Visit St. Moritz church",
+          "Visit St. Michael's church",
           "Eat at Moravska Restaurace"
         ]
       },
@@ -64484,28 +56892,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit St. Moritz church",
-          "Visit St. Michael's church",
           "Visit Basilica Minor on the Holy Hill",
-          "Eat at Green Bar"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Hradisko Monastery",
           "Visit The Archbishops’ palace",
-          "Visit Theater",
-          "Eat at Restaurant Pizza U Jana"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Ice Hockey stadium",
-          "Eat at Restaurant Alley"
+          "Eat at Green Bar"
         ]
       }
     ],
@@ -64680,7 +57070,6 @@ const raw: Gen[] = [
         "activities": [
           "Visit Bey's Palace",
           "Visit Ahmed Zabana National Museum",
-          "Visit Walk along the Corniche",
           "Eat at Restaurant le Corsaire"
         ]
       }
@@ -64984,12 +57373,10 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Sulayman Mountain",
-      "Mechet' Ravvat Abdullakhana",
       "Turgunbai Sadykov Osh Regional Museum of Fine Art",
       "Mausoleum of Asaf ibn Burkhiy",
       "Sulaiman-Too Mosque",
       "Russian Orthodox Church",
-      "Alymbek Datkanyn Aykeli",
       "Manas Statue"
     ],
     "restaurants": [
@@ -65056,8 +57443,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Sulayman Mountain",
-          "Visit Mechet' Ravvat Abdullakhana",
           "Visit Turgunbai Sadykov Osh Regional Museum of Fine Art",
+          "Visit Mausoleum of Asaf ibn Burkhiy",
           "Eat at Nirvana Restaurant"
         ]
       },
@@ -65065,20 +57452,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Mausoleum of Asaf ibn Burkhiy",
           "Visit Sulaiman-Too Mosque",
           "Visit Russian Orthodox Church",
-          "Eat at Kafe \"Zhyz-Byz\""
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Alymbek Datkanyn Aykeli",
           "Visit Manas Statue",
-          "Visit CBT Osh",
-          "Eat at NAVAT"
+          "Eat at Kafe \"Zhyz-Byz\""
         ]
       }
     ],
@@ -65171,13 +57548,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Kino Europa",
-      "Kino Urania",
-      "Europska Avenija",
-      "Zoo",
-      "Kopački Rit"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Caffe Bar Focus",
@@ -65215,26 +57586,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Kino Europa",
-          "Visit Kino Urania",
-          "Visit Europska Avenija",
-          "Eat at Caffe Bar Focus"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Zoo",
-          "Visit Kopački Rit"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.4,
@@ -65271,16 +57623,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Viking Ship Museum and Historical Museum",
-      "Øyafestivalen",
-      "by:Larm",
-      "Findings",
-      "Inferno",
-      "Oslo Jazz Festival",
-      "Oslo Chamber Music Festival",
-      "Musikkfest (National Music Day)"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -65290,35 +57633,7 @@ const raw: Gen[] = [
       "Viking Ship Museum and Historical Museum"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Viking Ship Museum and Historical Museum",
-          "Visit Øyafestivalen",
-          "Visit by:Larm"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Findings",
-          "Visit Inferno",
-          "Visit Oslo Jazz Festival"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Oslo Chamber Music Festival",
-          "Visit Musikkfest (National Music Day)",
-          "Visit Oslo Pride"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -65357,10 +57672,6 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Mining Museum in Landek Park",
-      "Landek hill",
-      "The Vítkovice Area",
-      "Štítová kolonie",
-      "The Michal Mine",
       "Silesian Ostrava Castle",
       "The Ostrava Zoo",
       "Slavic Gods statues"
@@ -65426,8 +57737,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Mining Museum in Landek Park",
-          "Visit Landek hill",
-          "Visit The Vítkovice Area",
+          "Visit Silesian Ostrava Castle",
+          "Visit The Ostrava Zoo",
           "Eat at La Petite Conversation"
         ]
       },
@@ -65435,30 +57746,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Štítová kolonie",
-          "Visit The Michal Mine",
-          "Visit Silesian Ostrava Castle",
-          "Eat at Taverna na Rynku"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit The Ostrava Zoo",
           "Visit Slavic Gods statues",
-          "Visit Golden Spike Ostrava",
-          "Eat at Café au pere tranquille (French café)"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Colours of Ostrava",
-          "Visit The International Music Festival Janáček's May Ostrava",
-          "Visit Spectaculo Interesse",
-          "Eat at Harenda u Barborky - stylish restaurant at the Mining museum"
+          "Eat at Taverna na Rynku"
         ]
       }
     ],
@@ -65499,14 +57788,12 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Parliament Hill",
       "Bank of Canada Currency Museum",
       "Bytown Museum",
       "Canada Agriculture and Food Museum",
       "Canada Aviation and Space Museum",
       "Canadian Museum of Nature",
-      "Canadian War Museum",
-      "Carleton University Art Gallery"
+      "Canadian War Museum"
     ],
     "restaurants": [
       {
@@ -65597,9 +57884,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Parliament Hill",
           "Visit Bank of Canada Currency Museum",
           "Visit Bytown Museum",
+          "Visit Canada Agriculture and Food Museum",
           "Eat at BeaverTails"
         ]
       },
@@ -65607,30 +57894,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Canada Agriculture and Food Museum",
           "Visit Canada Aviation and Space Museum",
           "Visit Canadian Museum of Nature",
-          "Eat at Ahora Mexican Cuisine"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Canadian War Museum",
-          "Visit Carleton University Art Gallery",
-          "Visit The National Arts Centre",
-          "Eat at La Bottega Nicastro"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit The Great Canadian Theatre Company",
-          "Visit Ottawa Little Theatre",
-          "Visit GigSpace",
-          "Eat at Di Rienzo"
+          "Eat at Ahora Mexican Cuisine"
         ]
       }
     ],
@@ -65676,9 +57943,7 @@ const raw: Gen[] = [
       "National Museum",
       "Museum of Music",
       "Bangr Weogo park",
-      "L'Unité Pédagogique",
-      "Garden of Ouaga-Loudun Friendship",
-      "Naba Koom"
+      "Garden of Ouaga-Loudun Friendship"
     ],
     "restaurants": [
       {
@@ -65751,18 +58016,8 @@ const raw: Gen[] = [
         "activities": [
           "Visit Museum of Music",
           "Visit Bangr Weogo park",
-          "Visit L'Unité Pédagogique",
-          "Eat at Le Coq Bleu"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Garden of Ouaga-Loudun Friendship",
-          "Visit Naba Koom",
-          "Visit FESPACO",
-          "Eat at Le Vert Galant"
+          "Eat at Le Coq Bleu"
         ]
       }
     ],
@@ -65799,10 +58054,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Naaba Kango's tomb",
-      "Yatenga Naba's compound"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Hotel Liberté",
@@ -65876,13 +58128,12 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Oulu Museum of Art",
-      "Tietomaa Science Centre",
       "Oulu Castle",
       "Oulu Cathedral",
       "Oulu Automobile Museum",
       "Hupisaaret park, Fountains and salmon stairs",
       "Northern Ostrobothnia Museum",
-      "Paska Kaupunni graffiti"
+      "Cinema Finnkino Plaza"
     ],
     "restaurants": [
       {
@@ -65974,8 +58225,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Oulu Museum of Art",
-          "Visit Tietomaa Science Centre",
           "Visit Oulu Castle",
+          "Visit Oulu Cathedral",
           "Eat at Pizzeria Old Lemoon"
         ]
       },
@@ -65983,9 +58234,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Oulu Cathedral",
           "Visit Oulu Automobile Museum",
           "Visit Hupisaaret park, Fountains and salmon stairs",
+          "Visit Northern Ostrobothnia Museum",
           "Eat at RAX Pizzabuffet"
         ]
       },
@@ -65993,20 +58244,8 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Northern Ostrobothnia Museum",
-          "Visit Paska Kaupunni graffiti",
-          "Visit Oulu City Theatre",
-          "Eat at Katri Antell-lounasravintolat"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
           "Visit Cinema Finnkino Plaza",
-          "Visit Cinema Star",
-          "Visit Rotuaari",
-          "Eat at Café Provence"
+          "Eat at Katri Antell-lounasravintolat"
         ]
       }
     ],
@@ -66127,12 +58366,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Ban Keosamphanh",
-      "Big Buddha",
       "Dao Heuang Market",
       "Champasak Historical Heritage Museum",
-      "Wat Luang",
-      "Wat Phabad",
       "Tad Sae waterfall"
     ],
     "restaurants": [
@@ -66208,28 +58443,10 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Ban Keosamphanh",
-          "Visit Big Buddha",
           "Visit Dao Heuang Market",
-          "Eat at Dornsokdee Restaurant"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
           "Visit Champasak Historical Heritage Museum",
-          "Visit Wat Luang",
-          "Visit Wat Phabad",
-          "Eat at Lan Kham Noodle House"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Tad Sae waterfall",
-          "Eat at Pho Khemkong"
+          "Eat at Dornsokdee Restaurant"
         ]
       }
     ],
@@ -66272,12 +58489,7 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Palermo Cathedral",
       "Palatine Chapel",
-      "Palazzo dei Normanni",
-      "San Giovanni degli Eremiti",
-      "Museo Archeologico",
-      "Catacombe dei Cappuccini",
-      "Church of the Gesù",
-      "Piazza Pretoria and the Fontana Pretoria"
+      "Church of the Gesù"
     ],
     "restaurants": [
       {
@@ -66356,27 +58568,8 @@ const raw: Gen[] = [
         "activities": [
           "Visit Palermo Cathedral",
           "Visit Palatine Chapel",
-          "Visit Palazzo dei Normanni",
-          "Eat at Stuzzicandoci"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit San Giovanni degli Eremiti",
-          "Visit Museo Archeologico",
-          "Visit Catacombe dei Cappuccini",
-          "Eat at Timilia"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Church of the Gesù",
-          "Visit Piazza Pretoria and the Fontana Pretoria",
-          "Eat at Maqueda Bistrot"
+          "Eat at Stuzzicandoci"
         ]
       }
     ],
@@ -66413,10 +58606,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Capitol of the Federated States of Micronesia",
-      "Kepirohi Waterfall"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Coco Marina",
@@ -66467,14 +58657,9 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Panama Canal",
-      "Miraflores Visitor Center/Miraflores Locks",
-      "Casco Viejo",
       "Canal Museum",
       "Panama History Museum",
-      "Panama Viejo",
-      "Amador Causeway",
-      "Punta Culebra Nature Center"
+      "Metropolitan Natural Park (MNP)"
     ],
     "restaurants": [
       {
@@ -66556,40 +58741,10 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Panama Canal",
-          "Visit Miraflores Visitor Center/Miraflores Locks",
-          "Visit Casco Viejo",
-          "Eat at Lung Fung"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
           "Visit Canal Museum",
           "Visit Panama History Museum",
-          "Visit Panama Viejo",
-          "Eat at La Pampa Marbella"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Amador Causeway",
-          "Visit Punta Culebra Nature Center",
-          "Visit Help a sailboat to cross the canal",
-          "Eat at Van Gogh"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
           "Visit Metropolitan Natural Park (MNP)",
-          "Visit Panaviera bar",
-          "Visit Casco Antiguo Spanish School",
-          "Eat at Capital Bistró Panamá"
+          "Eat at Lung Fung"
         ]
       }
     ],
@@ -66758,7 +58913,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Christ the King Cathedral Cemetery",
           "Visit Flax Museum",
-          "Visit Senvagė",
+          "Visit Skaistakalnis Park",
           "Eat at Jack House"
         ]
       },
@@ -66766,9 +58921,8 @@ const raw: Gen[] = [
         "day": 4,
         "title": "Day trips & more",
         "activities": [
-          "Visit Skaistakalnis Park",
-          "Visit Kalnapilio Arena",
-          "Visit Culture and Leisure Park"
+          "Visit Culture and Leisure Park",
+          "Visit Idėjų Parkas Bunkeris"
         ]
       }
     ],
@@ -66891,9 +59045,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Musée en Plein Air de Parakou"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "La Face Douane",
@@ -67058,17 +59210,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit St. Peter and Paul Cathedral",
           "Visit The Central Market",
-          "Visit CarsPlus",
           "Eat at Di Gadri"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Enterprise",
-          "Visit Thalia theater",
-          "Eat at Joosje Roti Shop"
         ]
       }
     ],
@@ -67108,16 +59250,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Paris/7th arrondissement#Q243",
-      "Paris/8th arrondissement#Q64436",
-      "Paris/8th arrondissement#Q550",
-      "Paris/4th arrondissement#Q2981",
-      "Paris/18th arrondissement#Q28785",
-      "Paris/9th arrondissement#Q187840",
-      "Paris/14th arrondissement#Q28924",
-      "Paris/La Défense#Q216357"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -67125,44 +59258,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Paris/7th arrondissement#Q243",
-          "Visit Paris/8th arrondissement#Q64436",
-          "Visit Paris/8th arrondissement#Q550"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Paris/4th arrondissement#Q2981",
-          "Visit Paris/18th arrondissement#Q28785",
-          "Visit Paris/9th arrondissement#Q187840"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Paris/14th arrondissement#Q28924",
-          "Visit Paris/La Défense#Q216357",
-          "Visit Paris By Scooter"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Paris/16th arrondissement#Q43605",
-          "Visit Saint-Denis (Île-de-France)#Q13205",
-          "Visit Maison Européene de la Photographie"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -67198,10 +59294,10 @@ const raw: Gen[] = [
       "Patan Museum",
       "Taleju Temple",
       "Octagonal stone Krishna temple",
-      "Taleju Bell",
       "Shankar Narayan temple",
       "Bhai Dega Temple",
-      "Hari Shankar Temple"
+      "Hari Shankar Temple",
+      "Love Park"
     ],
     "restaurants": [
       {
@@ -67292,8 +59388,8 @@ const raw: Gen[] = [
         "title": "Culture & neighborhoods",
         "activities": [
           "Visit Octagonal stone Krishna temple",
-          "Visit Taleju Bell",
           "Visit Shankar Narayan temple",
+          "Visit Bhai Dega Temple",
           "Eat at Roadhouse"
         ]
       },
@@ -67301,7 +59397,6 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Bhai Dega Temple",
           "Visit Hari Shankar Temple",
           "Visit Love Park",
           "Eat at New Orleans"
@@ -67341,12 +59436,8 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Rio-Antirio bridge",
       "Archaeological Museum",
-      "Roman Odeon",
-      "Achaia Clauss wine factory",
       "St. Andrew's Church",
-      "Patras Castle",
-      "The Lighthouse",
-      "Turkish Baths"
+      "Patras Castle"
     ],
     "restaurants": [
       {
@@ -67400,7 +59491,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Rio-Antirio bridge",
           "Visit Archaeological Museum",
-          "Visit Roman Odeon",
+          "Visit St. Andrew's Church",
           "Eat at Tula Pot"
         ]
       },
@@ -67408,17 +59499,7 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Achaia Clauss wine factory",
-          "Visit St. Andrew's Church",
           "Visit Patras Castle"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit The Lighthouse",
-          "Visit Turkish Baths"
         ]
       }
     ],
@@ -67458,13 +59539,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Basílica de Nuestra Señora del Rosario",
-      "Monumento General Leandro Gómez",
-      "Hipódromo San Félix",
-      "Semana de la Cerveza",
-      "Paysandú Yacht Club"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Bulevar Hotel",
@@ -67493,25 +59568,7 @@ const raw: Gen[] = [
       "Monumento General Leandro Gómez"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Basílica de Nuestra Señora del Rosario",
-          "Visit Monumento General Leandro Gómez",
-          "Visit Hipódromo San Félix"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Semana de la Cerveza",
-          "Visit Paysandú Yacht Club"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.4,
@@ -67589,16 +59646,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Australian Rules Football",
-      "Cycle",
-      "Watch a movie",
-      "Get out",
-      "Go wine tasting",
-      "Take a day trip",
-      "Visit Weekend Markets",
-      "Raves and Festivals"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -67608,34 +59656,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Australian Rules Football",
-          "Visit Cycle",
-          "Visit Watch a movie"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Get out",
-          "Visit Go wine tasting",
-          "Visit Take a day trip"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Visit Weekend Markets",
-          "Visit Raves and Festivals"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -67677,7 +59698,6 @@ const raw: Gen[] = [
       "Peshawar Museum",
       "Peshawar Gorkhatri City Museum",
       "Cunningham Clock Tower",
-      "Sethi Mohallah",
       "Mahabat Khan Mosque",
       "Qasim Ali Khan Mosque",
       "All Saints Church"
@@ -67727,17 +59747,15 @@ const raw: Gen[] = [
         "title": "Culture & neighborhoods",
         "activities": [
           "Visit Cunningham Clock Tower",
-          "Visit Sethi Mohallah",
-          "Visit Mahabat Khan Mosque"
+          "Visit Mahabat Khan Mosque",
+          "Visit Qasim Ali Khan Mosque"
         ]
       },
       {
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Qasim Ali Khan Mosque",
-          "Visit All Saints Church",
-          "Visit Shah Qabool Gems Street"
+          "Visit All Saints Church"
         ]
       }
     ],
@@ -67862,10 +59880,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Kota Darul Ehsan Arch",
       "Petaling Jaya Museum",
-      "Damansara Jaya central park",
-      "DJROA community centre"
+      "Damansara Jaya central park"
     ],
     "restaurants": [
       {
@@ -67939,26 +59955,7 @@ const raw: Gen[] = [
       "Petaling Jaya Museum"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Kota Darul Ehsan Arch",
-          "Visit Petaling Jaya Museum",
-          "Visit Damansara Jaya central park",
-          "Eat at William Mamak Stall"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit DJROA community centre",
-          "Eat at SS2 Fatty Duck rice"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -67991,9 +59988,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Street parades"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Mr. Grill",
@@ -68122,10 +60117,7 @@ const raw: Gen[] = [
       "The Royal Palace and Silver Pagoda",
       "Sisowath Quay",
       "Tuol Sleng Genocide Museum (S-21 Prison)",
-      "The Killing Fields of Choeung Ek",
-      "Former M-13 Prison",
-      "Independence and Liberation Memorials",
-      "Olympic Stadium"
+      "Independence and Liberation Memorials"
     ],
     "restaurants": [
       {
@@ -68224,29 +60216,8 @@ const raw: Gen[] = [
         "title": "Culture & neighborhoods",
         "activities": [
           "Visit Tuol Sleng Genocide Museum (S-21 Prison)",
-          "Visit The Killing Fields of Choeung Ek",
-          "Visit Former M-13 Prison",
-          "Eat at Surn Yi Vegetarian Restaurant"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Independence and Liberation Memorials",
-          "Visit Olympic Stadium",
-          "Visit Mekong River Cruises",
-          "Eat at Warung Bali"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Meta House",
-          "Visit Institute Francais",
-          "Visit Hash House Harriers",
-          "Eat at Anise"
+          "Eat at Surn Yi Vegetarian Restaurant"
         ]
       }
     ],
@@ -68328,9 +60299,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Bhutan Gate"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Log Cabin",
@@ -68453,12 +60422,9 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Cathedral of St. Bartholomew",
       "Great Synagogue",
-      "Renaissance Town Hall",
       "Historical Underground Network",
-      "Pilsner Urquell Brewery",
       "Pilsen Zoo",
-      "West Bohemian Museum",
-      "Pilsen Municipal Armoury"
+      "West Bohemian Museum"
     ],
     "restaurants": [
       {
@@ -68504,7 +60470,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Cathedral of St. Bartholomew",
           "Visit Great Synagogue",
-          "Visit Renaissance Town Hall",
+          "Visit Historical Underground Network",
           "Eat at Na Spilce"
         ]
       },
@@ -68512,25 +60478,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Historical Underground Network",
-          "Visit Pilsner Urquell Brewery",
-          "Visit Pilsen Zoo"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit West Bohemian Museum",
-          "Visit Pilsen Municipal Armoury",
-          "Visit Jet fighter flight in Czech Republic"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit FC Viktoria Plzeň"
+          "Visit Pilsen Zoo",
+          "Visit West Bohemian Museum"
         ]
       }
     ],
@@ -68572,12 +60521,8 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Archaeological Museum of Piraeus",
-      "Municipal Theater of Piraeus",
-      "Athens Metro Line 1 Terminal Station",
-      "Zea Marina",
       "Votsalakia Beach",
-      "Freatida Beach",
-      "Karaiskakis Stadium"
+      "Freatida Beach"
     ],
     "restaurants": [
       {
@@ -68625,25 +60570,9 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Archaeological Museum of Piraeus",
-          "Visit Municipal Theater of Piraeus",
-          "Visit Athens Metro Line 1 Terminal Station",
-          "Eat at Mr. Aristos"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Zea Marina",
           "Visit Votsalakia Beach",
-          "Visit Freatida Beach"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Karaiskakis Stadium"
+          "Visit Freatida Beach",
+          "Eat at Mr. Aristos"
         ]
       }
     ],
@@ -68828,7 +60757,6 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Roman Theatre",
       "St. Marina church",
       "Dzhumaya Mosque",
       "Plovdiv Regional Archaeological Museum",
@@ -68901,9 +60829,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Roman Theatre",
           "Visit St. Marina church",
           "Visit Dzhumaya Mosque",
+          "Visit Plovdiv Regional Archaeological Museum",
           "Eat at Adisa"
         ]
       },
@@ -68911,9 +60839,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Plovdiv Regional Archaeological Museum",
           "Visit Plovdiv Regional Historical Museum",
           "Visit Imaret Mosque",
+          "Visit Ottoman Clock Tower",
           "Eat at Elegant Chinese Restaurant"
         ]
       },
@@ -68921,7 +60849,6 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Ottoman Clock Tower",
           "Visit Plovdiv Regional Ethnographic Museum",
           "Eat at White Spider Pub"
         ]
@@ -68964,14 +60891,11 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Old Turkish town",
-      "Skaline",
       "Monument to King Nikola",
-      "Hercegovačka pedestrian street",
-      "Trg Republike",
       "St. George's church",
       "Catholic Church",
-      "Millennium Bridge"
+      "Millennium Bridge",
+      "Rogami Beach"
     ],
     "restaurants": [
       {
@@ -69054,9 +60978,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Old Turkish town",
-          "Visit Skaline",
           "Visit Monument to King Nikola",
+          "Visit St. George's church",
+          "Visit Catholic Church",
           "Eat at Pizzeria Calabria"
         ]
       },
@@ -69064,28 +60988,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Hercegovačka pedestrian street",
-          "Visit Trg Republike",
-          "Visit St. George's church",
-          "Eat at Restoran Radovce"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Catholic Church",
           "Visit Millennium Bridge",
           "Visit Rogami Beach",
-          "Eat at Duhovni centar"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Podgorica City Stadium",
-          "Eat at Kaktus"
+          "Eat at Restoran Radovce"
         ]
       }
     ],
@@ -69173,9 +61078,6 @@ const raw: Gen[] = [
     "thingsToDo": [
       "African Circle Museum of Pointe-Noire",
       "Mâ-Loango Regional Museum",
-      "Diosso Gorge",
-      "Côte Sauvage",
-      "Tchimpounga Animal Sanctuary",
       "Conkouati-Douli National Park"
     ],
     "restaurants": [
@@ -69232,18 +61134,8 @@ const raw: Gen[] = [
         "activities": [
           "Visit African Circle Museum of Pointe-Noire",
           "Visit Mâ-Loango Regional Museum",
-          "Visit Diosso Gorge",
-          "Eat at Citronnelle"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Côte Sauvage",
-          "Visit Tchimpounga Animal Sanctuary",
           "Visit Conkouati-Douli National Park",
-          "Eat at La Cite"
+          "Eat at Citronnelle"
         ]
       }
     ],
@@ -69284,14 +61176,12 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Phewa/Fewa Lake (Phewa/Fewa Tal)",
       "Begnas Lake (Begnas Tal)",
       "Rupa Lake (Rupa Tal)",
       "Dipang Lake (Dipang Tal)",
-      "Devi's Falls (Patale Chhango)",
       "World Peace Pagoda (Shanti Stupa)",
-      "Sarangkot",
-      "Kahun Dharahara"
+      "Begnas Lake Resort",
+      "Garden Yiga Chozin Buddhist Meditation Centre"
     ],
     "restaurants": [
       {
@@ -69366,9 +61256,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Phewa/Fewa Lake (Phewa/Fewa Tal)",
           "Visit Begnas Lake (Begnas Tal)",
           "Visit Rupa Lake (Rupa Tal)",
+          "Visit Dipang Lake (Dipang Tal)",
           "Eat at Asian Teahouse"
         ]
       },
@@ -69376,30 +61266,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Dipang Lake (Dipang Tal)",
-          "Visit Devi's Falls (Patale Chhango)",
           "Visit World Peace Pagoda (Shanti Stupa)",
+          "Visit Begnas Lake Resort",
+          "Visit Garden Yiga Chozin Buddhist Meditation Centre",
           "Eat at Sun Welcome"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Sarangkot",
-          "Visit Kahun Dharahara",
-          "Visit Paragliding",
-          "Eat at Sweet Memories Restaurant"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Parahawking/Vulture Restaurant",
-          "Visit Hearts and Tears Motorcycle Club: Motorbike Tours & Lessons",
-          "Visit Purna Yoga Retreat Centre",
-          "Eat at Tara's Restaurant (Nepalese Vegetarian)"
         ]
       }
     ],
@@ -69520,8 +61390,7 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Borokiri Market",
       "Port Harcourt Zoo",
-      "Port Harcourt Pleasure Park",
-      "Carniriv Festival'"
+      "Port Harcourt Pleasure Park"
     ],
     "restaurants": [
       {
@@ -69597,14 +61466,6 @@ const raw: Gen[] = [
           "Visit Port Harcourt Pleasure Park",
           "Eat at Spice Route"
         ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Carniriv Festival'",
-          "Eat at BCON Restaurant and Hotel"
-        ]
       }
     ],
     "hiddenGems": [],
@@ -69644,14 +61505,11 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Aapravasi Ghat",
       "Caudan Waterfront",
       "Blue Penny Museum",
       "Citadelle",
       "St Louis Cathedral",
-      "Jummah Mosque",
-      "Travellers' Lane",
-      "Chinatown"
+      "Jummah Mosque"
     ],
     "restaurants": [
       {
@@ -69728,9 +61586,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Aapravasi Ghat",
           "Visit Caudan Waterfront",
           "Visit Blue Penny Museum",
+          "Visit Citadelle",
           "Eat at Le Calife"
         ]
       },
@@ -69738,30 +61596,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Citadelle",
           "Visit St Louis Cathedral",
           "Visit Jummah Mosque",
           "Eat at Mystic Masala"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Travellers' Lane",
-          "Visit Chinatown",
-          "Visit Port Louis Theatre",
-          "Eat at First Restaurant"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Champs de Mars",
-          "Visit Caudan Casino",
-          "Visit National Library of Mauritius",
-          "Eat at La Bonne Marmite"
         ]
       }
     ],
@@ -69804,11 +61641,6 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Port Moresby Nature Park",
       "Papua New Guinea National Museum & Art Gallery",
-      "Bomana War Cemetery",
-      "National Parliament of Papua New Guinea",
-      "Touaguba Hill",
-      "Moitaka Wildlife Sanctuary",
-      "Port Moresby Golf Club",
       "Ela Beach Craft Market"
     ],
     "restaurants": [
@@ -69885,36 +61717,8 @@ const raw: Gen[] = [
         "activities": [
           "Visit Port Moresby Nature Park",
           "Visit Papua New Guinea National Museum & Art Gallery",
-          "Visit Bomana War Cemetery",
-          "Eat at Asia Aromas"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit National Parliament of Papua New Guinea",
-          "Visit Touaguba Hill",
-          "Visit Moitaka Wildlife Sanctuary",
-          "Eat at Daikoku"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Port Moresby Golf Club",
           "Visit Ela Beach Craft Market",
-          "Visit Hiking",
-          "Eat at Royal Papua Yacht Club"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Hiri Moale Festival",
-          "Eat at Crowne Plaza"
+          "Eat at Asia Aromas"
         ]
       }
     ],
@@ -69955,14 +61759,11 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Carnival",
       "International Waterfront Centre",
-      "National Academy for Performing Arts",
       "Emperor Valley Zoo",
       "Royal Botanic Gardens",
-      "Royal Victoria Institute",
-      "The Magnificent Seven Houses",
-      "Knowsley Building"
+      "Queen's Park Savannah",
+      "Cricket at Queen's Park Oval"
     ],
     "restaurants": [
       {
@@ -70025,9 +61826,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Carnival",
           "Visit International Waterfront Centre",
-          "Visit National Academy for Performing Arts",
+          "Visit Emperor Valley Zoo",
+          "Visit Royal Botanic Gardens",
           "Eat at Mano's Food Delight"
         ]
       },
@@ -70035,29 +61836,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Emperor Valley Zoo",
-          "Visit Royal Botanic Gardens",
-          "Visit Royal Victoria Institute",
-          "Eat at Dopson's Roti"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit The Magnificent Seven Houses",
-          "Visit Knowsley Building",
           "Visit Queen's Park Savannah",
-          "Eat at George and Son Doubles"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
           "Visit Cricket at Queen's Park Oval",
-          "Visit Bird watching at Asa Wright",
-          "Eat at Sauce On The Avenue"
+          "Eat at Dopson's Roti"
         ]
       }
     ],
@@ -70098,9 +61879,6 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Lighthouse of Port Said",
-      "Building of the Suez Canal Authority headquarters",
-      "De Lesseps tourist jetty",
       "War memorial",
       "Tennis Island",
       "Port Said National Museum",
@@ -70165,9 +61943,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Lighthouse of Port Said",
-          "Visit Building of the Suez Canal Authority headquarters",
-          "Visit De Lesseps tourist jetty",
+          "Visit War memorial",
+          "Visit Tennis Island",
+          "Visit Port Said National Museum",
           "Eat at Italian Restaurant"
         ]
       },
@@ -70175,18 +61953,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit War memorial",
-          "Visit Tennis Island",
-          "Visit Port Said National Museum",
-          "Eat at Pizza pino"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Museum of Modern Arts",
-          "Visit Port Said Military Museum"
+          "Visit Port Said Military Museum",
+          "Eat at Pizza pino"
         ]
       }
     ],
@@ -70297,9 +62066,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "National Palace",
-      "Cathedral of Our Lady of the Assumption",
-      "Musée du Panthéon National Haïtien",
-      "Audel Marseille"
+      "Cathedral of Our Lady of the Assumption"
     ],
     "restaurants": [
       {
@@ -70344,25 +62111,7 @@ const raw: Gen[] = [
       "Cathedral of Our Lady of the Assumption"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit National Palace",
-          "Visit Cathedral of Our Lady of the Assumption",
-          "Visit Musée du Panthéon National Haïtien",
-          "Eat at Pizza Garden"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Audel Marseille"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -70508,11 +62257,8 @@ const raw: Gen[] = [
       "National Museum of Vanuatu",
       "Evergreen Cascades Waterfall",
       "Hideaway Island",
-      "National Library",
       "Honeymoon Beach",
-      "Big Blue Vanuatu",
-      "Independence Park, Port Vila",
-      "Korman Stadium"
+      "Independence Park, Port Vila"
     ],
     "restaurants": [
       {
@@ -70593,19 +62339,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit National Library",
           "Visit Honeymoon Beach",
-          "Visit Big Blue Vanuatu",
-          "Eat at Kai Vanua"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Independence Park, Port Vila",
-          "Visit Korman Stadium",
-          "Eat at Three Pigs"
+          "Eat at Kai Vanua"
         ]
       }
     ],
@@ -70684,16 +62420,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Palácio da Bolsa",
-      "Sé do Porto",
-      "Port Wine Institute",
-      "City Hall",
-      "Igreja de São Francisco",
-      "Mercado do Bolhão",
-      "Livraria Lello",
-      "Torre dos Clérigos"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Café Piolho / Âncora d'Ouro",
@@ -70766,48 +62493,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Palácio da Bolsa",
-          "Visit Sé do Porto",
-          "Visit Port Wine Institute",
-          "Eat at Café Piolho / Âncora d'Ouro"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit City Hall",
-          "Visit Igreja de São Francisco",
-          "Visit Mercado do Bolhão",
-          "Eat at Taberna Folias de Baco"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Livraria Lello",
-          "Visit Torre dos Clérigos",
-          "Visit Douro river cruise",
-          "Eat at Laurear"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Fado Bars",
-          "Visit Teatro Nacional São João (TNSJ)",
-          "Visit FC Porto",
-          "Eat at Trinkas Petisqueira Lounge"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.7,
@@ -70847,11 +62533,8 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Ethnographical Museum of Porto Novo",
       "Honmé Museum",
-      "Jardin Place Jean Bayol",
       "Governor's Palace",
-      "Museé da Silva",
       "Celestial Church of Christ's Headquarters",
-      "Lycée Behanzin",
       "Great Mosque of Porto-Novo"
     ],
     "restaurants": [],
@@ -70874,23 +62557,14 @@ const raw: Gen[] = [
         "activities": [
           "Visit Ethnographical Museum of Porto Novo",
           "Visit Honmé Museum",
-          "Visit Jardin Place Jean Bayol"
+          "Visit Governor's Palace"
         ]
       },
       {
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Governor's Palace",
-          "Visit Museé da Silva",
-          "Visit Celestial Church of Christ's Headquarters"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Lycée Behanzin",
+          "Visit Celestial Church of Christ's Headquarters",
           "Visit Great Mosque of Porto-Novo"
         ]
       }
@@ -70992,14 +62666,14 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Stary Rynek",
-      "Town Hall",
       "The City Church of St. Stanislaus and Our Lady",
-      "The former Jesuits' College",
       "King's Castle",
       "Museum of Applied Arts",
       "The Franciscan Church",
-      "The models of Old Poznan"
+      "Nowe Zoo",
+      "Park Railway Maltanka",
+      "Malta Lake",
+      "Rusałka Lake"
     ],
     "restaurants": [
       {
@@ -71082,9 +62756,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Stary Rynek",
-          "Visit Town Hall",
           "Visit The City Church of St. Stanislaus and Our Lady",
+          "Visit King's Castle",
+          "Visit Museum of Applied Arts",
           "Eat at Bar Pod Arkadami"
         ]
       },
@@ -71092,9 +62766,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit The former Jesuits' College",
-          "Visit King's Castle",
-          "Visit Museum of Applied Arts",
+          "Visit The Franciscan Church",
+          "Visit Nowe Zoo",
+          "Visit Park Railway Maltanka",
           "Eat at Avanti"
         ]
       },
@@ -71102,20 +62776,10 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit The Franciscan Church",
-          "Visit The models of Old Poznan",
-          "Visit Termy Maltańskie",
+          "Visit Malta Lake",
+          "Visit Rusałka Lake",
+          "Visit Strzeszyn Lake",
           "Eat at Kociak"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Nowe Zoo",
-          "Visit Park Railway Maltanka",
-          "Visit KKS Lech Poznań",
-          "Eat at Piccolo"
         ]
       }
     ],
@@ -71155,63 +62819,15 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Prague Visitor Pass",
-      "Prague Cool Pass",
-      "Prague City Pass",
-      "National Gallery Gift Ticket",
-      "Prague Spring",
-      "Prague Advent Choral Meeting",
-      "Signal Festival",
-      "Wine Boat"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
     "shopping": [],
     "nightlife": [],
-    "museums": [
-      "National Gallery Gift Ticket"
-    ],
+    "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Prague Visitor Pass",
-          "Visit Prague Cool Pass",
-          "Visit Prague City Pass"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit National Gallery Gift Ticket",
-          "Visit Prague Spring",
-          "Visit Prague Advent Choral Meeting"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Signal Festival",
-          "Visit Wine Boat",
-          "Visit Prague Steam Boats"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Cruise Prague",
-          "Visit EVD",
-          "Visit JazzBoat"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -71249,14 +62865,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Praia town hall",
       "Praia Cathedral",
-      "Supreme Court",
-      "Presidential Palace",
-      "Quartel Jaime Mota",
-      "Igreja do Nazareno",
-      "Palácio da Assembleia",
-      "Praça Alexandre Albuquerque"
+      "Presidential Palace"
     ],
     "restaurants": [
       {
@@ -71332,37 +62942,7 @@ const raw: Gen[] = [
       "Presidential Palace"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Praia town hall",
-          "Visit Praia Cathedral",
-          "Visit Supreme Court",
-          "Eat at Sovaco de Cobra"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Presidential Palace",
-          "Visit Quartel Jaime Mota",
-          "Visit Igreja do Nazareno",
-          "Eat at Café Sofia"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Palácio da Assembleia",
-          "Visit Praça Alexandre Albuquerque",
-          "Eat at Restaurante Punto D'Incontro"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -71404,8 +62984,7 @@ const raw: Gen[] = [
       "St. Jean-Baptiste cathedral",
       "Orthodox Synagogue and Museum of Jewish Culture",
       "Šaris gallery",
-      "Solivar Salt mining museum",
-      "Dubník mine"
+      "Solivar Salt mining museum"
     ],
     "restaurants": [],
     "hotels": [
@@ -71456,8 +63035,7 @@ const raw: Gen[] = [
         "title": "Culture & neighborhoods",
         "activities": [
           "Visit Šaris gallery",
-          "Visit Solivar Salt mining museum",
-          "Visit Dubník mine"
+          "Visit Solivar Salt mining museum"
         ]
       }
     ],
@@ -71500,12 +63078,10 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Pretoria Botanical Gardens",
       "National Zoological Gardens (The Zoo)",
-      "The Union Buildings",
-      "The Wonderboom",
-      "Streets with jacaranda trees",
       "Church Square",
       "Correctional Services Museum (Kgosi Mampuru II Correctional Centre)",
-      "Melrose House Museum"
+      "Melrose House Museum",
+      "Fountains"
     ],
     "restaurants": [
       {
@@ -71580,7 +63156,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Pretoria Botanical Gardens",
           "Visit National Zoological Gardens (The Zoo)",
-          "Visit The Union Buildings",
+          "Visit Church Square",
           "Eat at Centurion Mall Express Sandwich Baron"
         ]
       },
@@ -71588,30 +63164,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit The Wonderboom",
-          "Visit Streets with jacaranda trees",
-          "Visit Church Square",
-          "Eat at Mimmos"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Correctional Services Museum (Kgosi Mampuru II Correctional Centre)",
           "Visit Melrose House Museum",
-          "Visit Friends of the Rail",
-          "Eat at Spur"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Klitsgras Drumming Circle",
-          "Visit Skydive Pretoria",
-          "Visit State Theatre",
-          "Eat at Kream Restaurant"
+          "Visit Fountains",
+          "Eat at Mimmos"
         ]
       }
     ],
@@ -71653,7 +63209,6 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Čento Square",
-      "Old Bazaar",
       "Clock Tower",
       "Čarši Mosque ruins",
       "Memorial Museum of October 11, 1941",
@@ -71713,8 +63268,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Čento Square",
-          "Visit Old Bazaar",
           "Visit Clock Tower",
+          "Visit Čarši Mosque ruins",
           "Eat at Makedonska Kuka restaurant"
         ]
       },
@@ -71722,9 +63277,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Čarši Mosque ruins",
           "Visit Memorial Museum of October 11, 1941",
           "Visit Alexander the Great statue",
+          "Visit Kurşumli Han ruins",
           "Eat at Restaurant CHE"
         ]
       },
@@ -71732,17 +63287,8 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Kurşumli Han ruins",
           "Visit Church of the Annunciation",
-          "Visit Pivo Fest",
           "Eat at Restaurant MIR"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Theatre festival Vojdan Cernodrinski"
         ]
       }
     ],
@@ -71782,16 +63328,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Los Fuertes",
-      "Fuerte de Loreto",
-      "Fuerte de Guadalupe",
-      "Pasaje Histórico 5 de Mayo",
-      "Barrio de murales",
-      "Zocalo",
-      "Catedral de Puebla",
-      "Biblioteca Palafoxiana"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Vero",
@@ -71863,48 +63400,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Los Fuertes",
-          "Visit Fuerte de Loreto",
-          "Visit Fuerte de Guadalupe",
-          "Eat at Vero"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Pasaje Histórico 5 de Mayo",
-          "Visit Barrio de murales",
-          "Visit Zocalo",
-          "Eat at Indoor market La Acocota"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Catedral de Puebla",
-          "Visit Biblioteca Palafoxiana",
-          "Visit Baños de Vapor \"Neptuno\"",
-          "Eat at Restaurante La Fonda"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Estadio Hermanos Serdán",
-          "Visit Estadio Cuauhtémoc",
-          "Visit Arena Puebla",
-          "Eat at Caramia, pizzería artesanal"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -72028,11 +63524,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Chimi Lhakhang",
-      "Punakha Suspension Bridge",
-      "Punakha Dzong"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Bridge View Restaurant",
@@ -72081,18 +63573,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Chimi Lhakhang",
-          "Visit Punakha Suspension Bridge",
-          "Visit Punakha Dzong",
-          "Eat at Bridge View Restaurant"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -72130,13 +63611,9 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Arch of Triumph",
-      "Arirang Mass Games",
       "Children's Palace",
       "Chollima Statue",
       "Juche Tower",
-      "Kaeson Funfair",
-      "Kimilsungia-Kimjungilia Flower Exhibition Centre",
       "Korean War Museum"
     ],
     "restaurants": [
@@ -72218,9 +63695,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Arch of Triumph",
-          "Visit Arirang Mass Games",
           "Visit Children's Palace",
+          "Visit Chollima Statue",
+          "Visit Juche Tower",
           "Eat at Chongryu"
         ]
       },
@@ -72228,29 +63705,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Chollima Statue",
-          "Visit Juche Tower",
-          "Visit Kaeson Funfair",
-          "Eat at Dangogi Gukjib"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Kimilsungia-Kimjungilia Flower Exhibition Centre",
           "Visit Korean War Museum",
-          "Visit Pyongyang Marathon",
-          "Eat at Haedanghwa"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Swimming",
-          "Visit Bowling",
-          "Eat at Mujigae Boat Restaurant"
+          "Eat at Dangogi Gukjib"
         ]
       }
     ],
@@ -72331,10 +63787,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "St. Jean Church",
-      "Ebene CyberCity"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -72429,15 +63882,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Market",
-      "Quetzaltenango Municipal Theatre",
-      "Asociación de Mujeres del Altiplano",
-      "El Nahual Community Center",
-      "Entremundos",
-      "La Pedrera Community Project",
-      "Celas Maya Spanish School"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Restaurant y Mirador Panorama",
@@ -72488,35 +63933,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Market",
-          "Visit Quetzaltenango Municipal Theatre",
-          "Visit Asociación de Mujeres del Altiplano",
-          "Eat at Restaurant y Mirador Panorama"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit El Nahual Community Center",
-          "Visit Entremundos",
-          "Visit La Pedrera Community Project",
-          "Eat at Baviera Cafe"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Celas Maya Spanish School"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.7,
@@ -72600,10 +64017,6 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Conjunto monumental San Francisco",
-      "Plaza Grande / Plaza de la Independencia",
-      "Museo Nacional -- MuNa (formerly Museo del Banco Central)",
-      "Casa de la Cultura",
-      "Museo de la Ciudad",
       "Botanical Gardens",
       "Museo Etnohistorico de Artesanias del Ecuador Mindalae",
       "Itchimbia cultural complex and park"
@@ -72693,8 +64106,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Conjunto monumental San Francisco",
-          "Visit Plaza Grande / Plaza de la Independencia",
-          "Visit Museo Nacional -- MuNa (formerly Museo del Banco Central)",
+          "Visit Botanical Gardens",
+          "Visit Museo Etnohistorico de Artesanias del Ecuador Mindalae",
           "Eat at Pim's"
         ]
       },
@@ -72702,30 +64115,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Casa de la Cultura",
-          "Visit Museo de la Ciudad",
-          "Visit Botanical Gardens",
-          "Eat at Restaurant Techo del Mundo"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Museo Etnohistorico de Artesanias del Ecuador Mindalae",
           "Visit Itchimbia cultural complex and park",
-          "Visit TelefériQo",
-          "Eat at El Maple"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Hike Pichincha Volcano",
-          "Visit Go Mountain Biking",
-          "Visit Green Horse Ranch",
-          "Eat at Mongos"
+          "Eat at Restaurant Techo del Mundo"
         ]
       }
     ],
@@ -72810,9 +64201,7 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Kasbah of the Oudaias",
       "Old Medina",
-      "Chouhada Cemetery",
       "The Beach",
       "Hassan Tower and the Royal Mausoleum",
       "National Archaeological Museum",
@@ -72893,9 +64282,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Kasbah of the Oudaias",
           "Visit Old Medina",
-          "Visit Chouhada Cemetery",
+          "Visit The Beach",
+          "Visit Hassan Tower and the Royal Mausoleum",
           "Eat at Cafe Maure"
         ]
       },
@@ -72903,28 +64292,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit The Beach",
-          "Visit Hassan Tower and the Royal Mausoleum",
           "Visit National Archaeological Museum",
-          "Eat at Majestic"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit The Currency Museum of the Bank Al-Maghrib",
           "Visit St. Peter's Cathedral",
-          "Visit Théâtre National Mohammed V",
-          "Eat at Pizza des Gourmets"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Royal Golf Dar es Salaam",
-          "Eat at Dar Naji Agdal"
+          "Eat at Majestic"
         ]
       }
     ],
@@ -73004,14 +64375,10 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "T Bandh",
       "Varendra Research Museum",
       "Shrine of Hazrat Shah Makhdum(Rh.)",
       "Central Park and Zoo",
-      "Shahid Zia Park",
-      "Boro Kuthi",
-      "Rajshahi University",
-      "Ghoramara"
+      "Shahid Zia Park"
     ],
     "restaurants": [
       {
@@ -73070,9 +64437,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit T Bandh",
           "Visit Varendra Research Museum",
           "Visit Shrine of Hazrat Shah Makhdum(Rh.)",
+          "Visit Central Park and Zoo",
           "Eat at Nanking Chinese Restaurant"
         ]
       },
@@ -73080,19 +64447,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Central Park and Zoo",
           "Visit Shahid Zia Park",
-          "Visit Boro Kuthi",
           "Eat at Party Point"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Rajshahi University",
-          "Visit Ghoramara",
-          "Eat at Warisan Chinese Restaurant and Catering"
         ]
       }
     ],
@@ -73172,14 +64528,10 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Liaqat Bagh",
       "Nawaz Sharif Park",
       "Jinnah Park",
       "Ayub Park",
-      "Eidgah Sharif",
-      "Shah Chun Charagh",
-      "Army Museum",
-      "Cinepax"
+      "Army Museum"
     ],
     "restaurants": [
       {
@@ -73237,9 +64589,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Liaqat Bagh",
           "Visit Nawaz Sharif Park",
           "Visit Jinnah Park",
+          "Visit Ayub Park",
           "Eat at Fortress Street"
         ]
       },
@@ -73247,28 +64599,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Ayub Park",
-          "Visit Eidgah Sharif",
-          "Visit Shah Chun Charagh",
-          "Eat at Namak Mandi"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Army Museum",
-          "Visit Cinepax",
-          "Visit Helicopter Tours",
-          "Eat at Mei Kong"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Taxila tourist train",
-          "Eat at Tehzeeb bakers & pizzeria"
+          "Eat at Namak Mandi"
         ]
       }
     ],
@@ -73303,14 +64635,14 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Boyden Refuge",
       "Dighton Rock State Park",
       "Old Colony History Museum",
-      "Taunton Green",
       "Weir Riverfront Park",
       "Memorial Park",
-      "Aleixo Arena",
-      "John F. Parker Golf Course"
+      "John F. Parker Golf Course",
+      "Hopewell Park",
+      "Massasoit State Park",
+      "Raynham Park"
     ],
     "restaurants": [
       {
@@ -73379,9 +64711,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Boyden Refuge",
           "Visit Dighton Rock State Park",
           "Visit Old Colony History Museum",
+          "Visit Weir Riverfront Park",
           "Eat at Joe's Diner"
         ]
       },
@@ -73389,9 +64721,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Taunton Green",
-          "Visit Weir Riverfront Park",
           "Visit Memorial Park",
+          "Visit John F. Parker Golf Course",
+          "Visit Hopewell Park",
           "Eat at Mimi's Diner"
         ]
       },
@@ -73399,20 +64731,10 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Aleixo Arena",
-          "Visit John F. Parker Golf Course",
-          "Visit Segregansett Country Club",
-          "Eat at Dighton Country Diner"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Hockomock Swamp",
-          "Visit Hopewell Park",
           "Visit Massasoit State Park",
-          "Eat at 1712 Restaurant and Bar"
+          "Visit Raynham Park",
+          "Visit Watson Pond State Park",
+          "Eat at Dighton Country Diner"
         ]
       }
     ],
@@ -73537,13 +64859,7 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Tjörnin",
-      "Austurvöllur",
-      "Klambratún",
       "Reykjavík Botanical Gardens",
-      "Viðey",
-      "Grótta",
-      "Alþingi",
       "Reykjavík Cathedral"
     ],
     "restaurants": [
@@ -73613,48 +64929,7 @@ const raw: Gen[] = [
       "Reykjavík Cathedral"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Tjörnin",
-          "Visit Austurvöllur",
-          "Visit Klambratún",
-          "Eat at Bæjarins beztu pylsur"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Reykjavík Botanical Gardens",
-          "Visit Viðey",
-          "Visit Grótta",
-          "Eat at Hamborgarabúllan"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Alþingi",
-          "Visit Reykjavík Cathedral",
-          "Visit Nordic House",
-          "Eat at Múlakaffi"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Harpa",
-          "Visit National Theatre of Iceland",
-          "Visit Reykjavík City Theatre",
-          "Eat at Perlan"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -73735,16 +65010,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "GUNS Funnel",
-      "Wolftrike Drift Hall",
-      "Rīgas Lāzertags",
-      "Easter",
-      "Count of May",
-      "Latviabeerfest",
-      "Jāņi",
-      "Latvian Song and Dance Festival"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Čili Pica",
@@ -73761,36 +65027,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit GUNS Funnel",
-          "Visit Wolftrike Drift Hall",
-          "Visit Rīgas Lāzertags",
-          "Eat at Čili Pica"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Easter",
-          "Visit Count of May",
-          "Visit Latviabeerfest",
-          "Eat at Lido"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Jāņi",
-          "Visit Latvian Song and Dance Festival"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.6,
@@ -73830,12 +65067,9 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Trsat Castle",
       "City Tower",
-      "Our Lady of Trsat's Sanctuary",
-      "Rijeka Tunnel",
-      "Marina",
-      "Torpedo – launching ramp",
-      "Petar Kružić staircase",
-      "Maritime and Historical Museum of the Croatian Coast"
+      "Maritime and Historical Museum of the Croatian Coast",
+      "Rijeka’s beaches",
+      "Parks and promenades"
     ],
     "restaurants": [
       {
@@ -73908,7 +65142,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Trsat Castle",
           "Visit City Tower",
-          "Visit Our Lady of Trsat's Sanctuary",
+          "Visit Maritime and Historical Museum of the Croatian Coast",
           "Eat at Restaurants"
         ]
       },
@@ -73916,30 +65150,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Rijeka Tunnel",
-          "Visit Marina",
-          "Visit Torpedo – launching ramp",
-          "Eat at Taverns"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Petar Kružić staircase",
-          "Visit Maritime and Historical Museum of the Croatian Coast",
-          "Visit Kantrida pools",
-          "Eat at Makrovega"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Marco Polo Diving Center",
-          "Visit Astronomical Centre Rijeka",
           "Visit Rijeka’s beaches",
-          "Eat at Buffet Nostalgija"
+          "Visit Parks and promenades",
+          "Eat at Taverns"
         ]
       }
     ],
@@ -74018,11 +65231,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Mangueira",
-      "Salgueiro",
-      "Acadêmicos da Rocinha"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -74030,17 +65239,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Mangueira",
-          "Visit Salgueiro",
-          "Visit Acadêmicos da Rocinha"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.7,
@@ -74117,13 +65316,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Plaza Internacional",
-      "Plaza Artigas",
-      "Parque Gran Bretaña",
-      "Parroquia de la Inmaculada Concepción",
-      "Estadio Atilio Paiva Olivera",
-      "Autódromo Eduardo P. Cabrera",
-      "Valle del Lunarejo",
-      "Cerro Marconi"
+      "Plaza Artigas"
     ],
     "restaurants": [
       {
@@ -74182,38 +65375,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Plaza Internacional",
-          "Visit Plaza Artigas",
-          "Visit Parque Gran Bretaña",
-          "Eat at El Rey de las Empanadas"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Parroquia de la Inmaculada Concepción",
-          "Visit Estadio Atilio Paiva Olivera",
-          "Visit Autódromo Eduardo P. Cabrera",
-          "Eat at La Tuna"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Valle del Lunarejo",
-          "Visit Cerro Marconi",
-          "Visit Kite flying",
-          "Eat at Confitería Metropolitana"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.6,
@@ -74251,14 +65413,9 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Masmak Fortress",
       "Murabba Palace",
       "National Museum",
-      "Royal Saudi Airforce Museum",
-      "As-Sufaat",
-      "Kingdom Centre",
-      "King Fadh Sports City",
-      "KSU Stadium"
+      "Royal Saudi Airforce Museum"
     ],
     "restaurants": [
       {
@@ -74336,30 +65493,10 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Masmak Fortress",
           "Visit Murabba Palace",
           "Visit National Museum",
-          "Eat at Mama Noura Juice Center"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
           "Visit Royal Saudi Airforce Museum",
-          "Visit As-Sufaat",
-          "Visit Kingdom Centre",
-          "Eat at Paragon Family Restaurant"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit King Fadh Sports City",
-          "Visit KSU Stadium",
-          "Visit Prince Faisal bin Fahd Sport City",
-          "Eat at Al Shaya Persian Restaurant"
+          "Eat at Mama Noura Juice Center"
         ]
       }
     ],
@@ -74401,13 +65538,8 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "National Flag Memorial",
-      "El Che Guevara birthplace house",
-      "Parque de la Independencia",
-      "Estadio Gigante de Arroyito",
-      "Paseo del Siglo",
-      "Paseo del Caminante",
-      "Parque de España",
-      "Cathedral Basilica of Our Lady of the Rosary"
+      "Cathedral Basilica of Our Lady of the Rosary",
+      "Islands"
     ],
     "restaurants": [
       {
@@ -74447,37 +65579,9 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit National Flag Memorial",
-          "Visit El Che Guevara birthplace house",
-          "Visit Parque de la Independencia",
-          "Eat at Rincon Vegetarian Restaurant"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Estadio Gigante de Arroyito",
-          "Visit Paseo del Siglo",
-          "Visit Paseo del Caminante",
-          "Eat at Parrilla la Estancia"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Parque de España",
           "Visit Cathedral Basilica of Our Lady of the Rosary",
-          "Visit City Center Rosario",
-          "Eat at Touche de Creme"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Polyglot Meetings",
-          "Visit Islands"
+          "Visit Islands",
+          "Eat at Rincon Vegetarian Restaurant"
         ]
       }
     ],
@@ -74518,11 +65622,9 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "French Quarter",
       "Roseau Cathedral",
       "Dominica Museum",
       "Botanical Gardens",
-      "Emerald Pool",
       "Champagne Beach"
     ],
     "restaurants": [
@@ -74571,9 +65673,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit French Quarter",
           "Visit Roseau Cathedral",
           "Visit Dominica Museum",
+          "Visit Botanical Gardens",
           "Eat at Patty Shack"
         ]
       },
@@ -74581,8 +65683,6 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Botanical Gardens",
-          "Visit Emerald Pool",
           "Visit Champagne Beach",
           "Eat at Urban Garden Cafe"
         ]
@@ -74624,16 +65724,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Six Days of Rotterdam",
-      "IFFR",
-      "Art Rotterdam",
-      "World tennis Tournament",
-      "Motel Mozaique",
-      "Poetry International",
-      "Summer Carnival",
-      "Heerlijk Rotterdam"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -74641,34 +65732,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Six Days of Rotterdam",
-          "Visit IFFR",
-          "Visit Art Rotterdam"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit World tennis Tournament",
-          "Visit Motel Mozaique",
-          "Visit Poetry International"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Summer Carnival",
-          "Visit Heerlijk Rotterdam"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.4,
@@ -74842,11 +65906,8 @@ const raw: Gen[] = [
       "National Transport Museum",
       "Regional Historical Museum",
       "EcoMuseum and Aquarium",
-      "Pantheon of National Revival Heroes",
-      "Kaliopa House",
       "Basarbovo Monastery",
-      "The Rock-hewn Churches of Ivanovo",
-      "Cherven Fortress"
+      "The Rock-hewn Churches of Ivanovo"
     ],
     "restaurants": [],
     "hotels": [
@@ -74883,17 +65944,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Pantheon of National Revival Heroes",
-          "Visit Kaliopa House",
-          "Visit Basarbovo Monastery"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit The Rock-hewn Churches of Ivanovo",
-          "Visit Cherven Fortress"
+          "Visit Basarbovo Monastery",
+          "Visit The Rock-hewn Churches of Ivanovo"
         ]
       }
     ],
@@ -74979,13 +66031,10 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Steel Mill",
       "Rustavi Sioni Church",
       "Friendship Square",
       "WWII Memorial",
-      "Caucasus Auto Trade Center",
       "Rustavi International Motorpark",
-      "Gardabani Managed Nature Reserve",
       "Mravaltskaro Colorful Mountains"
     ],
     "restaurants": [
@@ -75049,9 +66098,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Steel Mill",
           "Visit Rustavi Sioni Church",
           "Visit Friendship Square",
+          "Visit WWII Memorial",
           "Eat at (Bar) Hollywood"
         ]
       },
@@ -75059,20 +66108,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit WWII Memorial",
-          "Visit Caucasus Auto Trade Center",
           "Visit Rustavi International Motorpark",
-          "Eat at Cafe Askili"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Gardabani Managed Nature Reserve",
           "Visit Mravaltskaro Colorful Mountains",
-          "Visit Rustawkalakoba",
-          "Eat at Cafe Ukrainka"
+          "Eat at Cafe Askili"
         ]
       }
     ],
@@ -75268,10 +66306,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Grenada National Museum",
-      "Annandale Waterfall",
-      "Grand Etang",
-      "Seven Sisters",
-      "Concord Falls"
+      "Annandale Waterfall"
     ],
     "restaurants": [
       {
@@ -75295,27 +66330,7 @@ const raw: Gen[] = [
       "Grenada National Museum"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Grenada National Museum",
-          "Visit Annandale Waterfall",
-          "Visit Grand Etang",
-          "Eat at Sails"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Seven Sisters",
-          "Visit Concord Falls",
-          "Eat at Patrick's Restaurant"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -75349,12 +66364,8 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Saint John the Divine Cathedral",
       "Fort James",
-      "Government House",
-      "Parliament of Antigua and Barbuda",
       "Museum of Antigua and Barbuda",
-      "Botanical Garden",
-      "Carnival",
-      "Sir Vivian Richards Stadium"
+      "Botanical Garden"
     ],
     "restaurants": [
       {
@@ -75393,7 +66404,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Saint John the Divine Cathedral",
           "Visit Fort James",
-          "Visit Government House",
+          "Visit Museum of Antigua and Barbuda",
           "Eat at Big Banana"
         ]
       },
@@ -75401,19 +66412,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Parliament of Antigua and Barbuda",
-          "Visit Museum of Antigua and Barbuda",
           "Visit Botanical Garden",
           "Eat at Hemingway's Café"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Carnival",
-          "Visit Sir Vivian Richards Stadium",
-          "Visit Antigua Recreation Ground"
         ]
       }
     ],
@@ -75545,11 +66545,9 @@ const raw: Gen[] = [
       "Al Baleed Archeological Park",
       "Museum of Frankincense Land",
       "Salalah Museum",
-      "Burj an-Nadha",
       "Tomb of Nabi Umran",
       "Sultan Qaboos Grand Mosque",
-      "Sultan Qaboos Palace",
-      "Traditional Dhofari houses"
+      "Sultan Qaboos Palace"
     ],
     "restaurants": [
       {
@@ -75638,30 +66636,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Burj an-Nadha",
           "Visit Tomb of Nabi Umran",
           "Visit Sultan Qaboos Grand Mosque",
-          "Eat at Annapoorna Restaurant"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Sultan Qaboos Palace",
-          "Visit Traditional Dhofari houses",
-          "Visit Salalah Tourism Festival",
-          "Eat at Bin Ateeq"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Khawr Salalah",
-          "Visit Extra Divers Salalah",
-          "Visit SubAqua Dive Center",
-          "Eat at Cascade Tandoori Restaurant"
+          "Eat at Annapoorna Restaurant"
         ]
       }
     ],
@@ -75741,13 +66719,7 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Cabildo Histórico de Salta",
-      "Cerro San Bernardo",
       "MAAM Museum",
-      "Iglesia San Francisco",
-      "Museo Antropológico",
-      "Pajcha",
-      "Museo El Tribuno Guillermo Pajarito Velarde",
       "Museum of President Jose Evaristo Uriburu"
     ],
     "restaurants": [
@@ -75820,38 +66792,7 @@ const raw: Gen[] = [
       "Museum of President Jose Evaristo Uriburu"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Cabildo Histórico de Salta",
-          "Visit Cerro San Bernardo",
-          "Visit MAAM Museum",
-          "Eat at El Buen Gusto Empanadas"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Iglesia San Francisco",
-          "Visit Museo Antropológico",
-          "Visit Pajcha",
-          "Eat at La Céfira"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Museo El Tribuno Guillermo Pajarito Velarde",
-          "Visit Museum of President Jose Evaristo Uriburu",
-          "Visit Tren a las Nubes",
-          "Eat at By Doña Lola"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -75882,16 +66823,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Salto Grande hydroelectric dam",
-      "Costanera",
-      "Muelle Negro",
-      "Casa Horacio Quiroga",
-      "Parque del Lago",
-      "Museo del Hombre y la Tecnología",
-      "Teatro Larrañaga",
-      "Ateneo"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Cafeto",
@@ -75937,37 +66869,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Salto Grande hydroelectric dam",
-          "Visit Costanera",
-          "Visit Muelle Negro",
-          "Eat at Cafeto"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Casa Horacio Quiroga",
-          "Visit Parque del Lago",
-          "Visit Museo del Hombre y la Tecnología",
-          "Eat at La Tuerca"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Teatro Larrañaga",
-          "Visit Ateneo",
-          "Eat at La Trattoria"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.6,
@@ -75998,15 +66900,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Igreja de São Francisco",
-      "Museu Afro-Brasileiro",
-      "Largo do Pelourinho",
-      "Mercado Modelo",
-      "Igreja do Nosso Senhor do Bonfim",
-      "Solar do Unhão",
-      "Farol da Barra"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Bistrô PortoSol",
@@ -76068,36 +66962,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Igreja de São Francisco",
-          "Visit Museu Afro-Brasileiro",
-          "Visit Largo do Pelourinho",
-          "Eat at Bistrô PortoSol"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Mercado Modelo",
-          "Visit Igreja do Nosso Senhor do Bonfim",
-          "Visit Solar do Unhão",
-          "Eat at Companhia da Pizza"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Farol da Barra",
-          "Eat at La Figa"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.6,
@@ -76135,14 +67000,12 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Registan",
       "Bibi-Khanym Mosque",
       "Khazrat-Khizr Mosque",
-      "Shah-i-Zinda Ensemble",
-      "Afrosiab",
       "Tomb of Prophet Daniel",
       "Gur-e-Emir Mausoleum",
-      "Rukhabad Mausoleum"
+      "Rukhabad Mausoleum",
+      "Eternal City and Eternity Square"
     ],
     "restaurants": [
       {
@@ -76223,9 +67086,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Registan",
           "Visit Bibi-Khanym Mosque",
           "Visit Khazrat-Khizr Mosque",
+          "Visit Tomb of Prophet Daniel",
           "Eat at Historic"
         ]
       },
@@ -76233,30 +67096,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Shah-i-Zinda Ensemble",
-          "Visit Afrosiab",
-          "Visit Tomb of Prophet Daniel",
-          "Eat at Cafe Magistr"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Gur-e-Emir Mausoleum",
           "Visit Rukhabad Mausoleum",
           "Visit Eternal City and Eternity Square",
-          "Eat at Old City Restaurant"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Afrasiyab",
-          "Visit Football",
-          "Visit Samarkand Regional Anton Chekhov Russian Drama Theater",
-          "Eat at Joni Osh"
+          "Eat at Cafe Magistr"
         ]
       }
     ],
@@ -76291,14 +67134,11 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Ancient City",
       "Crocodile Farm & Zoo",
       "Erawan Museum",
       "Si Nakhon Khuean Khan Park and Botanical Garden",
-      "Wat Khun Samut Chin",
       "Naval Museum",
-      "Samut Prakan Learning Park and Tower",
-      "Bang Pu Seaside"
+      "Samut Prakan Learning Park and Tower"
     ],
     "restaurants": [
       {
@@ -76347,9 +67187,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Ancient City",
           "Visit Crocodile Farm & Zoo",
           "Visit Erawan Museum",
+          "Visit Si Nakhon Khuean Khan Park and Botanical Garden",
           "Eat at Bang Namphueng Floating Market"
         ]
       },
@@ -76357,17 +67197,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Si Nakhon Khuean Khan Park and Botanical Garden",
-          "Visit Wat Khun Samut Chin",
-          "Visit Naval Museum"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Samut Prakan Learning Park and Tower",
-          "Visit Bang Pu Seaside"
+          "Visit Naval Museum",
+          "Visit Samut Prakan Learning Park and Tower"
         ]
       }
     ],
@@ -76401,12 +67232,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "San Fernando Hill",
-      "Carnegie Library",
-      "Happy Corner Hotel and Bar",
-      "Pointe-à-Pierre Wild Fowl Trust"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -76414,24 +67240,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit San Fernando Hill",
-          "Visit Carnegie Library",
-          "Visit Happy Corner Hotel and Bar"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Pointe-à-Pierre Wild Fowl Trust"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -76468,16 +67277,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Chinese New Year Festivities",
-      "Easter Parade and Spring Celebration",
-      "Fourth of July",
-      "Italian Heritage Parade",
-      "Tree Lighting Ceremony at Ghirardelli Square",
-      "Pink Saturday",
-      "Halloween in the Castro",
-      "Critical Mass"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -76485,34 +67285,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Chinese New Year Festivities",
-          "Visit Easter Parade and Spring Celebration",
-          "Visit Fourth of July"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Italian Heritage Parade",
-          "Visit Tree Lighting Ceremony at Ghirardelli Square",
-          "Visit Pink Saturday"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Halloween in the Castro",
-          "Visit Critical Mass"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -76668,12 +67441,10 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Basilica di San Marino",
-      "Piazza della Libertà",
       "State Museum",
       "St. Francis' Museum",
       "Torture Museum",
-      "Wax Museum",
-      "San Marino Adventures"
+      "Wax Museum"
     ],
     "restaurants": [
       {
@@ -76734,8 +67505,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Basilica di San Marino",
-          "Visit Piazza della Libertà",
           "Visit State Museum",
+          "Visit St. Francis' Museum",
           "Eat at Conad"
         ]
       },
@@ -76743,18 +67514,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit St. Francis' Museum",
           "Visit Torture Museum",
           "Visit Wax Museum",
           "Eat at Sma Supermercati"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit San Marino Adventures",
-          "Eat at Pizzeria Smaller"
         ]
       }
     ],
@@ -76833,11 +67595,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Independence House",
-      "Government House",
-      "San Francisco Church"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -76847,17 +67605,7 @@ const raw: Gen[] = [
       "San Francisco Church"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Independence House",
-          "Visit Government House",
-          "Visit San Francisco Church"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -76971,12 +67719,12 @@ const raw: Gen[] = [
     "thingsToDo": [
       "American Merchant Marine Veterans Memorial",
       "Angel's Gate Lighthouse",
-      "Battleship Iowa",
       "Cabrillo Marine Aquarium",
       "Fort MacArthur Museum",
-      "Korean Bell of Friendship and Bell Pavilion",
       "Los Angeles City Fire Department San Pedro Museum 36",
-      "Los Angeles Maritime Museum"
+      "Los Angeles Maritime Museum",
+      "Angels Gate Cultural Center",
+      "San Pedro Skatepark"
     ],
     "restaurants": [
       {
@@ -77043,7 +67791,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit American Merchant Marine Veterans Memorial",
           "Visit Angel's Gate Lighthouse",
-          "Visit Battleship Iowa",
+          "Visit Cabrillo Marine Aquarium",
           "Eat at Buono's Pizzeria"
         ]
       },
@@ -77051,9 +67799,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Cabrillo Marine Aquarium",
           "Visit Fort MacArthur Museum",
-          "Visit Korean Bell of Friendship and Bell Pavilion",
+          "Visit Los Angeles City Fire Department San Pedro Museum 36",
+          "Visit Los Angeles Maritime Museum",
           "Eat at Busy Bee Market"
         ]
       },
@@ -77061,20 +67809,10 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Los Angeles City Fire Department San Pedro Museum 36",
-          "Visit Los Angeles Maritime Museum",
           "Visit Angels Gate Cultural Center",
-          "Eat at Pacific Diner"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit LA Waterfront Cruises",
-          "Visit Grunion run",
           "Visit San Pedro Skatepark",
-          "Eat at Rex's Cafe"
+          "Visit Knoll Hill Dog Park",
+          "Eat at Pacific Diner"
         ]
       }
     ],
@@ -77166,9 +67904,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Museum of Anthropology & History"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Hilton Princess San Pedro Sula",
@@ -77257,8 +67993,7 @@ const raw: Gen[] = [
       "Monument of Memory and Truth",
       "Rosario Church",
       "Dr. David J. Guzmán National Museum",
-      "Museum of Art of El Salvador",
-      "Monseñor Romero Center"
+      "Museum of Art of El Salvador"
     ],
     "restaurants": [
       {
@@ -77354,17 +68089,7 @@ const raw: Gen[] = [
         "title": "Markets, parks & hidden corners",
         "activities": [
           "Visit Museum of Art of El Salvador",
-          "Visit Monseñor Romero Center",
-          "Visit National Theatre of El Salvador",
           "Eat at Restaurante Pasquale"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Teatro Presidente",
-          "Eat at Tre fratelli"
         ]
       }
     ],
@@ -77405,10 +68130,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Bab al-Yaman",
       "National Museum of Yemen",
       "Military Museum",
-      "Wadi Dhahr",
       "Great Mosque of Sana'a",
       "Al Saleh Mosque"
     ],
@@ -77474,9 +68197,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Bab al-Yaman",
           "Visit National Museum of Yemen",
           "Visit Military Museum",
+          "Visit Great Mosque of Sana'a",
           "Eat at Al Shamiri Plaza hotel"
         ]
       },
@@ -77484,8 +68207,6 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Wadi Dhahr",
-          "Visit Great Mosque of Sana'a",
           "Visit Al Saleh Mosque",
           "Eat at Merkato Ethiopian Food"
         ]
@@ -77607,13 +68328,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Climb the church tower",
-      "Jardín Botánico Municipal",
-      "Sloths of Cotoca",
-      "CineCenter",
-      "Estadio Ramón Tahuichi Aguilera",
-      "Bowling",
-      "Plaza 24 de Septiembre",
-      "Cabañas del Rio Pirai"
+      "Plaza 24 de Septiembre"
     ],
     "restaurants": [
       {
@@ -77678,39 +68393,11 @@ const raw: Gen[] = [
       "La Bodeguita",
       "Duda Bar"
     ],
-    "museums": [],
-    "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Climb the church tower",
-          "Visit Jardín Botánico Municipal",
-          "Visit Sloths of Cotoca",
-          "Eat at El Aljibe"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit CineCenter",
-          "Visit Estadio Ramón Tahuichi Aguilera",
-          "Visit Bowling",
-          "Eat at Design Center"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Plaza 24 de Septiembre",
-          "Visit Cabañas del Rio Pirai",
-          "Eat at Los Lomitos"
-        ]
-      }
+    "museums": [
+      "Climb the church tower"
     ],
+    "localFoods": [],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -77742,9 +68429,7 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Paseo el Carmen:",
       "Daniel Hernández Park",
-      "Museo Tecleño:",
       "Joya de Ceren Archaeological Park",
       "Plaza Merliot"
     ],
@@ -77796,19 +68481,10 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Paseo el Carmen:",
           "Visit Daniel Hernández Park",
-          "Visit Museo Tecleño:",
-          "Eat at Street vendors"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
           "Visit Joya de Ceren Archaeological Park",
           "Visit Plaza Merliot",
-          "Eat at Pupuserias"
+          "Eat at Street vendors"
         ]
       }
     ],
@@ -77848,14 +68524,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Turistik Santiago Hop on – Hop off",
-      "Vineyards",
-      "Viña Cousiño Macul",
-      "Viña Concha y Toro",
-      "Viña Emiliana",
-      "Paso de Uspallata (between Chile and Argentina)"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -77863,26 +68532,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Turistik Santiago Hop on – Hop off",
-          "Visit Vineyards",
-          "Visit Viña Cousiño Macul"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Viña Concha y Toro",
-          "Visit Viña Emiliana",
-          "Visit Paso de Uspallata (between Chile and Argentina)"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -77919,16 +68569,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Parque Céspedes",
-      "Plaza de Marte",
-      "Museo Provincial \"Emilio Bacardí Moreau\"",
-      "Balcon de Velazquez",
-      "San Juan Hill",
-      "Castillo San Pedro de la Roca",
-      "La Gran Piedra",
-      "Valle de la Prehistoria"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Paladar Salon Tropical",
@@ -77972,36 +68613,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Parque Céspedes",
-          "Visit Plaza de Marte",
-          "Visit Museo Provincial \"Emilio Bacardí Moreau\"",
-          "Eat at Paladar Salon Tropical"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Balcon de Velazquez",
-          "Visit San Juan Hill",
-          "Visit Castillo San Pedro de la Roca"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit La Gran Piedra",
-          "Visit Valle de la Prehistoria",
-          "Visit Casa de la Trova"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.4,
@@ -78038,11 +68650,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Centro Leon",
-      "Monument of Santiago",
-      "Calle El Sol"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Hotel Aloha Sol",
@@ -78068,17 +68676,7 @@ const raw: Gen[] = [
       "Monument of Santiago"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Centro Leon",
-          "Visit Monument of Santiago",
-          "Visit Calle El Sol"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.4,
@@ -78161,14 +68759,14 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Colonial Zone",
       "Basilica Cathedral of Santa María la Menor",
-      "Fortaleza Ozama",
-      "Malecon",
       "Plaza de la Cultura",
-      "Eco-tourism",
-      "Eastern Santo Domingo",
-      "Faro a Colon"
+      "Mirador Sur Park",
+      "Enriquillo Park",
+      "Columbus Park",
+      "Independencia Park",
+      "Dominican Republic National Zoo",
+      "Dr. Rafael Ma. Moscoso National Botanical Garden"
     ],
     "restaurants": [
       {
@@ -78244,9 +68842,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Colonial Zone",
           "Visit Basilica Cathedral of Santa María la Menor",
-          "Visit Fortaleza Ozama",
+          "Visit Plaza de la Cultura",
+          "Visit Mirador Sur Park",
           "Eat at Adrian Tropical Food"
         ]
       },
@@ -78254,9 +68852,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Malecon",
-          "Visit Plaza de la Cultura",
-          "Visit Eco-tourism",
+          "Visit Enriquillo Park",
+          "Visit Columbus Park",
+          "Visit Independencia Park",
           "Eat at TGI Fridays"
         ]
       },
@@ -78264,20 +68862,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Eastern Santo Domingo",
-          "Visit Faro a Colon",
-          "Visit Mirador Sur Park",
+          "Visit Dominican Republic National Zoo",
+          "Visit Dr. Rafael Ma. Moscoso National Botanical Garden",
           "Eat at Tony Roma's"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Enriquillo Park",
-          "Visit Columbus Park",
-          "Visit Independencia Park",
-          "Eat at Outback Steak House"
         ]
       }
     ],
@@ -78455,15 +69042,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Banespa Tower",
-      "Restaurant Skye, Hotel Unique",
-      "São Paulo Jockey Club",
-      "TurisMetrô",
-      "São Paulo Carnival",
-      "Gay Pride Parade",
-      "Virada Cultural"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -78471,33 +69050,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Banespa Tower",
-          "Visit Restaurant Skye, Hotel Unique",
-          "Visit São Paulo Jockey Club"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit TurisMetrô",
-          "Visit São Paulo Carnival",
-          "Visit Gay Pride Parade"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Virada Cultural"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.4,
@@ -78535,10 +69088,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Our Lady of Grace Cathedral/Cathedral of São Tomé",
       "Presidential Palace",
       "São Tomé National Museum",
-      "Cascata de São Nicolau",
       "Obo Natural Park"
     ],
     "restaurants": [
@@ -78590,7 +69141,6 @@ const raw: Gen[] = [
       "Envy Bar STP"
     ],
     "museums": [
-      "Our Lady of Grace Cathedral/Cathedral of São Tomé",
       "Presidential Palace",
       "São Tomé National Museum"
     ],
@@ -78600,19 +69150,10 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Our Lady of Grace Cathedral/Cathedral of São Tomé",
           "Visit Presidential Palace",
           "Visit São Tomé National Museum",
-          "Eat at Casa Museum Almada Negreiros"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Cascata de São Nicolau",
           "Visit Obo Natural Park",
-          "Eat at Chez Tete"
+          "Eat at Casa Museum Almada Negreiros"
         ]
       }
     ],
@@ -78658,8 +69199,6 @@ const raw: Gen[] = [
       "Ōdōri Park",
       "Sapporo TV Tower",
       "Sapporo Beer Museum",
-      "Hokkaido Pioneer Village",
-      "Moiwayama",
       "Asahiyama Park"
     ],
     "restaurants": [
@@ -78742,28 +69281,8 @@ const raw: Gen[] = [
         "activities": [
           "Visit Sapporo TV Tower",
           "Visit Sapporo Beer Museum",
-          "Visit Hokkaido Pioneer Village",
-          "Eat at Aji No Tokeidai"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Moiwayama",
           "Visit Asahiyama Park",
-          "Visit Sapporo Snow Festival",
-          "Eat at Ramen Yokochō"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Mt. Teine",
-          "Visit Skiing",
-          "Visit Hoheikyo Onsen",
-          "Eat at Sapporo Beer Garden"
+          "Eat at Aji No Tokeidai"
         ]
       }
     ],
@@ -78805,13 +69324,10 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Avaz Twist Tower",
-      "Sebilj",
       "Sacred Heart Cathedral",
-      "Morića Inn",
       "Clock Tower",
-      "Tašlihan",
-      "City Hall",
-      "Officers’ Casino"
+      "Skakavac Waterfall",
+      "Sarajevo Zoo"
     ],
     "restaurants": [
       {
@@ -78883,8 +69399,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Avaz Twist Tower",
-          "Visit Sebilj",
           "Visit Sacred Heart Cathedral",
+          "Visit Clock Tower",
           "Eat at Buregdžinica Bosna"
         ]
       },
@@ -78892,30 +69408,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Morića Inn",
-          "Visit Clock Tower",
-          "Visit Tašlihan",
+          "Visit Skakavac Waterfall",
+          "Visit Sarajevo Zoo",
           "Eat at Fan Ferhatović"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit City Hall",
-          "Visit Officers’ Casino",
-          "Visit Cable car",
-          "Eat at Ćevabdžinica Željo 3"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit National Theatre",
-          "Visit Fox in a Box",
-          "Visit Inside the Siege: Sarajevo's Story of Survival",
-          "Eat at Sač"
         ]
       }
     ],
@@ -78999,12 +69494,8 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Dinosaur Museum",
       "Historic Downtown Exhibition",
-      "Old French colonial buildings",
       "Co-Cathedral of St. Therese",
-      "That Ing Hang Stupa",
-      "Wat Sayaphoum",
-      "Dong Natad Forest",
-      "Savan Vegas Casino"
+      "That Ing Hang Stupa"
     ],
     "restaurants": [
       {
@@ -79075,7 +69566,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Dinosaur Museum",
           "Visit Historic Downtown Exhibition",
-          "Visit Old French colonial buildings",
+          "Visit Co-Cathedral of St. Therese",
           "Eat at Dolly's Café"
         ]
       },
@@ -79083,30 +69574,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Co-Cathedral of St. Therese",
           "Visit That Ing Hang Stupa",
-          "Visit Wat Sayaphoum",
           "Eat at Lin's Café"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Dong Natad Forest",
-          "Visit Savan Vegas Casino",
-          "Visit Teach English",
-          "Eat at Sabaidee Restaurant"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Vassana spa & beauty",
-          "Visit That Phon Festival",
-          "Visit Heuan Hin Festival",
-          "Eat at Dao Savanh"
         ]
       }
     ],
@@ -79311,9 +69780,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Grand Friday Mosque of Ségou"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Hotel l'Auberge",
@@ -79392,8 +69859,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Fort San Sebastian",
-      "Fort Orange",
-      "Sekondi-Takoradi Stadium"
+      "Fort Orange"
     ],
     "restaurants": [
       {
@@ -79441,18 +69907,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Fort San Sebastian",
-          "Visit Fort Orange",
-          "Visit Sekondi-Takoradi Stadium",
-          "Eat at God Is Love Chopbar"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.4,
@@ -79585,7 +70040,9 @@ const raw: Gen[] = [
     "stays": [],
     "shopping": [],
     "nightlife": [],
-    "museums": [],
+    "museums": [
+      "National Museum of Korea"
+    ],
     "localFoods": [],
     "itinerary": [],
     "hiddenGems": [],
@@ -79628,8 +70085,7 @@ const raw: Gen[] = [
       "Kololi Beach",
       "Kotu Beach",
       "Bakau Beach",
-      "Bijilo Forest Park",
-      "Kachikally Sacred Crocodile Pool"
+      "Bijilo Forest Park"
     ],
     "restaurants": [],
     "hotels": [
@@ -79670,8 +70126,7 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Bijilo Forest Park",
-          "Visit Kachikally Sacred Crocodile Pool"
+          "Visit Bijilo Forest Park"
         ]
       }
     ],
@@ -79839,13 +70294,8 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Cathedral",
-      "Real Alcázar",
-      "Hospital de los Venerables",
-      "Torre del Oro",
-      "Alameda de Hercules",
-      "Parque María Luisa",
-      "Palacio de Las Dueñas",
-      "Plaza de España"
+      "Plaza de España",
+      "Plaza de Toros de la Real Maestranza"
     ],
     "restaurants": [
       {
@@ -79928,39 +70378,9 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Cathedral",
-          "Visit Real Alcázar",
-          "Visit Hospital de los Venerables",
-          "Eat at Bodeguita Romero"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Torre del Oro",
-          "Visit Alameda de Hercules",
-          "Visit Parque María Luisa",
-          "Eat at El Librero Tapas y Quesos"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Palacio de Las Dueñas",
           "Visit Plaza de España",
-          "Visit Museo del Baile Flamenco",
-          "Eat at Los Coloniales"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit La Casa del Flamenco",
-          "Visit La Carbonería",
-          "Visit Semana Santa",
-          "Eat at Duo Tapas"
+          "Visit Plaza de Toros de la Real Maestranza",
+          "Eat at Bodeguita Romero"
         ]
       }
     ],
@@ -80002,8 +70422,6 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Archaeological Museum of Sfax",
-      "Kasbah",
-      "Dar Djellouli",
       "Blacksmith's Souk"
     ],
     "restaurants": [
@@ -80061,26 +70479,7 @@ const raw: Gen[] = [
       "Archaeological Museum of Sfax"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Archaeological Museum of Sfax",
-          "Visit Kasbah",
-          "Visit Dar Djellouli",
-          "Eat at La perla"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Blacksmith's Souk",
-          "Eat at Le Corail"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -80119,8 +70518,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Sultan Salahuddin Abdul Aziz Shah Mosque",
-      "Shah Alam Agricultural Park (Taman Pertanian)",
-      "Snowalk I-City"
+      "Shah Alam Agricultural Park (Taman Pertanian)"
     ],
     "restaurants": [
       {
@@ -80173,18 +70571,7 @@ const raw: Gen[] = [
       "Sultan Salahuddin Abdul Aziz Shah Mosque"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Sultan Salahuddin Abdul Aziz Shah Mosque",
-          "Visit Shah Alam Agricultural Park (Taman Pertanian)",
-          "Visit Snowalk I-City",
-          "Eat at Bangkok House"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.4,
@@ -80221,14 +70608,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Shanghai/Huangpu#The Bund",
-      "Shikumen Buildings",
-      "Garden Villas",
-      "Huju",
-      "Shanghai-style Pingtan",
-      "China Odyssey Tours"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -80238,26 +70618,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Shanghai/Huangpu#The Bund",
-          "Visit Shikumen Buildings",
-          "Visit Garden Villas"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Huju",
-          "Visit Shanghai-style Pingtan",
-          "Visit China Odyssey Tours"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -80297,8 +70658,6 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Al Hisn Fort",
       "Sharjah Museum of Islamic Civilization",
-      "Bait al-Naboodah",
-      "Souq al-Arsah",
       "Sharjah Calligraphy Museum",
       "Sharjah Heritage Museum",
       "Sharjah Art Museum",
@@ -80375,7 +70734,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Al Hisn Fort",
           "Visit Sharjah Museum of Islamic Civilization",
-          "Visit Bait al-Naboodah",
+          "Visit Sharjah Calligraphy Museum",
           "Eat at Mushmaool Arabic Grill Restaurant"
         ]
       },
@@ -80383,20 +70742,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Souq al-Arsah",
-          "Visit Sharjah Calligraphy Museum",
           "Visit Sharjah Heritage Museum",
-          "Eat at Seashells"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Sharjah Art Museum",
           "Visit Sharjah Archeology Museum",
-          "Visit Sharjah Cricket Stadium",
-          "Eat at Lasani"
+          "Eat at Seashells"
         ]
       }
     ],
@@ -80439,12 +70788,11 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Anglican Cathedral",
       "Arts Tower",
-      "Barker's Pool",
       "Catholic Cathedral",
-      "Central Library",
       "Cholera Monument",
       "Hillsborough Disaster Memorial",
-      "Park Hill"
+      "Park Hill",
+      "Theatre in the Gardens"
     ],
     "restaurants": [
       {
@@ -80526,7 +70874,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Anglican Cathedral",
           "Visit Arts Tower",
-          "Visit Barker's Pool",
+          "Visit Catholic Cathedral",
           "Eat at Béres"
         ]
       },
@@ -80534,9 +70882,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Catholic Cathedral",
-          "Visit Central Library",
           "Visit Cholera Monument",
+          "Visit Hillsborough Disaster Memorial",
+          "Visit Park Hill",
           "Eat at Coopland's Bakery"
         ]
       },
@@ -80544,20 +70892,8 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Hillsborough Disaster Memorial",
-          "Visit Park Hill",
-          "Visit Sheffield Food Festival",
-          "Eat at Spoilt For Choice"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Yorkshire Cosplay Con",
-          "Visit Sheffield Doc/Fest",
           "Visit Theatre in the Gardens",
-          "Eat at Woody's Sandwich Bar"
+          "Eat at Spoilt For Choice"
         ]
       }
     ],
@@ -80636,9 +70972,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Shenzhen International Marathon"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -80693,14 +71027,14 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Arg of Karim Khan",
-      "Shah Cheragh",
       "Nasir al-Mulk Mosque",
       "Jame’e Atigh Mosque",
       "Vakil Mosque",
       "Narenjestan Ghavam museum",
-      "Khan-e Zinat ol-Molk House",
-      "Sayyed Alaeddin Hossein Mosque"
+      "Sayyed Alaeddin Hossein Mosque",
+      "Delgosha Garden",
+      "Afif abad Garden",
+      "Eram Garden"
     ],
     "restaurants": [
       {
@@ -80782,9 +71116,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Arg of Karim Khan",
-          "Visit Shah Cheragh",
           "Visit Nasir al-Mulk Mosque",
+          "Visit Jame’e Atigh Mosque",
+          "Visit Vakil Mosque",
           "Eat at Haft khan"
         ]
       },
@@ -80792,9 +71126,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Jame’e Atigh Mosque",
-          "Visit Vakil Mosque",
           "Visit Narenjestan Ghavam museum",
+          "Visit Sayyed Alaeddin Hossein Mosque",
+          "Visit Delgosha Garden",
           "Eat at Shater Abbas"
         ]
       },
@@ -80802,20 +71136,10 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Khan-e Zinat ol-Molk House",
-          "Visit Sayyed Alaeddin Hossein Mosque",
-          "Visit Delgosha Garden",
-          "Eat at Sharzeh Restaurant"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
           "Visit Afif abad Garden",
           "Visit Eram Garden",
           "Visit Jahan Nama Garden",
-          "Eat at Dragon"
+          "Eat at Sharzeh Restaurant"
         ]
       }
     ],
@@ -80856,14 +71180,13 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Kalaja/Rozafa Fortress",
       "Shkodër Historical Museum",
       "Marubi National Museum of Photography",
       "Lake Shkodra",
       "Five Heroes monument",
       "Museum of Witness & Memory",
-      "Kinema Republika",
-      "Lead Mosque"
+      "Lead Mosque",
+      "Molo Promenade"
     ],
     "restaurants": [
       {
@@ -80945,9 +71268,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Kalaja/Rozafa Fortress",
           "Visit Shkodër Historical Museum",
           "Visit Marubi National Museum of Photography",
+          "Visit Lake Shkodra",
           "Eat at Te Naili"
         ]
       },
@@ -80955,9 +71278,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Lake Shkodra",
           "Visit Five Heroes monument",
           "Visit Museum of Witness & Memory",
+          "Visit Lead Mosque",
           "Eat at Taverna Ulqini"
         ]
       },
@@ -80965,20 +71288,8 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Kinema Republika",
-          "Visit Lead Mosque",
-          "Visit Kolë Idromeno St.",
-          "Eat at Shkreli fast food"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
           "Visit Molo Promenade",
-          "Visit Canoeing in Bojana (Buna) River",
-          "Visit Festivals",
-          "Eat at Shega e Eger"
+          "Eat at Shkreli fast food"
         ]
       }
     ],
@@ -81160,7 +71471,6 @@ const raw: Gen[] = [
         "activities": [
           "Visit Park Ken-Baba",
           "Visit Abay Park",
-          "Visit Russian Drama theatre",
           "Eat at Душевная кухня restaurant"
         ]
       }
@@ -81203,13 +71513,11 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Angel Museum",
-      "Bicycle Museum",
       "Photography Museum",
       "Rooster Clock Square",
       "Chocolate Museum",
       "St George's Church",
-      "Sundial Square",
-      "Old city cemetery"
+      "Sundial Square"
     ],
     "restaurants": [
       {
@@ -81253,7 +71561,6 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [
       "Angel Museum",
-      "Bicycle Museum",
       "Photography Museum",
       "Chocolate Museum",
       "St George's Church"
@@ -81265,8 +71572,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Angel Museum",
-          "Visit Bicycle Museum",
           "Visit Photography Museum",
+          "Visit Rooster Clock Square",
           "Eat at Senasis Sodzius"
         ]
       },
@@ -81274,19 +71581,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Rooster Clock Square",
           "Visit Chocolate Museum",
           "Visit St George's Church",
-          "Eat at Arkos"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Sundial Square",
-          "Visit Old city cemetery",
-          "Eat at Kapitonas Morganas"
+          "Eat at Arkos"
         ]
       }
     ],
@@ -81328,9 +71626,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Sidon Sea Castle",
-      "Eshmun Temple",
-      "Fishing port",
-      "Djebel"
+      "Eshmun Temple"
     ],
     "restaurants": [],
     "hotels": [
@@ -81349,24 +71645,7 @@ const raw: Gen[] = [
       "Eshmun Temple"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Sidon Sea Castle",
-          "Visit Eshmun Temple",
-          "Visit Fishing port"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Djebel"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.7,
@@ -81405,13 +71684,8 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Angkor National Museum",
-      "APOPO",
       "Angkor Botanical Garden",
-      "Lotus Silk Farm",
-      "Angkor Eye",
-      "Flying Foxes",
-      "Wat Bo",
-      "Wat Damnak"
+      "Wake Park"
     ],
     "restaurants": [
       {
@@ -81504,39 +71778,9 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Angkor National Museum",
-          "Visit APOPO",
           "Visit Angkor Botanical Garden",
+          "Visit Wake Park",
           "Eat at The Red Piano"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Lotus Silk Farm",
-          "Visit Angkor Eye",
-          "Visit Flying Foxes",
-          "Eat at Viva"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Wat Bo",
-          "Visit Wat Damnak",
-          "Visit Angkor Pottery Center",
-          "Eat at Williams Fish and Chips"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Samatoa Experience",
-          "Visit Pottery Classes & Painting classes",
-          "Visit Kameng Leng ~ Daycare, Playground & Restaurant",
-          "Eat at Common Grounds Restaurant"
         ]
       }
     ],
@@ -81574,11 +71818,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "The Mamelon",
-      "Missiricoro caves",
-      "Farako falls"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Hotel Tata",
@@ -81597,17 +71837,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit The Mamelon",
-          "Visit Missiricoro caves",
-          "Visit Farako falls"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.4,
@@ -81644,16 +71874,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "National University of Singapore (NUS)",
-      "Nanyang Technological University (NTU)",
-      "Singapore Management University (SMU)",
-      "Singapore University of Technology and Design (SUTD)",
-      "Singapore University of Social Sciences (SUSS)",
-      "SP Jain School of Global Management (SPJ)",
-      "INSEAD",
-      "University of Chicago Booth School of Business"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -81661,34 +71882,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit National University of Singapore (NUS)",
-          "Visit Nanyang Technological University (NTU)",
-          "Visit Singapore Management University (SMU)"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Singapore University of Technology and Design (SUTD)",
-          "Visit Singapore University of Social Sciences (SUSS)",
-          "Visit SP Jain School of Global Management (SPJ)"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit INSEAD",
-          "Visit University of Chicago Booth School of Business"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -81777,14 +71971,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Tumba archaeological site",
-      "Cerje archaeological site",
-      "Gradishte",
       "Marko's Castle",
-      "Remains of Skupi",
-      "Stroll through the town",
-      "Skopje Summer Festival",
-      "Offest"
+      "May Opera Evenings"
     ],
     "restaurants": [
       {
@@ -81820,48 +72008,7 @@ const raw: Gen[] = [
       "Marko's Castle"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Tumba archaeological site",
-          "Visit Cerje archaeological site",
-          "Visit Gradishte",
-          "Eat at Pelister"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Marko's Castle",
-          "Visit Remains of Skupi",
-          "Visit Stroll through the town",
-          "Eat at Restaurant Old House"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Skopje Summer Festival",
-          "Visit Offest",
-          "Visit Skopje Jazz Festival",
-          "Eat at Dropstop Gastrobar"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit May Opera Evenings",
-          "Visit Autumn Music",
-          "Visit Vino Skop",
-          "Eat at Amigos Mexican Restaurant & Bar"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.7,
@@ -81898,9 +72045,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Malta Blue Diving"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Sliema Wanderers",
@@ -81990,12 +72135,12 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Sofia History Museum",
       "National Museum of Military History",
-      "Institute of Ethnology and Folklore Studies with Ethnographic Museum",
       "Earth and Man National Museum",
       "National Museum of History",
-      "National Institute of Archaeology and Museum",
       "National Polytechnic Museum",
-      "National Museum of Natural History"
+      "National Museum of Natural History",
+      "Sofia Opera and Ballet",
+      "National Palace of Culture"
     ],
     "restaurants": [
       {
@@ -82058,10 +72203,10 @@ const raw: Gen[] = [
     "museums": [
       "Sofia History Museum",
       "National Museum of Military History",
-      "Institute of Ethnology and Folklore Studies with Ethnographic Museum",
       "Earth and Man National Museum",
       "National Museum of History",
-      "National Institute of Archaeology and Museum"
+      "National Polytechnic Museum",
+      "National Museum of Natural History"
     ],
     "localFoods": [],
     "itinerary": [
@@ -82071,7 +72216,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Sofia History Museum",
           "Visit National Museum of Military History",
-          "Visit Institute of Ethnology and Folklore Studies with Ethnographic Museum",
+          "Visit Earth and Man National Museum",
           "Eat at Veselata Gozba Restaurant"
         ]
       },
@@ -82079,9 +72224,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Earth and Man National Museum",
           "Visit National Museum of History",
-          "Visit National Institute of Archaeology and Museum",
+          "Visit National Polytechnic Museum",
+          "Visit National Museum of Natural History",
           "Eat at Gastrobar 6"
         ]
       },
@@ -82089,20 +72234,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit National Polytechnic Museum",
-          "Visit National Museum of Natural History",
-          "Visit Sofia Bike Tour",
-          "Eat at Ali Baba"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Playgrounds",
           "Visit Sofia Opera and Ballet",
-          "Visit Arena Cinema",
-          "Eat at Dream House"
+          "Visit National Palace of Culture",
+          "Eat at Ali Baba"
         ]
       }
     ],
@@ -82145,12 +72279,12 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Promenade",
       "Beslet arcaded bridge",
-      "Sukhum fortress",
       "Castle of Bagrat III",
       "Great Abkhazian Wall",
-      "Sukhumi lighthouse",
       "Cathedral of the Annunciation",
-      "Abkhazian State Museum"
+      "Abkhazian State Museum",
+      "Botanical garden",
+      "Monkey park"
     ],
     "restaurants": [
       {
@@ -82226,7 +72360,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Promenade",
           "Visit Beslet arcaded bridge",
-          "Visit Sukhum fortress",
+          "Visit Castle of Bagrat III",
           "Eat at Sushi Restaurant and Bar \"Kibo\""
         ]
       },
@@ -82234,9 +72368,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Castle of Bagrat III",
           "Visit Great Abkhazian Wall",
-          "Visit Sukhumi lighthouse",
+          "Visit Cathedral of the Annunciation",
+          "Visit Abkhazian State Museum",
           "Eat at Restaurant Amra"
         ]
       },
@@ -82244,20 +72378,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Cathedral of the Annunciation",
-          "Visit Abkhazian State Museum",
-          "Visit Abkhazian Drama Theater",
-          "Eat at Bely Parus"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Abkhazian State Philarmonic",
           "Visit Botanical garden",
           "Visit Monkey park",
-          "Eat at Café Lika"
+          "Eat at Bely Parus"
         ]
       }
     ],
@@ -82336,10 +72459,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Kifubwa National Monument",
-      "Mutanda Falls"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Kanshansi Clubhouse",
@@ -82410,11 +72530,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Grand Mosque of Sousse",
-      "Sousse Ribat",
       "Sousse Archaeological Museum",
-      "Musee Dar Essid",
-      "The Sousse Catacombs",
-      "Eglise St Felix",
       "Synagogue Keter Torah"
     ],
     "restaurants": [],
@@ -82450,23 +72566,7 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Grand Mosque of Sousse",
-          "Visit Sousse Ribat",
-          "Visit Sousse Archaeological Museum"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Musee Dar Essid",
-          "Visit The Sousse Catacombs",
-          "Visit Eglise St Felix"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
+          "Visit Sousse Archaeological Museum",
           "Visit Synagogue Keter Torah"
         ]
       }
@@ -82551,10 +72651,8 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Nelson Mandela National Museum",
       "Hector Pietersen Museum",
-      "Credo Mutwa Cultural Village",
       "Regina Mundi Catholic Church",
-      "Petrus Molefe Eco Park",
-      "Soweto Theatre"
+      "Petrus Molefe Eco Park"
     ],
     "restaurants": [
       {
@@ -82612,7 +72710,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Nelson Mandela National Museum",
           "Visit Hector Pietersen Museum",
-          "Visit Credo Mutwa Cultural Village",
+          "Visit Regina Mundi Catholic Church",
           "Eat at B's Place"
         ]
       },
@@ -82620,9 +72718,7 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Regina Mundi Catholic Church",
           "Visit Petrus Molefe Eco Park",
-          "Visit Soweto Theatre",
           "Eat at Sakhumzi Restaurant"
         ]
       }
@@ -82744,14 +72840,12 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Peristylium",
-      "Katedrala sv. Duje",
       "St. Duje's bell tower",
       "Jupiter temple",
-      "Getski vrtal",
       "Basement halls of Diocletian's Palace",
-      "Galerija Meštrović",
-      "Archaeological Museum"
+      "Archaeological Museum",
+      "Split city beach",
+      "Beach at Bačvice"
     ],
     "restaurants": [
       {
@@ -82819,9 +72913,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Peristylium",
-          "Visit Katedrala sv. Duje",
           "Visit St. Duje's bell tower",
+          "Visit Jupiter temple",
+          "Visit Basement halls of Diocletian's Palace",
           "Eat at Pizza Cut Planet 1"
         ]
       },
@@ -82829,30 +72923,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Jupiter temple",
-          "Visit Getski vrtal",
-          "Visit Basement halls of Diocletian's Palace",
-          "Eat at Vege"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Galerija Meštrović",
           "Visit Archaeological Museum",
           "Visit Split city beach",
-          "Eat at Sandwich Bar Rizzo"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Picigin",
-          "Visit Grgur Ninski",
-          "Visit HNK Hajduk Split",
-          "Eat at Ba!Će"
+          "Visit Beach at Bačvice",
+          "Eat at Vege"
         ]
       }
     ],
@@ -82976,13 +73050,11 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Stavanger Cathedral",
-      "Gamle Stavanger",
-      "Fargegaten",
-      "Tou Scene",
       "St. Petri Church",
-      "MS Rogaland",
-      "MS Sandnes",
-      "Valbergtårnet"
+      "Hiking trail from Rosenli Beach to Godalen Beach",
+      "Swim at Godalen Beach",
+      "Swim at Rosenli Beach",
+      "Swim at Lervig's Park"
     ],
     "restaurants": [
       {
@@ -83058,8 +73130,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Stavanger Cathedral",
-          "Visit Gamle Stavanger",
-          "Visit Fargegaten",
+          "Visit St. Petri Church",
+          "Visit Hiking trail from Rosenli Beach to Godalen Beach",
           "Eat at Fortou"
         ]
       },
@@ -83067,30 +73139,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Tou Scene",
-          "Visit St. Petri Church",
-          "Visit MS Rogaland",
-          "Eat at Sabi Sushi"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit MS Sandnes",
-          "Visit Valbergtårnet",
-          "Visit Preikestolen (Pulpit Rock)",
-          "Eat at No 28 Pizza Pub"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Bus to Kjerag",
-          "Visit Hiking trail from Rosenli Beach to Godalen Beach",
           "Visit Swim at Godalen Beach",
-          "Eat at Straen Fiskerestaurant"
+          "Visit Swim at Rosenli Beach",
+          "Visit Swim at Lervig's Park",
+          "Eat at Sabi Sushi"
         ]
       }
     ],
@@ -83130,15 +73182,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Hop On - Hop Off Boat",
-      "Under the bridges of Stockholm",
-      "Royal Canal Tour",
-      "Historical Canal Tour",
-      "Stockholm Grand Tour",
-      "Stockholm Panorama",
-      "Talk of the town"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -83153,33 +73197,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Hop On - Hop Off Boat",
-          "Visit Under the bridges of Stockholm",
-          "Visit Royal Canal Tour"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Historical Canal Tour",
-          "Visit Stockholm Grand Tour",
-          "Visit Stockholm Panorama"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Talk of the town"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -83254,9 +73272,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Ave Maria Church"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Eastern Dragon",
@@ -83333,14 +73349,10 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Cal Orck'o",
-      "Casa de la Libertad",
       "Plaza 25 de Mayo",
       "Glorieta Castle",
       "National Military History Museum",
-      "Museo del Tesoro",
-      "Cathedral Basilica of Our Lady of Guadalupe",
-      "Basílica de San Francisco"
+      "Cathedral Basilica of Our Lady of Guadalupe"
     ],
     "restaurants": [
       {
@@ -83421,9 +73433,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Cal Orck'o",
-          "Visit Casa de la Libertad",
           "Visit Plaza 25 de Mayo",
+          "Visit Glorieta Castle",
+          "Visit National Military History Museum",
           "Eat at Patio de Comidas"
         ]
       },
@@ -83431,30 +73443,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Glorieta Castle",
-          "Visit National Military History Museum",
-          "Visit Museo del Tesoro",
-          "Eat at Condor Cafe"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Cathedral Basilica of Our Lady of Guadalupe",
-          "Visit Basílica de San Francisco",
-          "Visit La Recoleta",
-          "Eat at Bohemio's"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Parque Simón Bolívar",
-          "Visit Independence Day",
-          "Visit International Human Rights Film Festival",
-          "Eat at Florin"
+          "Eat at Condor Cafe"
         ]
       }
     ],
@@ -83750,14 +73740,11 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Jembatan Merah",
       "The Suramadu Bridge",
       "Tugu Pahlawan & Museum Sepuluh November",
-      "Monumen Jalasveva Jayamahe",
-      "Monumen Kapal Selam (KRI Pasopati (410))",
-      "Monumen Pers Perjuangan Surabaya",
       "Museum Kesehatan dr. Adhyatma, MPH",
-      "Museum Rudi Isbandi"
+      "Museum Rudi Isbandi",
+      "Ciputra Waterpark"
     ],
     "restaurants": [
       {
@@ -83838,9 +73825,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Jembatan Merah",
           "Visit The Suramadu Bridge",
           "Visit Tugu Pahlawan & Museum Sepuluh November",
+          "Visit Museum Kesehatan dr. Adhyatma, MPH",
           "Eat at Ibu Hasan"
         ]
       },
@@ -83848,30 +73835,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Monumen Jalasveva Jayamahe",
-          "Visit Monumen Kapal Selam (KRI Pasopati (410))",
-          "Visit Monumen Pers Perjuangan Surabaya",
-          "Eat at Jasmine Ice Cream and Pastries"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Museum Kesehatan dr. Adhyatma, MPH",
           "Visit Museum Rudi Isbandi",
           "Visit Ciputra Waterpark",
-          "Eat at Pecel Bu Kus"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Surabaya expats football team",
-          "Visit Bukit Darmo Golf",
-          "Visit Ahmad Yani Golf Club",
-          "Eat at Rujak Cingur Genteng Durasim"
+          "Eat at Jasmine Ice Cream and Pastries"
         ]
       }
     ],
@@ -83911,9 +73877,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Fiji Museum"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Singh's Curry House",
@@ -84020,16 +73984,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Woermannhaus",
-      "Swakopmund Jetty",
-      "Old railway station and casino",
-      "Altes Gefängnis",
-      "Haus Hohenzollern",
-      "State House",
-      "Lutheran Church",
-      "Barracks"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "BOJOs Cafe",
@@ -84103,48 +74058,7 @@ const raw: Gen[] = [
       "Lutheran Church"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Woermannhaus",
-          "Visit Swakopmund Jetty",
-          "Visit Old railway station and casino",
-          "Eat at BOJOs Cafe"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Altes Gefängnis",
-          "Visit Haus Hohenzollern",
-          "Visit State House",
-          "Eat at Café Treffpunkt"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Lutheran Church",
-          "Visit Barracks",
-          "Visit Dune 7 Sandboarding",
-          "Eat at Café Tiffany"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Travel Time",
-          "Visit Outback Orange",
-          "Visit Okakambe Trails, Horse Rides",
-          "Eat at Café Anton"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -84181,11 +74095,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Manly to Spit Bridge Walk",
-      "Bradleys Head",
-      "The Rocks Aroma Festival"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -84193,17 +74103,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Manly to Spit Bridge Walk",
-          "Visit Bradleys Head",
-          "Visit The Rocks Aroma Festival"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -84350,18 +74250,8 @@ const raw: Gen[] = [
         "activities": [
           "Visit Demetrius Tower",
           "Visit Saint Nicholas Church",
-          "Visit Szegedi Ifjusagi Napok (SZIN) - Szeged Youth Days",
+          "Visit Zoo-Szeged",
           "Eat at Hamm Burger Büfé"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Belvárosi Cinema",
-          "Visit Anna Bath",
-          "Visit Thermal",
-          "Eat at Pöcike Bisztró"
         ]
       }
     ],
@@ -84403,13 +74293,11 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Saat Tower",
-      "El Goli (locals call it Shah Goli)",
       "Blue Mosque (Goy Machid)",
-      "Bazaar of Tabriz",
       "Ark-e-Alishah (Ark Citadel)",
-      "Constitution house",
       "Azerbaijan Museum",
-      "Maghbarat-o-Shoara"
+      "Hike in El-Goli Park",
+      "Baghlar Baghi Amusement Park"
     ],
     "restaurants": [
       {
@@ -84474,8 +74362,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Saat Tower",
-          "Visit El Goli (locals call it Shah Goli)",
           "Visit Blue Mosque (Goy Machid)",
+          "Visit Ark-e-Alishah (Ark Citadel)",
           "Eat at Tabriz Modern Restaurant"
         ]
       },
@@ -84483,30 +74371,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Bazaar of Tabriz",
-          "Visit Ark-e-Alishah (Ark Citadel)",
-          "Visit Constitution house",
-          "Eat at Delestan"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Azerbaijan Museum",
-          "Visit Maghbarat-o-Shoara",
           "Visit Hike in El-Goli Park",
-          "Eat at Tooska"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Hot springs and Hydrotherapy Resorts in the north-west of Iran",
           "Visit Baghlar Baghi Amusement Park",
-          "Visit Hike in Mt Eynali and its artificial forest",
-          "Eat at Badas Restaurant"
+          "Eat at Delestan"
         ]
       }
     ],
@@ -84594,12 +74462,7 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Manila American Cemetery and Memorial",
       "The Mind Museum",
-      "Burgos Circle",
-      "Forbestown Road",
-      "Serendra",
-      "Uptown Parade",
-      "The Fort Strip",
-      "Tuscany Private Estates"
+      "The Fort Strip"
     ],
     "restaurants": [
       {
@@ -84677,38 +74540,8 @@ const raw: Gen[] = [
         "activities": [
           "Visit Manila American Cemetery and Memorial",
           "Visit The Mind Museum",
-          "Visit Burgos Circle",
-          "Eat at BENCH Cafe"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Forbestown Road",
-          "Visit Serendra",
-          "Visit Uptown Parade",
-          "Eat at Fiesta Market food court"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit The Fort Strip",
-          "Visit Tuscany Private Estates",
-          "Visit BGC Arts Center",
-          "Eat at Conti's Pastry Shop and Restaurant"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Samsung Hall",
-          "Visit MO_Space",
-          "Visit scatter hitam",
-          "Eat at Las Flores"
+          "Eat at BENCH Cafe"
         ]
       }
     ],
@@ -84834,9 +74667,7 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Takeo Shrine",
       "Mifuneyama Rakuen Garden",
-      "Saga Prefecture Science and Space Museum",
-      "Takeo City Library",
-      "Takeo Onsen"
+      "Saga Prefecture Science and Space Museum"
     ],
     "restaurants": [
       {
@@ -84876,15 +74707,6 @@ const raw: Gen[] = [
           "Visit Mifuneyama Rakuen Garden",
           "Visit Saga Prefecture Science and Space Museum",
           "Eat at Gyoza Kaikan"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Takeo City Library",
-          "Visit Takeo Onsen",
-          "Eat at Saga Hirakawaya"
         ]
       }
     ],
@@ -84926,8 +74748,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Fort San Sebastian",
-      "Fort Orange",
-      "Sekondi-Takoradi Stadium"
+      "Fort Orange"
     ],
     "restaurants": [
       {
@@ -84975,18 +74796,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Fort San Sebastian",
-          "Visit Fort Orange",
-          "Visit Sekondi-Takoradi Stadium",
-          "Eat at God Is Love Chopbar"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.4,
@@ -85111,11 +74921,10 @@ const raw: Gen[] = [
       "Toompea Castle",
       "Alexander Nevsky Cathedral",
       "St. Mary's Cathedral",
-      "Stenbock House",
-      "Estonian Knighthood House",
       "Viru Gate",
       "Town Hall Square",
-      "Town Hall"
+      "Atlantis H2O Aquapark",
+      "Pirita Beach"
     ],
     "restaurants": [
       {
@@ -85208,9 +75017,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Stenbock House",
-          "Visit Estonian Knighthood House",
           "Visit Viru Gate",
+          "Visit Town Hall Square",
+          "Visit Atlantis H2O Aquapark",
           "Eat at Pub Kompressor"
         ]
       },
@@ -85218,20 +75027,8 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Town Hall Square",
-          "Visit Town Hall",
-          "Visit Medieval Days",
+          "Visit Pirita Beach",
           "Eat at III Draakon"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Kultuurikatel (creative hub)",
-          "Visit Energy Discovery Centre",
-          "Visit PROTO Invention Factory",
-          "Eat at Pizza Grande"
         ]
       }
     ],
@@ -85271,14 +75068,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Red Clay",
-      "Savannah Centre for Contemporary Art",
-      "Nkrumah Voli-ni",
-      "Ahmadiyya Central Mosque",
-      "Ambariya Sunni Community",
-      "Masjid Bayaan Institute"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Zaachi Ice Cream",
@@ -85347,28 +75137,7 @@ const raw: Gen[] = [
       "Ahmadiyya Central Mosque"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Red Clay",
-          "Visit Savannah Centre for Contemporary Art",
-          "Visit Nkrumah Voli-ni",
-          "Eat at Zaachi Ice Cream"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Ahmadiyya Central Mosque",
-          "Visit Ambariya Sunni Community",
-          "Visit Masjid Bayaan Institute",
-          "Eat at De Shallot Eatery"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.6,
@@ -85407,13 +75176,13 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Amuri Museum of Workers' Housing",
-      "Art and Craftcenter Verkaranta",
       "Finnish Labour Museum Werstas",
       "Hiekka Art Museum",
-      "Nootti",
       "Milk Platform Museum",
       "Moomin Museum",
-      "Police Museum"
+      "Police Museum",
+      "Iso-Vilunen Skate Park",
+      "Särkänniemi Amusement Park"
     ],
     "restaurants": [
       {
@@ -85507,8 +75276,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Amuri Museum of Workers' Housing",
-          "Visit Art and Craftcenter Verkaranta",
           "Visit Finnish Labour Museum Werstas",
+          "Visit Hiekka Art Museum",
           "Eat at Yhteisökahvila OmaNaapuri"
         ]
       },
@@ -85516,9 +75285,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Hiekka Art Museum",
-          "Visit Nootti",
           "Visit Milk Platform Museum",
+          "Visit Moomin Museum",
+          "Visit Police Museum",
           "Eat at Silta-Lounasravintola Viinikka"
         ]
       },
@@ -85526,20 +75295,10 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Moomin Museum",
-          "Visit Police Museum",
-          "Visit Fishing",
-          "Eat at Peurankello"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Guided bus tour",
-          "Visit Ikuri Arcade",
           "Visit Iso-Vilunen Skate Park",
-          "Eat at Kansalaistalo Mansikkapaikka"
+          "Visit Särkänniemi Amusement Park",
+          "Visit Viikinsaari Island",
+          "Eat at Peurankello"
         ]
       }
     ],
@@ -85658,14 +75417,10 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Grande Mosquée",
-      "Petit souq",
-      "Kasbah",
       "The tomb of Ibn Battouta",
       "The American Legation Museum (TALM)",
       "Church of the Immaculate Conception",
-      "Fondation Lorin",
-      "Place du 9 Avril 1947"
+      "Mnar Park"
     ],
     "restaurants": [
       {
@@ -85739,9 +75494,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Grande Mosquée",
-          "Visit Petit souq",
-          "Visit Kasbah",
+          "Visit The tomb of Ibn Battouta",
+          "Visit The American Legation Museum (TALM)",
+          "Visit Church of the Immaculate Conception",
           "Eat at Restaurant Darna (de L'association Darna)"
         ]
       },
@@ -85749,29 +75504,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit The tomb of Ibn Battouta",
-          "Visit The American Legation Museum (TALM)",
-          "Visit Church of the Immaculate Conception",
-          "Eat at Restaurant Ahlen"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Fondation Lorin",
-          "Visit Place du 9 Avril 1947",
           "Visit Mnar Park",
-          "Eat at Abou Tayssir"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Ibn Batouta Stadium",
-          "Visit Tanjazz",
-          "Eat at Chez Hassan Bab Kasbah"
+          "Eat at Restaurant Ahlen"
         ]
       }
     ],
@@ -85870,8 +75604,7 @@ const raw: Gen[] = [
       "Zhengis Park",
       "Aisha Bibi Mausoleum",
       "Dautbek Shamansur Mausoleum",
-      "Prezidentskiy Park",
-      "Taraz Central Stadium"
+      "Prezidentskiy Park"
     ],
     "restaurants": [
       {
@@ -85921,7 +75654,6 @@ const raw: Gen[] = [
         "title": "Culture & neighborhoods",
         "activities": [
           "Visit Prezidentskiy Park",
-          "Visit Taraz Central Stadium",
           "Eat at Malikakhon"
         ]
       }
@@ -85964,13 +75696,10 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Town Hall Square",
-      "Main building of the University of Tartu",
-      "Botanic Garden of the University of Tartu",
-      "Toome Hill",
       "Statue of Oscar Wilde and Eduard Vilde",
-      "Soup Neighbourhood",
-      "Former Soviet Airfield",
-      "Estonian National Museum"
+      "Estonian National Museum",
+      "Toy Museum and Theater House",
+      "Aura Waterpark"
     ],
     "restaurants": [
       {
@@ -86044,7 +75773,8 @@ const raw: Gen[] = [
       "Barlova"
     ],
     "museums": [
-      "Estonian National Museum"
+      "Estonian National Museum",
+      "Toy Museum and Theater House"
     ],
     "localFoods": [],
     "itinerary": [
@@ -86053,8 +75783,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Town Hall Square",
-          "Visit Main building of the University of Tartu",
-          "Visit Botanic Garden of the University of Tartu",
+          "Visit Statue of Oscar Wilde and Eduard Vilde",
+          "Visit Estonian National Museum",
           "Eat at 12 Tooli"
         ]
       },
@@ -86062,30 +75792,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Toome Hill",
-          "Visit Statue of Oscar Wilde and Eduard Vilde",
-          "Visit Soup Neighbourhood",
-          "Eat at Opera Pizza"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Former Soviet Airfield",
-          "Visit Estonian National Museum",
-          "Visit AHHAA Science Center",
-          "Eat at Pappa Pizza"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Vanemuine Theatre",
           "Visit Toy Museum and Theater House",
           "Visit Aura Waterpark",
-          "Eat at Ruunipizza"
+          "Eat at Opera Pizza"
         ]
       }
     ],
@@ -86126,14 +75835,14 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Moyi Mubarek Madrasah",
-      "Kukeldash Madrasah",
-      "Abdulkasim Madrassa",
       "Kukcha Mosque",
       "Holy Assumption Cathedral",
       "Evangelical Lutheran Church",
       "Sacred Heart Cathedral",
-      "Mirzo-Yusuf Mosque"
+      "Mirzo-Yusuf Mosque",
+      "Alisher Navoiy Park",
+      "Do’stlik Recreation Park",
+      "Aqua Park"
     ],
     "restaurants": [
       {
@@ -86220,9 +75929,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Moyi Mubarek Madrasah",
-          "Visit Kukeldash Madrasah",
-          "Visit Abdulkasim Madrassa",
+          "Visit Kukcha Mosque",
+          "Visit Holy Assumption Cathedral",
+          "Visit Evangelical Lutheran Church",
           "Eat at Bravissimo"
         ]
       },
@@ -86230,9 +75939,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Kukcha Mosque",
-          "Visit Holy Assumption Cathedral",
-          "Visit Evangelical Lutheran Church",
+          "Visit Sacred Heart Cathedral",
+          "Visit Mirzo-Yusuf Mosque",
+          "Visit Alisher Navoiy Park",
           "Eat at Cafe Bukhara"
         ]
       },
@@ -86240,9 +75949,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Sacred Heart Cathedral",
-          "Visit Mirzo-Yusuf Mosque",
-          "Visit Alisher Navoiy Park",
+          "Visit Do’stlik Recreation Park",
+          "Visit Aqua Park",
+          "Visit Japanese Garden",
           "Eat at Besh Qozon"
         ]
       },
@@ -86250,9 +75959,7 @@ const raw: Gen[] = [
         "day": 4,
         "title": "Day trips & more",
         "activities": [
-          "Visit Do’stlik Recreation Park",
-          "Visit Aqua Park",
-          "Visit Japanese Garden",
+          "Visit Mirzo Ulugbek Recreation Park",
           "Eat at Ariston Park"
         ]
       }
@@ -86301,7 +76008,7 @@ const raw: Gen[] = [
       "Puppet Museum",
       "Galaktion Tabidze Museum",
       "Tbilisi Art Gallery",
-      "State Academy of Arts"
+      "Turtle Lake (Kus T'ba)"
     ],
     "restaurants": [
       {
@@ -86389,8 +76096,8 @@ const raw: Gen[] = [
         "title": "Markets, parks & hidden corners",
         "activities": [
           "Visit Tbilisi Art Gallery",
-          "Visit State Academy of Arts",
-          "Visit Sulphur Baths",
+          "Visit Turtle Lake (Kus T'ba)",
+          "Visit Lake Lisi (Lisis T'ba)",
           "Eat at Veliaminov"
         ]
       },
@@ -86398,9 +76105,9 @@ const raw: Gen[] = [
         "day": 4,
         "title": "Day trips & more",
         "activities": [
-          "Visit Bath No. 5",
-          "Visit Turtle Lake (Kus T'ba)",
-          "Visit Lake Lisi (Lisis T'ba)",
+          "Visit Botanical garden",
+          "Visit Mtatsminda park",
+          "Visit Alexander's Garden",
           "Eat at Family kitchen"
         ]
       }
@@ -86442,14 +76149,10 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Parque La Leona",
       "Naciones Unidas El Picacho Park",
-      "Cristo el Picacho",
       "Metropolitan Zoo Rosy Walther",
-      "Museo para la Identidad Nacional",
-      "Catedral de San Miguel Arcángel",
-      "Parque Nacional La Tigra",
-      "Basilica de Nuestra Se Blora De Suyapa"
+      "Basilica de Nuestra Se Blora De Suyapa",
+      "St. Michael's Cathedral, Los Dolores Church, and San Francisco Church"
     ],
     "restaurants": [
       {
@@ -86493,7 +76196,8 @@ const raw: Gen[] = [
     ],
     "nightlife": [],
     "museums": [
-      "Basilica de Nuestra Se Blora De Suyapa"
+      "Basilica de Nuestra Se Blora De Suyapa",
+      "St. Michael's Cathedral, Los Dolores Church, and San Francisco Church"
     ],
     "localFoods": [],
     "itinerary": [
@@ -86501,9 +76205,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Parque La Leona",
           "Visit Naciones Unidas El Picacho Park",
-          "Visit Cristo el Picacho",
+          "Visit Metropolitan Zoo Rosy Walther",
+          "Visit Basilica de Nuestra Se Blora De Suyapa",
           "Eat at La Cumbre"
         ]
       },
@@ -86511,27 +76215,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Metropolitan Zoo Rosy Walther",
-          "Visit Museo para la Identidad Nacional",
-          "Visit Catedral de San Miguel Arcángel",
+          "Visit St. Michael's Cathedral, Los Dolores Church, and San Francisco Church",
           "Eat at MER-K-TTO Eclectic Cuisine"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Parque Nacional La Tigra",
-          "Visit Basilica de Nuestra Se Blora De Suyapa",
-          "Visit Karaoke"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Parque de la Paz",
-          "Visit St. Michael's Cathedral, Los Dolores Church, and San Francisco Church"
         ]
       }
     ],
@@ -86576,10 +76261,10 @@ const raw: Gen[] = [
       "Mausoleum of Ayatollah Khomeini",
       "Milad Tower",
       "Golestan Palace",
-      "Takht Marmar",
-      "Khalvat Karim Khani",
-      "Hoze Khaneh",
-      "Negar Khaneh"
+      "Ab-o-Atesh Park and the Tabiat Bridge",
+      "Chitgar Lake",
+      "Jamshidieh Park",
+      "Paradise Garden, Baq-e Ferdous Park?"
     ],
     "restaurants": [
       {
@@ -86664,8 +76349,8 @@ const raw: Gen[] = [
         "title": "Culture & neighborhoods",
         "activities": [
           "Visit Golestan Palace",
-          "Visit Takht Marmar",
-          "Visit Khalvat Karim Khani",
+          "Visit Ab-o-Atesh Park and the Tabiat Bridge",
+          "Visit Chitgar Lake",
           "Eat at Dizi Sara"
         ]
       },
@@ -86673,20 +76358,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Hoze Khaneh",
-          "Visit Negar Khaneh",
-          "Visit Ab-o-Atesh Park and the Tabiat Bridge",
-          "Eat at Falafel Stalls"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Chitgar Lake",
           "Visit Jamshidieh Park",
           "Visit Paradise Garden, Baq-e Ferdous Park?",
-          "Eat at Food Court at Jaam-e-Jam Mini Mall"
+          "Eat at Falafel Stalls"
         ]
       }
     ],
@@ -86726,15 +76400,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "White Night Festival",
-      "Tel Aviv Fashion Market",
-      "Night Flea",
-      "Docaviv",
-      "The Tel Aviv International LGBT Film Festival",
-      "The Tel Aviv International Student Film Festival",
-      "Ta'am Ha'ir"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -86742,33 +76408,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit White Night Festival",
-          "Visit Tel Aviv Fashion Market",
-          "Visit Night Flea"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Docaviv",
-          "Visit The Tel Aviv International LGBT Film Festival",
-          "Visit The Tel Aviv International Student Film Festival"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Ta'am Ha'ir"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -86845,14 +76485,10 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Šarena Džamija",
-      "Čifte Hamam",
-      "Arabati Baba Tekje",
-      "Tetovo Fortress",
       "Memorial Museum of the Communist Party of Macedonia",
-      "Alim Bey's House",
       "Church of Saints Cyril and Methodius",
-      "Church of Saint Nicholas"
+      "Church of Saint Nicholas",
+      "Žena Park"
     ],
     "restaurants": [
       {
@@ -86919,9 +76555,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Šarena Džamija",
-          "Visit Čifte Hamam",
-          "Visit Arabati Baba Tekje",
+          "Visit Memorial Museum of the Communist Party of Macedonia",
+          "Visit Church of Saints Cyril and Methodius",
+          "Visit Church of Saint Nicholas",
           "Eat at Carpe Diem"
         ]
       },
@@ -86929,29 +76565,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Tetovo Fortress",
-          "Visit Memorial Museum of the Communist Party of Macedonia",
-          "Visit Alim Bey's House",
-          "Eat at Restaurant Dubrovnik"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Church of Saints Cyril and Methodius",
-          "Visit Church of Saint Nicholas",
           "Visit Žena Park",
-          "Eat at Punto Verde Restaurant"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Popova Šapka",
-          "Visit Listen to Glasoečko Singing",
-          "Eat at Restoran Belamia"
+          "Eat at Restaurant Dubrovnik"
         ]
       }
     ],
@@ -86989,13 +76604,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Tham Nong Pafa Cave",
-      "Tha Falang",
-      "Aen Cave",
-      "Thalang",
-      "Konglor Cave"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Inthira Hotel",
@@ -87033,25 +76642,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Tham Nong Pafa Cave",
-          "Visit Tha Falang",
-          "Visit Aen Cave"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Thalang",
-          "Visit Konglor Cave"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -87089,14 +76680,9 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Plein",
-      "Binnenhof",
-      "Mauritshuis",
-      "Galerij Prins Willem V",
-      "Gevangenpoort",
       "Bredius Museum",
-      "Lange Voorhout",
-      "Escher in Het Paleis"
+      "Park Clingendael",
+      "Westbroekpark"
     ],
     "restaurants": [
       {
@@ -87178,40 +76764,10 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Plein",
-          "Visit Binnenhof",
-          "Visit Mauritshuis",
-          "Eat at 't Achterommetje"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Galerij Prins Willem V",
-          "Visit Gevangenpoort",
           "Visit Bredius Museum",
-          "Eat at Isaku Iki"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Lange Voorhout",
-          "Visit Escher in Het Paleis",
           "Visit Park Clingendael",
-          "Eat at Dudok"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
           "Visit Westbroekpark",
-          "Visit Haagse Bos",
-          "Visit Museon",
-          "Eat at Irodion"
+          "Eat at 't Achterommetje"
         ]
       }
     ],
@@ -87252,14 +76808,9 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Arch of Galerius",
       "Palace of Galerius",
-      "Roman Forum",
-      "Rotunda",
-      "Saint Demetrios",
       "Church of the Acheiropoietos",
-      "Latomou Monastery",
-      "Hagia Sophia"
+      "Latomou Monastery"
     ],
     "restaurants": [
       {
@@ -87335,40 +76886,10 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Arch of Galerius",
           "Visit Palace of Galerius",
-          "Visit Roman Forum",
-          "Eat at Chatzis"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Rotunda",
-          "Visit Saint Demetrios",
           "Visit Church of the Acheiropoietos",
-          "Eat at Terkenlis"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Latomou Monastery",
-          "Visit Hagia Sophia",
-          "Visit Cultural Route public bus tour",
-          "Eat at Elenidis"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Thessaloniki Concert Hall",
-          "Visit Waterland",
-          "Visit Discovery Yachting",
-          "Eat at Choureál"
+          "Eat at Chatzis"
         ]
       }
     ],
@@ -87402,9 +76923,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Abbaye Keur Moussa Ne"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Les Delices",
@@ -87466,14 +76985,10 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Changangkha Lhakhang",
       "Statue of Dordenna Buddha",
-      "Thangtong Dewachen Nunnery",
       "The National Memorial Chorten",
-      "Zangthoperi Lhakhang",
       "National Folk Heritage Museum",
-      "The Royal Textile Museum",
-      "Simtokha Dzong"
+      "The Royal Textile Museum"
     ],
     "restaurants": [
       {
@@ -87556,9 +77071,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Changangkha Lhakhang",
           "Visit Statue of Dordenna Buddha",
-          "Visit Thangtong Dewachen Nunnery",
+          "Visit The National Memorial Chorten",
+          "Visit National Folk Heritage Museum",
           "Eat at Zombala restaurant"
         ]
       },
@@ -87566,30 +77081,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit The National Memorial Chorten",
-          "Visit Zangthoperi Lhakhang",
-          "Visit National Folk Heritage Museum",
-          "Eat at Birbi"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit The Royal Textile Museum",
-          "Visit Simtokha Dzong",
-          "Visit Dhyana Thimphu Meditation Centre",
-          "Eat at B.Taco"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Jigme Dorji Wangchuck Public Library",
-          "Visit Snow Leopard Theatre Repertory",
-          "Visit The National Institute of Traditional Medicine",
-          "Eat at Dim Sum Basket"
+          "Eat at Birbi"
         ]
       }
     ],
@@ -87727,7 +77220,7 @@ const raw: Gen[] = [
       "Saint Paul Catholic Cathedral",
       "Resurrection of Christ Orthodox Cathedral",
       "Kapllan Pasha Tomb",
-      "The Sheh Dyrri Teqe"
+      "Mother Teresa Square"
     ],
     "restaurants": [
       {
@@ -87840,8 +77333,8 @@ const raw: Gen[] = [
         "title": "Markets, parks & hidden corners",
         "activities": [
           "Visit Kapllan Pasha Tomb",
-          "Visit The Sheh Dyrri Teqe",
-          "Visit Murat Toptani Street",
+          "Visit Mother Teresa Square",
+          "Visit Grand Park along the Artificial Lake",
           "Eat at Tasty"
         ]
       },
@@ -87849,9 +77342,8 @@ const raw: Gen[] = [
         "day": 4,
         "title": "Day trips & more",
         "activities": [
-          "Visit Sheshi Skënderbej",
-          "Visit Stroll along Bulevardi Dëshmorët e Kombit",
-          "Visit Taiwan Complex",
+          "Visit Ali Demi Skate Park",
+          "Visit Mount Dajti National Park & Cable Car",
           "Eat at Te Dhuri"
         ]
       }
@@ -87894,10 +77386,8 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Suvorov Square",
-      "Supreme Soviet",
       "Lenin Monument",
       "T-34 Tank Monument",
-      "House of Soviets",
       "The Christmas Cathedral",
       "Yuriy Gagarin Monument",
       "Mig-19 Monument"
@@ -87965,8 +77455,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Suvorov Square",
-          "Visit Supreme Soviet",
           "Visit Lenin Monument",
+          "Visit T-34 Tank Monument",
           "Eat at Столовка СССР Тирасполь"
         ]
       },
@@ -87974,19 +77464,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit T-34 Tank Monument",
-          "Visit House of Soviets",
           "Visit The Christmas Cathedral",
-          "Eat at Классная Шаурма"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Yuriy Gagarin Monument",
           "Visit Mig-19 Monument",
-          "Eat at Fast-Food Like . Tiraspol"
+          "Eat at Классная Шаурма"
         ]
       }
     ],
@@ -88025,9 +77506,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Saint Joseph Cathedral"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "Hotel Plage",
@@ -88152,12 +77631,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Arboretum d'Antsokay",
-      "La Table",
-      "Musée Rabesandratana",
-      "Musée du recyclage Tule'Art"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Etoile de Mer",
@@ -88208,26 +77682,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Arboretum d'Antsokay",
-          "Visit La Table",
-          "Visit Musée Rabesandratana",
-          "Eat at Etoile de Mer"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Musée du recyclage Tule'Art",
-          "Eat at La Maison"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -88264,16 +77719,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Canadian National Exhibition",
-      "Doors Open",
-      "Fan Expo Canada",
-      "Pride Toronto",
-      "Toronto Black Film Festival",
-      "Toronto International Film Festival",
-      "Inside Out LGBT Film & Video Festival",
-      "Toronto International Festival of Authors"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Aroma Espresso Bar",
@@ -88293,36 +77739,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Canadian National Exhibition",
-          "Visit Doors Open",
-          "Visit Fan Expo Canada",
-          "Eat at Aroma Espresso Bar"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Pride Toronto",
-          "Visit Toronto Black Film Festival",
-          "Visit Toronto International Film Festival",
-          "Eat at Balzac's"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Inside Out LGBT Film & Video Festival",
-          "Visit Toronto International Festival of Authors"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -88356,10 +77773,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Great Mosque of Touba",
-      "Grand Magal of Touba"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -88406,16 +77820,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Basilique Saint-Sernin",
-      "Saint Raymond Museum",
-      "Notre-Dame de la Daurade",
-      "Cathédrale Saint-Étienne",
-      "Hôtel d'Assézat",
-      "Capitole",
-      "Musée du Vieux Toulouse",
-      "Couvent des Jacobins"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "L'oasis",
@@ -88487,46 +77892,7 @@ const raw: Gen[] = [
       "Saint Raymond Museum"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Basilique Saint-Sernin",
-          "Visit Saint Raymond Museum",
-          "Visit Notre-Dame de la Daurade",
-          "Eat at L'oasis"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Cathédrale Saint-Étienne",
-          "Visit Hôtel d'Assézat",
-          "Visit Capitole",
-          "Eat at Les Halles Victor Hugo"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Musée du Vieux Toulouse",
-          "Visit Couvent des Jacobins",
-          "Visit La Grainerie",
-          "Eat at Le Gout en Train"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit L'Usine",
-          "Eat at Restaurant Le May"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -88557,10 +77923,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Balaclava Ruins",
-      "Maheswarnath Mandir"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -88602,7 +77965,6 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Gurgi Mosque",
       "Karamanli Mosque",
-      "Arch of Marcus Aurelius",
       "Martyrs' Square",
       "Jamal Abdul Nasser Mosque",
       "Anglican Church of Christ The King",
@@ -88658,33 +78020,23 @@ const raw: Gen[] = [
         "activities": [
           "Visit Gurgi Mosque",
           "Visit Karamanli Mosque",
-          "Visit Arch of Marcus Aurelius"
+          "Visit Martyrs' Square"
         ]
       },
       {
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Martyrs' Square",
           "Visit Jamal Abdul Nasser Mosque",
-          "Visit Anglican Church of Christ The King"
+          "Visit Anglican Church of Christ The King",
+          "Visit Red Castle Museum"
         ]
       },
       {
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Red Castle Museum",
-          "Visit Museum of Libya",
-          "Visit Darghouth Turkish Bath"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Radisson Blu",
-          "Visit Corinthia"
+          "Visit Museum of Libya"
         ]
       }
     ],
@@ -88721,7 +78073,6 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Gurgi Mosque",
       "Karamanli Mosque",
-      "Arch of Marcus Aurelius",
       "Martyrs' Square",
       "Jamal Abdul Nasser Mosque",
       "Anglican Church of Christ The King",
@@ -88777,33 +78128,23 @@ const raw: Gen[] = [
         "activities": [
           "Visit Gurgi Mosque",
           "Visit Karamanli Mosque",
-          "Visit Arch of Marcus Aurelius"
+          "Visit Martyrs' Square"
         ]
       },
       {
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Martyrs' Square",
           "Visit Jamal Abdul Nasser Mosque",
-          "Visit Anglican Church of Christ The King"
+          "Visit Anglican Church of Christ The King",
+          "Visit Red Castle Museum"
         ]
       },
       {
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Red Castle Museum",
-          "Visit Museum of Libya",
-          "Visit Darghouth Turkish Bath"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Radisson Blu",
-          "Visit Corinthia"
+          "Visit Museum of Libya"
         ]
       }
     ],
@@ -88846,11 +78187,8 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Nidaros Cathedral",
       "Vår Frue Church",
-      "Torvet",
       "Tyholt tower",
-      "Kristiansten Fortress",
       "Munkholmen island",
-      "Dora 1",
       "Ringve Music Museum"
     ],
     "restaurants": [
@@ -88932,7 +78270,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Nidaros Cathedral",
           "Visit Vår Frue Church",
-          "Visit Torvet",
+          "Visit Tyholt tower",
           "Eat at Studentersamfundet"
         ]
       },
@@ -88940,28 +78278,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Tyholt tower",
-          "Visit Kristiansten Fortress",
           "Visit Munkholmen island",
-          "Eat at Student canteens"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Dora 1",
           "Visit Ringve Music Museum",
-          "Visit Rosenborg BK",
-          "Eat at SiT Kafe Kalvskinnet"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Minimalen Short Film Fest",
-          "Eat at SiT Kafe Øya"
+          "Eat at Student canteens"
         ]
       }
     ],
@@ -89083,12 +78402,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Tunis Medina",
-      "Grande Mosquée Zitouna",
       "Sidi Youssef Dey Mosque",
-      "Medersa Bachia",
-      "Bab El Bahr",
-      "Bab Saadoun",
-      "Tourbet el-Bey",
       "Dar Ben Abdallah Museum"
     ],
     "restaurants": [
@@ -89168,28 +78482,9 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Tunis Medina",
-          "Visit Grande Mosquée Zitouna",
           "Visit Sidi Youssef Dey Mosque",
-          "Eat at The Corner"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Medersa Bachia",
-          "Visit Bab El Bahr",
-          "Visit Bab Saadoun",
-          "Eat at Restaurant Ojja Chouchou"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Tourbet el-Bey",
           "Visit Dar Ben Abdallah Museum",
-          "Eat at Café de Paris Brasserie"
+          "Eat at The Corner"
         ]
       }
     ],
@@ -89229,16 +78524,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Palazzo Reale",
-      "Museo Civico d'Arte Antica",
-      "CAMERA – Italian Centre for Photography",
-      "Museo Egizio",
-      "Risorgimento Museum",
-      "Galleria d'Italia",
-      "Foundation Accorsi-Ometto",
-      "Museo Regionale di Scienze Naturali"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Grom",
@@ -89312,48 +78598,7 @@ const raw: Gen[] = [
       "Risorgimento Museum"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Palazzo Reale",
-          "Visit Museo Civico d'Arte Antica",
-          "Visit CAMERA – Italian Centre for Photography",
-          "Eat at Grom"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Museo Egizio",
-          "Visit Risorgimento Museum",
-          "Visit Galleria d'Italia",
-          "Eat at Piola Cianci"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Foundation Accorsi-Ometto",
-          "Visit Museo Regionale di Scienze Naturali",
-          "Visit Teatro Regio",
-          "Eat at Focacceria Lagrange"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Teatro Carignano",
-          "Visit Teatro Colosseo",
-          "Visit Juventus FC",
-          "Eat at Gofreria Piemontèisa"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -89475,14 +78720,9 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Aboa Vetus et Ars Nova",
       "Botanical Garden",
       "Biological Museum",
-      "Brinkhall Manor",
-      "Ett Hem",
-      "Forum Marinum",
-      "Healthcare Museum",
-      "Kuralan Kylämäki – Village of Living History"
+      "Healthcare Museum"
     ],
     "restaurants": [
       {
@@ -89572,40 +78812,10 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Aboa Vetus et Ars Nova",
           "Visit Botanical Garden",
           "Visit Biological Museum",
-          "Eat at Elvina Café"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Brinkhall Manor",
-          "Visit Ett Hem",
-          "Visit Forum Marinum",
-          "Eat at Fontana Café"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Healthcare Museum",
-          "Visit Kuralan Kylämäki – Village of Living History",
-          "Visit Turku City Theatre",
-          "Eat at Honkapirtti"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Turun konservatorio",
-          "Visit Logomo",
-          "Visit Turku Philharmonic Orchestra",
-          "Eat at Kaarea TYKS U restaurant"
+          "Eat at Elvina Café"
         ]
       }
     ],
@@ -89639,15 +78849,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Mercu Tanda Kenangan",
-      "Old Building of Tutong District Office and Court",
-      "Pantai Seri Kenangan",
-      "Sungai Basong Recreational Park",
-      "Taman Seri Warisan Emas",
-      "Tatangan Persiaran Sungai Tutong",
-      "Times Cineplex"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "EasyWay Tea Indulgence",
@@ -89687,36 +78889,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Mercu Tanda Kenangan",
-          "Visit Old Building of Tutong District Office and Court",
-          "Visit Pantai Seri Kenangan",
-          "Eat at EasyWay Tea Indulgence"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Sungai Basong Recreational Park",
-          "Visit Taman Seri Warisan Emas",
-          "Visit Tatangan Persiaran Sungai Tutong",
-          "Eat at {{Lang"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Times Cineplex",
-          "Eat at Ho Yuen Restaurant"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -89840,10 +79013,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Al-Bass Tyre necropolis",
-      "Tyre Hippodrome",
       "Hot Spring Ruins",
-      "Tyre lighthouse",
-      "Al Gamal",
       "Chamaa Castle"
     ],
     "restaurants": [
@@ -89889,19 +79059,9 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Al-Bass Tyre necropolis",
-          "Visit Tyre Hippodrome",
           "Visit Hot Spring Ruins",
-          "Eat at Rest Cafe"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Tyre lighthouse",
-          "Visit Al Gamal",
           "Visit Chamaa Castle",
-          "Eat at Mahfouz Sandwich"
+          "Eat at Rest Cafe"
         ]
       }
     ],
@@ -90063,7 +79223,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit National Museum of Mongolia",
           "Visit Marshall Zhukov House Museum",
-          "Visit Sky Resort",
+          "Visit Bogd Khan Mountain",
           "Eat at Loving Hut - Barilgachdyn Talbai"
         ]
       },
@@ -90071,9 +79231,7 @@ const raw: Gen[] = [
         "day": 4,
         "title": "Day trips & more",
         "activities": [
-          "Visit Bogd Khan Mountain",
-          "Visit Naadam",
-          "Visit Playtime Festival",
+          "Visit State Opera and Ballet Theater",
           "Eat at Agnista Vegan Food"
         ]
       }
@@ -90155,13 +79313,8 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Uppsala Castle",
-      "Fredens Hus",
       "Uppsala Konstmuseum",
-      "Roof Walk",
-      "Vasaborgen",
-      "Uppsala Cathedral",
-      "Skattkammaren",
-      "Uppsala Gamla Kyrkogård"
+      "Uppsala Cathedral"
     ],
     "restaurants": [
       {
@@ -90246,39 +79399,9 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Uppsala Castle",
-          "Visit Fredens Hus",
           "Visit Uppsala Konstmuseum",
-          "Eat at Ahaan Thai"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Roof Walk",
-          "Visit Vasaborgen",
           "Visit Uppsala Cathedral",
-          "Eat at Dog Bar"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Skattkammaren",
-          "Visit Uppsala Gamla Kyrkogård",
-          "Visit Boat-trip",
-          "Eat at Dylan's Grill"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit M/S Kung Carl Gustaf",
-          "Visit Strömma",
-          "Visit Fyrishov",
-          "Eat at Jalla Kebab"
+          "Eat at Ahaan Thai"
         ]
       }
     ],
@@ -90318,16 +79441,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Dom van Utrecht",
-      "DOMunder",
-      "Pandhof Domkerk",
-      "Domtoren",
-      "Pieterskerk",
-      "Stadhuis",
-      "Stadhuisbrug",
-      "Kalisbrug"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Bigoli",
@@ -90400,48 +79514,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Dom van Utrecht",
-          "Visit DOMunder",
-          "Visit Pandhof Domkerk",
-          "Eat at Bigoli"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Domtoren",
-          "Visit Pieterskerk",
-          "Visit Stadhuis",
-          "Eat at Dimitri Petit"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Stadhuisbrug",
-          "Visit Kalisbrug",
-          "Visit Royal Dutch Jaarbeurs Exhibition and Convention Centre",
-          "Eat at Food and the City"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Skate parade",
-          "Visit Rent a canoe",
-          "Visit Rent a canoe at Rijnstroom",
-          "Eat at Broodje Mario"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.6,
@@ -90566,10 +79639,7 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Kunstmuseum Liechtenstein",
       "Liechtensteinisches Landesmuseum",
-      "The Prince's Wine Collection",
-      "Schloss Vaduz",
       "Postal Museum",
-      "Red House",
       "Schalun Castle",
       "Vaduz Cathedral"
     ],
@@ -90618,7 +79688,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Kunstmuseum Liechtenstein",
           "Visit Liechtensteinisches Landesmuseum",
-          "Visit The Prince's Wine Collection",
+          "Visit Postal Museum",
           "Eat at made-in-italy.li"
         ]
       },
@@ -90626,20 +79696,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Schloss Vaduz",
-          "Visit Postal Museum",
-          "Visit Red House",
-          "Eat at Coa Asia Take Away"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Schalun Castle",
           "Visit Vaduz Cathedral",
-          "Visit FC Vaduz",
-          "Eat at Red Mango Thai Takeaway"
+          "Eat at Coa Asia Take Away"
         ]
       }
     ],
@@ -90679,16 +79738,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Ciutat de les Arts i les Ciències",
-      "El Museu de les Ciències Príncipe Felipe",
-      "L’Oceanogràfic",
-      "L’Umbracle",
-      "L'Àgora",
-      "Pont de l'Assut de l'Or",
-      "Catedral de Santa María de València",
-      "Capella del Sant Calze"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Paella",
@@ -90757,48 +79807,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Ciutat de les Arts i les Ciències",
-          "Visit El Museu de les Ciències Príncipe Felipe",
-          "Visit L’Oceanogràfic",
-          "Eat at Paella"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit L’Umbracle",
-          "Visit L'Àgora",
-          "Visit Pont de l'Assut de l'Or",
-          "Eat at Arròs a banda"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Catedral de Santa María de València",
-          "Visit Capella del Sant Calze",
-          "Visit Festivitat Verge dels Desemparats",
-          "Eat at Arròs negre"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Festa del Corpus Christi",
-          "Visit Els Focs de la Fira",
-          "Visit Nou d’Octubre",
-          "Eat at Fideuà"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.2,
@@ -90835,16 +79844,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Ciutat de les Arts i les Ciències",
-      "El Museu de les Ciències Príncipe Felipe",
-      "L’Oceanogràfic",
-      "L’Umbracle",
-      "L'Àgora",
-      "Pont de l'Assut de l'Or",
-      "Catedral de Santa María de València",
-      "Capella del Sant Calze"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Paella",
@@ -90913,48 +79913,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Ciutat de les Arts i les Ciències",
-          "Visit El Museu de les Ciències Príncipe Felipe",
-          "Visit L’Oceanogràfic",
-          "Eat at Paella"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit L’Umbracle",
-          "Visit L'Àgora",
-          "Visit Pont de l'Assut de l'Or",
-          "Eat at Arròs a banda"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Catedral de Santa María de València",
-          "Visit Capella del Sant Calze",
-          "Visit Festivitat Verge dels Desemparats",
-          "Eat at Arròs negre"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Festa del Corpus Christi",
-          "Visit Els Focs de la Fira",
-          "Visit Nou d’Octubre",
-          "Eat at Fideuà"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -90993,13 +79952,11 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "St. John's Co Cathedral",
-      "Belfrey Tour",
-      "Works by Caravaggio",
       "Palace of the Grand Masters",
-      "The Malta Experience",
       "The Upper Barrakka Gardens",
       "The National Museum of Archaeology",
-      "Fort St. Elmo"
+      "Fort St. Elmo",
+      "St. George's Square"
     ],
     "restaurants": [
       {
@@ -91086,8 +80043,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit St. John's Co Cathedral",
-          "Visit Belfrey Tour",
-          "Visit Works by Caravaggio",
+          "Visit Palace of the Grand Masters",
+          "Visit The Upper Barrakka Gardens",
           "Eat at No.43"
         ]
       },
@@ -91095,30 +80052,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Palace of the Grand Masters",
-          "Visit The Malta Experience",
-          "Visit The Upper Barrakka Gardens",
-          "Eat at The Submarine"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit The National Museum of Archaeology",
           "Visit Fort St. Elmo",
-          "Visit Coastal Walk",
-          "Eat at Croce Bonaci Caterers"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
           "Visit St. George's Square",
-          "Visit Audio Guide",
-          "Visit Saluting Battery",
-          "Eat at Museum Cafe"
+          "Eat at The Submarine"
         ]
       }
     ],
@@ -91159,14 +80096,9 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Museo Naval y Maritimo",
       "Plaza Sotomayor",
-      "La Sebastiana",
       "Baburizza Palace",
-      "National Congress of Chile",
-      "National History Museum",
-      "Mercado El Cardonal",
-      "Funiculars"
+      "National History Museum"
     ],
     "restaurants": [
       {
@@ -91232,40 +80164,10 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Museo Naval y Maritimo",
           "Visit Plaza Sotomayor",
-          "Visit La Sebastiana",
-          "Eat at Mahuel Hot"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
           "Visit Baburizza Palace",
-          "Visit National Congress of Chile",
           "Visit National History Museum",
-          "Eat at Sabronómico"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Mercado El Cardonal",
-          "Visit Funiculars",
-          "Visit Ascensor Artillería",
-          "Eat at La Pica de Vitorio"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Ascensor Cordillera",
-          "Visit Ascensor Florida",
-          "Visit Ascensor San Agustín",
-          "Eat at Restaurante Navoli"
+          "Eat at Mahuel Hot"
         ]
       }
     ],
@@ -91306,14 +80208,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Heureka",
       "Vantaa Agricultural Museum",
-      "Suomen Ilmailumuseo",
-      "Vantaa City museum",
-      "Collection and Conservation Center",
-      "Fazer Experience Visitor Centre",
-      "Vantaankoski Dam",
-      "Viherpaja"
+      "Vantaa City museum"
     ],
     "restaurants": [
       {
@@ -91394,48 +80290,7 @@ const raw: Gen[] = [
       "Vantaa City museum"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Heureka",
-          "Visit Vantaa Agricultural Museum",
-          "Visit Suomen Ilmailumuseo",
-          "Eat at Antell Väritupa"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Vantaa City museum",
-          "Visit Collection and Conservation Center",
-          "Visit Fazer Experience Visitor Centre",
-          "Eat at Balkan Grilli"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Vantaankoski Dam",
-          "Visit Viherpaja",
-          "Visit Flamingo Entertainment Center",
-          "Eat at IKEA furniture mall's cafe and restaurant"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Bio Grand",
-          "Visit David Fitness Club",
-          "Visit ELIXIA Tikkurila",
-          "Eat at Katamaran Grilli"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.7,
@@ -91608,12 +80463,7 @@ const raw: Gen[] = [
     "thingsToDo": [
       "St. Peter's Basilica",
       "St. Peter's Square",
-      "The Vatican Museum",
-      "Swiss Papal Guards",
-      "Castel Sant'Angelo",
-      "Passetto di Borgo",
-      "Palazzo di Giustizia",
-      "Ponte Sant'Angelo"
+      "The Vatican Museum"
     ],
     "restaurants": [
       {
@@ -91686,25 +80536,6 @@ const raw: Gen[] = [
           "Visit The Vatican Museum",
           "Eat at Pastasciutta"
         ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Swiss Papal Guards",
-          "Visit Castel Sant'Angelo",
-          "Visit Passetto di Borgo",
-          "Eat at Old Bridge Gelateria"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Palazzo di Giustizia",
-          "Visit Ponte Sant'Angelo",
-          "Eat at L'Insalata Ricca"
-        ]
       }
     ],
     "hiddenGems": [],
@@ -91746,12 +80577,12 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Livonian Order Castle",
       "Ventspils Market Square",
-      "Ventspils House of Crafts",
       "Senču putekļi (museum)",
       "Ventspils Town Hall Square",
-      "Ostgals",
       "Seaside Open-air Museum",
-      "Svētā Krusta Romas katoļu baznīca"
+      "Ventspils Blue Flag Beach",
+      "Akvaparks",
+      "Walk and play on the beach. Take a dip in the sea"
     ],
     "restaurants": [
       {
@@ -91807,7 +80638,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Livonian Order Castle",
           "Visit Ventspils Market Square",
-          "Visit Ventspils House of Crafts",
+          "Visit Senču putekļi (museum)",
           "Eat at Skroderkrogs"
         ]
       },
@@ -91815,9 +80646,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Senču putekļi (museum)",
           "Visit Ventspils Town Hall Square",
-          "Visit Ostgals",
+          "Visit Seaside Open-air Museum",
+          "Visit Ventspils Blue Flag Beach",
           "Eat at Kafejnīca Ukraina"
         ]
       },
@@ -91825,19 +80656,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Seaside Open-air Museum",
-          "Visit Svētā Krusta Romas katoļu baznīca",
-          "Visit Ventspils Blue Flag Beach",
+          "Visit Akvaparks",
+          "Visit Walk and play on the beach. Take a dip in the sea",
           "Eat at Kafejnīca Betānija"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Narrow-Gauge Railway Mazbanitis",
-          "Visit Skiing Hill \"Lemberga hūte\"",
-          "Visit Akvaparks"
         ]
       }
     ],
@@ -91871,11 +80692,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Igreja Nossa Senhora da Ajuda",
-      "Igreja Nossa Senhora de Belém",
-      "Igreja Nossa Senhora da Conceição"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -91883,17 +80700,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Igreja Nossa Senhora da Ajuda",
-          "Visit Igreja Nossa Senhora de Belém",
-          "Visit Igreja Nossa Senhora da Conceição"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -92028,14 +80835,12 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "COPE Visitor Centre",
       "Kaysone Phomvihane Museum",
       "Lao National Museum",
-      "Patuxai",
       "President Souphanouvong Memorial",
       "Presidential Palace",
-      "Lao Cultural Hall",
-      "Lao Textile Museum"
+      "Lao Textile Museum",
+      "Nam Ngum Lake"
     ],
     "restaurants": [
       {
@@ -92121,9 +80926,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit COPE Visitor Centre",
           "Visit Kaysone Phomvihane Museum",
           "Visit Lao National Museum",
+          "Visit President Souphanouvong Memorial",
           "Eat at Along the river"
         ]
       },
@@ -92131,30 +80936,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Patuxai",
-          "Visit President Souphanouvong Memorial",
           "Visit Presidential Palace",
-          "Eat at Ban Anou Night Market"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Lao Cultural Hall",
           "Visit Lao Textile Museum",
-          "Visit Champakham Massage & Spa",
-          "Eat at Delicious Noodle - Quan Banh Canh Ngon"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit French Cultural Centre",
-          "Visit Kuanjai Sikhot Boxing Gym",
-          "Visit Lao Experiences Cooking Course and Food Tours",
-          "Eat at Name Unknown"
+          "Visit Nam Ngum Lake",
+          "Eat at Ban Anou Night Market"
         ]
       }
     ],
@@ -92235,13 +81020,12 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Gediminas Castle",
-      "Old Arsenal",
       "Museum of Applied Arts & Design",
-      "New Arsenal",
       "Vilnius Cathedral",
       "Palace of the Grand Dukes of Lithuania",
       "Presidential Palace",
-      "Toy Museum"
+      "Toy Museum",
+      "Lithuanian Opera and Ballet Theatre"
     ],
     "restaurants": [
       {
@@ -92335,8 +81119,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Gediminas Castle",
-          "Visit Old Arsenal",
           "Visit Museum of Applied Arts & Design",
+          "Visit Vilnius Cathedral",
           "Eat at Vyno Rūselis"
         ]
       },
@@ -92344,9 +81128,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit New Arsenal",
-          "Visit Vilnius Cathedral",
           "Visit Palace of the Grand Dukes of Lithuania",
+          "Visit Presidential Palace",
+          "Visit Toy Museum",
           "Eat at Vegafè"
         ]
       },
@@ -92354,20 +81138,8 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Presidential Palace",
-          "Visit Toy Museum",
           "Visit Lithuanian Opera and Ballet Theatre",
           "Eat at Pilies kepyklėlė"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Oskaras Koršunovas Theatre (OKT)",
-          "Visit Old Theatre of Vilnius",
-          "Visit Lindyhop Klubas",
-          "Eat at Kamikadzė Japonų virtuvė"
         ]
       }
     ],
@@ -92407,10 +81179,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Museo Artequin en Viña del Mar",
-      "Museo de Arqueología e Historia Francisco Fonck"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "El Guaton"
@@ -92481,11 +81250,9 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Town Hall",
       "St. Barbara's Catholic Church",
       "St. Alexander Nevsky Church",
       "Vitebsk Museum of Art",
-      "Marc Chagall Art Center",
       "Tram museum",
       "Church of the Dormition"
     ],
@@ -92528,9 +81295,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Town Hall",
           "Visit St. Barbara's Catholic Church",
           "Visit St. Alexander Nevsky Church",
+          "Visit Vitebsk Museum of Art",
           "Eat at Usad'ba"
         ]
       },
@@ -92538,18 +81305,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Vitebsk Museum of Art",
-          "Visit Marc Chagall Art Center",
           "Visit Tram museum",
-          "Eat at Traktir"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Church of the Dormition",
-          "Eat at Zolotoy Drakon"
+          "Eat at Traktir"
         ]
       }
     ],
@@ -92591,13 +81349,12 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Mosque of Neshat Pasha",
-      "The House of Eqerem bej Vlora",
-      "The House of Writer Petro Marko",
       "Castle of Kanina",
       "Flag Square & Independence Monument",
       "Ethnographic Museum",
       "Historic Museum",
-      "Mosque of Muradie"
+      "Mosque of Muradie",
+      "Beach"
     ],
     "restaurants": [
       {
@@ -92673,8 +81430,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Mosque of Neshat Pasha",
-          "Visit The House of Eqerem bej Vlora",
-          "Visit The House of Writer Petro Marko",
+          "Visit Castle of Kanina",
+          "Visit Flag Square & Independence Monument",
           "Eat at Taverna Te LILO"
         ]
       },
@@ -92682,9 +81439,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Castle of Kanina",
-          "Visit Flag Square & Independence Monument",
           "Visit Ethnographic Museum",
+          "Visit Historic Museum",
+          "Visit Mosque of Muradie",
           "Eat at Sufllaqe - Vëllezërit Zeneli - Skelë"
         ]
       },
@@ -92692,18 +81449,8 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Historic Museum",
-          "Visit Mosque of Muradie",
-          "Visit Aulona International Folk Festival",
-          "Eat at Restorant Tradicional Zgara"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
           "Visit Beach",
-          "Eat at Pulbardha"
+          "Eat at Restorant Tradicional Zgara"
         ]
       }
     ],
@@ -92784,11 +81531,6 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Walvis Bay Museum",
-      "Dolphin and whale watching",
-      "Dune boarding",
-      "Fishing",
-      "Kite surfing",
-      "Surfing",
       "Vambo Beach"
     ],
     "restaurants": [
@@ -92827,36 +81569,7 @@ const raw: Gen[] = [
       "Walvis Bay Museum"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Walvis Bay Museum",
-          "Visit Dolphin and whale watching",
-          "Visit Dune boarding",
-          "Eat at Probst Willi Bakery"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Fishing",
-          "Visit Kite surfing",
-          "Visit Surfing",
-          "Eat at The Raft Restaurant"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Vambo Beach",
-          "Eat at Crazy Mama's"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -92932,16 +81645,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "The Cross-Culture Warsaw Festival",
-      "Jewish Culture Festival – The Singer's Warsaw",
-      "Warsaw Film Festival",
-      "Planete+ Doc Film Festival",
-      "Burn Selector Festival",
-      "Orange Warsaw Festival",
-      "Warsaw Summer Jazz Days",
-      "Warsaw Autumn"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Atelier Amaro",
@@ -92962,37 +81666,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit The Cross-Culture Warsaw Festival",
-          "Visit Jewish Culture Festival – The Singer's Warsaw",
-          "Visit Warsaw Film Festival",
-          "Eat at Atelier Amaro"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Planete+ Doc Film Festival",
-          "Visit Burn Selector Festival",
-          "Visit Orange Warsaw Festival",
-          "Eat at Senses"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Warsaw Summer Jazz Days",
-          "Visit Warsaw Autumn",
-          "Eat at Targ Śniadaniowy"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -93023,11 +81697,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Waterloo Battlefield, Lion's Mound",
-      "Church of Saint Joseph",
-      "Cinema Wellington"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [
       "ibis Brussels Waterloo"
@@ -93043,17 +81713,7 @@ const raw: Gen[] = [
       "Church of Saint Joseph"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Waterloo Battlefield, Lion's Mound",
-          "Visit Church of Saint Joseph",
-          "Visit Cinema Wellington"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.5,
@@ -93174,14 +81834,10 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "The Knesset",
-      "Supreme Court",
-      "Mount Herzl",
-      "Yad Vashem",
-      "HaPaamon military position",
       "Israel Museum and the Shrine of the Book",
       "Bible Lands Museum",
-      "L.A. Mayer Memorial Museum of Islamic Art"
+      "L.A. Mayer Memorial Museum of Islamic Art",
+      "Great Synagogue"
     ],
     "restaurants": [
       {
@@ -93262,9 +81918,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit The Knesset",
-          "Visit Supreme Court",
-          "Visit Mount Herzl",
+          "Visit Israel Museum and the Shrine of the Book",
+          "Visit Bible Lands Museum",
+          "Visit L.A. Mayer Memorial Museum of Islamic Art",
           "Eat at The Eucalyptus"
         ]
       },
@@ -93272,30 +81928,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Yad Vashem",
-          "Visit HaPaamon military position",
-          "Visit Israel Museum and the Shrine of the Book",
-          "Eat at Shalom Felafel"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Bible Lands Museum",
-          "Visit L.A. Mayer Memorial Museum of Islamic Art",
-          "Visit All Nations Cafe",
-          "Eat at Melech HaFalafel VeHaShawarma"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit First Station",
           "Visit Great Synagogue",
-          "Visit Ein Yael",
-          "Eat at HaSabikh"
+          "Eat at Shalom Felafel"
         ]
       }
     ],
@@ -93335,16 +81969,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Parliament of Namibia",
-      "Independence Museum",
-      "Christuskirche",
-      "Heroes' Acre",
-      "AJ du Plooy Sports Fields",
-      "Archer's Land",
-      "Cats Unlimited",
-      "Daan Viljoen Nature Reserve"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Old Location Ohungi and Restaurant",
@@ -93413,38 +82038,7 @@ const raw: Gen[] = [
       "Independence Museum"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Parliament of Namibia",
-          "Visit Independence Museum",
-          "Visit Christuskirche",
-          "Eat at Old Location Ohungi and Restaurant"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Heroes' Acre",
-          "Visit AJ du Plooy Sports Fields",
-          "Visit Archer's Land",
-          "Eat at Luigi and the Fish"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Cats Unlimited",
-          "Visit Daan Viljoen Nature Reserve",
-          "Visit Avis Dam Nature Reserve",
-          "Eat at Old Continental Cafe"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.8,
@@ -93523,12 +82117,12 @@ const raw: Gen[] = [
     "thingsToDo": [
       "Gallery Lacosse",
       "Graffiti Gallery",
-      "PLATFORM: Centre for Photographic and Digital Arts",
-      "Plug In Institute of Contemporary Art",
-      "Urban Shaman Contemporary Aboriginal Art",
       "Winnipeg Art Gallery",
       "Airforce Heritage Museum and Air Park",
-      "Canadian Museum for Human Rights"
+      "Canadian Museum for Human Rights",
+      "Springhill Winter Sports Park",
+      "Thunder Rapids Fun Park",
+      "Tinkertown Family Fun Park"
     ],
     "restaurants": [
       {
@@ -93622,7 +82216,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Gallery Lacosse",
           "Visit Graffiti Gallery",
-          "Visit PLATFORM: Centre for Photographic and Digital Arts",
+          "Visit Winnipeg Art Gallery",
           "Eat at Affinity Vegetarian Garden"
         ]
       },
@@ -93630,9 +82224,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Plug In Institute of Contemporary Art",
-          "Visit Urban Shaman Contemporary Aboriginal Art",
-          "Visit Winnipeg Art Gallery",
+          "Visit Airforce Heritage Museum and Air Park",
+          "Visit Canadian Museum for Human Rights",
+          "Visit Springhill Winter Sports Park",
           "Eat at Burrito Del Rio Taqueria"
         ]
       },
@@ -93640,20 +82234,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Airforce Heritage Museum and Air Park",
-          "Visit Canadian Museum for Human Rights",
-          "Visit The Golf Dome",
+          "Visit Thunder Rapids Fun Park",
+          "Visit Tinkertown Family Fun Park",
           "Eat at Falafel Place"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Grand Prix Amusements",
-          "Visit Speedworld Indoor Kart Track",
-          "Visit Springhill Winter Sports Park",
-          "Eat at KG Saigon"
         ]
       }
     ],
@@ -93694,11 +82277,8 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Technorama - Swiss Science Centre",
-      "The Oskar Reinhart Collection",
       "Castle Kyburg",
-      "Lake Zurich",
-      "CityStroll"
+      "Lake Zurich"
     ],
     "restaurants": [
       {
@@ -93730,26 +82310,7 @@ const raw: Gen[] = [
       "Castle Kyburg"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Technorama - Swiss Science Centre",
-          "Visit The Oskar Reinhart Collection",
-          "Visit Castle Kyburg",
-          "Eat at Restaurant Tandoor"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Lake Zurich",
-          "Visit CityStroll"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -93901,16 +82462,6 @@ const raw: Gen[] = [
           "Visit Opera Wrocławska",
           "Eat at iBO falafel"
         ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Music Theatre Capitol",
-          "Visit Polski Theatre",
-          "Visit Współczesny Theatre",
-          "Eat at Pizzeria Piekielny Kupiec"
-        ]
       }
     ],
     "hiddenGems": [],
@@ -93995,8 +82546,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Basilica of Our Lady of Peace",
-      "Saint Augustin Cathedral",
-      "Stadium"
+      "Saint Augustin Cathedral"
     ],
     "restaurants": [
       {
@@ -94024,18 +82574,7 @@ const raw: Gen[] = [
       "Saint Augustin Cathedral"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Basilica of Our Lady of Peace",
-          "Visit Saint Augustin Cathedral",
-          "Visit Stadium",
-          "Eat at River Bank"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.3,
@@ -94073,14 +82612,10 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Shwedagon Paya",
-      "Plan",
       "Walkways to the Pagoda",
       "The Pagoda Platform",
       "Day Shrines",
-      "Statue of Wa Thon Da Ray",
-      "The Arakanese Prayer Pavilion",
-      "Maha Ganda Bell"
+      "Statue of Wa Thon Da Ray"
     ],
     "restaurants": [
       {
@@ -94159,9 +82694,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Shwedagon Paya",
-          "Visit Plan",
           "Visit Walkways to the Pagoda",
+          "Visit The Pagoda Platform",
+          "Visit Day Shrines",
           "Eat at 999 Shan Noodle Shop"
         ]
       },
@@ -94169,30 +82704,8 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit The Pagoda Platform",
-          "Visit Day Shrines",
           "Visit Statue of Wa Thon Da Ray",
           "Eat at Aung Mingalar Shan Noodle Shop"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit The Arakanese Prayer Pavilion",
-          "Visit Maha Ganda Bell",
-          "Visit Bogyoke Aung San Stadium",
-          "Eat at Family Thai & Chinese Restaurant"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Dallah Ferry",
-          "Visit Ferris Wheel",
-          "Visit Kokkine Swimming Club",
-          "Eat at Feel"
         ]
       }
     ],
@@ -94233,14 +82746,11 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Cathédrale Notre Dame des Victoires",
       "Mary Queen of the Apostles Basilica",
       "Cameroon Art Museum",
       "National Museum",
       "Afhemi Museum",
-      "Palais des Sports de Warda",
-      "Monument de la Réunification",
-      "Mont Fébé"
+      "Monument de la Réunification"
     ],
     "restaurants": [
       {
@@ -94323,9 +82833,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Cathédrale Notre Dame des Victoires",
           "Visit Mary Queen of the Apostles Basilica",
           "Visit Cameroon Art Museum",
+          "Visit National Museum",
           "Eat at Le St Tropez"
         ]
       },
@@ -94333,30 +82843,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit National Museum",
           "Visit Afhemi Museum",
-          "Visit Palais des Sports de Warda",
-          "Eat at Snack Sanza"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Monument de la Réunification",
-          "Visit Mont Fébé",
-          "Visit Salon Promote",
-          "Eat at La maison blanche"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Journée de la femme",
-          "Visit 20 mai",
-          "Visit YAFE",
-          "Eat at Espresso House"
+          "Eat at Snack Sanza"
         ]
       }
     ],
@@ -94396,14 +82885,9 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Anibare Bay",
       "Aiwo Harbour",
-      "Buada Lagoon",
-      "Command Ridge",
-      "Government buildings",
       "The interior of the island",
-      "Nauru Museum",
-      "Equatorial Gamefishing Charters"
+      "Nauru Museum"
     ],
     "restaurants": [
       {
@@ -94462,29 +82946,10 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Anibare Bay",
           "Visit Aiwo Harbour",
-          "Visit Buada Lagoon",
-          "Eat at Fast food kiosk"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Command Ridge",
-          "Visit Government buildings",
           "Visit The interior of the island",
-          "Eat at Kasuo"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Nauru Museum",
-          "Visit Equatorial Gamefishing Charters",
-          "Eat at Anibare"
+          "Eat at Fast food kiosk"
         ]
       }
     ],
@@ -94583,13 +83048,8 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Ekaterinburg Museum of Fine Arts",
-      "Dam on the River Iset",
-      "House of the Merchant Pshenichnikova",
-      "Building of the HQ of Mining plants",
       "QWERTY Monument",
-      "Sevastjanov House",
-      "Building of the Sverdlovsk Region Railways",
-      "Zotova-Tarasova Manor"
+      "Aquapark Limpopo"
     ],
     "restaurants": [
       {
@@ -94664,39 +83124,9 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Ekaterinburg Museum of Fine Arts",
-          "Visit Dam on the River Iset",
-          "Visit House of the Merchant Pshenichnikova",
-          "Eat at Si!"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Building of the HQ of Mining plants",
           "Visit QWERTY Monument",
-          "Visit Sevastjanov House",
-          "Eat at Pizza Mia"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Building of the Sverdlovsk Region Railways",
-          "Visit Zotova-Tarasova Manor",
           "Visit Aquapark Limpopo",
-          "Eat at Il Patio/Friday's/Planeta Sushi"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Circus",
-          "Visit Yekaterinburg For You English Club",
-          "Visit Arboretum",
-          "Eat at Noble House"
+          "Eat at Si!"
         ]
       }
     ],
@@ -94737,14 +83167,14 @@ const raw: Gen[] = [
     "metro": "",
     "transport": "",
     "thingsToDo": [
-      "Katoghike",
       "Katoghike Tsiranavor Church of Avan",
       "St Gregory the Illuminator Cathedral",
       "Saint Sarkis Cathedral",
-      "St Astvatsatsin of Nork",
       "St John The Baptist Church",
-      "Erebuni Fortress",
-      "Republic Square"
+      "Republic Square",
+      "Yerevan Zoo",
+      "Botanical garden of Yerevan",
+      "Children's Railway Park"
     ],
     "restaurants": [
       {
@@ -94828,9 +83258,9 @@ const raw: Gen[] = [
         "day": 1,
         "title": "Icons & landmarks",
         "activities": [
-          "Visit Katoghike",
           "Visit Katoghike Tsiranavor Church of Avan",
           "Visit St Gregory the Illuminator Cathedral",
+          "Visit Saint Sarkis Cathedral",
           "Eat at Master Class"
         ]
       },
@@ -94838,9 +83268,9 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Saint Sarkis Cathedral",
-          "Visit St Astvatsatsin of Nork",
           "Visit St John The Baptist Church",
+          "Visit Republic Square",
+          "Visit Yerevan Zoo",
           "Eat at Mer Taghe"
         ]
       },
@@ -94848,20 +83278,9 @@ const raw: Gen[] = [
         "day": 3,
         "title": "Markets, parks & hidden corners",
         "activities": [
-          "Visit Erebuni Fortress",
-          "Visit Republic Square",
-          "Visit Hrazdan Gorge partying",
+          "Visit Botanical garden of Yerevan",
+          "Visit Children's Railway Park",
           "Eat at OST"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Climb the Cascades",
-          "Visit Catch a concert",
-          "Visit Yerevan Water World",
-          "Eat at Meghedi"
         ]
       }
     ],
@@ -94951,13 +83370,11 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Marine Tower",
-      "Hikawa Maru",
       "Landmark Tower",
       "Ōsanbashi Pier",
-      "Keiō University - Hiyoshi Campus",
-      "Hiyoshi Tunnels",
       "Yokohama Bay Bridge",
-      "Street Performance"
+      "Zoo Nogeyama",
+      "Nissan Water Park"
     ],
     "restaurants": [
       {
@@ -95038,8 +83455,8 @@ const raw: Gen[] = [
         "title": "Icons & landmarks",
         "activities": [
           "Visit Marine Tower",
-          "Visit Hikawa Maru",
           "Visit Landmark Tower",
+          "Visit Ōsanbashi Pier",
           "Eat at Shitateya"
         ]
       },
@@ -95047,30 +83464,10 @@ const raw: Gen[] = [
         "day": 2,
         "title": "Culture & neighborhoods",
         "activities": [
-          "Visit Ōsanbashi Pier",
-          "Visit Keiō University - Hiyoshi Campus",
-          "Visit Hiyoshi Tunnels",
-          "Eat at Le Sucre"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
           "Visit Yokohama Bay Bridge",
-          "Visit Street Performance",
-          "Visit Yokohama Cosmo World",
-          "Eat at Italian Bar BASIL"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Manyou Club",
-          "Visit Hakkeijima Seaparadise",
           "Visit Zoo Nogeyama",
-          "Eat at Kua'Aina"
+          "Visit Nissan Water Park",
+          "Eat at Le Sucre"
         ]
       }
     ],
@@ -95194,16 +83591,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Crkva svetog Donata",
-      "Katedrala sv. Stošije",
-      "St. Mary & St. Simeon",
-      "Sveučilište u Zadru",
-      "Forum Romanum",
-      "Kopnena Vrata",
-      "Morske orgulje",
-      "Pozdrav Suncu"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Crazy Pizza",
@@ -95271,37 +83659,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Crkva svetog Donata",
-          "Visit Katedrala sv. Stošije",
-          "Visit St. Mary & St. Simeon",
-          "Eat at Crazy Pizza"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Sveučilište u Zadru",
-          "Visit Forum Romanum",
-          "Visit Kopnena Vrata",
-          "Eat at Konoba Tovar"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Morske orgulje",
-          "Visit Pozdrav Suncu",
-          "Eat at Barbakan"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.7,
@@ -95438,18 +83796,7 @@ const raw: Gen[] = [
         "activities": [
           "Visit Museum of Hangovers",
           "Visit Klovićevi Dvori Gallery",
-          "Visit Strossmayerovo šetalište",
           "Eat at La Štruk"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Vatroslav Lisinski Concert Hall",
-          "Visit Snow Queen Trophy",
-          "Visit CineStar Zagreb",
-          "Eat at Taquitos Bandidos"
         ]
       }
     ],
@@ -95489,15 +83836,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Spice tour",
-      "East Beaches",
-      "[[Kendwa",
-      "Scuba diving and snorkeling",
-      "Dolphin tour",
-      "Ride on a local's dhow",
-      "Zanzibar Butterfly Centre"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Forodhani Gardens",
@@ -95510,34 +83849,7 @@ const raw: Gen[] = [
     "nightlife": [],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Spice tour",
-          "Visit East Beaches",
-          "Visit [[Kendwa",
-          "Eat at Forodhani Gardens"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Scuba diving and snorkeling",
-          "Visit Dolphin tour",
-          "Visit Ride on a local's dhow"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Zanzibar Butterfly Centre"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.7,
@@ -95576,13 +83888,7 @@ const raw: Gen[] = [
     "transport": "",
     "thingsToDo": [
       "Cathedral-Basilica of Our Lady of the Pillar",
-      "Cathedral of the Savior of Zaragoza",
-      "Iglesias Mudejares",
-      "Iglesia de Santa María Magdalena",
-      "Iglesia de San Miguel de los Navarros",
-      "Iglesia de San Pablo",
-      "Basílica of Santa Engracia",
-      "Palacio de la Aljaferia"
+      "Cathedral of the Savior of Zaragoza"
     ],
     "restaurants": [
       {
@@ -95659,47 +83965,7 @@ const raw: Gen[] = [
       "Cathedral of the Savior of Zaragoza"
     ],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Cathedral-Basilica of Our Lady of the Pillar",
-          "Visit Cathedral of the Savior of Zaragoza",
-          "Visit Iglesias Mudejares",
-          "Eat at Cebrian"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Iglesia de Santa María Magdalena",
-          "Visit Iglesia de San Miguel de los Navarros",
-          "Visit Iglesia de San Pablo",
-          "Eat at La Miguería"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Basílica of Santa Engracia",
-          "Visit Palacio de la Aljaferia",
-          "Visit Centro Deportivo Municipal Actur",
-          "Eat at Taberna de Doña Casta"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Centro Deportivo Municipal Salduba",
-          "Visit Palacio Municipal de Deportes",
-          "Eat at Café Restaurante Casa de Martino"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.7,
@@ -95736,9 +84002,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "The global village of the animal"
-    ],
+    "thingsToDo": [],
     "restaurants": [],
     "hotels": [],
     "stays": [],
@@ -95881,7 +84145,7 @@ const raw: Gen[] = [
       "Church of St. Stephen the King",
       "Church of St. George",
       "Budatín Castle",
-      "Považská galéria umenia"
+      "Lesopark Žilina"
     ],
     "restaurants": [
       {
@@ -95987,19 +84251,8 @@ const raw: Gen[] = [
         "title": "Markets, parks & hidden corners",
         "activities": [
           "Visit Budatín Castle",
-          "Visit Považská galéria umenia",
-          "Visit Zilina dam",
-          "Eat at Trattoria Pepe"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
           "Visit Lesopark Žilina",
-          "Visit Stanica cultural node",
-          "Visit Dom umenia Fatra",
-          "Eat at Na bráne"
+          "Eat at Trattoria Pepe"
         ]
       }
     ],
@@ -96228,16 +84481,7 @@ const raw: Gen[] = [
     "airport": "",
     "metro": "",
     "transport": "",
-    "thingsToDo": [
-      "Bahnhofstrasse",
-      "Lindenhof",
-      "Lake Promenade",
-      "Grossmünster",
-      "Fraumünster",
-      "Schanzengraben",
-      "Langstrasse",
-      "Friedhof Fluntern"
-    ],
+    "thingsToDo": [],
     "restaurants": [
       {
         "name": "Rheinfelder Bierhalle",
@@ -96311,48 +84555,7 @@ const raw: Gen[] = [
     ],
     "museums": [],
     "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Bahnhofstrasse",
-          "Visit Lindenhof",
-          "Visit Lake Promenade",
-          "Eat at Rheinfelder Bierhalle"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Grossmünster",
-          "Visit Fraumünster",
-          "Visit Schanzengraben",
-          "Eat at Pizzeria Molino"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Langstrasse",
-          "Visit Friedhof Fluntern",
-          "Visit Polybahn",
-          "Eat at Zurich Fried Chicken"
-        ]
-      },
-      {
-        "day": 4,
-        "title": "Day trips & more",
-        "activities": [
-          "Visit Oberer/Unterer Letten",
-          "Visit trip on the Zürichsee",
-          "Visit Limmat river cruise",
-          "Eat at Baba's take-away (Restaurant Pumpstation)"
-        ]
-      }
-    ],
+    "itinerary": [],
     "hiddenGems": [],
     "tips": [],
     "rating": 4.4,
