@@ -38,11 +38,11 @@ export function KnowBeforeYouGo({
   return (
     <div>
       <SectionHeading eyebrow="Plan with confidence" title={`Know before you go`} />
-      <div className="mt-8 grid gap-4 sm:grid-cols-2">
+      <div className="mt-8 columns-1 gap-4 sm:columns-2 [&>*]:mb-4">
         {cards.map((f) => (
           <div
             key={f.key}
-            className="rounded-3xl border border-border bg-card p-6 shadow-soft"
+            className="break-inside-avoid rounded-3xl border border-border bg-card p-6 shadow-soft"
           >
             <div className="flex items-center gap-2.5">
               <span className="grid size-9 place-items-center rounded-xl bg-primary/10 text-primary">

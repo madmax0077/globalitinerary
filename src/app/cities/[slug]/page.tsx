@@ -96,7 +96,7 @@ function ListCard({
 }) {
   if (!items || items.length === 0) return null;
   return (
-    <div className="rounded-3xl border border-border bg-card p-6 shadow-soft">
+    <div className="break-inside-avoid rounded-3xl border border-border bg-card p-6 shadow-soft">
       <div className="flex items-center gap-2.5">
         <span className="grid size-9 place-items-center rounded-xl bg-primary/10 text-primary">
           <Icon className="size-4" />
@@ -295,9 +295,9 @@ export default async function CityPage({
           <AdSlot slot="city-mid" className="min-h-[120px]" />
 
           {/* Eat / stay / shop grids */}
-          <div className="grid gap-5 sm:grid-cols-2">
+          <div className="columns-1 gap-5 sm:columns-2 [&>*]:mb-5">
             {city.restaurants.length > 0 && (
-              <div className="rounded-3xl border border-border bg-card p-6 shadow-soft">
+              <div className="break-inside-avoid rounded-3xl border border-border bg-card p-6 shadow-soft">
                 <div className="flex items-center gap-2.5">
                   <span className="grid size-9 place-items-center rounded-xl bg-sunset/10 text-sunset">
                     <UtensilsCrossed className="size-4" />
@@ -333,7 +333,7 @@ export default async function CityPage({
           </div>
 
           {/* Hidden gems & tips */}
-          <div className="grid gap-5 sm:grid-cols-2">
+          <div className="columns-1 gap-5 sm:columns-2 [&>*]:mb-5">
             <ListCard icon={Gem} title="Hidden gems" items={city.hiddenGems} />
             <ListCard icon={Lightbulb} title="Travel tips" items={city.tips} />
           </div>
