@@ -34,7 +34,7 @@ try {
 const uniq = (arr) => Array.from(new Set(arr));
 
 // Slugs already owned by hand-curated cities (these win, so we skip them here).
-const curatedSlugs = new Set(["tokyo", "kyoto", "rome", "venice", "dubai", "santorini"]);
+const curatedSlugs = new Set(["tokyo", "kyoto", "rome", "venice", "dubai", "santorini", "bali"]);
 
 function hash(str) {
   let h = 2166136261;

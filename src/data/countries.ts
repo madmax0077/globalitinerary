@@ -375,13 +375,32 @@ const curatedCountries: Country[] = [
 
 const curatedBySlug = new Map(curatedCountries.map((c) => [c.slug, c]));
 
+/** Light factual patches for generated countries (without full re-curation). */
+const countryPatches: Partial<Record<string, Partial<Country>>> = {
+  indonesia: {
+    timezone: "GMT+7 (Java WIB) · GMT+8 (Bali WITA) · GMT+9 (Papua WIT)",
+    bestTime: "April–October dry season; May–June and September are ideal shoulder months",
+    weather: "Tropical — hot and humid year-round, with a clearer dry season from April to October",
+    drivingSide: "left",
+    internet: "4G/5G strong in Jakarta, Bali and major cities; Gojek/Grab eSIMs and tourist SIMs are easy",
+    transportation: "Domestic flights link the islands; in Bali use drivers, scooters and Grab/Gojek",
+    topCitySlugs: ["jakarta", "bali", "surabaya", "bandung", "medan"],
+    tags: ["Asia", "Islands", "Beaches", "Temples", "Culture", "Food"],
+  },
+};
+
 /**
  * Full list of countries: every generated country, with curated entries
  * overriding their auto-generated counterparts. Sorted alphabetically.
  */
 export const countries: Country[] = [
   ...curatedCountries.filter((c) => !generatedCountries.some((g) => g.slug === c.slug)),
-  ...generatedCountries.map((g) => curatedBySlug.get(g.slug) ?? g),
+  ...generatedCountries.map((g) => {
+    const curated = curatedBySlug.get(g.slug);
+    const base = curated ?? g;
+    const patch = countryPatches[g.slug];
+    return patch ? { ...base, ...patch } : base;
+  }),
 ].sort((a, b) => a.name.localeCompare(b.name));
 
 export function getCountry(slug: string) {

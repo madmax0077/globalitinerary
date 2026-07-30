@@ -112,6 +112,20 @@ export const cityPicks: Record<string, CityPicks> = {
       { name: "La Siesta Premium Hang Be", area: "Old Quarter", priceLevel: 2, note: "Top-rated boutique in the Old Quarter" },
     ],
   },
+  bali: {
+    restaurants: [
+      { name: "Nasi Ayam Kedewatan Ibu Mangku", cuisine: "Balinese", priceLevel: 1, note: "Ubud legend for spicy chicken rice since the 1960s" },
+      { name: "Pak Malen", cuisine: "Babi guling", priceLevel: 1, note: "Seminyak roast suckling pig — locals' pick" },
+      { name: "Made's Warung", cuisine: "Indonesian", priceLevel: 2, note: "Island institution since 1969 (Kuta / Seminyak)" },
+      { name: "Sun Sun Warung", cuisine: "Balinese", priceLevel: 1, note: "Family-compound warung in central Ubud" },
+    ],
+    stays: [
+      { name: "Four Seasons Resort Bali at Sayan", area: "Ubud", priceLevel: 4, note: "Iconic riverside resort above the Ayung Valley" },
+      { name: "COMO Shambhala Estate", area: "Ubud", priceLevel: 4, note: "Top-rated wellness retreat in the jungle" },
+      { name: "The Mulia", area: "Nusa Dua", priceLevel: 4, note: "Beachfront luxury favourite for first-timers" },
+      { name: "Potato Head Suites", area: "Seminyak", priceLevel: 3, note: "Design beach club hotel — tourist favourite" },
+    ],
+  },
   singapore: {
     restaurants: [
       { name: "Tian Tian Hainanese Chicken Rice", cuisine: "Chicken rice", priceLevel: 1, note: "Maxwell Food Centre legend" },
