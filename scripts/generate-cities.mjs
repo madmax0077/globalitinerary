@@ -142,13 +142,45 @@ for (const city of cities) {
   const buy = wv.buy || [];
   const sleep = wv.sleep || [];
 
+  // Normalize Wikivoyage listings: older maps are bare strings; enriched maps
+  // are { name, note?, priceLevel? }.
+  const asListing = (x) =>
+    typeof x === "string" ? { name: x } : x && x.name ? { name: x.name, note: x.note, priceLevel: x.priceLevel } : null;
+  const eatList = eat.map(asListing).filter(Boolean);
+  const sleepList = sleep.map(asListing).filter(Boolean);
+
+  // "Where to eat" = local favourites: prefer budget/mid ($-$$) when priced.
+  const localEats = [
+    ...eatList.filter((e) => !e.priceLevel || e.priceLevel <= 2),
+    ...eatList.filter((e) => e.priceLevel && e.priceLevel > 2),
+  ].slice(0, 6);
+
+  // "Where to stay" = tourist favourites / top-rated hotels — drop hostels &
+  // backpacker dorms, prefer proper hotels/resorts.
+  const BUDGET_SLEEP = /hostel|backpack|capsule|pod\b|camping|campsite|couchsurfing|media cafe|manga cafe/i;
+  const HOTELISH = /hotel|resort|palace|ritz|hyatt|marriott|hilton|sheraton|sofitel|novotel|ibis|radisson|westin|conrad|fairmont|peninsula|oberoi|belmond|aman\b|st\.?\s*regis|four seasons|mandarin|shangri|ryokan|riad|villa|suite|inn\b|lodge|boutique/i;
+  const touristStays = [
+    ...sleepList.filter((s) => HOTELISH.test(s.name) && !BUDGET_SLEEP.test(s.name)),
+    ...sleepList.filter((s) => !BUDGET_SLEEP.test(s.name) && !HOTELISH.test(s.name)),
+  ].slice(0, 5);
+
   const allSights = uniq([...see, ...doList]);
   const thingsToDo = allSights.slice(0, 8);
-  const itinerary = buildItinerary(allSights.slice(0, 12), eat);
+  const eatNames = localEats.map((e) => e.name);
+  const itinerary = buildItinerary(allSights.slice(0, 12), eatNames);
   const museums = see
     .filter((n) => /museum|gallery|cathedral|palace|castle|temple|basilica|monument|shrine|mosque|church/i.test(n))
     .slice(0, 6);
-  const restaurants = eat.map((n) => ({ name: n }));
+  const restaurants = localEats.map((e) => ({
+    name: e.name,
+    ...(e.note ? { note: e.note } : {}),
+    ...(e.priceLevel ? { priceLevel: e.priceLevel } : {}),
+  }));
+  const stays = touristStays.map((s) => ({
+    name: s.name,
+    ...(s.note ? { note: s.note } : {}),
+    ...(s.priceLevel ? { priceLevel: s.priceLevel } : {}),
+  }));
 
   const popLine = population ? `home to around ${fmt(population)} people` : null;
   const roleLine = isCapital
@@ -176,7 +208,8 @@ for (const city of cities) {
     transport: "",
     thingsToDo,
     restaurants,
-    hotels: sleep.slice(0, 5),
+    hotels: stays.map((s) => s.name),
+    stays,
     shopping: buy.slice(0, 6),
     nightlife: drink.slice(0, 6),
     museums,

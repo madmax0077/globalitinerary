@@ -21,6 +21,7 @@ import { getCity, getPrerenderedCitySlugs, cities } from "@/data/cities";
 import { getAttractionsByCity } from "@/data/attractions";
 import { getFreeThings } from "@/lib/free-things";
 import { getCountry } from "@/data/countries";
+import type { Stay } from "@/lib/types";
 import { Breadcrumbs } from "@/components/shared/breadcrumbs";
 import { DestinationCard } from "@/components/shared/destination-card";
 import { Gallery } from "@/components/shared/gallery";
@@ -302,30 +303,67 @@ export default async function CityPage({
                   <span className="grid size-9 place-items-center rounded-xl bg-sunset/10 text-sunset">
                     <UtensilsCrossed className="size-4" />
                   </span>
-                  <h3 className="font-display text-lg font-bold">Where to eat</h3>
+                  <div>
+                    <h3 className="font-display text-lg font-bold">Where to eat</h3>
+                    <p className="text-xs text-muted-foreground">Local favourites</p>
+                  </div>
                 </div>
                 <ul className="mt-4 flex flex-col gap-3">
                   {city.restaurants.map((r) => (
-                    <li key={r.name} className="flex items-center justify-between gap-3">
+                    <li key={r.name} className="flex items-start justify-between gap-3">
                       <div>
                         <p className="text-sm font-semibold">{r.name}</p>
                         {(r.cuisine || r.note) && (
-                          <p className="text-xs text-muted-foreground">
+                          <p className="text-xs leading-relaxed text-muted-foreground">
                             {r.cuisine}
-                            {r.cuisine && r.note ? " • " : ""}
+                            {r.cuisine && r.note ? " · " : ""}
                             {r.note ?? ""}
                           </p>
                         )}
                       </div>
                       {typeof r.priceLevel === "number" && (
-                        <span className="text-sm text-emerald">{"$".repeat(r.priceLevel)}</span>
+                        <span className="shrink-0 text-sm text-emerald">{"$".repeat(r.priceLevel)}</span>
                       )}
                     </li>
                   ))}
                 </ul>
               </div>
             )}
-            <ListCard icon={Hotel} title="Where to stay" items={city.hotels} />
+            {(city.stays?.length ?? 0) > 0 || city.hotels.length > 0 ? (
+              <div className="break-inside-avoid rounded-3xl border border-border bg-card p-6 shadow-soft">
+                <div className="flex items-center gap-2.5">
+                  <span className="grid size-9 place-items-center rounded-xl bg-primary/10 text-primary">
+                    <Hotel className="size-4" />
+                  </span>
+                  <div>
+                    <h3 className="font-display text-lg font-bold">Where to stay</h3>
+                    <p className="text-xs text-muted-foreground">Tourist favourites &amp; top-rated</p>
+                  </div>
+                </div>
+                <ul className="mt-4 flex flex-col gap-3">
+                  {(city.stays && city.stays.length > 0
+                    ? city.stays
+                    : city.hotels.map((name): Stay => ({ name }))
+                  ).map((s) => (
+                    <li key={s.name} className="flex items-start justify-between gap-3">
+                      <div>
+                        <p className="text-sm font-semibold">{s.name}</p>
+                        {(s.area || s.note) && (
+                          <p className="text-xs leading-relaxed text-muted-foreground">
+                            {s.area}
+                            {s.area && s.note ? " · " : ""}
+                            {s.note ?? ""}
+                          </p>
+                        )}
+                      </div>
+                      {typeof s.priceLevel === "number" && (
+                        <span className="shrink-0 text-sm text-emerald">{"$".repeat(s.priceLevel)}</span>
+                      )}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ) : null}
             <ListCard icon={ShoppingBag} title="Shopping" items={city.shopping} />
             <ListCard icon={Wine} title="Nightlife" items={city.nightlife} />
             <ListCard icon={Landmark} title="Museums & culture" items={city.museums} />

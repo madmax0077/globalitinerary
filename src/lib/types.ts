@@ -52,6 +52,13 @@ export interface Restaurant {
   note?: string;
 }
 
+export interface Stay {
+  name: string;
+  area?: string;
+  priceLevel?: 1 | 2 | 3 | 4;
+  note?: string;
+}
+
 export interface ItineraryDay {
   day: number;
   title: string;
@@ -77,6 +84,7 @@ export interface City {
   thingsToDo: string[];
   restaurants: Restaurant[];
   hotels: string[];
+  stays?: Stay[];
   shopping: string[];
   nightlife: string[];
   museums: string[];

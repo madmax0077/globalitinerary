@@ -1,6 +1,25 @@
-import type { City } from "@/lib/types";
+import type { City, Stay } from "@/lib/types";
 import { PHOTOS, unsplash } from "@/lib/images";
 import { generatedCities } from "@/data/cities.generated";
+import { cityPicks } from "@/data/city-picks";
+
+/** Prefer curated local-favourite eats + tourist-favourite stays when available. */
+function applyCityPicks(city: City): City {
+  const picks = cityPicks[city.slug];
+  if (picks) {
+    return {
+      ...city,
+      restaurants: picks.restaurants,
+      stays: picks.stays,
+      hotels: picks.stays.map((s) => s.name),
+    };
+  }
+  const stays: Stay[] =
+    city.stays && city.stays.length > 0
+      ? city.stays
+      : (city.hotels || []).map((name) => ({ name }));
+  return { ...city, stays };
+}
 
 const curatedCities: City[] = [
   {
@@ -301,11 +320,14 @@ const curatedCities: City[] = [
 
 const curatedSlugs = new Set(curatedCities.map((c) => c.slug));
 
-// Merge hand-curated cities (which win on slug conflicts) with the generated set.
+// Merge hand-curated cities (which win on slug conflicts) with the generated set,
+// then overlay curated eat/stay picks (local favourites / tourist favourites).
 export const cities: City[] = [
   ...curatedCities,
   ...generatedCities.filter((c) => !curatedSlugs.has(c.slug)),
-].sort((a, b) => a.name.localeCompare(b.name));
+]
+  .map(applyCityPicks)
+  .sort((a, b) => a.name.localeCompare(b.name));
 
 export function getCity(slug: string) {
   return cities.find((c) => c.slug === slug);
