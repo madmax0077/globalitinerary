@@ -386,6 +386,12 @@ export default async function CountryPage({
                 </div>
               ))}
             </dl>
+            <Link
+              href={`/countries/${country.slug}/visa`}
+              className="mt-5 flex items-center justify-center gap-2 rounded-full bg-primary px-4 py-2.5 text-sm font-semibold text-primary-foreground shadow-soft transition hover:opacity-90"
+            >
+              <Plane className="size-4" /> Check visa requirements
+            </Link>
           </div>
 
           <LocalTime timezone={country.timezone} label={country.capital} />
