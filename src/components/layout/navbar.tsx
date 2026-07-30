@@ -88,11 +88,11 @@ export function Navbar() {
             )}
           </nav>
 
-          <div className="ml-auto hidden max-w-xs flex-1 md:block lg:max-w-sm">
+          <div className="ml-auto hidden min-w-0 max-w-xs flex-1 md:block lg:max-w-sm">
             <SearchTrigger />
           </div>
 
-          <div className="ml-auto flex items-center gap-2 md:ml-0">
+          <div className="ml-auto flex shrink-0 items-center gap-2 md:ml-0">
             <SearchIconButton className="md:hidden" />
             <Link
               href="/favorites"
