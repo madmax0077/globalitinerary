@@ -11,6 +11,7 @@ import {
 } from "lucide-react";
 import type { CountryInfo } from "@/data/country-info.generated";
 import { SectionHeading } from "@/components/shared/section-heading";
+import { parseWikiSections } from "@/lib/wikitext";
 
 const FIELDS: { key: keyof CountryInfo; label: string; icon: React.ElementType }[] = [
   { key: "getIn", label: "Getting in & visas", icon: Plane },
@@ -49,7 +50,18 @@ export function KnowBeforeYouGo({
               </span>
               <h3 className="font-display text-base font-bold">{f.label}</h3>
             </div>
-            <p className="mt-3 text-sm leading-relaxed text-muted-foreground">{info[f.key]}</p>
+            <div className="mt-3 flex flex-col gap-2.5">
+              {parseWikiSections(String(info[f.key])).map((sec, i) => (
+                <div key={i}>
+                  {sec.heading && (
+                    <p className="text-sm font-semibold text-foreground">{sec.heading}</p>
+                  )}
+                  {sec.body && (
+                    <p className="text-sm leading-relaxed text-muted-foreground">{sec.body}</p>
+                  )}
+                </div>
+              ))}
+            </div>
           </div>
         ))}
       </div>
