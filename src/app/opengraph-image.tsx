@@ -28,14 +28,36 @@ export default function OpengraphImage() {
               width: 64,
               height: 64,
               borderRadius: 20,
-              background: "rgba(255,255,255,0.2)",
+              background: "rgba(255,255,255,0.18)",
               display: "flex",
               alignItems: "center",
               justifyContent: "center",
-              fontSize: 40,
+              position: "relative",
             }}
           >
-            🌍
+            <div
+              style={{
+                position: "absolute",
+                width: 52,
+                height: 21,
+                border: "4px solid #fff",
+                borderRadius: 9999,
+                transform: "rotate(-30deg)",
+                opacity: 0.92,
+              }}
+            />
+            <div style={{ width: 27, height: 27, borderRadius: 9999, background: "#fff" }} />
+            <div
+              style={{
+                position: "absolute",
+                top: 12,
+                right: 11,
+                width: 10,
+                height: 10,
+                borderRadius: 9999,
+                background: "#F97316",
+              }}
+            />
           </div>
           <div style={{ fontSize: 40, fontWeight: 800 }}>{siteConfig.name}</div>
         </div>

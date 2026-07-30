@@ -52,7 +52,10 @@ export const metadata: Metadata = {
     creator: siteConfig.twitter,
   },
   robots: { index: true, follow: true },
-  icons: { icon: "/favicon.ico" },
+  icons: {
+    icon: [{ url: "/icon.svg", type: "image/svg+xml" }],
+    apple: [{ url: "/apple-icon", sizes: "180x180" }],
+  },
   ...(adsenseClient
     ? { other: { "google-adsense-account": adsenseClient } }
     : {}),
