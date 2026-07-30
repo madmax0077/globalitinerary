@@ -31,7 +31,9 @@ import { Badge } from "@/components/ui/badge";
 import { Reveal } from "@/components/ui/reveal";
 import { SectionHeading } from "@/components/shared/section-heading";
 import { KnowBeforeYouGo } from "@/components/shared/know-before";
+import { PracticalFacts } from "@/components/shared/practical-facts";
 import { BestMonths } from "@/components/shared/best-months";
+import { ClimateChart } from "@/components/tools/climate-chart";
 import { CurrencyConverter } from "@/components/tools/currency-converter";
 import { LocalTime } from "@/components/tools/local-time";
 import { WeatherNow } from "@/components/tools/weather-now";
@@ -259,6 +261,15 @@ export default async function CountryPage({
           {/* Best months */}
           <BestMonths bestTime={country.bestTime} />
 
+          {/* Climate by month (rainfall + temperature) */}
+          <div className="mt-8">
+            <ClimateChart
+              lat={country.coordinates.lat}
+              lng={country.coordinates.lng}
+              label={country.name}
+            />
+          </div>
+
           {/* Know before you go (real Wikivoyage guidance) */}
           {info && <KnowBeforeYouGo info={info} countryName={country.name} />}
 
@@ -393,6 +404,12 @@ export default async function CountryPage({
               <Plane className="size-4" /> Check visa requirements
             </Link>
           </div>
+
+          <PracticalFacts
+            iso2={country.id}
+            drivingSide={country.drivingSide}
+            countryName={country.name}
+          />
 
           <LocalTime timezone={country.timezone} label={country.capital} />
           <WeatherNow

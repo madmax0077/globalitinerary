@@ -10,6 +10,7 @@ import {
   Ban,
   Globe2,
 } from "lucide-react";
+import Link from "next/link";
 import {
   VISA_TYPES,
   type VisaType,
@@ -18,6 +19,7 @@ import {
   buildDocuments,
   officialSourceUrl,
 } from "@/lib/visa-docs";
+import { etiasStatus } from "@/lib/etias";
 import { cn } from "@/lib/utils";
 
 export type VisaColumnItem = {
@@ -45,9 +47,11 @@ const STORAGE_KEY = "gi:home-country";
 
 export function VisaChecker({
   destinationName,
+  destIso2,
   column,
 }: {
   destinationName: string;
+  destIso2?: string;
   column: VisaColumnItem[];
 }) {
   const [home, setHome] = React.useState<string>("");
@@ -77,6 +81,8 @@ export function VisaChecker({
   const meta = status ? STATUS_META[status.code] : null;
   const docs = status ? buildDocuments(status.code, type) : [];
   const ToneIcon = meta ? toneIcon[meta.tone] : ShieldCheck;
+  const etias =
+    selected && destIso2 ? etiasStatus(destIso2, selected.iso3, selected.code) : null;
 
   return (
     <div className="rounded-3xl border border-border bg-card p-6 shadow-soft sm:p-8">
@@ -135,6 +141,30 @@ export function VisaChecker({
               </p>
             </div>
           </div>
+
+          {/* ETIAS / EES notice for the Schengen area */}
+          {etias === "etias" && (
+            <div className="mt-4 rounded-2xl border border-sky-500/30 bg-sky-500/5 p-4">
+              <p className="text-sm">
+                <strong>You&apos;ll also need ETIAS.</strong> {destinationName} is in the
+                Schengen area. From 2026, visa-exempt travellers must get an approved{" "}
+                <strong>ETIAS travel authorisation</strong> online before departure, and
+                your entry/exit will be registered by the new{" "}
+                <strong>EES</strong> system at the border.{" "}
+                <Link href="/etias-ees" className="font-semibold text-primary hover:underline">
+                  Read the ETIAS &amp; EES guide →
+                </Link>
+              </p>
+            </div>
+          )}
+          {etias === "free-movement" && (
+            <div className="mt-4 rounded-2xl border border-emerald-500/30 bg-emerald-500/5 p-4">
+              <p className="text-sm">
+                As an EU/EEA/Swiss citizen you have <strong>freedom of movement</strong> —
+                no ETIAS or visa is required, though your passport/ID is still checked.
+              </p>
+            </div>
+          )}
 
           {/* Document checklist */}
           {status!.code !== "X" && (

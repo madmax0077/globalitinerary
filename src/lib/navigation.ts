@@ -55,7 +55,11 @@ export const footerNav = {
   ],
   Resources: [
     { label: "Trip Planner", href: "/planner" },
+    { label: "Multi-City Route Planner", href: "/route-planner" },
+    { label: "Trip Cost Estimator", href: "/trip-cost" },
+    { label: "Packing List", href: "/packing-list" },
     { label: "Compare Destinations", href: "/compare" },
+    { label: "ETIAS & EES Guide", href: "/etias-ees" },
     { label: "Saved Places", href: "/favorites" },
     { label: "Interactive Map", href: "/map" },
     { label: "Newsletter", href: "/#newsletter" },

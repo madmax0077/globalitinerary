@@ -74,7 +74,11 @@ export default async function CountryVisaPage({
       <div className="container-lux py-12">
         {column.length > 0 ? (
           <div className="mx-auto max-w-3xl">
-            <VisaChecker destinationName={country.name} column={column} />
+            <VisaChecker
+              destinationName={country.name}
+              destIso2={(country.id || "").toUpperCase()}
+              column={column}
+            />
           </div>
         ) : (
           <p className="mx-auto max-w-2xl rounded-3xl border border-border bg-card p-8 text-center text-muted-foreground shadow-soft">

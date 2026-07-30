@@ -32,6 +32,7 @@ import { AdSlot } from "@/components/shared/ad-slot";
 import { SectionHeading } from "@/components/shared/section-heading";
 import { LocalTime } from "@/components/tools/local-time";
 import { WeatherNow } from "@/components/tools/weather-now";
+import { ClimateChart } from "@/components/tools/climate-chart";
 import { Badge } from "@/components/ui/badge";
 import { Reveal } from "@/components/ui/reveal";
 import {
@@ -385,6 +386,7 @@ export default async function CityPage({
           </div>
           {country && <LocalTime timezone={country.timezone} label={city.name} />}
           <WeatherNow lat={city.coordinates.lat} lng={city.coordinates.lng} label={city.name} />
+          <ClimateChart lat={city.coordinates.lat} lng={city.coordinates.lng} label={city.name} />
           {country && (
             <Link
               href={`/countries/${country.slug}`}
