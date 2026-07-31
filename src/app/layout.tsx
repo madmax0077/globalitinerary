@@ -102,6 +102,7 @@ export default function RootLayout({
         )}
         <GoogleAnalytics id={gaMeasurementId} />
         <Ezoic />
+        <Analytics />
       </body>
     </html>
   );
