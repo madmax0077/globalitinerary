@@ -37,6 +37,12 @@ yarn-error.log*
 # vercel
 .vercel
 
+# cloudflare / opennext
+.open-next
+.wrangler
+.dev.vars
+
+
 # large raw data dumps used only for local data generation (not needed to build/run)
 /scripts/geo/
 
