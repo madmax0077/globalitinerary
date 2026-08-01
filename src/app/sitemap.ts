@@ -37,16 +37,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: path === "" ? 1 : 0.8,
   }));
 
-  // Only include absolute (https) image URLs so the image sitemap is valid.
-  const imgs = (...urls: (string | undefined)[]) =>
-    urls.filter((u): u is string => !!u && u.startsWith("http")).slice(0, 5);
-
   const countryRoutes = countries.map((c) => ({
     url: `${base}/countries/${c.slug}`,
     lastModified: now,
     changeFrequency: "weekly" as const,
     priority: 0.9,
-    images: imgs(c.heroImage, ...(c.gallery ?? [])),
   }));
 
   const cityRoutes = cities.map((c) => ({
@@ -54,7 +49,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: now,
     changeFrequency: "weekly" as const,
     priority: 0.8,
-    images: imgs(c.heroImage, ...(c.gallery ?? [])),
   }));
 
   const attractionRoutes = attractions.map((a) => ({
@@ -62,7 +56,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: now,
     changeFrequency: "weekly" as const,
     priority: 0.7,
-    images: imgs(a.heroImage, ...(a.gallery ?? [])),
   }));
 
   // Per-country visa requirement pages (only where we have visa data).
