@@ -1,5 +1,6 @@
 import type { Article, Collection, Testimonial } from "@/lib/types";
 import { PHOTOS, unsplash } from "@/lib/images";
+import { destinationGuides } from "@/data/destination-guides";
 
 const authors = {
   amelia: { name: "Amelia Chen", role: "Senior Travel Editor", avatar: "https://i.pravatar.cc/160?img=47" },
@@ -7,7 +8,7 @@ const authors = {
   sofia: { name: "Sofia Ahmed", role: "Adventure Correspondent", avatar: "https://i.pravatar.cc/160?img=32" },
 };
 
-export const articles: Article[] = [
+const legacyArticles: Article[] = [
   {
     id: "a1",
     slug: "48-hours-in-tokyo",
@@ -126,6 +127,9 @@ export const articles: Article[] = [
     ],
   },
 ];
+
+/** Destination guides first (newer, featured), then existing articles. */
+export const articles: Article[] = [...destinationGuides, ...legacyArticles];
 
 export const collections: Collection[] = [
   { slug: "luxury-escapes", title: "Luxury Escapes", description: "Five-star stays and once-in-a-lifetime experiences", image: unsplash(PHOTOS.maldives, 1200), count: 42, accent: "primary" },
