@@ -611,6 +611,19 @@
     "isCapital": false
   },
   {
+    "slug": "antalya",
+    "name": "Antalya",
+    "wikiTitle": "Antalya",
+    "countrySlug": "turkiye",
+    "countryName": "Turkey",
+    "countryCode": "TR",
+    "population": 1425563,
+    "lat": 36.8969,
+    "lng": 30.7133,
+    "timezone": "Europe/Istanbul",
+    "isCapital": false
+  },
+  {
     "slug": "antananarivo",
     "name": "Antananarivo",
     "wikiTitle": "Antananarivo",
@@ -1885,6 +1898,19 @@
     "isCapital": false
   },
   {
+    "slug": "boston",
+    "name": "Boston",
+    "wikiTitle": "Boston",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "countryCode": "US",
+    "population": 675647,
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "timezone": "America/New_York",
+    "isCapital": false
+  },
+  {
     "slug": "bouake",
     "name": "Bouaké",
     "wikiTitle": "Bouake",
@@ -2025,6 +2051,19 @@
     "lat": 40.6501,
     "lng": -73.94958,
     "timezone": "America/New_York",
+    "isCapital": false
+  },
+  {
+    "slug": "bruges",
+    "name": "Bruges",
+    "wikiTitle": "Bruges",
+    "countrySlug": "belgium",
+    "countryName": "Belgium",
+    "countryCode": "BE",
+    "population": 118509,
+    "lat": 51.2093,
+    "lng": 3.2247,
+    "timezone": "Europe/Brussels",
     "isCapital": false
   },
   {
@@ -2431,6 +2470,19 @@
     "isCapital": true
   },
   {
+    "slug": "cancun",
+    "name": "Cancún",
+    "wikiTitle": "Cancún",
+    "countrySlug": "mexico",
+    "countryName": "Mexico",
+    "countryCode": "MX",
+    "population": 888797,
+    "lat": 21.1619,
+    "lng": -86.8515,
+    "timezone": "America/Cancun",
+    "isCapital": false
+  },
+  {
     "slug": "cape-coast",
     "name": "Cape Coast",
     "wikiTitle": "Cape Coast",
@@ -2548,6 +2600,19 @@
     "isCapital": true
   },
   {
+    "slug": "cebu",
+    "name": "Cebu City",
+    "wikiTitle": "Cebu City",
+    "countrySlug": "philippines",
+    "countryName": "Philippines",
+    "countryCode": "PH",
+    "population": 964169,
+    "lat": 10.3157,
+    "lng": 123.8854,
+    "timezone": "Asia/Manila",
+    "isCapital": false
+  },
+  {
     "slug": "celje",
     "name": "Celje",
     "wikiTitle": "Celje",
@@ -2623,6 +2688,19 @@
     "lat": 13.08784,
     "lng": 80.27847,
     "timezone": "Asia/Kolkata",
+    "isCapital": false
+  },
+  {
+    "slug": "chiang-mai",
+    "name": "Chiang Mai",
+    "wikiTitle": "Chiang Mai",
+    "countrySlug": "thailand",
+    "countryName": "Thailand",
+    "countryCode": "TH",
+    "population": 127240,
+    "lat": 18.7883,
+    "lng": 98.9853,
+    "timezone": "Asia/Bangkok",
     "isCapital": false
   },
   {
@@ -3000,6 +3078,19 @@
     "lat": -20.31628,
     "lng": 57.52594,
     "timezone": "Indian/Mauritius",
+    "isCapital": false
+  },
+  {
+    "slug": "cusco",
+    "name": "Cusco",
+    "wikiTitle": "Cusco",
+    "countrySlug": "peru",
+    "countryName": "Peru",
+    "countryCode": "PE",
+    "population": 428450,
+    "lat": -13.5319,
+    "lng": -71.9675,
+    "timezone": "America/Lima",
     "isCapital": false
   },
   {
@@ -3523,6 +3614,19 @@
     "isCapital": false
   },
   {
+    "slug": "dubrovnik",
+    "name": "Dubrovnik",
+    "wikiTitle": "Dubrovnik",
+    "countrySlug": "croatia",
+    "countryName": "Croatia",
+    "countryCode": "HR",
+    "population": 42615,
+    "lat": 42.6507,
+    "lng": 18.0944,
+    "timezone": "Europe/Zagreb",
+    "isCapital": false
+  },
+  {
     "slug": "dudelange",
     "name": "Dudelange",
     "wikiTitle": "Dudelange",
@@ -3611,6 +3715,19 @@
     "lat": 19.60492,
     "lng": -99.06064,
     "timezone": "America/Mexico_City",
+    "isCapital": false
+  },
+  {
+    "slug": "edinburgh",
+    "name": "Edinburgh",
+    "wikiTitle": "Edinburgh",
+    "countrySlug": "united-kingdom",
+    "countryName": "United Kingdom",
+    "countryCode": "GB",
+    "population": 506520,
+    "lat": 55.9533,
+    "lng": -3.1883,
+    "timezone": "Europe/London",
     "isCapital": false
   },
   {
@@ -3884,6 +4001,19 @@
     "lat": 5.8,
     "lng": -55.2,
     "timezone": "America/Paramaribo",
+    "isCapital": false
+  },
+  {
+    "slug": "florence",
+    "name": "Florence",
+    "wikiTitle": "Florence",
+    "countrySlug": "italy",
+    "countryName": "Italy",
+    "countryCode": "IT",
+    "population": 367150,
+    "lat": 43.7696,
+    "lng": 11.2558,
+    "timezone": "Europe/Rome",
     "isCapital": false
   },
   {
@@ -4782,6 +4912,19 @@
     "lng": 30.9754,
     "timezone": "Europe/Minsk",
     "isCapital": false
+  },
+  {
+    "slug": "hong-kong",
+    "name": "Hong Kong",
+    "wikiTitle": "Hong Kong",
+    "countrySlug": "hong-kong",
+    "countryName": "Hong Kong",
+    "countryCode": "HK",
+    "population": 7500000,
+    "lat": 22.3193,
+    "lng": 114.1694,
+    "timezone": "Asia/Hong_Kong",
+    "isCapital": true
   },
   {
     "slug": "honiara",
@@ -6487,6 +6630,19 @@
     "isCapital": false
   },
   {
+    "slug": "las-vegas",
+    "name": "Las Vegas",
+    "wikiTitle": "Las Vegas",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "countryCode": "US",
+    "population": 641903,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "timezone": "America/Los_Angeles",
+    "isCapital": false
+  },
+  {
     "slug": "lasnamaee",
     "name": "Lasnamäe",
     "wikiTitle": "Lasnamaee",
@@ -7005,6 +7161,19 @@
     "lng": 4.84789,
     "timezone": "Europe/Paris",
     "isCapital": false
+  },
+  {
+    "slug": "macau",
+    "name": "Macau",
+    "wikiTitle": "Macau",
+    "countrySlug": "macau",
+    "countryName": "Macau",
+    "countryCode": "MO",
+    "population": 682300,
+    "lat": 22.1987,
+    "lng": 113.5439,
+    "timezone": "Asia/Macau",
+    "isCapital": true
   },
   {
     "slug": "madang",
@@ -7852,6 +8021,19 @@
     "isCapital": true
   },
   {
+    "slug": "miami",
+    "name": "Miami",
+    "wikiTitle": "Miami",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "countryCode": "US",
+    "population": 442241,
+    "lat": 25.7617,
+    "lng": -80.1918,
+    "timezone": "America/New_York",
+    "isCapital": false
+  },
+  {
     "slug": "milan",
     "name": "Milan",
     "wikiTitle": "Milan",
@@ -8421,6 +8603,19 @@
     "lat": -2.51667,
     "lng": 32.9,
     "timezone": "Africa/Dar_es_Salaam",
+    "isCapital": false
+  },
+  {
+    "slug": "mykonos",
+    "name": "Mykonos",
+    "wikiTitle": "Mykonos",
+    "countrySlug": "greece",
+    "countryName": "Greece",
+    "countryCode": "GR",
+    "population": 10134,
+    "lat": 37.4467,
+    "lng": 25.3289,
+    "timezone": "Europe/Athens",
     "isCapital": false
   },
   {
@@ -9139,6 +9334,19 @@
     "isCapital": false
   },
   {
+    "slug": "orlando",
+    "name": "Orlando",
+    "wikiTitle": "Orlando, Florida",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "countryCode": "US",
+    "population": 307573,
+    "lat": 28.5383,
+    "lng": -81.3792,
+    "timezone": "America/New_York",
+    "isCapital": false
+  },
+  {
     "slug": "oruro",
     "name": "Oruro",
     "wikiTitle": "Oruro",
@@ -9581,6 +9789,19 @@
     "isCapital": false
   },
   {
+    "slug": "petra",
+    "name": "Petra / Wadi Musa",
+    "wikiTitle": "Wadi Musa",
+    "countrySlug": "jordan",
+    "countryName": "Jordan",
+    "countryCode": "JO",
+    "population": 30000,
+    "lat": 30.3285,
+    "lng": 35.4444,
+    "timezone": "Asia/Amman",
+    "isCapital": false
+  },
+  {
     "slug": "petrzalka",
     "name": "Petržalka",
     "wikiTitle": "Petrzalka",
@@ -9616,6 +9837,19 @@
     "population": 196129,
     "lat": 13.65855,
     "lng": 100.53362,
+    "timezone": "Asia/Bangkok",
+    "isCapital": false
+  },
+  {
+    "slug": "phuket",
+    "name": "Phuket",
+    "wikiTitle": "Phuket (city)",
+    "countrySlug": "thailand",
+    "countryName": "Thailand",
+    "countryCode": "TH",
+    "population": 79200,
+    "lat": 7.8804,
+    "lng": 98.3923,
     "timezone": "Asia/Bangkok",
     "isCapital": false
   },
@@ -10150,6 +10384,19 @@
     "lat": 40.68149,
     "lng": -73.83652,
     "timezone": "America/New_York",
+    "isCapital": false
+  },
+  {
+    "slug": "queenstown",
+    "name": "Queenstown",
+    "wikiTitle": "Queenstown, New Zealand",
+    "countrySlug": "new-zealand",
+    "countryName": "New Zealand",
+    "countryCode": "NZ",
+    "population": 16000,
+    "lat": -45.0312,
+    "lng": 168.6626,
+    "timezone": "Pacific/Auckland",
     "isCapital": false
   },
   {
@@ -10722,6 +10969,19 @@
     "lat": -12.97563,
     "lng": -38.49096,
     "timezone": "America/Bahia",
+    "isCapital": false
+  },
+  {
+    "slug": "salzburg",
+    "name": "Salzburg",
+    "wikiTitle": "Salzburg",
+    "countrySlug": "austria",
+    "countryName": "Austria",
+    "countryCode": "AT",
+    "population": 155021,
+    "lat": 47.8095,
+    "lng": 13.055,
+    "timezone": "Europe/Vienna",
     "isCapital": false
   },
   {
@@ -12012,6 +12272,19 @@
     "isCapital": false
   },
   {
+    "slug": "taipei",
+    "name": "Taipei",
+    "wikiTitle": "Taipei",
+    "countrySlug": "taiwan",
+    "countryName": "Taiwan",
+    "countryCode": "TW",
+    "population": 2602418,
+    "lat": 25.033,
+    "lng": 121.5654,
+    "timezone": "Asia/Taipei",
+    "isCapital": true
+  },
+  {
     "slug": "taiz",
     "name": "Taiz",
     "wikiTitle": "Taiz",
@@ -12818,6 +13091,19 @@
     "isCapital": false
   },
   {
+    "slug": "vancouver",
+    "name": "Vancouver",
+    "wikiTitle": "Vancouver",
+    "countrySlug": "canada",
+    "countryName": "Canada",
+    "countryCode": "CA",
+    "population": 662248,
+    "lat": 49.2827,
+    "lng": -123.1207,
+    "timezone": "America/Vancouver",
+    "isCapital": false
+  },
+  {
     "slug": "vantaa",
     "name": "Vantaa",
     "wikiTitle": "Vantaa",
@@ -13036,6 +13322,19 @@
     "lat": 52.22977,
     "lng": 21.01178,
     "timezone": "Europe/Warsaw",
+    "isCapital": true
+  },
+  {
+    "slug": "washington-dc",
+    "name": "Washington, D.C.",
+    "wikiTitle": "Washington, D.C.",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "countryCode": "US",
+    "population": 689545,
+    "lat": 38.9072,
+    "lng": -77.0369,
+    "timezone": "America/New_York",
     "isCapital": true
   },
   {
@@ -13452,6 +13751,19 @@
     "lat": -15.38596,
     "lng": 35.3188,
     "timezone": "Africa/Blantyre",
+    "isCapital": false
+  },
+  {
+    "slug": "zurich",
+    "name": "Zurich",
+    "wikiTitle": "Zurich",
+    "countrySlug": "switzerland",
+    "countryName": "Switzerland",
+    "countryCode": "CH",
+    "population": 421878,
+    "lat": 47.3769,
+    "lng": 8.5417,
+    "timezone": "Europe/Zurich",
     "isCapital": false
   },
   {

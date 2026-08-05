@@ -926,4 +926,266 @@ export const cityPicks: Record<string, CityPicks> = {
       { name: "QT Melbourne", area: "CBD", priceLevel: 3, note: "Design hotel tourist favourite" },
     ],
   },
+
+  // ---------- Top-100 tourist cities (newly added pages) ----------
+  miami: {
+    restaurants: [
+      { name: "Versailles Restaurant", cuisine: "Cuban", priceLevel: 1, note: "Little Havana institution" },
+      { name: "Joe's Stone Crab", cuisine: "Seafood", priceLevel: 3, note: "Miami Beach classic since 1913" },
+      { name: "La Sandwicherie", cuisine: "Sandwiches", priceLevel: 1, note: "South Beach late-night favourite" },
+      { name: "Mandolin Aegean Bistro", cuisine: "Greek / Mediterranean", priceLevel: 2, note: "Coral Gables garden dining" },
+    ],
+    stays: [
+      { name: "The Setai Miami Beach", area: "South Beach", priceLevel: 4, note: "Oceanfront Asian-inspired luxury" },
+      { name: "Faena Hotel Miami Beach", area: "Mid-Beach", priceLevel: 4, note: "Theatrical beachfront hotel" },
+      { name: "1 Hotel South Beach", area: "South Beach", priceLevel: 3, note: "Eco-chic tourist favourite" },
+    ],
+  },
+  orlando: {
+    restaurants: [
+      { name: "4 Rivers Smokehouse", cuisine: "BBQ", priceLevel: 1, note: "Central Florida BBQ favourite" },
+      { name: "The Ravenous Pig", cuisine: "American", priceLevel: 2, note: "Winter Park gastropub landmark" },
+      { name: "Keke's Breakfast Cafe", cuisine: "Breakfast", priceLevel: 1, note: "Local breakfast chain locals love" },
+      { name: "Victoria & Albert's", cuisine: "Fine dining", priceLevel: 4, note: "Disney Grand Floridian tasting-menu icon" },
+    ],
+    stays: [
+      { name: "Disney's Grand Floridian Resort", area: "Walt Disney World", priceLevel: 4, note: "Flagship Disney luxury stay" },
+      { name: "Universal's Hard Rock Hotel", area: "Universal Orlando", priceLevel: 3, note: "Early park access favourite" },
+      { name: "Waldorf Astoria Orlando", area: "Bonnet Creek", priceLevel: 4, note: "Golf-resort luxury near Disney" },
+    ],
+  },
+  cusco: {
+    restaurants: [
+      { name: "San Pedro Market stalls", cuisine: "Market food", priceLevel: 1, note: "Juice, soups and Andean staples" },
+      { name: "Cicciolina", cuisine: "Peruvian-Mediterranean", priceLevel: 2, note: "Long-running Plaza favourite" },
+      { name: "Chicha por Gastón Acurio", cuisine: "Peruvian", priceLevel: 2, note: "Gastón Acurio's Cusco outpost" },
+      { name: "MIL Centro (Moray)", cuisine: "Andean tasting", priceLevel: 4, note: "Virgilio Martínez highland destination (day trip)" },
+    ],
+    stays: [
+      { name: "Belmond Hotel Monasterio", area: "Centro Histórico", priceLevel: 4, note: "Converted 16th-century monastery" },
+      { name: "Inkaterra La Casona", area: "Plaza Nazarenas", priceLevel: 4, note: "Boutique colonial mansion" },
+      { name: "JW Marriott El Convento Cusco", area: "Centro", priceLevel: 3, note: "Convent-turned-hotel tourist favourite" },
+    ],
+  },
+  "las-vegas": {
+    restaurants: [
+      { name: "Lotus of Siam", cuisine: "Thai", priceLevel: 2, note: "Legendary northern Thai institution" },
+      { name: "Raku", cuisine: "Japanese", priceLevel: 2, note: "Off-Strip izakaya locals swear by" },
+      { name: "Capriotti's", cuisine: "Sandwiches", priceLevel: 1, note: "Local sandwich chain classic" },
+      { name: "Joël Robuchon", cuisine: "French", priceLevel: 4, note: "MGM Grand fine-dining landmark" },
+    ],
+    stays: [
+      { name: "Bellagio", area: "Las Vegas Strip", priceLevel: 4, note: "Fountains and classic Strip luxury" },
+      { name: "Wynn Las Vegas", area: "Las Vegas Strip", priceLevel: 4, note: "Top-rated resort favourite" },
+      { name: "The Cosmopolitan", area: "Las Vegas Strip", priceLevel: 3, note: "Design-forward tourist favourite" },
+    ],
+  },
+  "washington-dc": {
+    restaurants: [
+      { name: "Ben's Chili Bowl", cuisine: "American", priceLevel: 1, note: "U Street half-smoke institution since 1958" },
+      { name: "Eastern Market vendors", cuisine: "Market food", priceLevel: 1, note: "Capitol Hill weekend classic" },
+      { name: "Old Ebbitt Grill", cuisine: "American", priceLevel: 2, note: "Historic downtown oyster bar" },
+      { name: "Minibar by José Andrés", cuisine: "Molecular / tasting", priceLevel: 4, note: "Experimental tasting-menu landmark" },
+    ],
+    stays: [
+      { name: "The Willard InterContinental", area: "Downtown", priceLevel: 4, note: "Historic grand hotel near the White House" },
+      { name: "The Jefferson", area: "16th Street", priceLevel: 4, note: "Boutique luxury favourite" },
+      { name: "Hotel Washington", area: "Penn Quarter", priceLevel: 3, note: "Rooftop views over the monuments" },
+    ],
+  },
+  boston: {
+    restaurants: [
+      { name: "Neptune Oyster", cuisine: "Seafood", priceLevel: 2, note: "North End lobster-roll favourite" },
+      { name: "Mike's Pastry", cuisine: "Italian bakery", priceLevel: 1, note: "North End cannoli institution" },
+      { name: "Union Oyster House", cuisine: "Seafood", priceLevel: 2, note: "America's oldest restaurant (1826)" },
+      { name: "Oleana", cuisine: "Eastern Mediterranean", priceLevel: 3, note: "Cambridge chef-driven favourite" },
+    ],
+    stays: [
+      { name: "Four Seasons Hotel One Dalton", area: "Back Bay", priceLevel: 4, note: "Modern skyline luxury" },
+      { name: "XV Beacon", area: "Beacon Hill", priceLevel: 4, note: "Boutique Beacon Hill classic" },
+      { name: "The Liberty, a Luxury Collection Hotel", area: "Beacon Hill", priceLevel: 3, note: "Converted jail hotel tourist favourite" },
+    ],
+  },
+  vancouver: {
+    restaurants: [
+      { name: "Phnom Penh Restaurant", cuisine: "Cambodian / Vietnamese", priceLevel: 1, note: "Chinatown institution" },
+      { name: "Japadog", cuisine: "Street food", priceLevel: 1, note: "Cult Japanese hot-dog stand" },
+      { name: "Vij's", cuisine: "Indian", priceLevel: 2, note: "Long-running South Granville favourite" },
+      { name: "Tojo's", cuisine: "Sushi", priceLevel: 3, note: "Sushi pioneer restaurant" },
+    ],
+    stays: [
+      { name: "Fairmont Hotel Vancouver", area: "Downtown", priceLevel: 3, note: "Château-style city landmark" },
+      { name: "Shangri-La Hotel Vancouver", area: "Downtown", priceLevel: 4, note: "Quiet luxury tower" },
+      { name: "The Fairmont Pacific Rim", area: "Coal Harbour", priceLevel: 4, note: "Harbour-view tourist favourite" },
+    ],
+  },
+  queenstown: {
+    restaurants: [
+      { name: "Fergburger", cuisine: "Burgers", priceLevel: 1, note: "Cult Queenstown burger queue" },
+      { name: "The Batch Café", cuisine: "Café", priceLevel: 1, note: "Local brunch favourite" },
+      { name: "Botswana Butchery", cuisine: "Steak / game", priceLevel: 3, note: "Lakeside dining institution" },
+      { name: "Rata", cuisine: "Modern NZ", priceLevel: 3, note: "Josh Emett fine-dining favourite" },
+    ],
+    stays: [
+      { name: "Eichardt's Private Hotel", area: "Waterfront", priceLevel: 4, note: "Boutique lake-edge luxury" },
+      { name: "Matakauri Lodge", area: "Glenorchy Road", priceLevel: 4, note: "Relais & Châteaux lake retreat" },
+      { name: "QT Queenstown", area: "Town centre", priceLevel: 3, note: "Design hotel tourist favourite" },
+    ],
+  },
+  phuket: {
+    restaurants: [
+      { name: "Raya Restaurant", cuisine: "Southern Thai", priceLevel: 2, note: "Phuket Town heritage favourite" },
+      { name: "Kopitiam by Wilai", cuisine: "Peranakan / Thai", priceLevel: 1, note: "Local Phuket Town café" },
+      { name: "One Chun", cuisine: "Southern Thai", priceLevel: 1, note: "Phuket Old Town classic" },
+      { name: "PRU (Trisara)", cuisine: "Farm-to-table", priceLevel: 4, note: "Destination tasting-menu restaurant" },
+    ],
+    stays: [
+      { name: "Trisara", area: "Northwestern coast", priceLevel: 4, note: "Pool-villa luxury landmark" },
+      { name: "Amanpuri", area: "Pansea Beach", priceLevel: 4, note: "Original Aman beach resort" },
+      { name: "The Naka Phuket", area: "Kamala", priceLevel: 3, note: "Adults-only pool-villa favourite" },
+    ],
+  },
+  "chiang-mai": {
+    restaurants: [
+      { name: "Khao Soi Khun Yai", cuisine: "Northern Thai", priceLevel: 1, note: "Legendary khao soi institution" },
+      { name: "SP Chicken", cuisine: "Northern Thai", priceLevel: 1, note: "Local grilled-chicken favourite" },
+      { name: "Huen Phen", cuisine: "Northern Thai", priceLevel: 1, note: "Old Town northern Thai classic" },
+      { name: "David's Kitchen", cuisine: "European / Thai", priceLevel: 2, note: "Long-running expat and local favourite" },
+    ],
+    stays: [
+      { name: "Four Seasons Resort Chiang Mai", area: "Mae Rim", priceLevel: 4, note: "Rice-paddy luxury resort" },
+      { name: "Anantara Chiang Mai Resort", area: "Riverside", priceLevel: 3, note: "Ping River colonial-style favourite" },
+      { name: "Rachamankha", area: "Old City", priceLevel: 3, note: "Design hotel in temple surrounds" },
+    ],
+  },
+  cebu: {
+    restaurants: [
+      { name: "Larsian BBQ", cuisine: "Filipino BBQ", priceLevel: 1, note: "Open-air grill institution" },
+      { name: "House of Lechon", cuisine: "Cebuano", priceLevel: 1, note: "Cebu lechon destination" },
+      { name: "Abuhan sa Carbon", cuisine: "Filipino", priceLevel: 1, note: "Local carinderia favourite" },
+      { name: "STK ta Bay! / Café Laguna", cuisine: "Filipino", priceLevel: 2, note: "Long-running Cebu dining brands" },
+    ],
+    stays: [
+      { name: "Shangri-La Mactan", area: "Mactan", priceLevel: 4, note: "Island resort landmark" },
+      { name: "Crimson Resort Mactan", area: "Mactan", priceLevel: 3, note: "Beach resort tourist favourite" },
+      { name: "Radisson Blu Cebu", area: "Cebu City", priceLevel: 3, note: "City-base hotel near Ayala" },
+    ],
+  },
+  taipei: {
+    restaurants: [
+      { name: "Din Tai Fung (Taipei 101)", cuisine: "Xiaolongbao", priceLevel: 2, note: "Global soup-dumpling landmark born in Taiwan" },
+      { name: "Yongkang Beef Noodle", cuisine: "Beef noodles", priceLevel: 1, note: "Local niurou mian favourite" },
+      { name: "Ningxia Night Market stalls", cuisine: "Night market", priceLevel: 1, note: "Less touristy night-market classic" },
+      { name: "RAW", cuisine: "Modern Taiwanese", priceLevel: 4, note: "André Chiang tasting-menu destination" },
+    ],
+    stays: [
+      { name: "Mandarin Oriental Taipei", area: "Songshan", priceLevel: 4, note: "Grand luxury landmark" },
+      { name: "W Taipei", area: "Xinyi", priceLevel: 3, note: "Nightlife and shopping base" },
+      { name: "Hotel Éclat Taipei", area: "Daan", priceLevel: 3, note: "Art-filled boutique favourite" },
+    ],
+  },
+  macau: {
+    restaurants: [
+      { name: "Lord Stow's Bakery", cuisine: "Bakery", priceLevel: 1, note: "Original Portuguese egg-tart institution" },
+      { name: "Wong Chi Kei", cuisine: "Noodles", priceLevel: 1, note: "Senado Square noodle classic" },
+      { name: "Margaret's Café e Nata", cuisine: "Bakery", priceLevel: 1, note: "Rival egg-tart favourite" },
+      { name: "Robuchon au Dôme", cuisine: "French", priceLevel: 4, note: "Grand Lisboa fine-dining landmark" },
+    ],
+    stays: [
+      { name: "The Venetian Macao", area: "Cotai", priceLevel: 3, note: "Iconic Cotai mega-resort" },
+      { name: "Morpheus (City of Dreams)", area: "Cotai", priceLevel: 4, note: "Zaha Hadid design hotel" },
+      { name: "Pousada de São Tiago", area: "Peninsula", priceLevel: 3, note: "Fortress boutique heritage stay" },
+    ],
+  },
+  petra: {
+    restaurants: [
+      { name: "The Cave Bar (Petra Guest House)", cuisine: "Café / drinks", priceLevel: 2, note: "Nabataean tomb bar by the entrance" },
+      { name: "Red Cave Restaurant", cuisine: "Jordanian", priceLevel: 2, note: "Long-running Wadi Musa favourite" },
+      { name: "Al-Wadi Restaurant", cuisine: "Jordanian", priceLevel: 1, note: "Local grilled meats and mezze" },
+      { name: "Basin Restaurant (inside Petra)", cuisine: "Buffet / Jordanian", priceLevel: 2, note: "On-site lunch for site visitors" },
+    ],
+    stays: [
+      { name: "Mövenpick Resort Petra", area: "Petra entrance", priceLevel: 3, note: "Closest full-service resort to the gate" },
+      { name: "Petra Marriott Hotel", area: "Wadi Musa", priceLevel: 3, note: "Hilltop views over the valley" },
+      { name: "Beit Zaman Hotel & Resort", area: "Wadi Musa", priceLevel: 3, note: "Village-style stone boutique favourite" },
+    ],
+  },
+  mykonos: {
+    restaurants: [
+      { name: "Kiki's Tavern (Agios Sostis)", cuisine: "Greek taverna", priceLevel: 2, note: "Cash-only beach taverna favourite" },
+      { name: "To Maereio", cuisine: "Greek", priceLevel: 2, note: "Town meze institution" },
+      { name: "Giorgos & Marina's", cuisine: "Greek", priceLevel: 1, note: "Ano Mera village classic" },
+      { name: "Nobu Mykonos", cuisine: "Japanese", priceLevel: 4, note: "Destination dining at Belvedere" },
+    ],
+    stays: [
+      { name: "Cavo Tagoo", area: "Mykonos Town", priceLevel: 4, note: "Iconic infinity-pool luxury" },
+      { name: "Belvedere Mykonos", area: "Mykonos Town", priceLevel: 4, note: "Long-standing glamour hotel" },
+      { name: "Myconian Korali Relais & Châteaux", area: "Elia", priceLevel: 3, note: "Beach-resort tourist favourite" },
+    ],
+  },
+  dubrovnik: {
+    restaurants: [
+      { name: "Nishta", cuisine: "Vegetarian", priceLevel: 2, note: "Old Town plant-based favourite" },
+      { name: "Pizzeria Amfora", cuisine: "Pizza / Dalmatian", priceLevel: 1, note: "Local casual classic" },
+      { name: "Kopun", cuisine: "Dalmatian", priceLevel: 2, note: "Historic Old Town restaurant" },
+      { name: "Restaurant 360°", cuisine: "Fine dining", priceLevel: 4, note: "Ramparts tasting-menu landmark" },
+    ],
+    stays: [
+      { name: "Hotel Excelsior Dubrovnik", area: "Ploče", priceLevel: 4, note: "Sea-view grande dame outside the walls" },
+      { name: "Villa Dubrovnik", area: "Below cliffs", priceLevel: 4, note: "Cliffside boutique luxury" },
+      { name: "Hotel Bellevue Dubrovnik", area: "Miramare Bay", priceLevel: 3, note: "Design hotel tourist favourite" },
+    ],
+  },
+  salzburg: {
+    restaurants: [
+      { name: "Café Tomaselli", cuisine: "Café", priceLevel: 1, note: "Austria's oldest coffee house" },
+      { name: "Stiftskeller St. Peter", cuisine: "Austrian", priceLevel: 2, note: "Historic abbey restaurant" },
+      { name: "Gasthof Goldgasse", cuisine: "Austrian", priceLevel: 2, note: "Old Town local favourite" },
+      { name: "Ikarus (Hangar-7)", cuisine: "Fine dining", priceLevel: 4, note: "Rotating-chef destination restaurant" },
+    ],
+    stays: [
+      { name: "Hotel Sacher Salzburg", area: "Old Town / Salzach", priceLevel: 4, note: "River-view luxury landmark" },
+      { name: "Hotel Goldener Hirsch", area: "Getreidegasse", priceLevel: 4, note: "Historic Old Town hotel" },
+      { name: "Hotel Bristol Salzburg", area: "Near Mirabell", priceLevel: 3, note: "Classic tourist favourite" },
+    ],
+  },
+  bruges: {
+    restaurants: [
+      { name: "Chez Vincent", cuisine: "Belgian / mussels", priceLevel: 2, note: "Long-running local favourite" },
+      { name: "De Garre", cuisine: "Beer café", priceLevel: 1, note: "Hidden alley Tripel institution" },
+      { name: "Breydel-De Coninc", cuisine: "Mussels / fries", priceLevel: 2, note: "Classic Markt-area mussel house" },
+      { name: "Sans Cravate", cuisine: "Fine dining", priceLevel: 4, note: "Michelin-starred Bruges destination" },
+    ],
+    stays: [
+      { name: "Hotel Dukes' Palace", area: "Near Markt", priceLevel: 4, note: "Former ducal palace luxury stay" },
+      { name: "Relais & Châteaux Hotel Heritage", area: "Historic centre", priceLevel: 4, note: "Boutique canal-city favourite" },
+      { name: "Hotel de Orangerie", area: "Canal", priceLevel: 3, note: "Canal-view tourist favourite" },
+    ],
+  },
+  antalya: {
+    restaurants: [
+      { name: "Parlak Restaurant", cuisine: "Turkish", priceLevel: 1, note: "Kaleiçi grilled-onion classic since 1960s" },
+      { name: "Vanilla Lounge", cuisine: "International / Turkish", priceLevel: 2, note: "Old-town favourite" },
+      { name: "Club Arma", cuisine: "Seafood", priceLevel: 2, note: "Harbour-side seafood institution" },
+      { name: "Seraser Fine Dining", cuisine: "Turkish / Mediterranean", priceLevel: 3, note: "Kaleiçi courtyard dining" },
+    ],
+    stays: [
+      { name: "Akra Hotel", area: "Lara / cliffs", priceLevel: 3, note: "Clifftop resort favourite" },
+      { name: "Tuvana Hotel", area: "Kaleiçi", priceLevel: 3, note: "Ottoman-house boutique stay" },
+      { name: "Rixos Premium Belek (day base / region)", area: "Belek", priceLevel: 4, note: "Regional luxury resort hub" },
+    ],
+  },
+  cancun: {
+    restaurants: [
+      { name: "Lorenzillo's", cuisine: "Seafood", priceLevel: 2, note: "Lagoon lobster institution" },
+      { name: "La Habichuela", cuisine: "Yucatecan", priceLevel: 2, note: "Downtown Cancún classic since 1977" },
+      { name: "El Fish Fritanga", cuisine: "Seafood", priceLevel: 1, note: "Local lagoon-side favourite" },
+      { name: "Harry's", cuisine: "Steak / seafood", priceLevel: 3, note: "Hotel Zone tourist favourite" },
+    ],
+    stays: [
+      { name: "Nizuc Resort & Spa", area: "Punta Nizuc", priceLevel: 4, note: "Quiet luxury south of the Zone" },
+      { name: "JW Marriott Cancún", area: "Hotel Zone", priceLevel: 4, note: "Beachfront resort landmark" },
+      { name: "Live Aqua Beach Resort", area: "Hotel Zone", priceLevel: 3, note: "Adults-only tourist favourite" },
+    ],
+  },
 };

@@ -3,6 +3,14 @@ import { PHOTOS, unsplash } from "@/lib/images";
 import { generatedCities } from "@/data/cities.generated";
 import { cityPicks } from "@/data/city-picks";
 import { citySights } from "@/data/city-sights";
+import { cityEnrichments } from "@/data/city-enrichments";
+
+/** Overlay richer travel copy for top tourist cities with thin generated text. */
+function applyCityEnrichment(city: City): City {
+  const patch = cityEnrichments[city.slug];
+  if (!patch) return city;
+  return { ...city, ...patch };
+}
 
 /** Prefer curated local-favourite eats + tourist-favourite stays when available. */
 function applyCityPicks(city: City): City {
@@ -456,6 +464,7 @@ export const cities: City[] = [
   ...curatedCities,
   ...generatedCities.filter((c) => !curatedSlugs.has(c.slug)),
 ]
+  .map(applyCityEnrichment)
   .map(applyCityPicks)
   .map(applyCitySights)
   .sort((a, b) => a.name.localeCompare(b.name));
