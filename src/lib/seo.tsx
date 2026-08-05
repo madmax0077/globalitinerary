@@ -116,6 +116,31 @@ export function touristDestinationJsonLd(d: {
   };
 }
 
+export function organizationJsonLd() {
+  return {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    name: siteConfig.name,
+    url: siteConfig.url,
+    email: siteConfig.email,
+    logo: `${siteConfig.url}/icon.svg`,
+    sameAs: [],
+    description: siteConfig.description,
+  };
+}
+
+export function websiteJsonLd() {
+  return {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: siteConfig.name,
+    url: siteConfig.url,
+    description: siteConfig.description,
+    inLanguage: "en",
+    publisher: { "@type": "Organization", name: siteConfig.name, url: siteConfig.url },
+  };
+}
+
 export function articleJsonLd(a: {
   title: string;
   description: string;

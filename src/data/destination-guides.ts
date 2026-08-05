@@ -519,4 +519,187 @@ export const destinationGuides: Article[] = [
       },
     ],
   },
+  {
+    id: "dg-portugal",
+    slug: "portugal-10-day-itinerary-lisbon-porto-algarve-2026",
+    title: "10-Day Portugal Itinerary: Lisbon, Porto & the Algarve + Trip Cost (2026)",
+    excerpt:
+      "A researched first-timer Portugal route covering Lisbon, Sintra, Porto, the Douro Valley and the Algarve — with best time to visit, train tips and a realistic 2026 trip cost breakdown.",
+    cover: unsplash(PHOTOS.coast, 1600),
+    category: "Guides",
+    tags: [
+      "Portugal",
+      "Lisbon",
+      "Porto",
+      "Algarve",
+      "Itineraries",
+      "Trip Cost",
+      "Best Time to Visit",
+      "Solo Travel",
+      "Europe",
+    ],
+    author: authors.marco,
+    date: "2026-08-05",
+    readingTime: 15,
+    featured: true,
+    sections: [
+      {
+        body: "Portugal is one of Western Europe’s highest-value trips in 2026: walkable cities, excellent trains, Atlantic beaches and wine country within a few hours of each other. This 10-day Portugal itinerary is built for first-timers who want Lisbon culture, a Sintra day trip, Porto and the Douro, then cliff beaches in the Algarve — without needing a rental car for most of the route.",
+      },
+      {
+        heading: "Best time to visit Portugal",
+        body: "April–June and September–October are the sweet spots: warm enough for the Algarve, comfortable for city walking, and lighter crowds than July–August. Peak summer is fine if you want beach time, but Lagos and Lisbon prices rise and Sintra gets crowded. November–March is milder and cheaper for cities and food; the north can be wetter and the Algarve less beach-focused.",
+      },
+      {
+        heading: "How many days do you need in Portugal?",
+        body: "Ten days is the classic first visit if you want Lisbon + Porto + a coastal finale. With only seven days, drop the Algarve or the Douro day. With two weeks, add the Douro overnight, Coimbra, or slow days in the Alentejo — Portugal rewards unhurried travel.",
+      },
+      {
+        heading: "Day 1 — Arrive Lisbon",
+        body: "Fly into Lisbon (LIS). Keep day one light: Alfama viewpoints (Miradouro da Senhora do Monte or Santa Luzia), a tram or walk through Baixa, and sunset near the Tagus. Buy a Viva Viagem / Navegante card for metro and trams. Stay in Alfama, Baixa or Chiado for walkability.",
+      },
+      {
+        heading: "Day 2 — Belém & central Lisbon",
+        body: "Morning in Belém: Jerónimos Monastery, Belém Tower and Pastéis de Belém (expect a queue — worth it). Afternoon for LX Factory or a neighbourhood lunch in Time Out Market, then Bairro Alto or Príncipe Real in the evening. Book major monastery tickets ahead in high season.",
+      },
+      {
+        heading: "Day 3 — Sintra day trip",
+        body: "Train from Rossio to Sintra (~40 minutes). Prioritise Pena Palace and either Quinta da Regaleira or the Moorish Castle — trying to do every palace in one day is exhausting. Return to Lisbon for dinner, or continue to Cascais for a coastal evening if energy allows.",
+      },
+      {
+        heading: "Day 4 — Train to Porto",
+        body: "Take the Alfa Pendular (AF) Lisbon–Porto (~2h 50m). Book seats in advance for the best fares. Afternoon in Ribeira and across Dom Luís I Bridge to Vila Nova de Gaia for port-lodge tastings and river views.",
+      },
+      {
+        heading: "Day 5 — Porto old town",
+        body: "São Bento station azulejos, Clérigos Tower, Livraria Lello (book timed entry), and a long lunch of francesinha or seafood. Walk the riverfront at golden hour. Porto is compact — you can cover a lot on foot with one steep climb or two.",
+      },
+      {
+        heading: "Day 6 — Douro Valley day trip",
+        body: "Day tour or train toward Peso da Régua / Pinhão for vineyard viewpoints and a river cruise segment. This is Portugal’s wine-country highlight — do not squeeze it into a rushed half day. Return to Porto overnight.",
+      },
+      {
+        heading: "Day 7 — Travel to the Algarve (Lagos)",
+        body: "Fly Porto–Faro when fares are good, or train/bus via Lisbon to Lagos. Lagos is a strong base: old town walkability, cliffs and beach access. Check in, stroll the marina and old walls, and keep the evening easy after travel.",
+      },
+      {
+        heading: "Day 8 — Algarve cliffs & caves",
+        body: "Ponta da Piedade boat or kayak trip, then Praia do Camilo or Dona Ana. Book reputable boat operators; weather can cancel trips. Midday heat is strong in summer — start early.",
+      },
+      {
+        heading: "Day 9 — Sagres or Benagil area",
+        body: "Option A: Sagres and Cape St. Vincent for wild Atlantic drama. Option B: day toward Benagil / Carvoeiro for iconic sea caves (crowds peak mid-morning). One focused outing beats racing the whole coast.",
+      },
+      {
+        heading: "Day 10 — Departure",
+        body: "Transfer to Faro Airport (FAO) or back to Lisbon depending on your flights. Build buffer time — Algarve road and bus links are slower than they look on a map.",
+      },
+      {
+        heading: "Portugal trip cost (excluding international flights)",
+        body: "Rough per-person daily spend in 2026: Budget USD 55–90 (hostels/guesthouses, tascas, trains); Mid-range USD 100–180 (3–4★ hotels, restaurants, day tours); Luxury USD 250+. For ten days on the ground, many mid-range travellers land around USD 1,200–2,200 before long-haul flights. Domestic Lisbon–Porto trains are often USD 25–50 if booked ahead; bigger extras are usually a Douro Valley tour or an Algarve boat day.",
+      },
+      {
+        heading: "Where to stay",
+        body: "Lisbon: Alfama/Chiado for atmosphere; Avenida for convenience. Porto: Ribeira or Cedofeita. Algarve: Lagos old town for first-timers; consider a car only if you want scattered beach days beyond bus reach.",
+      },
+      {
+        heading: "Practical tips",
+        body: "Portugal is excellent for solo travel — cities feel safe and English is widely spoken in tourist areas. Carry some cash for small cafés. Hills are real; pack broken-in shoes. Pre-book Pena, Livraria Lello and popular boat trips in peak months. Use our Trip Cost Estimator to adjust nights and travel style.",
+      },
+      {
+        heading: "FAQs",
+        body: "Do you need a car in Portugal? Not for this Lisbon–Porto–Lagos corridor if you use trains and one or two day tours. Is 10 days enough? Yes for highlights; 12–14 is more relaxed. Is Portugal good in winter? Cities and food yes; beach time is limited. Schengen rules apply for many passport holders — check your stay limits before combining with other EU countries.",
+      },
+    ],
+  },
+  {
+    id: "dg-vietnam",
+    slug: "vietnam-10-day-itinerary-hanoi-halong-hoi-an-2026",
+    title: "10-Day Vietnam Itinerary: Hanoi, Ha Long Bay, Hoi An & Ho Chi Minh + Trip Cost",
+    excerpt:
+      "A north-to-south Vietnam itinerary for first-timers — Hanoi, overnight Ha Long Bay, lantern-lit Hoi An and Ho Chi Minh City — with best time to visit, domestic flights and a clear 2026 budget.",
+    cover: unsplash(PHOTOS.lantern, 1600),
+    category: "Guides",
+    tags: [
+      "Vietnam",
+      "Hanoi",
+      "Hoi An",
+      "Ha Long Bay",
+      "Ho Chi Minh City",
+      "Itineraries",
+      "Trip Cost",
+      "Best Time to Visit",
+      "Asia",
+      "Budget Travel",
+    ],
+    author: authors.sofia,
+    date: "2026-08-05",
+    readingTime: 15,
+    featured: true,
+    sections: [
+      {
+        body: "Vietnam delivers huge variety in a compact flight network: chaotic-charming Hanoi, limestone karsts on Ha Long Bay, lantern-lit Hoi An, and energetic Ho Chi Minh City. This 10-day Vietnam itinerary runs north to south so you are not backtracking, and it is paced for first-timers who want culture, scenery and food without sleeping on buses every night.",
+      },
+      {
+        heading: "Best time to visit Vietnam",
+        body: "For a full north–central–south route, late February–April is often the most reliable compromise. November–April is generally drier in the north and south. Central Vietnam (including Hoi An) can see heavy rains and flooding risk around September–November — check forecasts if you travel then. Peak Tet (Lunar New Year) is culturally rich but means closures, crowds and higher prices.",
+      },
+      {
+        heading: "How many days do you need in Vietnam?",
+        body: "Ten days covers the classic first-timer circuit if you fly between regions. With seven days, do Hanoi + Ha Long + Hoi An only. With two weeks, add Sapa, Phong Nha, Hue overnight, or the Mekong Delta properly.",
+      },
+      {
+        heading: "Day 1 — Arrive Hanoi",
+        body: "Land at Noi Bai (HAN) and transfer to the Old Quarter. Walk Hoan Kiem Lake at dusk, try egg coffee or a simple bun cha, and sleep off the flight. Grab and walking beat taxis for short hops once you have your bearings.",
+      },
+      {
+        heading: "Day 2 — Hanoi culture day",
+        body: "Ho Chi Minh Mausoleum complex (check opening days), Temple of Literature, and the Museum of Ethnology if you want deeper context. Evening water puppet show or a street-food crawl in the Old Quarter. Book mausoleum timing carefully — mornings are typical.",
+      },
+      {
+        heading: "Day 3–4 — Ha Long Bay overnight cruise",
+        body: "Transfer ~3–4 hours to the bay for an overnight junk or boutique cruise (Ha Long or quieter Lan Ha / Bai Tu Long options). Kayaking, swimming and karst views are the point — choose a mid-range operator with recent reviews rather than the cheapest flyer in your hotel lobby. Day 4 returns to Hanoi in the afternoon; fly evening or next morning to Da Nang.",
+      },
+      {
+        heading: "Day 5 — Fly to Da Nang & Hoi An",
+        body: "Domestic flight HAN–DAD (~1.5 hours; often USD 30–70 if booked ahead on VietJet, Bamboo or Vietnam Airlines). Transfer ~45 minutes to Hoi An. Buy the Ancient Town ticket, wander by the Thu Bon River, and stay for lantern hour after sunset.",
+      },
+      {
+        heading: "Day 6 — Hoi An deep dive",
+        body: "Japanese Covered Bridge, assembly halls, a tailor fitting if you want custom clothes (order early), and cao lau for lunch. Optional: Cam Thanh basket boats or An Bang Beach late afternoon. Keep one evening free — Hoi An is best slow.",
+      },
+      {
+        heading: "Day 7 — Optional Hue day trip or beach day",
+        body: "Option A: day trip to Hue for the Imperial City (long but doable). Option B: Marble Mountains and beach time near Da Nang. Pick one; stacking both makes a brutal day.",
+      },
+      {
+        heading: "Day 8 — Fly to Ho Chi Minh City",
+        body: "Morning flight DAD–SGN. Afternoon for Notre-Dame Cathedral area, Central Post Office, and a modern coffee shop reset. District 1 is the easiest first-timer base.",
+      },
+      {
+        heading: "Day 9 — Cu Chi or Mekong + city food",
+        body: "Morning Cu Chi Tunnels or a Mekong Delta day trip; afternoon War Remnants Museum (powerful — plan emotional bandwidth). Evening street food in District 1 or 3. Do not schedule a heavy museum and a full Mekong day back-to-back if you tire easily.",
+      },
+      {
+        heading: "Day 10 — Departure",
+        body: "Last cafés, shopping on Dong Khoi, or a short neighbourhood walk before transfer to Tan Son Nhat (SGN). Build traffic buffer — Ho Chi Minh congestion is real.",
+      },
+      {
+        heading: "Vietnam trip cost (excluding international flights)",
+        body: "Per person per day in 2026: Budget USD 30–50 (guesthouses, street food, local buses); Mid-range USD 70–140 (nice hotels, mix of restaurants, better cruise); Luxury USD 200+. A realistic mid-range 10-day ground budget is often USD 900–1,800 including two domestic flights and a solid overnight Ha Long cruise. Street meals can still cost just a few dollars; cruises and flights are the swing factors.",
+      },
+      {
+        heading: "Where to stay",
+        body: "Hanoi: Old Quarter or Hoan Kiem for first nights. Hoi An: Ancient Town for atmosphere (accept bags-on-foot streets) or just outside for quieter pools. Ho Chi Minh City: District 1 for short stays.",
+      },
+      {
+        heading: "Practical tips",
+        body: "eSIMs and Grab work well in cities. Carry cash (VND) for markets and small eateries. Dress modestly at temples and the mausoleum. Book Ha Long cruises and Tet-period hotels early. Motorbikes are everywhere — cross streets slowly and steadily. Use our Trip Cost Estimator for style-based budgets.",
+      },
+      {
+        heading: "FAQs",
+        body: "Is 10 days enough for Vietnam? Yes for a highlights route with flights; not enough to see everything. Is Vietnam good for solo travellers? Yes — tourism infrastructure is strong and costs are friendly. Do you need a visa? Many nationalities use e-visa or visa exemption — always verify current rules for your passport before flying. Should you overnight on Ha Long Bay? Strongly recommended over a rushed day cruise if your budget allows.",
+      },
+    ],
+  },
 ];
