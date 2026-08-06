@@ -19,6 +19,11 @@ const nextConfig: NextConfig = {
   experimental: {
     optimizePackageImports: ["lucide-react", "framer-motion"],
   },
+  // Next.js 16 generateSitemaps() does not emit /sitemap.xml — serve the
+  // index from /sitemap-index and expose the canonical crawler URL here.
+  async rewrites() {
+    return [{ source: "/sitemap.xml", destination: "/sitemap-index" }];
+  },
   // Production security headers. HSTS tells browsers to always use HTTPS
   // (the SSL certificate itself is provisioned automatically by the host).
   async headers() {

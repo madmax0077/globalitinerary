@@ -46,9 +46,14 @@ export function Navbar() {
               : "container-lux px-5 sm:px-6 lg:px-8"
           )}
         >
-          <Logo />
+          <Logo onDark={!scrolled && pathname === "/"} />
 
-          <nav className="ml-2 hidden items-center gap-1 lg:flex">
+          <nav
+            className={cn(
+              "ml-2 hidden items-center gap-1 lg:flex",
+              !scrolled && pathname === "/" && "[&_a]:text-white/90 [&_a:hover]:bg-white/10 [&_a:hover]:text-white",
+            )}
+          >
             {primaryNav.map((item) =>
               "hasMega" in item && item.hasMega ? (
                 <div

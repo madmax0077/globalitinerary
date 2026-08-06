@@ -1,4 +1,3 @@
-import type { MetadataRoute } from "next";
 import { siteConfig } from "@/lib/config";
 import { countries } from "@/data/countries";
 import { cities } from "@/data/cities";
@@ -6,27 +5,26 @@ import { attractions } from "@/data/attractions";
 import { articles, collections } from "@/data/content";
 import { iso2ToIso3, visaMatrix } from "@/data/visa.generated";
 
-/**
- * Split sitemap into chunks so search engines get a reliable index
- * (a single 250KB+ sitemap has timed out / 500'd under cold starts).
- *
- * Produces:
- *   /sitemap.xml          → sitemap index
- *   /sitemap/0.xml        → static + guides + collections + attractions
- *   /sitemap/1.xml        → countries + visa pages
- *   /sitemap/2.xml…       → city chunks
- */
-const CITY_CHUNK = 400;
+/** City URLs per sitemap chunk (keeps each file well under Google's 50MB / 50k limits). */
+export const CITY_CHUNK = 400;
 
-export async function generateSitemaps() {
+export type SitemapEntry = {
+  url: string;
+  lastModified: Date;
+  changeFrequency: "always" | "hourly" | "daily" | "weekly" | "monthly" | "yearly" | "never";
+  priority: number;
+};
+
+export function sitemapChunkCount(): number {
   const cityParts = Math.max(1, Math.ceil(cities.length / CITY_CHUNK));
-  return Array.from({ length: 2 + cityParts }, (_, id) => ({ id }));
+  return 2 + cityParts;
 }
 
-export default async function sitemap(props: {
-  id: number | string;
-}): Promise<MetadataRoute.Sitemap> {
-  const id = Number(props.id);
+export function getSitemapChunkIds(): number[] {
+  return Array.from({ length: sitemapChunkCount() }, (_, id) => id);
+}
+
+export function buildSitemapChunk(id: number): SitemapEntry[] {
   const base = siteConfig.url;
   const now = new Date();
 
@@ -116,3 +114,56 @@ export default async function sitemap(props: {
     priority: c.featured ? 0.85 : 0.75,
   }));
 }
+
+function escapeXml(value: string): string {
+  return value
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&apos;");
+}
+
+export function entriesToUrlsetXml(entries: SitemapEntry[]): string {
+  const body = entries
+    .map((entry) => {
+      const lastmod = entry.lastModified.toISOString();
+      return `  <url>
+    <loc>${escapeXml(entry.url)}</loc>
+    <lastmod>${lastmod}</lastmod>
+    <changefreq>${entry.changeFrequency}</changefreq>
+    <priority>${entry.priority.toFixed(1)}</priority>
+  </url>`;
+    })
+    .join("\n");
+
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${body}
+</urlset>
+`;
+}
+
+export function buildSitemapIndexXml(): string {
+  const base = siteConfig.url;
+  const lastmod = new Date().toISOString();
+  const body = getSitemapChunkIds()
+    .map(
+      (id) => `  <sitemap>
+    <loc>${escapeXml(`${base}/sitemap/${id}.xml`)}</loc>
+    <lastmod>${lastmod}</lastmod>
+  </sitemap>`,
+    )
+    .join("\n");
+
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${body}
+</sitemapindex>
+`;
+}
+
+export const sitemapXmlHeaders = {
+  "Content-Type": "application/xml; charset=utf-8",
+  "Cache-Control": "public, s-maxage=3600, stale-while-revalidate=86400",
+} as const;

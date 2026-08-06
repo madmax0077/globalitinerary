@@ -209,6 +209,110 @@ body {
   0% { background-position: -200% 0; }
   100% { background-position: 200% 0; }
 }
+@keyframes logo-shimmer {
+  0% { background-position: 0% 50%; }
+  100% { background-position: 220% 50%; }
+}
+@keyframes logo-float {
+  0%, 100% { transform: translateY(0) scale(1); }
+  50% { transform: translateY(-3px) scale(1.05); }
+}
+@keyframes logo-aura {
+  0%, 100% {
+    opacity: 0.35;
+    transform: scale(0.85);
+  }
+  50% {
+    opacity: 0.8;
+    transform: scale(1.25);
+  }
+}
+@keyframes logo-pin-bounce {
+  0%, 100% { transform: translateY(0) scale(1); }
+  40% { transform: translateY(-1.5px) scale(1.25); }
+  60% { transform: translateY(0.5px) scale(0.95); }
+}
+@keyframes logo-spark {
+  0%, 100% { opacity: 0; transform: scale(0.4) translateY(0); }
+  40% { opacity: 1; transform: scale(1.15) translateY(-3px); }
+  70% { opacity: 0.4; transform: scale(0.8) translateY(-1px); }
+}
+@keyframes logo-glow {
+  0%, 100% {
+    box-shadow:
+      0 0 0 0 rgb(56 189 248 / 0.2),
+      0 10px 24px -10px rgb(37 99 235 / 0.5);
+  }
+  50% {
+    box-shadow:
+      0 0 18px 2px rgb(56 189 248 / 0.45),
+      0 14px 32px -8px rgb(37 99 235 / 0.65);
+  }
+}
+@keyframes logo-draw {
+  0% { stroke-dashoffset: 36; opacity: 0.35; }
+  50% { stroke-dashoffset: 0; opacity: 1; }
+  100% { stroke-dashoffset: -36; opacity: 0.35; }
+}
+@keyframes logo-badge-shift {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+
+.logo-badge {
+  position: relative;
+  background-size: 180% 180%;
+  animation:
+    logo-float 2.8s ease-in-out infinite,
+    logo-glow 2.2s ease-in-out infinite,
+    logo-badge-shift 5s ease-in-out infinite;
+}
+.logo-aura {
+  position: absolute;
+  inset: -8px;
+  border-radius: 9999px;
+  background: radial-gradient(circle, rgb(125 211 252 / 0.55), transparent 68%);
+  animation: logo-aura 2.4s ease-in-out infinite;
+  pointer-events: none;
+  z-index: 0;
+}
+.logo-spark {
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  border-radius: 9999px;
+  background: #fff;
+  box-shadow: 0 0 10px 2px rgb(125 211 252 / 0.95);
+  animation: logo-spark 1.7s ease-in-out infinite;
+  pointer-events: none;
+  z-index: 2;
+}
+.logo-spark-1 { top: -3px; right: 0; animation-delay: 0s; }
+.logo-spark-2 { bottom: -2px; left: 0; animation-delay: 0.45s; background: #fdba74; box-shadow: 0 0 10px 2px rgb(251 146 60 / 0.9); }
+.logo-spark-3 { top: 2px; left: -4px; animation-delay: 0.9s; }
+.logo-spark-4 { bottom: 4px; right: -5px; animation-delay: 1.25s; background: #fde68a; box-shadow: 0 0 10px 2px rgb(253 224 71 / 0.85); }
+
+.logo-mark {
+  transform-origin: center;
+}
+.logo-pin {
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: logo-pin-bounce 1.5s ease-in-out infinite;
+  filter: drop-shadow(0 0 4px rgb(249 115 22 / 0.9));
+}
+.logo-route {
+  fill: none;
+  stroke: rgb(255 255 255 / 0.9);
+  stroke-width: 1.2;
+  stroke-linecap: round;
+  stroke-dasharray: 18;
+  animation: logo-draw 2.4s ease-in-out infinite;
+}
+
+.logo-on-dark .logo-aura {
+  background: radial-gradient(circle, rgb(125 211 252 / 0.7), transparent 70%);
+}
 @keyframes accordion-down {
   from { height: 0; opacity: 0; }
   to { height: var(--radix-accordion-content-height); opacity: 1; }
