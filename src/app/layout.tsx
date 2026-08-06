@@ -1,6 +1,5 @@
 import type { Metadata, Viewport } from "next";
 import { Inter, Plus_Jakarta_Sans } from "next/font/google";
-import Script from "next/script";
 import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 import { Providers } from "@/components/providers";
@@ -74,6 +73,16 @@ export default function RootLayout({
 }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en" suppressHydrationWarning className={`${inter.variable} ${jakarta.variable}`}>
+      <head>
+        {/* AdSense requires the snippet in <head> for site connection checks */}
+        {adsenseClient ? (
+          <script
+            async
+            crossOrigin="anonymous"
+            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsenseClient}`}
+          />
+        ) : null}
+      </head>
       <body className="min-h-dvh antialiased">
         <Providers>
           <a
@@ -91,15 +100,6 @@ export default function RootLayout({
           </ChromeGate>
           <CookieConsent />
         </Providers>
-        {adsenseClient && (
-          <Script
-            id="adsbygoogle-init"
-            async
-            strategy="afterInteractive"
-            crossOrigin="anonymous"
-            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsenseClient}`}
-          />
-        )}
         <GoogleAnalytics id={gaMeasurementId} />
         <Ezoic />
         <Analytics />

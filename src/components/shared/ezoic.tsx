@@ -1,11 +1,15 @@
 import Script from "next/script";
 
 /**
- * Ezoic standalone integration. Loads the Ezoic script + analytics and
- * initialises the ezstandalone command queue site-wide. Required on the
- * site for Ezoic's review/approval.
+ * Ezoic standalone integration.
+ *
+ * Off by default — running Ezoic alongside AdSense often blocks AdSense
+ * site verification / approval. Enable only with NEXT_PUBLIC_EZOIC_ENABLED=true
+ * after you deliberately choose Ezoic over AdSense.
  */
 export function Ezoic() {
+  if (process.env.NEXT_PUBLIC_EZOIC_ENABLED !== "true") return null;
+
   return (
     <>
       <Script
