@@ -163,6 +163,15 @@ ${body}
 `;
 }
 
+/** All indexable URLs in one urlset (~1.5k entries — well under Google's 50k limit). */
+export function buildFullSitemapEntries(): SitemapEntry[] {
+  return getSitemapChunkIds().flatMap((id) => buildSitemapChunk(id));
+}
+
+export function buildFullSitemapXml(): string {
+  return entriesToUrlsetXml(buildFullSitemapEntries());
+}
+
 export const sitemapXmlHeaders = {
   "Content-Type": "application/xml; charset=utf-8",
   "Cache-Control": "public, s-maxage=3600, stale-while-revalidate=86400",
