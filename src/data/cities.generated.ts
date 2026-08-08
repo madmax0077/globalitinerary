@@ -23,12 +23,12 @@ const raw: Gen[] = [
     "countrySlug": "oman",
     "countryName": "Oman",
     "tagline": "A city in Oman",
-    "heroKey": "fujiLake",
+    "heroKey": "food",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
-      "cityNight",
-      "lantern"
+      "food",
+      "lantern",
+      "temple",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ibri%2C_Oman_%282013%29.jpg/1280px-Ibri%2C_Oman_%282013%29.jpg",
     "realGallery": [
@@ -66,12 +66,12 @@ const raw: Gen[] = [
     "countrySlug": "denmark",
     "countryName": "Denmark",
     "tagline": "A city in Denmark",
-    "heroKey": "greeceSea",
+    "heroKey": "coast",
     "galleryKeys": [
-      "greeceSea",
-      "alps",
-      "paris",
-      "rome"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Aalborg_from_the_Aalborg_tower.jpg",
     "realGallery": [
@@ -207,7 +207,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Abech%C3%A91.jpg",
     "realGallery": [
@@ -267,8 +267,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Visite_du_mus%C3%A9e_de_civilisation_de_C%C3%B4te_d%27Ivoire_08.jpg/1280px-Visite_du_mus%C3%A9e_de_civilisation_de_C%C3%B4te_d%27Ivoire_08.jpg",
     "realGallery": [
@@ -419,8 +419,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Rue_d%27Abomey_%281%29.jpg/1280px-Rue_d%27Abomey_%281%29.jpg",
     "realGallery": [
@@ -465,8 +465,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Abomey-Calavi_vue.jpg/1280px-Abomey-Calavi_vue.jpg",
@@ -507,12 +507,12 @@ const raw: Gen[] = [
     "countrySlug": "united-arab-emirates",
     "countryName": "United Arab Emirates",
     "tagline": "The capital of United Arab Emirates",
-    "heroKey": "dubai",
+    "heroKey": "food",
     "galleryKeys": [
-      "dubai",
-      "cityNight",
+      "food",
       "lantern",
-      "sahara"
+      "temple",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Abu_dhabi_skylines_2014.jpg/1280px-Abu_dhabi_skylines_2014.jpg",
     "realGallery": [
@@ -625,8 +625,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Abuja_heritages_30.jpg/1280px-Abuja_heritages_30.jpg",
     "realGallery": [
@@ -771,8 +771,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Acca.jpg",
@@ -905,10 +905,10 @@ const raw: Gen[] = [
     "countrySlug": "ethiopia",
     "countryName": "Ethiopia",
     "tagline": "The capital of Ethiopia",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -1061,12 +1061,12 @@ const raw: Gen[] = [
     "countrySlug": "australia",
     "countryName": "Australia",
     "tagline": "A city in Australia",
-    "heroKey": "mountains",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "mountains",
+      "cityNight",
       "beach",
       "coast",
-      "longtail"
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Adelaide_skyline%2C_December_2022_b.jpg/1280px-Adelaide_skyline%2C_December_2022_b.jpg",
     "realGallery": [
@@ -1106,12 +1106,12 @@ const raw: Gen[] = [
     "countrySlug": "yemen",
     "countryName": "Yemen",
     "tagline": "A city in Yemen",
-    "heroKey": "kyoto",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "kyoto",
+      "lantern",
       "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/MallaDistrict.jpg/1280px-MallaDistrict.jpg",
     "realGallery": [
@@ -1190,7 +1190,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/1997_277-16A_Agadez_hotel.jpg/1280px-1997_277-16A_Agadez_hotel.jpg",
     "realGallery": [
@@ -1257,12 +1257,12 @@ const raw: Gen[] = [
     "countrySlug": "india",
     "countryName": "India",
     "tagline": "A city in India",
-    "heroKey": "longtail",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "lantern",
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -1296,12 +1296,12 @@ const raw: Gen[] = [
     "countrySlug": "india",
     "countryName": "India",
     "tagline": "A city in India",
-    "heroKey": "tokyo",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
+      "lantern",
       "temple",
-      "phiPhi"
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Sabarmati_riverside.jpg/1280px-Sabarmati_riverside.jpg",
     "realGallery": [
@@ -1341,12 +1341,12 @@ const raw: Gen[] = [
     "countrySlug": "timor-leste",
     "countryName": "Timor-Leste",
     "tagline": "A city in Timor-Leste",
-    "heroKey": "sahara",
+    "heroKey": "coast",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Aileu_Vila.jpg",
     "realGallery": [
@@ -1382,12 +1382,12 @@ const raw: Gen[] = [
     "countrySlug": "united-arab-emirates",
     "countryName": "United Arab Emirates",
     "tagline": "A city in United Arab Emirates",
-    "heroKey": "tokyo",
+    "heroKey": "coast",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
-      "temple",
-      "phiPhi"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Palacio_del_Emir_de_Ajm%C3%A1n.jpg/1280px-Palacio_del_Emir_de_Ajm%C3%A1n.jpg",
     "realGallery": [
@@ -1446,12 +1446,12 @@ const raw: Gen[] = [
     "countrySlug": "kazakhstan",
     "countryName": "Kazakhstan",
     "tagline": "A city in Kazakhstan",
-    "heroKey": "phiPhi",
+    "heroKey": "coast",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/fe/St._Nicolas_Cathedral_Aktobe_and_Nur_Ghasyr_mosque.jpg",
     "realGallery": [
@@ -1498,12 +1498,12 @@ const raw: Gen[] = [
     "countrySlug": "iceland",
     "countryName": "Iceland",
     "tagline": "A city in Iceland",
-    "heroKey": "greeceSea",
+    "heroKey": "beach",
     "galleryKeys": [
-      "greeceSea",
-      "alps",
-      "paris",
-      "rome"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Akureyri_-_Skapti_Hallgr%C3%ADmsson.jpg/1280px-Akureyri_-_Skapti_Hallgr%C3%ADmsson.jpg",
     "realGallery": [
@@ -1615,12 +1615,12 @@ const raw: Gen[] = [
     "countrySlug": "kuwait",
     "countryName": "Kuwait",
     "tagline": "A city in Kuwait",
-    "heroKey": "kyoto",
+    "heroKey": "temple",
     "galleryKeys": [
-      "kyoto",
       "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -1654,12 +1654,12 @@ const raw: Gen[] = [
     "countrySlug": "united-arab-emirates",
     "countryName": "United Arab Emirates",
     "tagline": "A city in United Arab Emirates",
-    "heroKey": "cityNight",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "cityNight",
-      "lantern",
-      "sahara",
-      "tokyo"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/5/55/Jabal_hafeet_shahin.jpg",
     "realGallery": [
@@ -1699,12 +1699,12 @@ const raw: Gen[] = [
     "countrySlug": "iraq",
     "countryName": "Iraq",
     "tagline": "A city in Iraq",
-    "heroKey": "longtail",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "lantern",
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -1738,12 +1738,12 @@ const raw: Gen[] = [
     "countrySlug": "kuwait",
     "countryName": "Kuwait",
     "tagline": "A city in Kuwait",
-    "heroKey": "longtail",
+    "heroKey": "beach",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -1777,12 +1777,12 @@ const raw: Gen[] = [
     "countrySlug": "kuwait",
     "countryName": "Kuwait",
     "tagline": "A city in Kuwait",
-    "heroKey": "cityNight",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "cityNight",
-      "lantern",
-      "sahara",
-      "tokyo"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -1816,12 +1816,12 @@ const raw: Gen[] = [
     "countrySlug": "yemen",
     "countryName": "Yemen",
     "tagline": "A city in Yemen",
-    "heroKey": "fujiLake",
+    "heroKey": "temple",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
+      "temple",
       "cityNight",
-      "lantern"
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Al_Hudaydah_Market%2C_Yemen_%2811042765095%29.jpg/1280px-Al_Hudaydah_Market%2C_Yemen_%2811042765095%29.jpg",
     "realGallery": [
@@ -1872,7 +1872,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/en/1/1a/Khums17february.jpeg",
     "realGallery": [
@@ -1912,12 +1912,12 @@ const raw: Gen[] = [
     "countrySlug": "qatar",
     "countryName": "Qatar",
     "tagline": "A city in Qatar",
-    "heroKey": "longtail",
+    "heroKey": "coast",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Al_Mansourah%2C_Om_Kalthoum_Sq.jpg/1280px-Al_Mansourah%2C_Om_Kalthoum_Sq.jpg",
     "realGallery": [
@@ -1957,12 +1957,12 @@ const raw: Gen[] = [
     "countrySlug": "qatar",
     "countryName": "Qatar",
     "tagline": "A city in Qatar",
-    "heroKey": "tokyo",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
-      "temple",
-      "phiPhi"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -1996,12 +1996,12 @@ const raw: Gen[] = [
     "countrySlug": "iraq",
     "countryName": "Iraq",
     "tagline": "A city in Iraq",
-    "heroKey": "lantern",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "lantern",
-      "sahara",
-      "tokyo",
-      "kyoto"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -2035,12 +2035,12 @@ const raw: Gen[] = [
     "countrySlug": "bahrain",
     "countryName": "Bahrain",
     "tagline": "A city in Bahrain",
-    "heroKey": "tokyo",
+    "heroKey": "coast",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
-      "temple",
-      "phiPhi"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bahrain%27s_Pearling_Pathway_%2818640000885%29.jpg/1280px-Bahrain%27s_Pearling_Pathway_%2818640000885%29.jpg",
     "realGallery": [
@@ -2080,11 +2080,11 @@ const raw: Gen[] = [
     "countrySlug": "costa-rica",
     "countryName": "Costa Rica",
     "tagline": "A city in Costa Rica",
-    "heroKey": "coast",
+    "heroKey": "mountains",
     "galleryKeys": [
+      "mountains",
       "coast",
-      "alps",
-      "nyc",
+      "food",
       "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Alajuela%2C_Costa_Rica_-_Night_Skyline.png",
@@ -2166,12 +2166,12 @@ const raw: Gen[] = [
     "countrySlug": "syria",
     "countryName": "Syria",
     "tagline": "A city in Syria",
-    "heroKey": "tokyo",
+    "heroKey": "beach",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
-      "temple",
-      "phiPhi"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Aleppo_Citadel_entrance_-_seen_from_southeast_9933.jpg/1280px-Aleppo_Citadel_entrance_-_seen_from_southeast_9933.jpg",
     "realGallery": [
@@ -2284,10 +2284,10 @@ const raw: Gen[] = [
     "countrySlug": "egypt",
     "countryName": "Egypt",
     "tagline": "A city in Egypt",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -2422,12 +2422,12 @@ const raw: Gen[] = [
     "countrySlug": "lebanon",
     "countryName": "Lebanon",
     "tagline": "A city in Lebanon",
-    "heroKey": "longtail",
+    "heroKey": "beach",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Panoramic_view_of_Aley_from_Ras_Ill_Jabal_by_Kamil_Chehayeb.jpg/1280px-Panoramic_view_of_Aley_from_Ras_Ill_Jabal_by_Kamil_Chehayeb.jpg",
     "realGallery": [
@@ -2588,7 +2588,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -2622,12 +2622,12 @@ const raw: Gen[] = [
     "countrySlug": "kazakhstan",
     "countryName": "Kazakhstan",
     "tagline": "A city in Kazakhstan",
-    "heroKey": "phiPhi",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Almaty_K%C3%B6k_T%C3%B6be.jpg/1280px-Almaty_K%C3%B6k_T%C3%B6be.jpg",
     "realGallery": [
@@ -2785,7 +2785,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Marche_du_dimanche_%C3%A0_AM-TIMAN.jpg/1280px-Marche_du_dimanche_%C3%A0_AM-TIMAN.jpg",
     "realGallery": [
@@ -2821,12 +2821,12 @@ const raw: Gen[] = [
     "countrySlug": "portugal",
     "countryName": "Portugal",
     "tagline": "A city in Portugal",
-    "heroKey": "alps",
+    "heroKey": "cityNight",
     "galleryKeys": [
+      "cityNight",
       "alps",
-      "paris",
-      "rome",
-      "venice"
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Alfragide_norte%2C_outubro_2017_%28cropped%29.jpg/1280px-Alfragide_norte%2C_outubro_2017_%28cropped%29.jpg",
     "realGallery": [
@@ -2892,12 +2892,12 @@ const raw: Gen[] = [
     "countrySlug": "ecuador",
     "countryName": "Ecuador",
     "tagline": "A city in Ecuador",
-    "heroKey": "machuPicchu",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "machuPicchu",
       "mountains",
-      "temple",
-      "coast"
+      "coast",
+      "beach",
+      "temple"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -2950,12 +2950,12 @@ const raw: Gen[] = [
     "countrySlug": "jordan",
     "countryName": "Jordan",
     "tagline": "The capital of Jordan",
-    "heroKey": "phiPhi",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/New_Abdali_2024.png/1280px-New_Abdali_2024.png",
     "realGallery": [
@@ -3090,12 +3090,12 @@ const raw: Gen[] = [
     "countrySlug": "netherlands",
     "countryName": "Netherlands",
     "tagline": "The capital of Netherlands",
-    "heroKey": "santorini",
+    "heroKey": "coast",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Imagen_de_los_canales_conc%C3%A9ntricos_en_%C3%81msterdam.png/1280px-Imagen_de_los_canales_conc%C3%A9ntricos_en_%C3%81msterdam.png",
     "realGallery": [
@@ -3135,12 +3135,12 @@ const raw: Gen[] = [
     "countrySlug": "belgium",
     "countryName": "Belgium",
     "tagline": "A city in Belgium",
-    "heroKey": "greeceSea",
+    "heroKey": "alps",
     "galleryKeys": [
-      "greeceSea",
       "alps",
-      "paris",
-      "rome"
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Town_hall_of_Anderlecht_%28DSC_2233%29.jpg/1280px-Town_hall_of_Anderlecht_%28DSC_2233%29.jpg",
     "realGallery": [
@@ -3180,12 +3180,12 @@ const raw: Gen[] = [
     "countrySlug": "uzbekistan",
     "countryName": "Uzbekistan",
     "tagline": "A city in Uzbekistan",
-    "heroKey": "dubai",
+    "heroKey": "beach",
     "galleryKeys": [
-      "dubai",
-      "cityNight",
+      "beach",
+      "food",
       "lantern",
-      "sahara"
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Devonaboy_Jome_Mosque_in_Andijan.jpg/1280px-Devonaboy_Jome_Mosque_in_Andijan.jpg",
     "realGallery": [
@@ -3225,12 +3225,12 @@ const raw: Gen[] = [
     "countrySlug": "andorra",
     "countryName": "Andorra",
     "tagline": "The capital of Andorra",
-    "heroKey": "venice",
+    "heroKey": "beach",
     "galleryKeys": [
-      "venice",
-      "coast",
-      "santorini",
-      "eiffel"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Casa_de_la_Vall_4.JPG/1280px-Casa_de_la_Vall_4.JPG",
     "realGallery": [
@@ -3355,12 +3355,12 @@ const raw: Gen[] = [
     "countrySlug": "turkiye",
     "countryName": "Türkiye",
     "tagline": "The capital of Türkiye",
-    "heroKey": "fujiLake",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
       "cityNight",
-      "lantern"
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ankara_from_bus_station.jpg/1280px-Ankara_from_bus_station.jpg",
     "realGallery": [
@@ -3610,12 +3610,12 @@ const raw: Gen[] = [
     "countrySlug": "turkiye",
     "countryName": "Turkey",
     "tagline": "A city in Turkey",
-    "heroKey": "kyoto",
+    "heroKey": "temple",
     "galleryKeys": [
-      "kyoto",
       "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -3649,9 +3649,9 @@ const raw: Gen[] = [
     "countrySlug": "madagascar",
     "countryName": "Madagascar",
     "tagline": "The capital of Madagascar",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -3783,12 +3783,12 @@ const raw: Gen[] = [
     "countrySlug": "chile",
     "countryName": "Chile",
     "tagline": "A city in Chile",
-    "heroKey": "machuPicchu",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "machuPicchu",
       "mountains",
-      "temple",
-      "coast"
+      "coast",
+      "beach",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/2/29/Montaje_de_Antofagasta.jpg",
     "realGallery": [
@@ -3920,12 +3920,12 @@ const raw: Gen[] = [
     "countrySlug": "belgium",
     "countryName": "Belgium",
     "tagline": "A city in Belgium",
-    "heroKey": "eiffel",
+    "heroKey": "temple",
     "galleryKeys": [
-      "eiffel",
-      "colosseum",
-      "norway",
-      "greeceSea"
+      "temple",
+      "coast",
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Amberes%3B_vistas_MAS_2.jpg/1280px-Amberes%3B_vistas_MAS_2.jpg",
     "realGallery": [
@@ -4020,12 +4020,12 @@ const raw: Gen[] = [
     "countrySlug": "samoa",
     "countryName": "Samoa",
     "tagline": "The capital of Samoa",
-    "heroKey": "mountains",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "mountains",
+      "cityNight",
       "beach",
       "coast",
-      "longtail"
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/WS-apia-regierg.jpg/1280px-WS-apia-regierg.jpg",
     "realGallery": [
@@ -4173,12 +4173,12 @@ const raw: Gen[] = [
     "countrySlug": "syria",
     "countryName": "Syria",
     "tagline": "A city in Syria",
-    "heroKey": "cityNight",
+    "heroKey": "food",
     "galleryKeys": [
-      "cityNight",
+      "food",
       "lantern",
-      "sahara",
-      "tokyo"
+      "temple",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Raqqa_2003-12-31.jpg",
     "realGallery": [
@@ -4218,12 +4218,12 @@ const raw: Gen[] = [
     "countrySlug": "qatar",
     "countryName": "Qatar",
     "tagline": "A city in Qatar",
-    "heroKey": "phiPhi",
+    "heroKey": "temple",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "temple",
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Aerial_view_of_Aspetar_Hospital_in_Baaya.jpg/1280px-Aerial_view_of_Aspetar_Hospital_in_Baaya.jpg",
     "realGallery": [
@@ -4263,12 +4263,12 @@ const raw: Gen[] = [
     "countrySlug": "bahrain",
     "countryName": "Bahrain",
     "tagline": "A city in Bahrain",
-    "heroKey": "kyoto",
+    "heroKey": "coast",
     "galleryKeys": [
-      "kyoto",
-      "temple",
-      "phiPhi",
-      "longtail"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -4302,10 +4302,10 @@ const raw: Gen[] = [
     "countrySlug": "papua-new-guinea",
     "countryName": "Papua New Guinea",
     "tagline": "A city in Papua New Guinea",
-    "heroKey": "maldives",
+    "heroKey": "food",
     "galleryKeys": [
-      "maldives",
-      "mountains",
+      "food",
+      "cityNight",
       "beach",
       "coast"
     ],
@@ -4389,12 +4389,12 @@ const raw: Gen[] = [
     "countrySlug": "peru",
     "countryName": "Peru",
     "tagline": "A city in Peru",
-    "heroKey": "beach",
+    "heroKey": "food",
     "galleryKeys": [
-      "beach",
-      "machuPicchu",
+      "food",
       "mountains",
-      "temple"
+      "coast",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Plaza_de_Armas%2C_Arequipa_2006.jpg/1280px-Plaza_de_Armas%2C_Arequipa_2006.jpg",
     "realGallery": [
@@ -4508,12 +4508,12 @@ const raw: Gen[] = [
     "countrySlug": "denmark",
     "countryName": "Denmark",
     "tagline": "A city in Denmark",
-    "heroKey": "norway",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
+      "cityNight",
       "alps",
-      "paris"
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Drone_photo_of_Dokk1_in_Aarhus%2C_Denmark.jpg/1280px-Drone_photo_of_Dokk1_in_Aarhus%2C_Denmark.jpg",
     "realGallery": [
@@ -4624,12 +4624,12 @@ const raw: Gen[] = [
     "countrySlug": "trinidad-and-tobago",
     "countryName": "Trinidad and Tobago",
     "tagline": "A city in Trinidad and Tobago",
-    "heroKey": "cityNight",
+    "heroKey": "coast",
     "galleryKeys": [
+      "coast",
+      "food",
       "cityNight",
-      "beach",
-      "mountains",
-      "coast"
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TnT_Arima_The_Dial.jpg/1280px-TnT_Arima_The_Dial.jpg",
     "realGallery": [
@@ -4671,8 +4671,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/6/65/MineArlit1.jpg",
@@ -4711,12 +4711,12 @@ const raw: Gen[] = [
     "countrySlug": "panama",
     "countryName": "Panama",
     "tagline": "A city in Panama",
-    "heroKey": "mountains",
+    "heroKey": "beach",
     "galleryKeys": [
+      "beach",
       "mountains",
       "coast",
-      "alps",
-      "nyc"
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Arraijan%2C_Panama_-_panoramio.jpg/1280px-Arraijan%2C_Panama_-_panoramio.jpg",
     "realGallery": [
@@ -4755,8 +4755,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": null,
@@ -4846,7 +4846,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Arusha_City_view.jpg/1280px-Arusha_City_view.jpg",
     "realGallery": [
@@ -4953,12 +4953,12 @@ const raw: Gen[] = [
     "countrySlug": "kuwait",
     "countryName": "Kuwait",
     "tagline": "A city in Kuwait",
-    "heroKey": "phiPhi",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -4992,12 +4992,12 @@ const raw: Gen[] = [
     "countrySlug": "turkmenistan",
     "countryName": "Turkmenistan",
     "tagline": "The capital of Turkmenistan",
-    "heroKey": "temple",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "temple",
-      "phiPhi",
-      "longtail",
-      "fujiLake"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/View_of_Ashgabat_%2842376779291%29.jpg/1280px-View_of_Ashgabat_%2842376779291%29.jpg",
     "realGallery": [
@@ -5130,10 +5130,10 @@ const raw: Gen[] = [
     "countrySlug": "eritrea",
     "countryName": "Eritrea",
     "tagline": "The capital of Eritrea",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -5258,7 +5258,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/%D8%B5%D9%88%D8%B1%D8%A9_%D9%83%D9%86%D9%8A%D8%B3%D8%A9_%D9%81%D9%8A_%D8%B9%D8%B5%D8%A8_-_panoramio.jpg/1280px-%D8%B5%D9%88%D8%B1%D8%A9_%D9%83%D9%86%D9%8A%D8%B3%D8%A9_%D9%81%D9%8A_%D8%B9%D8%B5%D8%A8_-_panoramio.jpg",
     "realGallery": [
@@ -5299,8 +5299,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/4/42/Cutelo.jpg",
     "realGallery": [
@@ -5340,12 +5340,12 @@ const raw: Gen[] = [
     "countrySlug": "kazakhstan",
     "countryName": "Kazakhstan",
     "tagline": "The capital of Kazakhstan",
-    "heroKey": "sahara",
+    "heroKey": "coast",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Astana_Esil_view.jpg/1280px-Astana_Esil_view.jpg",
     "realGallery": [
@@ -5486,12 +5486,12 @@ const raw: Gen[] = [
     "countrySlug": "paraguay",
     "countryName": "Paraguay",
     "tagline": "The capital of Paraguay",
-    "heroKey": "temple",
+    "heroKey": "beach",
     "galleryKeys": [
-      "temple",
-      "coast",
       "beach",
-      "machuPicchu"
+      "temple",
+      "food",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Palacio_de_Gobierno2.jpg",
     "realGallery": [
@@ -5605,9 +5605,9 @@ const raw: Gen[] = [
     "countrySlug": "egypt",
     "countryName": "Egypt",
     "tagline": "A city in Egypt",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -5649,7 +5649,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/4/46/Atakpame_view.jpg",
     "realGallery": [
@@ -5685,12 +5685,12 @@ const raw: Gen[] = [
     "countrySlug": "greece",
     "countryName": "Greece",
     "tagline": "The capital of Greece",
-    "heroKey": "rome",
+    "heroKey": "alps",
     "galleryKeys": [
-      "rome",
-      "venice",
-      "coast",
-      "santorini"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Monastiraki_Square_and_Acropolis_in_Athens_%2844149181684%29.jpg/1280px-Monastiraki_Square_and_Acropolis_in_Athens_%2844149181684%29.jpg",
     "realGallery": [
@@ -5822,12 +5822,12 @@ const raw: Gen[] = [
     "countrySlug": "united-states",
     "countryName": "United States",
     "tagline": "A city in United States",
-    "heroKey": "coast",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "coast",
-      "alps",
-      "nyc",
-      "cityNight"
+      "cityNight",
+      "beach",
+      "mountains",
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -5865,8 +5865,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "beach",
       "coast",
-      "longtail",
-      "maldives"
+      "mountains",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Auckland_skyline_-_May_2024_%282%29.jpg/1280px-Auckland_skyline_-_May_2024_%282%29.jpg",
     "realGallery": [
@@ -5906,12 +5906,12 @@ const raw: Gen[] = [
     "countrySlug": "united-states",
     "countryName": "United States",
     "tagline": "A city in United States",
-    "heroKey": "cityNight",
+    "heroKey": "beach",
     "galleryKeys": [
-      "cityNight",
       "beach",
       "mountains",
-      "coast"
+      "coast",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -5945,12 +5945,12 @@ const raw: Gen[] = [
     "countrySlug": "qatar",
     "countryName": "Qatar",
     "tagline": "A city in Qatar",
-    "heroKey": "lantern",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "lantern",
-      "sahara",
-      "tokyo",
-      "kyoto"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -6029,8 +6029,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Entr%C3%A9e_principale_march%C3%A9_-_Bafoussam.jpg/1280px-Entr%C3%A9e_principale_march%C3%A9_-_Bafoussam.jpg",
     "realGallery": [
@@ -6106,12 +6106,12 @@ const raw: Gen[] = [
     "countrySlug": "iraq",
     "countryName": "Iraq",
     "tagline": "The capital of Iraq",
-    "heroKey": "dubai",
+    "heroKey": "food",
     "galleryKeys": [
-      "dubai",
-      "cityNight",
+      "food",
       "lantern",
-      "sahara"
+      "temple",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/5628442718_b10fc2c47f_o.jpg/1280px-5628442718_b10fc2c47f_o.jpg",
     "realGallery": [
@@ -6246,9 +6246,9 @@ const raw: Gen[] = [
     "countrySlug": "guinea-bissau",
     "countryName": "Guinea-Bissau",
     "tagline": "A city in Guinea-Bissau",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -6285,12 +6285,12 @@ const raw: Gen[] = [
     "countrySlug": "azerbaijan",
     "countryName": "Azerbaijan",
     "tagline": "The capital of Azerbaijan",
-    "heroKey": "lantern",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "lantern",
-      "sahara",
-      "tokyo",
-      "kyoto"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Baku_Montage.jpg/1280px-Baku_Montage.jpg",
     "realGallery": [
@@ -6426,8 +6426,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Route_nationale_1_vers_PK12_-_panoramio.jpg/1280px-Route_nationale_1_vers_PK12_-_panoramio.jpg",
     "realGallery": [
@@ -6464,12 +6464,12 @@ const raw: Gen[] = [
     "countrySlug": "turkmenistan",
     "countryName": "Turkmenistan",
     "tagline": "A city in Turkmenistan",
-    "heroKey": "tokyo",
+    "heroKey": "coast",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
-      "temple",
-      "phiPhi"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Balkanabat_%2835634838822%29.jpg/1280px-Balkanabat_%2835634838822%29.jpg",
     "realGallery": [
@@ -6545,12 +6545,12 @@ const raw: Gen[] = [
     "countrySlug": "moldova",
     "countryName": "Moldova",
     "tagline": "A city in Moldova",
-    "heroKey": "venice",
+    "heroKey": "temple",
     "galleryKeys": [
-      "venice",
+      "temple",
       "coast",
-      "santorini",
-      "eiffel"
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -6725,9 +6725,9 @@ const raw: Gen[] = [
     "countrySlug": "central-african-republic",
     "countryName": "Central African Republic",
     "tagline": "A city in Central African Republic",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -6778,8 +6778,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bamenda_from_mountain_road.jpg/1280px-Bamenda_from_mountain_road.jpg",
@@ -6866,12 +6866,12 @@ const raw: Gen[] = [
     "countrySlug": "laos",
     "countryName": "Laos",
     "tagline": "A city in Laos",
-    "heroKey": "lantern",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "lantern",
-      "sahara",
-      "tokyo",
-      "kyoto"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -6905,12 +6905,12 @@ const raw: Gen[] = [
     "countrySlug": "brunei",
     "countryName": "Brunei",
     "tagline": "The capital of Brunei",
-    "heroKey": "cityNight",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "cityNight",
       "lantern",
-      "sahara",
-      "tokyo"
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Brunei_Fireworks_%26_Drone_Light_Show_2024_12.jpg/1280px-Brunei_Fireworks_%26_Drone_Light_Show_2024_12.jpg",
     "realGallery": [
@@ -7031,12 +7031,12 @@ const raw: Gen[] = [
     "countrySlug": "indonesia",
     "countryName": "Indonesia",
     "tagline": "A city in Indonesia",
-    "heroKey": "lantern",
+    "heroKey": "beach",
     "galleryKeys": [
+      "beach",
+      "food",
       "lantern",
-      "sahara",
-      "tokyo",
-      "kyoto"
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bandung_View_dari_Gedung_Wisma_HSBC_Asia_Afrika_4.jpg/1280px-Bandung_View_dari_Gedung_Wisma_HSBC_Asia_Afrika_4.jpg",
     "realGallery": [
@@ -7076,12 +7076,12 @@ const raw: Gen[] = [
     "countrySlug": "canada",
     "countryName": "Canada",
     "tagline": "A city in Canada",
-    "heroKey": "coast",
+    "heroKey": "beach",
     "galleryKeys": [
+      "beach",
+      "mountains",
       "coast",
-      "alps",
-      "nyc",
-      "cityNight"
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -7115,12 +7115,12 @@ const raw: Gen[] = [
     "countrySlug": "thailand",
     "countryName": "Thailand",
     "tagline": "A city in Thailand",
-    "heroKey": "cityNight",
+    "heroKey": "food",
     "galleryKeys": [
-      "cityNight",
+      "food",
       "lantern",
-      "sahara",
-      "tokyo"
+      "temple",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Car_in_Bangkok.jpg/1280px-Car_in_Bangkok.jpg",
     "realGallery": [
@@ -7156,12 +7156,12 @@ const raw: Gen[] = [
     "countrySlug": "thailand",
     "countryName": "Thailand",
     "tagline": "The capital of Thailand",
-    "heroKey": "dubai",
+    "heroKey": "food",
     "galleryKeys": [
-      "dubai",
-      "cityNight",
+      "food",
       "lantern",
-      "sahara"
+      "temple",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/4Y1A1159_Bangkok_%2833536795515%29.jpg/1280px-4Y1A1159_Bangkok_%2833536795515%29.jpg",
     "realGallery": [
@@ -7225,8 +7225,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bangui_collage.png/1280px-Bangui_collage.png",
@@ -7289,12 +7289,12 @@ const raw: Gen[] = [
     "countrySlug": "bosnia-and-herzegovina",
     "countryName": "Bosnia and Herzegovina",
     "tagline": "A city in Bosnia and Herzegovina",
-    "heroKey": "colosseum",
+    "heroKey": "beach",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
-      "alps"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NKD115_Saborna_crkva_Hrista_spasitelja_Banja_Luka_RS_BiH.jpg/1280px-NKD115_Saborna_crkva_Hrista_spasitelja_Banja_Luka_RS_BiH.jpg",
     "realGallery": [
@@ -7423,7 +7423,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gambia%2C_Banjul%2C_Arch_22.jpg/1280px-Gambia%2C_Banjul%2C_Arch_22.jpg",
     "realGallery": [
@@ -7500,12 +7500,12 @@ const raw: Gen[] = [
     "countrySlug": "montenegro",
     "countryName": "Montenegro",
     "tagline": "A city in Montenegro",
-    "heroKey": "rome",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "rome",
-      "venice",
-      "coast",
-      "santorini"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -7606,12 +7606,12 @@ const raw: Gen[] = [
     "countrySlug": "spain",
     "countryName": "Spain",
     "tagline": "A city in Spain",
-    "heroKey": "alps",
+    "heroKey": "mountains",
     "galleryKeys": [
+      "mountains",
+      "cityNight",
       "alps",
-      "paris",
-      "rome",
-      "venice"
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Evening_light_over_Barcelona.jpg/1280px-Evening_light_over_Barcelona.jpg",
     "realGallery": [
@@ -7671,12 +7671,12 @@ const raw: Gen[] = [
     "countrySlug": "venezuela",
     "countryName": "Venezuela",
     "tagline": "A city in Venezuela",
-    "heroKey": "coast",
+    "heroKey": "temple",
     "galleryKeys": [
-      "coast",
-      "beach",
-      "machuPicchu",
-      "mountains"
+      "temple",
+      "food",
+      "mountains",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Evening_light_over_Barcelona.jpg/1280px-Evening_light_over_Barcelona.jpg",
     "realGallery": [
@@ -7736,12 +7736,12 @@ const raw: Gen[] = [
     "countrySlug": "venezuela",
     "countryName": "Venezuela",
     "tagline": "A city in Venezuela",
-    "heroKey": "beach",
+    "heroKey": "food",
     "galleryKeys": [
-      "beach",
-      "machuPicchu",
+      "food",
       "mountains",
-      "temple"
+      "coast",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/2/2b/BarquisimetoCollage.png",
     "realGallery": [
@@ -7829,12 +7829,12 @@ const raw: Gen[] = [
     "countrySlug": "colombia",
     "countryName": "Colombia",
     "tagline": "A city in Colombia",
-    "heroKey": "mountains",
+    "heroKey": "coast",
     "galleryKeys": [
-      "mountains",
-      "temple",
       "coast",
-      "beach"
+      "beach",
+      "temple",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Antigua_Aduana_de_Barranquilla.jpg/1280px-Antigua_Aduana_de_Barranquilla.jpg",
     "realGallery": [
@@ -7904,12 +7904,12 @@ const raw: Gen[] = [
     "countrySlug": "switzerland",
     "countryName": "Switzerland",
     "tagline": "A city in Switzerland",
-    "heroKey": "coast",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "coast",
-      "santorini",
-      "eiffel",
-      "colosseum"
+      "mountains",
+      "cityNight",
+      "alps",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Basel_-_M%C3%BCnsterpfalz1.jpg/1280px-Basel_-_M%C3%BCnsterpfalz1.jpg",
     "realGallery": [
@@ -8047,12 +8047,12 @@ const raw: Gen[] = [
     "countrySlug": "iraq",
     "countryName": "Iraq",
     "tagline": "A city in Iraq",
-    "heroKey": "dubai",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "dubai",
       "cityNight",
-      "lantern",
-      "sahara"
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Basra_city.jpg",
     "realGallery": [
@@ -8157,9 +8157,9 @@ const raw: Gen[] = [
     "countrySlug": "togo",
     "countryName": "Togo",
     "tagline": "A city in Togo",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -8202,12 +8202,12 @@ const raw: Gen[] = [
     "countrySlug": "saint-kitts-and-nevis",
     "countryName": "Saint Kitts and Nevis",
     "tagline": "The capital of Saint Kitts and Nevis",
-    "heroKey": "cityNight",
+    "heroKey": "coast",
     "galleryKeys": [
+      "coast",
+      "food",
       "cityNight",
-      "beach",
-      "mountains",
-      "coast"
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/St._Kitts%2C_Karibik_-_Marina_in_Basseterre_-_panoramio.jpg/1280px-St._Kitts%2C_Karibik_-_Marina_in_Basseterre_-_panoramio.jpg",
     "realGallery": [
@@ -8290,9 +8290,9 @@ const raw: Gen[] = [
     "countrySlug": "equatorial-guinea",
     "countryName": "Equatorial Guinea",
     "tagline": "A city in Equatorial Guinea",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -8355,8 +8355,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": null,
@@ -8391,12 +8391,12 @@ const raw: Gen[] = [
     "countrySlug": "cambodia",
     "countryName": "Cambodia",
     "tagline": "A city in Cambodia",
-    "heroKey": "lantern",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "lantern",
-      "sahara",
-      "tokyo",
-      "kyoto"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Aerial_view_of_Battambang_city.jpg/1280px-Aerial_view_of_Battambang_city.jpg",
     "realGallery": [
@@ -8508,12 +8508,12 @@ const raw: Gen[] = [
     "countrySlug": "georgia",
     "countryName": "Georgia",
     "tagline": "A city in Georgia",
-    "heroKey": "cityNight",
+    "heroKey": "temple",
     "galleryKeys": [
+      "temple",
       "cityNight",
-      "lantern",
-      "sahara",
-      "tokyo"
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/USS_Oak_Hill%2C_26th_MEU_Marines_Visit_Batumi%2C_Georgia_%2840817303032%29.jpg/1280px-USS_Oak_Hill%2C_26th_MEU_Marines_Visit_Batumi%2C_Georgia_%2840817303032%29.jpg",
     "realGallery": [
@@ -8654,12 +8654,12 @@ const raw: Gen[] = [
     "countrySlug": "oman",
     "countryName": "Oman",
     "tagline": "A city in Oman",
-    "heroKey": "kyoto",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "kyoto",
-      "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/B_wab_photo%2C_Early_Iron_Age_cemetery.tif/lossy-page1-1280px-B_wab_photo%2C_Early_Iron_Age_cemetery.tif.jpg",
     "realGallery": [
@@ -8700,7 +8700,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Plaza_%28Mauritius%29.jpg/1280px-Plaza_%28Mauritius%29.jpg",
     "realGallery": [
@@ -8736,12 +8736,12 @@ const raw: Gen[] = [
     "countrySlug": "singapore",
     "countryName": "Singapore",
     "tagline": "A city in Singapore",
-    "heroKey": "temple",
+    "heroKey": "coast",
     "galleryKeys": [
-      "temple",
-      "phiPhi",
-      "longtail",
-      "fujiLake"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/North-eastern_shore_of_Bedok_Reservoir.jpg/1280px-North-eastern_shore_of_Bedok_Reservoir.jpg",
     "realGallery": [
@@ -8781,10 +8781,10 @@ const raw: Gen[] = [
     "countrySlug": "central-african-republic",
     "countryName": "Central African Republic",
     "tagline": "A city in Central African Republic",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -8820,12 +8820,12 @@ const raw: Gen[] = [
     "countrySlug": "china",
     "countryName": "China",
     "tagline": "The capital of China",
-    "heroKey": "kyoto",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "kyoto",
-      "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Skyline_of_Beijing_CBD_with_B-5906_approaching_%2820211016171955%29_%281%29.jpg/1280px-Skyline_of_Beijing_CBD_with_B-5906_approaching_%2820211016171955%29_%281%29.jpg",
     "realGallery": [
@@ -8865,10 +8865,10 @@ const raw: Gen[] = [
     "countrySlug": "mozambique",
     "countryName": "Mozambique",
     "tagline": "A city in Mozambique",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -8965,9 +8965,9 @@ const raw: Gen[] = [
     "heroKey": "lantern",
     "galleryKeys": [
       "lantern",
-      "sahara",
-      "tokyo",
-      "kyoto"
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Beyrouth_vue_a%C3%A9rienne.jpg",
     "realGallery": [
@@ -9028,12 +9028,12 @@ const raw: Gen[] = [
     "countrySlug": "indonesia",
     "countryName": "Indonesia",
     "tagline": "A city in Indonesia",
-    "heroKey": "longtail",
+    "heroKey": "temple",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "temple",
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Kalimalang.jpg/1280px-Kalimalang.jpg",
     "realGallery": [
@@ -9111,12 +9111,12 @@ const raw: Gen[] = [
     "countrySlug": "serbia",
     "countryName": "Serbia",
     "tagline": "The capital of Serbia",
-    "heroKey": "paris",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
-      "coast"
+      "mountains",
+      "cityNight",
+      "alps",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Panorama_Belgrad.jpg/1280px-Panorama_Belgrad.jpg",
     "realGallery": [
@@ -9245,12 +9245,12 @@ const raw: Gen[] = [
     "countrySlug": "belize",
     "countryName": "Belize",
     "tagline": "A city in Belize",
-    "heroKey": "beach",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "beach",
       "mountains",
       "coast",
-      "alps"
+      "food",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Belize_City_Montage.jpeg/1280px-Belize_City_Montage.jpeg",
     "realGallery": [
@@ -9351,12 +9351,12 @@ const raw: Gen[] = [
     "countrySlug": "belize",
     "countryName": "Belize",
     "tagline": "The capital of Belize",
-    "heroKey": "alps",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "alps",
-      "nyc",
-      "cityNight",
-      "beach"
+      "mountains",
+      "coast",
+      "food",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f9/National_Assembly_Building%2C_Belize.png",
     "realGallery": [
@@ -9421,12 +9421,12 @@ const raw: Gen[] = [
     "countrySlug": "brazil",
     "countryName": "Brazil",
     "tagline": "A city in Brazil",
-    "heroKey": "coast",
+    "heroKey": "temple",
     "galleryKeys": [
-      "coast",
-      "beach",
-      "machuPicchu",
-      "mountains"
+      "temple",
+      "food",
+      "mountains",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Praca_do_Papa%2C_Belo_Horizonte_%28cropped%292.jpg",
     "realGallery": [
@@ -9525,12 +9525,12 @@ const raw: Gen[] = [
     "countrySlug": "moldova",
     "countryName": "Moldova",
     "tagline": "A city in Moldova",
-    "heroKey": "santorini",
+    "heroKey": "beach",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -9567,9 +9567,9 @@ const raw: Gen[] = [
     "heroKey": "lantern",
     "galleryKeys": [
       "lantern",
-      "sahara",
-      "tokyo",
-      "kyoto"
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/View_from_Visvesvaraya_Industrial_and_Technological_Museum_%282025%29_02.jpg/1280px-View_from_Visvesvaraya_Industrial_and_Technological_Museum_%282025%29_02.jpg",
     "realGallery": [
@@ -9642,9 +9642,9 @@ const raw: Gen[] = [
     "countrySlug": "libya",
     "countryName": "Libya",
     "tagline": "A city in Libya",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -9716,10 +9716,10 @@ const raw: Gen[] = [
     "countrySlug": "somalia",
     "countryName": "Somalia",
     "tagline": "A city in Somalia",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -9774,9 +9774,9 @@ const raw: Gen[] = [
     "countrySlug": "central-african-republic",
     "countryName": "Central African Republic",
     "tagline": "A city in Central African Republic",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -9819,12 +9819,12 @@ const raw: Gen[] = [
     "countrySlug": "norway",
     "countryName": "Norway",
     "tagline": "A city in Norway",
-    "heroKey": "eiffel",
+    "heroKey": "alps",
     "galleryKeys": [
-      "eiffel",
-      "colosseum",
-      "norway",
-      "greeceSea"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bergen_panorama_at_night_-_panoramio_%281%29.jpg/1280px-Bergen_panorama_at_night_-_panoramio_%281%29.jpg",
     "realGallery": [
@@ -9933,12 +9933,12 @@ const raw: Gen[] = [
     "countrySlug": "germany",
     "countryName": "Germany",
     "tagline": "The capital of Germany",
-    "heroKey": "santorini",
+    "heroKey": "beach",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29_b.jpg/1280px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29_b.jpg",
     "realGallery": [
@@ -9978,12 +9978,12 @@ const raw: Gen[] = [
     "countrySlug": "switzerland",
     "countryName": "Switzerland",
     "tagline": "The capital of Switzerland",
-    "heroKey": "rome",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "rome",
-      "venice",
-      "coast",
-      "santorini"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/4/45/Bundeshaus_Bern_2009%2C_Flooffy.jpg",
     "realGallery": [
@@ -10106,12 +10106,12 @@ const raw: Gen[] = [
     "countrySlug": "nepal",
     "countryName": "Nepal",
     "tagline": "A city in Nepal",
-    "heroKey": "temple",
+    "heroKey": "beach",
     "galleryKeys": [
-      "temple",
-      "phiPhi",
-      "longtail",
-      "fujiLake"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -10174,12 +10174,12 @@ const raw: Gen[] = [
     "countrySlug": "bosnia-and-herzegovina",
     "countryName": "Bosnia and Herzegovina",
     "tagline": "A city in Bosnia and Herzegovina",
-    "heroKey": "alps",
+    "heroKey": "food",
     "galleryKeys": [
-      "alps",
-      "paris",
-      "rome",
-      "venice"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Biha%C4%87_%E2%80%93_Kapetanova_kula.jpg/1280px-Biha%C4%87_%E2%80%93_Kapetanova_kula.jpg",
     "realGallery": [
@@ -10219,12 +10219,12 @@ const raw: Gen[] = [
     "countrySlug": "spain",
     "countryName": "Spain",
     "tagline": "A city in Spain",
-    "heroKey": "norway",
+    "heroKey": "coast",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
-      "alps",
-      "paris"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -10258,17 +10258,15 @@ const raw: Gen[] = [
     "countrySlug": "central-african-republic",
     "countryName": "Central African Republic",
     "tagline": "A city in Central African Republic",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Paris_Hilton_Cannes_2016.jpg",
-    "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Paris_Hilton_Cannes_2016.jpg/500px-Paris_Hilton_Cannes_2016.jpg"
-    ],
+    "realPhoto": null,
+    "realGallery": [],
     "overview": "Bimbo is one of Central African Republic's major cities, home to around 348,802 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -10299,12 +10297,12 @@ const raw: Gen[] = [
     "countrySlug": "nepal",
     "countryName": "Nepal",
     "tagline": "A city in Nepal",
-    "heroKey": "dubai",
+    "heroKey": "food",
     "galleryKeys": [
-      "dubai",
-      "cityNight",
+      "food",
       "lantern",
-      "sahara"
+      "temple",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Biratnagar_Bazar_Drone_view.png/1280px-Biratnagar_Bazar_Drone_view.png",
     "realGallery": [
@@ -10368,12 +10366,12 @@ const raw: Gen[] = [
     "countrySlug": "nepal",
     "countryName": "Nepal",
     "tagline": "A city in Nepal",
-    "heroKey": "lantern",
+    "heroKey": "food",
     "galleryKeys": [
+      "food",
       "lantern",
-      "sahara",
-      "tokyo",
-      "kyoto"
+      "temple",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ghadiarwa_mai_temple_3.jpg/1280px-Ghadiarwa_mai_temple_3.jpg",
     "realGallery": [
@@ -10446,11 +10444,11 @@ const raw: Gen[] = [
     "countrySlug": "malta",
     "countryName": "Malta",
     "tagline": "A city in Malta",
-    "heroKey": "paris",
+    "heroKey": "beach",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
+      "beach",
+      "food",
+      "temple",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/St_Helen_Parish_Church_Birkirkara_Malta_-1244497030.jpeg/1280px-St_Helen_Parish_Church_Birkirkara_Malta_-1244497030.jpeg",
@@ -10491,12 +10489,12 @@ const raw: Gen[] = [
     "countrySlug": "united-kingdom",
     "countryName": "United Kingdom",
     "tagline": "A city in United Kingdom",
-    "heroKey": "santorini",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Birmingham_Skyline_from_the_West.jpg/1280px-Birmingham_Skyline_from_the_West.jpg",
     "realGallery": [
@@ -10621,12 +10619,12 @@ const raw: Gen[] = [
     "countrySlug": "kyrgyzstan",
     "countryName": "Kyrgyzstan",
     "tagline": "The capital of Kyrgyzstan",
-    "heroKey": "dubai",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "dubai",
       "cityNight",
-      "lantern",
-      "sahara"
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bishkek_City%27s_business_center.jpg/1280px-Bishkek_City%27s_business_center.jpg",
     "realGallery": [
@@ -10780,8 +10778,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bissau-Stroossenzeen--w.jpg/1280px-Bissau-Stroossenzeen--w.jpg",
     "realGallery": [
@@ -10877,12 +10875,12 @@ const raw: Gen[] = [
     "countrySlug": "north-macedonia",
     "countryName": "North Macedonia",
     "tagline": "A city in North Macedonia",
-    "heroKey": "alps",
+    "heroKey": "coast",
     "galleryKeys": [
-      "alps",
-      "paris",
-      "rome",
-      "venice"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ambientalna_ulica_Marsal_Tito-Bitola_%2810%29.jpg/1280px-Ambientalna_ulica_Marsal_Tito-Bitola_%2810%29.jpg",
     "realGallery": [
@@ -11039,10 +11037,10 @@ const raw: Gen[] = [
     "countrySlug": "tunisia",
     "countryName": "Tunisia",
     "tagline": "A city in Tunisia",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -11126,8 +11124,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Blantyre_City.jpg/1280px-Blantyre_City.jpg",
     "realGallery": [
@@ -11217,12 +11215,12 @@ const raw: Gen[] = [
     "countrySlug": "suriname",
     "countryName": "Suriname",
     "tagline": "A city in Suriname",
-    "heroKey": "coast",
+    "heroKey": "temple",
     "galleryKeys": [
-      "coast",
-      "beach",
-      "machuPicchu",
-      "mountains"
+      "temple",
+      "food",
+      "mountains",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Leonsberg_%2831239515295%29.jpg/1280px-Leonsberg_%2831239515295%29.jpg",
     "realGallery": [
@@ -11263,7 +11261,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/92/Chrea_blida_snow.jpg",
     "realGallery": [
@@ -11384,8 +11382,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BoboDioulasso-Market.JPG/1280px-BoboDioulasso-Market.JPG",
@@ -11459,12 +11457,12 @@ const raw: Gen[] = [
     "countrySlug": "turkiye",
     "countryName": "Turkey",
     "tagline": "A city in Turkey",
-    "heroKey": "temple",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "temple",
-      "phiPhi",
-      "longtail",
-      "fujiLake"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -11498,12 +11496,12 @@ const raw: Gen[] = [
     "countrySlug": "colombia",
     "countryName": "Colombia",
     "tagline": "The capital of Colombia",
-    "heroKey": "temple",
+    "heroKey": "beach",
     "galleryKeys": [
-      "temple",
-      "coast",
       "beach",
-      "machuPicchu"
+      "temple",
+      "food",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bogota%2C_Colombia_%2836668708290%29.jpg/1280px-Bogota%2C_Colombia_%2836668708290%29.jpg",
     "realGallery": [
@@ -11543,12 +11541,12 @@ const raw: Gen[] = [
     "countrySlug": "philippines",
     "countryName": "Philippines",
     "tagline": "A city in Philippines",
-    "heroKey": "longtail",
+    "heroKey": "temple",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "temple",
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -11582,9 +11580,9 @@ const raw: Gen[] = [
     "countrySlug": "somalia",
     "countryName": "Somalia",
     "tagline": "A city in Somalia",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -11635,12 +11633,12 @@ const raw: Gen[] = [
     "countrySlug": "france",
     "countryName": "France",
     "tagline": "A city in France",
-    "heroKey": "paris",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
-      "coast"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -11674,12 +11672,12 @@ const raw: Gen[] = [
     "countrySlug": "united-states",
     "countryName": "United States",
     "tagline": "A city in United States",
-    "heroKey": "nyc",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "nyc",
-      "cityNight",
-      "beach",
-      "mountains"
+      "mountains",
+      "coast",
+      "food",
+      "cityNight"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -11717,8 +11715,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bouak%C3%A9_Collage.jpg/1280px-Bouak%C3%A9_Collage.jpg",
     "realGallery": [
@@ -11771,12 +11769,12 @@ const raw: Gen[] = [
     "countrySlug": "portugal",
     "countryName": "Portugal",
     "tagline": "A city in Portugal",
-    "heroKey": "rome",
+    "heroKey": "food",
     "galleryKeys": [
-      "rome",
-      "venice",
+      "food",
+      "temple",
       "coast",
-      "santorini"
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Braga_Panorama.jpg/1280px-Braga_Panorama.jpg",
     "realGallery": [
@@ -11851,12 +11849,12 @@ const raw: Gen[] = [
     "countrySlug": "brazil",
     "countryName": "Brazil",
     "tagline": "The capital of Brazil",
-    "heroKey": "temple",
+    "heroKey": "beach",
     "galleryKeys": [
-      "temple",
-      "coast",
       "beach",
-      "machuPicchu"
+      "temple",
+      "food",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Planalto_Central_%28cropped%29.jpg/1280px-Planalto_Central_%28cropped%29.jpg",
     "realGallery": [
@@ -11988,9 +11986,9 @@ const raw: Gen[] = [
     "heroKey": "coast",
     "galleryKeys": [
       "coast",
-      "santorini",
-      "eiffel",
-      "colosseum"
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Slovakia_bratislava.jpg/1280px-Slovakia_bratislava.jpg",
     "realGallery": [
@@ -12143,8 +12141,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Les_lieux_de_Brazzaville_03.jpg/1280px-Les_lieux_de_Brazzaville_03.jpg",
@@ -12235,12 +12233,12 @@ const raw: Gen[] = [
     "countrySlug": "belarus",
     "countryName": "Belarus",
     "tagline": "A city in Belarus",
-    "heroKey": "greeceSea",
+    "heroKey": "food",
     "galleryKeys": [
-      "greeceSea",
-      "alps",
-      "paris",
-      "rome"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -12274,12 +12272,12 @@ const raw: Gen[] = [
     "countrySlug": "barbados",
     "countryName": "Barbados",
     "tagline": "The capital of Barbados",
-    "heroKey": "nyc",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "nyc",
-      "cityNight",
-      "beach",
-      "mountains"
+      "mountains",
+      "coast",
+      "food",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Bridgetown2.jpg",
     "realGallery": [
@@ -12374,10 +12372,10 @@ const raw: Gen[] = [
     "countrySlug": "gambia",
     "countryName": "Gambia",
     "tagline": "A city in Gambia",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -12445,9 +12443,9 @@ const raw: Gen[] = [
     "heroKey": "coast",
     "galleryKeys": [
       "coast",
-      "longtail",
-      "maldives",
-      "mountains"
+      "mountains",
+      "food",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Brisbane_CBD_seen_from_Kangaroo_Point%2C_2024%2C_01_%282%29.jpg/1280px-Brisbane_CBD_seen_from_Kangaroo_Point%2C_2024%2C_01_%282%29.jpg",
     "realGallery": [
@@ -12580,12 +12578,12 @@ const raw: Gen[] = [
     "countrySlug": "czechia",
     "countryName": "Czechia",
     "tagline": "A city in Czechia",
-    "heroKey": "alps",
+    "heroKey": "beach",
     "galleryKeys": [
-      "alps",
-      "paris",
-      "rome",
-      "venice"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Brno_Montage_IV.png/1280px-Brno_Montage_IV.png",
     "realGallery": [
@@ -12714,12 +12712,12 @@ const raw: Gen[] = [
     "countrySlug": "united-states",
     "countryName": "United States",
     "tagline": "A city in United States",
-    "heroKey": "alps",
+    "heroKey": "beach",
     "galleryKeys": [
-      "alps",
-      "nyc",
-      "cityNight",
-      "beach"
+      "beach",
+      "mountains",
+      "coast",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Brooklyn_skyline.jpg/1280px-Brooklyn_skyline.jpg",
     "realGallery": [
@@ -12762,12 +12760,12 @@ const raw: Gen[] = [
     "countrySlug": "belgium",
     "countryName": "Belgium",
     "tagline": "A city in Belgium",
-    "heroKey": "greeceSea",
+    "heroKey": "temple",
     "galleryKeys": [
-      "greeceSea",
-      "alps",
-      "paris",
-      "rome"
+      "temple",
+      "coast",
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -12801,12 +12799,12 @@ const raw: Gen[] = [
     "countrySlug": "belgium",
     "countryName": "Belgium",
     "tagline": "The capital of Belgium",
-    "heroKey": "alps",
+    "heroKey": "coast",
     "galleryKeys": [
-      "alps",
-      "paris",
-      "rome",
-      "venice"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Grand_Place_Bruselas_2.jpg/1280px-Grand_Place_Bruselas_2.jpg",
     "realGallery": [
@@ -12856,8 +12854,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": null,
@@ -12892,12 +12890,12 @@ const raw: Gen[] = [
     "countrySlug": "romania",
     "countryName": "Romania",
     "tagline": "The capital of Romania",
-    "heroKey": "norway",
+    "heroKey": "temple",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
-      "alps",
-      "paris"
+      "temple",
+      "coast",
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bucharest_University_Square_%28cropped%29.jpg/1280px-Bucharest_University_Square_%28cropped%29.jpg",
     "realGallery": [
@@ -13052,18 +13050,17 @@ const raw: Gen[] = [
     "countrySlug": "hungary",
     "countryName": "Hungary",
     "tagline": "A city in Hungary",
-    "heroKey": "greeceSea",
+    "heroKey": "alps",
     "galleryKeys": [
-      "greeceSea",
       "alps",
-      "paris",
-      "rome"
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Nuremberg_chronicles_-_BVJA.png/1280px-Nuremberg_chronicles_-_BVJA.png",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Buda_v%C3%A1ros_c%C3%ADmere_1703.JPG/330px-Buda_v%C3%A1ros_c%C3%ADmere_1703.JPG",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/The_church_of_Saint_Anne_in_2026.jpg/1280px-The_church_of_Saint_Anne_in_2026.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hans_Krell_-_Portrait_of_King_Louis_II_of_Hungary_%28c.1526%29.jpg/1280px-Hans_Krell_-_Portrait_of_King_Louis_II_of_Hungary_%28c.1526%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Chiesa_di_Maria_Maddalena.jpg/250px-Chiesa_di_Maria_Maddalena.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/c/cd/Orszaghaz_utca.jpg"
     ],
@@ -13106,12 +13103,12 @@ const raw: Gen[] = [
     "countrySlug": "hungary",
     "countryName": "Hungary",
     "tagline": "The capital of Hungary",
-    "heroKey": "venice",
+    "heroKey": "temple",
     "galleryKeys": [
-      "venice",
+      "temple",
       "coast",
-      "santorini",
-      "eiffel"
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/View_from_Gell%C3%A9rt_Hill_to_the_Danube%2C_Hungary_-_Budapest_%2828493220635%29.jpg/1280px-View_from_Gell%C3%A9rt_Hill_to_the_Danube%2C_Hungary_-_Budapest_%2828493220635%29.jpg",
     "realGallery": [
@@ -13160,12 +13157,12 @@ const raw: Gen[] = [
     "countrySlug": "philippines",
     "countryName": "Philippines",
     "tagline": "A city in Philippines",
-    "heroKey": "phiPhi",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "lantern",
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -13199,12 +13196,12 @@ const raw: Gen[] = [
     "countrySlug": "montenegro",
     "countryName": "Montenegro",
     "tagline": "A city in Montenegro",
-    "heroKey": "santorini",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "mountains",
+      "cityNight",
+      "alps",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Budva_%2826871774051%29.jpg/1280px-Budva_%2826871774051%29.jpg",
     "realGallery": [
@@ -13347,12 +13344,12 @@ const raw: Gen[] = [
     "countrySlug": "argentina",
     "countryName": "Argentina",
     "tagline": "The capital of Argentina",
-    "heroKey": "machuPicchu",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "machuPicchu",
       "mountains",
-      "temple",
-      "coast"
+      "coast",
+      "beach",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Puerto_Madero%2C_Buenos_Aires_%2840689219792%29_%28cropped%29.jpg/1280px-Puerto_Madero%2C_Buenos_Aires_%2840689219792%29_%28cropped%29.jpg",
     "realGallery": [
@@ -13404,8 +13401,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/BujumburaFromCathedral.jpg/1280px-BujumburaFromCathedral.jpg",
     "realGallery": [
@@ -13524,9 +13521,9 @@ const raw: Gen[] = [
     "countrySlug": "dr-congo",
     "countryName": "DR Congo",
     "tagline": "A city in DR Congo",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -13604,7 +13601,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bulawayo_CBD.jpg",
     "realGallery": [
@@ -13741,10 +13738,10 @@ const raw: Gen[] = [
     "countrySlug": "uganda",
     "countryName": "Uganda",
     "tagline": "A city in Uganda",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -13780,9 +13777,9 @@ const raw: Gen[] = [
     "countrySlug": "gambia",
     "countryName": "Gambia",
     "tagline": "A city in Gambia",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -13819,12 +13816,12 @@ const raw: Gen[] = [
     "countrySlug": "bulgaria",
     "countryName": "Bulgaria",
     "tagline": "A city in Bulgaria",
-    "heroKey": "santorini",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "mountains",
+      "cityNight",
+      "alps",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/b/be/Burgas-Collage_D.jpg",
     "realGallery": [
@@ -13947,12 +13944,12 @@ const raw: Gen[] = [
     "countrySlug": "turkiye",
     "countryName": "Türkiye",
     "tagline": "A city in Türkiye",
-    "heroKey": "tokyo",
+    "heroKey": "coast",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
-      "temple",
-      "phiPhi"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bursa_image.jpg/1280px-Bursa_image.jpg",
     "realGallery": [
@@ -14088,12 +14085,12 @@ const raw: Gen[] = [
     "countrySlug": "south-korea",
     "countryName": "South Korea",
     "tagline": "A city in South Korea",
-    "heroKey": "dubai",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "dubai",
-      "cityNight",
-      "lantern",
-      "sahara"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gwangan_Bridge1.jpg/1280px-Gwangan_Bridge1.jpg",
     "realGallery": [
@@ -14133,10 +14130,10 @@ const raw: Gen[] = [
     "countrySlug": "lesotho",
     "countryName": "Lesotho",
     "tagline": "A city in Lesotho",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -14174,12 +14171,12 @@ const raw: Gen[] = [
     "countrySlug": "serbia",
     "countryName": "Serbia",
     "tagline": "A city in Serbia",
-    "heroKey": "norway",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
+      "cityNight",
       "alps",
-      "paris"
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bridges_on_Zapadna_morava_river_and_Borac_hall.jpg",
     "realGallery": [
@@ -14219,12 +14216,12 @@ const raw: Gen[] = [
     "countrySlug": "moldova",
     "countryName": "Moldova",
     "tagline": "A city in Moldova",
-    "heroKey": "eiffel",
+    "heroKey": "alps",
     "galleryKeys": [
-      "eiffel",
-      "colosseum",
-      "norway",
-      "greeceSea"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Blocul_central_de_studii.jpg/1280px-Blocul_central_de_studii.jpg",
     "realGallery": [
@@ -14278,12 +14275,12 @@ const raw: Gen[] = [
     "countrySlug": "north-macedonia",
     "countryName": "North Macedonia",
     "tagline": "A city in North Macedonia",
-    "heroKey": "eiffel",
+    "heroKey": "beach",
     "galleryKeys": [
-      "eiffel",
-      "colosseum",
-      "norway",
-      "greeceSea"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -14317,12 +14314,12 @@ const raw: Gen[] = [
     "countrySlug": "australia",
     "countryName": "Australia",
     "tagline": "A city in Australia",
-    "heroKey": "mountains",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "mountains",
+      "cityNight",
       "beach",
       "coast",
-      "longtail"
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -14361,7 +14358,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cairo_Opera_House%2C_Al_Hurriyah_Park_and_the_Nile_river_%2814797782354%29.jpg/1280px-Cairo_Opera_House%2C_Al_Hurriyah_Park_and_the_Nile_river_%2814797782354%29.jpg",
     "realGallery": [
@@ -14448,7 +14445,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "coast",
-      "alps"
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Downtown_Calgary_2020-4.jpg",
     "realGallery": [
@@ -14491,12 +14488,12 @@ const raw: Gen[] = [
     "countrySlug": "colombia",
     "countryName": "Colombia",
     "tagline": "A city in Colombia",
-    "heroKey": "coast",
+    "heroKey": "temple",
     "galleryKeys": [
-      "coast",
-      "beach",
-      "machuPicchu",
-      "mountains"
+      "temple",
+      "food",
+      "mountains",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Santiago_de_Cali.jpg/1280px-Santiago_de_Cali.jpg",
     "realGallery": [
@@ -14607,12 +14604,12 @@ const raw: Gen[] = [
     "countrySlug": "peru",
     "countryName": "Peru",
     "tagline": "A city in Peru",
-    "heroKey": "beach",
+    "heroKey": "food",
     "galleryKeys": [
-      "beach",
-      "machuPicchu",
+      "food",
       "mountains",
-      "temple"
+      "coast",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Vista_a%C3%A9rea_de_la_Iglesia_Matriz_del_Callao.jpg/1280px-Vista_a%C3%A9rea_de_la_Iglesia_Matriz_del_Callao.jpg",
     "realGallery": [
@@ -14684,9 +14681,9 @@ const raw: Gen[] = [
     "heroKey": "coast",
     "galleryKeys": [
       "coast",
-      "alps",
-      "nyc",
-      "cityNight"
+      "food",
+      "cityNight",
+      "beach"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -14720,12 +14717,12 @@ const raw: Gen[] = [
     "countrySlug": "philippines",
     "countryName": "Philippines",
     "tagline": "A city in Philippines",
-    "heroKey": "cityNight",
+    "heroKey": "beach",
     "galleryKeys": [
-      "cityNight",
+      "beach",
+      "food",
       "lantern",
-      "sahara",
-      "tokyo"
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Andres_Bonifacio_Monument%2C_Caloocan%2C_Aug_2025.jpg/1280px-Andres_Bonifacio_Monument%2C_Caloocan%2C_Aug_2025.jpg",
     "realGallery": [
@@ -14849,9 +14846,9 @@ const raw: Gen[] = [
     "countrySlug": "cuba",
     "countryName": "Cuba",
     "tagline": "A city in Cuba",
-    "heroKey": "nyc",
+    "heroKey": "food",
     "galleryKeys": [
-      "nyc",
+      "food",
       "cityNight",
       "beach",
       "mountains"
@@ -14894,9 +14891,9 @@ const raw: Gen[] = [
     "countrySlug": "angola",
     "countryName": "Angola",
     "tagline": "A city in Angola",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -14972,12 +14969,12 @@ const raw: Gen[] = [
     "countrySlug": "vietnam",
     "countryName": "Vietnam",
     "tagline": "A city in Vietnam",
-    "heroKey": "cityNight",
+    "heroKey": "beach",
     "galleryKeys": [
-      "cityNight",
+      "beach",
+      "food",
       "lantern",
-      "sahara",
-      "tokyo"
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Can-tho-tuonglamphotos.jpg/1280px-Can-tho-tuonglamphotos.jpg",
     "realGallery": [
@@ -15125,12 +15122,12 @@ const raw: Gen[] = [
     "countrySlug": "australia",
     "countryName": "Australia",
     "tagline": "The capital of Australia",
-    "heroKey": "mountains",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "mountains",
+      "cityNight",
       "beach",
       "coast",
-      "longtail"
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Canberra_panorama_from_Mount_Ainslie.jpg/1280px-Canberra_panorama_from_Mount_Ainslie.jpg",
     "realGallery": [
@@ -15177,12 +15174,12 @@ const raw: Gen[] = [
     "countrySlug": "mexico",
     "countryName": "Mexico",
     "tagline": "A city in Mexico",
-    "heroKey": "alps",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "alps",
-      "nyc",
-      "cityNight",
-      "beach"
+      "mountains",
+      "coast",
+      "food",
+      "cityNight"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -15221,7 +15218,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Cape_Coast_Montage.jpg",
     "realGallery": [
@@ -15307,9 +15304,9 @@ const raw: Gen[] = [
     "countrySlug": "south-africa",
     "countryName": "South Africa",
     "tagline": "A city in South Africa",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -15442,12 +15439,12 @@ const raw: Gen[] = [
     "countrySlug": "paraguay",
     "countryName": "Paraguay",
     "tagline": "A city in Paraguay",
-    "heroKey": "mountains",
+    "heroKey": "coast",
     "galleryKeys": [
-      "mountains",
-      "temple",
       "coast",
-      "beach"
+      "beach",
+      "temple",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Capiata000033.JPG",
     "realGallery": [
@@ -15483,12 +15480,12 @@ const raw: Gen[] = [
     "countrySlug": "venezuela",
     "countryName": "Venezuela",
     "tagline": "The capital of Venezuela",
-    "heroKey": "machuPicchu",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "machuPicchu",
       "mountains",
-      "temple",
-      "coast"
+      "coast",
+      "beach",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Caracas_desde_el_%C3%A1vila.jpg/1280px-Caracas_desde_el_%C3%A1vila.jpg",
     "realGallery": [
@@ -15638,12 +15635,12 @@ const raw: Gen[] = [
     "countrySlug": "haiti",
     "countryName": "Haiti",
     "tagline": "A city in Haiti",
-    "heroKey": "beach",
+    "heroKey": "cityNight",
     "galleryKeys": [
+      "cityNight",
       "beach",
       "mountains",
-      "coast",
-      "alps"
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Carrefour_at_Puna%27auia%2C_French_Polynesia.jpg/1280px-Carrefour_at_Puna%27auia%2C_French_Polynesia.jpg",
     "realGallery": [
@@ -15683,12 +15680,12 @@ const raw: Gen[] = [
     "countrySlug": "colombia",
     "countryName": "Colombia",
     "tagline": "A city in Colombia",
-    "heroKey": "mountains",
+    "heroKey": "coast",
     "galleryKeys": [
-      "mountains",
-      "temple",
       "coast",
-      "beach"
+      "beach",
+      "temple",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -15726,8 +15723,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Casa_finance_city_6_%28cropped%29.jpg/1280px-Casa_finance_city_6_%28cropped%29.jpg",
     "realGallery": [
@@ -15855,12 +15852,12 @@ const raw: Gen[] = [
     "countrySlug": "saint-lucia",
     "countryName": "Saint Lucia",
     "tagline": "The capital of Saint Lucia",
-    "heroKey": "mountains",
+    "heroKey": "coast",
     "galleryKeys": [
-      "mountains",
       "coast",
-      "alps",
-      "nyc"
+      "food",
+      "cityNight",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/a5/View_of_Castries_Saint_Lucia_Day248bdriveb.jpg",
     "realGallery": [
@@ -15930,12 +15927,12 @@ const raw: Gen[] = [
     "countrySlug": "philippines",
     "countryName": "Philippines",
     "tagline": "A city in Philippines",
-    "heroKey": "tokyo",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
+      "lantern",
       "temple",
-      "phiPhi"
+      "cityNight",
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -15969,12 +15966,12 @@ const raw: Gen[] = [
     "countrySlug": "slovenia",
     "countryName": "Slovenia",
     "tagline": "A city in Slovenia",
-    "heroKey": "coast",
+    "heroKey": "beach",
     "galleryKeys": [
-      "coast",
-      "santorini",
-      "eiffel",
-      "colosseum"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Celjski_dom_in_Celje.jpg/1280px-Celjski_dom_in_Celje.jpg",
     "realGallery": [
@@ -16020,12 +16017,12 @@ const raw: Gen[] = [
     "countrySlug": "trinidad-and-tobago",
     "countryName": "Trinidad and Tobago",
     "tagline": "A city in Trinidad and Tobago",
-    "heroKey": "nyc",
+    "heroKey": "beach",
     "galleryKeys": [
-      "nyc",
-      "cityNight",
       "beach",
-      "mountains"
+      "mountains",
+      "coast",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/1/16/Chaguanas_TT2.jpg",
     "realGallery": [
@@ -16099,9 +16096,9 @@ const raw: Gen[] = [
     "heroKey": "alps",
     "galleryKeys": [
       "alps",
-      "paris",
-      "rome",
-      "venice"
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Charleroi_-_H%C3%B4tel_de_ville_vu_de_la_place_Charles_II_-_2019-06-01.jpg/1280px-Charleroi_-_H%C3%B4tel_de_ville_vu_de_la_place_Charles_II_-_2019-06-01.jpg",
     "realGallery": [
@@ -16190,12 +16187,12 @@ const raw: Gen[] = [
     "countrySlug": "united-states",
     "countryName": "United States",
     "tagline": "A city in United States",
-    "heroKey": "beach",
+    "heroKey": "coast",
     "galleryKeys": [
-      "beach",
-      "mountains",
       "coast",
-      "alps"
+      "food",
+      "cityNight",
+      "beach"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -16229,12 +16226,12 @@ const raw: Gen[] = [
     "countrySlug": "bangladesh",
     "countryName": "Bangladesh",
     "tagline": "A city in Bangladesh",
-    "heroKey": "sahara",
+    "heroKey": "coast",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Jamburi_park%2C_Agrabad%2C_Chittagong_2.jpg/1280px-Jamburi_park%2C_Agrabad%2C_Chittagong_2.jpg",
     "realGallery": [
@@ -16364,12 +16361,12 @@ const raw: Gen[] = [
     "countrySlug": "china",
     "countryName": "China",
     "tagline": "A city in China",
-    "heroKey": "fujiLake",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
       "cityNight",
-      "lantern"
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/%E9%9B%AA%E5%B1%B1%E4%B8%8B%E7%9A%84%E6%88%90%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF_Chengdu_skyline_with_snow_capped_mountains.jpg/1280px-%E9%9B%AA%E5%B1%B1%E4%B8%8B%E7%9A%84%E6%88%90%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF_Chengdu_skyline_with_snow_capped_mountains.jpg",
     "realGallery": [
@@ -16503,12 +16500,12 @@ const raw: Gen[] = [
     "countrySlug": "india",
     "countryName": "India",
     "tagline": "A city in India",
-    "heroKey": "kyoto",
+    "heroKey": "coast",
     "galleryKeys": [
-      "kyoto",
-      "temple",
-      "phiPhi",
-      "longtail"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/3/32/Chennai_Central.jpg",
     "realGallery": [
@@ -16548,12 +16545,12 @@ const raw: Gen[] = [
     "countrySlug": "thailand",
     "countryName": "Thailand",
     "tagline": "A city in Thailand",
-    "heroKey": "kyoto",
+    "heroKey": "food",
     "galleryKeys": [
-      "kyoto",
+      "food",
+      "lantern",
       "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -16587,12 +16584,12 @@ const raw: Gen[] = [
     "countrySlug": "united-states",
     "countryName": "United States",
     "tagline": "A city in United States",
-    "heroKey": "mountains",
+    "heroKey": "cityNight",
     "galleryKeys": [
+      "cityNight",
+      "beach",
       "mountains",
-      "coast",
-      "alps",
-      "nyc"
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Chicago_River_ferry_b.jpg/1280px-Chicago_River_ferry_b.jpg",
     "realGallery": [
@@ -16632,12 +16629,12 @@ const raw: Gen[] = [
     "countrySlug": "peru",
     "countryName": "Peru",
     "tagline": "A city in Peru",
-    "heroKey": "temple",
+    "heroKey": "beach",
     "galleryKeys": [
-      "temple",
-      "coast",
       "beach",
-      "machuPicchu"
+      "temple",
+      "food",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Chiclayo-Peru3.jpg",
     "realGallery": [
@@ -16741,7 +16738,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Chimoio_Airport%2C_Mozambique.jpg/1280px-Chimoio_Airport%2C_Mozambique.jpg",
     "realGallery": [
@@ -16800,12 +16797,12 @@ const raw: Gen[] = [
     "countrySlug": "nicaragua",
     "countryName": "Nicaragua",
     "tagline": "A city in Nicaragua",
-    "heroKey": "mountains",
+    "heroKey": "beach",
     "galleryKeys": [
+      "beach",
       "mountains",
       "coast",
-      "alps",
-      "nyc"
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/2/22/Acceso_principal_Ciudad_de_Chinandega.jpg",
     "realGallery": [
@@ -16899,7 +16896,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Chipata_View.jpg/1280px-Chipata_View.jpg",
     "realGallery": [
@@ -16972,12 +16969,12 @@ const raw: Gen[] = [
     "countrySlug": "moldova",
     "countryName": "Moldova",
     "tagline": "A city in Moldova",
-    "heroKey": "paris",
+    "heroKey": "food",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
-      "coast"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Consiliul_Municipal_Chi%C8%99in%C4%83u_%28cropped%29.jpg/1280px-Consiliul_Municipal_Chi%C8%99in%C4%83u_%28cropped%29.jpg",
     "realGallery": [
@@ -17128,8 +17125,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Chitungwiza_Shopping_Center.jpg/1280px-Chitungwiza_Shopping_Center.jpg",
     "realGallery": [
@@ -17166,12 +17163,12 @@ const raw: Gen[] = [
     "countrySlug": "mongolia",
     "countryName": "Mongolia",
     "tagline": "A city in Mongolia",
-    "heroKey": "kyoto",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "kyoto",
-      "temple",
-      "phiPhi",
-      "longtail"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -17277,9 +17274,9 @@ const raw: Gen[] = [
     "heroKey": "lantern",
     "galleryKeys": [
       "lantern",
-      "sahara",
-      "tokyo",
-      "kyoto"
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Khao_Khiao_Massif-74.JPG/1280px-Khao_Khiao_Massif-74.JPG",
     "realGallery": [
@@ -17317,11 +17314,11 @@ const raw: Gen[] = [
     "countrySlug": "new-zealand",
     "countryName": "New Zealand",
     "tagline": "A city in New Zealand",
-    "heroKey": "longtail",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "longtail",
-      "maldives",
       "mountains",
+      "food",
+      "cityNight",
       "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/The_%22Brill%22_Tram_178.New_Regent_St_Christchurch._%2811510530335%29.jpg/1280px-The_%22Brill%22_Tram_178.New_Regent_St_Christchurch._%2811510530335%29.jpg",
@@ -17484,7 +17481,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -17536,7 +17533,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/2/23/Universidad_Afro-Americana_de_%C3%81frica_Central_%28AAUCA%29.png",
     "realGallery": [
@@ -17582,12 +17579,12 @@ const raw: Gen[] = [
     "countrySlug": "paraguay",
     "countryName": "Paraguay",
     "tagline": "A city in Paraguay",
-    "heroKey": "temple",
+    "heroKey": "beach",
     "galleryKeys": [
-      "temple",
-      "coast",
       "beach",
-      "machuPicchu"
+      "temple",
+      "food",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Centro_ciudad_del_este.jpg",
     "realGallery": [
@@ -17687,12 +17684,12 @@ const raw: Gen[] = [
     "countrySlug": "venezuela",
     "countryName": "Venezuela",
     "tagline": "A city in Venezuela",
-    "heroKey": "mountains",
+    "heroKey": "coast",
     "galleryKeys": [
-      "mountains",
-      "temple",
       "coast",
-      "beach"
+      "beach",
+      "temple",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Panor%C3%A1mica_a%C3%A9rea_de_ciudad_Guayana.jpg/1280px-Panor%C3%A1mica_a%C3%A9rea_de_ciudad_Guayana.jpg",
     "realGallery": [
@@ -17739,12 +17736,12 @@ const raw: Gen[] = [
     "countrySlug": "guatemala",
     "countryName": "Guatemala",
     "tagline": "A city in Guatemala",
-    "heroKey": "beach",
+    "heroKey": "cityNight",
     "galleryKeys": [
+      "cityNight",
       "beach",
       "mountains",
-      "coast",
-      "alps"
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -17790,12 +17787,12 @@ const raw: Gen[] = [
     "countrySlug": "bolivia",
     "countryName": "Bolivia",
     "tagline": "A city in Bolivia",
-    "heroKey": "machuPicchu",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "machuPicchu",
       "mountains",
-      "temple",
-      "coast"
+      "coast",
+      "beach",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Cochabamba_City.jpg/1280px-Cochabamba_City.jpg",
     "realGallery": [
@@ -17924,12 +17921,12 @@ const raw: Gen[] = [
     "countrySlug": "portugal",
     "countryName": "Portugal",
     "tagline": "A city in Portugal",
-    "heroKey": "rome",
+    "heroKey": "coast",
     "galleryKeys": [
-      "rome",
-      "venice",
       "coast",
-      "santorini"
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Coimbra_e_o_rio_Mondego_%286167200429%29_%28cropped%29.jpg/1280px-Coimbra_e_o_rio_Mondego_%286167200429%29_%28cropped%29.jpg",
     "realGallery": [
@@ -18057,12 +18054,12 @@ const raw: Gen[] = [
     "countrySlug": "sri-lanka",
     "countryName": "Sri Lanka",
     "tagline": "The capital of Sri Lanka",
-    "heroKey": "dubai",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "dubai",
-      "cityNight",
       "lantern",
-      "sahara"
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Colombo_city_skyline_at_night.png/1280px-Colombo_city_skyline_at_night.png",
     "realGallery": [
@@ -18223,12 +18220,12 @@ const raw: Gen[] = [
     "countrySlug": "panama",
     "countryName": "Panama",
     "tagline": "A city in Panama",
-    "heroKey": "coast",
+    "heroKey": "beach",
     "galleryKeys": [
+      "beach",
+      "mountains",
       "coast",
-      "alps",
-      "nyc",
-      "cityNight"
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -18389,12 +18386,12 @@ const raw: Gen[] = [
     "countrySlug": "romania",
     "countryName": "Romania",
     "tagline": "A city in Romania",
-    "heroKey": "coast",
+    "heroKey": "food",
     "galleryKeys": [
+      "food",
+      "temple",
       "coast",
-      "santorini",
-      "eiffel",
-      "colosseum"
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/ConstantaCasino2025.jpg/1280px-ConstantaCasino2025.jpg",
     "realGallery": [
@@ -18531,7 +18528,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -18612,8 +18609,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -18647,12 +18644,12 @@ const raw: Gen[] = [
     "countrySlug": "denmark",
     "countryName": "Denmark",
     "tagline": "The capital of Denmark",
-    "heroKey": "colosseum",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
-      "alps"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/2018_-_Christiansborg_from_the_Marble_Bridge.jpg/1280px-2018_-_Christiansborg_from_the_Marble_Bridge.jpg",
     "realGallery": [
@@ -18694,12 +18691,12 @@ const raw: Gen[] = [
     "countrySlug": "argentina",
     "countryName": "Argentina",
     "tagline": "A city in Argentina",
-    "heroKey": "coast",
+    "heroKey": "temple",
     "galleryKeys": [
-      "coast",
-      "beach",
-      "machuPicchu",
-      "mountains"
+      "temple",
+      "food",
+      "mountains",
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -18733,12 +18730,12 @@ const raw: Gen[] = [
     "countrySlug": "ireland",
     "countryName": "Ireland",
     "tagline": "A city in Ireland",
-    "heroKey": "norway",
+    "heroKey": "beach",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
-      "alps",
-      "paris"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -18886,8 +18883,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Vue_panoramique_quartier_cadj%C3%A9houn-Cotonou_au_B%C3%A9nin.jpg/1280px-Vue_panoramique_quartier_cadj%C3%A9houn-Cotonou_au_B%C3%A9nin.jpg",
     "realGallery": [
@@ -19006,12 +19003,12 @@ const raw: Gen[] = [
     "countrySlug": "ecuador",
     "countryName": "Ecuador",
     "tagline": "A city in Ecuador",
-    "heroKey": "temple",
+    "heroKey": "beach",
     "galleryKeys": [
-      "temple",
-      "coast",
       "beach",
-      "machuPicchu"
+      "temple",
+      "food",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -19109,12 +19106,12 @@ const raw: Gen[] = [
     "countrySlug": "peru",
     "countryName": "Peru",
     "tagline": "A city in Peru",
-    "heroKey": "machuPicchu",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "machuPicchu",
       "mountains",
-      "temple",
-      "coast"
+      "coast",
+      "beach",
+      "temple"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -19151,9 +19148,9 @@ const raw: Gen[] = [
     "heroKey": "cityNight",
     "galleryKeys": [
       "cityNight",
-      "lantern",
-      "sahara",
-      "tokyo"
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Dragon_Bridge%2C_Da_Nang_during_day_-_20230819_%28cropped%29.jpg/1280px-Dragon_Bridge%2C_Da_Nang_during_day_-_20230819_%28cropped%29.jpg",
     "realGallery": [
@@ -19305,12 +19302,12 @@ const raw: Gen[] = [
     "countrySlug": "south-korea",
     "countryName": "South Korea",
     "tagline": "A city in South Korea",
-    "heroKey": "fujiLake",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
       "cityNight",
-      "lantern"
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/1/10/%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C_%EC%8B%9C%EA%B0%80%EC%A7%80.jpg",
     "realGallery": [
@@ -19426,12 +19423,12 @@ const raw: Gen[] = [
     "countrySlug": "south-korea",
     "countryName": "South Korea",
     "tagline": "A city in South Korea",
-    "heroKey": "sahara",
+    "heroKey": "food",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "food",
+      "lantern",
+      "temple",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Korea-Daejeon-Uam_Historic_Park-01.jpg/1280px-Korea-Daejeon-Uam_Historic_Park-01.jpg",
     "realGallery": [
@@ -19579,12 +19576,12 @@ const raw: Gen[] = [
     "countrySlug": "lithuania",
     "countryName": "Lithuania",
     "tagline": "A city in Lithuania",
-    "heroKey": "colosseum",
+    "heroKey": "food",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
-      "alps"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dainava_by_Augustas_Didzgalvis.jpg/1280px-Dainava_by_Augustas_Didzgalvis.jpg",
     "realGallery": [
@@ -19625,8 +19622,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/4/46/Dakar-Ind%C3%A9pendance.jpg",
     "realGallery": [
@@ -19770,9 +19767,9 @@ const raw: Gen[] = [
     "heroKey": "coast",
     "galleryKeys": [
       "coast",
-      "longtail",
-      "maldives",
-      "mountains"
+      "mountains",
+      "food",
+      "cityNight"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -19806,10 +19803,10 @@ const raw: Gen[] = [
     "countrySlug": "ivory-coast",
     "countryName": "Ivory Coast",
     "tagline": "A city in Ivory Coast",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -19847,12 +19844,12 @@ const raw: Gen[] = [
     "countrySlug": "syria",
     "countryName": "Syria",
     "tagline": "The capital of Syria",
-    "heroKey": "tokyo",
+    "heroKey": "temple",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
       "temple",
-      "phiPhi"
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Damascus%2C_Syria%2C_Panoramic_view_of_Damascus.jpg/1280px-Damascus%2C_Syria%2C_Panoramic_view_of_Damascus.jpg",
     "realGallery": [
@@ -19993,12 +19990,12 @@ const raw: Gen[] = [
     "countrySlug": "saudi-arabia",
     "countryName": "Saudi Arabia",
     "tagline": "A city in Saudi Arabia",
-    "heroKey": "longtail",
+    "heroKey": "coast",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/%D9%88%D8%B3%D8%B7_%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85.jpg/1280px-%D9%88%D8%B3%D8%B7_%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85.jpg",
     "realGallery": [
@@ -20076,12 +20073,12 @@ const raw: Gen[] = [
     "countrySlug": "cambodia",
     "countryName": "Cambodia",
     "tagline": "A city in Cambodia",
-    "heroKey": "dubai",
+    "heroKey": "beach",
     "galleryKeys": [
-      "dubai",
-      "cityNight",
+      "beach",
+      "food",
       "lantern",
-      "sahara"
+      "temple"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -20115,12 +20112,12 @@ const raw: Gen[] = [
     "countrySlug": "honduras",
     "countryName": "Honduras",
     "tagline": "A city in Honduras",
-    "heroKey": "alps",
+    "heroKey": "food",
     "galleryKeys": [
-      "alps",
-      "nyc",
+      "food",
       "cityNight",
-      "beach"
+      "beach",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Vista_panor%C3%A1mica_de_la_Ciudad_de_Danl%C3%AD.jpg",
     "realGallery": [
@@ -20157,9 +20154,9 @@ const raw: Gen[] = [
     "countrySlug": "tanzania",
     "countryName": "Tanzania",
     "tagline": "A city in Tanzania",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -20337,12 +20334,12 @@ const raw: Gen[] = [
     "countrySlug": "mongolia",
     "countryName": "Mongolia",
     "tagline": "A city in Mongolia",
-    "heroKey": "kyoto",
+    "heroKey": "temple",
     "galleryKeys": [
-      "kyoto",
       "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -20450,12 +20447,12 @@ const raw: Gen[] = [
     "countrySlug": "turkmenistan",
     "countryName": "Turkmenistan",
     "tagline": "A city in Turkmenistan",
-    "heroKey": "tokyo",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
+      "lantern",
       "temple",
-      "phiPhi"
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Dashoguz_%282%29_%2846100624741%29.jpg/1280px-Dashoguz_%282%29_%2846100624741%29.jpg",
     "realGallery": [
@@ -20516,12 +20513,12 @@ const raw: Gen[] = [
     "countrySlug": "latvia",
     "countryName": "Latvia",
     "tagline": "A city in Latvia",
-    "heroKey": "colosseum",
+    "heroKey": "food",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
-      "alps"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Daugavpils_luter%C4%81%C5%86u_bazn%C4%ABca_01.JPG/1280px-Daugavpils_luter%C4%81%C5%86u_bazn%C4%ABca_01.JPG",
     "realGallery": [
@@ -20633,12 +20630,12 @@ const raw: Gen[] = [
     "countrySlug": "philippines",
     "countryName": "Philippines",
     "tagline": "A city in Philippines",
-    "heroKey": "dubai",
+    "heroKey": "temple",
     "galleryKeys": [
-      "dubai",
+      "temple",
       "cityNight",
-      "lantern",
-      "sahara"
+      "coast",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -20758,12 +20755,12 @@ const raw: Gen[] = [
     "countrySlug": "panama",
     "countryName": "Panama",
     "tagline": "A city in Panama",
-    "heroKey": "cityNight",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "cityNight",
-      "beach",
       "mountains",
-      "coast"
+      "coast",
+      "food",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/King_David%2C_the_King_of_Israel.jpg/1280px-King_David%2C_the_King_of_Israel.jpg",
     "realGallery": [
@@ -20803,12 +20800,12 @@ const raw: Gen[] = [
     "countrySlug": "united-arab-emirates",
     "countryName": "United Arab Emirates",
     "tagline": "A city in United Arab Emirates",
-    "heroKey": "tokyo",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
-      "temple",
-      "phiPhi"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -20842,12 +20839,12 @@ const raw: Gen[] = [
     "countrySlug": "hungary",
     "countryName": "Hungary",
     "tagline": "A city in Hungary",
-    "heroKey": "venice",
+    "heroKey": "coast",
     "galleryKeys": [
-      "venice",
       "coast",
-      "santorini",
-      "eiffel"
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Universit%C3%A4t_Debrecen_Nr._3.jpg/1280px-Universit%C3%A4t_Debrecen_Nr._3.jpg",
     "realGallery": [
@@ -21001,12 +20998,12 @@ const raw: Gen[] = [
     "countrySlug": "sri-lanka",
     "countryName": "Sri Lanka",
     "tagline": "A city in Sri Lanka",
-    "heroKey": "kyoto",
+    "heroKey": "beach",
     "galleryKeys": [
-      "kyoto",
-      "temple",
-      "phiPhi",
-      "longtail"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/3/31/Dehiwala-Mount_Lavania.jpg",
     "realGallery": [
@@ -21046,12 +21043,12 @@ const raw: Gen[] = [
     "countrySlug": "india",
     "countryName": "India",
     "tagline": "A city in India",
-    "heroKey": "fujiLake",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
       "cityNight",
-      "lantern"
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Jama_Masjid_2011.jpg/1280px-Jama_Masjid_2011.jpg",
     "realGallery": [
@@ -21091,12 +21088,12 @@ const raw: Gen[] = [
     "countrySlug": "haiti",
     "countryName": "Haiti",
     "tagline": "A city in Haiti",
-    "heroKey": "mountains",
+    "heroKey": "beach",
     "galleryKeys": [
+      "beach",
       "mountains",
       "coast",
-      "alps",
-      "nyc"
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -21130,12 +21127,12 @@ const raw: Gen[] = [
     "countrySlug": "united-states",
     "countryName": "United States",
     "tagline": "A city in United States",
-    "heroKey": "alps",
+    "heroKey": "food",
     "galleryKeys": [
-      "alps",
-      "nyc",
+      "food",
       "cityNight",
-      "beach"
+      "beach",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -21169,12 +21166,12 @@ const raw: Gen[] = [
     "countrySlug": "indonesia",
     "countryName": "Indonesia",
     "tagline": "A city in Indonesia",
-    "heroKey": "lantern",
+    "heroKey": "coast",
     "galleryKeys": [
-      "lantern",
-      "sahara",
-      "tokyo",
-      "kyoto"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Depok_City_Hall_in_December_2024.jpg/1280px-Depok_City_Hall_in_December_2024.jpg",
     "realGallery": [
@@ -21239,12 +21236,12 @@ const raw: Gen[] = [
     "countrySlug": "bangladesh",
     "countryName": "Bangladesh",
     "tagline": "The capital of Bangladesh",
-    "heroKey": "tokyo",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
+      "lantern",
       "temple",
-      "phiPhi"
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tejgaon_Commercial_Area.jpg/1280px-Tejgaon_Commercial_Area.jpg",
     "realGallery": [
@@ -21284,10 +21281,10 @@ const raw: Gen[] = [
     "countrySlug": "djibouti",
     "countryName": "Djibouti",
     "tagline": "A city in Djibouti",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -21327,12 +21324,12 @@ const raw: Gen[] = [
     "countrySlug": "timor-leste",
     "countryName": "Timor-Leste",
     "tagline": "The capital of Timor-Leste",
-    "heroKey": "sahara",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Government_Palace%2C_Dili%2C_2023_%2802%29.jpg/1280px-Government_Palace%2C_Dili%2C_2023_%2802%29.jpg",
     "realGallery": [
@@ -21461,12 +21458,12 @@ const raw: Gen[] = [
     "countrySlug": "turkiye",
     "countryName": "Türkiye",
     "tagline": "A city in Türkiye",
-    "heroKey": "fujiLake",
+    "heroKey": "beach",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
-      "cityNight",
-      "lantern"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Goletli_Park%2C_Diyarbakir.jpg/1280px-Goletli_Park%2C_Diyarbakir.jpg",
     "realGallery": [
@@ -21564,9 +21561,9 @@ const raw: Gen[] = [
     "countrySlug": "djibouti",
     "countryName": "Djibouti",
     "tagline": "The capital of Djibouti",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -21609,12 +21606,12 @@ const raw: Gen[] = [
     "countrySlug": "ukraine",
     "countryName": "Ukraine",
     "tagline": "A city in Ukraine",
-    "heroKey": "colosseum",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
-      "alps"
+      "mountains",
+      "cityNight",
+      "alps",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9_%D1%81%D0%BE%D0%B2%D0%B5%D1%82.JPG/1280px-%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9_%D1%81%D0%BE%D0%B2%D0%B5%D1%82.JPG",
     "realGallery": [
@@ -21750,9 +21747,9 @@ const raw: Gen[] = [
     "countrySlug": "tanzania",
     "countryName": "Tanzania",
     "tagline": "The capital of Tanzania",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -21836,12 +21833,12 @@ const raw: Gen[] = [
     "countrySlug": "qatar",
     "countryName": "Qatar",
     "tagline": "The capital of Qatar",
-    "heroKey": "kyoto",
+    "heroKey": "food",
     "galleryKeys": [
-      "kyoto",
+      "food",
+      "lantern",
       "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/The_Pearl_Marina_in_Nov_2013.jpg/1280px-The_Pearl_Marina_in_Nov_2013.jpg",
     "realGallery": [
@@ -22028,12 +22025,12 @@ const raw: Gen[] = [
     "countrySlug": "austria",
     "countryName": "Austria",
     "tagline": "A city in Austria",
-    "heroKey": "rome",
+    "heroKey": "alps",
     "galleryKeys": [
-      "rome",
-      "venice",
-      "coast",
-      "santorini"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Vienna_Skyline.jpg/1280px-Vienna_Skyline.jpg",
     "realGallery": [
@@ -22073,12 +22070,12 @@ const raw: Gen[] = [
     "countrySlug": "ukraine",
     "countryName": "Ukraine",
     "tagline": "A city in Ukraine",
-    "heroKey": "venice",
+    "heroKey": "beach",
     "galleryKeys": [
-      "venice",
-      "coast",
-      "santorini",
-      "eiffel"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_-_panoramio_%282%29.jpg/1280px-%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_-_panoramio_%282%29.jpg",
     "realGallery": [
@@ -22229,7 +22226,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Quarter_Bali_%C3%A0_Douala_Cameroun.jpg/1280px-Quarter_Bali_%C3%A0_Douala_Cameroun.jpg",
     "realGallery": [
@@ -22304,12 +22301,12 @@ const raw: Gen[] = [
     "countrySlug": "norway",
     "countryName": "Norway",
     "tagline": "A city in Norway",
-    "heroKey": "greeceSea",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "greeceSea",
+      "cityNight",
       "alps",
-      "paris",
-      "rome"
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Union_brygge.jpg",
     "realGallery": [
@@ -22406,12 +22403,12 @@ const raw: Gen[] = [
     "countrySlug": "ireland",
     "countryName": "Ireland",
     "tagline": "The capital of Ireland",
-    "heroKey": "greeceSea",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "greeceSea",
+      "mountains",
+      "cityNight",
       "alps",
-      "paris",
-      "rome"
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Dublin_-_aerial_-_2025-07-07_01.jpg/1280px-Dublin_-_aerial_-_2025-07-07_01.jpg",
     "realGallery": [
@@ -22568,8 +22565,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": null,
@@ -22604,12 +22601,12 @@ const raw: Gen[] = [
     "countrySlug": "croatia",
     "countryName": "Croatia",
     "tagline": "A city in Croatia",
-    "heroKey": "venice",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "venice",
-      "coast",
-      "santorini",
-      "eiffel"
+      "mountains",
+      "cityNight",
+      "alps",
+      "beach"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -22643,12 +22640,12 @@ const raw: Gen[] = [
     "countrySlug": "luxembourg",
     "countryName": "Luxembourg",
     "tagline": "A city in Luxembourg",
-    "heroKey": "alps",
+    "heroKey": "mountains",
     "galleryKeys": [
+      "mountains",
+      "cityNight",
       "alps",
-      "paris",
-      "rome",
-      "venice"
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Diddeleng_Gemeng.jpg/1280px-Diddeleng_Gemeng.jpg",
     "realGallery": [
@@ -22759,7 +22756,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Durban_from_the_Balcony_%28Dennis_Sylvester_Hurd%29_1.jpg/1280px-Durban_from_the_Balcony_%28Dennis_Sylvester_Hurd%29_1.jpg",
     "realGallery": [
@@ -22853,12 +22850,12 @@ const raw: Gen[] = [
     "countrySlug": "albania",
     "countryName": "Albania",
     "tagline": "A city in Albania",
-    "heroKey": "alps",
+    "heroKey": "beach",
     "galleryKeys": [
-      "alps",
-      "paris",
-      "rome",
-      "venice"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amphitheatre_of_Durr%C3%ABs_2013-09_005.jpg/1280px-Amphitheatre_of_Durr%C3%ABs_2013-09_005.jpg",
     "realGallery": [
@@ -23014,12 +23011,12 @@ const raw: Gen[] = [
     "countrySlug": "tajikistan",
     "countryName": "Tajikistan",
     "tagline": "The capital of Tajikistan",
-    "heroKey": "kyoto",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "kyoto",
-      "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Panorama_with_buildings%2C_Dushanbe.jpg/1280px-Panorama_with_buildings%2C_Dushanbe.jpg",
     "realGallery": [
@@ -23178,12 +23175,12 @@ const raw: Gen[] = [
     "countrySlug": "germany",
     "countryName": "Germany",
     "tagline": "A city in Germany",
-    "heroKey": "paris",
+    "heroKey": "coast",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
-      "coast"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Rheinkniebr%C3%BCcke_at_night.jpg",
     "realGallery": [
@@ -23353,10 +23350,10 @@ const raw: Gen[] = [
     "countrySlug": "mexico",
     "countryName": "Mexico",
     "tagline": "A city in Mexico",
-    "heroKey": "alps",
+    "heroKey": "coast",
     "galleryKeys": [
-      "alps",
-      "nyc",
+      "coast",
+      "food",
       "cityNight",
       "beach"
     ],
@@ -23398,12 +23395,12 @@ const raw: Gen[] = [
     "countrySlug": "united-kingdom",
     "countryName": "United Kingdom",
     "tagline": "A city in United Kingdom",
-    "heroKey": "venice",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "venice",
-      "coast",
-      "santorini",
-      "eiffel"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -23437,12 +23434,12 @@ const raw: Gen[] = [
     "countrySlug": "canada",
     "countryName": "Canada",
     "tagline": "A city in Canada",
-    "heroKey": "alps",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "alps",
-      "nyc",
       "cityNight",
-      "beach"
+      "beach",
+      "mountains",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Alberta_Legislature_Building_at_night.jpg/1280px-Alberta_Legislature_Building_at_night.jpg",
     "realGallery": [
@@ -23482,12 +23479,12 @@ const raw: Gen[] = [
     "countrySlug": "netherlands",
     "countryName": "Netherlands",
     "tagline": "A city in Netherlands",
-    "heroKey": "venice",
+    "heroKey": "beach",
     "galleryKeys": [
-      "venice",
-      "coast",
-      "santorini",
-      "eiffel"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Lichttoren_Eindhoven_1_-_Cropped.jpg/1280px-Lichttoren_Eindhoven_1_-_Cropped.jpg",
     "realGallery": [
@@ -23626,12 +23623,12 @@ const raw: Gen[] = [
     "countrySlug": "albania",
     "countryName": "Albania",
     "tagline": "A city in Albania",
-    "heroKey": "santorini",
+    "heroKey": "food",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Elbasan%2C_Albania%2C_St_Mary%27s_Church_2018_07.jpg/1280px-Elbasan%2C_Albania%2C_St_Mary%27s_Church_2018_07.jpg",
     "realGallery": [
@@ -23847,12 +23844,12 @@ const raw: Gen[] = [
     "countrySlug": "iraq",
     "countryName": "Iraq",
     "tagline": "A city in Iraq",
-    "heroKey": "kyoto",
+    "heroKey": "temple",
     "galleryKeys": [
-      "kyoto",
       "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Shar_Park%2C_Hawler%2C_Erbil_Governorate%2C_Iraq.jpg/1280px-Shar_Park%2C_Hawler%2C_Erbil_Governorate%2C_Iraq.jpg",
     "realGallery": [
@@ -23999,12 +23996,12 @@ const raw: Gen[] = [
     "countrySlug": "mongolia",
     "countryName": "Mongolia",
     "tagline": "A city in Mongolia",
-    "heroKey": "dubai",
+    "heroKey": "food",
     "galleryKeys": [
-      "dubai",
-      "cityNight",
+      "food",
       "lantern",
-      "sahara"
+      "temple",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Erdenet_01.jpg/1280px-Erdenet_01.jpg",
     "realGallery": [
@@ -24082,12 +24079,12 @@ const raw: Gen[] = [
     "countrySlug": "armenia",
     "countryName": "Armenia",
     "tagline": "A city in Armenia",
-    "heroKey": "kyoto",
+    "heroKey": "coast",
     "galleryKeys": [
-      "kyoto",
-      "temple",
-      "phiPhi",
-      "longtail"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -24121,12 +24118,12 @@ const raw: Gen[] = [
     "countrySlug": "denmark",
     "countryName": "Denmark",
     "tagline": "A city in Denmark",
-    "heroKey": "santorini",
+    "heroKey": "alps",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Esbjerg_harbour_%288563661696%29.jpg/1280px-Esbjerg_harbour_%288563661696%29.jpg",
     "realGallery": [
@@ -24226,12 +24223,12 @@ const raw: Gen[] = [
     "countrySlug": "luxembourg",
     "countryName": "Luxembourg",
     "tagline": "A city in Luxembourg",
-    "heroKey": "colosseum",
+    "heroKey": "alps",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
-      "alps"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/View_of_Esch-sur-Alzette_2025-04_--2_%28cropped%29.jpg/1280px-View_of_Esch-sur-Alzette_2025-04_--2_%28cropped%29.jpg",
     "realGallery": [
@@ -24343,7 +24340,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Espargos-_Sal.JPG/1280px-Espargos-_Sal.JPG",
     "realGallery": [
@@ -24382,12 +24379,12 @@ const raw: Gen[] = [
     "countrySlug": "finland",
     "countryName": "Finland",
     "tagline": "A city in Finland",
-    "heroKey": "paris",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
-      "coast"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Piispansilta_Matinkyl%C3%A4_Espoo_Iso_Omena_280719.jpg/1280px-Piispansilta_Matinkyl%C3%A4_Espoo_Iso_Omena_280719.jpg",
     "realGallery": [
@@ -24531,12 +24528,12 @@ const raw: Gen[] = [
     "countrySlug": "nicaragua",
     "countryName": "Nicaragua",
     "tagline": "A city in Nicaragua",
-    "heroKey": "cityNight",
+    "heroKey": "coast",
     "galleryKeys": [
+      "coast",
+      "food",
       "cityNight",
-      "beach",
-      "mountains",
-      "coast"
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Esteli_Nicaragua_Skyline_from_Tisey.jpg/1280px-Esteli_Nicaragua_Skyline_from_Tisey.jpg",
     "realGallery": [
@@ -24609,12 +24606,12 @@ const raw: Gen[] = [
     "countrySlug": "pakistan",
     "countryName": "Pakistan",
     "tagline": "A city in Pakistan",
-    "heroKey": "kyoto",
+    "heroKey": "beach",
     "galleryKeys": [
-      "kyoto",
-      "temple",
-      "phiPhi",
-      "longtail"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Clock_Tower_Faisalabad_by_Usman_Nadeem.jpg/1280px-Clock_Tower_Faisalabad_by_Usman_Nadeem.jpg",
     "realGallery": [
@@ -24698,7 +24695,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -24732,12 +24729,12 @@ const raw: Gen[] = [
     "countrySlug": "cyprus",
     "countryName": "Cyprus",
     "tagline": "A city in Cyprus",
-    "heroKey": "norway",
+    "heroKey": "beach",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
-      "alps",
-      "paris"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Varosha_utsikt.jpg/1280px-Varosha_utsikt.jpg",
     "realGallery": [
@@ -24843,12 +24840,12 @@ const raw: Gen[] = [
     "countrySlug": "austria",
     "countryName": "Austria",
     "tagline": "A city in Austria",
-    "heroKey": "santorini",
+    "heroKey": "temple",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "temple",
+      "coast",
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Kartewien10.png",
     "realGallery": [
@@ -24888,12 +24885,12 @@ const raw: Gen[] = [
     "countrySlug": "paraguay",
     "countryName": "Paraguay",
     "tagline": "A city in Paraguay",
-    "heroKey": "beach",
+    "heroKey": "food",
     "galleryKeys": [
-      "beach",
-      "machuPicchu",
+      "food",
       "mountains",
-      "temple"
+      "coast",
+      "beach"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -24932,7 +24929,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bab_Bou_Jeloud_Frame_Minaret_Fes_Nov25_A7CR_09127-8_HDR3.jpg/1280px-Bab_Bou_Jeloud_Frame_Minaret_Fes_Nov25_A7CR_09127-8_HDR3.jpg",
     "realGallery": [
@@ -25054,8 +25051,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -25093,8 +25090,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vue_globale_de_la_ville_Fianarantsoa_2.jpg/1280px-Vue_globale_de_la_ville_Fianarantsoa_2.jpg",
     "realGallery": [
@@ -25166,12 +25163,12 @@ const raw: Gen[] = [
     "countrySlug": "suriname",
     "countryName": "Suriname",
     "tagline": "A city in Suriname",
-    "heroKey": "coast",
+    "heroKey": "temple",
     "galleryKeys": [
-      "coast",
-      "beach",
-      "machuPicchu",
-      "mountains"
+      "temple",
+      "food",
+      "mountains",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/90/Flora.png",
     "realGallery": [],
@@ -25205,12 +25202,12 @@ const raw: Gen[] = [
     "countrySlug": "italy",
     "countryName": "Italy",
     "tagline": "A city in Italy",
-    "heroKey": "santorini",
+    "heroKey": "beach",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -25244,12 +25241,12 @@ const raw: Gen[] = [
     "countrySlug": "austria",
     "countryName": "Austria",
     "tagline": "A city in Austria",
-    "heroKey": "greeceSea",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "greeceSea",
+      "mountains",
+      "cityNight",
       "alps",
-      "paris",
-      "rome"
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/0/08/Kartewien21.png",
     "realGallery": [
@@ -25292,8 +25289,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fomboni-Ship.jpg/1280px-Fomboni-Ship.jpg",
@@ -25330,12 +25327,12 @@ const raw: Gen[] = [
     "countrySlug": "brazil",
     "countryName": "Brazil",
     "tagline": "A city in Brazil",
-    "heroKey": "beach",
+    "heroKey": "food",
     "galleryKeys": [
-      "beach",
-      "machuPicchu",
+      "food",
       "mountains",
-      "temple"
+      "coast",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/7/73/Fortaleza%2C_Brazil_%284%29_%28cropped%29.jpg",
     "realGallery": [
@@ -25458,12 +25455,12 @@ const raw: Gen[] = [
     "countrySlug": "brazil",
     "countryName": "Brazil",
     "tagline": "A city in Brazil",
-    "heroKey": "beach",
+    "heroKey": "food",
     "galleryKeys": [
-      "beach",
-      "machuPicchu",
+      "food",
       "mountains",
-      "temple"
+      "coast",
+      "beach"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -25563,9 +25560,9 @@ const raw: Gen[] = [
     "countrySlug": "botswana",
     "countryName": "Botswana",
     "tagline": "A city in Botswana",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -25656,9 +25653,9 @@ const raw: Gen[] = [
     "heroKey": "alps",
     "galleryKeys": [
       "alps",
-      "paris",
-      "rome",
-      "venice"
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -25692,12 +25689,12 @@ const raw: Gen[] = [
     "countrySlug": "germany",
     "countryName": "Germany",
     "tagline": "A city in Germany",
-    "heroKey": "greeceSea",
+    "heroKey": "food",
     "galleryKeys": [
-      "greeceSea",
-      "alps",
-      "paris",
-      "rome"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Frankfurt_Main_August_2020_1.jpg/1280px-Frankfurt_Main_August_2020_1.jpg",
     "realGallery": [
@@ -25759,12 +25756,12 @@ const raw: Gen[] = [
     "countrySlug": "denmark",
     "countryName": "Denmark",
     "tagline": "A city in Denmark",
-    "heroKey": "coast",
+    "heroKey": "alps",
     "galleryKeys": [
-      "coast",
-      "santorini",
-      "eiffel",
-      "colosseum"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Frederiksberg_Slot.jpg/1280px-Frederiksberg_Slot.jpg",
     "realGallery": [
@@ -25889,12 +25886,12 @@ const raw: Gen[] = [
     "countrySlug": "bahamas",
     "countryName": "Bahamas",
     "tagline": "A city in Bahamas",
-    "heroKey": "nyc",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "nyc",
-      "cityNight",
-      "beach",
-      "mountains"
+      "mountains",
+      "coast",
+      "food",
+      "cityNight"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -25928,9 +25925,9 @@ const raw: Gen[] = [
     "countrySlug": "sierra-leone",
     "countryName": "Sierra Leone",
     "tagline": "The capital of Sierra Leone",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -26035,12 +26032,12 @@ const raw: Gen[] = [
     "countrySlug": "japan",
     "countryName": "Japan",
     "tagline": "A city in Japan",
-    "heroKey": "cityNight",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "cityNight",
       "lantern",
-      "sahara",
-      "tokyo"
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Fukuoka_Skyline_of_Seaside_Momochi.jpg/1280px-Fukuoka_Skyline_of_Seaside_Momochi.jpg",
     "realGallery": [
@@ -26176,8 +26173,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "beach",
       "coast",
-      "longtail",
-      "maldives"
+      "mountains",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Funafuti_airport_-_Fiji_Airways.jpg/1280px-Funafuti_airport_-_Fiji_Airways.jpg",
     "realGallery": [
@@ -26221,8 +26218,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/View_from_I-Tower_SE_20200712.jpg/1280px-View_from_I-Tower_SE_20200712.jpg",
     "realGallery": [
@@ -26346,8 +26343,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -26394,12 +26391,12 @@ const raw: Gen[] = [
     "countrySlug": "sri-lanka",
     "countryName": "Sri Lanka",
     "tagline": "A city in Sri Lanka",
-    "heroKey": "tokyo",
+    "heroKey": "coast",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
-      "temple",
-      "phiPhi"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -26433,12 +26430,12 @@ const raw: Gen[] = [
     "countrySlug": "ireland",
     "countryName": "Ireland",
     "tagline": "A city in Ireland",
-    "heroKey": "alps",
+    "heroKey": "beach",
     "galleryKeys": [
-      "alps",
-      "paris",
-      "rome",
-      "venice"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Galway_cathedral.jpg",
     "realGallery": [
@@ -26576,9 +26573,9 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "phiPhi",
-      "longtail",
-      "fujiLake"
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Graffiti_streetart_rastafari.png/1280px-Graffiti_streetart_rastafari.png",
     "realGallery": [
@@ -26702,12 +26699,12 @@ const raw: Gen[] = [
     "countrySlug": "turkiye",
     "countryName": "Türkiye",
     "tagline": "A city in Türkiye",
-    "heroKey": "longtail",
+    "heroKey": "beach",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AntepKale2_%28cropped%29.jpg/1280px-AntepKale2_%28cropped%29.jpg",
     "realGallery": [
@@ -26824,12 +26821,12 @@ const raw: Gen[] = [
     "countrySlug": "bangladesh",
     "countryName": "Bangladesh",
     "tagline": "A city in Bangladesh",
-    "heroKey": "kyoto",
+    "heroKey": "beach",
     "galleryKeys": [
-      "kyoto",
-      "temple",
-      "phiPhi",
-      "longtail"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/IUT_Lake_Auditorium.jpg/1280px-IUT_Lake_Auditorium.jpg",
     "realGallery": [
@@ -26910,9 +26907,9 @@ const raw: Gen[] = [
     "countrySlug": "liberia",
     "countryName": "Liberia",
     "tagline": "A city in Liberia",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -26949,12 +26946,12 @@ const raw: Gen[] = [
     "countrySlug": "poland",
     "countryName": "Poland",
     "tagline": "A city in Poland",
-    "heroKey": "santorini",
+    "heroKey": "coast",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Calle_Dlugie_Pobrzeze%2C_Gdansk%2C_Polonia%2C_2013-05-20%2C_DD_06.jpg/1280px-Calle_Dlugie_Pobrzeze%2C_Gdansk%2C_Polonia%2C_2013-05-20%2C_DD_06.jpg",
     "realGallery": [
@@ -27084,11 +27081,11 @@ const raw: Gen[] = [
     "countrySlug": "switzerland",
     "countryName": "Switzerland",
     "tagline": "A city in Switzerland",
-    "heroKey": "colosseum",
+    "heroKey": "coast",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
+      "coast",
+      "mountains",
+      "cityNight",
       "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Geneve_2005_001_Ork.ch.jpg/1280px-Geneve_2005_001_Ork.ch.jpg",
@@ -27202,12 +27199,12 @@ const raw: Gen[] = [
     "countrySlug": "italy",
     "countryName": "Italy",
     "tagline": "A city in Italy",
-    "heroKey": "colosseum",
+    "heroKey": "alps",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
-      "alps"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Piazza_de_Ferrari%2C_Genoa.jpg/1280px-Piazza_de_Ferrari%2C_Genoa.jpg",
     "realGallery": [
@@ -27304,12 +27301,12 @@ const raw: Gen[] = [
     "countrySlug": "belgium",
     "countryName": "Belgium",
     "tagline": "A city in Belgium",
-    "heroKey": "colosseum",
+    "heroKey": "alps",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
-      "alps"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -27401,12 +27398,12 @@ const raw: Gen[] = [
     "countrySlug": "malaysia",
     "countryName": "Malaysia",
     "tagline": "A city in Malaysia",
-    "heroKey": "temple",
+    "heroKey": "coast",
     "galleryKeys": [
-      "temple",
-      "phiPhi",
-      "longtail",
-      "fujiLake"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -27440,12 +27437,12 @@ const raw: Gen[] = [
     "countrySlug": "guyana",
     "countryName": "Guyana",
     "tagline": "The capital of Guyana",
-    "heroKey": "beach",
+    "heroKey": "food",
     "galleryKeys": [
-      "beach",
-      "machuPicchu",
+      "food",
       "mountains",
-      "temple"
+      "coast",
+      "beach"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -27482,8 +27479,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GisenyiBeach.jpg/1280px-GisenyiBeach.jpg",
@@ -27575,9 +27572,9 @@ const raw: Gen[] = [
     "countrySlug": "rwanda",
     "countryName": "Rwanda",
     "tagline": "A city in Rwanda",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -27671,10 +27668,10 @@ const raw: Gen[] = [
     "countrySlug": "egypt",
     "countryName": "Egypt",
     "tagline": "A city in Egypt",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -27787,12 +27784,12 @@ const raw: Gen[] = [
     "countrySlug": "united-kingdom",
     "countryName": "United Kingdom",
     "tagline": "A city in United Kingdom",
-    "heroKey": "colosseum",
+    "heroKey": "alps",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
-      "alps"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Glasgow_-_aerial_-_2025-04-17_14.jpg/1280px-Glasgow_-_aerial_-_2025-04-17_14.jpg",
     "realGallery": [
@@ -27924,12 +27921,12 @@ const raw: Gen[] = [
     "countrySlug": "india",
     "countryName": "India",
     "tagline": "A city in India",
-    "heroKey": "tokyo",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
+      "lantern",
       "temple",
-      "phiPhi"
+      "cityNight",
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -28002,11 +27999,11 @@ const raw: Gen[] = [
     "countrySlug": "australia",
     "countryName": "Australia",
     "tagline": "A city in Australia",
-    "heroKey": "longtail",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "longtail",
-      "maldives",
       "mountains",
+      "food",
+      "cityNight",
       "beach"
     ],
     "realPhoto": null,
@@ -28138,12 +28135,12 @@ const raw: Gen[] = [
     "countrySlug": "turkiye",
     "countryName": "Turkey",
     "tagline": "A city in Turkey",
-    "heroKey": "tokyo",
+    "heroKey": "temple",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
       "temple",
-      "phiPhi"
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -28177,12 +28174,12 @@ const raw: Gen[] = [
     "countrySlug": "georgia",
     "countryName": "Georgia",
     "tagline": "A city in Georgia",
-    "heroKey": "longtail",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -28301,12 +28298,12 @@ const raw: Gen[] = [
     "countrySlug": "sweden",
     "countryName": "Sweden",
     "tagline": "A city in Sweden",
-    "heroKey": "rome",
+    "heroKey": "temple",
     "galleryKeys": [
-      "rome",
-      "venice",
+      "temple",
       "coast",
-      "santorini"
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/G%C3%B6teborg_2503_stitch_%2828573994096%29.jpg/1280px-G%C3%B6teborg_2503_stitch_%2828573994096%29.jpg",
     "realGallery": [
@@ -28435,8 +28432,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/City_Hall_Port_Elizabeth-003.jpg/1280px-City_Hall_Port_Elizabeth-003.jpg",
     "realGallery": [
@@ -28581,12 +28578,12 @@ const raw: Gen[] = [
     "countrySlug": "spain",
     "countryName": "Spain",
     "tagline": "A city in Spain",
-    "heroKey": "colosseum",
+    "heroKey": "alps",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
-      "alps"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -28620,12 +28617,12 @@ const raw: Gen[] = [
     "countrySlug": "austria",
     "countryName": "Austria",
     "tagline": "A city in Austria",
-    "heroKey": "colosseum",
+    "heroKey": "alps",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
-      "alps"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Graz_%2835932179023%29.jpg/1280px-Graz_%2835932179023%29.jpg",
     "realGallery": [
@@ -28748,12 +28745,12 @@ const raw: Gen[] = [
     "countrySlug": "netherlands",
     "countryName": "Netherlands",
     "tagline": "A city in Netherlands",
-    "heroKey": "eiffel",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "eiffel",
-      "colosseum",
-      "norway",
-      "greeceSea"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Hoge_der_A.jpg",
     "realGallery": [
@@ -28887,12 +28884,12 @@ const raw: Gen[] = [
     "countrySlug": "saint-lucia",
     "countryName": "Saint Lucia",
     "tagline": "A city in Saint Lucia",
-    "heroKey": "coast",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "coast",
-      "alps",
-      "nyc",
-      "cityNight"
+      "cityNight",
+      "beach",
+      "mountains",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/At_the_top_of_Pigeon_Island.jpg/1280px-At_the_top_of_Pigeon_Island.jpg",
     "realGallery": [
@@ -28988,12 +28985,12 @@ const raw: Gen[] = [
     "countrySlug": "mexico",
     "countryName": "Mexico",
     "tagline": "A city in Mexico",
-    "heroKey": "coast",
+    "heroKey": "beach",
     "galleryKeys": [
+      "beach",
+      "mountains",
       "coast",
-      "alps",
-      "nyc",
-      "cityNight"
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -29027,12 +29024,12 @@ const raw: Gen[] = [
     "countrySlug": "china",
     "countryName": "China",
     "tagline": "A city in China",
-    "heroKey": "kyoto",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "kyoto",
-      "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Canton_Tower_20241027.jpg/1280px-Canton_Tower_20241027.jpg",
     "realGallery": [
@@ -29072,9 +29069,9 @@ const raw: Gen[] = [
     "countrySlug": "cuba",
     "countryName": "Cuba",
     "tagline": "A city in Cuba",
-    "heroKey": "nyc",
+    "heroKey": "food",
     "galleryKeys": [
-      "nyc",
+      "food",
       "cityNight",
       "beach",
       "mountains"
@@ -29117,12 +29114,12 @@ const raw: Gen[] = [
     "countrySlug": "guatemala",
     "countryName": "Guatemala",
     "tagline": "The capital of Guatemala",
-    "heroKey": "coast",
+    "heroKey": "beach",
     "galleryKeys": [
+      "beach",
+      "mountains",
       "coast",
-      "alps",
-      "nyc",
-      "cityNight"
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ciudad_de_Guatemala%2C_CA.jpg/1280px-Ciudad_de_Guatemala%2C_CA.jpg",
     "realGallery": [
@@ -29246,12 +29243,12 @@ const raw: Gen[] = [
     "countrySlug": "ecuador",
     "countryName": "Ecuador",
     "tagline": "A city in Ecuador",
-    "heroKey": "mountains",
+    "heroKey": "coast",
     "galleryKeys": [
-      "mountains",
-      "temple",
       "coast",
-      "beach"
+      "beach",
+      "temple",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Faro_de_Guayaquil.jpg/1280px-Faro_de_Guayaquil.jpg",
     "realGallery": [
@@ -29391,12 +29388,12 @@ const raw: Gen[] = [
     "countrySlug": "pakistan",
     "countryName": "Pakistan",
     "tagline": "A city in Pakistan",
-    "heroKey": "kyoto",
+    "heroKey": "beach",
     "galleryKeys": [
-      "kyoto",
-      "temple",
-      "phiPhi",
-      "longtail"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Nishan-E-Manzil_Gujranwala_20140925.jpg/1280px-Nishan-E-Manzil_Gujranwala_20140925.jpg",
     "realGallery": [
@@ -29460,11 +29457,11 @@ const raw: Gen[] = [
     "countrySlug": "south-korea",
     "countryName": "South Korea",
     "tagline": "A city in South Korea",
-    "heroKey": "longtail",
+    "heroKey": "food",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
+      "food",
+      "lantern",
+      "temple",
       "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/4/45/Gwangju_montage.png",
@@ -29570,8 +29567,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/0/05/Boggies_clock_Gweru.jpg",
@@ -29666,12 +29663,12 @@ const raw: Gen[] = [
     "countrySlug": "iceland",
     "countryName": "Iceland",
     "tagline": "A city in Iceland",
-    "heroKey": "norway",
+    "heroKey": "temple",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
-      "alps",
-      "paris"
+      "temple",
+      "coast",
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hafnarfj%C3%B6r%C3%B0ur%2C_Iceland_2017.jpg/1280px-Hafnarfj%C3%B6r%C3%B0ur%2C_Iceland_2017.jpg",
     "realGallery": [
@@ -29710,12 +29707,12 @@ const raw: Gen[] = [
     "countrySlug": "israel",
     "countryName": "Israel",
     "tagline": "A city in Israel",
-    "heroKey": "longtail",
+    "heroKey": "coast",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/The_Hanging_Gardens_of_Haifa%2C_Israel_%2850099173503%29_%28cropped%29.jpg/1280px-The_Hanging_Gardens_of_Haifa%2C_Israel_%2850099173503%29_%28cropped%29.jpg",
     "realGallery": [
@@ -29833,12 +29830,12 @@ const raw: Gen[] = [
     "countrySlug": "vietnam",
     "countryName": "Vietnam",
     "tagline": "A city in Vietnam",
-    "heroKey": "kyoto",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "kyoto",
+      "lantern",
       "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/S%C3%B4ng_C%E1%BA%A5m_H%E1%BA%A3i_Ph%C3%B2ng_V%E1%BB%81_%C4%90%C3%AAm_n%C4%83m_2025.jpg/1280px-S%C3%B4ng_C%E1%BA%A5m_H%E1%BA%A3i_Ph%C3%B2ng_V%E1%BB%81_%C4%90%C3%AAm_n%C4%83m_2025.jpg",
     "realGallery": [
@@ -29940,12 +29937,12 @@ const raw: Gen[] = [
     "countrySlug": "syria",
     "countryName": "Syria",
     "tagline": "A city in Syria",
-    "heroKey": "longtail",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "lantern",
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hama%2C_Panoramic_view%2C_Syria.jpg/1280px-Hama%2C_Panoramic_view%2C_Syria.jpg",
     "realGallery": [
@@ -29985,12 +29982,12 @@ const raw: Gen[] = [
     "countrySlug": "germany",
     "countryName": "Germany",
     "tagline": "A city in Germany",
-    "heroKey": "colosseum",
+    "heroKey": "temple",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
-      "alps"
+      "temple",
+      "coast",
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hamburg%2C_Landungsbr%C3%BCcken_--_2016_--_3131-7.jpg/1280px-Hamburg%2C_Landungsbr%C3%BCcken_--_2016_--_3131-7.jpg",
     "realGallery": [
@@ -30032,12 +30029,12 @@ const raw: Gen[] = [
     "countrySlug": "north-korea",
     "countryName": "North Korea",
     "tagline": "A city in North Korea",
-    "heroKey": "cityNight",
+    "heroKey": "coast",
     "galleryKeys": [
-      "cityNight",
-      "lantern",
-      "sahara",
-      "tokyo"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hamhung_%2814298554245%29.jpg/1280px-Hamhung_%2814298554245%29.jpg",
     "realGallery": [
@@ -30077,12 +30074,12 @@ const raw: Gen[] = [
     "countrySlug": "new-zealand",
     "countryName": "New Zealand",
     "tagline": "A city in New Zealand",
-    "heroKey": "mountains",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "mountains",
+      "cityNight",
       "beach",
       "coast",
-      "longtail"
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -30116,12 +30113,12 @@ const raw: Gen[] = [
     "countrySlug": "china",
     "countryName": "China",
     "tagline": "A city in China",
-    "heroKey": "sahara",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "lantern",
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -30155,12 +30152,12 @@ const raw: Gen[] = [
     "countrySlug": "vietnam",
     "countryName": "Vietnam",
     "tagline": "The capital of Vietnam",
-    "heroKey": "tokyo",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
-      "temple",
-      "phiPhi"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hanoi_skyline_with_Ba_Vi_Mountain.jpg/1280px-Hanoi_skyline_with_Ba_Vi_Mountain.jpg",
     "realGallery": [
@@ -30315,8 +30312,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Crowne_Plaza%2C_Harare.png/1280px-Crowne_Plaza%2C_Harare.png",
     "realGallery": [
@@ -30445,7 +30442,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/0/0b/HargeisaDrone.jpg",
     "realGallery": [
@@ -30485,12 +30482,12 @@ const raw: Gen[] = [
     "countrySlug": "cuba",
     "countryName": "Cuba",
     "tagline": "The capital of Cuba",
-    "heroKey": "nyc",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "nyc",
-      "cityNight",
-      "beach",
-      "mountains"
+      "mountains",
+      "coast",
+      "food",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/DJI_0197_crp_wiki.jpg/1280px-DJI_0197_crp_wiki.jpg",
     "realGallery": [
@@ -30622,12 +30619,12 @@ const raw: Gen[] = [
     "countrySlug": "kuwait",
     "countryName": "Kuwait",
     "tagline": "A city in Kuwait",
-    "heroKey": "phiPhi",
+    "heroKey": "beach",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -30688,12 +30685,12 @@ const raw: Gen[] = [
     "countrySlug": "jordan",
     "countryName": "Jordan",
     "tagline": "A city in Jordan",
-    "heroKey": "lantern",
+    "heroKey": "temple",
     "galleryKeys": [
-      "lantern",
-      "sahara",
-      "tokyo",
-      "kyoto"
+      "temple",
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -30727,12 +30724,12 @@ const raw: Gen[] = [
     "countrySlug": "finland",
     "countryName": "Finland",
     "tagline": "The capital of Finland",
-    "heroKey": "norway",
+    "heroKey": "food",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
-      "alps",
-      "paris"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Suomenlinna_%28cropped%29.jpg/1280px-Suomenlinna_%28cropped%29.jpg",
     "realGallery": [
@@ -30772,12 +30769,12 @@ const raw: Gen[] = [
     "countrySlug": "greece",
     "countryName": "Greece",
     "tagline": "A city in Greece",
-    "heroKey": "rome",
+    "heroKey": "coast",
     "galleryKeys": [
-      "rome",
-      "venice",
       "coast",
-      "santorini"
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -30811,12 +30808,12 @@ const raw: Gen[] = [
     "countrySlug": "afghanistan",
     "countryName": "Afghanistan",
     "tagline": "A city in Afghanistan",
-    "heroKey": "kyoto",
+    "heroKey": "beach",
     "galleryKeys": [
-      "kyoto",
-      "temple",
-      "phiPhi",
-      "longtail"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Herat_7452a.jpg/1280px-Herat_7452a.jpg",
     "realGallery": [
@@ -30904,12 +30901,12 @@ const raw: Gen[] = [
     "countrySlug": "montenegro",
     "countryName": "Montenegro",
     "tagline": "A city in Montenegro",
-    "heroKey": "eiffel",
+    "heroKey": "alps",
     "galleryKeys": [
-      "eiffel",
-      "colosseum",
-      "norway",
-      "greeceSea"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Herceg_Novi_Sunset.JPG",
     "realGallery": [
@@ -30998,7 +30995,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Humera_in_Tigray_near_the_border_with_Sudan_and_Eritrea13.jpg/1280px-Humera_in_Tigray_near_the_border_with_Sudan_and_Eritrea13.jpg",
     "realGallery": [
@@ -31035,12 +31032,12 @@ const raw: Gen[] = [
     "countrySlug": "myanmar",
     "countryName": "Myanmar",
     "tagline": "A city in Myanmar",
-    "heroKey": "phiPhi",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "lantern",
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hlaingtharya%2C_Yangon%2C_Myanmar_%28Burma%29_-_panoramio.jpg/1280px-Hlaingtharya%2C_Yangon%2C_Myanmar_%28Burma%29_-_panoramio.jpg",
     "realGallery": [
@@ -31125,12 +31122,12 @@ const raw: Gen[] = [
     "countrySlug": "vietnam",
     "countryName": "Vietnam",
     "tagline": "A city in Vietnam",
-    "heroKey": "dubai",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "dubai",
-      "cityNight",
-      "lantern",
-      "sahara"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ho_Chi_Minh_City%2C_City_Hall%2C_2020-01_CN-03.jpg/1280px-Ho_Chi_Minh_City%2C_City_Hall%2C_2020-01_CN-03.jpg",
     "realGallery": [
@@ -31292,11 +31289,11 @@ const raw: Gen[] = [
     "countrySlug": "australia",
     "countryName": "Australia",
     "tagline": "A city in Australia",
-    "heroKey": "longtail",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "longtail",
-      "maldives",
       "mountains",
+      "food",
+      "cityNight",
       "beach"
     ],
     "realPhoto": null,
@@ -31331,12 +31328,12 @@ const raw: Gen[] = [
     "countrySlug": "vietnam",
     "countryName": "Vietnam",
     "tagline": "A city in Vietnam",
-    "heroKey": "kyoto",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "kyoto",
+      "lantern",
       "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight",
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -31370,12 +31367,12 @@ const raw: Gen[] = [
     "countrySlug": "cuba",
     "countryName": "Cuba",
     "tagline": "A city in Cuba",
-    "heroKey": "cityNight",
+    "heroKey": "food",
     "galleryKeys": [
+      "food",
       "cityNight",
       "beach",
-      "mountains",
-      "coast"
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/1/16/Hotel_Saratoga%2C_Holgu%C3%ADn.jpg",
     "realGallery": [
@@ -31430,12 +31427,12 @@ const raw: Gen[] = [
     "countrySlug": "syria",
     "countryName": "Syria",
     "tagline": "A city in Syria",
-    "heroKey": "dubai",
+    "heroKey": "coast",
     "galleryKeys": [
-      "dubai",
-      "cityNight",
-      "lantern",
-      "sahara"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/en/1/18/Al-Shuhadaa_Square_-_Hims%2C_Syria.jpg",
     "realGallery": [
@@ -31513,12 +31510,12 @@ const raw: Gen[] = [
     "countrySlug": "belarus",
     "countryName": "Belarus",
     "tagline": "A city in Belarus",
-    "heroKey": "santorini",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/4/4d/%D0%9F%D0%B0%D0%BB%D0%B0%D1%86%D0%B0%D0%B2%D0%B0-%D0%BF%D0%B0%D1%80%D0%BA%D0%B0%D0%B2%D1%8B_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D1%9E_%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%96._%D0%A4%D0%B0%D1%81%D0%B0%D0%B4_%D0%BF%D0%B0%D0%BB%D0%B0%D1%86%D0%B0.jpg",
     "realGallery": [
@@ -31558,12 +31555,12 @@ const raw: Gen[] = [
     "countrySlug": "hong-kong",
     "countryName": "Hong Kong",
     "tagline": "The capital of Hong Kong",
-    "heroKey": "fujiLake",
+    "heroKey": "temple",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
+      "temple",
       "cityNight",
-      "lantern"
+      "coast",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -31597,11 +31594,11 @@ const raw: Gen[] = [
     "countrySlug": "solomon-islands",
     "countryName": "Solomon Islands",
     "tagline": "The capital of Solomon Islands",
-    "heroKey": "longtail",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "longtail",
-      "maldives",
       "mountains",
+      "food",
+      "cityNight",
       "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Honiara_View.jpg/1280px-Honiara_View.jpg",
@@ -31676,12 +31673,12 @@ const raw: Gen[] = [
     "countrySlug": "united-states",
     "countryName": "United States",
     "tagline": "A city in United States",
-    "heroKey": "alps",
+    "heroKey": "food",
     "galleryKeys": [
-      "alps",
-      "nyc",
+      "food",
       "cityNight",
-      "beach"
+      "beach",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -31715,12 +31712,12 @@ const raw: Gen[] = [
     "countrySlug": "united-states",
     "countryName": "United States",
     "tagline": "A city in United States",
-    "heroKey": "alps",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "alps",
-      "nyc",
       "cityNight",
-      "beach"
+      "beach",
+      "mountains",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Texas_medical_center.jpg/1280px-Texas_medical_center.jpg",
     "realGallery": [
@@ -31765,12 +31762,12 @@ const raw: Gen[] = [
     "countrySlug": "belarus",
     "countryName": "Belarus",
     "tagline": "A city in Belarus",
-    "heroKey": "greeceSea",
+    "heroKey": "beach",
     "galleryKeys": [
-      "greeceSea",
-      "alps",
-      "paris",
-      "rome"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Horadnia_%28Hrodna%29%2C_Vilienskaja._%D0%93%D0%BE%D1%80%D0%B0%D0%B4%D0%BD%D1%8F%2C_%D0%92%D1%96%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%282021%29_05.jpg/1280px-Horadnia_%28Hrodna%29%2C_Vilienskaja._%D0%93%D0%BE%D1%80%D0%B0%D0%B4%D0%BD%D1%8F%2C_%D0%92%D1%96%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%282021%29_05.jpg",
     "realGallery": [
@@ -31883,18 +31880,17 @@ const raw: Gen[] = [
     "countrySlug": "vietnam",
     "countryName": "Vietnam",
     "tagline": "A city in Vietnam",
-    "heroKey": "fujiLake",
+    "heroKey": "beach",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
-      "cityNight",
-      "lantern"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/90/Colors-i54-ring.png",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HSV_cone.jpg/500px-HSV_cone.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Hue_shift_six_photoshop.jpg/330px-Hue_shift_six_photoshop.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/6/6e/Hue.gif"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Hue_shift_six_photoshop.jpg/330px-Hue_shift_six_photoshop.jpg"
     ],
     "overview": "Huế is one of Vietnam's major cities, home to around 1,380,000 people.",
     "bestTime": "November–March for cooler, drier conditions",
@@ -32023,12 +32019,12 @@ const raw: Gen[] = [
     "countrySlug": "north-korea",
     "countryName": "North Korea",
     "tagline": "A city in North Korea",
-    "heroKey": "cityNight",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "cityNight",
-      "lantern",
-      "sahara",
-      "tokyo"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Hungnam_Fertilizer.jpg",
     "realGallery": [
@@ -32066,12 +32062,12 @@ const raw: Gen[] = [
     "countrySlug": "india",
     "countryName": "India",
     "tagline": "A city in India",
-    "heroKey": "kyoto",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "kyoto",
-      "temple",
-      "phiPhi",
-      "longtail"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/88/Downtown_hyderabad_drone.png",
     "realGallery": [
@@ -32140,12 +32136,12 @@ const raw: Gen[] = [
     "countrySlug": "romania",
     "countryName": "Romania",
     "tagline": "A city in Romania",
-    "heroKey": "venice",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "venice",
-      "coast",
-      "santorini",
-      "eiffel"
+      "mountains",
+      "cityNight",
+      "alps",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Palatul_Culturii_Ia%C8%99i_-_seara_din_lateral_%28cropped%29.jpg/1280px-Palatul_Culturii_Ia%C8%99i_-_seara_din_lateral_%28cropped%29.jpg",
     "realGallery": [
@@ -32272,10 +32268,10 @@ const raw: Gen[] = [
     "countrySlug": "nigeria",
     "countryName": "Nigeria",
     "tagline": "A city in Nigeria",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -32411,12 +32407,12 @@ const raw: Gen[] = [
     "countrySlug": "yemen",
     "countryName": "Yemen",
     "tagline": "A city in Yemen",
-    "heroKey": "dubai",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "dubai",
       "cityNight",
-      "lantern",
-      "sahara"
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Ibb%2CYemen.jpg",
     "realGallery": [
@@ -32454,12 +32450,12 @@ const raw: Gen[] = [
     "countrySlug": "spain",
     "countryName": "Spain",
     "tagline": "A city in Spain",
-    "heroKey": "eiffel",
+    "heroKey": "food",
     "galleryKeys": [
-      "eiffel",
-      "colosseum",
-      "norway",
-      "greeceSea"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -32496,8 +32492,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": null,
@@ -32532,12 +32528,12 @@ const raw: Gen[] = [
     "countrySlug": "south-korea",
     "countryName": "South Korea",
     "tagline": "A city in South Korea",
-    "heroKey": "kyoto",
+    "heroKey": "beach",
     "galleryKeys": [
-      "kyoto",
-      "temple",
-      "phiPhi",
-      "longtail"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Songdo_Central_Park_and_Posco_Tower_Songdo.jpg/1280px-Songdo_Central_Park_and_Posco_Tower_Songdo.jpg",
     "realGallery": [
@@ -32666,12 +32662,12 @@ const raw: Gen[] = [
     "countrySlug": "austria",
     "countryName": "Austria",
     "tagline": "A city in Austria",
-    "heroKey": "alps",
+    "heroKey": "coast",
     "galleryKeys": [
-      "alps",
-      "paris",
-      "rome",
-      "venice"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -32705,12 +32701,12 @@ const raw: Gen[] = [
     "countrySlug": "switzerland",
     "countryName": "Switzerland",
     "tagline": "A city in Switzerland",
-    "heroKey": "alps",
+    "heroKey": "mountains",
     "galleryKeys": [
+      "mountains",
+      "cityNight",
       "alps",
-      "paris",
-      "rome",
-      "venice"
+      "beach"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -32744,12 +32740,12 @@ const raw: Gen[] = [
     "countrySlug": "malaysia",
     "countryName": "Malaysia",
     "tagline": "A city in Malaysia",
-    "heroKey": "fujiLake",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
+      "lantern",
+      "temple",
       "cityNight",
-      "lantern"
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Ipoh_skyline_24-2.jpg/1280px-Ipoh_skyline_24-2.jpg",
     "realGallery": [
@@ -32854,12 +32850,12 @@ const raw: Gen[] = [
     "countrySlug": "jordan",
     "countryName": "Jordan",
     "tagline": "A city in Jordan",
-    "heroKey": "sahara",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Irbid_City_%2817304009505%29.jpg",
     "realGallery": [
@@ -32947,12 +32943,12 @@ const raw: Gen[] = [
     "countrySlug": "iran",
     "countryName": "Iran",
     "tagline": "A city in Iran",
-    "heroKey": "kyoto",
+    "heroKey": "temple",
     "galleryKeys": [
-      "kyoto",
       "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Naghshe_jahan_01.jpg/1280px-Naghshe_jahan_01.jpg",
     "realGallery": [
@@ -33068,12 +33064,12 @@ const raw: Gen[] = [
     "countrySlug": "tajikistan",
     "countryName": "Tajikistan",
     "tagline": "A city in Tajikistan",
-    "heroKey": "sahara",
+    "heroKey": "temple",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "temple",
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Sanatorium_Zumrad_in_Isfara_02.jpg/1280px-Sanatorium_Zumrad_in_Isfara_02.jpg",
     "realGallery": [
@@ -33111,12 +33107,12 @@ const raw: Gen[] = [
     "countrySlug": "pakistan",
     "countryName": "Pakistan",
     "tagline": "The capital of Pakistan",
-    "heroKey": "cityNight",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "cityNight",
       "lantern",
-      "sahara",
-      "tokyo"
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Faisal_Mosque%2C_Islamabad_III.jpg/1280px-Faisal_Mosque%2C_Islamabad_III.jpg",
     "realGallery": [
@@ -33247,12 +33243,12 @@ const raw: Gen[] = [
     "countrySlug": "turkiye",
     "countryName": "Türkiye",
     "tagline": "A city in Türkiye",
-    "heroKey": "sahara",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "lantern",
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Historical_peninsula_and_modern_skyline_of_Istanbul.jpg/1280px-Historical_peninsula_and_modern_skyline_of_Istanbul.jpg",
     "realGallery": [
@@ -33292,12 +33288,12 @@ const raw: Gen[] = [
     "countrySlug": "tajikistan",
     "countryName": "Tajikistan",
     "tagline": "A city in Tajikistan",
-    "heroKey": "kyoto",
+    "heroKey": "beach",
     "galleryKeys": [
-      "kyoto",
-      "temple",
-      "phiPhi",
-      "longtail"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Istaravshan%2CMugTeppeS.jpg/1280px-Istaravshan%2CMugTeppeS.jpg",
     "realGallery": [
@@ -33339,12 +33335,12 @@ const raw: Gen[] = [
     "countrySlug": "turkiye",
     "countryName": "Türkiye",
     "tagline": "A city in Türkiye",
-    "heroKey": "dubai",
+    "heroKey": "temple",
     "galleryKeys": [
-      "dubai",
+      "temple",
       "cityNight",
-      "lantern",
-      "sahara"
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Cumhuriyet_Square.jpg/1280px-Cumhuriyet_Square.jpg",
     "realGallery": [
@@ -33471,12 +33467,12 @@ const raw: Gen[] = [
     "countrySlug": "mexico",
     "countryName": "Mexico",
     "tagline": "A city in Mexico",
-    "heroKey": "nyc",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "nyc",
-      "cityNight",
-      "beach",
-      "mountains"
+      "mountains",
+      "coast",
+      "food",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/3/36/View_from_Cerro_de_la_Estrella_%28Mexico_DF%29_towards_the_North%2C_with_Central_de_Abastos_in_the_foreground%2C_May_3013.png",
     "realGallery": [
@@ -33554,12 +33550,12 @@ const raw: Gen[] = [
     "countrySlug": "sri-lanka",
     "countryName": "Sri Lanka",
     "tagline": "A city in Sri Lanka",
-    "heroKey": "kyoto",
+    "heroKey": "temple",
     "galleryKeys": [
-      "kyoto",
       "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jaffna_montage.jpg/1280px-Jaffna_montage.jpg",
     "realGallery": [
@@ -33669,12 +33665,12 @@ const raw: Gen[] = [
     "countrySlug": "india",
     "countryName": "India",
     "tagline": "A city in India",
-    "heroKey": "lantern",
+    "heroKey": "beach",
     "galleryKeys": [
+      "beach",
+      "food",
       "lantern",
-      "sahara",
-      "tokyo",
-      "kyoto"
+      "temple"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -33708,12 +33704,12 @@ const raw: Gen[] = [
     "countrySlug": "indonesia",
     "countryName": "Indonesia",
     "tagline": "The capital of Indonesia",
-    "heroKey": "fujiLake",
+    "heroKey": "coast",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
-      "cityNight",
-      "lantern"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/1280px-Jakarta_Skyline_Part_2.jpg",
     "realGallery": [
@@ -33753,12 +33749,12 @@ const raw: Gen[] = [
     "countrySlug": "afghanistan",
     "countryName": "Afghanistan",
     "tagline": "A city in Afghanistan",
-    "heroKey": "kyoto",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "kyoto",
-      "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Aerial_view_of_Jalalabad_in_2012.jpg/1280px-Aerial_view_of_Jalalabad_in_2012.jpg",
     "realGallery": [
@@ -33825,12 +33821,12 @@ const raw: Gen[] = [
     "countrySlug": "guatemala",
     "countryName": "Guatemala",
     "tagline": "A city in Guatemala",
-    "heroKey": "nyc",
+    "heroKey": "coast",
     "galleryKeys": [
-      "nyc",
+      "coast",
+      "food",
       "cityNight",
-      "beach",
-      "mountains"
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Xalapa_montage.jpg/1280px-Xalapa_montage.jpg",
     "realGallery": [
@@ -33938,12 +33934,12 @@ const raw: Gen[] = [
     "countrySlug": "saudi-arabia",
     "countryName": "Saudi Arabia",
     "tagline": "A city in Saudi Arabia",
-    "heroKey": "phiPhi",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D9%87%D8%A9_%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9_%D9%81%D9%8A_%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%AC%D8%AF%D8%A9_%D8%BA%D8%B1%D8%A8_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9_%282025%29_%28cropped%29.jpg/1280px-%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D9%87%D8%A9_%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9_%D9%81%D9%8A_%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%AC%D8%AF%D8%A9_%D8%BA%D8%B1%D8%A8_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9_%282025%29_%28cropped%29.jpg",
     "realGallery": [
@@ -34071,12 +34067,12 @@ const raw: Gen[] = [
     "countrySlug": "south-korea",
     "countryName": "South Korea",
     "tagline": "A city in South Korea",
-    "heroKey": "phiPhi",
+    "heroKey": "temple",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "temple",
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -34110,12 +34106,12 @@ const raw: Gen[] = [
     "countrySlug": "latvia",
     "countryName": "Latvia",
     "tagline": "A city in Latvia",
-    "heroKey": "venice",
+    "heroKey": "food",
     "galleryKeys": [
-      "venice",
+      "food",
+      "temple",
       "coast",
-      "santorini",
-      "eiffel"
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Jelgava_winter.jpg/1280px-Jelgava_winter.jpg",
     "realGallery": [
@@ -34211,12 +34207,12 @@ const raw: Gen[] = [
     "countrySlug": "israel",
     "countryName": "Israel",
     "tagline": "The capital of Israel",
-    "heroKey": "cityNight",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "cityNight",
-      "lantern",
-      "sahara",
-      "tokyo"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Temple_Mount_%28Aerial_view%2C_2007%29_07.jpg/1280px-Temple_Mount_%28Aerial_view%2C_2007%29_07.jpg",
     "realGallery": [
@@ -34258,12 +34254,12 @@ const raw: Gen[] = [
     "countrySlug": "bahrain",
     "countryName": "Bahrain",
     "tagline": "A city in Bahrain",
-    "heroKey": "kyoto",
+    "heroKey": "food",
     "galleryKeys": [
-      "kyoto",
+      "food",
+      "lantern",
       "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -34302,7 +34298,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/89/Jijiga.jpg",
     "realGallery": [
@@ -34364,7 +34360,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Johannesburg_skyline_2017.jpg/1280px-Johannesburg_skyline_2017.jpg",
     "realGallery": [
@@ -34404,12 +34400,12 @@ const raw: Gen[] = [
     "countrySlug": "malaysia",
     "countryName": "Malaysia",
     "tagline": "A city in Malaysia",
-    "heroKey": "temple",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "temple",
-      "phiPhi",
-      "longtail",
-      "fujiLake"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Johor_Bahru_at_night.png/1280px-Johor_Bahru_at_night.png",
     "realGallery": [
@@ -34543,12 +34539,12 @@ const raw: Gen[] = [
     "countrySlug": "panama",
     "countryName": "Panama",
     "tagline": "A city in Panama",
-    "heroKey": "coast",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "coast",
-      "alps",
-      "nyc",
-      "cityNight"
+      "cityNight",
+      "beach",
+      "mountains",
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -34582,9 +34578,9 @@ const raw: Gen[] = [
     "countrySlug": "south-sudan",
     "countryName": "South Sudan",
     "tagline": "The capital of South Sudan",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -34673,12 +34669,12 @@ const raw: Gen[] = [
     "countrySlug": "latvia",
     "countryName": "Latvia",
     "tagline": "A city in Latvia",
-    "heroKey": "greeceSea",
+    "heroKey": "coast",
     "galleryKeys": [
-      "greeceSea",
-      "alps",
-      "paris",
-      "rome"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Jomas_Street%2C_Jurmala%2C_Latvia.png",
     "realGallery": [
@@ -34762,12 +34758,12 @@ const raw: Gen[] = [
     "countrySlug": "singapore",
     "countryName": "Singapore",
     "tagline": "A city in Singapore",
-    "heroKey": "cityNight",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "cityNight",
-      "lantern",
-      "sahara",
-      "tokyo"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -34801,12 +34797,12 @@ const raw: Gen[] = [
     "countrySlug": "afghanistan",
     "countryName": "Afghanistan",
     "tagline": "The capital of Afghanistan",
-    "heroKey": "tokyo",
+    "heroKey": "coast",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
-      "temple",
-      "phiPhi"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/4/43/Kabul%2C_Afghanistan_view.jpg",
     "realGallery": [
@@ -34937,8 +34933,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Downtown_Kabwe_Zambia.jpg/1280px-Downtown_Kabwe_Zambia.jpg",
@@ -35003,8 +34999,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Lugard_Hall%2C_Kaduna._Parliamentary_house_of_assembly_Capital_of_North_Region.jpg/1280px-Lugard_Hall%2C_Kaduna._Parliamentary_house_of_assembly_Capital_of_North_Region.jpg",
@@ -35114,12 +35110,12 @@ const raw: Gen[] = [
     "countrySlug": "north-korea",
     "countryName": "North Korea",
     "tagline": "A city in North Korea",
-    "heroKey": "phiPhi",
+    "heroKey": "coast",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Koryo_Songgyungwan_University.jpg/1280px-Koryo_Songgyungwan_University.jpg",
     "realGallery": [
@@ -35203,7 +35199,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Montage_ville_de_Kairouan.png",
     "realGallery": [
@@ -35293,8 +35289,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CryingStone.jpg/1280px-CryingStone.jpg",
@@ -35365,10 +35361,10 @@ const raw: Gen[] = [
     "countrySlug": "liberia",
     "countryName": "Liberia",
     "tagline": "A city in Liberia",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -35406,12 +35402,12 @@ const raw: Gen[] = [
     "countrySlug": "myanmar",
     "countryName": "Myanmar",
     "tagline": "A city in Myanmar",
-    "heroKey": "kyoto",
+    "heroKey": "food",
     "galleryKeys": [
-      "kyoto",
+      "food",
+      "lantern",
       "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kale%2C_Myanmar_%28Burma%29_-_panoramio_%282%29.jpg/1280px-Kale%2C_Myanmar_%28Burma%29_-_panoramio_%282%29.jpg",
     "realGallery": [
@@ -35449,10 +35445,10 @@ const raw: Gen[] = [
     "countrySlug": "uganda",
     "countryName": "Uganda",
     "tagline": "The capital of Uganda",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -35614,12 +35610,12 @@ const raw: Gen[] = [
     "countrySlug": "malaysia",
     "countryName": "Malaysia",
     "tagline": "A city in Malaysia",
-    "heroKey": "dubai",
+    "heroKey": "temple",
     "galleryKeys": [
-      "dubai",
+      "temple",
       "cityNight",
-      "lantern",
-      "sahara"
+      "coast",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -35703,12 +35699,12 @@ const raw: Gen[] = [
     "countrySlug": "afghanistan",
     "countryName": "Afghanistan",
     "tagline": "A city in Afghanistan",
-    "heroKey": "sahara",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Aerial_view_of_a_section_of_Kandahar_in_2013.jpg/1280px-Aerial_view_of_a_section_of_Kandahar_in_2013.jpg",
     "realGallery": [
@@ -35831,7 +35827,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kankan_%2814604699012%29.jpg/1280px-Kankan_%2814604699012%29.jpg",
     "realGallery": [
@@ -35881,8 +35877,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -36024,7 +36020,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/3/32/MedinaBaayMosque.jpg",
     "realGallery": [
@@ -36071,10 +36067,10 @@ const raw: Gen[] = [
     "countrySlug": "togo",
     "countryName": "Togo",
     "tagline": "A city in Togo",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -36124,12 +36120,12 @@ const raw: Gen[] = [
     "countrySlug": "pakistan",
     "countryName": "Pakistan",
     "tagline": "A city in Pakistan",
-    "heroKey": "tokyo",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
-      "temple",
-      "phiPhi"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Clifton_Karachi_View.jpg/1280px-Clifton_Karachi_View.jpg",
     "realGallery": [
@@ -36276,12 +36272,12 @@ const raw: Gen[] = [
     "countrySlug": "kazakhstan",
     "countryName": "Kazakhstan",
     "tagline": "A city in Kazakhstan",
-    "heroKey": "cityNight",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "cityNight",
       "lantern",
-      "sahara",
-      "tokyo"
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/%D0%93._%D0%9A%D0%B0%D1%80%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0._%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B_%D0%B3%D0%BE%D1%80%D0%BD%D1%8F%D0%BA%D0%BE%D0%B2_%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_%D0%91-%D0%96%D0%B8%D1%80%D0%B0%D1%83_%28%D1%80%D0%B0%D0%BD%D0%B5%D0%B5_%D0%BF%D1%80.%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%29.jpg/1280px-%D0%93._%D0%9A%D0%B0%D1%80%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0._%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B_%D0%B3%D0%BE%D1%80%D0%BD%D1%8F%D0%BA%D0%BE%D0%B2_%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_%D0%91-%D0%96%D0%B8%D1%80%D0%B0%D1%83_%28%D1%80%D0%B0%D0%BD%D0%B5%D0%B5_%D0%BF%D1%80.%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%29.jpg",
     "realGallery": [
@@ -36321,12 +36317,12 @@ const raw: Gen[] = [
     "countrySlug": "iran",
     "countryName": "Iran",
     "tagline": "A city in Iran",
-    "heroKey": "lantern",
+    "heroKey": "coast",
     "galleryKeys": [
-      "lantern",
-      "sahara",
-      "tokyo",
-      "kyoto"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Pearl_Palace_-Kakh_e_Morvarid-_Karaj_Iran.jpg",
     "realGallery": [
@@ -36395,12 +36391,12 @@ const raw: Gen[] = [
     "countrySlug": "kyrgyzstan",
     "countryName": "Kyrgyzstan",
     "tagline": "A city in Kyrgyzstan",
-    "heroKey": "tokyo",
+    "heroKey": "beach",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
-      "temple",
-      "phiPhi"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%D0%9A%D0%B0%D1%80%D0%B0%D0%BA%D0%BE%D0%BB%2C_%D0%BF%D0%B0%D1%80%D0%BA_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0%2C_%D1%81%D1%84%D0%B5%D1%80%D0%BE%D0%BF%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0.jpg/1280px-%D0%9A%D0%B0%D1%80%D0%B0%D0%BA%D0%BE%D0%BB%2C_%D0%BF%D0%B0%D1%80%D0%BA_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0%2C_%D1%81%D1%84%D0%B5%D1%80%D0%BE%D0%BF%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0.jpg",
     "realGallery": [
@@ -36592,7 +36588,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Kassala_center_Totil.jpg/1280px-Kassala_center_Totil.jpg",
     "realGallery": [
@@ -36650,9 +36646,9 @@ const raw: Gen[] = [
     "countrySlug": "malawi",
     "countryName": "Malawi",
     "tagline": "A city in Malawi",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -36689,12 +36685,12 @@ const raw: Gen[] = [
     "countrySlug": "nepal",
     "countryName": "Nepal",
     "tagline": "The capital of Nepal",
-    "heroKey": "temple",
+    "heroKey": "beach",
     "galleryKeys": [
-      "temple",
-      "phiPhi",
-      "longtail",
-      "fujiLake"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Kathmandu-Durbar_Square-06-Mahavishnu-Kuh-Vishnu-Pratapamalla-Jagannath-2007-gje.jpg/1280px-Kathmandu-Durbar_Square-06-Mahavishnu-Kuh-Vishnu-Pratapamalla-Jagannath-2007-gje.jpg",
     "realGallery": [
@@ -36741,12 +36737,12 @@ const raw: Gen[] = [
     "countrySlug": "cyprus",
     "countryName": "Cyprus",
     "tagline": "A city in Cyprus",
-    "heroKey": "venice",
+    "heroKey": "alps",
     "galleryKeys": [
-      "venice",
-      "coast",
-      "santorini",
-      "eiffel"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -36780,12 +36776,12 @@ const raw: Gen[] = [
     "countrySlug": "lithuania",
     "countryName": "Lithuania",
     "tagline": "A city in Lithuania",
-    "heroKey": "coast",
+    "heroKey": "temple",
     "galleryKeys": [
+      "temple",
       "coast",
-      "santorini",
-      "eiffel",
-      "colosseum"
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kauno_senamiestis_by_Augustas_Didzgalvis.jpg/1280px-Kauno_senamiestis_by_Augustas_Didzgalvis.jpg",
     "realGallery": [
@@ -36937,9 +36933,9 @@ const raw: Gen[] = [
     "countrySlug": "burkina-faso",
     "countryName": "Burkina Faso",
     "tagline": "A city in Burkina Faso",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -36987,10 +36983,10 @@ const raw: Gen[] = [
     "countrySlug": "congo",
     "countryName": "Congo",
     "tagline": "A city in Congo",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -37034,8 +37030,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kayes_avenue_archinard.jpg/500px-Kayes_avenue_archinard.jpg",
     "realGallery": [
@@ -37073,12 +37069,12 @@ const raw: Gen[] = [
     "countrySlug": "russia",
     "countryName": "Russia",
     "tagline": "A city in Russia",
-    "heroKey": "alps",
+    "heroKey": "beach",
     "galleryKeys": [
-      "alps",
-      "paris",
-      "rome",
-      "venice"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D1%86%D0%B5%D0%B22.jpg/1280px-%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D1%86%D0%B5%D0%B22.jpg",
     "realGallery": [
@@ -37213,12 +37209,12 @@ const raw: Gen[] = [
     "countrySlug": "iceland",
     "countryName": "Iceland",
     "tagline": "A city in Iceland",
-    "heroKey": "alps",
+    "heroKey": "cityNight",
     "galleryKeys": [
+      "cityNight",
       "alps",
-      "paris",
-      "rome",
-      "venice"
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Keflav%C3%ADk_viewed_from_airplane.jpg/1280px-Keflav%C3%ADk_viewed_from_airplane.jpg",
     "realGallery": [
@@ -37275,10 +37271,10 @@ const raw: Gen[] = [
     "countrySlug": "chad",
     "countryName": "Chad",
     "tagline": "A city in Chad",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -37314,10 +37310,10 @@ const raw: Gen[] = [
     "countrySlug": "sierra-leone",
     "countryName": "Sierra Leone",
     "tagline": "A city in Sierra Leone",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -37359,12 +37355,12 @@ const raw: Gen[] = [
     "countrySlug": "colombia",
     "countryName": "Colombia",
     "tagline": "A city in Colombia",
-    "heroKey": "mountains",
+    "heroKey": "coast",
     "galleryKeys": [
-      "mountains",
-      "temple",
       "coast",
-      "beach"
+      "beach",
+      "temple",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -37398,12 +37394,12 @@ const raw: Gen[] = [
     "countrySlug": "armenia",
     "countryName": "Armenia",
     "tagline": "A city in Armenia",
-    "heroKey": "longtail",
+    "heroKey": "beach",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -37500,12 +37496,12 @@ const raw: Gen[] = [
     "countrySlug": "estonia",
     "countryName": "Estonia",
     "tagline": "A city in Estonia",
-    "heroKey": "alps",
+    "heroKey": "temple",
     "galleryKeys": [
-      "alps",
-      "paris",
-      "rome",
-      "venice"
+      "temple",
+      "coast",
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -37539,12 +37535,12 @@ const raw: Gen[] = [
     "countrySlug": "ukraine",
     "countryName": "Ukraine",
     "tagline": "A city in Ukraine",
-    "heroKey": "santorini",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/%2830%29_VIEW_ON_PEDESTRIAN_BRIDGE_OVER_KHARKIV_RIVER_IN_CITY_OF_KHARKIV_STATE_OF_UKRAINE_PHOTOGRAPH_BY_VIKTOR_O_LEDENYOV_20160616.jpg/1280px-%2830%29_VIEW_ON_PEDESTRIAN_BRIDGE_OVER_KHARKIV_RIVER_IN_CITY_OF_KHARKIV_STATE_OF_UKRAINE_PHOTOGRAPH_BY_VIKTOR_O_LEDENYOV_20160616.jpg",
     "realGallery": [
@@ -37844,8 +37840,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Khartum_north_industrial.jpg/1280px-Khartum_north_industrial.jpg",
     "realGallery": [
@@ -37883,12 +37879,12 @@ const raw: Gen[] = [
     "countrySlug": "azerbaijan",
     "countryName": "Azerbaijan",
     "tagline": "A city in Azerbaijan",
-    "heroKey": "kyoto",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "kyoto",
-      "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Heydar_Aliyev_park_in_Xirdalan.jpg/1280px-Heydar_Aliyev_park_in_Xirdalan.jpg",
     "realGallery": [
@@ -37928,12 +37924,12 @@ const raw: Gen[] = [
     "countrySlug": "tajikistan",
     "countryName": "Tajikistan",
     "tagline": "A city in Tajikistan",
-    "heroKey": "tokyo",
+    "heroKey": "coast",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
-      "temple",
-      "phiPhi"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/6/6d/View_to_Khujand.JPG",
     "realGallery": [
@@ -38065,12 +38061,12 @@ const raw: Gen[] = [
     "countrySlug": "bangladesh",
     "countryName": "Bangladesh",
     "tagline": "A city in Bangladesh",
-    "heroKey": "dubai",
+    "heroKey": "coast",
     "galleryKeys": [
-      "dubai",
-      "cityNight",
-      "lantern",
-      "sahara"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Durbar_Bangla_at_kuet.jpg/1280px-Durbar_Bangla_at_kuet.jpg",
     "realGallery": [
@@ -38141,12 +38137,12 @@ const raw: Gen[] = [
     "countrySlug": "jordan",
     "countryName": "Jordan",
     "tagline": "A city in Jordan",
-    "heroKey": "kyoto",
+    "heroKey": "food",
     "galleryKeys": [
-      "kyoto",
+      "food",
+      "lantern",
       "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Amman_district_12.png",
     "realGallery": [],
@@ -38180,10 +38176,10 @@ const raw: Gen[] = [
     "countrySlug": "mauritania",
     "countryName": "Mauritania",
     "tagline": "A city in Mauritania",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -38229,8 +38225,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/High_Angle_View_Of_Kigali_City_Street_on_November_29%2C_2018._Emmanuel_Kwizera.jpg/1280px-High_Angle_View_Of_Kigali_City_Street_on_November_29%2C_2018._Emmanuel_Kwizera.jpg",
     "realGallery": [
@@ -38370,10 +38366,10 @@ const raw: Gen[] = [
     "countrySlug": "angola",
     "countryName": "Angola",
     "tagline": "A city in Angola",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -38409,12 +38405,12 @@ const raw: Gen[] = [
     "countrySlug": "bahamas",
     "countryName": "Bahamas",
     "tagline": "A city in Bahamas",
-    "heroKey": "coast",
+    "heroKey": "food",
     "galleryKeys": [
-      "coast",
-      "alps",
-      "nyc",
-      "cityNight"
+      "food",
+      "cityNight",
+      "beach",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Killarney_Cathedral%2C_2021-06-21%2C_02.jpg/1280px-Killarney_Cathedral%2C_2021-06-21%2C_02.jpg",
     "realGallery": [
@@ -38538,9 +38534,9 @@ const raw: Gen[] = [
     "heroKey": "coast",
     "galleryKeys": [
       "coast",
-      "alps",
-      "nyc",
-      "cityNight"
+      "food",
+      "cityNight",
+      "beach"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -38574,12 +38570,12 @@ const raw: Gen[] = [
     "countrySlug": "saint-vincent-and-the-grenadines",
     "countryName": "Saint Vincent and the Grenadines",
     "tagline": "The capital of Saint Vincent and the Grenadines",
-    "heroKey": "cityNight",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "cityNight",
-      "beach",
       "mountains",
-      "coast"
+      "coast",
+      "food",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Kingstown.jpg",
     "realGallery": [
@@ -38647,7 +38643,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/La_Gombe%2C_Kinshasa%2C_RDC_%28cropped%29.jpg/1280px-La_Gombe%2C_Kinshasa%2C_RDC_%28cropped%29.jpg",
     "realGallery": [
@@ -38801,8 +38797,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/1/14/Vi_lle.jpg",
     "realGallery": [
@@ -38861,10 +38857,10 @@ const raw: Gen[] = [
     "countrySlug": "somalia",
     "countryName": "Somalia",
     "tagline": "A city in Somalia",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -38922,7 +38918,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kitwe_cityscape2_-_Flickr.jpg/1280px-Kitwe_cityscape2_-_Flickr.jpg",
     "realGallery": [
@@ -38990,9 +38986,9 @@ const raw: Gen[] = [
     "heroKey": "coast",
     "galleryKeys": [
       "coast",
-      "santorini",
-      "eiffel",
-      "colosseum"
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Quite_summer_evening_in_the_port_city_Klaipeda.jpg/1280px-Quite_summer_evening_in_the_port_city_Klaipeda.jpg",
     "realGallery": [
@@ -39141,12 +39137,12 @@ const raw: Gen[] = [
     "countrySlug": "thailand",
     "countryName": "Thailand",
     "tagline": "A city in Thailand",
-    "heroKey": "fujiLake",
+    "heroKey": "coast",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
-      "cityNight",
-      "lantern"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -39185,7 +39181,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/KoiduStreet.jpg/1280px-KoiduStreet.jpg",
     "realGallery": [
@@ -39228,10 +39224,10 @@ const raw: Gen[] = [
     "countrySlug": "solomon-islands",
     "countryName": "Solomon Islands",
     "tagline": "A city in Solomon Islands",
-    "heroKey": "maldives",
+    "heroKey": "food",
     "galleryKeys": [
-      "maldives",
-      "mountains",
+      "food",
+      "cityNight",
       "beach",
       "coast"
     ],
@@ -39267,12 +39263,12 @@ const raw: Gen[] = [
     "countrySlug": "germany",
     "countryName": "Germany",
     "tagline": "A city in Germany",
-    "heroKey": "eiffel",
+    "heroKey": "food",
     "galleryKeys": [
-      "eiffel",
-      "colosseum",
-      "norway",
-      "greeceSea"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kranh%C3%A4user_Cologne%2C_April_2018_-01.jpg/1280px-Kranh%C3%A4user_Cologne%2C_April_2018_-01.jpg",
     "realGallery": [
@@ -39419,12 +39415,12 @@ const raw: Gen[] = [
     "countrySlug": "tajikistan",
     "countryName": "Tajikistan",
     "tagline": "A city in Tajikistan",
-    "heroKey": "sahara",
+    "heroKey": "temple",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "temple",
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Konibodom%2Cbazar.jpg/1280px-Konibodom%2Cbazar.jpg",
     "realGallery": [
@@ -39468,12 +39464,12 @@ const raw: Gen[] = [
     "countrySlug": "iceland",
     "countryName": "Iceland",
     "tagline": "A city in Iceland",
-    "heroKey": "greeceSea",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "greeceSea",
+      "mountains",
+      "cityNight",
       "alps",
-      "paris",
-      "rome"
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/0/00/K%C3%B3pavogur_Sm%C3%A1rinn.JPG",
     "realGallery": [
@@ -39541,12 +39537,12 @@ const raw: Gen[] = [
     "countrySlug": "slovenia",
     "countryName": "Slovenia",
     "tagline": "A city in Slovenia",
-    "heroKey": "norway",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
+      "mountains",
+      "cityNight",
       "alps",
-      "paris"
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Koper%2C_mesto.jpg/1280px-Koper%2C_mesto.jpg",
     "realGallery": [
@@ -39675,10 +39671,10 @@ const raw: Gen[] = [
     "countrySlug": "ivory-coast",
     "countryName": "Ivory Coast",
     "tagline": "A city in Ivory Coast",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -39723,12 +39719,12 @@ const raw: Gen[] = [
     "countrySlug": "slovakia",
     "countryName": "Slovakia",
     "tagline": "A city in Slovakia",
-    "heroKey": "greeceSea",
+    "heroKey": "food",
     "galleryKeys": [
-      "greeceSea",
-      "alps",
-      "paris",
-      "rome"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/D%C3%B3m_sv%C3%A4tej_Al%C5%BEbety.jpg/1280px-D%C3%B3m_sv%C3%A4tej_Al%C5%BEbety.jpg",
     "realGallery": [
@@ -39891,7 +39887,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Grand_march%C3%A9_de_Koudougou.jpg/1280px-Grand_march%C3%A9_de_Koudougou.jpg",
     "realGallery": [
@@ -39940,8 +39936,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Le_march%C3%A9_de_Koumassi_ext%C3%A9rieur.JPG/960px-Le_march%C3%A9_de_Koumassi_ext%C3%A9rieur.JPG",
@@ -39979,9 +39975,9 @@ const raw: Gen[] = [
     "countrySlug": "mali",
     "countryName": "Mali",
     "tagline": "A city in Mali",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -40027,8 +40023,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kpalime.jpg",
     "realGallery": [
@@ -40107,11 +40103,11 @@ const raw: Gen[] = [
     "countrySlug": "thailand",
     "countryName": "Thailand",
     "tagline": "A city in Thailand",
-    "heroKey": "longtail",
+    "heroKey": "food",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
+      "food",
+      "lantern",
+      "temple",
       "cityNight"
     ],
     "realPhoto": null,
@@ -40146,12 +40142,12 @@ const raw: Gen[] = [
     "countrySlug": "serbia",
     "countryName": "Serbia",
     "tagline": "A city in Serbia",
-    "heroKey": "norway",
+    "heroKey": "coast",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
-      "alps",
-      "paris"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/View_on_the_city_of_Kragujevac.jpg/1280px-View_on_the_city_of_Kragujevac.jpg",
     "realGallery": [
@@ -40288,12 +40284,12 @@ const raw: Gen[] = [
     "countrySlug": "poland",
     "countryName": "Poland",
     "tagline": "A city in Poland",
-    "heroKey": "eiffel",
+    "heroKey": "temple",
     "galleryKeys": [
-      "eiffel",
-      "colosseum",
-      "norway",
-      "greeceSea"
+      "temple",
+      "coast",
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Krakow_Rynek_Glowny_panorama_2.jpg/1280px-Krakow_Rynek_Glowny_panorama_2.jpg",
     "realGallery": [
@@ -40333,11 +40329,11 @@ const raw: Gen[] = [
     "countrySlug": "slovenia",
     "countryName": "Slovenia",
     "tagline": "A city in Slovenia",
-    "heroKey": "colosseum",
+    "heroKey": "coast",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
+      "coast",
+      "mountains",
+      "cityNight",
       "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kranj_veduta_Kranja_Andra%C5%BE_Muljavec_Fotomorgana.jpg/1280px-Kranj_veduta_Kranja_Andra%C5%BE_Muljavec_Fotomorgana.jpg",
@@ -40410,12 +40406,12 @@ const raw: Gen[] = [
     "countrySlug": "norway",
     "countryName": "Norway",
     "tagline": "A city in Norway",
-    "heroKey": "alps",
+    "heroKey": "temple",
     "galleryKeys": [
-      "alps",
-      "paris",
-      "rome",
-      "venice"
+      "temple",
+      "coast",
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Kvadraturen-01.jpg",
     "realGallery": [
@@ -40554,8 +40550,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": null,
@@ -40590,12 +40586,12 @@ const raw: Gen[] = [
     "countrySlug": "brunei",
     "countryName": "Brunei",
     "tagline": "A city in Brunei",
-    "heroKey": "cityNight",
+    "heroKey": "coast",
     "galleryKeys": [
-      "cityNight",
-      "lantern",
-      "sahara",
-      "tokyo"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Kuala_Belait_at_Night_%2818623608099%29.jpg/1280px-Kuala_Belait_at_Night_%2818623608099%29.jpg",
     "realGallery": [
@@ -40671,12 +40667,12 @@ const raw: Gen[] = [
     "countrySlug": "malaysia",
     "countryName": "Malaysia",
     "tagline": "The capital of Malaysia",
-    "heroKey": "sahara",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "lantern",
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bukit_Bintang_junction_in_2024_2.jpg/1280px-Bukit_Bintang_junction_in_2024_2.jpg",
     "realGallery": [
@@ -40716,12 +40712,12 @@ const raw: Gen[] = [
     "countrySlug": "tajikistan",
     "countryName": "Tajikistan",
     "tagline": "A city in Tajikistan",
-    "heroKey": "tokyo",
+    "heroKey": "coast",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
-      "temple",
-      "phiPhi"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kulob_2700_th_Anniversary_monument_-_panoramio.jpg/1280px-Kulob_2700_th_Anniversary_monument_-_panoramio.jpg",
     "realGallery": [
@@ -40776,12 +40772,12 @@ const raw: Gen[] = [
     "countrySlug": "north-macedonia",
     "countryName": "North Macedonia",
     "tagline": "A city in North Macedonia",
-    "heroKey": "colosseum",
+    "heroKey": "alps",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
-      "alps"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%D0%9A%D1%83%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%BE.jpg/1280px-%D0%9A%D1%83%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%BE.jpg",
     "realGallery": [
@@ -40914,9 +40910,9 @@ const raw: Gen[] = [
     "countrySlug": "ghana",
     "countryName": "Ghana",
     "tagline": "A city in Ghana",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -41034,11 +41030,11 @@ const raw: Gen[] = [
     "countrySlug": "afghanistan",
     "countryName": "Afghanistan",
     "tagline": "A city in Afghanistan",
-    "heroKey": "longtail",
+    "heroKey": "food",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
+      "food",
+      "lantern",
+      "temple",
       "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Shuja_Shah_Durrani_and_Men_in_his_decorated_palace_Wellcome_V0050531.jpg/1280px-Shuja_Shah_Durrani_and_Men_in_his_decorated_palace_Wellcome_V0050531.jpg",
@@ -41076,12 +41072,12 @@ const raw: Gen[] = [
     "countrySlug": "georgia",
     "countryName": "Georgia",
     "tagline": "A city in Georgia",
-    "heroKey": "sahara",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Downtown_Kutaisi_%26_White_Bridge_as_seen_from_Mt_Gora_%28August_2011%29-cropped.jpg/1280px-Downtown_Kutaisi_%26_White_Bridge_as_seen_from_Mt_Gora_%28August_2011%29-cropped.jpg",
     "realGallery": [
@@ -41234,12 +41230,12 @@ const raw: Gen[] = [
     "countrySlug": "kuwait",
     "countryName": "Kuwait",
     "tagline": "The capital of Kuwait",
-    "heroKey": "longtail",
+    "heroKey": "coast",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kuwait_City_Skyline_1.jpg/1280px-Kuwait_City_Skyline_1.jpg",
     "realGallery": [
@@ -41349,9 +41345,9 @@ const raw: Gen[] = [
     "countrySlug": "uganda",
     "countryName": "Uganda",
     "tagline": "A city in Uganda",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -41388,12 +41384,12 @@ const raw: Gen[] = [
     "countrySlug": "ukraine",
     "countryName": "Ukraine",
     "tagline": "The capital of Ukraine",
-    "heroKey": "coast",
+    "heroKey": "alps",
     "galleryKeys": [
-      "coast",
-      "santorini",
-      "eiffel",
-      "colosseum"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_%D0%B7_%D1%85%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%2C_%D1%81%D0%B5%D1%80%D0%BF%D0%B5%D0%BD%D1%8C_2019.jpg/1280px-%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_%D0%B7_%D1%85%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%2C_%D1%81%D0%B5%D1%80%D0%BF%D0%B5%D0%BD%D1%8C_2019.jpg",
     "realGallery": [
@@ -41597,9 +41593,9 @@ const raw: Gen[] = [
     "heroKey": "coast",
     "galleryKeys": [
       "coast",
-      "alps",
-      "nyc",
-      "cityNight"
+      "food",
+      "cityNight",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Letras_de_La_Ceiba.jpg/1280px-Letras_de_La_Ceiba.jpg",
     "realGallery": [
@@ -41668,12 +41664,12 @@ const raw: Gen[] = [
     "countrySlug": "bolivia",
     "countryName": "Bolivia",
     "tagline": "A city in Bolivia",
-    "heroKey": "coast",
+    "heroKey": "temple",
     "galleryKeys": [
-      "coast",
-      "beach",
-      "machuPicchu",
-      "mountains"
+      "temple",
+      "food",
+      "mountains",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Vista_del_centro_de_La_Paz.jpg/1280px-Vista_del_centro_de_La_Paz.jpg",
     "realGallery": [
@@ -41772,12 +41768,12 @@ const raw: Gen[] = [
     "countrySlug": "dominican-republic",
     "countryName": "Dominican Republic",
     "tagline": "A city in Dominican Republic",
-    "heroKey": "alps",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "alps",
-      "nyc",
-      "cityNight",
-      "beach"
+      "mountains",
+      "coast",
+      "food",
+      "cityNight"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -41823,11 +41819,11 @@ const raw: Gen[] = [
     "countrySlug": "fiji",
     "countryName": "Fiji",
     "tagline": "A city in Fiji",
-    "heroKey": "longtail",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "longtail",
-      "maldives",
       "mountains",
+      "food",
+      "cityNight",
       "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/USP_Labasa.jpg/1280px-USP_Labasa.jpg",
@@ -41878,8 +41874,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "beach",
       "coast",
-      "longtail",
-      "maldives"
+      "mountains",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Lae_City_and_Markham_River_%28aerial_view%29.png",
     "realGallery": [
@@ -41953,7 +41949,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tafa_Balewa_Square_%28Onikan%29_in_Lagos._Nigeria.jpg",
     "realGallery": [
@@ -42002,12 +41998,12 @@ const raw: Gen[] = [
     "countrySlug": "pakistan",
     "countryName": "Pakistan",
     "tagline": "A city in Pakistan",
-    "heroKey": "longtail",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Lahore_Fort_view_from_Baradari.jpg/1280px-Lahore_Fort_view_from_Baradari.jpg",
     "realGallery": [
@@ -42155,12 +42151,12 @@ const raw: Gen[] = [
     "countrySlug": "paraguay",
     "countryName": "Paraguay",
     "tagline": "A city in Paraguay",
-    "heroKey": "machuPicchu",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "machuPicchu",
       "mountains",
-      "temple",
-      "coast"
+      "coast",
+      "beach",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/0/00/Municipalidad_Lambare.JPG",
     "realGallery": [
@@ -42200,8 +42196,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "beach",
       "coast",
-      "longtail",
-      "maldives"
+      "mountains",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -42235,12 +42231,12 @@ const raw: Gen[] = [
     "countrySlug": "malaysia",
     "countryName": "Malaysia",
     "tagline": "A city in Malaysia",
-    "heroKey": "cityNight",
+    "heroKey": "coast",
     "galleryKeys": [
-      "cityNight",
-      "lantern",
-      "sahara",
-      "tokyo"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -42274,12 +42270,12 @@ const raw: Gen[] = [
     "countrySlug": "greece",
     "countryName": "Greece",
     "tagline": "A city in Greece",
-    "heroKey": "paris",
+    "heroKey": "coast",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
-      "coast"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -42388,12 +42384,12 @@ const raw: Gen[] = [
     "countrySlug": "cyprus",
     "countryName": "Cyprus",
     "tagline": "A city in Cyprus",
-    "heroKey": "santorini",
+    "heroKey": "beach",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Larnaca_01-2017_img27_Finikoudes.jpg/1280px-Larnaca_01-2017_img27_Finikoudes.jpg",
     "realGallery": [
@@ -42519,12 +42515,12 @@ const raw: Gen[] = [
     "countrySlug": "uruguay",
     "countryName": "Uruguay",
     "tagline": "A city in Uruguay",
-    "heroKey": "machuPicchu",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "machuPicchu",
       "mountains",
-      "temple",
-      "coast"
+      "coast",
+      "beach",
+      "temple"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -42558,12 +42554,12 @@ const raw: Gen[] = [
     "countrySlug": "united-states",
     "countryName": "United States",
     "tagline": "A city in United States",
-    "heroKey": "coast",
+    "heroKey": "food",
     "galleryKeys": [
-      "coast",
-      "alps",
-      "nyc",
-      "cityNight"
+      "food",
+      "cityNight",
+      "beach",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -42597,12 +42593,12 @@ const raw: Gen[] = [
     "countrySlug": "estonia",
     "countryName": "Estonia",
     "tagline": "A city in Estonia",
-    "heroKey": "rome",
+    "heroKey": "alps",
     "galleryKeys": [
-      "rome",
-      "venice",
-      "coast",
-      "santorini"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/3/3a/EU-EE-Tallinn-LAS-Mustakivi_and_Laagna.jpg",
     "realGallery": [
@@ -42640,11 +42636,11 @@ const raw: Gen[] = [
     "countrySlug": "syria",
     "countryName": "Syria",
     "tagline": "A city in Syria",
-    "heroKey": "longtail",
+    "heroKey": "food",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
+      "food",
+      "lantern",
+      "temple",
       "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Latakia_downtown_view_%28cropped%29.jpg/1280px-Latakia_downtown_view_%28cropped%29.jpg",
@@ -42759,12 +42755,12 @@ const raw: Gen[] = [
     "countrySlug": "suriname",
     "countryName": "Suriname",
     "tagline": "A city in Suriname",
-    "heroKey": "coast",
+    "heroKey": "temple",
     "galleryKeys": [
-      "coast",
-      "beach",
-      "machuPicchu",
-      "mountains"
+      "temple",
+      "food",
+      "mountains",
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -42798,12 +42794,12 @@ const raw: Gen[] = [
     "countrySlug": "switzerland",
     "countryName": "Switzerland",
     "tagline": "A city in Switzerland",
-    "heroKey": "eiffel",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "eiffel",
-      "colosseum",
-      "norway",
-      "greeceSea"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Lausanne_Wiki.jpg",
     "realGallery": [
@@ -42923,12 +42919,12 @@ const raw: Gen[] = [
     "countrySlug": "fiji",
     "countryName": "Fiji",
     "tagline": "A city in Fiji",
-    "heroKey": "mountains",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "mountains",
+      "cityNight",
       "beach",
       "coast",
-      "longtail"
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Lautoka-Vitogo-Parade.jpg/1280px-Lautoka-Vitogo-Parade.jpg",
     "realGallery": [
@@ -43026,12 +43022,12 @@ const raw: Gen[] = [
     "countrySlug": "united-kingdom",
     "countryName": "United Kingdom",
     "tagline": "A city in United Kingdom",
-    "heroKey": "coast",
+    "heroKey": "temple",
     "galleryKeys": [
+      "temple",
       "coast",
-      "santorini",
-      "eiffel",
-      "colosseum"
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Leeds_CBD_at_night.jpg/1280px-Leeds_CBD_at_night.jpg",
     "realGallery": [
@@ -43081,11 +43077,11 @@ const raw: Gen[] = [
     "countrySlug": "portugal",
     "countryName": "Portugal",
     "tagline": "A city in Portugal",
-    "heroKey": "paris",
+    "heroKey": "beach",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
+      "beach",
+      "food",
+      "temple",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Leiria_%2825746536508%29_%28cropped%29.jpg/1280px-Leiria_%2825746536508%29_%28cropped%29.jpg",
@@ -43154,12 +43150,12 @@ const raw: Gen[] = [
     "countrySlug": "nicaragua",
     "countryName": "Nicaragua",
     "tagline": "A city in Nicaragua",
-    "heroKey": "cityNight",
+    "heroKey": "food",
     "galleryKeys": [
+      "food",
       "cityNight",
       "beach",
-      "mountains",
-      "coast"
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -43193,12 +43189,12 @@ const raw: Gen[] = [
     "countrySlug": "andorra",
     "countryName": "Andorra",
     "tagline": "A city in Andorra",
-    "heroKey": "norway",
+    "heroKey": "food",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
-      "alps",
-      "paris"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hotel_Carlemany.jpg/1280px-Hotel_Carlemany.jpg",
     "realGallery": [
@@ -43235,12 +43231,12 @@ const raw: Gen[] = [
     "countrySlug": "czechia",
     "countryName": "Czechia",
     "tagline": "A city in Czechia",
-    "heroKey": "paris",
+    "heroKey": "food",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
-      "coast"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Liberec%2C_radnice%2C_v%C3%BDhled_01.jpg/1280px-Liberec%2C_radnice%2C_v%C3%BDhled_01.jpg",
     "realGallery": [
@@ -43350,12 +43346,12 @@ const raw: Gen[] = [
     "countrySlug": "costa-rica",
     "countryName": "Costa Rica",
     "tagline": "A city in Costa Rica",
-    "heroKey": "mountains",
+    "heroKey": "beach",
     "galleryKeys": [
+      "beach",
       "mountains",
       "coast",
-      "alps",
-      "nyc"
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Negroland_and_Guinea_with_the_European_Settlements%2C_1736.jpg/500px-Negroland_and_Guinea_with_the_European_Settlements%2C_1736.jpg",
     "realGallery": [
@@ -43398,8 +43394,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Libreville_frond_de_mer.jpg/1280px-Libreville_frond_de_mer.jpg",
@@ -43518,11 +43514,11 @@ const raw: Gen[] = [
     "countrySlug": "belgium",
     "countryName": "Belgium",
     "tagline": "A city in Belgium",
-    "heroKey": "paris",
+    "heroKey": "beach",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
+      "beach",
+      "food",
+      "temple",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Liege_View_03.jpg/1280px-Liege_View_03.jpg",
@@ -43655,12 +43651,12 @@ const raw: Gen[] = [
     "countrySlug": "latvia",
     "countryName": "Latvia",
     "tagline": "A city in Latvia",
-    "heroKey": "venice",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "venice",
-      "coast",
-      "santorini",
-      "eiffel"
+      "mountains",
+      "cityNight",
+      "alps",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Liepajas_Sveta_Jazepa_Romas_katolu_katedrale_2.jpg/1280px-Liepajas_Sveta_Jazepa_Romas_katolu_katedrale_2.jpg",
     "realGallery": [
@@ -43806,12 +43802,12 @@ const raw: Gen[] = [
     "countrySlug": "timor-leste",
     "countryName": "Timor-Leste",
     "tagline": "A city in Timor-Leste",
-    "heroKey": "longtail",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Fazenda_Algarve_-Distrito_de_Liqui%C3%A7%C3%A1.jpg/1280px-Fazenda_Algarve_-Distrito_de_Liqui%C3%A7%C3%A1.jpg",
     "realGallery": [
@@ -43849,10 +43845,10 @@ const raw: Gen[] = [
     "countrySlug": "malawi",
     "countryName": "Malawi",
     "tagline": "The capital of Malawi",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -43943,12 +43939,12 @@ const raw: Gen[] = [
     "countrySlug": "peru",
     "countryName": "Peru",
     "tagline": "The capital of Peru",
-    "heroKey": "mountains",
+    "heroKey": "coast",
     "galleryKeys": [
-      "mountains",
-      "temple",
       "coast",
-      "beach"
+      "beach",
+      "temple",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg/1280px-Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg",
     "realGallery": [
@@ -43988,12 +43984,12 @@ const raw: Gen[] = [
     "countrySlug": "cyprus",
     "countryName": "Cyprus",
     "tagline": "A city in Cyprus",
-    "heroKey": "greeceSea",
+    "heroKey": "temple",
     "galleryKeys": [
-      "greeceSea",
-      "alps",
-      "paris",
-      "rome"
+      "temple",
+      "coast",
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Skyscrapers_in_Limassol.jpg/1280px-Skyscrapers_in_Limassol.jpg",
     "realGallery": [
@@ -44111,12 +44107,12 @@ const raw: Gen[] = [
     "countrySlug": "ireland",
     "countryName": "Ireland",
     "tagline": "A city in Ireland",
-    "heroKey": "colosseum",
+    "heroKey": "beach",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
-      "alps"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Limerickcitycollage3.jpg/1280px-Limerickcitycollage3.jpg",
     "realGallery": [
@@ -44264,12 +44260,12 @@ const raw: Gen[] = [
     "countrySlug": "costa-rica",
     "countryName": "Costa Rica",
     "tagline": "A city in Costa Rica",
-    "heroKey": "beach",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "beach",
       "mountains",
       "coast",
-      "alps"
+      "food",
+      "cityNight"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -44303,12 +44299,12 @@ const raw: Gen[] = [
     "countrySlug": "guyana",
     "countryName": "Guyana",
     "tagline": "A city in Guyana",
-    "heroKey": "temple",
+    "heroKey": "beach",
     "galleryKeys": [
-      "temple",
-      "coast",
       "beach",
-      "machuPicchu"
+      "temple",
+      "food",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -44342,12 +44338,12 @@ const raw: Gen[] = [
     "countrySlug": "sweden",
     "countryName": "Sweden",
     "tagline": "A city in Sweden",
-    "heroKey": "greeceSea",
+    "heroKey": "alps",
     "galleryKeys": [
-      "greeceSea",
       "alps",
-      "paris",
-      "rome"
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Stora_torget%2C_Link%C3%B6ping%2C_juli_2005.jpg",
     "realGallery": [
@@ -44387,12 +44383,12 @@ const raw: Gen[] = [
     "countrySlug": "austria",
     "countryName": "Austria",
     "tagline": "A city in Austria",
-    "heroKey": "alps",
+    "heroKey": "cityNight",
     "galleryKeys": [
+      "cityNight",
       "alps",
-      "paris",
-      "rome",
-      "venice"
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Linz_Blick_von_Freinbergstrasse_32-2_%28cropped%29.jpg/1280px-Linz_Blick_von_Freinbergstrasse_32-2_%28cropped%29.jpg",
     "realGallery": [
@@ -44522,12 +44518,12 @@ const raw: Gen[] = [
     "countrySlug": "portugal",
     "countryName": "Portugal",
     "tagline": "The capital of Portugal",
-    "heroKey": "alps",
+    "heroKey": "beach",
     "galleryKeys": [
-      "alps",
-      "paris",
-      "rome",
-      "venice"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Lisboa_-_Portugal_%2852597836992%29.jpg/1280px-Lisboa_-_Portugal_%2852597836992%29.jpg",
     "realGallery": [
@@ -44570,9 +44566,9 @@ const raw: Gen[] = [
     "heroKey": "alps",
     "galleryKeys": [
       "alps",
-      "paris",
-      "rome",
-      "venice"
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ljubljana_Old_Town%2C_Slovenia_%28Old_Camera%29_%2833286165680%29.jpg/1280px-Ljubljana_Old_Town%2C_Slovenia_%28Old_Camera%29_%2833286165680%29.jpg",
     "realGallery": [
@@ -44717,7 +44713,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Parliament_building_of_Eswatini%2C_Lobamba.jpg/1280px-Parliament_building_of_Eswatini%2C_Lobamba.jpg",
     "realGallery": [
@@ -44793,12 +44789,12 @@ const raw: Gen[] = [
     "countrySlug": "poland",
     "countryName": "Poland",
     "tagline": "A city in Poland",
-    "heroKey": "eiffel",
+    "heroKey": "temple",
     "galleryKeys": [
-      "eiffel",
-      "colosseum",
-      "norway",
-      "greeceSea"
+      "temple",
+      "coast",
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ko%C5%9Bci%C3%B3%C5%82_Zes%C5%82ania_Ducha_%C5%9Awi%C4%99tego.jpg/1280px-Ko%C5%9Bci%C3%B3%C5%82_Zes%C5%82ania_Ducha_%C5%9Awi%C4%99tego.jpg",
     "realGallery": [
@@ -44922,10 +44918,10 @@ const raw: Gen[] = [
     "countrySlug": "togo",
     "countryName": "Togo",
     "tagline": "The capital of Togo",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -45047,12 +45043,12 @@ const raw: Gen[] = [
     "countrySlug": "united-kingdom",
     "countryName": "United Kingdom",
     "tagline": "The capital of United Kingdom",
-    "heroKey": "paris",
+    "heroKey": "food",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
-      "coast"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/1280px-London_Skyline_%28125508655%29.jpeg",
     "realGallery": [
@@ -45095,12 +45091,12 @@ const raw: Gen[] = [
     "countrySlug": "united-states",
     "countryName": "United States",
     "tagline": "A city in United States",
-    "heroKey": "cityNight",
+    "heroKey": "coast",
     "galleryKeys": [
+      "coast",
+      "food",
       "cityNight",
-      "beach",
-      "mountains",
-      "coast"
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/1280px-Hollywood_sign_%288485145044%29.jpg",
     "realGallery": [
@@ -45140,12 +45136,12 @@ const raw: Gen[] = [
     "countrySlug": "timor-leste",
     "countryName": "Timor-Leste",
     "tagline": "A city in Timor-Leste",
-    "heroKey": "dubai",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "dubai",
-      "cityNight",
-      "lantern",
-      "sahara"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Lospalos_klein.jpg/1280px-Lospalos_klein.jpg",
     "realGallery": [
@@ -45306,12 +45302,12 @@ const raw: Gen[] = [
     "countrySlug": "laos",
     "countryName": "Laos",
     "tagline": "A city in Laos",
-    "heroKey": "tokyo",
+    "heroKey": "temple",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
       "temple",
-      "phiPhi"
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -45348,8 +45344,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/5/57/Lubumbashi_Cathedral.jpg",
@@ -45432,12 +45428,12 @@ const raw: Gen[] = [
     "countrySlug": "bahamas",
     "countryName": "Bahamas",
     "tagline": "A city in Bahamas",
-    "heroKey": "nyc",
+    "heroKey": "beach",
     "galleryKeys": [
-      "nyc",
-      "cityNight",
       "beach",
-      "mountains"
+      "mountains",
+      "coast",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sheraton_Grand_Bahamas_Panorama.jpg/1280px-Sheraton_Grand_Bahamas_Panorama.jpg",
     "realGallery": [
@@ -45477,12 +45473,12 @@ const raw: Gen[] = [
     "countrySlug": "switzerland",
     "countryName": "Switzerland",
     "tagline": "A city in Switzerland",
-    "heroKey": "greeceSea",
+    "heroKey": "alps",
     "galleryKeys": [
-      "greeceSea",
       "alps",
-      "paris",
-      "rome"
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -45516,12 +45512,12 @@ const raw: Gen[] = [
     "countrySlug": "qatar",
     "countryName": "Qatar",
     "tagline": "A city in Qatar",
-    "heroKey": "phiPhi",
+    "heroKey": "temple",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "temple",
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lusail_City.jpg/1280px-Lusail_City.jpg",
     "realGallery": [
@@ -45802,9 +45798,9 @@ const raw: Gen[] = [
     "heroKey": "alps",
     "galleryKeys": [
       "alps",
-      "paris",
-      "rome",
-      "venice"
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Lushnj%C3%AB%2C_Albania_2019_14_%E2%80%93_Town_hall.jpg/1280px-Lushnj%C3%AB%2C_Albania_2019_14_%E2%80%93_Town_hall.jpg",
     "realGallery": [
@@ -45844,12 +45840,12 @@ const raw: Gen[] = [
     "countrySlug": "luxembourg",
     "countryName": "Luxembourg",
     "tagline": "The capital of Luxembourg",
-    "heroKey": "santorini",
+    "heroKey": "coast",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Codex_aureus_Epternacensis_folio_24_2.jpg/1280px-Codex_aureus_Epternacensis_folio_24_2.jpg",
     "realGallery": [
@@ -45889,9 +45885,9 @@ const raw: Gen[] = [
     "countrySlug": "egypt",
     "countryName": "Egypt",
     "tagline": "A city in Egypt",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -45928,12 +45924,12 @@ const raw: Gen[] = [
     "countrySlug": "ukraine",
     "countryName": "Ukraine",
     "tagline": "A city in Ukraine",
-    "heroKey": "eiffel",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "eiffel",
-      "colosseum",
-      "norway",
-      "greeceSea"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%28%D0%9B%D1%8C%D0%B2%D1%96%D0%B2%29_16.jpg/1280px-%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%28%D0%9B%D1%8C%D0%B2%D1%96%D0%B2%29_16.jpg",
     "realGallery": [
@@ -46076,12 +46072,12 @@ const raw: Gen[] = [
     "countrySlug": "france",
     "countryName": "France",
     "tagline": "A city in France",
-    "heroKey": "santorini",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "mountains",
+      "cityNight",
+      "alps",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Lyon-part-dieu-2023.jpg/1280px-Lyon-part-dieu-2023.jpg",
     "realGallery": [
@@ -46203,12 +46199,12 @@ const raw: Gen[] = [
     "countrySlug": "macau",
     "countryName": "Macau",
     "tagline": "The capital of Macau",
-    "heroKey": "tokyo",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
+      "lantern",
       "temple",
-      "phiPhi"
+      "cityNight",
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -46242,10 +46238,10 @@ const raw: Gen[] = [
     "countrySlug": "papua-new-guinea",
     "countryName": "Papua New Guinea",
     "tagline": "A city in Papua New Guinea",
-    "heroKey": "maldives",
+    "heroKey": "food",
     "galleryKeys": [
-      "maldives",
-      "mountains",
+      "food",
+      "cityNight",
       "beach",
       "coast"
     ],
@@ -46312,12 +46308,12 @@ const raw: Gen[] = [
     "countrySlug": "saudi-arabia",
     "countryName": "Saudi Arabia",
     "tagline": "A city in Saudi Arabia",
-    "heroKey": "sahara",
+    "heroKey": "coast",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Al-Masjid_An-Nabawi_%28Bird%27s_Eye_View%29.jpg/1280px-Al-Masjid_An-Nabawi_%28Bird%27s_Eye_View%29.jpg",
     "realGallery": [
@@ -46388,12 +46384,12 @@ const raw: Gen[] = [
     "countrySlug": "bahrain",
     "countryName": "Bahrain",
     "tagline": "A city in Bahrain",
-    "heroKey": "kyoto",
+    "heroKey": "temple",
     "galleryKeys": [
-      "kyoto",
       "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -46427,12 +46423,12 @@ const raw: Gen[] = [
     "countrySlug": "spain",
     "countryName": "Spain",
     "tagline": "The capital of Spain",
-    "heroKey": "coast",
+    "heroKey": "temple",
     "galleryKeys": [
+      "temple",
       "coast",
-      "santorini",
-      "eiffel",
-      "colosseum"
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Plaza_Mayor_De_Madrid_%28215862629%29_edited.jpeg/1280px-Plaza_Mayor_De_Madrid_%28215862629%29_edited.jpeg",
     "realGallery": [
@@ -46480,10 +46476,10 @@ const raw: Gen[] = [
     "countrySlug": "lesotho",
     "countryName": "Lesotho",
     "tagline": "A city in Lesotho",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -46535,8 +46531,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/99/Mahajanga_cathedrale.jpg",
@@ -46625,12 +46621,12 @@ const raw: Gen[] = [
     "countrySlug": "sri-lanka",
     "countryName": "Sri Lanka",
     "tagline": "A city in Sri Lanka",
-    "heroKey": "fujiLake",
+    "heroKey": "coast",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
-      "cityNight",
-      "lantern"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Maharagama_Vesak_Pandol_2023_-_%E0%B6%B8%E0%B7%84%E0%B6%BB%E0%B6%9C%E0%B6%B8_%E0%B7%80%E0%B7%99%E0%B7%83%E0%B6%9A%E0%B7%8A_%E0%B6%AD%E0%B7%9C%E0%B6%BB%E0%B6%AB_2023.jpg/500px-Maharagama_Vesak_Pandol_2023_-_%E0%B6%B8%E0%B7%84%E0%B6%BB%E0%B6%9C%E0%B6%B8_%E0%B7%80%E0%B7%99%E0%B7%83%E0%B6%9A%E0%B7%8A_%E0%B6%AD%E0%B7%9C%E0%B6%BB%E0%B6%AB_2023.jpg",
     "realGallery": [
@@ -46667,12 +46663,12 @@ const raw: Gen[] = [
     "countrySlug": "belarus",
     "countryName": "Belarus",
     "tagline": "A city in Belarus",
-    "heroKey": "colosseum",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
-      "alps"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Mahilio%C5%AD%2C_ratu%C5%A1a._%D0%9C%D0%B0%D0%B3%D1%96%D0%BB%D1%91%D1%9E%2C_%D1%80%D0%B0%D1%82%D1%83%D1%88%D0%B0_%282020%29.jpg/1280px-Mahilio%C5%AD%2C_ratu%C5%A1a._%D0%9C%D0%B0%D0%B3%D1%96%D0%BB%D1%91%D1%9E%2C_%D1%80%D0%B0%D1%82%D1%83%D1%88%D0%B0_%282020%29.jpg",
     "realGallery": [
@@ -46715,8 +46711,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/View_over_Luanda_6.JPG/1280px-View_over_Luanda_6.JPG",
@@ -46754,12 +46750,12 @@ const raw: Gen[] = [
     "countrySlug": "chile",
     "countryName": "Chile",
     "tagline": "A city in Chile",
-    "heroKey": "machuPicchu",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "machuPicchu",
       "mountains",
-      "temple",
-      "coast"
+      "coast",
+      "beach",
+      "temple"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -46841,12 +46837,11 @@ const raw: Gen[] = [
     "galleryKeys": [
       "beach",
       "coast",
-      "longtail",
-      "maldives"
+      "mountains",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Eneko_Islet_02.JPG/1280px-Eneko_Islet_02.JPG",
     "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Republic_of_the_Marshall_Islands_Capitol_Building.gif/330px-Republic_of_the_Marshall_Islands_Capitol_Building.gif",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Eneko_Islet_02.JPG/1280px-Eneko_Islet_02.JPG",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Welcome_to_Majaro.jpg/1280px-Welcome_to_Majaro.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Alele_Museum_Aussenansicht.JPG/1280px-Alele_Museum_Aussenansicht.JPG",
@@ -46995,12 +46990,12 @@ const raw: Gen[] = [
     "countrySlug": "saudi-arabia",
     "countryName": "Saudi Arabia",
     "tagline": "A city in Saudi Arabia",
-    "heroKey": "longtail",
+    "heroKey": "temple",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "temple",
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Great_Mosque_of_Mecca1.jpg/1280px-Great_Mosque_of_Mecca1.jpg",
     "realGallery": [
@@ -47125,9 +47120,9 @@ const raw: Gen[] = [
     "countrySlug": "equatorial-guinea",
     "countryName": "Equatorial Guinea",
     "tagline": "The capital of Equatorial Guinea",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -47223,12 +47218,12 @@ const raw: Gen[] = [
     "countrySlug": "spain",
     "countryName": "Spain",
     "tagline": "A city in Spain",
-    "heroKey": "eiffel",
+    "heroKey": "coast",
     "galleryKeys": [
-      "eiffel",
-      "colosseum",
-      "norway",
-      "greeceSea"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Da_Gibralfaro_%28cropped%292.jpg/1280px-Da_Gibralfaro_%28cropped%292.jpg",
     "realGallery": [
@@ -47338,8 +47333,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/c/cf/South_Sudan_Malakal_Marketplace_Aug_2005.jpg",
     "realGallery": [
@@ -47379,12 +47374,12 @@ const raw: Gen[] = [
     "countrySlug": "armenia",
     "countryName": "Armenia",
     "tagline": "A city in Armenia",
-    "heroKey": "cityNight",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "cityNight",
       "lantern",
-      "sahara",
-      "tokyo"
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Malatia_Sebastia%2C_general_view.jpg/1280px-Malatia_Sebastia%2C_general_view.jpg",
     "realGallery": [
@@ -47424,12 +47419,12 @@ const raw: Gen[] = [
     "countrySlug": "uruguay",
     "countryName": "Uruguay",
     "tagline": "A city in Uruguay",
-    "heroKey": "beach",
+    "heroKey": "food",
     "galleryKeys": [
-      "beach",
-      "machuPicchu",
+      "food",
       "mountains",
-      "temple"
+      "coast",
+      "beach"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -47494,9 +47489,9 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "phiPhi",
-      "longtail",
-      "fujiLake"
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -47611,12 +47606,12 @@ const raw: Gen[] = [
     "countrySlug": "timor-leste",
     "countryName": "Timor-Leste",
     "tagline": "A city in Timor-Leste",
-    "heroKey": "temple",
+    "heroKey": "beach",
     "galleryKeys": [
-      "temple",
-      "phiPhi",
-      "longtail",
-      "fujiLake"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/7/7e/2022-02-19_Mercado_Maliana.jpg",
     "realGallery": [
@@ -47682,12 +47677,12 @@ const raw: Gen[] = [
     "countrySlug": "sweden",
     "countryName": "Sweden",
     "tagline": "A city in Sweden",
-    "heroKey": "coast",
+    "heroKey": "beach",
     "galleryKeys": [
-      "coast",
-      "santorini",
-      "eiffel",
-      "colosseum"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Malm%C3%B6%E2%80%93flygbild_06_september_2014.jpg/1280px-Malm%C3%B6%E2%80%93flygbild_06_september_2014.jpg",
     "realGallery": [
@@ -47820,12 +47815,12 @@ const raw: Gen[] = [
     "countrySlug": "nicaragua",
     "countryName": "Nicaragua",
     "tagline": "The capital of Nicaragua",
-    "heroKey": "cityNight",
+    "heroKey": "coast",
     "galleryKeys": [
+      "coast",
+      "food",
       "cityNight",
-      "beach",
-      "mountains",
-      "coast"
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/c/c3/%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%B2_%D0%9C%D0%B0%D0%BD%D0%B0%D0%B3%D1%83%D0%B0_%28cropped%29.jpg",
     "realGallery": [
@@ -47960,12 +47955,12 @@ const raw: Gen[] = [
     "countrySlug": "bahrain",
     "countryName": "Bahrain",
     "tagline": "The capital of Bahrain",
-    "heroKey": "temple",
+    "heroKey": "beach",
     "galleryKeys": [
-      "temple",
-      "phiPhi",
-      "longtail",
-      "fujiLake"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Manama%2C_Bahrain_Decembre_2014.jpg/1280px-Manama%2C_Bahrain_Decembre_2014.jpg",
     "realGallery": [
@@ -48104,12 +48099,12 @@ const raw: Gen[] = [
     "countrySlug": "kyrgyzstan",
     "countryName": "Kyrgyzstan",
     "tagline": "A city in Kyrgyzstan",
-    "heroKey": "phiPhi",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -48177,12 +48172,12 @@ const raw: Gen[] = [
     "countrySlug": "brazil",
     "countryName": "Brazil",
     "tagline": "A city in Brazil",
-    "heroKey": "coast",
+    "heroKey": "temple",
     "galleryKeys": [
-      "coast",
-      "beach",
-      "machuPicchu",
-      "mountains"
+      "temple",
+      "food",
+      "mountains",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Manaus_amazonas.jpg/1280px-Manaus_amazonas.jpg",
     "realGallery": [
@@ -48287,12 +48282,12 @@ const raw: Gen[] = [
     "countrySlug": "united-kingdom",
     "countryName": "United Kingdom",
     "tagline": "A city in United Kingdom",
-    "heroKey": "paris",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
-      "coast"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Tower_Blocks_over_Knott_Mill%2C_geograph_6866152_by_David_Dixon.jpg",
     "realGallery": [
@@ -48336,12 +48331,12 @@ const raw: Gen[] = [
     "countrySlug": "myanmar",
     "countryName": "Myanmar",
     "tagline": "A city in Myanmar",
-    "heroKey": "temple",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "temple",
-      "phiPhi",
-      "longtail",
-      "fujiLake"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mandalay_-_The_worship_of_Buddha.jpg/1280px-Mandalay_-_The_worship_of_Buddha.jpg",
     "realGallery": [
@@ -48469,12 +48464,12 @@ const raw: Gen[] = [
     "countrySlug": "jamaica",
     "countryName": "Jamaica",
     "tagline": "A city in Jamaica",
-    "heroKey": "beach",
+    "heroKey": "cityNight",
     "galleryKeys": [
+      "cityNight",
       "beach",
       "mountains",
-      "coast",
-      "alps"
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -48513,7 +48508,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -48547,12 +48542,12 @@ const raw: Gen[] = [
     "countrySlug": "philippines",
     "countryName": "Philippines",
     "tagline": "The capital of Philippines",
-    "heroKey": "phiPhi",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cityscape_of_Manila%2C_2025_%2801%29.jpg/1280px-Cityscape_of_Manila%2C_2025_%2801%29.jpg",
     "realGallery": [
@@ -48618,10 +48613,10 @@ const raw: Gen[] = [
     "countrySlug": "new-zealand",
     "countryName": "New Zealand",
     "tagline": "A city in New Zealand",
-    "heroKey": "maldives",
+    "heroKey": "food",
     "galleryKeys": [
-      "maldives",
-      "mountains",
+      "food",
+      "cityNight",
       "beach",
       "coast"
     ],
@@ -48664,7 +48659,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/7/7e/SZ-manzini-zufahrt.jpg",
     "realGallery": [
@@ -48716,8 +48711,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Maputo_seen_from_southeast_-_October_2006_%28cropped%29.jpg/1280px-Maputo_seen_from_southeast_-_October_2006_%28cropped%29.jpg",
@@ -48846,9 +48841,9 @@ const raw: Gen[] = [
     "countrySlug": "lesotho",
     "countryName": "Lesotho",
     "tagline": "A city in Lesotho",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -48885,12 +48880,12 @@ const raw: Gen[] = [
     "countrySlug": "argentina",
     "countryName": "Argentina",
     "tagline": "A city in Argentina",
-    "heroKey": "beach",
+    "heroKey": "food",
     "galleryKeys": [
-      "beach",
-      "machuPicchu",
+      "food",
       "mountains",
-      "temple"
+      "coast",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/88/PT_TORREON3.jpg",
     "realGallery": [
@@ -48957,12 +48952,12 @@ const raw: Gen[] = [
     "countrySlug": "venezuela",
     "countryName": "Venezuela",
     "tagline": "A city in Venezuela",
-    "heroKey": "mountains",
+    "heroKey": "coast",
     "galleryKeys": [
-      "mountains",
-      "temple",
       "coast",
-      "beach"
+      "beach",
+      "temple",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora_de_la_Chiquinquira.jpg/1280px-Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora_de_la_Chiquinquira.jpg",
     "realGallery": [
@@ -49076,7 +49071,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -49129,12 +49124,12 @@ const raw: Gen[] = [
     "countrySlug": "slovenia",
     "countryName": "Slovenia",
     "tagline": "A city in Slovenia",
-    "heroKey": "greeceSea",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "greeceSea",
+      "mountains",
+      "cityNight",
       "alps",
-      "paris",
-      "rome"
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Mariborski_Glavni_trg.jpg/1280px-Mariborski_Glavni_trg.jpg",
     "realGallery": [
@@ -49243,9 +49238,9 @@ const raw: Gen[] = [
     "countrySlug": "somalia",
     "countryName": "Somalia",
     "tagline": "A city in Somalia",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -49282,10 +49277,10 @@ const raw: Gen[] = [
     "countrySlug": "cameroon",
     "countryName": "Cameroon",
     "tagline": "A city in Cameroon",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -49391,7 +49386,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -49428,8 +49423,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Pavillon_Menarag%C3%A4rten.jpg",
@@ -49565,12 +49560,12 @@ const raw: Gen[] = [
     "countrySlug": "france",
     "countryName": "France",
     "tagline": "A city in France",
-    "heroKey": "greeceSea",
+    "heroKey": "food",
     "galleryKeys": [
-      "greeceSea",
-      "alps",
-      "paris",
-      "rome"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Notre-Dame_de_la_Garde_aerial_view_2020.jpeg/1280px-Notre-Dame_de_la_Garde_aerial_view_2020.jpeg",
     "realGallery": [
@@ -49674,12 +49669,12 @@ const raw: Gen[] = [
     "countrySlug": "turkmenistan",
     "countryName": "Turkmenistan",
     "tagline": "A city in Turkmenistan",
-    "heroKey": "tokyo",
+    "heroKey": "coast",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
-      "temple",
-      "phiPhi"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -49765,12 +49760,12 @@ const raw: Gen[] = [
     "countrySlug": "nicaragua",
     "countryName": "Nicaragua",
     "tagline": "A city in Nicaragua",
-    "heroKey": "cityNight",
+    "heroKey": "coast",
     "galleryKeys": [
+      "coast",
+      "food",
       "cityNight",
-      "beach",
-      "mountains",
-      "coast"
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Masaya_church_in_the_Central_Park.jpg/1280px-Masaya_church_in_the_Central_Park.jpg",
     "realGallery": [
@@ -49825,8 +49820,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Maseru_City_CBD.jpg/1280px-Maseru_City_CBD.jpg",
     "realGallery": [
@@ -49899,12 +49894,12 @@ const raw: Gen[] = [
     "countrySlug": "iran",
     "countryName": "Iran",
     "tagline": "A city in Iran",
-    "heroKey": "fujiLake",
+    "heroKey": "coast",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
-      "cityNight",
-      "lantern"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Tomb-of-Ferdowsi_%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87-%D9%81%D8%B1%D8%AF%D9%88%D8%B3%DB%8C_Davoud-Davoudi_1.jpg/1280px-Tomb-of-Ferdowsi_%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87-%D9%81%D8%B1%D8%AF%D9%88%D8%B3%DB%8C_Davoud-Davoudi_1.jpg",
     "realGallery": [
@@ -50066,12 +50061,12 @@ const raw: Gen[] = [
     "countrySlug": "nicaragua",
     "countryName": "Nicaragua",
     "tagline": "A city in Nicaragua",
-    "heroKey": "cityNight",
+    "heroKey": "beach",
     "galleryKeys": [
-      "cityNight",
       "beach",
       "mountains",
-      "coast"
+      "coast",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Matagalpa080408c.jpg/1280px-Matagalpa080408c.jpg",
     "realGallery": [
@@ -50124,7 +50119,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Antigo_edif%C3%ADcio_do_Conselho_Municipal_da_Matola.jpg",
     "realGallery": [
@@ -50241,12 +50236,12 @@ const raw: Gen[] = [
     "countrySlug": "myanmar",
     "countryName": "Myanmar",
     "tagline": "A city in Myanmar",
-    "heroKey": "fujiLake",
+    "heroKey": "temple",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
+      "temple",
       "cityNight",
-      "lantern"
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kyaikthanlan_Pagoda-15.jpg/1280px-Kyaikthanlan_Pagoda-15.jpg",
     "realGallery": [
@@ -50370,12 +50365,12 @@ const raw: Gen[] = [
     "countrySlug": "afghanistan",
     "countryName": "Afghanistan",
     "tagline": "A city in Afghanistan",
-    "heroKey": "dubai",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "dubai",
       "cityNight",
-      "lantern",
-      "sahara"
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/5/55/Nowruz_in_northern_Afghanistan-2011_%28cropped%29.jpg",
     "realGallery": [
@@ -50454,8 +50449,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Mbabane_%286035476964%29.jpg/1280px-Mbabane_%286035476964%29.jpg",
@@ -50520,9 +50515,9 @@ const raw: Gen[] = [
     "countrySlug": "uganda",
     "countryName": "Uganda",
     "tagline": "A city in Uganda",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -50649,9 +50644,9 @@ const raw: Gen[] = [
     "countrySlug": "tanzania",
     "countryName": "Tanzania",
     "tagline": "A city in Tanzania",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -50768,7 +50763,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Mbuji-Mayi.jpg/1280px-Mbuji-Mayi.jpg",
     "realGallery": [
@@ -50813,12 +50808,12 @@ const raw: Gen[] = [
     "countrySlug": "saudi-arabia",
     "countryName": "Saudi Arabia",
     "tagline": "A city in Saudi Arabia",
-    "heroKey": "longtail",
+    "heroKey": "beach",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -50852,12 +50847,12 @@ const raw: Gen[] = [
     "countrySlug": "indonesia",
     "countryName": "Indonesia",
     "tagline": "A city in Indonesia",
-    "heroKey": "temple",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "temple",
-      "phiPhi",
-      "longtail",
-      "fujiLake"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Great_mosque_in_Medan_cropped.jpg/1280px-Great_mosque_in_Medan_cropped.jpg",
     "realGallery": [
@@ -51009,12 +51004,12 @@ const raw: Gen[] = [
     "countrySlug": "colombia",
     "countryName": "Colombia",
     "tagline": "A city in Colombia",
-    "heroKey": "temple",
+    "heroKey": "beach",
     "galleryKeys": [
-      "temple",
-      "coast",
       "beach",
-      "machuPicchu"
+      "temple",
+      "food",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/e4/El_Poblado_Medell%C3%ADn.jpg",
     "realGallery": [
@@ -51122,12 +51117,12 @@ const raw: Gen[] = [
     "countrySlug": "saudi-arabia",
     "countryName": "Saudi Arabia",
     "tagline": "A city in Saudi Arabia",
-    "heroKey": "kyoto",
+    "heroKey": "coast",
     "galleryKeys": [
-      "kyoto",
-      "temple",
-      "phiPhi",
-      "longtail"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -51161,12 +51156,12 @@ const raw: Gen[] = [
     "countrySlug": "el-salvador",
     "countryName": "El Salvador",
     "tagline": "A city in El Salvador",
-    "heroKey": "nyc",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "nyc",
       "cityNight",
       "beach",
-      "mountains"
+      "mountains",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Mejicanos_El_Salvador_2012.jpg/1280px-Mejicanos_El_Salvador_2012.jpg",
     "realGallery": [
@@ -51203,9 +51198,9 @@ const raw: Gen[] = [
     "countrySlug": "ethiopia",
     "countryName": "Ethiopia",
     "tagline": "A city in Ethiopia",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -51252,8 +51247,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "beach",
       "coast",
-      "longtail",
-      "maldives"
+      "mountains",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Melbourne_skyline_sor.jpg/1280px-Melbourne_skyline_sor.jpg",
     "realGallery": [
@@ -51300,8 +51295,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Road_signs_in_Mendefera_-_Eritrea.JPG/1280px-Road_signs_in_Mendefera_-_Eritrea.JPG",
     "realGallery": [
@@ -51337,12 +51332,12 @@ const raw: Gen[] = [
     "countrySlug": "brunei",
     "countryName": "Brunei",
     "tagline": "A city in Brunei",
-    "heroKey": "fujiLake",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
+      "lantern",
+      "temple",
       "cityNight",
-      "lantern"
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Kampong_Mentiri.jpg/1280px-Kampong_Mentiri.jpg",
     "realGallery": [
@@ -51379,12 +51374,12 @@ const raw: Gen[] = [
     "countrySlug": "mexico",
     "countryName": "Mexico",
     "tagline": "The capital of Mexico",
-    "heroKey": "coast",
+    "heroKey": "beach",
     "galleryKeys": [
+      "beach",
+      "mountains",
       "coast",
-      "alps",
-      "nyc",
-      "cityNight"
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg/1280px-Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg",
     "realGallery": [
@@ -51445,12 +51440,12 @@ const raw: Gen[] = [
     "countrySlug": "united-states",
     "countryName": "United States",
     "tagline": "A city in United States",
-    "heroKey": "coast",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "coast",
-      "alps",
-      "nyc",
-      "cityNight"
+      "cityNight",
+      "beach",
+      "mountains",
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -51484,12 +51479,12 @@ const raw: Gen[] = [
     "countrySlug": "italy",
     "countryName": "Italy",
     "tagline": "A city in Italy",
-    "heroKey": "coast",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "coast",
-      "santorini",
-      "eiffel",
-      "colosseum"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Milan_Cathedral_from_Piazza_del_Duomo.jpg/1280px-Milan_Cathedral_from_Piazza_del_Duomo.jpg",
     "realGallery": [
@@ -51536,7 +51531,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/3/34/2006.07.12.cv.sv.mindelo.palacio.jpg",
     "realGallery": [
@@ -51637,12 +51632,12 @@ const raw: Gen[] = [
     "countrySlug": "azerbaijan",
     "countryName": "Azerbaijan",
     "tagline": "A city in Azerbaijan",
-    "heroKey": "dubai",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "dubai",
-      "cityNight",
       "lantern",
-      "sahara"
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/K%C3%BCr_%C3%A7ay%C4%B1n%C4%B1n_Ming%C9%99%C3%A7evird%C9%99n_ke%C3%A7%C9%99n_hiss%C9%99si.jpg/1280px-K%C3%BCr_%C3%A7ay%C4%B1n%C4%B1n_Ming%C9%99%C3%A7evird%C9%99n_ke%C3%A7%C9%99n_hiss%C9%99si.jpg",
     "realGallery": [
@@ -51682,12 +51677,12 @@ const raw: Gen[] = [
     "countrySlug": "belarus",
     "countryName": "Belarus",
     "tagline": "The capital of Belarus",
-    "heroKey": "santorini",
+    "heroKey": "beach",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/View_of_Minsk_%28180819%29_09.jpg/1280px-View_of_Minsk_%28180819%29_09.jpg",
     "realGallery": [
@@ -51849,12 +51844,12 @@ const raw: Gen[] = [
     "countrySlug": "hungary",
     "countryName": "Hungary",
     "tagline": "A city in Hungary",
-    "heroKey": "greeceSea",
+    "heroKey": "alps",
     "galleryKeys": [
-      "greeceSea",
       "alps",
-      "paris",
-      "rome"
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Miskolc_Montage.jpg/1280px-Miskolc_Montage.jpg",
     "realGallery": [
@@ -52006,10 +52001,10 @@ const raw: Gen[] = [
     "countrySlug": "libya",
     "countryName": "Libya",
     "tagline": "A city in Libya",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -52053,9 +52048,9 @@ const raw: Gen[] = [
     "countrySlug": "guinea-bissau",
     "countryName": "Guinea-Bissau",
     "tagline": "A city in Guinea-Bissau",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -52092,12 +52087,12 @@ const raw: Gen[] = [
     "countrySlug": "guatemala",
     "countryName": "Guatemala",
     "tagline": "A city in Guatemala",
-    "heroKey": "alps",
+    "heroKey": "food",
     "galleryKeys": [
-      "alps",
-      "nyc",
+      "food",
       "cityNight",
-      "beach"
+      "beach",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Paso_a_Desnivel_Ruta_Interamericana_CA-1.jpg/1280px-Paso_a_Desnivel_Ruta_Interamericana_CA-1.jpg",
     "realGallery": [
@@ -52137,9 +52132,9 @@ const raw: Gen[] = [
     "countrySlug": "gabon",
     "countryName": "Gabon",
     "tagline": "A city in Gabon",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -52294,8 +52289,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Pula_spar_mogoditshane_road.jpg/1280px-Pula_spar_mogoditshane_road.jpg",
@@ -52335,8 +52330,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Mohales_Hoek%2C_Lesotho_-_panoramio.jpg/1280px-Mohales_Hoek%2C_Lesotho_-_panoramio.jpg",
@@ -52378,7 +52373,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/New_Molepolole_Shopping_Mall.jpg/1280px-New_Molepolole_Shopping_Mall.jpg",
     "realGallery": [
@@ -52421,8 +52416,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Mombasa_Island.jpg/1280px-Mombasa_Island.jpg",
@@ -52580,12 +52575,12 @@ const raw: Gen[] = [
     "countrySlug": "trinidad-and-tobago",
     "countryName": "Trinidad and Tobago",
     "tagline": "A city in Trinidad and Tobago",
-    "heroKey": "alps",
+    "heroKey": "food",
     "galleryKeys": [
-      "alps",
-      "nyc",
+      "food",
       "cityNight",
-      "beach"
+      "beach",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -52619,12 +52614,12 @@ const raw: Gen[] = [
     "countrySlug": "monaco",
     "countryName": "Monaco",
     "tagline": "The capital of Monaco",
-    "heroKey": "coast",
+    "heroKey": "food",
     "galleryKeys": [
+      "food",
+      "temple",
       "coast",
-      "santorini",
-      "eiffel",
-      "colosseum"
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Raniero_I_de_M%C3%B3naco.jpg/500px-Raniero_I_de_M%C3%B3naco.jpg",
     "realGallery": [
@@ -52726,10 +52721,10 @@ const raw: Gen[] = [
     "countrySlug": "liberia",
     "countryName": "Liberia",
     "tagline": "The capital of Liberia",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -52827,12 +52822,12 @@ const raw: Gen[] = [
     "countrySlug": "monaco",
     "countryName": "Monaco",
     "tagline": "A city in Monaco",
-    "heroKey": "norway",
+    "heroKey": "coast",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
-      "alps",
-      "paris"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Panorama_von_Monaco-La_Turbie.jpg/1280px-Panorama_von_Monaco-La_Turbie.jpg",
     "realGallery": [
@@ -52872,12 +52867,12 @@ const raw: Gen[] = [
     "countrySlug": "jamaica",
     "countryName": "Jamaica",
     "tagline": "A city in Jamaica",
-    "heroKey": "alps",
+    "heroKey": "beach",
     "galleryKeys": [
-      "alps",
-      "nyc",
-      "cityNight",
-      "beach"
+      "beach",
+      "mountains",
+      "coast",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Montego_Bay_Photo_Don_Ramey_Logan.jpg/1280px-Montego_Bay_Photo_Don_Ramey_Logan.jpg",
     "realGallery": [
@@ -52995,12 +52990,12 @@ const raw: Gen[] = [
     "countrySlug": "uruguay",
     "countryName": "Uruguay",
     "tagline": "The capital of Uruguay",
-    "heroKey": "temple",
+    "heroKey": "beach",
     "galleryKeys": [
-      "temple",
-      "coast",
       "beach",
-      "machuPicchu"
+      "temple",
+      "food",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/PALACIO_LEGISLATIVO_01.JPG/1280px-PALACIO_LEGISLATIVO_01.JPG",
     "realGallery": [
@@ -53109,10 +53104,10 @@ const raw: Gen[] = [
     "countrySlug": "canada",
     "countryName": "Canada",
     "tagline": "A city in Canada",
-    "heroKey": "alps",
+    "heroKey": "coast",
     "galleryKeys": [
-      "alps",
-      "nyc",
+      "coast",
+      "food",
       "cityNight",
       "beach"
     ],
@@ -53186,8 +53181,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mopti_053.jpg/1280px-Mopti_053.jpg",
     "realGallery": [
@@ -53229,12 +53224,12 @@ const raw: Gen[] = [
     "countrySlug": "sri-lanka",
     "countryName": "Sri Lanka",
     "tagline": "A city in Sri Lanka",
-    "heroKey": "sahara",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/MoratuwaBahnhof.jpg/250px-MoratuwaBahnhof.jpg",
     "realGallery": [
@@ -53274,12 +53269,12 @@ const raw: Gen[] = [
     "countrySlug": "mongolia",
     "countryName": "Mongolia",
     "tagline": "A city in Mongolia",
-    "heroKey": "lantern",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "lantern",
-      "sahara",
-      "tokyo",
-      "kyoto"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -53316,8 +53311,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": null,
@@ -53352,12 +53347,12 @@ const raw: Gen[] = [
     "countrySlug": "russia",
     "countryName": "Russia",
     "tagline": "The capital of Russia",
-    "heroKey": "greeceSea",
+    "heroKey": "coast",
     "galleryKeys": [
-      "greeceSea",
-      "alps",
-      "paris",
-      "rome"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg/1280px-Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg",
     "realGallery": [
@@ -53397,12 +53392,12 @@ const raw: Gen[] = [
     "countrySlug": "malta",
     "countryName": "Malta",
     "tagline": "A city in Malta",
-    "heroKey": "venice",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "venice",
-      "coast",
-      "santorini",
-      "eiffel"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mosta_Dome_4_%286946839125%29.jpg/1280px-Mosta_Dome_4_%286946839125%29.jpg",
     "realGallery": [
@@ -53442,12 +53437,12 @@ const raw: Gen[] = [
     "countrySlug": "bosnia-and-herzegovina",
     "countryName": "Bosnia and Herzegovina",
     "tagline": "A city in Bosnia and Herzegovina",
-    "heroKey": "greeceSea",
+    "heroKey": "food",
     "galleryKeys": [
-      "greeceSea",
-      "alps",
-      "paris",
-      "rome"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Stari_Most_viewed_from_North.jpg/1280px-Stari_Most_viewed_from_North.jpg",
     "realGallery": [
@@ -53572,12 +53567,12 @@ const raw: Gen[] = [
     "countrySlug": "iraq",
     "countryName": "Iraq",
     "tagline": "A city in Iraq",
-    "heroKey": "fujiLake",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
       "cityNight",
-      "lantern"
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/80/%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84.jpg",
     "realGallery": [
@@ -53675,10 +53670,10 @@ const raw: Gen[] = [
     "countrySlug": "chad",
     "countryName": "Chad",
     "tagline": "A city in Chad",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -53725,11 +53720,11 @@ const raw: Gen[] = [
     "countrySlug": "papua-new-guinea",
     "countryName": "Papua New Guinea",
     "tagline": "A city in Papua New Guinea",
-    "heroKey": "longtail",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "longtail",
-      "maldives",
       "mountains",
+      "food",
+      "cityNight",
       "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Mt_Hagen_Cultural_Show_PNG_2008.jpg",
@@ -53789,7 +53784,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Mutsamudu_port1.jpg/1280px-Mutsamudu_port1.jpg",
     "realGallery": [
@@ -53829,10 +53824,10 @@ const raw: Gen[] = [
     "countrySlug": "burundi",
     "countryName": "Burundi",
     "tagline": "A city in Burundi",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -53890,12 +53885,12 @@ const raw: Gen[] = [
     "countrySlug": "thailand",
     "countryName": "Thailand",
     "tagline": "A city in Thailand",
-    "heroKey": "fujiLake",
+    "heroKey": "beach",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
-      "cityNight",
-      "lantern"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -54022,12 +54017,12 @@ const raw: Gen[] = [
     "countrySlug": "yemen",
     "countryName": "Yemen",
     "tagline": "A city in Yemen",
-    "heroKey": "dubai",
+    "heroKey": "beach",
     "galleryKeys": [
-      "dubai",
-      "cityNight",
+      "beach",
+      "food",
       "lantern",
-      "sahara"
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Khor_al-Mukalla.jpg/1280px-Khor_al-Mukalla.jpg",
     "realGallery": [
@@ -54112,10 +54107,10 @@ const raw: Gen[] = [
     "countrySlug": "angola",
     "countryName": "Angola",
     "tagline": "A city in Angola",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -54151,12 +54146,12 @@ const raw: Gen[] = [
     "countrySlug": "india",
     "countryName": "India",
     "tagline": "A city in India",
-    "heroKey": "longtail",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mumbai_Bandra-Worli_Sea_Link.jpg/1280px-Mumbai_Bandra-Worli_Sea_Link.jpg",
     "realGallery": [
@@ -54196,12 +54191,12 @@ const raw: Gen[] = [
     "countrySlug": "germany",
     "countryName": "Germany",
     "tagline": "A city in Germany",
-    "heroKey": "venice",
+    "heroKey": "alps",
     "galleryKeys": [
-      "venice",
-      "coast",
-      "santorini",
-      "eiffel"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Stadtbild_M%C3%BCnchen.jpg/1280px-Stadtbild_M%C3%BCnchen.jpg",
     "realGallery": [
@@ -54334,12 +54329,12 @@ const raw: Gen[] = [
     "countrySlug": "oman",
     "countryName": "Oman",
     "tagline": "The capital of Oman",
-    "heroKey": "dubai",
+    "heroKey": "coast",
     "galleryKeys": [
-      "dubai",
-      "cityNight",
-      "lantern",
-      "sahara"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Al_Alam_Palace.jpg/1280px-Al_Alam_Palace.jpg",
     "realGallery": [
@@ -54489,12 +54484,12 @@ const raw: Gen[] = [
     "countrySlug": "estonia",
     "countryName": "Estonia",
     "tagline": "A city in Estonia",
-    "heroKey": "santorini",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "mountains",
+      "cityNight",
+      "alps",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mustam%C3%A4e_Linnaosa_Valitsus.jpg/1280px-Mustam%C3%A4e_Linnaosa_Valitsus.jpg",
     "realGallery": [
@@ -54534,9 +54529,9 @@ const raw: Gen[] = [
     "countrySlug": "zimbabwe",
     "countryName": "Zimbabwe",
     "tagline": "A city in Zimbabwe",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -54621,7 +54616,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bismarck_Rock.jpg/1280px-Bismarck_Rock.jpg",
     "realGallery": [
@@ -54710,12 +54705,12 @@ const raw: Gen[] = [
     "countrySlug": "greece",
     "countryName": "Greece",
     "tagline": "A city in Greece",
-    "heroKey": "colosseum",
+    "heroKey": "alps",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
-      "alps"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -54836,10 +54831,10 @@ const raw: Gen[] = [
     "countrySlug": "chad",
     "countryName": "Chad",
     "tagline": "The capital of Chad",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -54926,8 +54921,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "beach",
       "coast",
-      "longtail",
-      "maldives"
+      "mountains",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/83/Nadi.jpg",
     "realGallery": [
@@ -55054,11 +55049,11 @@ const raw: Gen[] = [
     "countrySlug": "fiji",
     "countryName": "Fiji",
     "tagline": "A city in Fiji",
-    "heroKey": "longtail",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "longtail",
-      "maldives",
       "mountains",
+      "food",
+      "cityNight",
       "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/83/Nadi.jpg",
@@ -55186,12 +55181,12 @@ const raw: Gen[] = [
     "countrySlug": "japan",
     "countryName": "Japan",
     "tagline": "A city in Japan",
-    "heroKey": "lantern",
+    "heroKey": "coast",
     "galleryKeys": [
-      "lantern",
-      "sahara",
-      "tokyo",
-      "kyoto"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Nagoya_Station_-_View_from_the_Main_Building_in_Nagoya_Campus_of_Aichi_University_2022-6-29.jpg/1280px-Nagoya_Station_-_View_from_the_Main_Building_in_Nagoya_Campus_of_Aichi_University_2022-6-29.jpg",
     "realGallery": [
@@ -55342,8 +55337,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Nairobi_skyline_from_Gem_Hotel.jpg/1280px-Nairobi_skyline_from_Gem_Hotel.jpg",
@@ -55485,7 +55480,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Golden_life_mall%2C_Nakuru.jpg/1280px-Golden_life_mall%2C_Nakuru.jpg",
     "realGallery": [
@@ -55568,12 +55563,12 @@ const raw: Gen[] = [
     "countrySlug": "mongolia",
     "countryName": "Mongolia",
     "tagline": "A city in Mongolia",
-    "heroKey": "longtail",
+    "heroKey": "beach",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -55607,12 +55602,12 @@ const raw: Gen[] = [
     "countrySlug": "uzbekistan",
     "countryName": "Uzbekistan",
     "tagline": "A city in Uzbekistan",
-    "heroKey": "temple",
+    "heroKey": "food",
     "galleryKeys": [
+      "food",
+      "lantern",
       "temple",
-      "phiPhi",
-      "longtail",
-      "fujiLake"
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Mulla_Qirg%CA%BBiz_madrasasi_04.jpg/1280px-Mulla_Qirg%CA%BBiz_madrasasi_04.jpg",
     "realGallery": [
@@ -55691,12 +55686,12 @@ const raw: Gen[] = [
     "countrySlug": "north-korea",
     "countryName": "North Korea",
     "tagline": "A city in North Korea",
-    "heroKey": "kyoto",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "kyoto",
-      "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/7/74/Nampo_Montage.JPG",
     "realGallery": [
@@ -55741,7 +55736,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/0/00/NampulaNighttime.jpg",
     "realGallery": [
@@ -55816,7 +55811,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kabulengwa_Hill%2C_Nansana%2C_Wakiso_district.jpg/1280px-Kabulengwa_Hill%2C_Nansana%2C_Wakiso_district.jpg",
     "realGallery": [
@@ -55853,12 +55848,12 @@ const raw: Gen[] = [
     "countrySlug": "france",
     "countryName": "France",
     "tagline": "A city in France",
-    "heroKey": "coast",
+    "heroKey": "temple",
     "galleryKeys": [
+      "temple",
       "coast",
-      "santorini",
-      "eiffel",
-      "colosseum"
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Panorama_depuis_Butte_Sainte-Anne.jpg/1280px-Panorama_depuis_Butte_Sainte-Anne.jpg",
     "realGallery": [
@@ -55955,12 +55950,12 @@ const raw: Gen[] = [
     "countrySlug": "italy",
     "countryName": "Italy",
     "tagline": "A city in Italy",
-    "heroKey": "norway",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
+      "mountains",
+      "cityNight",
       "alps",
-      "paris"
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Napoli_-_Maschio_Angioino_-_202209302342_3.jpg/1280px-Napoli_-_Maschio_Angioino_-_202209302342_3.jpg",
     "realGallery": [
@@ -56062,12 +56057,12 @@ const raw: Gen[] = [
     "countrySlug": "united-states",
     "countryName": "United States",
     "tagline": "A city in United States",
-    "heroKey": "cityNight",
+    "heroKey": "beach",
     "galleryKeys": [
-      "cityNight",
       "beach",
       "mountains",
-      "coast"
+      "coast",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -56101,10 +56096,10 @@ const raw: Gen[] = [
     "countrySlug": "fiji",
     "countryName": "Fiji",
     "tagline": "A city in Fiji",
-    "heroKey": "maldives",
+    "heroKey": "food",
     "galleryKeys": [
-      "maldives",
-      "mountains",
+      "food",
+      "cityNight",
       "beach",
       "coast"
     ],
@@ -56142,12 +56137,12 @@ const raw: Gen[] = [
     "countrySlug": "bahamas",
     "countryName": "Bahamas",
     "tagline": "The capital of Bahamas",
-    "heroKey": "nyc",
+    "heroKey": "beach",
     "galleryKeys": [
-      "nyc",
-      "cityNight",
       "beach",
-      "mountains"
+      "mountains",
+      "coast",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -56253,12 +56248,12 @@ const raw: Gen[] = [
     "countrySlug": "myanmar",
     "countryName": "Myanmar",
     "tagline": "A city in Myanmar",
-    "heroKey": "kyoto",
+    "heroKey": "temple",
     "galleryKeys": [
-      "kyoto",
       "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/NPT_Water_Fountain.jpg/1280px-NPT_Water_Fountain.jpg",
     "realGallery": [
@@ -56358,7 +56353,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/AdamaHotels.jpg/1280px-AdamaHotels.jpg",
     "realGallery": [
@@ -56420,9 +56415,9 @@ const raw: Gen[] = [
     "countrySlug": "zambia",
     "countryName": "Zambia",
     "tagline": "A city in Zambia",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -56521,12 +56516,12 @@ const raw: Gen[] = [
     "countrySlug": "sri-lanka",
     "countryName": "Sri Lanka",
     "tagline": "A city in Sri Lanka",
-    "heroKey": "tokyo",
+    "heroKey": "coast",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
-      "temple",
-      "phiPhi"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Negombo_Beach_resort_pool_%28Unsplash%29.jpg/1280px-Negombo_Beach_resort_pool_%28Unsplash%29.jpg",
     "realGallery": [
@@ -56656,8 +56651,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -56691,12 +56686,12 @@ const raw: Gen[] = [
     "countrySlug": "guyana",
     "countryName": "Guyana",
     "tagline": "A city in Guyana",
-    "heroKey": "temple",
+    "heroKey": "beach",
     "galleryKeys": [
-      "temple",
-      "coast",
       "beach",
-      "machuPicchu"
+      "temple",
+      "food",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/AMH-6831-KB_View_of_New_Amsterdam.jpg/1280px-AMH-6831-KB_View_of_New_Amsterdam.jpg",
     "realGallery": [
@@ -56736,12 +56731,12 @@ const raw: Gen[] = [
     "countrySlug": "india",
     "countryName": "India",
     "tagline": "The capital of India",
-    "heroKey": "dubai",
+    "heroKey": "beach",
     "galleryKeys": [
-      "dubai",
-      "cityNight",
+      "beach",
+      "food",
       "lantern",
-      "sahara"
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
     "realGallery": [
@@ -56781,12 +56776,12 @@ const raw: Gen[] = [
     "countrySlug": "jamaica",
     "countryName": "Jamaica",
     "tagline": "A city in Jamaica",
-    "heroKey": "mountains",
+    "heroKey": "cityNight",
     "galleryKeys": [
+      "cityNight",
+      "beach",
       "mountains",
-      "coast",
-      "alps",
-      "nyc"
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/99/PortofKingston.jpg",
     "realGallery": [
@@ -56826,11 +56821,11 @@ const raw: Gen[] = [
     "countrySlug": "united-states",
     "countryName": "United States",
     "tagline": "A city in United States",
-    "heroKey": "coast",
+    "heroKey": "mountains",
     "galleryKeys": [
+      "mountains",
       "coast",
-      "alps",
-      "nyc",
+      "food",
       "cityNight"
     ],
     "realPhoto": null,
@@ -56865,12 +56860,12 @@ const raw: Gen[] = [
     "countrySlug": "united-states",
     "countryName": "United States",
     "tagline": "A city in United States",
-    "heroKey": "cityNight",
+    "heroKey": "food",
     "galleryKeys": [
+      "food",
       "cityNight",
       "beach",
-      "mountains",
-      "coast"
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/1280px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
     "realGallery": [
@@ -56910,9 +56905,9 @@ const raw: Gen[] = [
     "countrySlug": "cameroon",
     "countryName": "Cameroon",
     "tagline": "A city in Cameroon",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -56988,8 +56983,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "beach",
       "coast",
-      "longtail",
-      "maldives"
+      "mountains",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Capitol%2C_Melekeok%2C_Palau.jpg/1280px-Capitol%2C_Melekeok%2C_Palau.jpg",
     "realGallery": [
@@ -57032,10 +57027,10 @@ const raw: Gen[] = [
     "countrySlug": "solomon-islands",
     "countryName": "Solomon Islands",
     "tagline": "A city in Solomon Islands",
-    "heroKey": "maldives",
+    "heroKey": "food",
     "galleryKeys": [
-      "maldives",
-      "mountains",
+      "food",
+      "cityNight",
       "beach",
       "coast"
     ],
@@ -57075,8 +57070,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ms._magazine_Cover_-_Summer_2014.jpg/1280px-Ms._magazine_Cover_-_Summer_2014.jpg",
     "realGallery": [
@@ -57112,10 +57107,10 @@ const raw: Gen[] = [
     "countrySlug": "niger",
     "countryName": "Niger",
     "tagline": "The capital of Niger",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -57124,8 +57119,7 @@ const raw: Gen[] = [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Niamey_from_grand_mosque_theatre_2006.jpg/1280px-Niamey_from_grand_mosque_theatre_2006.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Vue_du_Stade_g%C3%A9n%C3%A9ral_Seyni_Kountch%C3%A9.jpg/1280px-Vue_du_Stade_g%C3%A9n%C3%A9ral_Seyni_Kountch%C3%A9.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Universit%C3%A9_Abdou_Moumouni_IRSH.jpg/1280px-Universit%C3%A9_Abdou_Moumouni_IRSH.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Zoo_du_Mus%C3%A9e_national_de_Niamey.jpg/1280px-Zoo_du_Mus%C3%A9e_national_de_Niamey.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Carte_de_l%27Afrique_occidentale_fran%C3%A7aise_-_dress%C3%A9e_par_A._Meunier_et_E._Barralier%2C_1903_%3B_Minist%C3%A8re_des_colonies._Service_g%C3%A9ographique_et_des_missions._M._Barbotin%2C_chef_du_service_-_btv1b530605988_%282_of_6%29_-_crop_Niamey.jpg/500px-thumbnail.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Zoo_du_Mus%C3%A9e_national_de_Niamey.jpg/1280px-Zoo_du_Mus%C3%A9e_national_de_Niamey.jpg"
     ],
     "overview": "Niamey is the capital of Niger, home to around 1,323,691 people.",
     "bestTime": "The dry season for the most comfortable travel",
@@ -57220,12 +57214,12 @@ const raw: Gen[] = [
     "countrySlug": "france",
     "countryName": "France",
     "tagline": "A city in France",
-    "heroKey": "alps",
+    "heroKey": "beach",
     "galleryKeys": [
-      "alps",
-      "paris",
-      "rome",
-      "venice"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Promenade_des_Anglais_Nice_IMG_1255.jpg/1280px-Promenade_des_Anglais_Nice_IMG_1255.jpg",
     "realGallery": [
@@ -57332,12 +57326,12 @@ const raw: Gen[] = [
     "countrySlug": "cyprus",
     "countryName": "Cyprus",
     "tagline": "The capital of Cyprus",
-    "heroKey": "greeceSea",
+    "heroKey": "food",
     "galleryKeys": [
-      "greeceSea",
-      "alps",
-      "paris",
-      "rome"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Nicosia%27s_skyline_2024.jpg/1280px-Nicosia%27s_skyline_2024.jpg",
     "realGallery": [
@@ -57491,12 +57485,12 @@ const raw: Gen[] = [
     "countrySlug": "montenegro",
     "countryName": "Montenegro",
     "tagline": "A city in Montenegro",
-    "heroKey": "norway",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
+      "cityNight",
       "alps",
-      "paris"
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Nik%C5%A1i%C4%87.jpg/1280px-Nik%C5%A1i%C4%87.jpg",
     "realGallery": [
@@ -57566,12 +57560,12 @@ const raw: Gen[] = [
     "countrySlug": "serbia",
     "countryName": "Serbia",
     "tagline": "A city in Serbia",
-    "heroKey": "colosseum",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
-      "alps"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -57683,12 +57677,12 @@ const raw: Gen[] = [
     "countrySlug": "slovakia",
     "countryName": "Slovakia",
     "tagline": "A city in Slovakia",
-    "heroKey": "venice",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "venice",
-      "coast",
-      "santorini",
-      "eiffel"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nitra_-_St._Emmeram%27s_Cathedral.jpg/1280px-Nitra_-_St._Emmeram%27s_Cathedral.jpg",
     "realGallery": [
@@ -57758,12 +57752,12 @@ const raw: Gen[] = [
     "countrySlug": "russia",
     "countryName": "Russia",
     "tagline": "A city in Russia",
-    "heroKey": "santorini",
+    "heroKey": "alps",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Nizhny_Novgorod_2025-04-29_Minin_and_Pozharsky_square_01.jpg/1280px-Nizhny_Novgorod_2025-04-29_Minin_and_Pozharsky_square_01.jpg",
     "realGallery": [
@@ -57861,9 +57855,9 @@ const raw: Gen[] = [
     "countrySlug": "congo",
     "countryName": "Congo",
     "tagline": "A city in Congo",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -57900,12 +57894,12 @@ const raw: Gen[] = [
     "countrySlug": "armenia",
     "countryName": "Armenia",
     "tagline": "A city in Armenia",
-    "heroKey": "phiPhi",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Nor_Nork_Yerevan_skyline_02.jpg/1280px-Nor_Nork_Yerevan_skyline_02.jpg",
     "realGallery": [
@@ -57949,8 +57943,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "beach",
       "coast",
-      "longtail",
-      "maldives"
+      "mountains",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -57987,8 +57981,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Nouadhibou_port.jpg/1280px-Nouadhibou_port.jpg",
@@ -58070,7 +58064,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Nouakchott.jpg",
     "realGallery": [
@@ -58137,12 +58131,12 @@ const raw: Gen[] = [
     "countrySlug": "serbia",
     "countryName": "Serbia",
     "tagline": "A city in Serbia",
-    "heroKey": "rome",
+    "heroKey": "temple",
     "galleryKeys": [
-      "rome",
-      "venice",
+      "temple",
       "coast",
-      "santorini"
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/20230429.Ansichten_in_Novi_Sad.-039.jpg/1280px-20230429.Ansichten_in_Novi_Sad.-039.jpg",
     "realGallery": [
@@ -58287,12 +58281,12 @@ const raw: Gen[] = [
     "countrySlug": "slovenia",
     "countryName": "Slovenia",
     "tagline": "A city in Slovenia",
-    "heroKey": "eiffel",
+    "heroKey": "beach",
     "galleryKeys": [
-      "eiffel",
-      "colosseum",
-      "norway",
-      "greeceSea"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/2025_Aerial_view_of_Novo_Mesto_in_Slovenia.jpg/1280px-2025_Aerial_view_of_Novo_Mesto_in_Slovenia.jpg",
     "realGallery": [
@@ -58364,12 +58358,12 @@ const raw: Gen[] = [
     "countrySlug": "russia",
     "countryName": "Russia",
     "tagline": "A city in Russia",
-    "heroKey": "coast",
+    "heroKey": "beach",
     "galleryKeys": [
-      "coast",
-      "santorini",
-      "eiffel",
-      "colosseum"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Opera-and-Ballet-theatre-Novosibirsk.jpg/1280px-Opera-and-Ballet-theatre-Novosibirsk.jpg",
     "realGallery": [
@@ -58501,11 +58495,11 @@ const raw: Gen[] = [
     "countrySlug": "tonga",
     "countryName": "Tonga",
     "tagline": "The capital of Tonga",
-    "heroKey": "longtail",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "longtail",
-      "maldives",
       "mountains",
+      "food",
+      "cityNight",
       "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Royal_Palace%2C_Nuku%27alofa%2C_Nov_18.jpg/1280px-Royal_Palace%2C_Nuku%27alofa%2C_Nov_18.jpg",
@@ -58513,8 +58507,7 @@ const raw: Gen[] = [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Royal_Palace%2C_Nuku%27alofa%2C_Nov_18.jpg/1280px-Royal_Palace%2C_Nuku%27alofa%2C_Nov_18.jpg",
       "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/The_Free_Church_of_Tonga_2.jpg/500px-The_Free_Church_of_Tonga_2.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Old_Prime_Minister%27s_Office%2C_Nuku%27alofa.jpg/1280px-Old_Prime_Minister%27s_Office%2C_Nuku%27alofa.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Nukualofa_Tonga_2.jpg/1280px-Nukualofa_Tonga_2.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Nuku%CA%BBalofa.gif/330px-Nuku%CA%BBalofa.gif"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Nukualofa_Tonga_2.jpg/1280px-Nukualofa_Tonga_2.jpg"
     ],
     "overview": "Nuku‘alofa is the capital of Tonga, home to around 22,400 people.",
     "bestTime": "The warmer, drier months for the outdoors",
@@ -58641,12 +58634,12 @@ const raw: Gen[] = [
     "countrySlug": "uzbekistan",
     "countryName": "Uzbekistan",
     "tagline": "A city in Uzbekistan",
-    "heroKey": "sahara",
+    "heroKey": "temple",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "temple",
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Berdaq_at%C4%B1nda%C7%B5%C4%B1_Qaraqalpaq_%C3%A1debiyat%C4%B1_tariyx%C4%B1_m%C3%A1mleketlik_muzeyi.jpg",
     "realGallery": [
@@ -58719,7 +58712,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -58753,10 +58746,10 @@ const raw: Gen[] = [
     "countrySlug": "sudan",
     "countryName": "Sudan",
     "tagline": "A city in Sudan",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -58811,8 +58804,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/N%27Z%C3%A9r%C3%A9kor%C3%A9.jpg/1280px-N%27Z%C3%A9r%C3%A9kor%C3%A9.jpg",
     "realGallery": [
@@ -58848,12 +58841,12 @@ const raw: Gen[] = [
     "countrySlug": "mexico",
     "countryName": "Mexico",
     "tagline": "A city in Mexico",
-    "heroKey": "nyc",
+    "heroKey": "beach",
     "galleryKeys": [
-      "nyc",
-      "cityNight",
       "beach",
-      "mountains"
+      "mountains",
+      "coast",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -58887,12 +58880,12 @@ const raw: Gen[] = [
     "countrySlug": "denmark",
     "countryName": "Denmark",
     "tagline": "A city in Denmark",
-    "heroKey": "paris",
+    "heroKey": "temple",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
-      "coast"
+      "temple",
+      "coast",
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Odense_-_Sankt_Knuds_kirke_2005-07-16.jpeg/1280px-Odense_-_Sankt_Knuds_kirke_2005-07-16.jpeg",
     "realGallery": [
@@ -59019,12 +59012,12 @@ const raw: Gen[] = [
     "countrySlug": "ukraine",
     "countryName": "Ukraine",
     "tagline": "A city in Ukraine",
-    "heroKey": "paris",
+    "heroKey": "temple",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
-      "coast"
+      "temple",
+      "coast",
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA_17.jpg/1280px-%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA_17.jpg",
     "realGallery": [
@@ -59159,12 +59152,12 @@ const raw: Gen[] = [
     "countrySlug": "czechia",
     "countryName": "Czechia",
     "tagline": "A city in Czechia",
-    "heroKey": "venice",
+    "heroKey": "coast",
     "galleryKeys": [
-      "venice",
       "coast",
-      "santorini",
-      "eiffel"
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Horn%C3%AD_n%C3%A1m%C4%9Bst%C3%AD_Olomouc%2C_leteck%C3%A1_fotografie_1.jpg/1280px-Horn%C3%AD_n%C3%A1m%C4%9Bst%C3%AD_Olomouc%2C_leteck%C3%A1_fotografie_1.jpg",
     "realGallery": [
@@ -59345,9 +59338,9 @@ const raw: Gen[] = [
     "countrySlug": "algeria",
     "countryName": "Algeria",
     "tagline": "A city in Algeria",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -59475,12 +59468,12 @@ const raw: Gen[] = [
     "countrySlug": "belize",
     "countryName": "Belize",
     "tagline": "A city in Belize",
-    "heroKey": "cityNight",
+    "heroKey": "coast",
     "galleryKeys": [
+      "coast",
+      "food",
       "cityNight",
-      "beach",
-      "mountains",
-      "coast"
+      "beach"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -59560,12 +59553,12 @@ const raw: Gen[] = [
     "countrySlug": "sweden",
     "countryName": "Sweden",
     "tagline": "A city in Sweden",
-    "heroKey": "greeceSea",
+    "heroKey": "food",
     "galleryKeys": [
-      "greeceSea",
-      "alps",
-      "paris",
-      "rome"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -59599,12 +59592,12 @@ const raw: Gen[] = [
     "countrySlug": "united-states",
     "countryName": "United States",
     "tagline": "A city in United States",
-    "heroKey": "beach",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "beach",
       "mountains",
       "coast",
-      "alps"
+      "food",
+      "cityNight"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -59638,12 +59631,12 @@ const raw: Gen[] = [
     "countrySlug": "bolivia",
     "countryName": "Bolivia",
     "tagline": "A city in Bolivia",
-    "heroKey": "mountains",
+    "heroKey": "coast",
     "galleryKeys": [
-      "mountains",
-      "temple",
       "coast",
-      "beach"
+      "beach",
+      "temple",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Santuario_de_Nuestra_Se%C3%B1ora_del_Socav%C3%B3n%2C_Oruro.jpg/1280px-Santuario_de_Nuestra_Se%C3%B1ora_del_Socav%C3%B3n%2C_Oruro.jpg",
     "realGallery": [
@@ -59730,12 +59723,12 @@ const raw: Gen[] = [
     "countrySlug": "japan",
     "countryName": "Japan",
     "tagline": "A city in Japan",
-    "heroKey": "tokyo",
+    "heroKey": "coast",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
-      "temple",
-      "phiPhi"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Osaka_Castle_03bs3200.jpg/1280px-Osaka_Castle_03bs3200.jpg",
     "realGallery": [
@@ -59775,12 +59768,12 @@ const raw: Gen[] = [
     "countrySlug": "kyrgyzstan",
     "countryName": "Kyrgyzstan",
     "tagline": "A city in Kyrgyzstan",
-    "heroKey": "sahara",
+    "heroKey": "temple",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "temple",
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Osh_03-2016_img27_view_from_Sulayman_Mountain.jpg/1280px-Osh_03-2016_img27_view_from_Sulayman_Mountain.jpg",
     "realGallery": [
@@ -59899,9 +59892,9 @@ const raw: Gen[] = [
     "countrySlug": "namibia",
     "countryName": "Namibia",
     "tagline": "A city in Namibia",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -59952,12 +59945,12 @@ const raw: Gen[] = [
     "countrySlug": "croatia",
     "countryName": "Croatia",
     "tagline": "A city in Croatia",
-    "heroKey": "norway",
+    "heroKey": "beach",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
-      "alps",
-      "paris"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Trg_sv._Trojstva_Osijek.jpg/1280px-Trg_sv._Trojstva_Osijek.jpg",
     "realGallery": [
@@ -60027,12 +60020,12 @@ const raw: Gen[] = [
     "countrySlug": "norway",
     "countryName": "Norway",
     "tagline": "The capital of Norway",
-    "heroKey": "alps",
+    "heroKey": "beach",
     "galleryKeys": [
-      "alps",
-      "paris",
-      "rome",
-      "venice"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Nationaltheatret_evening.jpg/1280px-Nationaltheatret_evening.jpg",
     "realGallery": [
@@ -60074,18 +60067,17 @@ const raw: Gen[] = [
     "countrySlug": "czechia",
     "countryName": "Czechia",
     "tagline": "A city in Czechia",
-    "heroKey": "paris",
+    "heroKey": "food",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
-      "coast"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/2/22/Ostravakolaz.png",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ostrava-stWenceslas.jpg/500px-Ostrava-stWenceslas.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ostrava-column.jpg/500px-Ostrava-column.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ansichtscarte_%22M%C3%A4hr._Ostrau_Sophienh%C3%BCtte%22.jpg/500px-Ansichtscarte_%22M%C3%A4hr._Ostrau_Sophienh%C3%BCtte%22.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ostrava-bridge-radnice.jpg/1280px-Ostrava-bridge-radnice.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/LKMTnight.jpg/1280px-LKMTnight.jpg"
     ],
@@ -60195,8 +60187,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "coast",
-      "alps",
-      "nyc"
+      "food",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/2/22/Parliament-Ottawa.jpg",
     "realGallery": [
@@ -60346,7 +60338,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Ouagadougou_Skyline.jpg",
     "realGallery": [
@@ -60530,12 +60522,12 @@ const raw: Gen[] = [
     "countrySlug": "finland",
     "countryName": "Finland",
     "tagline": "A city in Finland",
-    "heroKey": "alps",
+    "heroKey": "beach",
     "galleryKeys": [
-      "alps",
-      "paris",
-      "rome",
-      "venice"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Montage_Pokkinen_Oulu.jpg/1280px-Montage_Pokkinen_Oulu.jpg",
     "realGallery": [
@@ -60689,9 +60681,9 @@ const raw: Gen[] = [
     "countrySlug": "gabon",
     "countryName": "Gabon",
     "tagline": "A city in Gabon",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -60735,7 +60727,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Oyem_taxi.JPG/1280px-Oyem_taxi.JPG",
     "realGallery": [
@@ -60772,12 +60764,12 @@ const raw: Gen[] = [
     "countrySlug": "laos",
     "countryName": "Laos",
     "tagline": "A city in Laos",
-    "heroKey": "phiPhi",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "lantern",
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Champasak_Palace.jpg",
     "realGallery": [
@@ -60890,12 +60882,12 @@ const raw: Gen[] = [
     "countrySlug": "italy",
     "countryName": "Italy",
     "tagline": "A city in Italy",
-    "heroKey": "colosseum",
+    "heroKey": "beach",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
-      "alps"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Sicilia_Palermo5_tango7174.jpg",
     "realGallery": [
@@ -61013,10 +61005,10 @@ const raw: Gen[] = [
     "countrySlug": "micronesia",
     "countryName": "Micronesia",
     "tagline": "The capital of Micronesia",
-    "heroKey": "maldives",
+    "heroKey": "food",
     "galleryKeys": [
-      "maldives",
-      "mountains",
+      "food",
+      "cityNight",
       "beach",
       "coast"
     ],
@@ -61060,12 +61052,12 @@ const raw: Gen[] = [
     "countrySlug": "panama",
     "countryName": "Panama",
     "tagline": "The capital of Panama",
-    "heroKey": "alps",
+    "heroKey": "food",
     "galleryKeys": [
-      "alps",
-      "nyc",
+      "food",
       "cityNight",
-      "beach"
+      "beach",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Panama_Papers_%28148830809%29.jpeg/1280px-Panama_Papers_%28148830809%29.jpeg",
     "realGallery": [
@@ -61188,11 +61180,11 @@ const raw: Gen[] = [
     "countrySlug": "solomon-islands",
     "countryName": "Solomon Islands",
     "tagline": "A city in Solomon Islands",
-    "heroKey": "longtail",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "longtail",
-      "maldives",
       "mountains",
+      "food",
+      "cityNight",
       "beach"
     ],
     "realPhoto": null,
@@ -61227,12 +61219,12 @@ const raw: Gen[] = [
     "countrySlug": "lithuania",
     "countryName": "Lithuania",
     "tagline": "A city in Lithuania",
-    "heroKey": "eiffel",
+    "heroKey": "coast",
     "galleryKeys": [
-      "eiffel",
-      "colosseum",
-      "norway",
-      "greeceSea"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Recreational_area_near_Senvag%C4%97_Pond_and_Nev%C4%97%C5%BEis_in_Panev%C4%97%C5%BEys.jpg/1280px-Recreational_area_near_Senvag%C4%97_Pond_and_Nev%C4%97%C5%BEis_in_Panev%C4%97%C5%BEys.jpg",
     "realGallery": [
@@ -61366,12 +61358,12 @@ const raw: Gen[] = [
     "countrySlug": "cambodia",
     "countryName": "Cambodia",
     "tagline": "A city in Cambodia",
-    "heroKey": "sahara",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "lantern",
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Poipet%2C_Cambodia-Thai_border.jpg/1280px-Poipet%2C_Cambodia-Thai_border.jpg",
     "realGallery": [
@@ -61410,12 +61402,12 @@ const raw: Gen[] = [
     "countrySlug": "costa-rica",
     "countryName": "Costa Rica",
     "tagline": "A city in Costa Rica",
-    "heroKey": "nyc",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "nyc",
-      "cityNight",
-      "beach",
-      "mountains"
+      "mountains",
+      "coast",
+      "food",
+      "cityNight"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -61453,8 +61445,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Place_de_la_municipalit%C3%A9_10.jpg/1280px-Place_de_la_municipalit%C3%A9_10.jpg",
     "realGallery": [
@@ -61505,12 +61497,12 @@ const raw: Gen[] = [
     "countrySlug": "suriname",
     "countryName": "Suriname",
     "tagline": "The capital of Suriname",
-    "heroKey": "mountains",
+    "heroKey": "coast",
     "galleryKeys": [
-      "mountains",
-      "temple",
       "coast",
-      "beach"
+      "beach",
+      "temple",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Paramaribo_city_collage.png/1280px-Paramaribo_city_collage.png",
     "realGallery": [
@@ -61654,12 +61646,12 @@ const raw: Gen[] = [
     "countrySlug": "france",
     "countryName": "France",
     "tagline": "The capital of France",
-    "heroKey": "eiffel",
+    "heroKey": "food",
     "galleryKeys": [
-      "eiffel",
-      "colosseum",
-      "norway",
-      "greeceSea"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/1280px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
     "realGallery": [
@@ -61699,12 +61691,12 @@ const raw: Gen[] = [
     "countrySlug": "nepal",
     "countryName": "Nepal",
     "tagline": "A city in Nepal",
-    "heroKey": "cityNight",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "cityNight",
       "lantern",
-      "sahara",
-      "tokyo"
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -61843,12 +61835,12 @@ const raw: Gen[] = [
     "countrySlug": "greece",
     "countryName": "Greece",
     "tagline": "A city in Greece",
-    "heroKey": "greeceSea",
+    "heroKey": "coast",
     "galleryKeys": [
-      "greeceSea",
-      "alps",
-      "paris",
-      "rome"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -61943,12 +61935,12 @@ const raw: Gen[] = [
     "countrySlug": "thailand",
     "countryName": "Thailand",
     "tagline": "A city in Thailand",
-    "heroKey": "kyoto",
+    "heroKey": "food",
     "galleryKeys": [
-      "kyoto",
+      "food",
+      "lantern",
       "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -61982,12 +61974,12 @@ const raw: Gen[] = [
     "countrySlug": "uruguay",
     "countryName": "Uruguay",
     "tagline": "A city in Uruguay",
-    "heroKey": "machuPicchu",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "machuPicchu",
       "mountains",
-      "temple",
-      "coast"
+      "coast",
+      "beach",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BasilicaPaysandu.jpg/1280px-BasilicaPaysandu.jpg",
     "realGallery": [
@@ -62048,12 +62040,12 @@ const raw: Gen[] = [
     "countrySlug": "greece",
     "countryName": "Greece",
     "tagline": "A city in Greece",
-    "heroKey": "norway",
+    "heroKey": "alps",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
       "alps",
-      "paris"
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/7/70/Saint_Ioannis_church%2C_Nea_Sepolia%2C_Peristeri%2C_Greece.jpg",
     "realGallery": [
@@ -62089,12 +62081,12 @@ const raw: Gen[] = [
     "countrySlug": "australia",
     "countryName": "Australia",
     "tagline": "A city in Australia",
-    "heroKey": "mountains",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "mountains",
+      "cityNight",
       "beach",
       "coast",
-      "longtail"
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Perth_CBD_skyline_from_State_War_Memorial_Lookout%2C_2023%2C_04_b.jpg/1280px-Perth_CBD_skyline_from_State_War_Memorial_Lookout%2C_2023%2C_04_b.jpg",
     "realGallery": [
@@ -62136,12 +62128,12 @@ const raw: Gen[] = [
     "countrySlug": "pakistan",
     "countryName": "Pakistan",
     "tagline": "A city in Pakistan",
-    "heroKey": "lantern",
+    "heroKey": "temple",
     "galleryKeys": [
-      "lantern",
-      "sahara",
-      "tokyo",
-      "kyoto"
+      "temple",
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Islamia_College_Peshawar_%28Public_Sector_University%29%2C_Khyber_Pakhtunkhwa%2C_Pakistan_cropped.jpg/1280px-Islamia_College_Peshawar_%28Public_Sector_University%29%2C_Khyber_Pakhtunkhwa%2C_Pakistan_cropped.jpg",
     "realGallery": [
@@ -62238,12 +62230,12 @@ const raw: Gen[] = [
     "countrySlug": "hungary",
     "countryName": "Hungary",
     "tagline": "A city in Hungary",
-    "heroKey": "santorini",
+    "heroKey": "beach",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -62277,12 +62269,12 @@ const raw: Gen[] = [
     "countrySlug": "israel",
     "countryName": "Israel",
     "tagline": "A city in Israel",
-    "heroKey": "fujiLake",
+    "heroKey": "temple",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
+      "temple",
       "cityNight",
-      "lantern"
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Jabotinsky_Skyline_Petah_Tikva_01.jpg/1280px-Jabotinsky_Skyline_Petah_Tikva_01.jpg",
     "realGallery": [
@@ -62325,9 +62317,9 @@ const raw: Gen[] = [
     "heroKey": "cityNight",
     "galleryKeys": [
       "cityNight",
-      "lantern",
-      "sahara",
-      "tokyo"
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Section_17_PJ_4.jpg/1280px-Section_17_PJ_4.jpg",
     "realGallery": [
@@ -62435,12 +62427,12 @@ const raw: Gen[] = [
     "countrySlug": "haiti",
     "countryName": "Haiti",
     "tagline": "A city in Haiti",
-    "heroKey": "coast",
+    "heroKey": "beach",
     "galleryKeys": [
+      "beach",
+      "mountains",
       "coast",
-      "alps",
-      "nyc",
-      "cityNight"
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/1/15/Hills_of_Petion-Ville%2C_Haiti.jpg",
     "realGallery": [
@@ -62511,12 +62503,12 @@ const raw: Gen[] = [
     "countrySlug": "jordan",
     "countryName": "Jordan",
     "tagline": "A city in Jordan",
-    "heroKey": "kyoto",
+    "heroKey": "coast",
     "galleryKeys": [
-      "kyoto",
-      "temple",
-      "phiPhi",
-      "longtail"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -62550,12 +62542,12 @@ const raw: Gen[] = [
     "countrySlug": "slovakia",
     "countryName": "Slovakia",
     "tagline": "A city in Slovakia",
-    "heroKey": "venice",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "venice",
-      "coast",
-      "santorini",
-      "eiffel"
+      "mountains",
+      "cityNight",
+      "alps",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bratislava_Petrzalka_R01.jpg/1280px-Bratislava_Petrzalka_R01.jpg",
     "realGallery": [
@@ -62594,12 +62586,12 @@ const raw: Gen[] = [
     "countrySlug": "united-states",
     "countryName": "United States",
     "tagline": "A city in United States",
-    "heroKey": "nyc",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "nyc",
       "cityNight",
       "beach",
-      "mountains"
+      "mountains",
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -62633,12 +62625,12 @@ const raw: Gen[] = [
     "countrySlug": "cambodia",
     "countryName": "Cambodia",
     "tagline": "The capital of Cambodia",
-    "heroKey": "sahara",
+    "heroKey": "food",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "food",
+      "lantern",
+      "temple",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Phnom_Penh_skyline_from_TK_district_Dec_2024.jpg/1280px-Phnom_Penh_skyline_from_TK_district_Dec_2024.jpg",
     "realGallery": [
@@ -62778,12 +62770,12 @@ const raw: Gen[] = [
     "countrySlug": "thailand",
     "countryName": "Thailand",
     "tagline": "A city in Thailand",
-    "heroKey": "cityNight",
+    "heroKey": "temple",
     "galleryKeys": [
+      "temple",
       "cityNight",
-      "lantern",
-      "sahara",
-      "tokyo"
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Chao_Phraya_Phra_Pradaeng_Mega_Bridge_1.jpg/1280px-Chao_Phraya_Phra_Pradaeng_Mega_Bridge_1.jpg",
     "realGallery": [
@@ -62821,12 +62813,12 @@ const raw: Gen[] = [
     "countrySlug": "thailand",
     "countryName": "Thailand",
     "tagline": "A city in Thailand",
-    "heroKey": "longtail",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -62860,12 +62852,12 @@ const raw: Gen[] = [
     "countrySlug": "bhutan",
     "countryName": "Bhutan",
     "tagline": "A city in Bhutan",
-    "heroKey": "tokyo",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
+      "lantern",
       "temple",
-      "phiPhi"
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Phuentsoling-051215.JPG/1280px-Phuentsoling-051215.JPG",
     "realGallery": [
@@ -62947,14 +62939,12 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/87/Pikine.gif",
-    "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Pikine.gif/500px-Pikine.gif"
-    ],
+    "realPhoto": null,
+    "realGallery": [],
     "overview": "Pikine is one of Senegal's major cities, home to around 1,170,791 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -62985,12 +62975,12 @@ const raw: Gen[] = [
     "countrySlug": "czechia",
     "countryName": "Czechia",
     "tagline": "A city in Czechia",
-    "heroKey": "rome",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "rome",
-      "venice",
-      "coast",
-      "santorini"
+      "mountains",
+      "cityNight",
+      "alps",
+      "beach"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -63079,12 +63069,12 @@ const raw: Gen[] = [
     "countrySlug": "greece",
     "countryName": "Greece",
     "tagline": "A city in Greece",
-    "heroKey": "eiffel",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "eiffel",
-      "colosseum",
-      "norway",
-      "greeceSea"
+      "mountains",
+      "cityNight",
+      "alps",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/2011_Dimos_Pireos.png/1280px-2011_Dimos_Pireos.png",
     "realGallery": [
@@ -63172,12 +63162,12 @@ const raw: Gen[] = [
     "countrySlug": "peru",
     "countryName": "Peru",
     "tagline": "A city in Peru",
-    "heroKey": "machuPicchu",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "machuPicchu",
       "mountains",
-      "temple",
-      "coast"
+      "coast",
+      "beach",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/PLAZA_DE_ARMAS_DE_PIURA_-_PIURA.jpg/1280px-PLAZA_DE_ARMAS_DE_PIURA_-_PIURA.jpg",
     "realGallery": [
@@ -63275,8 +63265,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "coast",
-      "alps",
-      "nyc"
+      "food",
+      "cityNight"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -63310,12 +63300,12 @@ const raw: Gen[] = [
     "countrySlug": "montenegro",
     "countryName": "Montenegro",
     "tagline": "A city in Montenegro",
-    "heroKey": "paris",
+    "heroKey": "food",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
-      "coast"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Pljevlja_Crkva.jpg/1280px-Pljevlja_Crkva.jpg",
     "realGallery": [
@@ -63355,12 +63345,12 @@ const raw: Gen[] = [
     "countrySlug": "bulgaria",
     "countryName": "Bulgaria",
     "tagline": "A city in Bulgaria",
-    "heroKey": "santorini",
+    "heroKey": "coast",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/%D0%9F%D0%BB%D0%BE%D0%B2%D0%B4%D0%B8%D0%B2.jpg/1280px-%D0%9F%D0%BB%D0%BE%D0%B2%D0%B4%D0%B8%D0%B2.jpg",
     "realGallery": [
@@ -63489,12 +63479,12 @@ const raw: Gen[] = [
     "countrySlug": "montenegro",
     "countryName": "Montenegro",
     "tagline": "The capital of Montenegro",
-    "heroKey": "santorini",
+    "heroKey": "beach",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/P064720-426794_-_Panoramic_view_of_Podgorica.jpg/1280px-P064720-426794_-_Panoramic_view_of_Podgorica.jpg",
     "realGallery": [
@@ -63629,12 +63619,12 @@ const raw: Gen[] = [
     "countrySlug": "estonia",
     "countryName": "Estonia",
     "tagline": "A city in Estonia",
-    "heroKey": "alps",
+    "heroKey": "temple",
     "galleryKeys": [
-      "alps",
-      "paris",
-      "rome",
-      "venice"
+      "temple",
+      "coast",
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/P%C3%B5hja-Tallinn_Pika_Hermanni_tornist.jpg/1280px-P%C3%B5hja-Tallinn_Pika_Hermanni_tornist.jpg",
     "realGallery": [
@@ -63674,10 +63664,10 @@ const raw: Gen[] = [
     "countrySlug": "congo",
     "countryName": "Congo",
     "tagline": "A city in Congo",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -63773,12 +63763,12 @@ const raw: Gen[] = [
     "countrySlug": "nepal",
     "countryName": "Nepal",
     "tagline": "A city in Nepal",
-    "heroKey": "sahara",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "lantern",
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pokhara_Valley.jpg/1280px-Pokhara_Valley.jpg",
     "realGallery": [
@@ -63907,12 +63897,12 @@ const raw: Gen[] = [
     "countrySlug": "suriname",
     "countryName": "Suriname",
     "tagline": "A city in Suriname",
-    "heroKey": "beach",
+    "heroKey": "food",
     "galleryKeys": [
-      "beach",
-      "machuPicchu",
+      "food",
       "mountains",
-      "temple"
+      "coast",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Paramaribo_Ressorts_Suriname_Neutral.png/1280px-Paramaribo_Ressorts_Suriname_Neutral.png",
     "realGallery": [],
@@ -63946,11 +63936,11 @@ const raw: Gen[] = [
     "countrySlug": "papua-new-guinea",
     "countryName": "Papua New Guinea",
     "tagline": "A city in Papua New Guinea",
-    "heroKey": "longtail",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "longtail",
-      "maldives",
       "mountains",
+      "food",
+      "cityNight",
       "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/en/3/3e/Popondetta.png",
@@ -63988,8 +63978,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Pitakwa.jpg",
@@ -64107,7 +64097,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Port_Louis_Skyline.JPG",
     "realGallery": [
@@ -64236,12 +64226,12 @@ const raw: Gen[] = [
     "countrySlug": "papua-new-guinea",
     "countryName": "Papua New Guinea",
     "tagline": "The capital of Papua New Guinea",
-    "heroKey": "mountains",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "mountains",
+      "cityNight",
       "beach",
       "coast",
-      "longtail"
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Port_Moresby_Town2_Mschlauch.jpg",
     "realGallery": [
@@ -64356,12 +64346,12 @@ const raw: Gen[] = [
     "countrySlug": "trinidad-and-tobago",
     "countryName": "Trinidad and Tobago",
     "tagline": "The capital of Trinidad and Tobago",
-    "heroKey": "coast",
+    "heroKey": "beach",
     "galleryKeys": [
+      "beach",
+      "mountains",
       "coast",
-      "alps",
-      "nyc",
-      "cityNight"
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/eb/POS_at_night_Skyline.jpg",
     "realGallery": [
@@ -64476,10 +64466,10 @@ const raw: Gen[] = [
     "countrySlug": "egypt",
     "countryName": "Egypt",
     "tagline": "A city in Egypt",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -64662,12 +64652,12 @@ const raw: Gen[] = [
     "countrySlug": "haiti",
     "countryName": "Haiti",
     "tagline": "The capital of Haiti",
-    "heroKey": "alps",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "alps",
-      "nyc",
       "cityNight",
-      "beach"
+      "beach",
+      "mountains",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ouest_Department%2C_Haiti_-_panoramio_%285%29.jpg/1280px-Ouest_Department%2C_Haiti_-_panoramio_%285%29.jpg",
     "realGallery": [
@@ -64746,16 +64736,15 @@ const raw: Gen[] = [
     "countrySlug": "haiti",
     "countryName": "Haiti",
     "tagline": "A city in Haiti",
-    "heroKey": "alps",
+    "heroKey": "coast",
     "galleryKeys": [
-      "alps",
-      "nyc",
+      "coast",
+      "food",
       "cityNight",
       "beach"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Marines_fly_over_Haiti_%285224925976%29.jpg/1280px-Marines_fly_over_Haiti_%285224925976%29.jpg",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Plan_de_la_ville_du_Port_de_Paix_%281785%29.jpg/1280px-Plan_de_la_ville_du_Port_de_Paix_%281785%29.jpg",
     "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Marines_fly_over_Haiti_%285224925976%29.jpg/1280px-Marines_fly_over_Haiti_%285224925976%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Plan_de_la_ville_du_Port_de_Paix_%281785%29.jpg/1280px-Plan_de_la_ville_du_Port_de_Paix_%281785%29.jpg"
     ],
     "overview": "Port-de-Paix is one of Haiti's major cities, home to around 306,217 people.",
@@ -64792,8 +64781,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/POG-From_The_Air.jpg/1280px-POG-From_The_Air.jpg",
     "realGallery": [
@@ -64851,11 +64840,11 @@ const raw: Gen[] = [
     "countrySlug": "vanuatu",
     "countryName": "Vanuatu",
     "tagline": "A city in Vanuatu",
-    "heroKey": "longtail",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "longtail",
-      "maldives",
       "mountains",
+      "food",
+      "cityNight",
       "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Port_Vila_aerial.jpg",
@@ -65018,12 +65007,12 @@ const raw: Gen[] = [
     "countrySlug": "portugal",
     "countryName": "Portugal",
     "tagline": "A city in Portugal",
-    "heroKey": "santorini",
+    "heroKey": "alps",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Puente_Don_Luis_I%2C_Oporto%2C_Portugal%2C_2012-05-09%2C_DD_13.JPG/1280px-Puente_Don_Luis_I%2C_Oporto%2C_Portugal%2C_2012-05-09%2C_DD_13.JPG",
     "realGallery": [
@@ -65128,10 +65117,10 @@ const raw: Gen[] = [
     "countrySlug": "benin",
     "countryName": "Benin",
     "tagline": "The capital of Benin",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -65203,12 +65192,12 @@ const raw: Gen[] = [
     "countrySlug": "ecuador",
     "countryName": "Ecuador",
     "tagline": "A city in Ecuador",
-    "heroKey": "beach",
+    "heroKey": "food",
     "galleryKeys": [
-      "beach",
-      "machuPicchu",
+      "food",
       "mountains",
-      "temple"
+      "coast",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Collage_Portoviejo.png/1280px-Collage_Portoviejo.png",
     "realGallery": [
@@ -65263,12 +65252,12 @@ const raw: Gen[] = [
     "countrySlug": "poland",
     "countryName": "Poland",
     "tagline": "A city in Poland",
-    "heroKey": "venice",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "venice",
-      "coast",
-      "santorini",
-      "eiffel"
+      "mountains",
+      "cityNight",
+      "alps",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Stary_Rynek_w_Poznaniu%2C_widok_z_drona_%28cropped%29.jpg/1280px-Stary_Rynek_w_Poznaniu%2C_widok_z_drona_%28cropped%29.jpg",
     "realGallery": [
@@ -65417,12 +65406,12 @@ const raw: Gen[] = [
     "countrySlug": "czechia",
     "countryName": "Czechia",
     "tagline": "The capital of Czechia",
-    "heroKey": "greeceSea",
+    "heroKey": "alps",
     "galleryKeys": [
-      "greeceSea",
       "alps",
-      "paris",
-      "rome"
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Prague_%286365119737%29.jpg/1280px-Prague_%286365119737%29.jpg",
     "realGallery": [
@@ -65577,12 +65566,12 @@ const raw: Gen[] = [
     "countrySlug": "slovakia",
     "countryName": "Slovakia",
     "tagline": "A city in Slovakia",
-    "heroKey": "coast",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "coast",
-      "santorini",
-      "eiffel",
-      "colosseum"
+      "mountains",
+      "cityNight",
+      "alps",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Christmas%2C_Pre%C5%A1ov_21_Slovakia_26.jpg/1280px-Christmas%2C_Pre%C5%A1ov_21_Slovakia_26.jpg",
     "realGallery": [
@@ -65673,9 +65662,9 @@ const raw: Gen[] = [
     "countrySlug": "south-africa",
     "countryName": "South Africa",
     "tagline": "The capital of South Africa",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -65805,12 +65794,12 @@ const raw: Gen[] = [
     "countrySlug": "north-macedonia",
     "countryName": "North Macedonia",
     "tagline": "A city in North Macedonia",
-    "heroKey": "colosseum",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
-      "alps"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Panorama_of_Prilep%2C_2019.jpg/1280px-Panorama_of_Prilep%2C_2019.jpg",
     "realGallery": [
@@ -65926,12 +65915,12 @@ const raw: Gen[] = [
     "countrySlug": "mexico",
     "countryName": "Mexico",
     "tagline": "A city in Mexico",
-    "heroKey": "nyc",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "nyc",
-      "cityNight",
-      "beach",
-      "mountains"
+      "mountains",
+      "coast",
+      "food",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mexico-Popocatepetl.jpg/1280px-Mexico-Popocatepetl.jpg",
     "realGallery": [
@@ -66035,12 +66024,12 @@ const raw: Gen[] = [
     "countrySlug": "chile",
     "countryName": "Chile",
     "tagline": "A city in Chile",
-    "heroKey": "machuPicchu",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "machuPicchu",
       "mountains",
-      "temple",
-      "coast"
+      "coast",
+      "beach",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Plaza_de_Armas_de_Puente_Alto%2C_Santiago_20231019_01.jpg/1280px-Plaza_de_Armas_de_Puente_Alto%2C_Santiago_20231019_01.jpg",
     "realGallery": [
@@ -66080,12 +66069,12 @@ const raw: Gen[] = [
     "countrySlug": "ecuador",
     "countryName": "Ecuador",
     "tagline": "A city in Ecuador",
-    "heroKey": "machuPicchu",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "machuPicchu",
       "mountains",
-      "temple",
-      "coast"
+      "coast",
+      "beach",
+      "temple"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -66119,12 +66108,12 @@ const raw: Gen[] = [
     "countrySlug": "honduras",
     "countryName": "Honduras",
     "tagline": "A city in Honduras",
-    "heroKey": "beach",
+    "heroKey": "coast",
     "galleryKeys": [
-      "beach",
-      "mountains",
       "coast",
-      "alps"
+      "food",
+      "cityNight",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/El_Malecon_Puerto_Cortes_Honduras.jpg/1280px-El_Malecon_Puerto_Cortes_Honduras.jpg",
     "realGallery": [
@@ -66163,12 +66152,12 @@ const raw: Gen[] = [
     "countrySlug": "philippines",
     "countryName": "Philippines",
     "tagline": "A city in Philippines",
-    "heroKey": "kyoto",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "kyoto",
-      "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -66202,12 +66191,12 @@ const raw: Gen[] = [
     "countrySlug": "bhutan",
     "countryName": "Bhutan",
     "tagline": "A city in Bhutan",
-    "heroKey": "phiPhi",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "lantern",
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PunakhaDzong.jpg/1280px-PunakhaDzong.jpg",
     "realGallery": [
@@ -66286,12 +66275,12 @@ const raw: Gen[] = [
     "countrySlug": "dominican-republic",
     "countryName": "Dominican Republic",
     "tagline": "A city in Dominican Republic",
-    "heroKey": "cityNight",
+    "heroKey": "food",
     "galleryKeys": [
+      "food",
       "cityNight",
       "beach",
-      "mountains",
-      "coast"
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -66325,12 +66314,12 @@ const raw: Gen[] = [
     "countrySlug": "north-korea",
     "countryName": "North Korea",
     "tagline": "The capital of North Korea",
-    "heroKey": "phiPhi",
+    "heroKey": "coast",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/The_Arch_of_Triumph_%2811360607534%29.jpg/1280px-The_Arch_of_Triumph_%2811360607534%29.jpg",
     "realGallery": [
@@ -66461,12 +66450,12 @@ const raw: Gen[] = [
     "countrySlug": "malta",
     "countryName": "Malta",
     "tagline": "A city in Malta",
-    "heroKey": "greeceSea",
+    "heroKey": "food",
     "galleryKeys": [
-      "greeceSea",
-      "alps",
-      "paris",
-      "rome"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sait_George_Church%2C_Qormi.jpeg/1280px-Sait_George_Church%2C_Qormi.jpeg",
     "realGallery": [
@@ -66511,7 +66500,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2011-06-25_13-31-51_Mauritius_Plaines_Wilhems_Camp_Roches.jpg/1280px-2011-06-25_13-31-51_Mauritius_Plaines_Wilhems_Camp_Roches.jpg",
     "realGallery": [
@@ -66549,12 +66538,12 @@ const raw: Gen[] = [
     "countrySlug": "canada",
     "countryName": "Canada",
     "tagline": "A city in Canada",
-    "heroKey": "coast",
+    "heroKey": "food",
     "galleryKeys": [
-      "coast",
-      "alps",
-      "nyc",
-      "cityNight"
+      "food",
+      "cityNight",
+      "beach",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -66588,12 +66577,12 @@ const raw: Gen[] = [
     "countrySlug": "united-states",
     "countryName": "United States",
     "tagline": "A city in United States",
-    "heroKey": "nyc",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "nyc",
       "cityNight",
       "beach",
-      "mountains"
+      "mountains",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flushing_Meadows_May_2024_64.jpg/1280px-Flushing_Meadows_May_2024_64.jpg",
     "realGallery": [
@@ -66636,12 +66625,12 @@ const raw: Gen[] = [
     "countrySlug": "new-zealand",
     "countryName": "New Zealand",
     "tagline": "A city in New Zealand",
-    "heroKey": "mountains",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "mountains",
+      "cityNight",
       "beach",
       "coast",
-      "longtail"
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -66675,12 +66664,12 @@ const raw: Gen[] = [
     "countrySlug": "guatemala",
     "countryName": "Guatemala",
     "tagline": "A city in Guatemala",
-    "heroKey": "cityNight",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "cityNight",
-      "beach",
       "mountains",
-      "coast"
+      "coast",
+      "food",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Palacio_Municipal_de_Quetzaltenango.jpg/1280px-Palacio_Municipal_de_Quetzaltenango.jpg",
     "realGallery": [
@@ -66763,12 +66752,12 @@ const raw: Gen[] = [
     "countrySlug": "philippines",
     "countryName": "Philippines",
     "tagline": "A city in Philippines",
-    "heroKey": "kyoto",
+    "heroKey": "food",
     "galleryKeys": [
-      "kyoto",
+      "food",
+      "lantern",
       "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Quezon_Memorial_Circle%2C_Commonwealth_Avenue-Philcoa_NB_drone_%28Quezon_City%3B_03-03-2026%29.jpg/1280px-Quezon_Memorial_Circle%2C_Commonwealth_Avenue-Philcoa_NB_drone_%28Quezon_City%3B_03-03-2026%29.jpg",
     "realGallery": [
@@ -66808,12 +66797,12 @@ const raw: Gen[] = [
     "countrySlug": "ecuador",
     "countryName": "Ecuador",
     "tagline": "The capital of Ecuador",
-    "heroKey": "beach",
+    "heroKey": "food",
     "galleryKeys": [
-      "beach",
-      "machuPicchu",
+      "food",
       "mountains",
-      "temple"
+      "coast",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/FACHADA_ASAMBLEA_NACIONAL._QUITO%2C_20_DE_FEBRERO_2020._01.jpg/1280px-FACHADA_ASAMBLEA_NACIONAL._QUITO%2C_20_DE_FEBRERO_2020._01.jpg",
     "realGallery": [
@@ -66949,12 +66938,12 @@ const raw: Gen[] = [
     "countrySlug": "lebanon",
     "countryName": "Lebanon",
     "tagline": "A city in Lebanon",
-    "heroKey": "tokyo",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
-      "temple",
-      "phiPhi"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Beirut_lebanon_031.jpg/1280px-Beirut_lebanon_031.jpg",
     "realGallery": [
@@ -66996,8 +66985,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Morocco_-_Rabat_%2831387775324%29.jpg/1280px-Morocco_-_Rabat_%2831387775324%29.jpg",
@@ -67128,12 +67117,12 @@ const raw: Gen[] = [
     "countrySlug": "suriname",
     "countryName": "Suriname",
     "tagline": "A city in Suriname",
-    "heroKey": "coast",
+    "heroKey": "temple",
     "galleryKeys": [
-      "coast",
-      "beach",
-      "machuPicchu",
-      "mountains"
+      "temple",
+      "food",
+      "mountains",
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -67167,12 +67156,12 @@ const raw: Gen[] = [
     "countrySlug": "bangladesh",
     "countryName": "Bangladesh",
     "tagline": "A city in Bangladesh",
-    "heroKey": "cityNight",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "cityNight",
       "lantern",
-      "sahara",
-      "tokyo"
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rajshahi_city_%283%29.jpg/1280px-Rajshahi_city_%283%29.jpg",
     "realGallery": [
@@ -67281,12 +67270,12 @@ const raw: Gen[] = [
     "countrySlug": "bangladesh",
     "countryName": "Bangladesh",
     "tagline": "A city in Bangladesh",
-    "heroKey": "tokyo",
+    "heroKey": "beach",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
-      "temple",
-      "phiPhi"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -67320,12 +67309,12 @@ const raw: Gen[] = [
     "countrySlug": "pakistan",
     "countryName": "Pakistan",
     "tagline": "A city in Pakistan",
-    "heroKey": "tokyo",
+    "heroKey": "temple",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
       "temple",
-      "phiPhi"
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rawalpindi_railway_station_4.JPG/1280px-Rawalpindi_railway_station_4.JPG",
     "realGallery": [
@@ -67437,8 +67426,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -67571,8 +67560,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -67606,12 +67595,12 @@ const raw: Gen[] = [
     "countrySlug": "iceland",
     "countryName": "Iceland",
     "tagline": "A city in Iceland",
-    "heroKey": "santorini",
+    "heroKey": "coast",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Reykjanesb%C3%A6r_2023_%28175814%29.jpg/1280px-Reykjanesb%C3%A6r_2023_%28175814%29.jpg",
     "realGallery": [
@@ -67651,12 +67640,12 @@ const raw: Gen[] = [
     "countrySlug": "iceland",
     "countryName": "Iceland",
     "tagline": "The capital of Iceland",
-    "heroKey": "venice",
+    "heroKey": "food",
     "galleryKeys": [
-      "venice",
+      "food",
+      "temple",
       "coast",
-      "santorini",
-      "eiffel"
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Reykjav%C3%ADk%2C_view_from_Hallgr%C3%ADmskirkja_%282%29.jpg/1280px-Reykjav%C3%ADk%2C_view_from_Hallgr%C3%ADmskirkja_%282%29.jpg",
     "realGallery": [
@@ -67759,12 +67748,12 @@ const raw: Gen[] = [
     "countrySlug": "greece",
     "countryName": "Greece",
     "tagline": "A city in Greece",
-    "heroKey": "eiffel",
+    "heroKey": "alps",
     "galleryKeys": [
-      "eiffel",
-      "colosseum",
-      "norway",
-      "greeceSea"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -67798,17 +67787,16 @@ const raw: Gen[] = [
     "countrySlug": "moldova",
     "countryName": "Moldova",
     "tagline": "A city in Moldova",
-    "heroKey": "eiffel",
+    "heroKey": "beach",
     "galleryKeys": [
-      "eiffel",
-      "colosseum",
-      "norway",
-      "greeceSea"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/MD.RB_-_Apartment_buildings_in_R%C3%AEbni%C8%9Ba_-_sep_2020_-_02.jpg/1280px-MD.RB_-_Apartment_buildings_in_R%C3%AEbni%C8%9Ba_-_sep_2020_-_02.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/MD.RB_-_Apartment_buildings_in_R%C3%AEbni%C8%9Ba_-_sep_2020_-_02.jpg/1280px-MD.RB_-_Apartment_buildings_in_R%C3%AEbni%C8%9Ba_-_sep_2020_-_02.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Fragment_Carte_de_Pologne_von_Rizzi-Zannoni_1667.jpg/500px-Fragment_Carte_de_Pologne_von_Rizzi-Zannoni_1667.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/04-%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D1%82%D1%83%D0%B1_%D0%B4%D0%B8%D1%81%D0%BF_%D0%A0%D1%8B%D0%B1%D0%BD%D0%B8%D1%86%D0%B0.jpg/1280px-04-%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D1%82%D1%83%D0%B1_%D0%B4%D0%B8%D1%81%D0%BF_%D0%A0%D1%8B%D0%B1%D0%BD%D0%B8%D1%86%D0%B0.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/MD.RB_-_road_bridge_between_Rezina_and_R%C3%AEbni%C8%9Ba_-_sep_2020.jpg/1280px-MD.RB_-_road_bridge_between_Rezina_and_R%C3%AEbni%C8%9Ba_-_sep_2020.jpg"
     ],
@@ -67842,12 +67830,12 @@ const raw: Gen[] = [
     "countrySlug": "latvia",
     "countryName": "Latvia",
     "tagline": "The capital of Latvia",
-    "heroKey": "norway",
+    "heroKey": "alps",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
       "alps",
-      "paris"
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Riga_%2833844464828%29.jpg/1280px-Riga_%2833844464828%29.jpg",
     "realGallery": [
@@ -67896,12 +67884,12 @@ const raw: Gen[] = [
     "countrySlug": "croatia",
     "countryName": "Croatia",
     "tagline": "A city in Croatia",
-    "heroKey": "santorini",
+    "heroKey": "alps",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Rijeka_Riva_promenade_aerial.jpg/1280px-Rijeka_Riva_promenade_aerial.jpg",
     "realGallery": [
@@ -68024,12 +68012,12 @@ const raw: Gen[] = [
     "countrySlug": "trinidad-and-tobago",
     "countryName": "Trinidad and Tobago",
     "tagline": "A city in Trinidad and Tobago",
-    "heroKey": "mountains",
+    "heroKey": "cityNight",
     "galleryKeys": [
+      "cityNight",
+      "beach",
       "mountains",
-      "coast",
-      "alps",
-      "nyc"
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -68063,12 +68051,12 @@ const raw: Gen[] = [
     "countrySlug": "brazil",
     "countryName": "Brazil",
     "tagline": "A city in Brazil",
-    "heroKey": "machuPicchu",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "machuPicchu",
       "mountains",
-      "temple",
-      "coast"
+      "coast",
+      "beach",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cidade_Maravilhosa.jpg/1280px-Cidade_Maravilhosa.jpg",
     "realGallery": [
@@ -68108,11 +68096,11 @@ const raw: Gen[] = [
     "countrySlug": "israel",
     "countryName": "Israel",
     "tagline": "A city in Israel",
-    "heroKey": "sahara",
+    "heroKey": "beach",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
+      "beach",
+      "food",
+      "lantern",
       "temple"
     ],
     "realPhoto": null,
@@ -68147,12 +68135,12 @@ const raw: Gen[] = [
     "countrySlug": "uruguay",
     "countryName": "Uruguay",
     "tagline": "A city in Uruguay",
-    "heroKey": "machuPicchu",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "machuPicchu",
       "mountains",
-      "temple",
-      "coast"
+      "coast",
+      "beach",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/RiveraCerroMarconi.jpg/1280px-RiveraCerroMarconi.jpg",
     "realGallery": [
@@ -68244,12 +68232,12 @@ const raw: Gen[] = [
     "countrySlug": "saudi-arabia",
     "countryName": "Saudi Arabia",
     "tagline": "The capital of Saudi Arabia",
-    "heroKey": "temple",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "temple",
-      "phiPhi",
-      "longtail",
-      "fujiLake"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Riyadh_Skyline.jpg/1280px-Riyadh_Skyline.jpg",
     "realGallery": [
@@ -68368,12 +68356,12 @@ const raw: Gen[] = [
     "countrySlug": "argentina",
     "countryName": "Argentina",
     "tagline": "A city in Argentina",
-    "heroKey": "coast",
+    "heroKey": "temple",
     "galleryKeys": [
-      "coast",
-      "beach",
-      "machuPicchu",
-      "mountains"
+      "temple",
+      "food",
+      "mountains",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/J30_869_Rosario.jpg/1280px-J30_869_Rosario.jpg",
     "realGallery": [
@@ -68456,9 +68444,9 @@ const raw: Gen[] = [
     "heroKey": "coast",
     "galleryKeys": [
       "coast",
-      "alps",
-      "nyc",
-      "cityNight"
+      "food",
+      "cityNight",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Roseau_Dominica.jpg",
     "realGallery": [
@@ -68560,8 +68548,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "beach",
       "coast",
-      "longtail",
-      "maldives"
+      "mountains",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -68595,12 +68583,12 @@ const raw: Gen[] = [
     "countrySlug": "netherlands",
     "countryName": "Netherlands",
     "tagline": "A city in Netherlands",
-    "heroKey": "paris",
+    "heroKey": "coast",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
-      "coast"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/A_view_of_Rotterdam%2C_taken_from_the_roof_of_the_Maassilo%2C_Rotterdam%2C_The_Netherlands.jpg/1280px-A_view_of_Rotterdam%2C_taken_from_the_roof_of_the_Maassilo%2C_Rotterdam%2C_The_Netherlands.jpg",
     "realGallery": [
@@ -68687,8 +68675,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -68725,8 +68713,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rundu_%282019%29.jpg/1280px-Rundu_%282019%29.jpg",
@@ -68782,9 +68770,9 @@ const raw: Gen[] = [
     "heroKey": "coast",
     "galleryKeys": [
       "coast",
-      "santorini",
-      "eiffel",
-      "colosseum"
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -68856,12 +68844,12 @@ const raw: Gen[] = [
     "countrySlug": "jordan",
     "countryName": "Jordan",
     "tagline": "A city in Jordan",
-    "heroKey": "phiPhi",
+    "heroKey": "beach",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Russeifa1.jpg/1280px-Russeifa1.jpg",
     "realGallery": [
@@ -68901,12 +68889,12 @@ const raw: Gen[] = [
     "countrySlug": "georgia",
     "countryName": "Georgia",
     "tagline": "A city in Georgia",
-    "heroKey": "cityNight",
+    "heroKey": "coast",
     "galleryKeys": [
-      "cityNight",
-      "lantern",
-      "sahara",
-      "tokyo"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rustavi_Metallurgical_Plant.jpg/1280px-Rustavi_Metallurgical_Plant.jpg",
     "realGallery": [
@@ -69021,9 +69009,9 @@ const raw: Gen[] = [
     "countrySlug": "burkina-faso",
     "countryName": "Burkina Faso",
     "tagline": "A city in Burkina Faso",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -69060,12 +69048,12 @@ const raw: Gen[] = [
     "countrySlug": "kuwait",
     "countryName": "Kuwait",
     "tagline": "A city in Kuwait",
-    "heroKey": "temple",
+    "heroKey": "lantern",
     "galleryKeys": [
+      "lantern",
       "temple",
-      "phiPhi",
-      "longtail",
-      "fujiLake"
+      "cityNight",
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -69099,12 +69087,12 @@ const raw: Gen[] = [
     "countrySlug": "bolivia",
     "countryName": "Bolivia",
     "tagline": "A city in Bolivia",
-    "heroKey": "coast",
+    "heroKey": "temple",
     "galleryKeys": [
-      "coast",
-      "beach",
-      "machuPicchu",
-      "mountains"
+      "temple",
+      "food",
+      "mountains",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/7/73/Sacaba_-_Bolivia.jpg",
     "realGallery": [
@@ -69140,12 +69128,12 @@ const raw: Gen[] = [
     "countrySlug": "oman",
     "countryName": "Oman",
     "tagline": "A city in Oman",
-    "heroKey": "phiPhi",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/%D8%B4%D8%A7%D8%B7%D8%A6_%D8%A7%D9%84%D8%A8%D8%AD%D8%B1_%D9%81%D9%8A_%D9%88%D9%84%D8%A7%D9%8A%D8%A9_%D8%B5%D8%AD%D9%85_%D8%B3%D9%84%D8%B7%D9%86%D8%A9_%D8%B9%D9%85%D8%A7%D9%86.jpg/1280px-%D8%B4%D8%A7%D8%B7%D8%A6_%D8%A7%D9%84%D8%A8%D8%AD%D8%B1_%D9%81%D9%8A_%D9%88%D9%84%D8%A7%D9%8A%D8%A9_%D8%B5%D8%AD%D9%85_%D8%B3%D9%84%D8%B7%D9%86%D8%A9_%D8%B9%D9%85%D8%A7%D9%86.jpg",
     "realGallery": [
@@ -69181,12 +69169,12 @@ const raw: Gen[] = [
     "countrySlug": "grenada",
     "countryName": "Grenada",
     "tagline": "A city in Grenada",
-    "heroKey": "nyc",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "nyc",
       "cityNight",
       "beach",
-      "mountains"
+      "mountains",
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -69238,9 +69226,9 @@ const raw: Gen[] = [
     "countrySlug": "antigua-and-barbuda",
     "countryName": "Antigua and Barbuda",
     "tagline": "The capital of Antigua and Barbuda",
-    "heroKey": "nyc",
+    "heroKey": "food",
     "galleryKeys": [
-      "nyc",
+      "food",
       "cityNight",
       "beach",
       "mountains"
@@ -69324,12 +69312,12 @@ const raw: Gen[] = [
     "countrySlug": "russia",
     "countryName": "Russia",
     "tagline": "A city in Russia",
-    "heroKey": "rome",
+    "heroKey": "alps",
     "galleryKeys": [
-      "rome",
-      "venice",
-      "coast",
-      "santorini"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Spb_06-2017_img20_StMichael_Castle_%28cropped%29.jpg/1280px-Spb_06-2017_img20_StMichael_Castle_%28cropped%29.jpg",
     "realGallery": [
@@ -69369,12 +69357,12 @@ const raw: Gen[] = [
     "countrySlug": "haiti",
     "countryName": "Haiti",
     "tagline": "A city in Haiti",
-    "heroKey": "beach",
+    "heroKey": "cityNight",
     "galleryKeys": [
+      "cityNight",
       "beach",
       "mountains",
-      "coast",
-      "alps"
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Saint-Marc_Welcome_Sign_at_Frecyneau.jpg/1280px-Saint-Marc_Welcome_Sign_at_Frecyneau.jpg",
     "realGallery": [
@@ -69415,9 +69403,9 @@ const raw: Gen[] = [
     "heroKey": "cityNight",
     "galleryKeys": [
       "cityNight",
-      "lantern",
-      "sahara",
-      "tokyo"
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Dunst_Oman_scan0322_-_Burj_al_Nahda.jpg/1280px-Dunst_Oman_scan0322_-_Burj_al_Nahda.jpg",
     "realGallery": [
@@ -69589,12 +69577,12 @@ const raw: Gen[] = [
     "countrySlug": "argentina",
     "countryName": "Argentina",
     "tagline": "A city in Argentina",
-    "heroKey": "mountains",
+    "heroKey": "coast",
     "galleryKeys": [
-      "mountains",
-      "temple",
       "coast",
-      "beach"
+      "beach",
+      "temple",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Panor%C3%A1mica_Ciudad_de_Salta.jpg/1280px-Panor%C3%A1mica_Ciudad_de_Salta.jpg",
     "realGallery": [
@@ -69700,12 +69688,12 @@ const raw: Gen[] = [
     "countrySlug": "uruguay",
     "countryName": "Uruguay",
     "tagline": "A city in Uruguay",
-    "heroKey": "temple",
+    "heroKey": "beach",
     "galleryKeys": [
-      "temple",
-      "coast",
       "beach",
-      "machuPicchu"
+      "temple",
+      "food",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -69777,12 +69765,12 @@ const raw: Gen[] = [
     "countrySlug": "brazil",
     "countryName": "Brazil",
     "tagline": "A city in Brazil",
-    "heroKey": "mountains",
+    "heroKey": "coast",
     "galleryKeys": [
-      "mountains",
-      "temple",
       "coast",
-      "beach"
+      "beach",
+      "temple",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -69870,12 +69858,12 @@ const raw: Gen[] = [
     "countrySlug": "austria",
     "countryName": "Austria",
     "tagline": "A city in Austria",
-    "heroKey": "paris",
+    "heroKey": "temple",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
-      "coast"
+      "temple",
+      "coast",
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -69909,12 +69897,12 @@ const raw: Gen[] = [
     "countrySlug": "uzbekistan",
     "countryName": "Uzbekistan",
     "tagline": "A city in Uzbekistan",
-    "heroKey": "sahara",
+    "heroKey": "temple",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "temple",
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/RegistanSquare_Samarkand.jpg/1280px-RegistanSquare_Samarkand.jpg",
     "realGallery": [
@@ -70049,12 +70037,12 @@ const raw: Gen[] = [
     "countrySlug": "thailand",
     "countryName": "Thailand",
     "tagline": "A city in Thailand",
-    "heroKey": "phiPhi",
+    "heroKey": "food",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "food",
+      "lantern",
+      "temple",
+      "cityNight"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -70148,12 +70136,12 @@ const raw: Gen[] = [
     "countrySlug": "united-states",
     "countryName": "United States",
     "tagline": "A city in United States",
-    "heroKey": "beach",
+    "heroKey": "coast",
     "galleryKeys": [
-      "beach",
-      "mountains",
       "coast",
-      "alps"
+      "food",
+      "cityNight",
+      "beach"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -70187,12 +70175,12 @@ const raw: Gen[] = [
     "countrySlug": "trinidad-and-tobago",
     "countryName": "Trinidad and Tobago",
     "tagline": "A city in Trinidad and Tobago",
-    "heroKey": "mountains",
+    "heroKey": "food",
     "galleryKeys": [
-      "mountains",
-      "coast",
-      "alps",
-      "nyc"
+      "food",
+      "cityNight",
+      "beach",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -70226,12 +70214,12 @@ const raw: Gen[] = [
     "countrySlug": "costa-rica",
     "countryName": "Costa Rica",
     "tagline": "A city in Costa Rica",
-    "heroKey": "cityNight",
+    "heroKey": "coast",
     "galleryKeys": [
+      "coast",
+      "food",
       "cityNight",
-      "beach",
-      "mountains",
-      "coast"
+      "beach"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -70265,12 +70253,12 @@ const raw: Gen[] = [
     "countrySlug": "united-states",
     "countryName": "United States",
     "tagline": "A city in United States",
-    "heroKey": "coast",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "coast",
-      "alps",
-      "nyc",
-      "cityNight"
+      "cityNight",
+      "beach",
+      "mountains",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/San_Francisco_Downtown_Aerial%2C_August_2025.jpg/1280px-San_Francisco_Downtown_Aerial%2C_August_2025.jpg",
     "realGallery": [
@@ -70310,12 +70298,12 @@ const raw: Gen[] = [
     "countrySlug": "belize",
     "countryName": "Belize",
     "tagline": "A city in Belize",
-    "heroKey": "coast",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "coast",
-      "alps",
-      "nyc",
-      "cityNight"
+      "cityNight",
+      "beach",
+      "mountains",
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -70349,12 +70337,12 @@ const raw: Gen[] = [
     "countrySlug": "costa-rica",
     "countryName": "Costa Rica",
     "tagline": "The capital of Costa Rica",
-    "heroKey": "alps",
+    "heroKey": "food",
     "galleryKeys": [
-      "alps",
-      "nyc",
+      "food",
       "cityNight",
-      "beach"
+      "beach",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -70388,12 +70376,12 @@ const raw: Gen[] = [
     "countrySlug": "paraguay",
     "countryName": "Paraguay",
     "tagline": "A city in Paraguay",
-    "heroKey": "mountains",
+    "heroKey": "coast",
     "galleryKeys": [
-      "mountains",
-      "temple",
       "coast",
-      "beach"
+      "beach",
+      "temple",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -70427,12 +70415,12 @@ const raw: Gen[] = [
     "countrySlug": "san-marino",
     "countryName": "San Marino",
     "tagline": "A city in San Marino",
-    "heroKey": "rome",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "rome",
-      "venice",
-      "coast",
-      "santorini"
+      "mountains",
+      "cityNight",
+      "alps",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/ac/San_Marino_constitution_1600.jpg",
     "realGallery": [
@@ -70544,12 +70532,12 @@ const raw: Gen[] = [
     "countrySlug": "el-salvador",
     "countryName": "El Salvador",
     "tagline": "A city in El Salvador",
-    "heroKey": "cityNight",
+    "heroKey": "coast",
     "galleryKeys": [
+      "coast",
+      "food",
       "cityNight",
-      "beach",
-      "mountains",
-      "coast"
+      "beach"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -70583,12 +70571,12 @@ const raw: Gen[] = [
     "countrySlug": "argentina",
     "countryName": "Argentina",
     "tagline": "A city in Argentina",
-    "heroKey": "machuPicchu",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "machuPicchu",
       "mountains",
-      "temple",
-      "coast"
+      "coast",
+      "beach",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Tucuman_San_Miguel_ciudad_capital_vista_de_noche_contexto_srl_revista_gonzaloluciani.jpg/1280px-Tucuman_San_Miguel_ciudad_capital_vista_de_noche_contexto_srl_revista_gonzaloluciani.jpg",
     "realGallery": [
@@ -70630,12 +70618,12 @@ const raw: Gen[] = [
     "countrySlug": "panama",
     "countryName": "Panama",
     "tagline": "A city in Panama",
-    "heroKey": "mountains",
+    "heroKey": "coast",
     "galleryKeys": [
-      "mountains",
       "coast",
-      "alps",
-      "nyc"
+      "food",
+      "cityNight",
+      "beach"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -70669,11 +70657,11 @@ const raw: Gen[] = [
     "countrySlug": "malta",
     "countryName": "Malta",
     "tagline": "A city in Malta",
-    "heroKey": "colosseum",
+    "heroKey": "coast",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
+      "coast",
+      "mountains",
+      "cityNight",
       "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St._Paul%27s_Bay_montage.jpg/1280px-St._Paul%27s_Bay_montage.jpg",
@@ -70715,7 +70703,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "coast",
-      "alps"
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -70840,12 +70828,12 @@ const raw: Gen[] = [
     "countrySlug": "dominican-republic",
     "countryName": "Dominican Republic",
     "tagline": "A city in Dominican Republic",
-    "heroKey": "mountains",
+    "heroKey": "coast",
     "galleryKeys": [
-      "mountains",
       "coast",
-      "alps",
-      "nyc"
+      "food",
+      "cityNight",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Catedral_San_Pedro_de_Macoris_04_2019_4320.jpg/1280px-Catedral_San_Pedro_de_Macoris_04_2019_4320.jpg",
     "realGallery": [
@@ -70892,12 +70880,12 @@ const raw: Gen[] = [
     "countrySlug": "honduras",
     "countryName": "Honduras",
     "tagline": "A city in Honduras",
-    "heroKey": "coast",
+    "heroKey": "food",
     "galleryKeys": [
-      "coast",
-      "alps",
-      "nyc",
-      "cityNight"
+      "food",
+      "cityNight",
+      "beach",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/d/df/Collage_of_San_Pedro_Sula_Honduras.jpg",
     "realGallery": [
@@ -70974,12 +70962,12 @@ const raw: Gen[] = [
     "countrySlug": "el-salvador",
     "countryName": "El Salvador",
     "tagline": "The capital of El Salvador",
-    "heroKey": "beach",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "beach",
       "mountains",
       "coast",
-      "alps"
+      "food",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Monumento_al_Salvador_del_Mundo_1.jpg/1280px-Monumento_al_Salvador_del_Mundo_1.jpg",
     "realGallery": [
@@ -71117,12 +71105,12 @@ const raw: Gen[] = [
     "countrySlug": "yemen",
     "countryName": "Yemen",
     "tagline": "A city in Yemen",
-    "heroKey": "cityNight",
+    "heroKey": "temple",
     "galleryKeys": [
+      "temple",
       "cityNight",
-      "lantern",
-      "sahara",
-      "tokyo"
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sana%27a_%282286825748%29.jpg/1280px-Sana%27a_%282286825748%29.jpg",
     "realGallery": [
@@ -71240,8 +71228,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "coast",
-      "alps",
-      "nyc"
+      "food",
+      "cityNight"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -71275,12 +71263,12 @@ const raw: Gen[] = [
     "countrySlug": "cuba",
     "countryName": "Cuba",
     "tagline": "A city in Cuba",
-    "heroKey": "coast",
+    "heroKey": "food",
     "galleryKeys": [
-      "coast",
-      "alps",
-      "nyc",
-      "cityNight"
+      "food",
+      "cityNight",
+      "beach",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -71314,12 +71302,12 @@ const raw: Gen[] = [
     "countrySlug": "bolivia",
     "countryName": "Bolivia",
     "tagline": "A city in Bolivia",
-    "heroKey": "mountains",
+    "heroKey": "coast",
     "galleryKeys": [
-      "mountains",
-      "temple",
       "coast",
-      "beach"
+      "beach",
+      "temple",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Santa_Cruz_de_la_Sierra_3.jpg/1280px-Santa_Cruz_de_la_Sierra_3.jpg",
     "realGallery": [
@@ -71422,12 +71410,12 @@ const raw: Gen[] = [
     "countrySlug": "el-salvador",
     "countryName": "El Salvador",
     "tagline": "A city in El Salvador",
-    "heroKey": "nyc",
+    "heroKey": "coast",
     "galleryKeys": [
-      "nyc",
+      "coast",
+      "food",
       "cityNight",
-      "beach",
-      "mountains"
+      "beach"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -71512,12 +71500,12 @@ const raw: Gen[] = [
     "countrySlug": "chile",
     "countryName": "Chile",
     "tagline": "The capital of Chile",
-    "heroKey": "temple",
+    "heroKey": "beach",
     "galleryKeys": [
-      "temple",
-      "coast",
       "beach",
-      "machuPicchu"
+      "temple",
+      "food",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Palacio_de_La_Moneda_-_miguelreflex.jpg/1280px-Palacio_de_La_Moneda_-_miguelreflex.jpg",
     "realGallery": [
@@ -71638,12 +71626,12 @@ const raw: Gen[] = [
     "countrySlug": "dominican-republic",
     "countryName": "Dominican Republic",
     "tagline": "A city in Dominican Republic",
-    "heroKey": "alps",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "alps",
-      "nyc",
       "cityNight",
-      "beach"
+      "beach",
+      "mountains",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SantiagoCitySkyline2.jpg/1280px-SantiagoCitySkyline2.jpg",
     "realGallery": [
@@ -71701,12 +71689,12 @@ const raw: Gen[] = [
     "countrySlug": "mexico",
     "countryName": "Mexico",
     "tagline": "A city in Mexico",
-    "heroKey": "beach",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "beach",
       "mountains",
       "coast",
-      "alps"
+      "food",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Panor%C3%A1mica_Jard%C3%ADn_Zenea.jpg/1280px-Panor%C3%A1mica_Jard%C3%ADn_Zenea.jpg",
     "realGallery": [
@@ -71746,12 +71734,12 @@ const raw: Gen[] = [
     "countrySlug": "dominican-republic",
     "countryName": "Dominican Republic",
     "tagline": "The capital of Dominican Republic",
-    "heroKey": "nyc",
+    "heroKey": "coast",
     "galleryKeys": [
-      "nyc",
+      "coast",
+      "food",
       "cityNight",
-      "beach",
-      "mountains"
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/SantoDomingoedit.JPG/1280px-SantoDomingoedit.JPG",
     "realGallery": [
@@ -71892,12 +71880,12 @@ const raw: Gen[] = [
     "countrySlug": "ecuador",
     "countryName": "Ecuador",
     "tagline": "A city in Ecuador",
-    "heroKey": "mountains",
+    "heroKey": "coast",
     "galleryKeys": [
-      "mountains",
-      "temple",
       "coast",
-      "beach"
+      "beach",
+      "temple",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Collage_Santo_Domingo.png/1280px-Collage_Santo_Domingo.png",
     "realGallery": [],
@@ -71953,7 +71941,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "coast",
-      "alps"
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Faro_a_Colon_SD_RD_01_2018_8077.jpg/1280px-Faro_a_Colon_SD_RD_01_2018_8077.jpg",
     "realGallery": [
@@ -71991,12 +71979,12 @@ const raw: Gen[] = [
     "countrySlug": "dominican-republic",
     "countryName": "Dominican Republic",
     "tagline": "A city in Dominican Republic",
-    "heroKey": "alps",
+    "heroKey": "food",
     "galleryKeys": [
-      "alps",
-      "nyc",
+      "food",
       "cityNight",
-      "beach"
+      "beach",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -72030,12 +72018,12 @@ const raw: Gen[] = [
     "countrySlug": "brazil",
     "countryName": "Brazil",
     "tagline": "A city in Brazil",
-    "heroKey": "beach",
+    "heroKey": "food",
     "galleryKeys": [
-      "beach",
-      "machuPicchu",
+      "food",
       "mountains",
-      "temple"
+      "coast",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Marginal_Pinheiros_e_Jockey_Club.jpg/1280px-Marginal_Pinheiros_e_Jockey_Club.jpg",
     "realGallery": [
@@ -72079,8 +72067,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/2012SaoTome-8_%288042889363%29.jpg/1280px-2012SaoTome-8_%288042889363%29.jpg",
     "realGallery": [
@@ -72181,12 +72169,12 @@ const raw: Gen[] = [
     "countrySlug": "japan",
     "countryName": "Japan",
     "tagline": "A city in Japan",
-    "heroKey": "fujiLake",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
       "cityNight",
-      "lantern"
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/5/54/SapporoCity_Skylines2020.jpg",
     "realGallery": [
@@ -72310,12 +72298,12 @@ const raw: Gen[] = [
     "countrySlug": "bosnia-and-herzegovina",
     "countryName": "Bosnia and Herzegovina",
     "tagline": "The capital of Bosnia and Herzegovina",
-    "heroKey": "norway",
+    "heroKey": "coast",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
-      "alps",
-      "paris"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Sarajevo_City_Panorama.JPG/1280px-Sarajevo_City_Panorama.JPG",
     "realGallery": [
@@ -72438,9 +72426,9 @@ const raw: Gen[] = [
     "countrySlug": "chad",
     "countryName": "Chad",
     "tagline": "A city in Chad",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -72483,8 +72471,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "coast",
-      "alps",
-      "nyc"
+      "food",
+      "cityNight"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -72518,12 +72506,12 @@ const raw: Gen[] = [
     "countrySlug": "laos",
     "countryName": "Laos",
     "tagline": "A city in Laos",
-    "heroKey": "sahara",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Savannakhet1.JPG/1280px-Savannakhet1.JPG",
     "realGallery": [
@@ -72646,8 +72634,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "coast",
-      "alps",
-      "nyc"
+      "food",
+      "cityNight"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -72681,12 +72669,12 @@ const raw: Gen[] = [
     "countrySlug": "romania",
     "countryName": "Romania",
     "tagline": "A city in Romania",
-    "heroKey": "alps",
+    "heroKey": "mountains",
     "galleryKeys": [
+      "mountains",
+      "cityNight",
       "alps",
-      "paris",
-      "rome",
-      "venice"
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/PiataRosettimare.JPG/1280px-PiataRosettimare.JPG",
     "realGallery": [
@@ -72722,12 +72710,12 @@ const raw: Gen[] = [
     "countrySlug": "romania",
     "countryName": "Romania",
     "tagline": "A city in Romania",
-    "heroKey": "greeceSea",
+    "heroKey": "temple",
     "galleryKeys": [
-      "greeceSea",
-      "alps",
-      "paris",
-      "rome"
+      "temple",
+      "coast",
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -72761,12 +72749,12 @@ const raw: Gen[] = [
     "countrySlug": "romania",
     "countryName": "Romania",
     "tagline": "A city in Romania",
-    "heroKey": "coast",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "coast",
-      "santorini",
-      "eiffel",
-      "colosseum"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Lujerului%2C_Militari.jpg/1280px-Lujerului%2C_Militari.jpg",
     "realGallery": [
@@ -72804,12 +72792,12 @@ const raw: Gen[] = [
     "countrySlug": "oman",
     "countryName": "Oman",
     "tagline": "A city in Oman",
-    "heroKey": "dubai",
+    "heroKey": "food",
     "galleryKeys": [
-      "dubai",
-      "cityNight",
+      "food",
       "lantern",
-      "sahara"
+      "temple",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Al_Maabilah%2C_Seeb%2C_Oman_-_panoramio_-_Luca_Margheriti_%281%29.jpg/1280px-Al_Maabilah%2C_Seeb%2C_Oman_-_panoramio_-_Luca_Margheriti_%281%29.jpg",
     "realGallery": [
@@ -72927,8 +72915,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/2/22/Sekondi-Takoradi_Montage.jpg",
     "realGallery": [
@@ -73010,12 +72998,12 @@ const raw: Gen[] = [
     "countrySlug": "singapore",
     "countryName": "Singapore",
     "tagline": "A city in Singapore",
-    "heroKey": "phiPhi",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "lantern",
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Compassvale_Court%2C_Sep_06.JPG/1280px-Compassvale_Court%2C_Sep_06.JPG",
     "realGallery": [
@@ -73055,12 +73043,12 @@ const raw: Gen[] = [
     "countrySlug": "brunei",
     "countryName": "Brunei",
     "tagline": "A city in Brunei",
-    "heroKey": "longtail",
+    "heroKey": "beach",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sengkurong_2_June_2023_11.jpg/1280px-Sengkurong_2_June_2023_11.jpg",
     "realGallery": [
@@ -73097,12 +73085,12 @@ const raw: Gen[] = [
     "countrySlug": "south-korea",
     "countryName": "South Korea",
     "tagline": "The capital of South Korea",
-    "heroKey": "sahara",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/%EC%A4%91%ED%99%94%EC%A0%84%EC%9D%98_%EB%82%AE.jpg/1280px-%EC%A4%91%ED%99%94%EC%A0%84%EC%9D%98_%EB%82%AE.jpg",
     "realGallery": [
@@ -73147,9 +73135,9 @@ const raw: Gen[] = [
     "countrySlug": "gambia",
     "countryName": "Gambia",
     "tagline": "A city in Gambia",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -73232,12 +73220,12 @@ const raw: Gen[] = [
     "countrySlug": "brunei",
     "countryName": "Brunei",
     "tagline": "A city in Brunei",
-    "heroKey": "sahara",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Zebra_crossing_on_Jalan_Sultan_Omar_Ali_at_Seria%2C_Brunei.jpg/1280px-Zebra_crossing_on_Jalan_Sultan_Omar_Ali_at_Seria%2C_Brunei.jpg",
     "realGallery": [
@@ -73281,8 +73269,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Straight_lines.jpg/1280px-Straight_lines.jpg",
     "realGallery": [
@@ -73319,12 +73307,12 @@ const raw: Gen[] = [
     "countrySlug": "croatia",
     "countryName": "Croatia",
     "tagline": "A city in Croatia",
-    "heroKey": "norway",
+    "heroKey": "food",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
-      "alps",
-      "paris"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -73358,12 +73346,12 @@ const raw: Gen[] = [
     "countrySlug": "spain",
     "countryName": "Spain",
     "tagline": "A city in Spain",
-    "heroKey": "santorini",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sevilla_Cathedral_-_Southeast.jpg/1280px-Sevilla_Cathedral_-_Southeast.jpg",
     "realGallery": [
@@ -73486,12 +73474,12 @@ const raw: Gen[] = [
     "countrySlug": "spain",
     "countryName": "Spain",
     "tagline": "A city in Spain",
-    "heroKey": "paris",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
-      "coast"
+      "mountains",
+      "cityNight",
+      "alps",
+      "beach"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -73525,9 +73513,9 @@ const raw: Gen[] = [
     "countrySlug": "tunisia",
     "countryName": "Tunisia",
     "tagline": "A city in Tunisia",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -73621,12 +73609,12 @@ const raw: Gen[] = [
     "countrySlug": "malaysia",
     "countryName": "Malaysia",
     "tagline": "A city in Malaysia",
-    "heroKey": "kyoto",
+    "heroKey": "temple",
     "galleryKeys": [
-      "kyoto",
       "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shah_Alam_Blue_mosque_at_night.jpg/1280px-Shah_Alam_Blue_mosque_at_night.jpg",
     "realGallery": [
@@ -73713,12 +73701,12 @@ const raw: Gen[] = [
     "countrySlug": "china",
     "countryName": "China",
     "tagline": "A city in China",
-    "heroKey": "lantern",
+    "heroKey": "coast",
     "galleryKeys": [
-      "lantern",
-      "sahara",
-      "tokyo",
-      "kyoto"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Huangpu_Park_20124-Shanghai_%2832208802494%29.jpg/1280px-Huangpu_Park_20124-Shanghai_%2832208802494%29.jpg",
     "realGallery": [
@@ -73760,12 +73748,12 @@ const raw: Gen[] = [
     "countrySlug": "united-arab-emirates",
     "countryName": "United Arab Emirates",
     "tagline": "A city in United Arab Emirates",
-    "heroKey": "dubai",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "dubai",
-      "cityNight",
       "lantern",
-      "sahara"
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Al_Qasba.jpg",
     "realGallery": [
@@ -73895,7 +73883,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -73929,12 +73917,12 @@ const raw: Gen[] = [
     "countrySlug": "united-kingdom",
     "countryName": "United Kingdom",
     "tagline": "A city in United Kingdom",
-    "heroKey": "santorini",
+    "heroKey": "alps",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Sheffield_16-Sep-22-2.jpg/1280px-Sheffield_16-Sep-22-2.jpg",
     "realGallery": [
@@ -74077,12 +74065,12 @@ const raw: Gen[] = [
     "countrySlug": "armenia",
     "countryName": "Armenia",
     "tagline": "A city in Armenia",
-    "heroKey": "longtail",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -74116,12 +74104,12 @@ const raw: Gen[] = [
     "countrySlug": "china",
     "countryName": "China",
     "tagline": "A city in China",
-    "heroKey": "temple",
+    "heroKey": "lantern",
     "galleryKeys": [
+      "lantern",
       "temple",
-      "phiPhi",
-      "longtail",
-      "fujiLake"
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Commercial_area_of_futian_to_east2020.jpg/1280px-Commercial_area_of_futian_to_east2020.jpg",
     "realGallery": [
@@ -74170,12 +74158,12 @@ const raw: Gen[] = [
     "countrySlug": "iran",
     "countryName": "Iran",
     "tagline": "A city in Iran",
-    "heroKey": "tokyo",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
-      "temple",
-      "phiPhi"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Darvaze_Ghoran11.jpg/1280px-Darvaze_Ghoran11.jpg",
     "realGallery": [
@@ -74323,12 +74311,12 @@ const raw: Gen[] = [
     "countrySlug": "albania",
     "countryName": "Albania",
     "tagline": "A city in Albania",
-    "heroKey": "venice",
+    "heroKey": "alps",
     "galleryKeys": [
-      "venice",
-      "coast",
-      "santorini",
-      "eiffel"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/The_City_and_the_Prokletije_from_the_castle.jpg/1280px-The_City_and_the_Prokletije_from_the_castle.jpg",
     "realGallery": [
@@ -74473,10 +74461,10 @@ const raw: Gen[] = [
     "countrySlug": "egypt",
     "countryName": "Egypt",
     "tagline": "A city in Egypt",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -74518,12 +74506,12 @@ const raw: Gen[] = [
     "countrySlug": "kazakhstan",
     "countryName": "Kazakhstan",
     "tagline": "A city in Kazakhstan",
-    "heroKey": "tokyo",
+    "heroKey": "temple",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
       "temple",
-      "phiPhi"
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Shymkent_independence_square_in_2023.jpg/1280px-Shymkent_independence_square_in_2023.jpg",
     "realGallery": [
@@ -74655,12 +74643,12 @@ const raw: Gen[] = [
     "countrySlug": "lithuania",
     "countryName": "Lithuania",
     "tagline": "A city in Lithuania",
-    "heroKey": "eiffel",
+    "heroKey": "temple",
     "galleryKeys": [
-      "eiffel",
-      "colosseum",
-      "norway",
-      "greeceSea"
+      "temple",
+      "coast",
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/%C5%A0iauliai_State_College_and_%C5%A0iauliai_Cathedral_in_2022.jpg/1280px-%C5%A0iauliai_State_College_and_%C5%A0iauliai_Cathedral_in_2022.jpg",
     "realGallery": [
@@ -74771,9 +74759,9 @@ const raw: Gen[] = [
     "heroKey": "lantern",
     "galleryKeys": [
       "lantern",
-      "sahara",
-      "tokyo",
-      "kyoto"
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/View_from_Sidon%27s_Sea_Castle%2C_Sidon%2C_Lebanon.jpg/1280px-View_from_Sidon%27s_Sea_Castle%2C_Sidon%2C_Lebanon.jpg",
     "realGallery": [
@@ -74826,12 +74814,12 @@ const raw: Gen[] = [
     "countrySlug": "cambodia",
     "countryName": "Cambodia",
     "tagline": "A city in Cambodia",
-    "heroKey": "dubai",
+    "heroKey": "coast",
     "galleryKeys": [
-      "dubai",
-      "cityNight",
-      "lantern",
-      "sahara"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Front_porch_of_Wat_Damnak.jpg/1280px-Front_porch_of_Wat_Damnak.jpg",
     "realGallery": [
@@ -74968,14 +74956,13 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/89/Le_grand_march%C3%A9_de_Sikasso.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Le_grand_march%C3%A9_de_Sikasso.jpg/500px-Le_grand_march%C3%A9_de_Sikasso.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Pg109.jpg/1280px-Pg109.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pg111_Carte_des_environs_de_Sikasso.jpg/1280px-Pg111_Carte_des_environs_de_Sikasso.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Pg109.jpg/1280px-Pg109.jpg"
     ],
     "overview": "Sikasso is one of Mali's major cities, home to around 349,324 people.",
     "bestTime": "The dry season for the most comfortable travel",
@@ -75018,12 +75005,12 @@ const raw: Gen[] = [
     "countrySlug": "singapore",
     "countryName": "Singapore",
     "tagline": "The capital of Singapore",
-    "heroKey": "phiPhi",
+    "heroKey": "temple",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "temple",
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Letter_from_William_Farquhar_to_Sultan_Muhammad_Kanzul_Alam%2C_the_Sultan_of_Brunei%2C_dated_28_November_1819.jpg/1280px-Letter_from_William_Farquhar_to_Sultan_Muhammad_Kanzul_Alam%2C_the_Sultan_of_Brunei%2C_dated_28_November_1819.jpg",
     "realGallery": [
@@ -75063,12 +75050,12 @@ const raw: Gen[] = [
     "countrySlug": "bahrain",
     "countryName": "Bahrain",
     "tagline": "A city in Bahrain",
-    "heroKey": "temple",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "temple",
-      "phiPhi",
-      "longtail",
-      "fujiLake"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/BapcoTanks-SitraBahrain.jpg/330px-BapcoTanks-SitraBahrain.jpg",
     "realGallery": [
@@ -75114,12 +75101,12 @@ const raw: Gen[] = [
     "countrySlug": "north-macedonia",
     "countryName": "North Macedonia",
     "tagline": "The capital of North Macedonia",
-    "heroKey": "colosseum",
+    "heroKey": "food",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
-      "alps"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Skopje_view_from_Kale_3.jpg/1280px-Skopje_view_from_Kale_3.jpg",
     "realGallery": [
@@ -75189,12 +75176,12 @@ const raw: Gen[] = [
     "countrySlug": "malta",
     "countryName": "Malta",
     "tagline": "A city in Malta",
-    "heroKey": "norway",
+    "heroKey": "coast",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
-      "alps",
-      "paris"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sliema_montage.png",
     "realGallery": [
@@ -75276,11 +75263,11 @@ const raw: Gen[] = [
     "countrySlug": "bulgaria",
     "countryName": "Bulgaria",
     "tagline": "The capital of Bulgaria",
-    "heroKey": "paris",
+    "heroKey": "beach",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
+      "beach",
+      "food",
+      "temple",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Russian_church_%2837591925970%29.jpg/1280px-Russian_church_%2837591925970%29.jpg",
@@ -75420,11 +75407,11 @@ const raw: Gen[] = [
     "countrySlug": "georgia",
     "countryName": "Georgia",
     "tagline": "A city in Georgia",
-    "heroKey": "fujiLake",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
-      "cityNight",
+      "mountains",
+      "beach",
+      "food",
       "lantern"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sokhumi_Collage.jpg/1280px-Sokhumi_Collage.jpg",
@@ -75568,8 +75555,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Sokod%C3%A9-centre-ville.jpg",
     "realGallery": [
@@ -75613,8 +75600,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -75677,7 +75664,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Tunezja%2C_Sousse_-_panoramio_%283%29.jpg/1280px-Tunezja%2C_Sousse_-_panoramio_%283%29.jpg",
     "realGallery": [
@@ -75751,12 +75738,12 @@ const raw: Gen[] = [
     "countrySlug": "ireland",
     "countryName": "Ireland",
     "tagline": "A city in Ireland",
-    "heroKey": "santorini",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/South_Dublin_County_Boundary_Sign.jpg/1280px-South_Dublin_County_Boundary_Sign.jpg",
     "realGallery": [
@@ -75792,10 +75779,10 @@ const raw: Gen[] = [
     "countrySlug": "south-africa",
     "countryName": "South Africa",
     "tagline": "A city in South Africa",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -75903,12 +75890,12 @@ const raw: Gen[] = [
     "countrySlug": "el-salvador",
     "countryName": "El Salvador",
     "tagline": "A city in El Salvador",
-    "heroKey": "coast",
+    "heroKey": "beach",
     "galleryKeys": [
+      "beach",
+      "mountains",
       "coast",
-      "alps",
-      "nyc",
-      "cityNight"
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Soyapango2021.jpg",
     "realGallery": [
@@ -75944,12 +75931,12 @@ const raw: Gen[] = [
     "countrySlug": "jamaica",
     "countryName": "Jamaica",
     "tagline": "A city in Jamaica",
-    "heroKey": "beach",
+    "heroKey": "food",
     "galleryKeys": [
+      "food",
+      "cityNight",
       "beach",
-      "mountains",
-      "coast",
-      "alps"
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/St.-Jago-de-la-Vega.JPG/1280px-St.-Jago-de-la-Vega.JPG",
     "realGallery": [
@@ -75989,12 +75976,12 @@ const raw: Gen[] = [
     "countrySlug": "croatia",
     "countryName": "Croatia",
     "tagline": "A city in Croatia",
-    "heroKey": "santorini",
+    "heroKey": "beach",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -76110,12 +76097,12 @@ const raw: Gen[] = [
     "countrySlug": "bulgaria",
     "countryName": "Bulgaria",
     "tagline": "A city in Bulgaria",
-    "heroKey": "greeceSea",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "greeceSea",
+      "cityNight",
       "alps",
-      "paris",
-      "rome"
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/3/33/Samarsko_Zname_Panorama.jpg",
     "realGallery": [
@@ -76192,12 +76179,12 @@ const raw: Gen[] = [
     "countrySlug": "norway",
     "countryName": "Norway",
     "tagline": "A city in Norway",
-    "heroKey": "norway",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
+      "cityNight",
       "alps",
-      "paris"
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Breiavatnet_-_Stavanger%2C_Norway_2021-08-01_%2802%29.jpg/1280px-Breiavatnet_-_Stavanger%2C_Norway_2021-08-01_%2802%29.jpg",
     "realGallery": [
@@ -76326,12 +76313,12 @@ const raw: Gen[] = [
     "countrySlug": "sweden",
     "countryName": "Sweden",
     "tagline": "The capital of Sweden",
-    "heroKey": "santorini",
+    "heroKey": "coast",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Royal_Dramatic_Theatre_Stockholm.jpg/1280px-Royal_Dramatic_Theatre_Stockholm.jpg",
     "realGallery": [
@@ -76378,12 +76365,12 @@ const raw: Gen[] = [
     "countrySlug": "cyprus",
     "countryName": "Cyprus",
     "tagline": "A city in Cyprus",
-    "heroKey": "alps",
+    "heroKey": "beach",
     "galleryKeys": [
-      "alps",
-      "paris",
-      "rome",
-      "venice"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Stovolos-municipal-theatre.JPG/1280px-Stovolos-municipal-theatre.JPG",
     "realGallery": [
@@ -76420,12 +76407,12 @@ const raw: Gen[] = [
     "countrySlug": "timor-leste",
     "countryName": "Timor-Leste",
     "tagline": "A city in Timor-Leste",
-    "heroKey": "kyoto",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "kyoto",
-      "temple",
-      "phiPhi",
-      "longtail"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/c/c8/New_Ave_Maria_Church_Suai.jpg",
     "realGallery": [
@@ -76492,12 +76479,12 @@ const raw: Gen[] = [
     "countrySlug": "bolivia",
     "countryName": "Bolivia",
     "tagline": "The capital of Bolivia",
-    "heroKey": "machuPicchu",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "machuPicchu",
       "mountains",
-      "temple",
-      "coast"
+      "coast",
+      "beach",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sucre%2C_Capital_de_Bolivia.jpg/1280px-Sucre%2C_Capital_de_Bolivia.jpg",
     "realGallery": [
@@ -76628,10 +76615,10 @@ const raw: Gen[] = [
     "countrySlug": "egypt",
     "countryName": "Egypt",
     "tagline": "A city in Egypt",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -76673,9 +76660,9 @@ const raw: Gen[] = [
     "countrySlug": "tunisia",
     "countryName": "Tunisia",
     "tagline": "A city in Tunisia",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -76753,12 +76740,12 @@ const raw: Gen[] = [
     "countrySlug": "saudi-arabia",
     "countryName": "Saudi Arabia",
     "tagline": "A city in Saudi Arabia",
-    "heroKey": "kyoto",
+    "heroKey": "beach",
     "galleryKeys": [
-      "kyoto",
-      "temple",
-      "phiPhi",
-      "longtail"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -76792,12 +76779,12 @@ const raw: Gen[] = [
     "countrySlug": "azerbaijan",
     "countryName": "Azerbaijan",
     "tagline": "A city in Azerbaijan",
-    "heroKey": "longtail",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "lantern",
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sumqay%C4%B1t_%C5%9F%C9%99h%C9%99r_%C4%B0cra_Hakimiyy%C9%99ti.jpg/1280px-Sumqay%C4%B1t_%C5%9F%C9%99h%C9%99r_%C4%B0cra_Hakimiyy%C9%99ti.jpg",
     "realGallery": [
@@ -76844,12 +76831,12 @@ const raw: Gen[] = [
     "countrySlug": "north-korea",
     "countryName": "North Korea",
     "tagline": "A city in North Korea",
-    "heroKey": "lantern",
+    "heroKey": "coast",
     "galleryKeys": [
-      "lantern",
-      "sahara",
-      "tokyo",
-      "kyoto"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f6/DPRK2006_Pyongnam-Sunchon.PNG",
     "realGallery": [],
@@ -76883,11 +76870,11 @@ const raw: Gen[] = [
     "countrySlug": "indonesia",
     "countryName": "Indonesia",
     "tagline": "A city in Indonesia",
-    "heroKey": "fujiLake",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
-      "cityNight",
+      "mountains",
+      "beach",
+      "food",
       "lantern"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Central_Surabaya_view_taken_from_JW_Marriott_Surabaya.jpg/1280px-Central_Surabaya_view_taken_from_JW_Marriott_Surabaya.jpg",
@@ -77025,8 +77012,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "beach",
       "coast",
-      "longtail",
-      "maldives"
+      "mountains",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Suva%2C_Fiji_77.jpg/1280px-Suva%2C_Fiji_77.jpg",
     "realGallery": [
@@ -77239,10 +77226,10 @@ const raw: Gen[] = [
     "countrySlug": "australia",
     "countryName": "Australia",
     "tagline": "A city in Australia",
-    "heroKey": "maldives",
+    "heroKey": "food",
     "galleryKeys": [
-      "maldives",
-      "mountains",
+      "food",
+      "cityNight",
       "beach",
       "coast"
     ],
@@ -77284,12 +77271,12 @@ const raw: Gen[] = [
     "countrySlug": "hungary",
     "countryName": "Hungary",
     "tagline": "A city in Hungary",
-    "heroKey": "santorini",
+    "heroKey": "alps",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ferenc_M%C3%B3ra_Museum_2021-03-02%2C_Szeged.jpg/1280px-Ferenc_M%C3%B3ra_Museum_2021-03-02%2C_Szeged.jpg",
     "realGallery": [
@@ -77435,12 +77422,12 @@ const raw: Gen[] = [
     "countrySlug": "iran",
     "countryName": "Iran",
     "tagline": "A city in Iran",
-    "heroKey": "cityNight",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "cityNight",
       "lantern",
-      "sahara",
-      "tokyo"
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Tabriz_Municipality_Sa%27at_Tower.jpg/1280px-Tabriz_Municipality_Sa%27at_Tower.jpg",
     "realGallery": [
@@ -77563,7 +77550,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Tagore.jpg",
     "realGallery": [
@@ -77603,12 +77590,12 @@ const raw: Gen[] = [
     "countrySlug": "philippines",
     "countryName": "Philippines",
     "tagline": "A city in Philippines",
-    "heroKey": "dubai",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "dubai",
-      "cityNight",
       "lantern",
-      "sahara"
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bonifacio_Global_City%2C_South_Cembo%2C_Guadalupe_drone_%28Taguig_City%3B_12-31-2025%29.jpg/1280px-Bonifacio_Global_City%2C_South_Cembo%2C_Guadalupe_drone_%28Taguig_City%3B_12-31-2025%29.jpg",
     "realGallery": [
@@ -77725,9 +77712,9 @@ const raw: Gen[] = [
     "countrySlug": "niger",
     "countryName": "Niger",
     "tagline": "A city in Niger",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -77769,12 +77756,12 @@ const raw: Gen[] = [
     "countrySlug": "taiwan",
     "countryName": "Taiwan",
     "tagline": "The capital of Taiwan",
-    "heroKey": "phiPhi",
+    "heroKey": "food",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "food",
+      "lantern",
+      "temple",
+      "cityNight"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -77808,12 +77795,12 @@ const raw: Gen[] = [
     "countrySlug": "yemen",
     "countryName": "Yemen",
     "tagline": "A city in Yemen",
-    "heroKey": "sahara",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Taiz_%2815182373707%29_%28retouched%29.jpg/1280px-Taiz_%2815182373707%29_%28retouched%29.jpg",
     "realGallery": [
@@ -77853,12 +77840,12 @@ const raw: Gen[] = [
     "countrySlug": "cambodia",
     "countryName": "Cambodia",
     "tagline": "A city in Cambodia",
-    "heroKey": "cityNight",
+    "heroKey": "food",
     "galleryKeys": [
-      "cityNight",
+      "food",
       "lantern",
-      "sahara",
-      "tokyo"
+      "temple",
+      "cityNight"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -77929,10 +77916,10 @@ const raw: Gen[] = [
     "countrySlug": "ghana",
     "countryName": "Ghana",
     "tagline": "A city in Ghana",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -78019,8 +78006,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": null,
@@ -78055,12 +78042,12 @@ const raw: Gen[] = [
     "countrySlug": "ireland",
     "countryName": "Ireland",
     "tagline": "A city in Ireland",
-    "heroKey": "norway",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
+      "mountains",
+      "cityNight",
       "alps",
-      "paris"
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Tallaght_-_aerial_-_2025-07-12_07.jpg/1280px-Tallaght_-_aerial_-_2025-07-12_07.jpg",
     "realGallery": [
@@ -78100,12 +78087,12 @@ const raw: Gen[] = [
     "countrySlug": "estonia",
     "countryName": "Estonia",
     "tagline": "The capital of Estonia",
-    "heroKey": "venice",
+    "heroKey": "beach",
     "galleryKeys": [
-      "venice",
-      "coast",
-      "santorini",
-      "eiffel"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Raekoja_plats_at_night.jpg/1280px-Raekoja_plats_at_night.jpg",
     "realGallery": [
@@ -78254,8 +78241,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tamale_Oaxaque%C3%B1o.jpg/1280px-Tamale_Oaxaque%C3%B1o.jpg",
@@ -78357,12 +78344,12 @@ const raw: Gen[] = [
     "countrySlug": "finland",
     "countryName": "Finland",
     "tagline": "A city in Finland",
-    "heroKey": "venice",
+    "heroKey": "temple",
     "galleryKeys": [
-      "venice",
+      "temple",
       "coast",
-      "santorini",
-      "eiffel"
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Tampere_Montage_1.jpg/1280px-Tampere_Montage_1.jpg",
     "realGallery": [
@@ -78521,12 +78508,12 @@ const raw: Gen[] = [
     "countrySlug": "singapore",
     "countryName": "Singapore",
     "tagline": "A city in Singapore",
-    "heroKey": "phiPhi",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -78560,10 +78547,10 @@ const raw: Gen[] = [
     "countrySlug": "solomon-islands",
     "countryName": "Solomon Islands",
     "tagline": "A city in Solomon Islands",
-    "heroKey": "maldives",
+    "heroKey": "food",
     "galleryKeys": [
-      "maldives",
-      "mountains",
+      "food",
+      "cityNight",
       "beach",
       "coast"
     ],
@@ -78599,9 +78586,9 @@ const raw: Gen[] = [
     "countrySlug": "morocco",
     "countryName": "Morocco",
     "tagline": "A city in Morocco",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -78728,12 +78715,12 @@ const raw: Gen[] = [
     "countrySlug": "kiribati",
     "countryName": "Kiribati",
     "tagline": "A city in Kiribati",
-    "heroKey": "mountains",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "mountains",
+      "cityNight",
       "beach",
       "coast",
-      "longtail"
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Line5304_-_Flickr_-_NOAA_Photo_Library.jpg/1280px-Line5304_-_Flickr_-_NOAA_Photo_Library.jpg",
     "realGallery": [
@@ -78783,12 +78770,12 @@ const raw: Gen[] = [
     "countrySlug": "kazakhstan",
     "countryName": "Kazakhstan",
     "tagline": "A city in Kazakhstan",
-    "heroKey": "fujiLake",
+    "heroKey": "beach",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
-      "cityNight",
-      "lantern"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Karakhan_Mausoleum.JPG/1280px-Karakhan_Mausoleum.JPG",
     "realGallery": [
@@ -78877,12 +78864,12 @@ const raw: Gen[] = [
     "countrySlug": "estonia",
     "countryName": "Estonia",
     "tagline": "A city in Estonia",
-    "heroKey": "santorini",
+    "heroKey": "alps",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Tartu_%282019%29.jpg",
     "realGallery": [
@@ -79017,12 +79004,12 @@ const raw: Gen[] = [
     "countrySlug": "uzbekistan",
     "countryName": "Uzbekistan",
     "tagline": "The capital of Uzbekistan",
-    "heroKey": "cityNight",
+    "heroKey": "coast",
     "galleryKeys": [
-      "cityNight",
-      "lantern",
-      "sahara",
-      "tokyo"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Nest_One_Tashkent.jpg/1280px-Nest_One_Tashkent.jpg",
     "realGallery": [
@@ -79183,11 +79170,11 @@ const raw: Gen[] = [
     "countrySlug": "georgia",
     "countryName": "Georgia",
     "tagline": "The capital of Georgia",
-    "heroKey": "sahara",
+    "heroKey": "beach",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
+      "beach",
+      "food",
+      "lantern",
       "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/View_of_Tbilisi_from_Tabori_Church_2023-10-08-2.jpg/1280px-View_of_Tbilisi_from_Tabori_Church_2023-10-08-2.jpg",
@@ -79331,12 +79318,12 @@ const raw: Gen[] = [
     "countrySlug": "honduras",
     "countryName": "Honduras",
     "tagline": "The capital of Honduras",
-    "heroKey": "cityNight",
+    "heroKey": "coast",
     "galleryKeys": [
+      "coast",
+      "food",
       "cityNight",
-      "beach",
-      "mountains",
-      "coast"
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tegucigalpa_downtown_panoramic_2026.jpg/1280px-Tegucigalpa_downtown_panoramic_2026.jpg",
     "realGallery": [
@@ -79439,12 +79426,12 @@ const raw: Gen[] = [
     "countrySlug": "iran",
     "countryName": "Iran",
     "tagline": "The capital of Iran",
-    "heroKey": "phiPhi",
+    "heroKey": "coast",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/North_of_Tehran_Skyline_view.jpg/1280px-North_of_Tehran_Skyline_view.jpg",
     "realGallery": [
@@ -79583,12 +79570,12 @@ const raw: Gen[] = [
     "countrySlug": "israel",
     "countryName": "Israel",
     "tagline": "A city in Israel",
-    "heroKey": "sahara",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sarona_CBD_01_%28cropped%29.jpg/1280px-Sarona_CBD_01_%28cropped%29.jpg",
     "realGallery": [
@@ -79633,7 +79620,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -79667,12 +79654,12 @@ const raw: Gen[] = [
     "countrySlug": "north-macedonia",
     "countryName": "North Macedonia",
     "tagline": "A city in North Macedonia",
-    "heroKey": "norway",
+    "heroKey": "alps",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
       "alps",
-      "paris"
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/20090715_Tetovo_view_from_the_mountain.jpg/1280px-20090715_Tetovo_view_from_the_mountain.jpg",
     "realGallery": [
@@ -79789,12 +79776,12 @@ const raw: Gen[] = [
     "countrySlug": "laos",
     "countryName": "Laos",
     "tagline": "A city in Laos",
-    "heroKey": "fujiLake",
+    "heroKey": "food",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
-      "cityNight",
-      "lantern"
+      "food",
+      "lantern",
+      "temple",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Khammouane_Thakhek2_tango7174.jpg/1280px-Khammouane_Thakhek2_tango7174.jpg",
     "realGallery": [
@@ -79862,12 +79849,12 @@ const raw: Gen[] = [
     "countrySlug": "netherlands",
     "countryName": "Netherlands",
     "tagline": "A city in Netherlands",
-    "heroKey": "paris",
+    "heroKey": "coast",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
-      "coast"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Den_Haag_Skyline_1.jpg/1280px-Den_Haag_Skyline_1.jpg",
     "realGallery": [
@@ -79990,12 +79977,12 @@ const raw: Gen[] = [
     "countrySlug": "greece",
     "countryName": "Greece",
     "tagline": "A city in Greece",
-    "heroKey": "paris",
+    "heroKey": "food",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
-      "coast"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tessaloniki_BW_2017-10-05_18-22-47.jpg/1280px-Tessaloniki_BW_2017-10-05_18-22-47.jpg",
     "realGallery": [
@@ -80167,12 +80154,12 @@ const raw: Gen[] = [
     "countrySlug": "bhutan",
     "countryName": "Bhutan",
     "tagline": "The capital of Bhutan",
-    "heroKey": "longtail",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Tashich%C3%B6dzong_Thimphu-2008-01-23.jpg/1280px-Tashich%C3%B6dzong_Thimphu-2008-01-23.jpg",
     "realGallery": [
@@ -80305,12 +80292,12 @@ const raw: Gen[] = [
     "countrySlug": "china",
     "countryName": "China",
     "tagline": "A city in China",
-    "heroKey": "temple",
+    "heroKey": "coast",
     "galleryKeys": [
-      "temple",
-      "phiPhi",
-      "longtail",
-      "fujiLake"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Tianjin_Eye_and_Tianjin.jpg/1280px-Tianjin_Eye_and_Tianjin.jpg",
     "realGallery": [
@@ -80350,12 +80337,12 @@ const raw: Gen[] = [
     "countrySlug": "mexico",
     "countryName": "Mexico",
     "tagline": "A city in Mexico",
-    "heroKey": "mountains",
+    "heroKey": "food",
     "galleryKeys": [
-      "mountains",
-      "coast",
-      "alps",
-      "nyc"
+      "food",
+      "cityNight",
+      "beach",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Templo_Tijuana_Mexico_%28cropped%29.jpg/1280px-Templo_Tijuana_Mexico_%28cropped%29.jpg",
     "realGallery": [
@@ -80395,12 +80382,12 @@ const raw: Gen[] = [
     "countrySlug": "albania",
     "countryName": "Albania",
     "tagline": "The capital of Albania",
-    "heroKey": "alps",
+    "heroKey": "cityNight",
     "galleryKeys": [
+      "cityNight",
       "alps",
-      "paris",
-      "rome",
-      "venice"
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Skanderbeg_square_tirana_2016.jpg/1280px-Skanderbeg_square_tirana_2016.jpg",
     "realGallery": [
@@ -80567,12 +80554,12 @@ const raw: Gen[] = [
     "countrySlug": "moldova",
     "countryName": "Moldova",
     "tagline": "A city in Moldova",
-    "heroKey": "paris",
+    "heroKey": "alps",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
-      "coast"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/House_of_Soviets_%2842912066861%29.jpg/1280px-House_of_Soviets_%2842912066861%29.jpg",
     "realGallery": [
@@ -80690,10 +80677,10 @@ const raw: Gen[] = [
     "countrySlug": "madagascar",
     "countryName": "Madagascar",
     "tagline": "A city in Madagascar",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -80770,12 +80757,12 @@ const raw: Gen[] = [
     "countrySlug": "kyrgyzstan",
     "countryName": "Kyrgyzstan",
     "tagline": "A city in Kyrgyzstan",
-    "heroKey": "lantern",
+    "heroKey": "coast",
     "galleryKeys": [
-      "lantern",
-      "sahara",
-      "tokyo",
-      "kyoto"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Soviet_Il-28_bomber_monument_in_Tokmok_20080830.jpg/1280px-Soviet_Il-28_bomber_monument_in_Tokmok_20080830.jpg",
     "realGallery": [
@@ -80820,7 +80807,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ville_de_Tul%C3%A9ar_%28Toliara%29_en_1934.jpg/500px-Ville_de_Tul%C3%A9ar_%28Toliara%29_en_1934.jpg",
     "realGallery": [
@@ -80902,12 +80889,12 @@ const raw: Gen[] = [
     "countrySlug": "canada",
     "countryName": "Canada",
     "tagline": "A city in Canada",
-    "heroKey": "nyc",
+    "heroKey": "beach",
     "galleryKeys": [
-      "nyc",
-      "cityNight",
       "beach",
-      "mountains"
+      "mountains",
+      "coast",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Toronto_Skyline_from_Olympic_Island%2C_June_20_2026_%285-3_cropped%29.jpg/1280px-Toronto_Skyline_from_Olympic_Island%2C_June_20_2026_%285-3_cropped%29.jpg",
     "realGallery": [
@@ -80959,10 +80946,10 @@ const raw: Gen[] = [
     "countrySlug": "senegal",
     "countryName": "Senegal",
     "tagline": "A city in Senegal",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -81003,12 +80990,12 @@ const raw: Gen[] = [
     "countrySlug": "france",
     "countryName": "France",
     "tagline": "A city in France",
-    "heroKey": "venice",
+    "heroKey": "food",
     "galleryKeys": [
-      "venice",
+      "food",
+      "temple",
       "coast",
-      "santorini",
-      "eiffel"
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Toulouse_-_vue_du_Vieux_Toulouse_depuis_St_Sernin_06.jpg/1280px-Toulouse_-_vue_du_Vieux_Toulouse_depuis_St_Sernin_06.jpg",
     "realGallery": [
@@ -81116,8 +81103,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -81151,12 +81138,12 @@ const raw: Gen[] = [
     "countrySlug": "lebanon",
     "countryName": "Lebanon",
     "tagline": "A city in Lebanon",
-    "heroKey": "longtail",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -81263,8 +81250,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -81367,12 +81354,12 @@ const raw: Gen[] = [
     "countrySlug": "norway",
     "countryName": "Norway",
     "tagline": "A city in Norway",
-    "heroKey": "venice",
+    "heroKey": "temple",
     "galleryKeys": [
-      "venice",
+      "temple",
       "coast",
-      "santorini",
-      "eiffel"
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/7/71/Trondheim_overview_01.jpg",
     "realGallery": [
@@ -81503,12 +81490,12 @@ const raw: Gen[] = [
     "countrySlug": "peru",
     "countryName": "Peru",
     "tagline": "A city in Peru",
-    "heroKey": "machuPicchu",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "machuPicchu",
       "mountains",
-      "temple",
-      "coast"
+      "coast",
+      "beach",
+      "temple"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -81542,11 +81529,11 @@ const raw: Gen[] = [
     "countrySlug": "bhutan",
     "countryName": "Bhutan",
     "tagline": "A city in Bhutan",
-    "heroKey": "sahara",
+    "heroKey": "beach",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
+      "beach",
+      "food",
+      "lantern",
       "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Dzong_at_Damphu_Tsirang_Bhutan.jpg/1280px-Dzong_at_Damphu_Tsirang_Bhutan.jpg",
@@ -81583,12 +81570,12 @@ const raw: Gen[] = [
     "countrySlug": "mexico",
     "countryName": "Mexico",
     "tagline": "A city in Mexico",
-    "heroKey": "beach",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "beach",
       "mountains",
       "coast",
-      "alps"
+      "food",
+      "cityNight"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -81746,12 +81733,12 @@ const raw: Gen[] = [
     "countrySlug": "italy",
     "countryName": "Italy",
     "tagline": "A city in Italy",
-    "heroKey": "paris",
+    "heroKey": "alps",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
-      "coast"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Torino_Piazza_Castello_11.jpg/1280px-Torino_Piazza_Castello_11.jpg",
     "realGallery": [
@@ -81857,12 +81844,12 @@ const raw: Gen[] = [
     "countrySlug": "turkmenistan",
     "countryName": "Turkmenistan",
     "tagline": "A city in Turkmenistan",
-    "heroKey": "dubai",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "dubai",
       "cityNight",
-      "lantern",
-      "sahara"
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/0/02/Lebap_wela%C3%BDatyny%C5%88_Ruhy%C3%BDet_k%C3%B6%C5%9Fgi.jpg",
     "realGallery": [
@@ -81902,12 +81889,12 @@ const raw: Gen[] = [
     "countrySlug": "turkmenistan",
     "countryName": "Turkmenistan",
     "tagline": "A city in Turkmenistan",
-    "heroKey": "sahara",
+    "heroKey": "coast",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -81941,12 +81928,12 @@ const raw: Gen[] = [
     "countrySlug": "finland",
     "countryName": "Finland",
     "tagline": "A city in Finland",
-    "heroKey": "coast",
+    "heroKey": "beach",
     "galleryKeys": [
-      "coast",
-      "santorini",
-      "eiffel",
-      "colosseum"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/View_from_Turku_Cathedral_tower.jpg/1280px-View_from_Turku_Cathedral_tower.jpg",
     "realGallery": [
@@ -82077,12 +82064,12 @@ const raw: Gen[] = [
     "countrySlug": "brunei",
     "countryName": "Brunei",
     "tagline": "A city in Brunei",
-    "heroKey": "longtail",
+    "heroKey": "temple",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "temple",
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -82148,12 +82135,12 @@ const raw: Gen[] = [
     "countrySlug": "bosnia-and-herzegovina",
     "countryName": "Bosnia and Herzegovina",
     "tagline": "A city in Bosnia and Herzegovina",
-    "heroKey": "santorini",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "mountains",
+      "cityNight",
+      "alps",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Tuzla%2C_Kapija_place.jpg",
     "realGallery": [
@@ -82239,12 +82226,12 @@ const raw: Gen[] = [
     "countrySlug": "lebanon",
     "countryName": "Lebanon",
     "tagline": "A city in Lebanon",
-    "heroKey": "phiPhi",
+    "heroKey": "temple",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "temple",
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -82323,12 +82310,12 @@ const raw: Gen[] = [
     "countrySlug": "india",
     "countryName": "India",
     "tagline": "A city in India",
-    "heroKey": "kyoto",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "kyoto",
+      "lantern",
       "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight",
+      "coast"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -82362,12 +82349,12 @@ const raw: Gen[] = [
     "countrySlug": "mongolia",
     "countryName": "Mongolia",
     "tagline": "The capital of Mongolia",
-    "heroKey": "dubai",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "dubai",
-      "cityNight",
       "lantern",
-      "sahara"
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/UB_downtown.jpg/1280px-UB_downtown.jpg",
     "realGallery": [
@@ -82533,12 +82520,12 @@ const raw: Gen[] = [
     "countrySlug": "singapore",
     "countryName": "Singapore",
     "tagline": "A city in Singapore",
-    "heroKey": "phiPhi",
+    "heroKey": "food",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "food",
+      "lantern",
+      "temple",
+      "cityNight"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -82572,12 +82559,12 @@ const raw: Gen[] = [
     "countrySlug": "sweden",
     "countryName": "Sweden",
     "tagline": "A city in Sweden",
-    "heroKey": "colosseum",
+    "heroKey": "food",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
-      "alps"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Uppsala.jpg",
     "realGallery": [
@@ -82701,12 +82688,12 @@ const raw: Gen[] = [
     "countrySlug": "netherlands",
     "countryName": "Netherlands",
     "tagline": "A city in Netherlands",
-    "heroKey": "eiffel",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "eiffel",
-      "colosseum",
-      "norway",
-      "greeceSea"
+      "mountains",
+      "cityNight",
+      "alps",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Utrecht_%2816295236803%29.jpg/1280px-Utrecht_%2816295236803%29.jpg",
     "realGallery": [
@@ -82811,12 +82798,12 @@ const raw: Gen[] = [
     "countrySlug": "bolivia",
     "countryName": "Bolivia",
     "tagline": "A city in Bolivia",
-    "heroKey": "machuPicchu",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "machuPicchu",
       "mountains",
-      "temple",
-      "coast"
+      "coast",
+      "beach",
+      "temple"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -82850,12 +82837,12 @@ const raw: Gen[] = [
     "countrySlug": "kyrgyzstan",
     "countryName": "Kyrgyzstan",
     "tagline": "A city in Kyrgyzstan",
-    "heroKey": "dubai",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "dubai",
-      "cityNight",
-      "lantern",
-      "sahara"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Uzgen_Mausoleum.jpg/1280px-Uzgen_Mausoleum.jpg",
     "realGallery": [
@@ -82894,10 +82881,10 @@ const raw: Gen[] = [
     "countrySlug": "mauritius",
     "countryName": "Mauritius",
     "tagline": "A city in Mauritius",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -82935,12 +82922,12 @@ const raw: Gen[] = [
     "countrySlug": "liechtenstein",
     "countryName": "Liechtenstein",
     "tagline": "The capital of Liechtenstein",
-    "heroKey": "venice",
+    "heroKey": "beach",
     "galleryKeys": [
-      "venice",
-      "coast",
-      "santorini",
-      "eiffel"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/View_of_Vaduz.jpg/1280px-View_of_Vaduz.jpg",
     "realGallery": [
@@ -83037,12 +83024,12 @@ const raw: Gen[] = [
     "countrySlug": "spain",
     "countryName": "Spain",
     "tagline": "A city in Spain",
-    "heroKey": "rome",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "rome",
-      "venice",
-      "coast",
-      "santorini"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Malvarrosa_Beach%2C_Valencia%2C_Spain_%2829812271043%29.jpg/1280px-Malvarrosa_Beach%2C_Valencia%2C_Spain_%2829812271043%29.jpg",
     "realGallery": [
@@ -83143,12 +83130,12 @@ const raw: Gen[] = [
     "countrySlug": "venezuela",
     "countryName": "Venezuela",
     "tagline": "A city in Venezuela",
-    "heroKey": "beach",
+    "heroKey": "food",
     "galleryKeys": [
-      "beach",
-      "machuPicchu",
+      "food",
       "mountains",
-      "temple"
+      "coast",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Malvarrosa_Beach%2C_Valencia%2C_Spain_%2829812271043%29.jpg/1280px-Malvarrosa_Beach%2C_Valencia%2C_Spain_%2829812271043%29.jpg",
     "realGallery": [
@@ -83249,12 +83236,12 @@ const raw: Gen[] = [
     "countrySlug": "malta",
     "countryName": "Malta",
     "tagline": "The capital of Malta",
-    "heroKey": "norway",
+    "heroKey": "temple",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
-      "alps",
-      "paris"
+      "temple",
+      "coast",
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/St_Sebastian_Curtain_%28cropped%29.jpg/1280px-St_Sebastian_Curtain_%28cropped%29.jpg",
     "realGallery": [
@@ -83394,12 +83381,12 @@ const raw: Gen[] = [
     "countrySlug": "chile",
     "countryName": "Chile",
     "tagline": "A city in Chile",
-    "heroKey": "mountains",
+    "heroKey": "coast",
     "galleryKeys": [
-      "mountains",
-      "temple",
       "coast",
-      "beach"
+      "beach",
+      "temple",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Historic_Quarter_of_the_Seaport_City_of_Valpara%C3%ADso_04.jpg",
     "realGallery": [
@@ -83506,12 +83493,12 @@ const raw: Gen[] = [
     "countrySlug": "canada",
     "countryName": "Canada",
     "tagline": "A city in Canada",
-    "heroKey": "coast",
+    "heroKey": "beach",
     "galleryKeys": [
+      "beach",
+      "mountains",
       "coast",
-      "alps",
-      "nyc",
-      "cityNight"
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -83545,12 +83532,12 @@ const raw: Gen[] = [
     "countrySlug": "finland",
     "countryName": "Finland",
     "tagline": "A city in Finland",
-    "heroKey": "norway",
+    "heroKey": "temple",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
-      "alps",
-      "paris"
+      "temple",
+      "coast",
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/e7/VantaaMontage1%28jpg%29.jpg",
     "realGallery": [
@@ -83665,12 +83652,12 @@ const raw: Gen[] = [
     "countrySlug": "india",
     "countryName": "India",
     "tagline": "A city in India",
-    "heroKey": "lantern",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "lantern",
-      "sahara",
-      "tokyo",
-      "kyoto"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -83704,12 +83691,12 @@ const raw: Gen[] = [
     "countrySlug": "bulgaria",
     "countryName": "Bulgaria",
     "tagline": "A city in Bulgaria",
-    "heroKey": "colosseum",
+    "heroKey": "alps",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
-      "alps"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -83837,18 +83824,17 @@ const raw: Gen[] = [
     "countrySlug": "vatican-city",
     "countryName": "Vatican City",
     "tagline": "The capital of Vatican City",
-    "heroKey": "greeceSea",
+    "heroKey": "coast",
     "galleryKeys": [
-      "greeceSea",
-      "alps",
-      "paris",
-      "rome"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Vatikanische_Gaerten_Museen_Rom.jpg/1280px-Vatikanische_Gaerten_Museen_Rom.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Vatikanische_Gaerten_Museen_Rom.jpg/1280px-Vatikanische_Gaerten_Museen_Rom.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Obelisk_of_St._Peter.jpg/1280px-Obelisk_of_St._Peter.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Plan_of_Circus_Neronis_and_St._Peters.gif/500px-Plan_of_Circus_Neronis_and_St._Peters.gif",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/The_British_Army_in_Italy_1944_NA16179.jpg/500px-The_British_Army_in_Italy_1944_NA16179.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg/1280px-St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg"
     ],
@@ -83951,12 +83937,12 @@ const raw: Gen[] = [
     "countrySlug": "latvia",
     "countryName": "Latvia",
     "tagline": "A city in Latvia",
-    "heroKey": "santorini",
+    "heroKey": "temple",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "temple",
+      "coast",
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ventspils_viduslaiku_pils_2.jpg/1280px-Ventspils_viduslaiku_pils_2.jpg",
     "realGallery": [
@@ -84075,10 +84061,10 @@ const raw: Gen[] = [
     "countrySlug": "angola",
     "countryName": "Angola",
     "tagline": "A city in Angola",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -84118,8 +84104,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -84153,9 +84139,9 @@ const raw: Gen[] = [
     "countrySlug": "zimbabwe",
     "countryName": "Zimbabwe",
     "tagline": "A city in Zimbabwe",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -84192,12 +84178,12 @@ const raw: Gen[] = [
     "countrySlug": "austria",
     "countryName": "Austria",
     "tagline": "The capital of Austria",
-    "heroKey": "coast",
+    "heroKey": "temple",
     "galleryKeys": [
+      "temple",
       "coast",
-      "santorini",
-      "eiffel",
-      "colosseum"
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Schoenbrunn_philharmoniker_2012.jpg/1280px-Schoenbrunn_philharmoniker_2012.jpg",
     "realGallery": [
@@ -84253,9 +84239,9 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "phiPhi",
-      "longtail",
-      "fujiLake"
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Vientiane_-_Patuxai_-_0003.jpg/1280px-Vientiane_-_Patuxai_-_0003.jpg",
     "realGallery": [
@@ -84395,12 +84381,12 @@ const raw: Gen[] = [
     "countrySlug": "guatemala",
     "countryName": "Guatemala",
     "tagline": "A city in Guatemala",
-    "heroKey": "cityNight",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "cityNight",
-      "beach",
       "mountains",
-      "coast"
+      "coast",
+      "food",
+      "cityNight"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -84434,12 +84420,12 @@ const raw: Gen[] = [
     "countrySlug": "lithuania",
     "countryName": "Lithuania",
     "tagline": "The capital of Lithuania",
-    "heroKey": "colosseum",
+    "heroKey": "food",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
-      "alps"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/The_White_Bridge_and_%C5%A0nipi%C5%A1k%C4%97s_district_in_Vilnius_in_2023_by_Augustas_Did%C5%BEgalvis.jpg/1280px-The_White_Bridge_and_%C5%A0nipi%C5%A1k%C4%97s_district_in_Vilnius_in_2023_by_Augustas_Did%C5%BEgalvis.jpg",
     "realGallery": [
@@ -84595,12 +84581,12 @@ const raw: Gen[] = [
     "countrySlug": "chile",
     "countryName": "Chile",
     "tagline": "A city in Chile",
-    "heroKey": "beach",
+    "heroKey": "food",
     "galleryKeys": [
-      "beach",
-      "machuPicchu",
+      "food",
       "mountains",
-      "temple"
+      "coast",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Palacio_Vergara%2C_Vi%C3%B1a_del_Mar_20210725_16.jpg/1280px-Palacio_Vergara%2C_Vi%C3%B1a_del_Mar_20210725_16.jpg",
     "realGallery": [
@@ -84665,12 +84651,12 @@ const raw: Gen[] = [
     "countrySlug": "belarus",
     "countryName": "Belarus",
     "tagline": "A city in Belarus",
-    "heroKey": "paris",
+    "heroKey": "food",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
-      "coast"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/0/0d/%D0%92%D1%96%D1%86%D0%B5%D0%B1%D1%81%D0%BA%D1%96%D1%8F_%D0%BA%D1%80%D0%B0%D1%8F%D0%B2%D1%96%D0%B4%D1%8B_03.jpg",
     "realGallery": [
@@ -84763,12 +84749,12 @@ const raw: Gen[] = [
     "countrySlug": "albania",
     "countryName": "Albania",
     "tagline": "A city in Albania",
-    "heroKey": "santorini",
+    "heroKey": "coast",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Promenade_of_Vlor%C3%AB_along_the_Adriatic_Sea.jpg/1280px-Promenade_of_Vlor%C3%AB_along_the_Adriatic_Sea.jpg",
     "realGallery": [
@@ -84910,8 +84896,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "beach",
       "coast",
-      "longtail",
-      "maldives"
+      "mountains",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -85061,12 +85047,12 @@ const raw: Gen[] = [
     "countrySlug": "poland",
     "countryName": "Poland",
     "tagline": "The capital of Poland",
-    "heroKey": "coast",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "coast",
-      "santorini",
-      "eiffel",
-      "colosseum"
+      "mountains",
+      "cityNight",
+      "alps",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Aleja_Niepdleglosci_Warsaw_2022_aerial_%28cropped%29.jpg/1280px-Aleja_Niepdleglosci_Warsaw_2022_aerial_%28cropped%29.jpg",
     "realGallery": [
@@ -85119,12 +85105,12 @@ const raw: Gen[] = [
     "countrySlug": "united-states",
     "countryName": "United States",
     "tagline": "The capital of United States",
-    "heroKey": "cityNight",
+    "heroKey": "beach",
     "galleryKeys": [
-      "cityNight",
       "beach",
       "mountains",
-      "coast"
+      "coast",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -85158,10 +85144,10 @@ const raw: Gen[] = [
     "countrySlug": "sierra-leone",
     "countryName": "Sierra Leone",
     "tagline": "A city in Sierra Leone",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -85248,8 +85234,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "beach",
       "coast",
-      "longtail",
-      "maldives"
+      "mountains",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Seddon_Statue_in_Parliament_Grounds.jpg/1280px-Seddon_Statue_in_Parliament_Grounds.jpg",
     "realGallery": [
@@ -85289,18 +85275,17 @@ const raw: Gen[] = [
     "countrySlug": "israel",
     "countryName": "Israel",
     "tagline": "A city in Israel",
-    "heroKey": "phiPhi",
+    "heroKey": "food",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "food",
+      "lantern",
+      "temple",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/c/c5/JerusalemEastAndWest.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/JerusalemEastAndWest.jpg/500px-JerusalemEastAndWest.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/%D7%94%D7%A8_%D7%94%D7%91%D7%99%D7%AA_%D7%9E%D7%93%D7%A8%D7%95%D7%9D_%D7%9E%D7%A2%D7%A8%D7%91.jpg/1280px-%D7%94%D7%A8_%D7%94%D7%91%D7%99%D7%AA_%D7%9E%D7%93%D7%A8%D7%95%D7%9D_%D7%9E%D7%A2%D7%A8%D7%91.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/First_Town_Plan_of_Jerusalem%2C_1918%2C_William_McLean.jpg/1280px-First_Town_Plan_of_Jerusalem%2C_1918%2C_William_McLean.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/PikiWiki_Israel_20755_The_Palmach.jpg/1280px-PikiWiki_Israel_20755_The_Palmach.jpg"
     ],
     "overview": "West Jerusalem is one of Israel's major cities, home to around 400,000 people.",
@@ -85534,8 +85519,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -85574,7 +85559,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "coast",
-      "alps"
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Winnipeg%2C_Manitoba_skyline_%28cropped%29.jpg/1280px-Winnipeg%2C_Manitoba_skyline_%28cropped%29.jpg",
     "realGallery": [
@@ -85731,12 +85716,12 @@ const raw: Gen[] = [
     "countrySlug": "switzerland",
     "countryName": "Switzerland",
     "tagline": "A city in Switzerland",
-    "heroKey": "venice",
+    "heroKey": "temple",
     "galleryKeys": [
-      "venice",
+      "temple",
       "coast",
-      "santorini",
-      "eiffel"
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Blick_auf_die_Winterthurer_Altstadt.jpg/1280px-Blick_auf_die_Winterthurer_Altstadt.jpg",
     "realGallery": [
@@ -85802,12 +85787,12 @@ const raw: Gen[] = [
     "countrySlug": "poland",
     "countryName": "Poland",
     "tagline": "A city in Poland",
-    "heroKey": "eiffel",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "eiffel",
-      "colosseum",
-      "norway",
-      "greeceSea"
+      "mountains",
+      "cityNight",
+      "alps",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Wroclaw-_Most_Grunwaldzki.jpg/1280px-Wroclaw-_Most_Grunwaldzki.jpg",
     "realGallery": [
@@ -85955,12 +85940,12 @@ const raw: Gen[] = [
     "countrySlug": "laos",
     "countryName": "Laos",
     "tagline": "A city in Laos",
-    "heroKey": "dubai",
+    "heroKey": "temple",
     "galleryKeys": [
-      "dubai",
+      "temple",
       "cityNight",
-      "lantern",
-      "sahara"
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Sam_Neua_-_town_overview.jpg",
     "realGallery": [
@@ -85999,12 +85984,12 @@ const raw: Gen[] = [
     "countrySlug": "china",
     "countryName": "China",
     "tagline": "A city in China",
-    "heroKey": "dubai",
+    "heroKey": "coast",
     "galleryKeys": [
-      "dubai",
-      "cityNight",
-      "lantern",
-      "sahara"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -86038,10 +86023,10 @@ const raw: Gen[] = [
     "countrySlug": "ivory-coast",
     "countryName": "Ivory Coast",
     "tagline": "The capital of Ivory Coast",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -86105,12 +86090,12 @@ const raw: Gen[] = [
     "countrySlug": "myanmar",
     "countryName": "Myanmar",
     "tagline": "A city in Myanmar",
-    "heroKey": "fujiLake",
+    "heroKey": "food",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
-      "cityNight",
-      "lantern"
+      "food",
+      "lantern",
+      "temple",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/b/b9/ShwedagonPagoda.jpg",
     "realGallery": [
@@ -86379,11 +86364,11 @@ const raw: Gen[] = [
     "countrySlug": "nauru",
     "countryName": "Nauru",
     "tagline": "The capital of Nauru",
-    "heroKey": "longtail",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "longtail",
-      "maldives",
       "mountains",
+      "food",
+      "cityNight",
       "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parliament_%2815403802091%29.jpg/1280px-Parliament_%2815403802091%29.jpg",
@@ -86540,12 +86525,12 @@ const raw: Gen[] = [
     "countrySlug": "russia",
     "countryName": "Russia",
     "tagline": "A city in Russia",
-    "heroKey": "greeceSea",
+    "heroKey": "food",
     "galleryKeys": [
-      "greeceSea",
-      "alps",
-      "paris",
-      "rome"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/E-burg_asv2019-05_img46_view_from_VysotSky.jpg/1280px-E-burg_asv2019-05_img46_view_from_VysotSky.jpg",
     "realGallery": [
@@ -86660,12 +86645,12 @@ const raw: Gen[] = [
     "countrySlug": "armenia",
     "countryName": "Armenia",
     "tagline": "The capital of Armenia",
-    "heroKey": "cityNight",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "cityNight",
-      "lantern",
-      "sahara",
-      "tokyo"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Mount_Ararat_and_the_Yerevan_skyline_%28June_2018%29.jpg/1280px-Mount_Ararat_and_the_Yerevan_skyline_%28June_2018%29.jpg",
     "realGallery": [
@@ -86814,12 +86799,12 @@ const raw: Gen[] = [
     "countrySlug": "azerbaijan",
     "countryName": "Azerbaijan",
     "tagline": "A city in Azerbaijan",
-    "heroKey": "phiPhi",
+    "heroKey": "coast",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yevlax_D%C9%99miryol_Stansiyas%C4%B1_2017-05-27.jpg/1280px-Yevlax_D%C9%99miryol_Stansiyas%C4%B1_2017-05-27.jpg",
     "realGallery": [
@@ -86862,12 +86847,12 @@ const raw: Gen[] = [
     "countrySlug": "japan",
     "countryName": "Japan",
     "tagline": "A city in Japan",
-    "heroKey": "tokyo",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
-      "temple",
-      "phiPhi"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Minato_Mirai.jpg/1280px-Minato_Mirai.jpg",
     "realGallery": [
@@ -87001,12 +86986,12 @@ const raw: Gen[] = [
     "countrySlug": "uzbekistan",
     "countryName": "Uzbekistan",
     "tagline": "A city in Uzbekistan",
-    "heroKey": "phiPhi",
+    "heroKey": "temple",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "temple",
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Tashkent_District_11_-_Yunusabad.png",
     "realGallery": [],
@@ -87040,17 +87025,16 @@ const raw: Gen[] = [
     "countrySlug": "malta",
     "countryName": "Malta",
     "tagline": "A city in Malta",
-    "heroKey": "santorini",
+    "heroKey": "temple",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "temple",
+      "coast",
+      "mountains",
+      "cityNight"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/%C5%BBabbar_Street.jpg/1280px-%C5%BBabbar_Street.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/%C5%BBabbar_Street.jpg/1280px-%C5%BBabbar_Street.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sketch_plan_of_Casal_Zabbar_%281901%29.jpg/1280px-Sketch_plan_of_Casal_Zabbar_%281901%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Malta_-_Fgura-Zabbar_-_Hompesch_Arch_06_ies.jpg/1280px-Malta_-_Fgura-Zabbar_-_Hompesch_Arch_06_ies.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Zabbar_Kugel.JPG/1280px-Zabbar_Kugel.JPG",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/%C5%BBabbar_Church.jpg/1280px-%C5%BBabbar_Church.jpg"
@@ -87085,12 +87069,12 @@ const raw: Gen[] = [
     "countrySlug": "croatia",
     "countryName": "Croatia",
     "tagline": "A city in Croatia",
-    "heroKey": "colosseum",
+    "heroKey": "food",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
-      "alps"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Roman_Forum_in_Zadar%2C_Croatia_%2848607823862%29.jpg/1280px-Roman_Forum_in_Zadar%2C_Croatia_%2848607823862%29.jpg",
     "realGallery": [
@@ -87190,12 +87174,12 @@ const raw: Gen[] = [
     "countrySlug": "croatia",
     "countryName": "Croatia",
     "tagline": "The capital of Croatia",
-    "heroKey": "norway",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
+      "cityNight",
       "alps",
-      "paris"
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zagreb_%2829255640143%29.jpg/1280px-Zagreb_%2829255640143%29.jpg",
     "realGallery": [
@@ -87334,8 +87318,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_old_castle_in_Zanzibar.JPG/1280px-The_old_castle_in_Zanzibar.JPG",
     "realGallery": [
@@ -87380,12 +87364,12 @@ const raw: Gen[] = [
     "countrySlug": "spain",
     "countryName": "Spain",
     "tagline": "A city in Spain",
-    "heroKey": "coast",
+    "heroKey": "food",
     "galleryKeys": [
+      "food",
+      "temple",
       "coast",
-      "santorini",
-      "eiffel",
-      "colosseum"
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Zaragoza_-_Bas%C3%ADlica_del_Pilar_y_r%C3%ADo_Ebro.jpg",
     "realGallery": [
@@ -87496,12 +87480,12 @@ const raw: Gen[] = [
     "countrySlug": "jordan",
     "countryName": "Jordan",
     "tagline": "A city in Jordan",
-    "heroKey": "longtail",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "lantern",
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/7/77/%D8%A7%D9%84%D8%B2%D8%B1%D9%82%D8%A7%D8%A1_%D8%AE%D9%84%D8%A7%D9%84_%D8%AD%D8%B8%D8%B1_%D8%A7%D9%84%D8%AA%D8%AC%D9%88%D9%84_%D9%86%D9%8A%D8%B3%D8%A7%D9%86_%D9%A2%D9%A0%D9%A2%D9%A1.jpg",
     "realGallery": [
@@ -87541,12 +87525,12 @@ const raw: Gen[] = [
     "countrySlug": "serbia",
     "countryName": "Serbia",
     "tagline": "A city in Serbia",
-    "heroKey": "rome",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "rome",
-      "venice",
-      "coast",
-      "santorini"
+      "mountains",
+      "cityNight",
+      "alps",
+      "beach"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Zemun_panorama_from_Gardo%C5%A1_tower.jpg/1280px-Zemun_panorama_from_Gardo%C5%A1_tower.jpg",
     "realGallery": [
@@ -87586,12 +87570,12 @@ const raw: Gen[] = [
     "countrySlug": "bosnia-and-herzegovina",
     "countryName": "Bosnia and Herzegovina",
     "tagline": "A city in Bosnia and Herzegovina",
-    "heroKey": "colosseum",
+    "heroKey": "food",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
-      "alps"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Panorama_Zenice.jpg/1280px-Panorama_Zenice.jpg",
     "realGallery": [
@@ -87631,12 +87615,12 @@ const raw: Gen[] = [
     "countrySlug": "slovakia",
     "countryName": "Slovakia",
     "tagline": "A city in Slovakia",
-    "heroKey": "norway",
+    "heroKey": "alps",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
       "alps",
-      "paris"
+      "beach",
+      "food",
+      "temple"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Katedr%C3%A1la_Najsv%C3%A4tej%C5%A1ej_Trojice_Zilina_6SM.jpg/1280px-Katedr%C3%A1la_Najsv%C3%A4tej%C5%A1ej_Trojice_Zilina_6SM.jpg",
     "realGallery": [
@@ -87791,7 +87775,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Zinder_centre_ville.jpg/1280px-Zinder_centre_ville.jpg",
     "realGallery": [
@@ -87841,9 +87825,9 @@ const raw: Gen[] = [
     "countrySlug": "libya",
     "countryName": "Libya",
     "tagline": "A city in Libya",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -87883,10 +87867,10 @@ const raw: Gen[] = [
     "countrySlug": "malawi",
     "countryName": "Malawi",
     "tagline": "A city in Malawi",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -87975,12 +87959,12 @@ const raw: Gen[] = [
     "countrySlug": "switzerland",
     "countryName": "Switzerland",
     "tagline": "A city in Switzerland",
-    "heroKey": "eiffel",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "eiffel",
-      "colosseum",
-      "norway",
-      "greeceSea"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realPhoto": null,
     "realGallery": [],
@@ -88014,12 +87998,12 @@ const raw: Gen[] = [
     "countrySlug": "switzerland",
     "countryName": "Switzerland",
     "tagline": "A city in Switzerland",
-    "heroKey": "venice",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "venice",
-      "coast",
-      "santorini",
-      "eiffel"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Altstadt_Z%C3%BCrich_2015.jpg/1280px-Altstadt_Z%C3%BCrich_2015.jpg",
     "realGallery": [
@@ -88125,10 +88109,10 @@ const raw: Gen[] = [
     "countrySlug": "liberia",
     "countryName": "Liberia",
     "tagline": "A city in Liberia",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],

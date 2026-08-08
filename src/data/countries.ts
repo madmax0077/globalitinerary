@@ -397,7 +397,7 @@ const curatedCountries: Country[] = [
     tagline: "Skyline, harbour and endless food",
     heroImage: unsplash(PHOTOS.cityNight, 2400),
     thumbnail: unsplash(PHOTOS.cityNight, 900),
-    gallery: [PHOTOS.cityNight, PHOTOS.tokyo, PHOTOS.food, PHOTOS.coast].map((p) => unsplash(p, 1400)),
+    gallery: [PHOTOS.cityNight, PHOTOS.temple, PHOTOS.food, PHOTOS.coast].map((p) => unsplash(p, 1400)),
     overview:
       "Hong Kong packs harbour views, hiking trails, street food and world-class dining into a compact, bilingual city that rewards both short stopovers and longer stays.",
     history:
@@ -440,9 +440,9 @@ const curatedCountries: Country[] = [
     safety: "Very safe with warm hospitality and clear visitor infrastructure",
     budgetPerDay: "$60–150",
     tagline: "Night markets, mountains and night-skyline views",
-    heroImage: unsplash(PHOTOS.tokyo, 2400),
-    thumbnail: unsplash(PHOTOS.tokyo, 900),
-    gallery: [PHOTOS.tokyo, PHOTOS.food, PHOTOS.temple, PHOTOS.cityNight].map((p) => unsplash(p, 1400)),
+    heroImage: unsplash(PHOTOS.cityNight, 2400),
+    thumbnail: unsplash(PHOTOS.cityNight, 900),
+    gallery: [PHOTOS.cityNight, PHOTOS.food, PHOTOS.temple, PHOTOS.lantern].map((p) => unsplash(p, 1400)),
     overview:
       "Taiwan blends night-market food culture, high-speed rail convenience, mountain scenery and a welcoming capital in Taipei — ideal for first-time East Asia trips.",
     history:

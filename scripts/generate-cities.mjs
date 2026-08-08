@@ -4,6 +4,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { isScenic } from "./lib/bad-image.mjs";
+import { poolFor } from "./lib/stock-pools.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.join(__dirname, "..");
@@ -55,23 +56,6 @@ function continentOf(region, subregion) {
 const continentByCca2 = new Map();
 for (const c of mledoze) {
   continentByCca2.set(c.cca2, continentOf(c.region || "Asia", c.subregion || ""));
-}
-
-const pools = {
-  Europe: ["alps", "paris", "rome", "venice", "coast", "santorini", "eiffel", "colosseum", "norway", "greeceSea"],
-  Asia: ["tokyo", "kyoto", "temple", "phiPhi", "longtail", "fujiLake", "dubai", "cityNight", "lantern", "sahara"],
-  Africa: ["sahara", "desertCamp", "coast", "beach", "mountains", "temple"],
-  "North America": ["nyc", "cityNight", "beach", "mountains", "coast", "alps"],
-  "South America": ["machuPicchu", "mountains", "temple", "coast", "beach"],
-  Oceania: ["beach", "coast", "longtail", "maldives", "mountains"],
-};
-
-function poolFor(slug, continent) {
-  const pool = pools[continent] || pools.Asia;
-  const start = hash(slug) % pool.length;
-  const chosen = [];
-  for (let i = 0; i < 4; i++) chosen.push(pool[(start + i) % pool.length]);
-  return { hero: pool[start], gallery: chosen };
 }
 
 const bestTimeByContinent = {

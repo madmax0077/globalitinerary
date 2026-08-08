@@ -1,14 +1,24 @@
 import type { City, Stay } from "@/lib/types";
 import { PHOTOS, unsplash } from "@/lib/images";
+import { sanitizeCityImages } from "@/lib/place-images";
 import { generatedCities } from "@/data/cities.generated";
 import { cityPicks } from "@/data/city-picks";
 import { citySights } from "@/data/city-sights";
 import { cityEnrichments } from "@/data/city-enrichments";
 
-/** Overlay richer travel copy for top tourist cities with thin generated text. */
+function hasWikimediaPhoto(city: City): boolean {
+  const urls = [city.heroImage, city.thumbnail, ...(city.gallery || [])];
+  return urls.some((u) => typeof u === "string" && u.includes("upload.wikimedia.org"));
+}
+
+/** Overlay richer travel copy — keep real place photos when enrichment only has stock. */
 function applyCityEnrichment(city: City): City {
   const patch = cityEnrichments[city.slug];
   if (!patch) return city;
+  if (hasWikimediaPhoto(city)) {
+    const { heroImage: _h, thumbnail: _t, gallery: _g, ...copy } = patch;
+    return { ...city, ...copy };
+  }
   return { ...city, ...patch };
 }
 
@@ -465,6 +475,7 @@ export const cities: City[] = [
   ...generatedCities.filter((c) => !curatedSlugs.has(c.slug)),
 ]
   .map(applyCityEnrichment)
+  .map((c) => sanitizeCityImages(c))
   .map(applyCityPicks)
   .map(applyCitySights)
   .sort((a, b) => a.name.localeCompare(b.name));

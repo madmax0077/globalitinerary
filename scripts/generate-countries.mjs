@@ -4,6 +4,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { isScenic } from "./lib/bad-image.mjs";
+import { poolFor, hash } from "./lib/stock-pools.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.join(__dirname, "..");
@@ -56,25 +57,6 @@ function slugify(input) {
     .replace(/(^-|-$)+/g, "");
 }
 
-function hash(str) {
-  let h = 2166136261;
-  for (let i = 0; i < str.length; i++) {
-    h ^= str.charCodeAt(i);
-    h = Math.imul(h, 16777619);
-  }
-  return Math.abs(h);
-}
-
-// Scenic photo pools per continent (keys from src/lib/images.ts PHOTOS).
-const pools = {
-  Europe: ["alps", "paris", "rome", "venice", "coast", "santorini", "eiffel", "colosseum", "norway", "greeceSea"],
-  Asia: ["tokyo", "kyoto", "temple", "phiPhi", "longtail", "fujiLake", "dubai", "cityNight", "lantern", "sahara"],
-  Africa: ["sahara", "desertCamp", "coast", "beach", "mountains", "temple"],
-  "North America": ["nyc", "cityNight", "beach", "mountains", "coast", "alps"],
-  "South America": ["machuPicchu", "mountains", "temple", "coast", "beach"],
-  Oceania: ["beach", "coast", "longtail", "maldives", "mountains"],
-};
-
 function continentOf(region, subregion) {
   if (region === "Americas") {
     return /south america/i.test(subregion || "") ? "South America" : "North America";
@@ -102,11 +84,8 @@ const weatherByContinent = {
 };
 
 function pickImages(slug, continent) {
-  const pool = pools[continent] || pools.Asia;
-  const start = hash(slug) % pool.length;
-  const chosen = [];
-  for (let i = 0; i < 4; i++) chosen.push(pool[(start + i) % pool.length]);
-  return { hero: pool[start], gallery: chosen };
+  const { hero, gallery } = poolFor(slug, continent);
+  return { hero, gallery };
 }
 
 const skip = new Set(["Antarctica"]);
@@ -150,9 +129,10 @@ for (const c of mledoze) {
   // shots, and stock is the final fallback. Flags/maps/emblems are excluded.
   const scenic = [];
   const pushUnique = (u) => { if (isScenic(u) && !scenic.includes(u)) scenic.push(u); };
+  // Prefer lead + city photos. Skip country-article media (often maps/portraits).
   pushUnique(lead);
   for (const u of cityHeros) pushUnique(u);
-  if (scenic.length < 4) for (const u of articleMedia) pushUnique(u);
+  if (scenic.length < 2) for (const u of articleMedia) pushUnique(u);
   const realImages = scenic.slice(0, 6);
   const h = hash(slug);
   const rating = Number((4.3 + (h % 60) / 100).toFixed(1)); // 4.30–4.89

@@ -40,5 +40,6 @@ export const PHOTOS = {
   desertCamp: "1518623489648-a173ef7824f3",
   temple: "1528360983277-13d401cdc186",
   coast: "1505228395891-9a51e7e86bf6",
-  lantern: "1493976040374-85c8e12f0c0e",
+  // Warm night market / lantern atmosphere (not Mount Fuji — distinct from fujiLake)
+  lantern: "1528127269322-53946bcb9f93",
 } as const;

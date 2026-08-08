@@ -36,7 +36,7 @@ function stock(hero: keyof typeof PHOTOS, gallery: (keyof typeof PHOTOS)[]): Pic
 
 export const cityEnrichments: Record<string, CityEnrichment> = {
   "hong-kong": {
-    ...stock("cityNight", ["cityNight", "tokyo", "food", "coast"]),
+    ...stock("cityNight", ["cityNight", "temple", "food", "coast"]),
     tagline: "Harbour skyline, hiking trails and world-class food",
     overview:
       "Hong Kong packs Victoria Harbour views, Peak tram rides, street-food alleys and hiking trails into a compact, bilingual city that works for stopovers and longer stays alike.",

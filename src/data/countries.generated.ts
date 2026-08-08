@@ -42,12 +42,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Afghanistan",
-    "heroKey": "phiPhi",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/4/43/Kabul%2C_Afghanistan_view.jpg",
@@ -106,12 +106,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Albania",
-    "heroKey": "venice",
+    "heroKey": "temple",
     "galleryKeys": [
-      "venice",
+      "temple",
       "coast",
-      "santorini",
-      "eiffel"
+      "mountains",
+      "cityNight"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Skanderbeg_square_tirana_2016.jpg/1280px-Skanderbeg_square_tirana_2016.jpg",
@@ -174,8 +174,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Botanical_Garden_Hamma.jpg/1280px-Botanical_Garden_Hamma.jpg",
@@ -232,12 +232,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Andorra",
-    "heroKey": "norway",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
+      "cityNight",
       "alps",
-      "paris"
+      "beach",
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Casa_de_la_Vall_4.JPG/1280px-Casa_de_la_Vall_4.JPG",
@@ -299,8 +299,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realImages": [
@@ -360,12 +360,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Antigua and Barbuda",
-    "heroKey": "coast",
+    "heroKey": "beach",
     "galleryKeys": [
+      "beach",
+      "mountains",
       "coast",
-      "alps",
-      "nyc",
-      "cityNight"
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/The_Mill_Yard_-_Ten_Views_in_the_Island_of_Antigua_%281823%29%2C_plate_V_-_BL.jpg/1280px-The_Mill_Yard_-_Ten_Views_in_the_Island_of_Antigua_%281823%29%2C_plate_V_-_BL.jpg",
@@ -423,12 +423,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Argentina",
-    "heroKey": "temple",
+    "heroKey": "beach",
     "galleryKeys": [
-      "temple",
-      "coast",
       "beach",
-      "machuPicchu"
+      "temple",
+      "food",
+      "mountains"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Puerto_Madero%2C_Buenos_Aires_%2840689219792%29_%28cropped%29.jpg/1280px-Puerto_Madero%2C_Buenos_Aires_%2840689219792%29_%28cropped%29.jpg",
@@ -485,12 +485,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Armenia",
-    "heroKey": "tokyo",
+    "heroKey": "coast",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
-      "temple",
-      "phiPhi"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Mount_Ararat_and_the_Yerevan_skyline_%28June_2018%29.jpg/1280px-Mount_Ararat_and_the_Yerevan_skyline_%28June_2018%29.jpg",
@@ -549,11 +549,11 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Australia",
-    "heroKey": "longtail",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "longtail",
-      "maldives",
       "mountains",
+      "food",
+      "cityNight",
       "beach"
     ],
     "realImages": [
@@ -613,12 +613,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Austria",
-    "heroKey": "alps",
+    "heroKey": "coast",
     "galleryKeys": [
-      "alps",
-      "paris",
-      "rome",
-      "venice"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Schoenbrunn_philharmoniker_2012.jpg/1280px-Schoenbrunn_philharmoniker_2012.jpg",
@@ -678,12 +678,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Azerbaijan",
-    "heroKey": "temple",
+    "heroKey": "food",
     "galleryKeys": [
+      "food",
+      "lantern",
       "temple",
-      "phiPhi",
-      "longtail",
-      "fujiLake"
+      "cityNight"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Baku_Montage.jpg/1280px-Baku_Montage.jpg",
@@ -742,12 +742,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Bahamas",
-    "heroKey": "beach",
+    "heroKey": "coast",
     "galleryKeys": [
-      "beach",
-      "mountains",
       "coast",
-      "alps"
+      "food",
+      "cityNight",
+      "beach"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sheraton_Grand_Bahamas_Panorama.jpg/1280px-Sheraton_Grand_Bahamas_Panorama.jpg",
@@ -806,20 +806,18 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Bahrain",
-    "heroKey": "tokyo",
+    "heroKey": "beach",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
-      "temple",
-      "phiPhi"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bahrain%27s_Pearling_Pathway_%2818640000885%29.jpg/1280px-Bahrain%27s_Pearling_Pathway_%2818640000885%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Manama%2C_Bahrain_Decembre_2014.jpg/1280px-Manama%2C_Bahrain_Decembre_2014.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/BapcoTanks-SitraBahrain.jpg/330px-BapcoTanks-SitraBahrain.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Persia_600ad.jpg/500px-Persia_600ad.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bahrain_Fort_overview.jpg/500px-Bahrain_Fort_overview.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Persian_Gulf_1507-1750.gif/500px-Persian_Gulf_1507-1750.gif"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bahrain_Fort_overview.jpg/500px-Bahrain_Fort_overview.jpg"
     ],
     "overview": "Bahrain is a Western Asia nation in Asia, with Manama as its capital and home to around 1,569,439 people. The currency is the Bahraini dinar (BHD). The main language is Arabic. From its landscapes and cities to its cuisine and traditions, Bahrain offers travelers a distinctive slice of the world to explore.",
     "history": "Bahrain has a rich history shaped by its position in Asia and the cultures of Western Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
@@ -870,12 +868,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Bangladesh",
-    "heroKey": "temple",
+    "heroKey": "food",
     "galleryKeys": [
+      "food",
+      "lantern",
       "temple",
-      "phiPhi",
-      "longtail",
-      "fujiLake"
+      "cityNight"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tejgaon_Commercial_Area.jpg/1280px-Tejgaon_Commercial_Area.jpg",
@@ -933,12 +931,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Barbados",
-    "heroKey": "alps",
+    "heroKey": "beach",
     "galleryKeys": [
-      "alps",
-      "nyc",
-      "cityNight",
-      "beach"
+      "beach",
+      "mountains",
+      "coast",
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/1/1a/Bridgetown2.jpg",
@@ -998,11 +996,11 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Belarus",
-    "heroKey": "paris",
+    "heroKey": "beach",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
+      "beach",
+      "food",
+      "temple",
       "coast"
     ],
     "realImages": [
@@ -1063,12 +1061,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Belgium",
-    "heroKey": "norway",
+    "heroKey": "temple",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
-      "alps",
-      "paris"
+      "temple",
+      "coast",
+      "mountains",
+      "cityNight"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Grand_Place_Bruselas_2.jpg/1280px-Grand_Place_Bruselas_2.jpg",
@@ -1128,12 +1126,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Belize",
-    "heroKey": "beach",
+    "heroKey": "coast",
     "galleryKeys": [
-      "beach",
-      "mountains",
       "coast",
-      "alps"
+      "food",
+      "cityNight",
+      "beach"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Belize_City_Montage.jpeg/1280px-Belize_City_Montage.jpeg",
@@ -1194,8 +1192,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realImages": [
@@ -1254,12 +1252,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Bhutan",
-    "heroKey": "fujiLake",
+    "heroKey": "temple",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
+      "temple",
       "cityNight",
-      "lantern"
+      "coast",
+      "mountains"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Tashich%C3%B6dzong_Thimphu-2008-01-23.jpg/1280px-Tashich%C3%B6dzong_Thimphu-2008-01-23.jpg",
@@ -1321,12 +1319,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Bolivia",
-    "heroKey": "machuPicchu",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "machuPicchu",
       "mountains",
-      "temple",
-      "coast"
+      "coast",
+      "beach",
+      "temple"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Vista_del_centro_de_La_Paz.jpg/1280px-Vista_del_centro_de_La_Paz.jpg",
@@ -1386,12 +1384,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Bosnia and Herzegovina",
-    "heroKey": "rome",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "rome",
-      "venice",
-      "coast",
-      "santorini"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Sarajevo_City_Panorama.JPG/1280px-Sarajevo_City_Panorama.JPG",
@@ -1513,12 +1511,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Brazil",
-    "heroKey": "coast",
+    "heroKey": "temple",
     "galleryKeys": [
-      "coast",
-      "beach",
-      "machuPicchu",
-      "mountains"
+      "temple",
+      "food",
+      "mountains",
+      "coast"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Planalto_Central_%28cropped%29.jpg/1280px-Planalto_Central_%28cropped%29.jpg",
@@ -1576,12 +1574,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Brunei",
-    "heroKey": "dubai",
+    "heroKey": "coast",
     "galleryKeys": [
-      "dubai",
-      "cityNight",
-      "lantern",
-      "sahara"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Brunei_Fireworks_%26_Drone_Light_Show_2024_12.jpg/1280px-Brunei_Fireworks_%26_Drone_Light_Show_2024_12.jpg",
@@ -1639,12 +1637,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Bulgaria",
-    "heroKey": "eiffel",
+    "heroKey": "alps",
     "galleryKeys": [
-      "eiffel",
-      "colosseum",
-      "norway",
-      "greeceSea"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Russian_church_%2837591925970%29.jpg/1280px-Russian_church_%2837591925970%29.jpg",
@@ -1701,9 +1699,9 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Burkina Faso",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -1768,8 +1766,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/BujumburaFromCathedral.jpg/1280px-BujumburaFromCathedral.jpg",
@@ -1828,12 +1826,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Cambodia",
-    "heroKey": "fujiLake",
+    "heroKey": "beach",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
-      "cityNight",
-      "lantern"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Phnom_Penh_skyline_from_TK_district_Dec_2024.jpg/1280px-Phnom_Penh_skyline_from_TK_district_Dec_2024.jpg",
@@ -1896,7 +1894,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Quarter_Bali_%C3%A0_Douala_Cameroun.jpg/1280px-Quarter_Bali_%C3%A0_Douala_Cameroun.jpg",
@@ -1956,12 +1954,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Canada",
-    "heroKey": "mountains",
+    "heroKey": "beach",
     "galleryKeys": [
+      "beach",
       "mountains",
       "coast",
-      "alps",
-      "nyc"
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Toronto_Skyline_from_Olympic_Island%2C_June_20_2026_%285-3_cropped%29.jpg/1280px-Toronto_Skyline_from_Olympic_Island%2C_June_20_2026_%285-3_cropped%29.jpg",
@@ -2019,9 +2017,9 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Cape Verde",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -2091,7 +2089,6 @@ const raw: Gen[] = [
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bangui_collage.png/1280px-Bangui_collage.png",
-      "https://upload.wikimedia.org/wikipedia/commons/1/1a/Paris_Hilton_Cannes_2016.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/9/91/Rond-point-de-la-ville-de-Berberati-copyrights-CNC.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/3/31/Bambari_Downtown.jpg"
     ],
@@ -2148,8 +2145,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realImages": [
@@ -2208,12 +2205,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Chile",
-    "heroKey": "mountains",
+    "heroKey": "coast",
     "galleryKeys": [
-      "mountains",
-      "temple",
       "coast",
-      "beach"
+      "beach",
+      "temple",
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Palacio_de_La_Moneda_-_miguelreflex.jpg/1280px-Palacio_de_La_Moneda_-_miguelreflex.jpg",
@@ -2270,12 +2267,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of China",
-    "heroKey": "longtail",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "mountains",
+      "beach",
+      "food",
+      "lantern"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Huangpu_Park_20124-Shanghai_%2832208802494%29.jpg/1280px-Huangpu_Park_20124-Shanghai_%2832208802494%29.jpg",
@@ -2334,12 +2331,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Colombia",
-    "heroKey": "mountains",
+    "heroKey": "coast",
     "galleryKeys": [
-      "mountains",
-      "temple",
       "coast",
-      "beach"
+      "beach",
+      "temple",
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bogota%2C_Colombia_%2836668708290%29.jpg/1280px-Bogota%2C_Colombia_%2836668708290%29.jpg",
@@ -2397,9 +2394,9 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Comoros",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -2409,7 +2406,6 @@ const raw: Gen[] = [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fomboni-Ship.jpg/1280px-Fomboni-Ship.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dhow.jpg/1280px-Dhow.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Vanilla_plantation_in_wood_dsc00190.jpg/1280px-Vanilla_plantation_in_wood_dsc00190.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Carte_des_isles_de_Comore_Johanna_ou_Anjouan_Mohilla_ou_Moaly_et_Mayote_Bnf40600530t.jpg/1280px-Carte_des_isles_de_Comore_Johanna_ou_Anjouan_Mohilla_ou_Moaly_et_Mayote_Bnf40600530t.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Moroni-Place_des_Assembl%C3%A9es.jpg/500px-Moroni-Place_des_Assembl%C3%A9es.jpg"
     ],
     "overview": "Comoros is a Eastern Africa nation in Africa, with Moroni as its capital and home to around 832,322 people. The currency is the Comorian franc (KMF). The main languages are Arabic, French, Comorian. From its landscapes and cities to its cuisine and traditions, Comoros offers travelers a distinctive slice of the world to explore.",
@@ -2468,7 +2464,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Les_lieux_de_Brazzaville_03.jpg/1280px-Les_lieux_de_Brazzaville_03.jpg",
@@ -2524,12 +2520,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Costa Rica",
-    "heroKey": "mountains",
+    "heroKey": "food",
     "galleryKeys": [
-      "mountains",
-      "coast",
-      "alps",
-      "nyc"
+      "food",
+      "cityNight",
+      "beach",
+      "mountains"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/San_Francisco_Downtown_Aerial%2C_August_2025.jpg/1280px-San_Francisco_Downtown_Aerial%2C_August_2025.jpg",
@@ -2587,12 +2583,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Croatia",
-    "heroKey": "coast",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "coast",
-      "santorini",
-      "eiffel",
-      "colosseum"
+      "mountains",
+      "cityNight",
+      "alps",
+      "beach"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zagreb_%2829255640143%29.jpg/1280px-Zagreb_%2829255640143%29.jpg",
@@ -2649,9 +2645,9 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Cuba",
-    "heroKey": "nyc",
+    "heroKey": "food",
     "galleryKeys": [
-      "nyc",
+      "food",
       "cityNight",
       "beach",
       "mountains"
@@ -2713,11 +2709,11 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Cyprus",
-    "heroKey": "colosseum",
+    "heroKey": "coast",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
+      "coast",
+      "mountains",
+      "cityNight",
       "alps"
     ],
     "realImages": [
@@ -2777,12 +2773,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Czechia",
-    "heroKey": "eiffel",
+    "heroKey": "temple",
     "galleryKeys": [
-      "eiffel",
-      "colosseum",
-      "norway",
-      "greeceSea"
+      "temple",
+      "coast",
+      "mountains",
+      "cityNight"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Prague_%286365119737%29.jpg/1280px-Prague_%286365119737%29.jpg",
@@ -2840,12 +2836,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Denmark",
-    "heroKey": "santorini",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "mountains",
+      "cityNight",
+      "alps",
+      "beach"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/2018_-_Christiansborg_from_the_Marble_Bridge.jpg/1280px-2018_-_Christiansborg_from_the_Marble_Bridge.jpg",
@@ -2905,9 +2901,9 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Djibouti",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -3032,12 +3028,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Dominican Republic",
-    "heroKey": "beach",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "beach",
       "mountains",
       "coast",
-      "alps"
+      "food",
+      "cityNight"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/SantoDomingoedit.JPG/1280px-SantoDomingoedit.JPG",
@@ -3162,12 +3158,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Ecuador",
-    "heroKey": "mountains",
+    "heroKey": "coast",
     "galleryKeys": [
-      "mountains",
-      "temple",
       "coast",
-      "beach"
+      "beach",
+      "temple",
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/FACHADA_ASAMBLEA_NACIONAL._QUITO%2C_20_DE_FEBRERO_2020._01.jpg/1280px-FACHADA_ASAMBLEA_NACIONAL._QUITO%2C_20_DE_FEBRERO_2020._01.jpg",
@@ -3223,10 +3219,10 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Egypt",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -3287,12 +3283,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of El Salvador",
-    "heroKey": "mountains",
+    "heroKey": "cityNight",
     "galleryKeys": [
+      "cityNight",
+      "beach",
       "mountains",
-      "coast",
-      "alps",
-      "nyc"
+      "coast"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Monumento_al_Salvador_del_Mundo_1.jpg/1280px-Monumento_al_Salvador_del_Mundo_1.jpg",
@@ -3419,9 +3415,9 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Eritrea",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -3482,12 +3478,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Estonia",
-    "heroKey": "norway",
+    "heroKey": "alps",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
       "alps",
-      "paris"
+      "beach",
+      "food",
+      "temple"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Raekoja_plats_at_night.jpg/1280px-Raekoja_plats_at_night.jpg",
@@ -3551,7 +3547,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/7/7e/SZ-manzini-zufahrt.jpg",
@@ -3610,10 +3606,10 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Ethiopia",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -3675,11 +3671,11 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Fiji",
-    "heroKey": "longtail",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "longtail",
-      "maldives",
       "mountains",
+      "food",
+      "cityNight",
       "beach"
     ],
     "realImages": [
@@ -3739,12 +3735,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Finland",
-    "heroKey": "greeceSea",
+    "heroKey": "temple",
     "galleryKeys": [
-      "greeceSea",
-      "alps",
-      "paris",
-      "rome"
+      "temple",
+      "coast",
+      "mountains",
+      "cityNight"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Suomenlinna_%28cropped%29.jpg/1280px-Suomenlinna_%28cropped%29.jpg",
@@ -3802,12 +3798,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of France",
-    "heroKey": "coast",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "coast",
-      "santorini",
-      "eiffel",
-      "colosseum"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/1280px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
@@ -3933,8 +3929,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gambia%2C_Banjul%2C_Arch_22.jpg/1280px-Gambia%2C_Banjul%2C_Arch_22.jpg",
@@ -3991,12 +3987,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Georgia",
-    "heroKey": "cityNight",
+    "heroKey": "beach",
     "galleryKeys": [
-      "cityNight",
+      "beach",
+      "food",
       "lantern",
-      "sahara",
-      "tokyo"
+      "temple"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/View_of_Tbilisi_from_Tabori_Church_2023-10-08-2.jpg/1280px-View_of_Tbilisi_from_Tabori_Church_2023-10-08-2.jpg",
@@ -4054,12 +4050,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Germany",
-    "heroKey": "rome",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "rome",
-      "venice",
-      "coast",
-      "santorini"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29_b.jpg/1280px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29_b.jpg",
@@ -4118,10 +4114,10 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Ghana",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -4181,12 +4177,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Greece",
-    "heroKey": "norway",
+    "heroKey": "beach",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
-      "alps",
-      "paris"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Monastiraki_Square_and_Acropolis_in_Athens_%2844149181684%29.jpg/1280px-Monastiraki_Square_and_Acropolis_in_Athens_%2844149181684%29.jpg",
@@ -4243,12 +4239,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Grenada",
-    "heroKey": "mountains",
+    "heroKey": "cityNight",
     "galleryKeys": [
+      "cityNight",
+      "beach",
       "mountains",
-      "coast",
-      "alps",
-      "nyc"
+      "coast"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Port_Saint-Georges_dans_l%27%C3%AEle_de_la_Grenade_en_1776.jpg/500px-Port_Saint-Georges_dans_l%27%C3%AEle_de_la_Grenade_en_1776.jpg",
@@ -4306,12 +4302,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Guatemala",
-    "heroKey": "beach",
+    "heroKey": "cityNight",
     "galleryKeys": [
+      "cityNight",
       "beach",
       "mountains",
-      "coast",
-      "alps"
+      "coast"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ciudad_de_Guatemala%2C_CA.jpg/1280px-Ciudad_de_Guatemala%2C_CA.jpg",
@@ -4368,10 +4364,10 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Guinea",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -4437,8 +4433,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bissau-Stroossenzeen--w.jpg/1280px-Bissau-Stroossenzeen--w.jpg",
@@ -4496,12 +4492,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Guyana",
-    "heroKey": "temple",
+    "heroKey": "beach",
     "galleryKeys": [
-      "temple",
-      "coast",
       "beach",
-      "machuPicchu"
+      "temple",
+      "food",
+      "mountains"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/AMH-6831-KB_View_of_New_Amsterdam.jpg/1280px-AMH-6831-KB_View_of_New_Amsterdam.jpg",
@@ -4560,17 +4556,16 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Haiti",
-    "heroKey": "coast",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "coast",
-      "alps",
-      "nyc",
-      "cityNight"
+      "cityNight",
+      "beach",
+      "mountains",
+      "coast"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ouest_Department%2C_Haiti_-_panoramio_%285%29.jpg/1280px-Ouest_Department%2C_Haiti_-_panoramio_%285%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/1/15/Hills_of_Petion-Ville%2C_Haiti.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Marines_fly_over_Haiti_%285224925976%29.jpg/1280px-Marines_fly_over_Haiti_%285224925976%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Saint-Marc_Welcome_Sign_at_Frecyneau.jpg/1280px-Saint-Marc_Welcome_Sign_at_Frecyneau.jpg"
     ],
     "overview": "Haiti is a Caribbean nation in Americas, with Port-au-Prince as its capital and home to around 11,123,176 people. The currency is the Haitian gourde (HTG). The main languages are French, Haitian Creole. From its landscapes and cities to its cuisine and traditions, Haiti offers travelers a distinctive slice of the world to explore.",
@@ -4622,12 +4617,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Honduras",
-    "heroKey": "alps",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "alps",
-      "nyc",
       "cityNight",
-      "beach"
+      "beach",
+      "mountains",
+      "coast"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tegucigalpa_downtown_panoramic_2026.jpg/1280px-Tegucigalpa_downtown_panoramic_2026.jpg",
@@ -4685,12 +4680,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Hungary",
-    "heroKey": "colosseum",
+    "heroKey": "food",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
-      "alps"
+      "food",
+      "temple",
+      "coast",
+      "mountains"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/View_from_Gell%C3%A9rt_Hill_to_the_Danube%2C_Hungary_-_Budapest_%2828493220635%29.jpg/1280px-View_from_Gell%C3%A9rt_Hill_to_the_Danube%2C_Hungary_-_Budapest_%2828493220635%29.jpg",
@@ -4748,12 +4743,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Iceland",
-    "heroKey": "venice",
+    "heroKey": "coast",
     "galleryKeys": [
-      "venice",
       "coast",
-      "santorini",
-      "eiffel"
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Reykjav%C3%ADk%2C_view_from_Hallgr%C3%ADmskirkja_%282%29.jpg/1280px-Reykjav%C3%ADk%2C_view_from_Hallgr%C3%ADmskirkja_%282%29.jpg",
@@ -4814,12 +4809,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of India",
-    "heroKey": "longtail",
+    "heroKey": "coast",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
@@ -4878,12 +4873,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Indonesia",
-    "heroKey": "cityNight",
+    "heroKey": "food",
     "galleryKeys": [
-      "cityNight",
+      "food",
       "lantern",
-      "sahara",
-      "tokyo"
+      "temple",
+      "cityNight"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/1280px-Jakarta_Skyline_Part_2.jpg",
@@ -4942,12 +4937,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Iran",
-    "heroKey": "kyoto",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "kyoto",
+      "lantern",
       "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight",
+      "coast"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/North_of_Tehran_Skyline_view.jpg/1280px-North_of_Tehran_Skyline_view.jpg",
@@ -5008,12 +5003,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Iraq",
-    "heroKey": "dubai",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "dubai",
       "cityNight",
-      "lantern",
-      "sahara"
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/5628442718_b10fc2c47f_o.jpg/1280px-5628442718_b10fc2c47f_o.jpg",
@@ -5071,12 +5066,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Ireland",
-    "heroKey": "norway",
+    "heroKey": "coast",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
-      "alps",
-      "paris"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ireland_%28MODIS%29.jpg/1280px-Ireland_%28MODIS%29.jpg",
@@ -5136,12 +5131,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Israel",
-    "heroKey": "kyoto",
+    "heroKey": "beach",
     "galleryKeys": [
-      "kyoto",
-      "temple",
-      "phiPhi",
-      "longtail"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Temple_Mount_%28Aerial_view%2C_2007%29_07.jpg/1280px-Temple_Mount_%28Aerial_view%2C_2007%29_07.jpg",
@@ -5199,12 +5194,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Italy",
-    "heroKey": "coast",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "coast",
-      "santorini",
-      "eiffel",
-      "colosseum"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg/1280px-Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg",
@@ -5268,7 +5263,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Yamoussoukro_panorama.jpg/1280px-Yamoussoukro_panorama.jpg",
@@ -5327,12 +5322,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Jamaica",
-    "heroKey": "alps",
+    "heroKey": "beach",
     "galleryKeys": [
-      "alps",
-      "nyc",
-      "cityNight",
-      "beach"
+      "beach",
+      "mountains",
+      "coast",
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/9/99/PortofKingston.jpg",
@@ -5394,9 +5389,9 @@ const raw: Gen[] = [
     "heroKey": "cityNight",
     "galleryKeys": [
       "cityNight",
-      "lantern",
-      "sahara",
-      "tokyo"
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg/1280px-Skyscrapers_of_Shinjuku_2009_January.jpg",
@@ -5455,12 +5450,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Jordan",
-    "heroKey": "fujiLake",
+    "heroKey": "temple",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
+      "temple",
       "cityNight",
-      "lantern"
+      "coast",
+      "mountains"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/New_Abdali_2024.png/1280px-New_Abdali_2024.png",
@@ -5519,12 +5514,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Kazakhstan",
-    "heroKey": "fujiLake",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
+      "lantern",
+      "temple",
       "cityNight",
-      "lantern"
+      "coast"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Almaty_K%C3%B6k_T%C3%B6be.jpg/1280px-Almaty_K%C3%B6k_T%C3%B6be.jpg",
@@ -5589,7 +5584,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Nairobi_skyline_from_Gem_Hotel.jpg/1280px-Nairobi_skyline_from_Gem_Hotel.jpg",
@@ -5652,9 +5647,9 @@ const raw: Gen[] = [
     "heroKey": "coast",
     "galleryKeys": [
       "coast",
-      "longtail",
-      "maldives",
-      "mountains"
+      "mountains",
+      "food",
+      "cityNight"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/FMIB_53006_Gilbert_or_Kingsmill_Islands.jpeg/330px-FMIB_53006_Gilbert_or_Kingsmill_Islands.jpeg",
@@ -5711,12 +5706,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Kuwait",
-    "heroKey": "tokyo",
+    "heroKey": "beach",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
-      "temple",
-      "phiPhi"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kuwait_City_Skyline_1.jpg/1280px-Kuwait_City_Skyline_1.jpg",
@@ -5776,12 +5771,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Kyrgyzstan",
-    "heroKey": "fujiLake",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
+      "lantern",
+      "temple",
       "cityNight",
-      "lantern"
+      "coast"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bishkek_City%27s_business_center.jpg/1280px-Bishkek_City%27s_business_center.jpg",
@@ -5839,12 +5834,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Laos",
-    "heroKey": "tokyo",
+    "heroKey": "temple",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
       "temple",
-      "phiPhi"
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Vientiane_-_Patuxai_-_0003.jpg/1280px-Vientiane_-_Patuxai_-_0003.jpg",
@@ -5901,12 +5896,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Latvia",
-    "heroKey": "alps",
+    "heroKey": "mountains",
     "galleryKeys": [
+      "mountains",
+      "cityNight",
       "alps",
-      "paris",
-      "rome",
-      "venice"
+      "beach"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Riga_%2833844464828%29.jpg/1280px-Riga_%2833844464828%29.jpg",
@@ -5966,12 +5961,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Lebanon",
-    "heroKey": "lantern",
+    "heroKey": "coast",
     "galleryKeys": [
-      "lantern",
-      "sahara",
-      "tokyo",
-      "kyoto"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/e/ea/Beyrouth_vue_a%C3%A9rienne.jpg",
@@ -6032,8 +6027,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realImages": [
@@ -6098,7 +6093,7 @@ const raw: Gen[] = [
       "beach",
       "mountains",
       "temple",
-      "sahara"
+      "desertCamp"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Liberia%2C_Africa_-_panoramio_%28256%29.jpg/1280px-Liberia%2C_Africa_-_panoramio_%28256%29.jpg",
@@ -6161,8 +6156,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Al_Daawa_alIslamiyah2.JPG/1280px-Al_Daawa_alIslamiyah2.JPG",
@@ -6220,12 +6215,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Liechtenstein",
-    "heroKey": "rome",
+    "heroKey": "food",
     "galleryKeys": [
-      "rome",
-      "venice",
+      "food",
+      "temple",
       "coast",
-      "santorini"
+      "mountains"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/View_of_Vaduz.jpg/1280px-View_of_Vaduz.jpg",
@@ -6284,12 +6279,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Lithuania",
-    "heroKey": "rome",
+    "heroKey": "food",
     "galleryKeys": [
-      "rome",
-      "venice",
+      "food",
+      "temple",
       "coast",
-      "santorini"
+      "mountains"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/The_White_Bridge_and_%C5%A0nipi%C5%A1k%C4%97s_district_in_Vilnius_in_2023_by_Augustas_Did%C5%BEgalvis.jpg/1280px-The_White_Bridge_and_%C5%A0nipi%C5%A1k%C4%97s_district_in_Vilnius_in_2023_by_Augustas_Did%C5%BEgalvis.jpg",
@@ -6350,12 +6345,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Luxembourg",
-    "heroKey": "santorini",
+    "heroKey": "coast",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/View_of_Esch-sur-Alzette_2025-04_--2_%28cropped%29.jpg/1280px-View_of_Esch-sur-Alzette_2025-04_--2_%28cropped%29.jpg",
@@ -6415,9 +6410,9 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Madagascar",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -6543,12 +6538,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Malaysia",
-    "heroKey": "longtail",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "lantern",
+      "temple",
+      "cityNight",
+      "coast"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bukit_Bintang_junction_in_2024_2.jpg/1280px-Bukit_Bintang_junction_in_2024_2.jpg",
@@ -6606,12 +6601,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Maldives",
-    "heroKey": "dubai",
+    "heroKey": "temple",
     "galleryKeys": [
-      "dubai",
+      "temple",
       "cityNight",
-      "lantern",
-      "sahara"
+      "coast",
+      "mountains"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Loamaafaanu.jpg/1280px-Loamaafaanu.jpg",
@@ -6734,12 +6729,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Malta",
-    "heroKey": "alps",
+    "heroKey": "temple",
     "galleryKeys": [
-      "alps",
-      "paris",
-      "rome",
-      "venice"
+      "temple",
+      "coast",
+      "mountains",
+      "cityNight"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/St_Sebastian_Curtain_%28cropped%29.jpg/1280px-St_Sebastian_Curtain_%28cropped%29.jpg",
@@ -6803,8 +6798,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "beach",
       "coast",
-      "longtail",
-      "maldives"
+      "mountains",
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Eneko_Islet_02.JPG/1280px-Eneko_Islet_02.JPG",
@@ -6930,8 +6925,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/d/d9/Port_Louis_Skyline.JPG",
@@ -6989,12 +6984,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Mexico",
-    "heroKey": "coast",
+    "heroKey": "beach",
     "galleryKeys": [
+      "beach",
+      "mountains",
       "coast",
-      "alps",
-      "nyc",
-      "cityNight"
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg/1280px-Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg",
@@ -7052,12 +7047,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Micronesia",
-    "heroKey": "mountains",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "mountains",
+      "cityNight",
       "beach",
       "coast",
-      "longtail"
+      "mountains"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/b/b0/Micronesian_Cultural_Area.png",
@@ -7116,12 +7111,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Moldova",
-    "heroKey": "paris",
+    "heroKey": "coast",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
-      "coast"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Consiliul_Municipal_Chi%C8%99in%C4%83u_%28cropped%29.jpg/1280px-Consiliul_Municipal_Chi%C8%99in%C4%83u_%28cropped%29.jpg",
@@ -7178,12 +7173,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Monaco",
-    "heroKey": "coast",
+    "heroKey": "food",
     "galleryKeys": [
+      "food",
+      "temple",
       "coast",
-      "santorini",
-      "eiffel",
-      "colosseum"
+      "mountains"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Panorama_von_Monaco-La_Turbie.jpg/1280px-Panorama_von_Monaco-La_Turbie.jpg",
@@ -7242,12 +7237,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Mongolia",
-    "heroKey": "kyoto",
+    "heroKey": "food",
     "galleryKeys": [
-      "kyoto",
+      "food",
+      "lantern",
       "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/UB_downtown.jpg/1280px-UB_downtown.jpg",
@@ -7306,12 +7301,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Montenegro",
-    "heroKey": "colosseum",
+    "heroKey": "temple",
     "galleryKeys": [
-      "colosseum",
-      "norway",
-      "greeceSea",
-      "alps"
+      "temple",
+      "coast",
+      "mountains",
+      "cityNight"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/P064720-426794_-_Panoramic_view_of_Podgorica.jpg/1280px-P064720-426794_-_Panoramic_view_of_Podgorica.jpg",
@@ -7370,9 +7365,9 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Morocco",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -7433,9 +7428,9 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Mozambique",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -7495,12 +7490,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Myanmar",
-    "heroKey": "longtail",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/b/b9/ShwedagonPagoda.jpg",
@@ -7567,10 +7562,10 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Namibia",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -7635,8 +7630,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "beach",
       "coast",
-      "longtail",
-      "maldives"
+      "mountains",
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parliament_%2815403802091%29.jpg/1280px-Parliament_%2815403802091%29.jpg",
@@ -7695,12 +7690,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Nepal",
-    "heroKey": "sahara",
+    "heroKey": "food",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "food",
+      "lantern",
+      "temple",
+      "cityNight"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Kathmandu-Durbar_Square-06-Mahavishnu-Kuh-Vishnu-Pratapamalla-Jagannath-2007-gje.jpg/1280px-Kathmandu-Durbar_Square-06-Mahavishnu-Kuh-Vishnu-Pratapamalla-Jagannath-2007-gje.jpg",
@@ -7757,12 +7752,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Netherlands",
-    "heroKey": "greeceSea",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "greeceSea",
+      "cityNight",
       "alps",
-      "paris",
-      "rome"
+      "beach",
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/A_view_of_Rotterdam%2C_taken_from_the_roof_of_the_Maassilo%2C_Rotterdam%2C_The_Netherlands.jpg/1280px-A_view_of_Rotterdam%2C_taken_from_the_roof_of_the_Maassilo%2C_Rotterdam%2C_The_Netherlands.jpg",
@@ -7826,9 +7821,9 @@ const raw: Gen[] = [
     "heroKey": "coast",
     "galleryKeys": [
       "coast",
-      "longtail",
-      "maldives",
-      "mountains"
+      "mountains",
+      "food",
+      "cityNight"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Auckland_skyline_-_May_2024_%282%29.jpg/1280px-Auckland_skyline_-_May_2024_%282%29.jpg",
@@ -7885,12 +7880,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Nicaragua",
-    "heroKey": "coast",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "coast",
-      "alps",
-      "nyc",
-      "cityNight"
+      "cityNight",
+      "beach",
+      "mountains",
+      "coast"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/c/c3/%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%B2_%D0%9C%D0%B0%D0%BD%D0%B0%D0%B3%D1%83%D0%B0_%28cropped%29.jpg",
@@ -7952,8 +7947,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Niamey_from_grand_mosque_theatre_2006.jpg/1280px-Niamey_from_grand_mosque_theatre_2006.jpg",
@@ -8015,8 +8010,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tafa_Balewa_Square_%28Onikan%29_in_Lagos._Nigeria.jpg",
@@ -8074,12 +8069,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of North Korea",
-    "heroKey": "cityNight",
+    "heroKey": "coast",
     "galleryKeys": [
-      "cityNight",
-      "lantern",
-      "sahara",
-      "tokyo"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/The_Arch_of_Triumph_%2811360607534%29.jpg/1280px-The_Arch_of_Triumph_%2811360607534%29.jpg",
@@ -8138,12 +8133,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of North Macedonia",
-    "heroKey": "alps",
+    "heroKey": "coast",
     "galleryKeys": [
-      "alps",
-      "paris",
-      "rome",
-      "venice"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Skopje_view_from_Kale_3.jpg/1280px-Skopje_view_from_Kale_3.jpg",
@@ -8203,12 +8198,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Norway",
-    "heroKey": "santorini",
+    "heroKey": "alps",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "alps",
+      "beach",
+      "food",
+      "temple"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Nationaltheatret_evening.jpg/1280px-Nationaltheatret_evening.jpg",
@@ -8267,12 +8262,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Oman",
-    "heroKey": "tokyo",
+    "heroKey": "lantern",
     "galleryKeys": [
-      "tokyo",
-      "kyoto",
+      "lantern",
       "temple",
-      "phiPhi"
+      "cityNight",
+      "coast"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Al_Alam_Palace.jpg/1280px-Al_Alam_Palace.jpg",
@@ -8332,12 +8327,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Pakistan",
-    "heroKey": "temple",
+    "heroKey": "beach",
     "galleryKeys": [
-      "temple",
-      "phiPhi",
-      "longtail",
-      "fujiLake"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Faisal_Mosque%2C_Islamabad_III.jpg/1280px-Faisal_Mosque%2C_Islamabad_III.jpg",
@@ -8400,9 +8395,9 @@ const raw: Gen[] = [
     "heroKey": "coast",
     "galleryKeys": [
       "coast",
-      "longtail",
-      "maldives",
-      "mountains"
+      "mountains",
+      "food",
+      "cityNight"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Capitol%2C_Melekeok%2C_Palau.jpg/1280px-Capitol%2C_Melekeok%2C_Palau.jpg",
@@ -8461,12 +8456,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Panama",
-    "heroKey": "cityNight",
+    "heroKey": "beach",
     "galleryKeys": [
-      "cityNight",
       "beach",
       "mountains",
-      "coast"
+      "coast",
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Panama_Papers_%28148830809%29.jpeg/1280px-Panama_Papers_%28148830809%29.jpeg",
@@ -8527,11 +8522,11 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Papua New Guinea",
-    "heroKey": "longtail",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "longtail",
-      "maldives",
       "mountains",
+      "food",
+      "cityNight",
       "beach"
     ],
     "realImages": [
@@ -8591,12 +8586,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Paraguay",
-    "heroKey": "coast",
+    "heroKey": "temple",
     "galleryKeys": [
-      "coast",
-      "beach",
-      "machuPicchu",
-      "mountains"
+      "temple",
+      "food",
+      "mountains",
+      "coast"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/9/9d/Palacio_de_Gobierno2.jpg",
@@ -8654,12 +8649,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Peru",
-    "heroKey": "machuPicchu",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "machuPicchu",
       "mountains",
-      "temple",
-      "coast"
+      "coast",
+      "beach",
+      "temple"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg/1280px-Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg",
@@ -8717,12 +8712,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Philippines",
-    "heroKey": "lantern",
+    "heroKey": "coast",
     "galleryKeys": [
-      "lantern",
-      "sahara",
-      "tokyo",
-      "kyoto"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Quezon_Memorial_Circle%2C_Commonwealth_Avenue-Philcoa_NB_drone_%28Quezon_City%3B_03-03-2026%29.jpg/1280px-Quezon_Memorial_Circle%2C_Commonwealth_Avenue-Philcoa_NB_drone_%28Quezon_City%3B_03-03-2026%29.jpg",
@@ -8779,12 +8774,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Poland",
-    "heroKey": "greeceSea",
+    "heroKey": "temple",
     "galleryKeys": [
-      "greeceSea",
-      "alps",
-      "paris",
-      "rome"
+      "temple",
+      "coast",
+      "mountains",
+      "cityNight"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Aleja_Niepdleglosci_Warsaw_2022_aerial_%28cropped%29.jpg/1280px-Aleja_Niepdleglosci_Warsaw_2022_aerial_%28cropped%29.jpg",
@@ -8843,12 +8838,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Portugal",
-    "heroKey": "santorini",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "santorini",
-      "eiffel",
-      "colosseum",
-      "norway"
+      "mountains",
+      "cityNight",
+      "alps",
+      "beach"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Lisboa_-_Portugal_%2852597836992%29.jpg/1280px-Lisboa_-_Portugal_%2852597836992%29.jpg",
@@ -8907,12 +8902,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Qatar",
-    "heroKey": "dubai",
+    "heroKey": "temple",
     "galleryKeys": [
-      "dubai",
+      "temple",
       "cityNight",
-      "lantern",
-      "sahara"
+      "coast",
+      "mountains"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/The_Pearl_Marina_in_Nov_2013.jpg/1280px-The_Pearl_Marina_in_Nov_2013.jpg",
@@ -8969,12 +8964,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Romania",
-    "heroKey": "norway",
+    "heroKey": "coast",
     "galleryKeys": [
-      "norway",
-      "greeceSea",
-      "alps",
-      "paris"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bucharest_University_Square_%28cropped%29.jpg/1280px-Bucharest_University_Square_%28cropped%29.jpg",
@@ -9032,12 +9027,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Russia",
-    "heroKey": "rome",
+    "heroKey": "food",
     "galleryKeys": [
-      "rome",
-      "venice",
+      "food",
+      "temple",
       "coast",
-      "santorini"
+      "mountains"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg/1280px-Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg",
@@ -9098,10 +9093,10 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Rwanda",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -9162,12 +9157,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Saint Kitts and Nevis",
-    "heroKey": "nyc",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "nyc",
       "cityNight",
       "beach",
-      "mountains"
+      "mountains",
+      "coast"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/St._Kitts%2C_Karibik_-_Marina_in_Basseterre_-_panoramio.jpg/1280px-St._Kitts%2C_Karibik_-_Marina_in_Basseterre_-_panoramio.jpg",
@@ -9226,12 +9221,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Saint Lucia",
-    "heroKey": "mountains",
+    "heroKey": "cityNight",
     "galleryKeys": [
+      "cityNight",
+      "beach",
       "mountains",
-      "coast",
-      "alps",
-      "nyc"
+      "coast"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/At_the_top_of_Pigeon_Island.jpg/1280px-At_the_top_of_Pigeon_Island.jpg",
@@ -9289,12 +9284,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Saint Vincent and the Grenadines",
-    "heroKey": "cityNight",
+    "heroKey": "food",
     "galleryKeys": [
+      "food",
       "cityNight",
       "beach",
-      "mountains",
-      "coast"
+      "mountains"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/a/a1/Kingstown.jpg",
@@ -9354,10 +9349,10 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Samoa",
-    "heroKey": "maldives",
+    "heroKey": "food",
     "galleryKeys": [
-      "maldives",
-      "mountains",
+      "food",
+      "cityNight",
       "beach",
       "coast"
     ],
@@ -9418,12 +9413,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of San Marino",
-    "heroKey": "rome",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "rome",
-      "venice",
-      "coast",
-      "santorini"
+      "mountains",
+      "cityNight",
+      "alps",
+      "beach"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/a/ac/San_Marino_constitution_1600.jpg",
@@ -9481,9 +9476,9 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of São Tomé and Príncipe",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -9540,12 +9535,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Saudi Arabia",
-    "heroKey": "dubai",
+    "heroKey": "beach",
     "galleryKeys": [
-      "dubai",
-      "cityNight",
+      "beach",
+      "food",
       "lantern",
-      "sahara"
+      "temple"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D9%87%D8%A9_%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9_%D9%81%D9%8A_%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%AC%D8%AF%D8%A9_%D8%BA%D8%B1%D8%A8_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9_%282025%29_%28cropped%29.jpg/1280px-%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D9%87%D8%A9_%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9_%D9%81%D9%8A_%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%AC%D8%AF%D8%A9_%D8%BA%D8%B1%D8%A8_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9_%282025%29_%28cropped%29.jpg",
@@ -9612,7 +9607,6 @@ const raw: Gen[] = [
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/4/46/Dakar-Ind%C3%A9pendance.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/8/87/Pikine.gif",
       "https://upload.wikimedia.org/wikipedia/commons/0/0b/Touba_034_%2845718877585%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/3/32/MedinaBaayMosque.jpg"
     ],
@@ -9665,12 +9659,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Serbia",
-    "heroKey": "paris",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
-      "coast"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Panorama_Belgrad.jpg/1280px-Panorama_Belgrad.jpg",
@@ -9730,10 +9724,10 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Seychelles",
-    "heroKey": "sahara",
+    "heroKey": "desertCamp",
     "galleryKeys": [
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast",
       "beach"
     ],
@@ -9794,8 +9788,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realImages": [
@@ -9858,12 +9852,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Singapore",
-    "heroKey": "phiPhi",
+    "heroKey": "temple",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "temple",
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/North-eastern_shore_of_Bedok_Reservoir.jpg/1280px-North-eastern_shore_of_Bedok_Reservoir.jpg",
@@ -9922,12 +9916,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Slovakia",
-    "heroKey": "greeceSea",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "greeceSea",
+      "mountains",
+      "cityNight",
       "alps",
-      "paris",
-      "rome"
+      "beach"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Slovakia_bratislava.jpg/1280px-Slovakia_bratislava.jpg",
@@ -9986,12 +9980,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Slovenia",
-    "heroKey": "eiffel",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "eiffel",
-      "colosseum",
-      "norway",
-      "greeceSea"
+      "cityNight",
+      "alps",
+      "beach",
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ljubljana_Old_Town%2C_Slovenia_%28Old_Camera%29_%2833286165680%29.jpg/1280px-Ljubljana_Old_Town%2C_Slovenia_%28Old_Camera%29_%2833286165680%29.jpg",
@@ -10054,8 +10048,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "beach",
       "coast",
-      "longtail",
-      "maldives"
+      "mountains",
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Honiara_View.jpg/1280px-Honiara_View.jpg",
@@ -10115,9 +10109,9 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Somalia",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -10191,8 +10185,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realImages": [
@@ -10252,12 +10246,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of South Korea",
-    "heroKey": "phiPhi",
+    "heroKey": "temple",
     "galleryKeys": [
-      "phiPhi",
-      "longtail",
-      "fujiLake",
-      "dubai"
+      "temple",
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/%EC%A4%91%ED%99%94%EC%A0%84%EC%9D%98_%EB%82%AE.jpg/1280px-%EC%A4%91%ED%99%94%EC%A0%84%EC%9D%98_%EB%82%AE.jpg",
@@ -10320,8 +10314,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/John_Garang_Mausoleum_Square_in_Juba.JPG/1280px-John_Garang_Mausoleum_Square_in_Juba.JPG",
@@ -10380,12 +10374,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Spain",
-    "heroKey": "eiffel",
+    "heroKey": "beach",
     "galleryKeys": [
-      "eiffel",
-      "colosseum",
-      "norway",
-      "greeceSea"
+      "beach",
+      "food",
+      "temple",
+      "coast"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Plaza_Mayor_De_Madrid_%28215862629%29_edited.jpeg/1280px-Plaza_Mayor_De_Madrid_%28215862629%29_edited.jpeg",
@@ -10445,12 +10439,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Sri Lanka",
-    "heroKey": "cityNight",
+    "heroKey": "temple",
     "galleryKeys": [
+      "temple",
       "cityNight",
-      "lantern",
-      "sahara",
-      "tokyo"
+      "coast",
+      "mountains"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Colombo_city_skyline_at_night.png/1280px-Colombo_city_skyline_at_night.png",
@@ -10514,8 +10508,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/%C2%A9Nile-Project_-Sari_Omer_0025.jpg/1280px-%C2%A9Nile-Project_-Sari_Omer_0025.jpg",
@@ -10574,12 +10568,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Suriname",
-    "heroKey": "mountains",
+    "heroKey": "coast",
     "galleryKeys": [
-      "mountains",
-      "temple",
       "coast",
-      "beach"
+      "beach",
+      "temple",
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Paramaribo_city_collage.png/1280px-Paramaribo_city_collage.png",
@@ -10635,11 +10629,11 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Sweden",
-    "heroKey": "paris",
+    "heroKey": "beach",
     "galleryKeys": [
-      "paris",
-      "rome",
-      "venice",
+      "beach",
+      "food",
+      "temple",
       "coast"
     ],
     "realImages": [
@@ -10701,12 +10695,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Switzerland",
-    "heroKey": "rome",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "rome",
-      "venice",
-      "coast",
-      "santorini"
+      "mountains",
+      "cityNight",
+      "alps",
+      "beach"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Altstadt_Z%C3%BCrich_2015.jpg/1280px-Altstadt_Z%C3%BCrich_2015.jpg",
@@ -10765,12 +10759,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Syria",
-    "heroKey": "sahara",
+    "heroKey": "food",
     "galleryKeys": [
-      "sahara",
-      "tokyo",
-      "kyoto",
-      "temple"
+      "food",
+      "lantern",
+      "temple",
+      "cityNight"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Aleppo_Citadel_entrance_-_seen_from_southeast_9933.jpg/1280px-Aleppo_Citadel_entrance_-_seen_from_southeast_9933.jpg",
@@ -10830,12 +10824,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Tajikistan",
-    "heroKey": "kyoto",
+    "heroKey": "temple",
     "galleryKeys": [
-      "kyoto",
       "temple",
-      "phiPhi",
-      "longtail"
+      "cityNight",
+      "coast",
+      "mountains"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Panorama_with_buildings%2C_Dushanbe.jpg/1280px-Panorama_with_buildings%2C_Dushanbe.jpg",
@@ -10898,8 +10892,8 @@ const raw: Gen[] = [
     "heroKey": "temple",
     "galleryKeys": [
       "temple",
-      "sahara",
       "desertCamp",
+      "sahara",
       "coast"
     ],
     "realImages": [
@@ -10958,12 +10952,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Thailand",
-    "heroKey": "longtail",
+    "heroKey": "cityNight",
     "galleryKeys": [
-      "longtail",
-      "fujiLake",
-      "dubai",
-      "cityNight"
+      "cityNight",
+      "coast",
+      "mountains",
+      "beach"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/4Y1A1159_Bangkok_%2833536795515%29.jpg/1280px-4Y1A1159_Bangkok_%2833536795515%29.jpg",
@@ -11021,12 +11015,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Timor-Leste",
-    "heroKey": "lantern",
+    "heroKey": "beach",
     "galleryKeys": [
+      "beach",
+      "food",
       "lantern",
-      "sahara",
-      "tokyo",
-      "kyoto"
+      "temple"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Government_Palace%2C_Dili%2C_2023_%2802%29.jpg/1280px-Government_Palace%2C_Dili%2C_2023_%2802%29.jpg",
@@ -11149,11 +11143,11 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Tonga",
-    "heroKey": "longtail",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "longtail",
-      "maldives",
       "mountains",
+      "food",
+      "cityNight",
       "beach"
     ],
     "realImages": [
@@ -11161,7 +11155,6 @@ const raw: Gen[] = [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Tasman-dagboek-a.jpg/500px-Tasman-dagboek-a.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Hapee_Tonga_boxing_SLNSW_FL3445398.jpg/1280px-Hapee_Tonga_boxing_SLNSW_FL3445398.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/6/6e/William_Mariner_%281791-1853%29_crop.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tonga_sm04.gif/330px-Tonga_sm04.gif",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wattled_Honeyeater_%28Foulehaio_carunculata%29.jpg/1280px-Wattled_Honeyeater_%28Foulehaio_carunculata%29.jpg"
     ],
     "overview": "Tonga is a Polynesia nation in Oceania, with Nuku'alofa as its capital and home to around 103,197 people. The currency is the Tongan paʻanga (TOP). The main languages are English, Tongan. From its landscapes and cities to its cuisine and traditions, Tonga offers travelers a distinctive slice of the world to explore.",
@@ -11213,20 +11206,19 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Trinidad and Tobago",
-    "heroKey": "mountains",
+    "heroKey": "beach",
     "galleryKeys": [
+      "beach",
       "mountains",
       "coast",
-      "alps",
-      "nyc"
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/1/16/Chaguanas_TT2.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/e/eb/POS_at_night_Skyline.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TnT_Arima_The_Dial.jpg/1280px-TnT_Arima_The_Dial.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Raleigh_at_Trinidad.jpg/1280px-Raleigh_at_Trinidad.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Trinidad_Ralph_Abercromby_%28cropped%29.JPG/1280px-Trinidad_Ralph_Abercromby_%28cropped%29.JPG",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Plan_of_the_Isle_of_Trinidad_from_actual_surveys_made_in_the_year_1797._RMG_K1077.jpg/500px-Plan_of_the_Isle_of_Trinidad_from_actual_surveys_made_in_the_year_1797._RMG_K1077.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Trinidad_Ralph_Abercromby_%28cropped%29.JPG/1280px-Trinidad_Ralph_Abercromby_%28cropped%29.JPG"
     ],
     "overview": "Trinidad and Tobago is a Caribbean nation in Americas, with Port of Spain as its capital and home to around 1,389,858 people. The currency is the Trinidad and Tobago dollar (TTD). The main language is English. From its landscapes and cities to its cuisine and traditions, Trinidad and Tobago offers travelers a distinctive slice of the world to explore.",
     "history": "Trinidad and Tobago has a rich history shaped by its position in Americas and the cultures of Caribbean, leaving a legacy visible in its landmarks, cities and traditions today.",
@@ -11281,8 +11273,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Minaret_et_patio_de_la_mosqu%C3%A9e_Zitouna_au_centre_de_la_M%C3%A9dina_de_Tunis.jpg/1280px-Minaret_et_patio_de_la_mosqu%C3%A9e_Zitouna_au_centre_de_la_M%C3%A9dina_de_Tunis.jpg",
@@ -11340,12 +11332,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Türkiye",
-    "heroKey": "temple",
+    "heroKey": "coast",
     "galleryKeys": [
-      "temple",
-      "phiPhi",
-      "longtail",
-      "fujiLake"
+      "coast",
+      "mountains",
+      "beach",
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Historical_peninsula_and_modern_skyline_of_Istanbul.jpg/1280px-Historical_peninsula_and_modern_skyline_of_Istanbul.jpg",
@@ -11405,12 +11397,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Turkmenistan",
-    "heroKey": "temple",
+    "heroKey": "lantern",
     "galleryKeys": [
+      "lantern",
       "temple",
-      "phiPhi",
-      "longtail",
-      "fujiLake"
+      "cityNight",
+      "coast"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/View_of_Ashgabat_%2842376779291%29.jpg/1280px-View_of_Ashgabat_%2842376779291%29.jpg",
@@ -11472,8 +11464,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "beach",
       "coast",
-      "longtail",
-      "maldives"
+      "mountains",
+      "food"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Funafuti_airport_-_Fiji_Airways.jpg/1280px-Funafuti_airport_-_Fiji_Airways.jpg",
@@ -11532,9 +11524,9 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Uganda",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -11596,12 +11588,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Ukraine",
-    "heroKey": "coast",
+    "heroKey": "temple",
     "galleryKeys": [
+      "temple",
       "coast",
-      "santorini",
-      "eiffel",
-      "colosseum"
+      "mountains",
+      "cityNight"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_%D0%B7_%D1%85%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%2C_%D1%81%D0%B5%D1%80%D0%BF%D0%B5%D0%BD%D1%8C_2019.jpg/1280px-%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_%D0%B7_%D1%85%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%2C_%D1%81%D0%B5%D1%80%D0%BF%D0%B5%D0%BD%D1%8C_2019.jpg",
@@ -11660,12 +11652,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of United Arab Emirates",
-    "heroKey": "dubai",
+    "heroKey": "temple",
     "galleryKeys": [
-      "dubai",
+      "temple",
       "cityNight",
-      "lantern",
-      "sahara"
+      "coast",
+      "mountains"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Burj_Khalifa_2021.jpg/1280px-Burj_Khalifa_2021.jpg",
@@ -11723,12 +11715,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of United Kingdom",
-    "heroKey": "eiffel",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "eiffel",
-      "colosseum",
-      "norway",
-      "greeceSea"
+      "mountains",
+      "cityNight",
+      "alps",
+      "beach"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/1280px-London_Skyline_%28125508655%29.jpeg",
@@ -11791,8 +11783,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "coast",
-      "alps",
-      "nyc"
+      "food",
+      "cityNight"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/1280px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
@@ -11850,12 +11842,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Uruguay",
-    "heroKey": "coast",
+    "heroKey": "temple",
     "galleryKeys": [
-      "coast",
-      "beach",
-      "machuPicchu",
-      "mountains"
+      "temple",
+      "food",
+      "mountains",
+      "coast"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/PALACIO_LEGISLATIVO_01.JPG/1280px-PALACIO_LEGISLATIVO_01.JPG",
@@ -11914,12 +11906,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Uzbekistan",
-    "heroKey": "fujiLake",
+    "heroKey": "beach",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
-      "cityNight",
-      "lantern"
+      "beach",
+      "food",
+      "lantern",
+      "temple"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Nest_One_Tashkent.jpg/1280px-Nest_One_Tashkent.jpg",
@@ -11980,10 +11972,10 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Vanuatu",
-    "heroKey": "maldives",
+    "heroKey": "food",
     "galleryKeys": [
-      "maldives",
-      "mountains",
+      "food",
+      "cityNight",
       "beach",
       "coast"
     ],
@@ -12045,17 +12037,16 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Vatican City",
-    "heroKey": "greeceSea",
+    "heroKey": "coast",
     "galleryKeys": [
-      "greeceSea",
-      "alps",
-      "paris",
-      "rome"
+      "coast",
+      "mountains",
+      "cityNight",
+      "alps"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Vatikanische_Gaerten_Museen_Rom.jpg/1280px-Vatikanische_Gaerten_Museen_Rom.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Obelisk_of_St._Peter.jpg/1280px-Obelisk_of_St._Peter.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Plan_of_Circus_Neronis_and_St._Peters.gif/500px-Plan_of_Circus_Neronis_and_St._Peters.gif",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/The_British_Army_in_Italy_1944_NA16179.jpg/500px-The_British_Army_in_Italy_1944_NA16179.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg/1280px-St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg"
     ],
@@ -12108,12 +12099,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Venezuela",
-    "heroKey": "beach",
+    "heroKey": "food",
     "galleryKeys": [
-      "beach",
-      "machuPicchu",
+      "food",
       "mountains",
-      "temple"
+      "coast",
+      "beach"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Caracas_desde_el_%C3%A1vila.jpg/1280px-Caracas_desde_el_%C3%A1vila.jpg",
@@ -12171,11 +12162,11 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Vietnam",
-    "heroKey": "fujiLake",
+    "heroKey": "mountains",
     "galleryKeys": [
-      "fujiLake",
-      "dubai",
-      "cityNight",
+      "mountains",
+      "beach",
+      "food",
       "lantern"
     ],
     "realImages": [
@@ -12235,12 +12226,12 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Yemen",
-    "heroKey": "cityNight",
+    "heroKey": "beach",
     "galleryKeys": [
-      "cityNight",
+      "beach",
+      "food",
       "lantern",
-      "sahara",
-      "tokyo"
+      "temple"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sana%27a_%282286825748%29.jpg/1280px-Sana%27a_%282286825748%29.jpg",
@@ -12299,9 +12290,9 @@ const raw: Gen[] = [
     "safety": "Exercise normal precautions and check the latest local travel advice.",
     "budgetPerDay": "$60–200",
     "tagline": "Discover the wonders of Zambia",
-    "heroKey": "desertCamp",
+    "heroKey": "sahara",
     "galleryKeys": [
-      "desertCamp",
+      "sahara",
       "coast",
       "beach",
       "mountains"
@@ -12380,8 +12371,8 @@ const raw: Gen[] = [
     "galleryKeys": [
       "mountains",
       "temple",
-      "sahara",
-      "desertCamp"
+      "desertCamp",
+      "sahara"
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Crowne_Plaza%2C_Harare.png/1280px-Crowne_Plaza%2C_Harare.png",
