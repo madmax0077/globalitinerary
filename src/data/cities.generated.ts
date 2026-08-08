@@ -383,8 +383,10 @@ const raw: Gen[] = [
       "mountains",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Capital_City_Public_Market_%286%29.jpg/1280px-Capital_City_Public_Market_%286%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Capital_City_Public_Market_%286%29.jpg/1280px-Capital_City_Public_Market_%286%29.jpg"
+    ],
     "overview": "Abobo is one of Ivory Coast's major cities, home to around 1,340,083 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -1264,8 +1266,15 @@ const raw: Gen[] = [
       "cityNight",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/6/68/Taj_Mahal%2C_Agra%2C_India.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/68/Taj_Mahal%2C_Agra%2C_India.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/96/1911_Map_of_Agra_Uttar_Pradesh_India.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/45/20191204_Czerwony_Fort_w_Agrze_0934_6593_DxO.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/99/AGRA-agra_railway_station_BY_Fateh.RawKEy.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e5/Agra%2C_Main_Street%2C_c.1858.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e7/Agra-Inner-Ring-Road02_%2832944081270%29.jpg"
+    ],
     "overview": "Agra is one of India's major cities, home to around 1,585,704 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -1622,8 +1631,14 @@ const raw: Gen[] = [
       "coast",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/98/Kuwait-Al_Ahmadi.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/98/Kuwait-Al_Ahmadi.png",
+      "https://upload.wikimedia.org/wikipedia/commons/7/70/Al_Ahmadi_%28Kuwait%29.png",
+      "https://upload.wikimedia.org/wikipedia/commons/e/ef/Postbox_in_Al_Ahmadi_1976.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Show_Your_Stripes_change_in_temperature_graphic_for_Al_A%E1%B8%A9mad%C4%AB%2C_Kuwait_with_bars.png/1280px-Show_Your_Stripes_change_in_temperature_graphic_for_Al_A%E1%B8%A9mad%C4%AB%2C_Kuwait_with_bars.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Show_Your_Stripes_change_in_temperature_graphic_for_Al_A%E1%B8%A9mad%C4%AB%2C_Kuwait_with_bars_with_labels.png/1280px-Show_Your_Stripes_change_in_temperature_graphic_for_Al_A%E1%B8%A9mad%C4%AB%2C_Kuwait_with_bars_with_labels.png"
+    ],
     "overview": "Al Aḩmadī is one of Kuwait's major cities, home to around 637,411 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -1706,8 +1721,10 @@ const raw: Gen[] = [
       "cityNight",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Basra_city.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/8f/Basra_city.jpg"
+    ],
     "overview": "Al Başrah al Qadīmah is one of Iraq's major cities, home to around 2,015,483 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -1745,8 +1762,10 @@ const raw: Gen[] = [
       "lantern",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ISN_217%27s_Guantanamo_detainee_assessment.pdf/page1-960px-ISN_217%27s_Guantanamo_detainee_assessment.pdf.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ISN_217%27s_Guantanamo_detainee_assessment.pdf/page1-960px-ISN_217%27s_Guantanamo_detainee_assessment.pdf.jpg"
+    ],
     "overview": "Al Faḩāḩīl is one of Kuwait's major cities, home to around 68,290 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -1784,8 +1803,14 @@ const raw: Gen[] = [
       "food",
       "lantern"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/5/59/Kuwait-Al_Farwaniyah.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/59/Kuwait-Al_Farwaniyah.png",
+      "https://upload.wikimedia.org/wikipedia/commons/3/37/Al_Farwaniyah_%28Kuwait%29.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kuuwait.jpg/1280px-Kuuwait.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Al-Ardiya_City_Roads.jpg/1280px-Al-Ardiya_City_Roads.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/9K-CBB_-_Jazeera_Airways_-_Airbus_A320-251N_-_MSN_9002_-_VGHS.jpg/1280px-9K-CBB_-_Jazeera_Airways_-_Airbus_A320-251N_-_MSN_9002_-_VGHS.jpg"
+    ],
     "overview": "Al Farwānīyah is one of Kuwait's major cities, home to around 86,525 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -1964,8 +1989,10 @@ const raw: Gen[] = [
       "mountains",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/2/26/The_Pearl_Marina_in_Nov_2013.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/26/The_Pearl_Marina_in_Nov_2013.jpg"
+    ],
     "overview": "Al Maţār al ‘Atīq is one of Qatar's major cities, home to around 76,774 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -2003,8 +2030,10 @@ const raw: Gen[] = [
       "food",
       "lantern"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/80/%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/80/%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84.jpg"
+    ],
     "overview": "Al Mawşil al Jadīdah is one of Iraq's major cities, home to around 2,065,597 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -2590,8 +2619,11 @@ const raw: Gen[] = [
       "temple",
       "desertCamp"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Djibouti-Ali_Sabih.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/e6/Djibouti-Ali_Sabih.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Federal_Information_Processing_Standards_Publication-_countries%2C_dependencies%2C_area_of_special_sovereignty%2C_and_their_principal_administrative_divisions_%28IA_federalinformati104nati%29.pdf/page1-960px-thumbnail.pdf.jpg"
+    ],
     "overview": "Ali Sabih is one of Djibouti's major cities, home to around 50,006 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -2899,8 +2931,13 @@ const raw: Gen[] = [
       "beach",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/1/14/Ambato_Basilica_Downtown_Ambato.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/14/Ambato_Basilica_Downtown_Ambato.JPG",
+      "https://upload.wikimedia.org/wikipedia/en/2/28/Chimbo_Carihuairzao.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ecuador_Ambato_Marketday.JPG",
+      "https://upload.wikimedia.org/wikipedia/en/7/71/IMG_CASA_PORTAL_ambato_ecuador.JPG"
+    ],
     "overview": "Ambato is one of Ecuador's major cities, home to around 387,309 people.",
     "bestTime": "The dry season (roughly May–September) is ideal",
     "weather": "From highland cool to tropical warmth",
@@ -3617,8 +3654,15 @@ const raw: Gen[] = [
       "coast",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/7/73/Falezlerden_Antalya_Konyaalt%C4%B1_Plaj%C4%B1na_do%C4%9Fru_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/73/Falezlerden_Antalya_Konyaalt%C4%B1_Plaj%C4%B1na_do%C4%9Fru_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c0/Am_Yachthafen.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/6/61/Antalya%2C_Turkey_Feb_2022_-_Colorful_Shopping_Mall.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/87/Antalya._%27Burhanettin_Onat%27_Station_of_AnTray.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/83/Antalya_-_Kesik_Minare_1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/72/Antalya_Atat%C3%BCrk_M%C3%BCzesi_%28cropped%29.jpg"
+    ],
     "overview": "Antalya is one of Turkey's major cities, home to around 1,425,563 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -4270,8 +4314,15 @@ const raw: Gen[] = [
       "beach",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/7/76/Bahrain-Ar_Rifa%27_wa_al_Mintaqah_al_Janubiyah.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/76/Bahrain-Ar_Rifa%27_wa_al_Mintaqah_al_Janubiyah.png",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e8/RiffaFort2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Riffa_Riffa_Clock_Tower_02.jpg/1280px-Riffa_Riffa_Clock_Tower_02.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Riffa_Riffa_Clock_Tower_03.jpg/1280px-Riffa_Riffa_Clock_Tower_03.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Riffa_Riffa_Fort_Exterior_03.jpg/1280px-Riffa_Riffa_Fort_Exterior_03.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Riffa_Riffa_Fort_Exterior_05.jpg/1280px-Riffa_Riffa_Fort_Exterior_05.jpg"
+    ],
     "overview": "Ar Rifā‘ is one of Bahrain's major cities, home to around 115,495 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -4309,8 +4360,10 @@ const raw: Gen[] = [
       "beach",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/5/51/Arawa-Kieta.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/51/Arawa-Kieta.png"
+    ],
     "overview": "Arawa is one of Papua New Guinea's major cities, home to around 40,266 people.",
     "bestTime": "The warmer, drier months for the outdoors",
     "weather": "Mild to tropical, with plenty of sunshine",
@@ -4759,8 +4812,11 @@ const raw: Gen[] = [
       "sahara",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/8d/A_view_of_the_Gulf_of_Tadjoura_from_Arta.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/8d/A_view_of_the_Gulf_of_Tadjoura_from_Arta.png",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b5/Arta1970.jpg"
+    ],
     "overview": "Arta is one of Djibouti's major cities, home to around 17,477 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -4960,8 +5016,15 @@ const raw: Gen[] = [
       "mountains",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/ISS014-E-16750_-_View_of_Kuwait.jpg/1280px-ISS014-E-16750_-_View_of_Kuwait.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/ISS014-E-16750_-_View_of_Kuwait.jpg/1280px-ISS014-E-16750_-_View_of_Kuwait.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ISS015-E-26845_-_View_of_Kuwait.jpg/1280px-ISS015-E-26845_-_View_of_Kuwait.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pyramids_Mosque%2C_Salmiya%2C_Kuwait_City%2C_Kuwait_01.jpg/1280px-Pyramids_Mosque%2C_Salmiya%2C_Kuwait_City%2C_Kuwait_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Kuwait_Scientific_Centre%2C_Salmiya%2C_Kuwait_City%2C_Kuwait.jpg/1280px-Kuwait_Scientific_Centre%2C_Salmiya%2C_Kuwait_City%2C_Kuwait.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/ISS006-E-15334_-_View_of_Kuwait.jpg/1280px-ISS006-E-15334_-_View_of_Kuwait.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ISS006-E-15335_-_View_of_Kuwait.jpg/1280px-ISS006-E-15335_-_View_of_Kuwait.jpg"
+    ],
     "overview": "As Sālimīyah is one of Kuwait's major cities, home to around 147,649 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -5137,7 +5200,7 @@ const raw: Gen[] = [
       "coast",
       "beach"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Asmara_Montage.png/1280px-Asmara_Montage.png",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Asmara_1935_Panorama_%282567806345%29.jpg/1280px-Asmara_1935_Panorama_%282567806345%29.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Asmara_1935_Panorama_%282567806345%29.jpg/1280px-Asmara_1935_Panorama_%282567806345%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Asmara_panorama%2C_Eritrea.jpg/500px-Asmara_panorama%2C_Eritrea.jpg",
@@ -5612,8 +5675,15 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/0/06/Panoramic_view_of_Aswan%2C_Egypt.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/06/Panoramic_view_of_Aswan%2C_Egypt.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/73/Assuan_Asw%C4%81n_%2853581843304%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c0/Aswan%2C_Aswan_Governorate%2C_Egypt_-_panoramio_%2811%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0a/Aswan-Eygpt.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/bf/AswanHighDam_Egypt.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/39/Aswan_Botanical_Garden_12.jpg"
+    ],
     "overview": "Aswan is one of Egypt's major cities, home to around 350,000 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -5829,8 +5899,14 @@ const raw: Gen[] = [
       "mountains",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/c/c8/A2ATL20250614-0721_%28cropped%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/c8/A2ATL20250614-0721_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/78/2013.01.26.113234_Aquarium_Atlanta_Georgia.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/06/AATL202503-0850_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a7/ABuckhead2510-0421.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d7/ATL_Concourse_A.jpg"
+    ],
     "overview": "Atlanta is one of United States's major cities, home to around 498,715 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -5913,8 +5989,15 @@ const raw: Gen[] = [
       "coast",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Skyline_of_Austin%2C_Texas_%28cropped%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f4/Skyline_of_Austin%2C_Texas_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/91/2011_Texas_Drought.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5b/9162018.Moon.Light.towers.NRSID76002071_02.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/24/ACL2009SBH.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/25/AUSCentralConcourse.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5d/Austin%2C_Texas_covered_in_snow_ESA23166430.jpeg"
+    ],
     "overview": "Austin is one of United States's major cities, home to around 961,855 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -5952,8 +6035,15 @@ const raw: Gen[] = [
       "food",
       "lantern"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/95/Lusail_City.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/95/Lusail_City.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Marina_City_Sign.jpg/1280px-Marina_City_Sign.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/db/Stanley_Ferry_Marina_-_geograph.org.uk_-_823405.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lusail_skyline_with_the_Lusail_Marina_Iconic_Development_in_the_center.jpg/1280px-Lusail_skyline_with_the_Lusail_Marina_Iconic_Development_in_the_center.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/cb/Bridgewater_Marina%2C_Boothstown_-_geograph.org.uk_-_2110426.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/69/Bridgewater_Marina_-_geograph.org.uk_-_2300874.jpg"
+    ],
     "overview": "Az̧ Z̧a‘āyin is one of Qatar's major cities, home to around 54,339 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -6253,8 +6343,10 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fernanda_Nossa%2C_Guinea-Bissau%2C_photo_5.jpg/1280px-Fernanda_Nossa%2C_Guinea-Bissau%2C_photo_5.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fernanda_Nossa%2C_Guinea-Bissau%2C_photo_5.jpg/1280px-Fernanda_Nossa%2C_Guinea-Bissau%2C_photo_5.jpg"
+    ],
     "overview": "Bairro Militar is one of Guinea-Bissau's major cities, home to around 65,274 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -6292,9 +6384,8 @@ const raw: Gen[] = [
       "mountains",
       "beach"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Baku_Montage.jpg/1280px-Baku_Montage.jpg",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Qobustan_inscription.jpg/1280px-Qobustan_inscription.jpg",
     "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Baku_Montage.jpg/1280px-Baku_Montage.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Qobustan_inscription.jpg/1280px-Qobustan_inscription.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/1541-Battle_in_the_war_between_Shah_Isma%27il_and_the_King_of_Shirvan-Shahnama-i-Isma%27il.jpg/500px-1541-Battle_in_the_war_between_Shah_Isma%27il_and_the_King_of_Shirvan-Shahnama-i-Isma%27il.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sabayil_relics.jpg/1280px-Sabayil_relics.jpg",
@@ -6552,8 +6643,15 @@ const raw: Gen[] = [
       "mountains",
       "cityNight"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Prim%C4%83ria_B%C4%83l%C8%9Bi_2.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f1/Prim%C4%83ria_B%C4%83l%C8%9Bi_2.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/c/cd/Alecu_Russo_State_University%2C_Balti%2C_Moldova_%2849256067681%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/bf/Balti-arm.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/01/Balti_%281985%29._%2831938427254%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/35/Bustul_lui_Ferdinand_i_din_Balti_2023.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7f/Catedrala._Sf._Const_si_Elen._din_B%C4%83l%C8%9Bi.JPG"
+    ],
     "overview": "Bălţi is one of Moldova's major cities, home to around 125,000 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -6873,8 +6971,11 @@ const raw: Gen[] = [
       "food",
       "lantern"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Vietnamese_coinage_and_medals_%28Monnaies_et_de_M%C3%A9dailles_de_l%27Annam_et_de_la_Cochinchine_Fran%C3%A7aise%29_by_J._Silvestre_%281883%29.pdf/page1-1280px-Vietnamese_coinage_and_medals_%28Monnaies_et_de_M%C3%A9dailles_de_l%27Annam_et_de_la_Cochinchine_Fran%C3%A7aise%29_by_J._Silvestre_%281883%29.pdf.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Vietnamese_coinage_and_medals_%28Monnaies_et_de_M%C3%A9dailles_de_l%27Annam_et_de_la_Cochinchine_Fran%C3%A7aise%29_by_J._Silvestre_%281883%29.pdf/page1-1280px-Vietnamese_coinage_and_medals_%28Monnaies_et_de_M%C3%A9dailles_de_l%27Annam_et_de_la_Cochinchine_Fran%C3%A7aise%29_by_J._Silvestre_%281883%29.pdf.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Documents_about_Martin_Luther_King%2C_Jr.%2C_Executive_Order_14176%2C_00474259_intelligence_and_security.pdf/page1-1280px-Documents_about_Martin_Luther_King%2C_Jr.%2C_Executive_Order_14176%2C_00474259_intelligence_and_security.pdf.jpg"
+    ],
     "overview": "Ban Khoan is one of Laos's major cities, home to around 65,348 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -7083,8 +7184,15 @@ const raw: Gen[] = [
       "coast",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Town_of_Banff_viewed_from_Sulphur_Mountain.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f8/Town_of_Banff_viewed_from_Sulphur_Mountain.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/fe/Banff%2C_Alberta%2C_Canada.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4e/Banff_Bahnhof.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/00/Banff_Springs_Hotel_2008.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a8/Banff_from_Sulphur_Mountain_2020.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/cf/Canada_Banff_Aurora.jpg"
+    ],
     "overview": "Banff is one of Canada's major cities, home to around 8,305 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -7229,7 +7337,7 @@ const raw: Gen[] = [
       "sahara",
       "coast"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bangui_collage.png/1280px-Bangui_collage.png",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bangui_1960.jpg/1280px-Bangui_1960.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bangui_1960.jpg/1280px-Bangui_1960.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bangui%2C_Central_African_Republic.jpg/1280px-Bangui%2C_Central_African_Republic.jpg"
@@ -7507,8 +7615,12 @@ const raw: Gen[] = [
       "beach",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Stari_Bar%2C_Montenegro%2C_2014-04-18%2C_DD_03.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/6b/Stari_Bar%2C_Montenegro%2C_2014-04-18%2C_DD_03.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/4/47/%22Olea_europea%E2%80%9D%2C_which_is_over_2000_years_old._Full_view..jpg",
+      "https://upload.wikimedia.org/wikipedia/en/2/20/Church_of_St._Jovan_Vladimir_in_Bar.JPG"
+    ],
     "overview": "Bar is one of Montenegro's major cities, home to around 17,727 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -7743,7 +7855,7 @@ const raw: Gen[] = [
       "coast",
       "beach"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/2/2b/BarquisimetoCollage.png",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Jacinto_Lara.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/a/ad/Jacinto_Lara.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Procesionpastora.jpg/500px-Procesionpastora.jpg",
@@ -8297,8 +8409,11 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/en/0/02/Torre_de_la_Libertad.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/en/0/02/Torre_de_la_Libertad.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/41/Bata_Stadium_Equatorial_Guinea.JPG"
+    ],
     "overview": "Bata is one of Equatorial Guinea's major cities, home to around 173,046 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -8359,8 +8474,15 @@ const raw: Gen[] = [
       "sahara",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Roman_Ruins_of_Timgad.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/e3/Roman_Ruins_of_Timgad.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/51/Batna.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/30/Belezma_parc_national.png",
+      "https://upload.wikimedia.org/wikipedia/commons/7/78/L%27APC_de_Batna.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/a/ab/Lambese%2C_algeria.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/14/Les_all%C3%A9es_Ben_Boulaid_%C3%A0_Batna.jpg"
+    ],
     "overview": "Batna is one of Algeria's major cities, home to around 289,504 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -8788,8 +8910,11 @@ const raw: Gen[] = [
       "coast",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Caf_babies.jpg/1280px-Caf_babies.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Caf_babies.jpg/1280px-Caf_babies.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Mia_Farrow_holding_Central_African_baby.jpg/1280px-Mia_Farrow_holding_Central_African_baby.jpg"
+    ],
     "overview": "Bégoua is one of Central African Republic's major cities, home to around 264,067 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -8872,8 +8997,15 @@ const raw: Gen[] = [
       "coast",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Pra%C3%A7a_do_Munic%C3%ADpio%2C_Beira%2C_Mozambique_%2823864553149%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f9/Pra%C3%A7a_do_Munic%C3%ADpio%2C_Beira%2C_Mozambique_%2823864553149%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/cf/Beira-c1905.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/03/BeiraFromTheISS.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/54/Beira_Airport_DF-SD-01-01511.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f8/Bras%C3%A3o_da_Beira.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f3/Conselho_Municipal_da_Beira%2C_Mo%C3%A7ambique.jpg"
+    ],
     "overview": "Beira is one of Mozambique's major cities, home to around 687,764 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -9252,9 +9384,8 @@ const raw: Gen[] = [
       "food",
       "cityNight"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Belize_City_Montage.jpeg/1280px-Belize_City_Montage.jpeg",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/British_Honduras_1914.jpg/1280px-British_Honduras_1914.jpg",
     "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Belize_City_Montage.jpeg/1280px-Belize_City_Montage.jpeg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/British_Honduras_1914.jpg/1280px-British_Honduras_1914.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/SWING_BRIDGE_IN_BELIZE_CITY%2C_BELIZE.jpg/1280px-SWING_BRIDGE_IN_BELIZE_CITY%2C_BELIZE.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Darcy_McCarthy_5-26-06.jpg/1280px-Darcy_McCarthy_5-26-06.jpg"
@@ -9532,8 +9663,14 @@ const raw: Gen[] = [
       "temple",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/90/Bender_Fortress._Northern_side_02.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/90/Bender_Fortress._Northern_side_02.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/8/89/Bender_Castle.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/97/Bender_Dniester_Bridge.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4f/Bender_Fortress._Church_03.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Bender_map_2008.png"
+    ],
     "overview": "Bender is one of Moldova's major cities, home to around 110,175 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -10113,8 +10250,15 @@ const raw: Gen[] = [
       "lantern",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Gaindakot_and_Bharatpur_at_Narayani_River%2C_Nepal_2020_-1.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/8a/Gaindakot_and_Bharatpur_at_Narayani_River%2C_Nepal_2020_-1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1d/Banner_of_Bagmati_Province.png",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d4/Barkati_Jame_Masjid.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4c/Beautiful_Bishazaari_Lake.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/98/Bharatpur_Airport.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/74/Big_gautam_budha_styachu_of_Chitawan_gumba.jpg"
+    ],
     "overview": "Bharatpur is one of Nepal's major cities, home to around 369,377 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -10226,8 +10370,14 @@ const raw: Gen[] = [
       "cityNight",
       "alps"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Abandoibarra3.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a3/Abandoibarra3.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/50/Aeropuerto_Bilbao_Loiu_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/50/Ataque_al_Puente_de_Luchana.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0b/Bacalao_Vizcaina_%28Marug%C3%A1n%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a6/Basilica_de_Bego%C3%B1a.jpg"
+    ],
     "overview": "Bilbao is one of Spain's major cities, home to around 345,821 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -10265,8 +10415,15 @@ const raw: Gen[] = [
       "coast",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/0/0c/CF-Bimbo.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/0c/CF-Bimbo.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Berge_pk9_%C3%A0_Bimbo_en_r%C3%A9publique_centrafricaine.jpg/1280px-Berge_pk9_%C3%A0_Bimbo_en_r%C3%A9publique_centrafricaine.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berge_bimbo_pk9_en_RCA_01.jpg/1280px-Berge_bimbo_pk9_en_RCA_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Berge_bimbo_pk9_en_RCA_02.jpg/1280px-Berge_bimbo_pk9_en_RCA_02.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Berge_bimbo_pk9_en_RCA_04.jpg/1280px-Berge_bimbo_pk9_en_RCA_04.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/KIMG0504_06.jpg/1280px-KIMG0504_06.jpg"
+    ],
     "overview": "Bimbo is one of Central African Republic's major cities, home to around 348,802 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -11324,8 +11481,11 @@ const raw: Gen[] = [
       "mountains",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Bo-City-Sierra-Leone.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/9d/Bo-City-Sierra-Leone.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Bo_WorldWind_Satelite_image.jpg"
+    ],
     "overview": "Bo is one of Sierra Leone's major cities, home to around 233,684 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -11464,8 +11624,15 @@ const raw: Gen[] = [
       "mountains",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Sunset_over_Bodrum_I.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/4a/Sunset_over_Bodrum_I.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bodrum%2C_Mu%C4%9Fla_Province%2C_Turkey_-_panoramio_%2812%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/07/Bodrum_-_32010650707.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/36/Bodrum_-_46216644144.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bodrum_-_panoramio_%2810%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e2/Bodrum_Ak%C3%A7ab%C3%BCk_Evleri_-_panoramio.jpg"
+    ],
     "overview": "Bodrum is one of Turkey's major cities, home to around 175,000 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -11548,8 +11715,15 @@ const raw: Gen[] = [
       "coast",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Boracay_White_Beach.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/cd/Boracay_White_Beach.png",
+      "https://upload.wikimedia.org/wikipedia/commons/9/99/Ati_Community.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/16/Ati_community_in_Boracay.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7c/Boracay%2C_1985_%288758953461%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/20/Boracay_Businesses_1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/46/Boracay_Cleanup_EMB_DENR_R6.jpg"
+    ],
     "overview": "Boracay is one of Philippines's major cities, home to around 37,000 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -11640,8 +11814,15 @@ const raw: Gen[] = [
       "beach",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bordeaux_Place_de_la_Bourse_de_nuit.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bordeaux_Place_de_la_Bourse_de_nuit.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/ed/026_-_H%C3%B4tel_de_ville_Place_Pey-Berland_-_Bordeaux.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b0/034_-_Grand_Th%C3%A9%C3%A2tre_si%C3%A8ge_de_l%27Op%C3%A9ra_national_-_Bordeaux.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b4/151_-_Le_Pont_de_Pierre_-_Bordeaux.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/ec/1_Saint-%C3%89milion_aerial_pano_2016.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/91/Alain_Jupp%C3%A9%2C_Parc_Bordeaux_Ashdod%2C_Israel.jpg"
+    ],
     "overview": "Bordeaux is one of France's major cities, home to around 254,436 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -11679,8 +11860,15 @@ const raw: Gen[] = [
       "food",
       "cityNight"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/96/ISH_WC_Boston4.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/96/ISH_WC_Boston4.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4f/131023-F-PR861-033_Hanscom_participates_in_World_Series_pregame_events.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/02/Aerial_of_the_Harvard_Business_School_campus.jpeg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c1/Armenian-Americans-Boston-1908.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/36/Boston%2C_1775bsmall1.png",
+      "https://upload.wikimedia.org/wikipedia/commons/9/9d/Boston%2C_as_the_Eagle_and_the_Wild_Goose_See_It.jpg"
+    ],
     "overview": "Boston is one of United States's major cities, home to around 675,647 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -11718,9 +11906,14 @@ const raw: Gen[] = [
       "desertCamp",
       "sahara"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bouak%C3%A9_Collage.jpg/1280px-Bouak%C3%A9_Collage.jpg",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/80/Voitures_calcin%C3%A9es_devant_le_camp_militaire_du_CCDO_de_Bouak%C3%A9%2C_en_C%C3%B4te_d%27Ivoire%2C_le_9_janvier_2018.jpg",
     "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bouak%C3%A9_Collage.jpg/1280px-Bouak%C3%A9_Collage.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/8/80/Voitures_calcin%C3%A9es_devant_le_camp_militaire_du_CCDO_de_Bouak%C3%A9%2C_en_C%C3%B4te_d%27Ivoire%2C_le_9_janvier_2018.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bouak%C3%A9_suburb_street_01.jpg/1280px-Bouak%C3%A9_suburb_street_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Motor_tricycle_taxi_in_Bouak%C3%A9_bus_station.jpg/1280px-Motor_tricycle_taxi_in_Bouak%C3%A9_bus_station.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Abattoir_municipal_de_Bouak%C3%A9_2.jpg/1280px-Abattoir_municipal_de_Bouak%C3%A9_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Abattoir_Municipal_de_Bouak%C3%A9_1.jpg/1280px-Abattoir_Municipal_de_Bouak%C3%A9_1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Abattoir_municipal_de_Bouak%C3%A9_3.jpg/1280px-Abattoir_municipal_de_Bouak%C3%A9_3.jpg"
     ],
     "overview": "Bouaké is one of Ivory Coast's major cities, home to around 832,371 people.",
     "bestTime": "The dry season for the most comfortable travel",
@@ -12240,8 +12433,14 @@ const raw: Gen[] = [
       "coast",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Bfc_Brest_train_station.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/b8/Bfc_Brest_train_station.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f0/Biera%C5%9Bcie%2C_Buh%2C_Terespalski_most._%D0%91%D0%B5%D1%80%D0%B0%D1%81%D1%8C%D1%86%D0%B5%2C_%D0%91%D1%83%D0%B3%2C_%D0%A2%D1%8D%D1%80%D1%8D%D1%81%D0%BF%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D1%96_%D0%BC%D0%BE%D1%81%D1%82_%28M._Zaleski%2C_1846%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c2/Biera%C5%9Bcie%2C_Bulvarny%2C_Bank._%D0%91%D0%B5%D1%80%D0%B0%D1%81%D1%8C%D1%86%D0%B5%2C_%D0%91%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%D0%BD%D1%8B%2C_%D0%91%D0%B0%D0%BD%D0%BA_%281930%29_%283%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4d/Biera%C5%9Bcie_Lito%C5%ADskaje._%D0%91%D0%B5%D1%80%D0%B0%D1%81%D1%8C%D1%86%D0%B5_%D0%9B%D1%96%D1%82%D0%BE%D1%9E%D1%81%D0%BA%D0%B0%D0%B5_%28E._Dahlbergh%2C_1657%29_%282%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/29/Brest_Academic_Drama_Theatre_2023-03-05_3129.jpg"
+    ],
     "overview": "Brest is one of Belarus's major cities, home to around 347,138 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -12585,12 +12784,11 @@ const raw: Gen[] = [
       "temple",
       "coast"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Brno_Montage_IV.png/1280px-Brno_Montage_IV.png",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Mince_10K%C4%8D_vzor_2003_rubov%C3%A1_strana.jpg/500px-Mince_10K%C4%8D_vzor_2003_rubov%C3%A1_strana.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Mince_10K%C4%8D_vzor_2003_rubov%C3%A1_strana.jpg/500px-Mince_10K%C4%8D_vzor_2003_rubov%C3%A1_strana.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Veduta_z_obl%C3%A9h%C3%A1n%C3%AD_Brna_%C5%A0v%C3%A9dy_v_roce_1645.jpg/1280px-Veduta_z_obl%C3%A9h%C3%A1n%C3%AD_Brna_%C5%A0v%C3%A9dy_v_roce_1645.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Veduta_Brna_se_znakem_Markrabstv%C3%AD_moravsk%C3%A9ho%2C_rok_1670.jpg/500px-Veduta_Brna_se_znakem_Markrabstv%C3%AD_moravsk%C3%A9ho%2C_rok_1670.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/La_bataille_d%27Austerlitz._2_decembre_1805_%28Fran%C3%A7ois_G%C3%A9rard%29_%28cropped%2C_1to1_portrait%29.jpg/1280px-La_bataille_d%27Austerlitz._2_decembre_1805_%28Fran%C3%A7ois_G%C3%A9rard%29_%28cropped%2C_1to1_portrait%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Lo_Spielberg_%28xilografia%29.jpg/1280px-Lo_Spielberg_%28xilografia%29.jpg"
     ],
     "overview": "Brno is one of Czechia's major cities, home to around 379,466 people.",
@@ -12767,8 +12965,14 @@ const raw: Gen[] = [
       "mountains",
       "cityNight"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Br%C3%BCgge_Blick_vom_Belfried_4.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/9a/Br%C3%BCgge_Blick_vom_Belfried_4.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1e/Belgiewvl.png",
+      "https://upload.wikimedia.org/wikipedia/commons/a/af/Belgium-36_%2826598965719%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1c/Belgium-5940_-_Provincial_Court_%2813746435813%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bruges_Belgium_De-groote-Hollander-Huidenvettersplein-12-03.jpg"
+    ],
     "overview": "Bruges is one of Belgium's major cities, home to around 118,509 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -12858,8 +13062,10 @@ const raw: Gen[] = [
       "sahara",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/3/33/BuchananLiberia.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/33/BuchananLiberia.jpg"
+    ],
     "overview": "Buchanan is one of Liberia's major cities, home to around 75,854 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -13164,8 +13370,10 @@ const raw: Gen[] = [
       "cityNight",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Division_of_Ethnology_publications_%28IA_aja8481.0005.005.umich.edu%29.pdf/page1-960px-Division_of_Ethnology_publications_%28IA_aja8481.0005.005.umich.edu%29.pdf.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Division_of_Ethnology_publications_%28IA_aja8481.0005.005.umich.edu%29.pdf/page1-960px-Division_of_Ethnology_publications_%28IA_aja8481.0005.005.umich.edu%29.pdf.jpg"
+    ],
     "overview": "Budta is one of Philippines's major cities, home to around 1,273,715 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -13745,8 +13953,15 @@ const raw: Gen[] = [
       "coast",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Venoms%3B_venomous_animals_and_antivenomous_serum-therapeutics_%281908%29_%2814783102535%29.jpg/1280px-Venoms%3B_venomous_animals_and_antivenomous_serum-therapeutics_%281908%29_%2814783102535%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Venoms%3B_venomous_animals_and_antivenomous_serum-therapeutics_%281908%29_%2814783102535%29.jpg/1280px-Venoms%3B_venomous_animals_and_antivenomous_serum-therapeutics_%281908%29_%2814783102535%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Researches_upon_the_venoms_of_poisonous_serpents_%28IA_60931050R.nlm.nih.gov%29.pdf/page1-960px-Researches_upon_the_venoms_of_poisonous_serpents_%28IA_60931050R.nlm.nih.gov%29.pdf.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Researches_upon_the_venoms_of_poisonous_serpents_%28IA_researchesuponve00mitcrich%29.pdf/page1-1280px-Researches_upon_the_venoms_of_poisonous_serpents_%28IA_researchesuponve00mitcrich%29.pdf.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Town_Expansion_Bunamwaya_Wakiso_District.jpg/1280px-Town_Expansion_Bunamwaya_Wakiso_District.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Viper_sports_club_aalen_mumzy_fight.jpg/1280px-Viper_sports_club_aalen_mumzy_fight.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Viper_sports_club_aalen_mumzy_fight_the_wurst.jpg/1280px-Viper_sports_club_aalen_mumzy_fight_the_wurst.jpg"
+    ],
     "overview": "Bunamwaya is one of Uganda's major cities, home to around 413,400 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -13784,8 +13999,15 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Serekunda_Market_Mosque_-_2010.jpg/1280px-Serekunda_Market_Mosque_-_2010.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Serekunda_Market_Mosque_-_2010.jpg/1280px-Serekunda_Market_Mosque_-_2010.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Actinosci_gros_171222-5311064_jtg.JPG/1280px-Actinosci_gros_171222-5311064_jtg.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Permen_No._137_Tahun_2017_-_Kalimantan_Barat.pdf/page1-1280px-Permen_No._137_Tahun_2017_-_Kalimantan_Barat.pdf.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Abhandlungen_zur_Geschichte_der_mathematischen_Wissenschaften_mit_Einschluss_ihrer_Anwendungen_%28IA_acd4271.0002.001.umich.edu%29.pdf/page1-960px-Abhandlungen_zur_Geschichte_der_mathematischen_Wissenschaften_mit_Einschluss_ihrer_Anwendungen_%28IA_acd4271.0002.001.umich.edu%29.pdf.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Archiv_f%C3%BCr_die_zeichnenden_k%C3%BCnste_mit_besonderer_beziehung_auf_kupferstecher-_und_holzschneidekunst_und_ihre_geschichte_%28IA_archivfurdiezeic11unse%29.pdf/page1-500px-Archiv_f%C3%BCr_die_zeichnenden_k%C3%BCnste_mit_besonderer_beziehung_auf_kupferstecher-_und_holzschneidekunst_und_ihre_geschichte_%28IA_archivfurdiezeic11unse%29.pdf.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Dr._Ebrima_Badjie_and_the_young_people_of_Bundung.jpg/1280px-Dr._Ebrima_Badjie_and_the_young_people_of_Bundung.jpg"
+    ],
     "overview": "Bununka Kunda is one of Gambia's major cities, home to around 66,449 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -13823,9 +14045,8 @@ const raw: Gen[] = [
       "alps",
       "beach"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/b/be/Burgas-Collage_D.jpg",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Burgas_Bulgaria_by_Sentinel-2_20190831.jpg/1280px-Burgas_Bulgaria_by_Sentinel-2_20190831.jpg",
     "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Burgas-Collage_D.jpg/500px-Burgas-Collage_D.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Burgas_Bulgaria_by_Sentinel-2_20190831.jpg/1280px-Burgas_Bulgaria_by_Sentinel-2_20190831.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Uzungeren.jpg/500px-Uzungeren.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lake-mandrensko-dinev.jpg/500px-Lake-mandrensko-dinev.jpg",
@@ -14282,8 +14503,10 @@ const raw: Gen[] = [
       "temple",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Sheshi_i_Sk%C3%ABnderbeut_%28Shkup%29_19.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/7e/Sheshi_i_Sk%C3%ABnderbeut_%28Shkup%29_19.jpg"
+    ],
     "overview": "Čair is one of North Macedonia's major cities, home to around 64,773 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -14321,8 +14544,14 @@ const raw: Gen[] = [
       "coast",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/5/54/Cairns_%28Queensland%29_%28cropped%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/54/Cairns_%28Queensland%29_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Australia%2C_Queensland%2C_Cairns%2C_The_Lagoon.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/dc/CAIRNS_MUSEUM.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/79/CC_BY_icon-80x15.png",
+      "https://upload.wikimedia.org/wikipedia/commons/1/15/Cairns-copperlode.JPG"
+    ],
     "overview": "Cairns is one of Australia's major cities, home to around 153,181 people.",
     "bestTime": "The warmer, drier months for the outdoors",
     "weather": "Mild to tropical, with plenty of sunshine",
@@ -14685,8 +14914,15 @@ const raw: Gen[] = [
       "cityNight",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Fort_Duvernette_and_Young%27s_Island_from_Calliaqua%2C_St._Vincent_1890s.jpg/1280px-Fort_Duvernette_and_Young%27s_Island_from_Calliaqua%2C_St._Vincent_1890s.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Fort_Duvernette_and_Young%27s_Island_from_Calliaqua%2C_St._Vincent_1890s.jpg/1280px-Fort_Duvernette_and_Young%27s_Island_from_Calliaqua%2C_St._Vincent_1890s.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ogcocephalus_parvus_%28Saint_Vincent_and_the_Grenadines%29_2.jpg/1280px-Ogcocephalus_parvus_%28Saint_Vincent_and_the_Grenadines%29_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ogcocephalus_parvus_%28Saint_Vincent_and_the_Grenadines%29.jpg/1280px-Ogcocephalus_parvus_%28Saint_Vincent_and_the_Grenadines%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7c/Bat_Fish_%284575423591%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Plan_du_port_et_du_carenage_de_Cariacoua%2C_situ%C3%A9_dans_la_partie_du_sud_de_l%27isle_de_St._Vincent._LOC_74691859.tif/lossy-page1-1280px-Plan_du_port_et_du_carenage_de_Cariacoua%2C_situ%C3%A9_dans_la_partie_du_sud_de_l%27isle_de_St._Vincent._LOC_74691859.tif.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Plan_du_port_et_du_carenage_de_Cariacoua%2C_situ%C3%A9_dans_la_partie_du_sud_de_l%27isle_de_St._Vincent._LOC_74691859.jpg/1280px-Plan_du_port_et_du_carenage_de_Cariacoua%2C_situ%C3%A9_dans_la_partie_du_sud_de_l%27isle_de_St._Vincent._LOC_74691859.jpg"
+    ],
     "overview": "Calliaqua is one of Saint Vincent and the Grenadines's major cities, home to around 24,205 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -14898,8 +15134,15 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/New_campus_%286178203078%29.jpg/1280px-New_campus_%286178203078%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/New_campus_%286178203078%29.jpg/1280px-New_campus_%286178203078%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/La_venganza_de_Catana%2C_parodia_de_La_venganza_catalana%2C_en_cuatro_cuadros_y_en_verso_%28IA_lavenganzadecat00alba%29.pdf/page1-500px-La_venganza_de_Catana%2C_parodia_de_La_venganza_catalana%2C_en_cuatro_cuadros_y_en_verso_%28IA_lavenganzadecat00alba%29.pdf.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/The_genera_of_recent_Mollusca_-_arranged_according_to_their_organization_%28IA_b2805927x_0001%29.pdf/page1-960px-The_genera_of_recent_Mollusca_-_arranged_according_to_their_organization_%28IA_b2805927x_0001%29.pdf.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Circo_nacional_-_pasillo_gimn%C3%A1stico-pol%C3%ADtico_en_un_acto_y_cuatro_cuadros_%28IA_circonacionalpas2456niet%29.pdf/page1-500px-Circo_nacional_-_pasillo_gimn%C3%A1stico-pol%C3%ADtico_en_un_acto_y_cuatro_cuadros_%28IA_circonacionalpas2456niet%29.pdf.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Federico_Chueca_-_El_arca_de_No%C3%A9_-_problema_c%C3%B3mico-l%C3%ADrico_social_en_un_acto_y_dos_cuadros%2C_en_verso_-_libretto_%28IA_elarcadenoeprobl462chue%29.pdf/page1-960px-Federico_Chueca_-_El_arca_de_No%C3%A9_-_problema_c%C3%B3mico-l%C3%ADrico_social_en_un_acto_y_dos_cuadros%2C_en_verso_-_libretto_%28IA_elarcadenoeprobl462chue%29.pdf.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/La_partida_de_ajedrez_-_comedia_en_un_acto_y_en_verso_%28IA_lapartidadeajedr2401gonz%29.pdf/page1-500px-La_partida_de_ajedrez_-_comedia_en_un_acto_y_en_verso_%28IA_lapartidadeajedr2401gonz%29.pdf.jpg"
+    ],
     "overview": "Camama is one of Angola's major cities, home to around 667,094 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -14937,8 +15180,15 @@ const raw: Gen[] = [
       "mountains",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Hotel_Camayenne_Conakry.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d4/Hotel_Camayenne_Conakry.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/45/Hotel_Camayenne_Conakry2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hotel_Camayenne%2C_vue_de_l%27ext%C3%A9rieure_-_Exterior_view_%289004239681%29.jpg/1280px-Hotel_Camayenne%2C_vue_de_l%27ext%C3%A9rieure_-_Exterior_view_%289004239681%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Entre_de_Camayenne.jpg/1280px-Entre_de_Camayenne.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Entre_de_l%27h%C3%B4tel_Camayenne.jpg/1280px-Entre_de_l%27h%C3%B4tel_Camayenne.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Show_Your_Stripes_change_in_temperature_graphic_for_Camayenne%2C_Guinea_with_bars.png/1280px-Show_Your_Stripes_change_in_temperature_graphic_for_Camayenne%2C_Guinea_with_bars.png"
+    ],
     "overview": "Camayenne is one of Guinea's major cities, home to around 1,871,242 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -15181,8 +15431,14 @@ const raw: Gen[] = [
       "food",
       "cityNight"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Cancun_Strand_Luftbild_%2822143397586%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d8/Cancun_Strand_Luftbild_%2822143397586%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/80/Another_lighthouse_%286902886929%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/3a/BetoAvilaCUN.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b2/Boulevard_Kukulcan%2C_Zona_Hotelera%2C_Canc%C3%BAn%2C_Mexico_-_panoramio_%2834%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/9f/Cancun_Strand_Luftbild_%2822179809191%29.jpg"
+    ],
     "overview": "Cancún is one of Mexico's major cities, home to around 888,797 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -15220,9 +15476,8 @@ const raw: Gen[] = [
       "temple",
       "desertCamp"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Cape_Coast_Montage.jpg",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/AMH-6917-KB_The_market_at_Cape_Korso.jpg/1280px-AMH-6917-KB_The_market_at_Cape_Korso.jpg",
     "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cape_Coast_Montage.jpg/500px-Cape_Coast_Montage.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/AMH-6917-KB_The_market_at_Cape_Korso.jpg/1280px-AMH-6917-KB_The_market_at_Cape_Korso.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Overzicht_-_Cape_Coast_-_20373114_-_RCE.jpg/1280px-Overzicht_-_Cape_Coast_-_20373114_-_RCE.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_National_Archives_UK_-_CO_1069-30-43-1-001.jpg/500px-The_National_Archives_UK_-_CO_1069-30-43-1-001.jpg",
@@ -15603,8 +15858,10 @@ const raw: Gen[] = [
       "mountains",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Central_African_Republic_sub-prefectures.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/1d/Central_African_Republic_sub-prefectures.png"
+    ],
     "overview": "Carnot is one of Central African Republic's major cities, home to around 129,032 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -15687,8 +15944,15 @@ const raw: Gen[] = [
       "temple",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/3/30/Museo_Naval_del_Caribe.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/30/Museo_Naval_del_Caribe.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/6/60/58_-_Carthag%C3%A8ne_-_D%C3%A9cembre_2008.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0a/67_-_Carthag%C3%A8ne_-_D%C3%A9cembre_2008.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/12/69_-_Carthag%C3%A8ne_-_D%C3%A9cembre_2008.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/12/Amarillo_Latente.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6a/Atardecer_en_Cartagena_de_Indias_desde_La_Popa..jpg"
+    ],
     "overview": "Cartagena is one of Colombia's major cities, home to around 914,552 people.",
     "bestTime": "The dry season (roughly May–September) is ideal",
     "weather": "From highland cool to tropical warmth",
@@ -15934,8 +16198,15 @@ const raw: Gen[] = [
       "cityNight",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Night_aerial_view_of_Cebu_Business_Park.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/c3/Night_aerial_view_of_Cebu_Business_Park.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e1/Aduana_Sugbo_1910.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/02/Basilica_Minore_del_Santo_Ni%C3%B1o_de_Cebu_%28Osme%C3%B1a_Boulevard%2C_Cebu_City%3B_01-10-2024%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/95/CCLEX_Bridge_drone_dusk_%28Cebu_City%3B_01-20-2026%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/9c/Casa_Gorodo_Museum_%28E._Aboitiz%2C_Cebu_City%3B_01-10-2024%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/ae/Cebu_City_Hall_%28P._Burgos%2C_Cebu_City%3B_09-08-2022%29.jpg"
+    ],
     "overview": "Cebu City is one of Philippines's major cities, home to around 964,169 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -16194,8 +16465,15 @@ const raw: Gen[] = [
       "cityNight",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/2/2e/East_Battery_Street_Charleston_Aug2010.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/2e/East_Battery_Street_Charleston_Aug2010.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f8/31_Meeting.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c3/Arthur_Ravenel_Bridge_%28from_water%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/9f/Blackbaud_Stadium_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/35/Building_wrecked_by_Hugo.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/16/Charleston%2C_SC%2C_waterfront_IMG_4553.JPG"
+    ],
     "overview": "Charleston is one of United States's major cities, home to around 150,227 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -16552,8 +16830,14 @@ const raw: Gen[] = [
       "temple",
       "cityNight"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/85/0020-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%A7%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/85/0020-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%A7%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d4/1000steps_04thailand0021.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/da/2010_1128_Wat_Phantao.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/2/20/20171105_Wat_Chedi_Luang_Chiang_Mai_9897_DxO.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ancient_city_wall_and_Chang_Phueak_Gate_in_Chiang_Mai.jpg"
+    ],
     "overview": "Chiang Mai is one of Thailand's major cities, home to around 127,240 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -17170,8 +17454,15 @@ const raw: Gen[] = [
       "food",
       "lantern"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/91/Kerulen.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/91/Kerulen.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/20/Kh._Choibalsan_around_1925.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Socialist_Mongolia_Pistol_of_Marshall_Kh._Choibalsan_%2835703889495%29.jpg/1280px-Socialist_Mongolia_Pistol_of_Marshall_Kh._Choibalsan_%2835703889495%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ruins_of_Lenin_statue_in_Choibalsan_Dornod_2.jpg/1280px-Ruins_of_Lenin_statue_in_Choibalsan_Dornod_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ruins_of_Lenin_statue_in_Choibalsan_Dornod_3.jpg/1280px-Ruins_of_Lenin_statue_in_Choibalsan_Dornod_3.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ruins_of_Lenin_statue_in_Choibalsan_Dornod.jpg/1280px-Ruins_of_Lenin_statue_in_Choibalsan_Dornod.jpg"
+    ],
     "overview": "Choibalsan is one of Mongolia's major cities, home to around 44,835 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -17483,8 +17774,14 @@ const raw: Gen[] = [
       "temple",
       "desertCamp"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Burundi_Cibitoke_%28before_2015%29.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/b2/Burundi_Cibitoke_%28before_2015%29.png",
+      "https://upload.wikimedia.org/wikipedia/commons/5/59/Cibitoke%2C_Burundi.png",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f5/Road_in_Cibitoke_Province.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Les_eaux_thermales_de_Ruhwa_en_province_Cibitoke_03.jpg/1280px-Les_eaux_thermales_de_Ruhwa_en_province_Cibitoke_03.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Les_eaux_thermales_de_Ruhwa_en_province_Cibitoke_04.jpg/1280px-Les_eaux_thermales_de_Ruhwa_en_province_Cibitoke_04.jpg"
+    ],
     "overview": "Cibitoke is one of Burundi's major cities, home to around 36,959 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -17743,8 +18040,13 @@ const raw: Gen[] = [
       "mountains",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/8f/A_glimpse_of_Guatemala_151-Iglesia_de_Coban_1898.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/8f/A_glimpse_of_Guatemala_151-Iglesia_de_Coban_1898.png",
+      "https://upload.wikimedia.org/wikipedia/commons/2/2a/A_glimpse_of_Guatemala_155-People_from_Coban_1898.png",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6c/A_glimpse_of_Guatemala_160-Calvario_de_Coban.png",
+      "https://upload.wikimedia.org/wikipedia/commons/9/94/Cob%C3%A1n_Rabin_Ajau_Guatemala_1980.jpg"
+    ],
     "overview": "Cobán is one of Guatemala's major cities, home to around 212,047 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -18227,8 +18529,14 @@ const raw: Gen[] = [
       "coast",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/c/c3/CO-colon-2000-02.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/c3/CO-colon-2000-02.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/07/Catedral_Inmaculada_Concepci%C3%B3n.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5d/Ciudad_de_Col%C3%B3n%2C_Panam%C3%A1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7e/Col%C3%B3n_Renovaci%C3%B3n_Urbana.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0a/Estatua_de_Cristobal_Col%C3%B3n_-_Flickr_-_jacf18.jpg"
+    ],
     "overview": "Colón is one of Panama's major cities, home to around 78,000 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -18530,8 +18838,14 @@ const raw: Gen[] = [
       "temple",
       "desertCamp"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Constantine_bridge_in_spring.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/ea/Constantine_bridge_in_spring.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6a/Bridge-3583955.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f0/Constantine_bridge.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/76/Constantine_infrastructures_-_Bridges_3.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/bb/General_view%2C_Constantine%2C_Algeria-LCCN2001697860.jpg"
+    ],
     "overview": "Constantine is one of Algeria's major cities, home to around 448,028 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -18612,8 +18926,10 @@ const raw: Gen[] = [
       "desertCamp",
       "sahara"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/7/7a/CIUDAD_DE_CONTUMAZA.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/7a/CIUDAD_DE_CONTUMAZA.JPG"
+    ],
     "overview": "Contumo is one of Guinea-Bissau's major cities, home to around 45,482 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -18698,8 +19014,15 @@ const raw: Gen[] = [
       "mountains",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/2/26/Cathedral_Main_Square.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/26/Cathedral_Main_Square.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a3/Arco_de_C%C3%B3rdoba_2007-11-16.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/cd/Av._Col%C3%B3n_y_Ca%C3%B1ada-01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/cf/Av._Yrigoyen_-_Cordoba%2C_Argentina.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d0/Avenida_Col%C3%B3n_de_C%C3%B3rdoba_%28Argentina%29_a%C3%B1os_1900.png",
+      "https://upload.wikimedia.org/wikipedia/commons/1/17/Avenida_Olmos%2C_C%C3%B3rdoba_%281943%29.jpg"
+    ],
     "overview": "Córdoba is one of Argentina's major cities, home to around 2,106,734 people.",
     "bestTime": "The dry season (roughly May–September) is ideal",
     "weather": "From highland cool to tropical warmth",
@@ -18737,8 +19060,15 @@ const raw: Gen[] = [
       "temple",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/d/d4/University_College_Cork_-_Quad_during_Eclipse_2015_%2816684104050%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d4/University_College_Cork_-_Quad_during_Eclipse_2015_%2816684104050%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a8/16th_Century_Map_of_Cork_-_Extracted_and_replicated_from_Pacata_Hibernia_page_137.png",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e1/Baronies_of_Cork.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e6/Ch2crop.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/81/CorkAirport2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f0/CorkCountyHall2017.jpg"
+    ],
     "overview": "Cork is one of Ireland's major cities, home to around 224,004 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -19010,8 +19340,13 @@ const raw: Gen[] = [
       "food",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/7/77/Cajasview_ecuador.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Cajasview_ecuador.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/8f/Calles_Centro_Hist%C3%B3rico_de_Cuenca.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d3/Domes_of_the_New_Cathedral_in_Cuenca%2C_Ecuador.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/fc/Catedral_de_la_Inmaculada_Concepci%C3%B3n%2C_Cuenca.jpg"
+    ],
     "overview": "Cuenca is one of Ecuador's major cities, home to around 636,996 people.",
     "bestTime": "The dry season (roughly May–September) is ideal",
     "weather": "From highland cool to tropical warmth",
@@ -19113,8 +19448,15 @@ const raw: Gen[] = [
       "beach",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Vista_Calle_Suecia.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d7/Vista_Calle_Suecia.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/9e/17th_century_painting_of_the_city_of_Cusco_before_the_1650_Earthquake.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e8/Aeropuerto_Internacional_Alejandro_Velasco_Astete_-_Cusco.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/26/Arco_de_Santa_Clara%2C_Cuzco.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/9a/Braun_Cusco_UBHD.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c8/Calle_Mantas_-_Cuzco.jpg"
+    ],
     "overview": "Cusco is one of Peru's major cities, home to around 428,450 people.",
     "bestTime": "The dry season (roughly May–September) is ideal",
     "weather": "From highland cool to tropical warmth",
@@ -19771,8 +20113,10 @@ const raw: Gen[] = [
       "food",
       "cityNight"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Eneko_Islet_02.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Eneko_Islet_02.JPG"
+    ],
     "overview": "Dalap-Uliga-Dorrit is one of Marshall Islands's major cities, home to around 20,301 people.",
     "bestTime": "The warmer, drier months for the outdoors",
     "weather": "Mild to tropical, with plenty of sunshine",
@@ -20080,8 +20424,13 @@ const raw: Gen[] = [
       "lantern",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/6/66/Phnom_penh_airport.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/66/Phnom_penh_airport.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Luong_Me_Hospital.jpg/1280px-Luong_Me_Hospital.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Prek_Chrey_Market.jpg/1280px-Prek_Chrey_Market.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dangkao_Refferal_Hospital.jpg/1280px-Dangkao_Refferal_Hospital.jpg"
+    ],
     "overview": "Dangkao is one of Cambodia's major cities, home to around 76,421 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -20302,8 +20651,12 @@ const raw: Gen[] = [
       "mountains",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Nouakchott_air_01.jpg/1280px-Nouakchott_air_01.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Nouakchott_air_01.jpg/1280px-Nouakchott_air_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Monitorul_Oficial_al_Rom%C3%A2niei._Partea_I_2001-12-14%2C_nr._802.pdf/page1-960px-Monitorul_Oficial_al_Rom%C3%A2niei._Partea_I_2001-12-14%2C_nr._802.pdf.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Spruner-Menke_atlas_antiquus_%28IA_sprunermenkeatla00spru%29.pdf/page1-960px-Spruner-Menke_atlas_antiquus_%28IA_sprunermenkeatla00spru%29.pdf.jpg"
+    ],
     "overview": "Dar Naim is one of Mauritania's major cities, home to around 61,089 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -20341,8 +20694,15 @@ const raw: Gen[] = [
       "coast",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Darkhan_outskirts.jpg/1280px-Darkhan_outskirts.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Darkhan_outskirts.jpg/1280px-Darkhan_outskirts.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Darkhan_main_road.jpg/1280px-Darkhan_main_road.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Provincial_Museum_%28Darkhan%29.jpg/1280px-Provincial_Museum_%28Darkhan%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Darkhan.jpg/1280px-Darkhan.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Darkhan_%28cropped%29.jpg/1280px-Darkhan_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Comfort_Hotel_%28Darkhan%29.jpg/1280px-Comfort_Hotel_%28Darkhan%29.jpg"
+    ],
     "overview": "Darhan is one of Mongolia's major cities, home to around 83,883 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -20637,8 +20997,14 @@ const raw: Gen[] = [
       "coast",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Osaka_Bazar%2C_Davao%2C_Philippines_%281936%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/8e/Osaka_Bazar%2C_Davao%2C_Philippines_%281936%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Pearl_Farm_Davao_Philippines_2.jpg/1280px-Pearl_Farm_Davao_Philippines_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Davao_durian.jpg/1280px-Davao_durian.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ripe_Davao_Durian_in_a_basket.jpg/1280px-Ripe_Davao_Durian_in_a_basket.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mangosteen_in_Davao_City.jpg/1280px-Mangosteen_in_Davao_City.jpg"
+    ],
     "overview": "Davao is one of Philippines's major cities, home to around 1,848,947 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -20807,8 +21173,15 @@ const raw: Gen[] = [
       "food",
       "lantern"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/5/55/Deira_Clocktower.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/55/Deira_Clocktower.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/fa/Grand-Bazaar_Shop.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Luxor_Souq_R01.jpg/1280px-Luxor_Souq_R01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Souq_Waqif%2C_Doha%2C_Catar%2C_2013-08-05%2C_DD_107.JPG/1280px-Souq_Waqif%2C_Doha%2C_Catar%2C_2013-08-05%2C_DD_107.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Deira_Old_Souq.jpg/1280px-Deira_Old_Souq.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Souq_in_the_Ksiba_of_Bizerte_03.jpg/1280px-Souq_in_the_Ksiba_of_Bizerte_03.jpg"
+    ],
     "overview": "Dayrah is one of United Arab Emirates's major cities, home to around 400,000 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -21095,8 +21468,11 @@ const raw: Gen[] = [
       "coast",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Delmas_75.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d0/Delmas_75.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/ec/Haiti_communes.png"
+    ],
     "overview": "Delmas is one of Haiti's major cities, home to around 395,260 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -21134,8 +21510,15 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Denver%2C_Colorado_skyline_%28cropped%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3b/Denver%2C_Colorado_skyline_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/ba/1144_Fifteenth_Building_%28Denver%2C_Colorado%29.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0f/2003-11-30-16th_Street_Mall_Lights.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/64/2006-07-14-Denver_Skyline_Midnight.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/30/6408-DenSkyline-BrownPalaceCosmoHotels.Jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/fa/Broncho_Buster%2C_Denver%2C_CO_IMG_5544.JPG"
+    ],
     "overview": "Denver is one of United States's major cities, home to around 715,522 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -21993,8 +22376,15 @@ const raw: Gen[] = [
       "mountains",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Dolisie.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d9/Dolisie.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/40/Stade_dolisie.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gare_de_Dolisie_%28arri%C3%A8re%29.jpg/1280px-Gare_de_Dolisie_%28arri%C3%A8re%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Gare_de_Dolisie.jpg/1280px-Gare_de_Dolisie.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/81/Dolisie_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/9f/Dolisie_3.jpg"
+    ],
     "overview": "Dolisie is one of Congo's major cities, home to around 121,000 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -22569,8 +22959,10 @@ const raw: Gen[] = [
       "sahara",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/6/64/GN-Dubreka.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/64/GN-Dubreka.png"
+    ],
     "overview": "Dubréka is one of Guinea's major cities, home to around 182,296 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -22608,8 +23000,15 @@ const raw: Gen[] = [
       "alps",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/67/The_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/9e/1_dubrovnik_pano_-_edit1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6e/2011_Dubrownik%2C_Stary_port%2C_mury_miejskie_i_ko%C5%9Bci%C3%B3%C5%82_Dominikan%C3%B3w_%2802%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/66/A_view_to_the_Kolo%C4%8Dep_island_in_Croatia_%2848612714753%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/09/Ariel_overview_of_Lazzarettos_of_Dubrovnik_in_Croatia_%2848613209237%29_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/01/Balkans_War_1991%2C_Dubrovnik_-_Flickr_-_Peter_Denton_%E4%B8%95%E7%89%B9_._%E5%A4%A9%E7%99%BB_%283%29.jpg"
+    ],
     "overview": "Dubrovnik is one of Croatia's major cities, home to around 42,615 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -23318,8 +23717,12 @@ const raw: Gen[] = [
       "mountains",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/ae/GQ-Ebebiyin.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/ae/GQ-Ebebiyin.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mercado_en_Ebebiy%C3%ADn.png/1280px-Mercado_en_Ebebiy%C3%ADn.png",
+      "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png"
+    ],
     "overview": "Ebebiyin is one of Equatorial Guinea's major cities, home to around 24,831 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -23402,8 +23805,15 @@ const raw: Gen[] = [
       "beach",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Skyline_of_Edinburgh.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/1a/Skyline_of_Edinburgh.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7d/20231022_Rockstar_North.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1c/334038_sits_at_Edinburgh_Waverley%2C_05_April_2013.JPG",
+      "https://upload.wikimedia.org/wikipedia/en/7/79/Aerial_View_of_Edinburgh%2C_by_Alfred_Buckham%2C_from_about_1920.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/10/Arthur%27s_Seat_from_Bernard_Terrace%2C_Edinburgh_-_geograph.org.uk_-_5453114.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/91/Edinburgh._View_from_Calton_Hill.jpg"
+    ],
     "overview": "Edinburgh is one of United Kingdom's major cities, home to around 506,520 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -23812,8 +24222,14 @@ const raw: Gen[] = [
       "mountains",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Zimbabwe_%24100_trillion_2009_Obverse.jpg/1280px-Zimbabwe_%24100_trillion_2009_Obverse.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Zimbabwe_%24100_trillion_2009_Obverse.jpg/1280px-Zimbabwe_%24100_trillion_2009_Obverse.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/A_community_worker_talks_to_a_group_of_woman_who_are_waiting_to_collect_their_food_ration_at_a_food_distribution_point_in_Epworth%2C_in_Harare%2C_Zimbabwe_on_the_23rd_April%2C_2009._Photo-_Kate_Holt_-_AusAID_%2810661520275%29.jpg/1280px-thumbnail.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/School_children_in_Zimbabwe_digging_a_shallow_pit_for_an_Arborloo_toilet_%28a_variation_of_a_pit_latrine%29.jpg/1280px-School_children_in_Zimbabwe_digging_a_shallow_pit_for_an_Arborloo_toilet_%28a_variation_of_a_pit_latrine%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Epworth%2C_KwaChiremba_%28Zimbabwe%29_-_1.jpg/1280px-Epworth%2C_KwaChiremba_%28Zimbabwe%29_-_1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Epworth%2C_KwaChiremba_%28Zimbabwe%29_-_2.jpg/1280px-Epworth%2C_KwaChiremba_%28Zimbabwe%29_-_2.jpg"
+    ],
     "overview": "Epworth is one of Zimbabwe's major cities, home to around 206,365 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -24086,8 +24502,14 @@ const raw: Gen[] = [
       "beach",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/a9/2014_Erywa%C5%84%2C_Erebuni%2C_Widok_z_twierdzy_Erebuni_%2811%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a9/2014_Erywa%C5%84%2C_Erebuni%2C_Widok_z_twierdzy_Erebuni_%2811%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d4/2014_Erywa%C5%84%2C_Kwietnik_na_Placu_Dawida_Sasu%C5%84skiego_%2801%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/ad/David_of_Sasun_Yerevan.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/8e/Erebuni_Fortress%2C_Yerevan%2C_Armenia_02.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/c/ce/Erebuni_district%2C_East_of_Yerevan%2C_June_2016.jpg"
+    ],
     "overview": "Erebuni is one of Armenia's major cities, home to around 129,700 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -24697,8 +25119,10 @@ const raw: Gen[] = [
       "temple",
       "desertCamp"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Faji_Kunda_mosque.jpg/1280px-Faji_Kunda_mosque.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Faji_Kunda_mosque.jpg/1280px-Faji_Kunda_mosque.jpg"
+    ],
     "overview": "Faji Kunda is one of Gambia's major cities, home to around 45,757 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -24892,8 +25316,13 @@ const raw: Gen[] = [
       "coast",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/3/35/Fernando_de_la_Mora_014.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/35/Fernando_de_la_Mora_014.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/2f/Fernando_de_la_Mora_007_Teatro_Municipal.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/24/Fernando_de_la_Mora_015_Entrada.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b8/Paraguay_Central.png"
+    ],
     "overview": "Fernando de la Mora is one of Paraguay's major cities, home to around 120,167 people.",
     "bestTime": "The dry season (roughly May–September) is ideal",
     "weather": "From highland cool to tropical warmth",
@@ -25054,8 +25483,15 @@ const raw: Gen[] = [
       "desertCamp",
       "sahara"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bab_Bou_Jeloud_Frame_Minaret_Fes_Nov25_A7CR_09127-8_HDR3.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bab_Bou_Jeloud_Frame_Minaret_Fes_Nov25_A7CR_09127-8_HDR3.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/bf/%22Der_%C3%A4lteste_ummauerte_Teil_von_Fes%22._04.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/9e/%22Ein_beeindruckendes_Wahrzeichen%22._01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/92/%22Eines_der_wenigen_erhaltenen_Geb%C3%A4ude_seiner_Art%22._03.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/49/%22Fes%2C_eine_faszinierende_Stadt%22_%28Details%29._07.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b2/%22Historisches_Erbe_der_j%C3%BCdischen_Gemeinde_in_Fes%22._02.jpg"
+    ],
     "overview": "Fez is one of Morocco's major cities, home to around 1,112,072 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -25209,8 +25645,15 @@ const raw: Gen[] = [
       "temple",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Firenze_-_Piazzale_Michelangelo%2C_Firenze%2C_Italy_-_April_6%2C_2015_02.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3a/Firenze_-_Piazzale_Michelangelo%2C_Firenze%2C_Italy_-_April_6%2C_2015_02.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/3a/%27David%27_by_Michelangelo_JBU05.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0b/1-5MahrattaLightInfantryFlorence1944.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/94/Aeroporto_di_Firenze_-_main_building_seen_from_restaurant_at_the_1st_floor.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/66/Amerigo_Vespucci_%28with_turban%29_-_cropped.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/12/Bistecca_alla_fiorentina-01.jpg"
+    ],
     "overview": "Florence is one of Italy's major cities, home to around 367,150 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -25462,8 +25905,15 @@ const raw: Gen[] = [
       "coast",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/3/36/SkylineFoz.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/36/SkylineFoz.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bras%C3%A3o_de_Armas_do_Munic%C3%ADpio_de_Foz_do_Igua%C3%A7u.png",
+      "https://upload.wikimedia.org/wikipedia/commons/6/65/Buda_Amituofo.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/57/Cataratas_do_Igua%C3%A7u_001.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/9a/Consulado_Argentina_Foz_do_Igua%C3%A7u.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d4/Consulado_Geral_Paraguai_Foz_do_Igua%C3%A7u.jpg"
+    ],
     "overview": "Foz do Iguaçu is one of Brazil's major cities, home to around 258,467 people.",
     "bestTime": "The dry season (roughly May–September) is ideal",
     "weather": "From highland cool to tropical warmth",
@@ -25657,8 +26107,15 @@ const raw: Gen[] = [
       "food",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Frankfurt_Main_August_2020_1.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/ac/Frankfurt_Main_August_2020_1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a7/01-01-2014_-_Messeturm_-_trade_fair_tower_-_Frankfurt-_Germany_-_05.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/cd/2010-07-21_A380_LH_D-AIMB_EDDF_06.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e5/AirportFrankfurt_fromair_2010-09-19.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/72/Alte_Oper_Frankfurt_2019.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/49/Alte_Oper_Frankfurt_Winter_2008.jpg"
+    ],
     "overview": "Frankfurt is one of Germany's major cities, home to around 753,056 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -25893,8 +26350,15 @@ const raw: Gen[] = [
       "food",
       "cityNight"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Lucayan_Harbor_JonWorth.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/7f/Lucayan_Harbor_JonWorth.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a8/BananaBayKitesurf.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e3/Freeport_Cruise_Ship_Terminal.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/49/Freeport_Cruise_Terminal_Shops.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/bb/Freeport_Harbor.agr.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/45/GrandBahamaHighway.JPG"
+    ],
     "overview": "Freeport is one of Bahamas's major cities, home to around 26,910 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -26346,8 +26810,11 @@ const raw: Gen[] = [
       "desertCamp",
       "sahara"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Gabumainstreet.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/8a/Gabumainstreet.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b5/Guinea-Bissau_Gabu.png"
+    ],
     "overview": "Gabú is one of Guinea-Bissau's major cities, home to around 49,371 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -26398,8 +26865,15 @@ const raw: Gen[] = [
       "beach",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/7/77/Galle_Fort.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Galle_Fort.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/ee/Advanced_Technological_Institute_-_Labuduwa.jpeg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1c/Engfac_Galle1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5f/GALLE_RAILWAY_STATION_SRI_LANKA_JAN_2013_%288492488526%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1a/GALLE_RAILWAY_STATION_SRI_LANKA_JAN_2013_%288553460957%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e0/Galle_1.jpg"
+    ],
     "overview": "Galle is one of Sri Lanka's major cities, home to around 93,118 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -26667,8 +27141,15 @@ const raw: Gen[] = [
       "mountains",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/3/38/Queen%27s_Theatre_-_Ganta_-_Liberia_-_2011.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/38/Queen%27s_Theatre_-_Ganta_-_Liberia_-_2011.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ganta_ETU_Visit_141202-A-QE750-047.jpg/1280px-Ganta_ETU_Visit_141202-A-QE750-047.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Alvino_Hotel_in_Ganta%2C_Nimba_County.jpg/1280px-Alvino_Hotel_in_Ganta%2C_Nimba_County.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/04/Ganta%2C_Liberia_-_panoramio.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/ASC_Leiden_-_F._van_der_Kraaij_Collection_-_05_-_079_-_A_upland_rice_farm_-_Ganta%2C_Nimba_County%2C_Liberia%2C_1976.tiff/lossy-page1-1280px-ASC_Leiden_-_F._van_der_Kraaij_Collection_-_05_-_079_-_A_upland_rice_farm_-_Ganta%2C_Nimba_County%2C_Liberia%2C_1976.tiff.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ASC_Leiden_-_F._van_der_Kraaij_Collection_-_05_-_080_-_The_entrance_of_Ganta_Leprosy_Hospital_and_Training_Center_-_Ganta%2C_Nimba_county%2C_Liberia%2C_1976.tif/lossy-page1-1280px-ASC_Leiden_-_F._van_der_Kraaij_Collection_-_05_-_080_-_The_entrance_of_Ganta_Leprosy_Hospital_and_Training_Center_-_Ganta%2C_Nimba_county%2C_Liberia%2C_1976.tif.jpg"
+    ],
     "overview": "Ganta is one of Liberia's major cities, home to around 63,523 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -26914,8 +27395,15 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/6/6c/LR-Gbarnga.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/6c/LR-Gbarnga.png",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c1/Liberia_-_Diocesi_di_Gbarnga.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ambassador_Samantha_Powers_visits_Liberia_141028-M-PA636-084.jpg/1280px-Ambassador_Samantha_Powers_visits_Liberia_141028-M-PA636-084.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Monrovia_to_Gbarnga_highway.jpg/1280px-Monrovia_to_Gbarnga_highway.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/National_guard_team_prepares_for_medical_exercise_in_Liberia_%289643646%29.jpg/1280px-National_guard_team_prepares_for_medical_exercise_in_Liberia_%289643646%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/National_guard_team_prepares_for_medical_exercise_in_Liberia_%289643655%29.jpg/1280px-National_guard_team_prepares_for_medical_exercise_in_Liberia_%289643655%29.jpg"
+    ],
     "overview": "Gbarnga is one of Liberia's major cities, home to around 86,031 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -27308,8 +27796,15 @@ const raw: Gen[] = [
       "food",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/90/Gent%2C_de_Graslei_vanaf_de_Korenlei_met_oeg24758tm61%2B25159_IMG_0447_2021-08-13_18.37.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/90/Gent%2C_de_Graslei_vanaf_de_Korenlei_met_oeg24758tm61%2B25159_IMG_0447_2021-08-13_18.37.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/3b/14-01-10-tbh-263-jacques-rogge.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f4/BelfortGent.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a4/Belfry_of_Ghent_%28DSCF0247%2CDSCF0249%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/fa/Belgieovl.png",
+      "https://upload.wikimedia.org/wikipedia/commons/7/73/Belgio_-_Gand_-_ponte_San_Michele%2C_chiesa_San_Michele_e_fiume_Lys.jpg"
+    ],
     "overview": "Gent is one of Belgium's major cities, home to around 265,086 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -27405,8 +27900,15 @@ const raw: Gen[] = [
       "beach",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/6/65/Skyline_of_George_Town%2C_Penang_at_night_Nov2024-29-17.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/65/Skyline_of_George_Town%2C_Penang_at_night_Nov2024-29-17.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f0/Batu_Ferringhi%2C_George_Town%2C_Penang_2023.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/da/Bayan_Lepas_Free_Industrial_Zone_2023.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Butterworth_and_Penang_Scenery_%2831409353540%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f4/Cmglee_Penang_SPICE_Arena_aerial.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/58/Cmglee_Penang_Second_Bridge_aerial2.jpg"
+    ],
     "overview": "George Town (Penang) is one of Malaysia's major cities, home to around 708,127 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -27444,8 +27946,15 @@ const raw: Gen[] = [
       "coast",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/2/28/Guyana_Parliament_Building.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/28/Guyana_Parliament_Building.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5c/20191121_Guyana_0062_Georgetown_sRGB_%2849295972987%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6a/20191122_Guyana_0082_Georgetown_sRGB_%2849295764796%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/9b/Central_Vaidik_Mandir%2C_Georgetown%2C_Guyana..jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1b/Dwelling_in_city.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/38/Georgetown28022007.jpg"
+    ],
     "overview": "Georgetown is the capital of Guyana, home to around 235,017 people.",
     "bestTime": "The dry season (roughly May–September) is ideal",
     "weather": "From highland cool to tropical warmth",
@@ -27928,8 +28437,14 @@ const raw: Gen[] = [
       "cityNight",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/fc/BeachFun.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/fc/BeachFun.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/75/1_Beach%2C_Goa_India%2C_March_2013.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6b/Boys_and_girls_at_Goa_beach.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/37/Carmel%27s_College_for_Women%2C_Nuvem%2C_Goa%2C_India.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b2/Chamu%C3%A7as.jpg"
+    ],
     "overview": "Goa is one of India's major cities, home to around 1,458,545 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -27967,8 +28482,15 @@ const raw: Gen[] = [
       "mountains",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Football_de_rue_sous_les_pyl%C3%B4nes_%C3%A0_Godomey.jpg/1280px-Football_de_rue_sous_les_pyl%C3%B4nes_%C3%A0_Godomey.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Football_de_rue_sous_les_pyl%C3%B4nes_%C3%A0_Godomey.jpg/1280px-Football_de_rue_sous_les_pyl%C3%B4nes_%C3%A0_Godomey.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Place_de_pri%C3%A8res_idi_%C3%A0_Zoca.jpg/1280px-Place_de_pri%C3%A8res_idi_%C3%A0_Zoca.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Football_de_rue_dans_un_quartier_de_Godomey.jpg/1280px-Football_de_rue_dans_un_quartier_de_Godomey.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Une_rue_%C3%A0_Godomey_Cangoul%C3%A8.jpg/1280px-Une_rue_%C3%A0_Godomey_Cangoul%C3%A8.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Entr%C3%A9e_du_jardin_Universitaire_de_l%27Universit%C3%A9_d%27Abomey_calavi.jpg/1280px-Entr%C3%A9e_du_jardin_Universitaire_de_l%27Universit%C3%A9_d%27Abomey_calavi.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Terrain_de_football_%C3%A0_la_fin_de_la_pri%C3%A8re_de_l%27A%C3%AFd_el_Kebir_%C3%A0_Zoca.jpg/1280px-Terrain_de_football_%C3%A0_la_fin_de_la_pri%C3%A8re_de_l%27A%C3%AFd_el_Kebir_%C3%A0_Zoca.jpg"
+    ],
     "overview": "Godomè is one of Benin's major cities, home to around 253,262 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -28006,8 +28528,15 @@ const raw: Gen[] = [
       "cityNight",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Gold_Coast_skyline_%28Unsplash%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/aa/Gold_Coast_skyline_%28Unsplash%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/df/2018_Commonwealth_Games_opening_ceremony.jpeg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7a/Beach_entrance_at_Surfers_Paradise%2C_Queensland.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/79/CC_BY_icon-80x15.png",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d9/Cars_on_Gold_Coast_Highway%2C_Surfers_Paradise.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/03/Chevron_Renaissance_Shopping_Mall_%26_Apartment_Complex_in_GC_HWY.jpg"
+    ],
     "overview": "Gold Coast is one of Australia's major cities, home to around 640,778 people.",
     "bestTime": "The warmer, drier months for the outdoors",
     "weather": "Mild to tropical, with plenty of sunshine",
@@ -28142,8 +28671,15 @@ const raw: Gen[] = [
       "coast",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/5/5d/G%C3%B6reme_town_and_valley_2015.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5d/G%C3%B6reme_town_and_valley_2015.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c3/Autumn_in_G%C3%B6reme_Valley.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/00/Cappadocia_Chimneys_-_DWiW.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/ac/CentralAnatolianCafeOwnerFlatBreadwithBeautifulRugHangingGoremeCappadocia2006.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a9/Dark_Church_1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6b/GoremePanorama.jpg"
+    ],
     "overview": "Göreme / Cappadocia is one of Turkey's major cities, home to around 2,200 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -28181,8 +28717,14 @@ const raw: Gen[] = [
       "mountains",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Gori_-_view_4.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/cc/Gori_-_view_4.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/be/2018_Gori.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/fa/Akaki_Tsereteli_street%2C_Gori%2C_Georgia.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/fe/Akaki_Tsereteli_street_in_Gori.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c3/Castelli._Gori%2C_Georgia-2.jpg"
+    ],
     "overview": "Gori is one of Georgia's major cities, home to around 41,933 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -28585,8 +29127,15 @@ const raw: Gen[] = [
       "food",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/5/56/Granada_%2825987961022%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/56/Granada_%2825987961022%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/75/%28Granada%29_2017-01-04_Sierra_Nevada_y_Granada_desde_Sierra_Elvira_%2833432961810%29_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/25/%28Granada%29_Greenhouses_of_Almer%C3%ADa%2C_Spain_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/31/Alhambra_El_Partal_%28cropped%29_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/cf/Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a8/Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1_%28cropped%29.jpg"
+    ],
     "overview": "Granada is one of Spain's major cities, home to around 232,208 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -28992,8 +29541,15 @@ const raw: Gen[] = [
       "coast",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/3/38/Panor%C3%A1mica_Guadalajara_desde_edificio_Bansi_hacia_norte_%28cropped%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/38/Panor%C3%A1mica_Guadalajara_desde_edificio_Bansi_hacia_norte_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d4/00287_templo_de_san_agust%C3%ADn_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b0/04990_templo_de_nuestra_se%C3%B1ora_del_pilar.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/20_de_noviembre_de_zapopan.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/ce/Arcos_Guadalajara_2_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/69/Arcos_y_c%C3%BApula.JPG"
+    ],
     "overview": "Guadalajara is one of Mexico's major cities, home to around 1,385,629 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -29464,7 +30020,7 @@ const raw: Gen[] = [
       "temple",
       "cityNight"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/4/45/Gwangju_montage.png",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/May_18th_Memorial_Monument.jpg/330px-May_18th_Memorial_Monument.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/May_18th_Memorial_Monument.jpg/330px-May_18th_Memorial_Monument.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gwangju_World_Cup_Stadium.jpg/1280px-Gwangju_World_Cup_Stadium.jpg",
@@ -30081,8 +30637,14 @@ const raw: Gen[] = [
       "coast",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/7/72/1967_4_Apr_Clarence_St_gasworks%2C_Hamilton.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/72/1967_4_Apr_Clarence_St_gasworks%2C_Hamilton.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/08/Claudelands_Train_bridge.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Claudlands_Bridge%2C_Hamilton%2C_Waikato%2C_New_Zealand%2C_3_April_2008.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/58/Fairfield_Bridge7.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/4/40/GardenPlaceHamilton.jpg"
+    ],
     "overview": "Hamilton is one of New Zealand's major cities, home to around 192,100 people.",
     "bestTime": "The warmer, drier months for the outdoors",
     "weather": "Mild to tropical, with plenty of sunshine",
@@ -30120,8 +30682,15 @@ const raw: Gen[] = [
       "cityNight",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/6/6b/%E6%9D%AD%E5%B7%9E%E9%92%B1%E6%B1%9F%E6%96%B0%E5%9F%8E_4_%28cropped%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/6b/%E6%9D%AD%E5%B7%9E%E9%92%B1%E6%B1%9F%E6%96%B0%E5%9F%8E_4_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c2/201607_Z176_departs_from_Hangzhou.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/fc/6-5859_at_Guodongyuan_Alley%2C_Jiangcheng_Rd_%2820190807101902%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/23/6-6892_at_Hangzhoudong_Railway_Station_West_Bus_Terminal_%2820190224055507%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/ef/62998-Hangzhou_%2849152700816%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/02/Administrative_Division_Hangzhou.png"
+    ],
     "overview": "Hangzhou is one of China's major cities, home to around 11,936,010 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -30626,8 +31195,15 @@ const raw: Gen[] = [
       "lantern",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Hawalli_%28Kuwait%29.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a0/Hawalli_%28Kuwait%29.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Hawalli_Imam_Baqir_Mosque_Exterior_02.jpg/1280px-Hawalli_Imam_Baqir_Mosque_Exterior_02.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hawalli_Imam_Baqir_Mosque_Exterior_05.jpg/1280px-Hawalli_Imam_Baqir_Mosque_Exterior_05.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hawalli_Imam_Baqir_Mosque_Exterior_06.jpg/1280px-Hawalli_Imam_Baqir_Mosque_Exterior_06.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Hawalli_Imam_Baqir_Mosque_Exterior_08.jpg/1280px-Hawalli_Imam_Baqir_Mosque_Exterior_08.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hawalli_Imam_Baqir_Mosque_Exterior_10.jpg/1280px-Hawalli_Imam_Baqir_Mosque_Exterior_10.jpg"
+    ],
     "overview": "Ḩawallī is one of Kuwait's major cities, home to around 164,212 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -30692,8 +31268,10 @@ const raw: Gen[] = [
       "coast",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/2/24/New_Abdali_2024.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/24/New_Abdali_2024.png"
+    ],
     "overview": "Ḩayy Khildā is one of Jordan's major cities, home to around 251,000 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -30776,8 +31354,14 @@ const raw: Gen[] = [
       "cityNight",
       "alps"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f1/20110927_St._Peter_of_Dominicans_Heraklion_Crete_Greece_Panorama.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f1/20110927_St._Peter_of_Dominicans_Heraklion_Crete_Greece_Panorama.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/af/2011_Dimos_Irakliou.png",
+      "https://upload.wikimedia.org/wikipedia/commons/1/16/2016-07-25_Heraklion_063.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/eb/A_monk_shows_the_Cretan_Saracens_where_to_build_Chandax.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/70/Agios_Minas_Cathedral_01.jpg"
+    ],
     "overview": "Heraklion (Crete) is one of Greece's major cities, home to around 140,730 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -31296,8 +31880,14 @@ const raw: Gen[] = [
       "cityNight",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Franklin_Wharf_2015_b_%28cropped%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/e4/Franklin_Wharf_2015_b_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/aa/14.5_bus_in_Hobart.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1c/2021_Warrane_nipaluna.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/60/A_bird%27s-eye_view_of_Hobart%2C_Tasmania_%2815027182788%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/10/Aurora_Australis_%28icebreaker%29_berthed_in_Hobart_under_a_rainbow.jpg"
+    ],
     "overview": "Hobart is one of Australia's major cities, home to around 247,086 people.",
     "bestTime": "The warmer, drier months for the outdoors",
     "weather": "Mild to tropical, with plenty of sunshine",
@@ -31335,8 +31925,15 @@ const raw: Gen[] = [
       "cityNight",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cafe_96_-_Hoi_An_-_Vietnam.JPG/1280px-Cafe_96_-_Hoi_An_-_Vietnam.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cafe_96_-_Hoi_An_-_Vietnam.JPG/1280px-Cafe_96_-_Hoi_An_-_Vietnam.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Street_Scene_-_Hoi_An_-_Vietnam.JPG/1280px-Street_Scene_-_Hoi_An_-_Vietnam.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Rice_Farmer_in_Hoi_An%2C_Vietnam.jpg/1280px-Rice_Farmer_in_Hoi_An%2C_Vietnam.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hoi_An_in_Vietnam.jpg/1280px-Hoi_An_in_Vietnam.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/H%E1%BB%99i_An%2C_Ancient_Town%2C_2020-01_CN-06.jpg/1280px-H%E1%BB%99i_An%2C_Ancient_Town%2C_2020-01_CN-06.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hoi_An_%28I%29.jpg/1280px-Hoi_An_%28I%29.jpg"
+    ],
     "overview": "Hoi An is one of Vietnam's major cities, home to around 120,000 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -31562,8 +32159,14 @@ const raw: Gen[] = [
       "coast",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/7/7e/578a_Hong_Kong_1971_%2851321892645%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/7e/578a_Hong_Kong_1971_%2851321892645%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1b/A_new_banner_on_the_lion_rock_-umbrellarevolution_-umbrellamovement_-occupyhk_-occupyhongkong_%2816134715622%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/28/Aeropuerto_de_Hong_Kong%2C_2013-08-13%2C_DD_02.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/b/bb/Andy_Lau_%E5%88%98%E5%BE%B7%E5%8D%8E%2C_Beijing_International_Film_Festival_%E5%8C%97%E4%BA%AC%E7%94%B5%E5%BD%B1%E8%8A%82%2C_2013_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/37/Avenue_of_Stars%2C_Hong_Kong_%282052819038%29.jpg"
+    ],
     "overview": "Hong Kong is the capital of Hong Kong, home to around 7,500,000 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -31680,8 +32283,14 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/e8/2022_Views_from_Diamond_Head_02.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/e8/2022_Views_from_Diamond_Head_02.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/2b/Alewa_Heights_during_a_cloudy_day._%2816975876705%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/79/Aliiolani_Hale%2C_Oahu%2C_Hawaii.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c7/Attack_on_Pearl_Harbor_Japanese_planes_view.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/ba/Bishop_Museum_2016_C.jpg"
+    ],
     "overview": "Honolulu is one of United States's major cities, home to around 350,395 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -32457,8 +33066,11 @@ const raw: Gen[] = [
       "coast",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/9d/ForbysIbizaTown_03.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/9d/ForbysIbizaTown_03.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/79/0.1._Port_d%27Eivissa_%28Piti%C3%BCses%29.jpg"
+    ],
     "overview": "Ibiza Town is one of Spain's major cities, home to around 50,643 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -32496,8 +33108,14 @@ const raw: Gen[] = [
       "sahara",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/2/20/Geigerz%C3%A4hler2.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/20/Geigerz%C3%A4hler2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5d/CG-Impfondo.png",
+      "https://upload.wikimedia.org/wikipedia/commons/f/ff/Congo_-_Diocesi_di_Impfondo.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ion_I._Solcanu.jpg/1280px-Ion_I._Solcanu.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/32/Impfondo_r%C3%A9publique_du_Congo_papaye.jpg"
+    ],
     "overview": "Impfondo is one of Congo's major cities, home to around 48,939 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -32669,8 +33287,15 @@ const raw: Gen[] = [
       "cityNight",
       "alps"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/1/14/B%C3%BCrgerstra%C3%9Fe_26%2B24_%28BT0A2830%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/14/B%C3%BCrgerstra%C3%9Fe_26%2B24_%28BT0A2830%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/93/12-06-05-innsbruck-by-ralfr-165.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a6/2015-04-29-AliceTumler.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/47/Albrecht_D%C3%BCrer_-_View_of_Innsbruck_-_WGA7356.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/97/Austria-01454_-_Wilten_Abbey_%2821402649823%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/50/BergiselInnsbruck2.JPG"
+    ],
     "overview": "Innsbruck is one of Austria's major cities, home to around 132,493 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -32708,8 +33333,14 @@ const raw: Gen[] = [
       "alps",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/1/14/Goldswil-Viadukt_Panorama_mit_Interlaken_im_Hintergrund_2.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/14/Goldswil-Viadukt_Panorama_mit_Interlaken_im_Hintergrund_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/44/20070909S236_401-308.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/58/2011-07-21-Interlaken_%28Foto_Dietrich_Michael_Weidmann%29_021.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/6/61/2011-07-21-Interlaken_%28Foto_Dietrich_Michael_Weidmann%29_050.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/8/8b/2011-07-21-Interlaken_%28Foto_Dietrich_Michael_Weidmann%29_055.JPG"
+    ],
     "overview": "Interlaken is one of Switzerland's major cities, home to around 5,600 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -33074,7 +33705,6 @@ const raw: Gen[] = [
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Sanatorium_Zumrad_in_Isfara_02.jpg/1280px-Sanatorium_Zumrad_in_Isfara_02.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Sanatorium_Zumrad_in_Isfara_02.jpg/1280px-Sanatorium_Zumrad_in_Isfara_02.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/The_siege_and_battle_of_Isfarah._Babur_and_his_army_assaults_the_fortress_of_Ibr%C4%81h%C4%ABm_S%C4%81r%C5%AB.jpg/500px-The_siege_and_battle_of_Isfarah._Babur_and_his_army_assaults_the_fortress_of_Ibr%C4%81h%C4%ABm_S%C4%81r%C5%AB.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Isfara_tea_house.JPG/500px-Isfara_tea_house.JPG"
     ],
     "overview": "Isfara is one of Tajikistan's major cities, home to around 274,000 people.",
@@ -33557,9 +34187,8 @@ const raw: Gen[] = [
       "coast",
       "mountains"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jaffna_montage.jpg/1280px-Jaffna_montage.jpg",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Jaffna_fort_entrance.jpg/500px-Jaffna_fort_entrance.jpg",
     "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jaffna_montage.jpg/1280px-Jaffna_montage.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Jaffna_fort_entrance.jpg/500px-Jaffna_fort_entrance.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AMH-4491-NA_Bird%27s_eye_view_of_the_city_of_Jaffnapatnam.jpg/1280px-AMH-4491-NA_Bird%27s_eye_view_of_the_city_of_Jaffnapatnam.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mosque_in_Jaffna.jpg/1280px-Mosque_in_Jaffna.jpg",
@@ -33672,8 +34301,14 @@ const raw: Gen[] = [
       "lantern",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/4/41/East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/41/East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e5/1_Maharaja_Sawai_Jai_Singh_II_ca_1725_Jaipur._British_museum.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Albert_Hall_%28_Jaipur_%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/13/Amber_palace%2C_Jaipur.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d6/Birla_Mandir_Jaipur_%282022-07%29.jpg"
+    ],
     "overview": "Jaipur is one of India's major cities, home to around 3,073,350 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -33828,12 +34463,10 @@ const raw: Gen[] = [
       "cityNight",
       "beach"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Xalapa_montage.jpg/1280px-Xalapa_montage.jpg",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Palacio_de_Gobierno_de_Xalapa_1.JPG/1280px-Palacio_de_Gobierno_de_Xalapa_1.JPG",
     "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Xalapa_montage.jpg/1280px-Xalapa_montage.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Palacio_de_Gobierno_de_Xalapa_1.JPG/1280px-Palacio_de_Gobierno_de_Xalapa_1.JPG",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Carlos_IV_de_rojo.jpg/1280px-Carlos_IV_de_rojo.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Nebel_Mexican_War_05_Battle_of_Cerro_Gordo_%28cropped%29.jpg/1280px-Nebel_Mexican_War_05_Battle_of_Cerro_Gordo_%28cropped%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/2/28/Juan_de_la_Luz_Enr%C3%ADquez.jpg"
     ],
     "overview": "Jalapa is one of Guatemala's major cities, home to around 159,840 people.",
@@ -34074,8 +34707,14 @@ const raw: Gen[] = [
       "coast",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Jeju_-_Hallasan.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/fd/Jeju_-_Hallasan.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d8/Cargo_ships_and_cargo_at_Jeju_Port_Pier_9_%282%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c7/Jeju_city.png",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7e/Jejusine-map.png",
+      "https://upload.wikimedia.org/wikipedia/commons/3/39/Manjanggul_caves_09.jpg"
+    ],
     "overview": "Jeju is one of South Korea's major cities, home to around 492,306 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -34261,8 +34900,10 @@ const raw: Gen[] = [
       "temple",
       "cityNight"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MCIA-BahrainHandbook2002.pdf/page1-500px-MCIA-BahrainHandbook2002.pdf.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MCIA-BahrainHandbook2002.pdf/page1-500px-MCIA-BahrainHandbook2002.pdf.jpg"
+    ],
     "overview": "Jidd Ḩafş is one of Bahrain's major cities, home to around 66,588 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -34546,8 +35187,14 @@ const raw: Gen[] = [
       "mountains",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Juan_D%C3%ADaz_%28shortstop%29.jpg/1280px-Juan_D%C3%ADaz_%28shortstop%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Juan_D%C3%ADaz_%28shortstop%29.jpg/1280px-Juan_D%C3%ADaz_%28shortstop%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Calle_Don_Juan_D%C3%ADaz_4%2C_M%C3%A1laga.jpg/1280px-Calle_Don_Juan_D%C3%ADaz_4%2C_M%C3%A1laga.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e8/Juan_D%C3%ADaz_e_Ignacio_Rota.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Juan_Diaz_Canales_-_Lucca_Comics_%26_Games_2015.JPG/1280px-Juan_Diaz_Canales_-_Lucca_Comics_%26_Games_2015.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/5/50/Ernesto_Juan_D%C3%ADaz_arquero.png"
+    ],
     "overview": "Juan Díaz is one of Panama's major cities, home to around 100,636 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -34765,8 +35412,14 @@ const raw: Gen[] = [
       "food",
       "lantern"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/5/51/Kit_body_blackcollar.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/51/Kit_body_blackcollar.png",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f9/Kit_body_collar.png",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a1/Kit_left_arm_blackborder.png",
+      "https://upload.wikimedia.org/wikipedia/commons/b/bf/Kit_left_arm_whiteborder.png",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d4/Kit_right_arm_blackborder.png"
+    ],
     "overview": "Jurong Town is one of Singapore's major cities, home to around 262,730 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -35201,7 +35854,7 @@ const raw: Gen[] = [
       "temple",
       "desertCamp"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Montage_ville_de_Kairouan.png",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Aghlabid_cistern.jpg/1280px-Aghlabid_cistern.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Aghlabid_cistern.jpg/1280px-Aghlabid_cistern.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Street_in_Kairouan_-_Tunisia_-_1899.jpg/500px-Street_in_Kairouan_-_Tunisia_-_1899.jpg",
@@ -35617,8 +36270,15 @@ const raw: Gen[] = [
       "coast",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Undang-Undang_Republik_Indonesia_Nomor_53_Tahun_1999.pdf/page1-960px-Undang-Undang_Republik_Indonesia_Nomor_53_Tahun_1999.pdf.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Undang-Undang_Republik_Indonesia_Nomor_53_Tahun_1999.pdf/page1-960px-Undang-Undang_Republik_Indonesia_Nomor_53_Tahun_1999.pdf.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sedjarah_TNI_Angkatan_Darat.djvu/page1-960px-Sedjarah_TNI_Angkatan_Darat.djvu.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Show_Your_Stripes_change_in_temperature_graphic_for_Kampung_Baru_Subang%2C_Malaysia_with_bars.png/1280px-Show_Your_Stripes_change_in_temperature_graphic_for_Kampung_Baru_Subang%2C_Malaysia_with_bars.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Show_Your_Stripes_change_in_temperature_graphic_for_Kampung_Baru_Subang%2C_Malaysia_with_bars_with_labels.png/1280px-Show_Your_Stripes_change_in_temperature_graphic_for_Kampung_Baru_Subang%2C_Malaysia_with_bars_with_labels.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Show_Your_Stripes_change_in_temperature_graphic_for_Kampung_Baru_Subang%2C_Malaysia_with_labels.png/1280px-Show_Your_Stripes_change_in_temperature_graphic_for_Kampung_Baru_Subang%2C_Malaysia_with_labels.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Show_Your_Stripes_change_in_temperature_graphic_for_Malaysia%2C_Kampung_Baru_Subang.png/1280px-Show_Your_Stripes_change_in_temperature_graphic_for_Malaysia%2C_Kampung_Baru_Subang.png"
+    ],
     "overview": "Kampung Baru Subang is one of Malaysia's major cities, home to around 833,571 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -35880,8 +36540,14 @@ const raw: Gen[] = [
       "desertCamp",
       "sahara"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Dala_Hills_%28Dutse_Dala%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a8/Dala_Hills_%28Dutse_Dala%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f1/Barth_1857_Kano_from_Mount_Dala.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/33/Bayero1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ex-king_of_Kano.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d7/Gidan_Makama_Gate.jpg"
+    ],
     "overview": "Kano is one of Nigeria's major cities, home to around 4,910,000 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -36074,8 +36740,14 @@ const raw: Gen[] = [
       "coast",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kara%2C_Togo_-_panoramio.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kara%2C_Togo_-_panoramio.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/2d/Kara%2C_Togo_-_panoramio_-_Milos58.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/94/Kara%2C_Togo_-_panoramio_-_Milos58_%281%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/fb/Kara5.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/bb/Mausoleum_of_Gnassingb%C3%A9_Eyad%C3%A9ma_in_Pya%2C_Kara.jpg"
+    ],
     "overview": "Kara is one of Togo's major cities, home to around 104,207 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -36653,8 +37325,15 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/3/32/Kasungu_miombo1.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/32/Kasungu_miombo1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/14/Kasungu_lifupa2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b4/Malawi-Kasungu.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Malawi_acacia.JPG/1280px-Malawi_acacia.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/ToyotaLandCruiser_PAO_Kasungu_Malawi.JPG/1280px-ToyotaLandCruiser_PAO_Kasungu_Malawi.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Banda_admires_a_good_harvest_in_Chief_Kaombas_village_in_Kasungu.jpg"
+    ],
     "overview": "Kasungu is one of Malawi's major cities, home to around 66,152 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -36744,8 +37423,15 @@ const raw: Gen[] = [
       "food",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Lakatamia_EN.jpg/1280px-Lakatamia_EN.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Lakatamia_EN.jpg/1280px-Lakatamia_EN.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6b/LakatamiaMunicipality.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/NicosiaDistrictLakatamia.png/1280px-NicosiaDistrictLakatamia.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Lakatamia_agios_giorgios_4.jpg/1280px-Lakatamia_agios_giorgios_4.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lakatamia_agios_giorgios_10.jpg/1280px-Lakatamia_agios_giorgios_10.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Lakatamia_agios_giorgios_24.jpg/1280px-Lakatamia_agios_giorgios_24.jpg"
+    ],
     "overview": "Káto Lakatámeia is one of Cyprus's major cities, home to around 40,000 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -36940,8 +37626,11 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Le_d%C3%A9fil%C3%A9.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d2/Le_d%C3%A9fil%C3%A9.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/26/2007%2C_Kaya_Burkina_Faso.jpg"
+    ],
     "overview": "Kaya is one of Burkina Faso's major cities, home to around 121,970 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -37278,8 +37967,10 @@ const raw: Gen[] = [
       "coast",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Rond_point_El%C3%A9phant_de_K%C3%A9lo.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/b3/Rond_point_El%C3%A9phant_de_K%C3%A9lo.jpg"
+    ],
     "overview": "Kelo is one of Chad's major cities, home to around 82,677 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -37317,8 +38008,14 @@ const raw: Gen[] = [
       "coast",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Kenema-Market.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f8/Kenema-Market.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/95/Sierra_Leone_-_Diocesi_di_Kenema.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kenema.jpg/1280px-Kenema.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kenema_Hospital_Sierra_Leone_Ebola.JPG/1280px-Kenema_Hospital_Sierra_Leone_Ebola.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sierra_Leone_-_Kenema.jpg/1280px-Sierra_Leone_-_Kenema.jpg"
+    ],
     "overview": "Kenema is one of Sierra Leone's major cities, home to around 255,110 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -37362,8 +38059,15 @@ const raw: Gen[] = [
       "temple",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/2/25/Liberia%2C_Africa_-_panoramio_%28256%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/25/Liberia%2C_Africa_-_panoramio_%28256%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Montreal_Twilight_Panorama_2006.jpg/1280px-Montreal_Twilight_Panorama_2006.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bangkok_Night_Wikimedia_Commons.jpg/1280px-Bangkok_Night_Wikimedia_Commons.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/S%C3%A8te_from_Mount_Saint-Clair_by_night_01.jpg/1280px-S%C3%A8te_from_Mount_Saint-Clair_by_night_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Z%C3%BCrich_view_Quaibr%C3%BCcke_20200702.jpg/1280px-Z%C3%BCrich_view_Quaibr%C3%BCcke_20200702.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Shiraz_cityscape_-_Raman_Moeini_-_2023.02.21_07.33.02.jpg/1280px-Shiraz_cityscape_-_Raman_Moeini_-_2023.02.21_07.33.02.jpg"
+    ],
     "overview": "Kennedy is one of Colombia's major cities, home to around 979,914 people.",
     "bestTime": "The dry season (roughly May–September) is ideal",
     "weather": "From highland cool to tropical warmth",
@@ -37401,8 +38105,15 @@ const raw: Gen[] = [
       "lantern",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Yerevan_Kentron_district_panorama.jpg/1280px-Yerevan_Kentron_district_panorama.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Yerevan_Kentron_district_panorama.jpg/1280px-Yerevan_Kentron_district_panorama.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kentron_admin.jpg/1280px-Kentron_admin.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/2014_Erywa%C5%84%2C_Widok_na_dachy_dom%C3%B3w_i_bloki_mieszkalne_w_dzielnicy_Kentron_%2801%29.jpg/1280px-2014_Erywa%C5%84%2C_Widok_na_dachy_dom%C3%B3w_i_bloki_mieszkalne_w_dzielnicy_Kentron_%2801%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kentron%2C_Yerevan%2C_Armenia_-_panoramio_%2811%29.jpg/1280px-Kentron%2C_Yerevan%2C_Armenia_-_panoramio_%2811%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Kentron%2C_Yerevan%2C_Armenia_-_panoramio_%2816%29.jpg/1280px-Kentron%2C_Yerevan%2C_Armenia_-_panoramio_%2816%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Kentron%2C_Yerevan%2C_Armenia_-_panoramio_%2817%29.jpg/1280px-Kentron%2C_Yerevan%2C_Armenia_-_panoramio_%2817%29.jpg"
+    ],
     "overview": "Kentron is one of Armenia's major cities, home to around 133,000 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -37440,8 +38151,14 @@ const raw: Gen[] = [
       "mountains",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/3/32/Keren_-_2008-11-01.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/32/Keren_-_2008-11-01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/df/Giro_Fiori_%288384455892%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/99/Indian_troops_stand_next_to_a_Cheren_%28Keren%29_signpost%2C_May_1941.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/74/Keren_Italian_War_Cemetery%2C_2024_%281%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a8/Mariam_Dearit_Madonna_of_the_Baobab.jpg"
+    ],
     "overview": "Keren is one of Eritrea's major cities, home to around 74,800 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -37503,8 +38220,15 @@ const raw: Gen[] = [
       "mountains",
       "cityNight"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/EU-EE-TLN-Kesklinn-Endla-Estonian_Tax_Board.JPG/1280px-EU-EE-TLN-Kesklinn-Endla-Estonian_Tax_Board.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/EU-EE-TLN-Kesklinn-Endla-Estonian_Tax_Board.JPG/1280px-EU-EE-TLN-Kesklinn-Endla-Estonian_Tax_Board.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/P%C3%A4rnu_kesklinn_-_Aerial_photo_of_P%C3%A4rnu_in_Estonia_%282%29.jpg/1280px-P%C3%A4rnu_kesklinn_-_Aerial_photo_of_P%C3%A4rnu_in_Estonia_%282%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Tartu_asv2022-04_img31_View_from_Emaj%C3%B5e_Tower.jpg/1280px-Tartu_asv2022-04_img31_View_from_Emaj%C3%B5e_Tower.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Tartu_asv2022-04_img35_View_from_Emaj%C3%B5e_Tower.jpg/1280px-Tartu_asv2022-04_img35_View_from_Emaj%C3%B5e_Tower.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kesklinn%2C_Tartu_linn_-_Mysterious_Moon_%2853010435567%29.jpg/1280px-Kesklinn%2C_Tartu_linn_-_Mysterious_Moon_%2853010435567%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Tartu%2C_Estonia_%2854187839312%29.jpg/1280px-Tartu%2C_Estonia_%2854187839312%29.jpg"
+    ],
     "overview": "Kesklinn is one of Estonia's major cities, home to around 67,766 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -38373,8 +39097,12 @@ const raw: Gen[] = [
       "coast",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Enzikiriza_Y%27omusiraamu_Entuufu.djvu/page1-960px-Enzikiriza_Y%27omusiraamu_Entuufu.djvu.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Enzikiriza_Y%27omusiraamu_Entuufu.djvu/page1-960px-Enzikiriza_Y%27omusiraamu_Entuufu.djvu.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Derija.jpg/1280px-Derija.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Farmer_puting_a_bottle_of_dreeping_water_on_a_coffe_plant.jpg/1280px-Farmer_puting_a_bottle_of_dreeping_water_on_a_coffe_plant.jpg"
+    ],
     "overview": "Kikolo is one of Angola's major cities, home to around 728,205 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -38538,8 +39266,15 @@ const raw: Gen[] = [
       "cityNight",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/99/PortofKingston.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/99/PortofKingston.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/67/1882_Kingston_Fire.png",
+      "https://upload.wikimedia.org/wikipedia/commons/d/de/A_bust_of_Marcus_Garvey.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/34/Air_jamaica_building_from_the_west.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f8/Bob_Marley_-_Statue_-_Kingston_-_Jamaica.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7d/Devonhouse.jpg"
+    ],
     "overview": "Kingston is the capital of Jamaica, home to around 937,700 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -38761,8 +39496,10 @@ const raw: Gen[] = [
       "mountains",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/6/65/Kira_road.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/65/Kira_road.jpg"
+    ],
     "overview": "Kira is one of Uganda's major cities, home to around 462,900 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -39144,8 +39881,15 @@ const raw: Gen[] = [
       "beach",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/80/Koh_Samui_Lipa_Noi2.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/80/Koh_Samui_Lipa_Noi2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/72/Ape_collecting_coconut_-_vycvi%C4%8Den%C3%A1_opice_trh%C3%A1_kokosy_-_panoramio.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/24/Big_Buddha_Temple_%28Wat_Phra_Yai%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7e/Big_Buddha_in_Big_Buddha_Temple_%28Wat_Phra_Yai%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bo_Phut_Beach.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/ab/Bo_Phut_Beach_Ko_Samui.jpg"
+    ],
     "overview": "Koh Samui is one of Thailand's major cities, home to around 70,000 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -39231,8 +39975,10 @@ const raw: Gen[] = [
       "beach",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Kola%C5%A1in_Town_Center.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/0e/Kola%C5%A1in_Town_Center.jpg"
+    ],
     "overview": "Kola'a is one of Solomon Islands's major cities, home to around 20,783 people.",
     "bestTime": "The warmer, drier months for the outdoors",
     "weather": "Mild to tropical, with plenty of sunshine",
@@ -40110,8 +40856,15 @@ const raw: Gen[] = [
       "temple",
       "cityNight"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/4/44/Wat_Tham_Sua_18.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/44/Wat_Tham_Sua_18.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/68/Aviacionavion.png",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e9/Isla_Phi_Phi_Lay%2C_Tailandia%2C_2013-08-19%2C_DD_07.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/9/97/Isla_Phi_Phi_Lay%2C_Tailandia%2C_2013-08-19%2C_DD_22.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/0/04/KoPhiphi.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/71/Ko_Phi_Phi_Le_4.jpg"
+    ],
     "overview": "Krabi is one of Thailand's major cities, home to around 32,644 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -40554,8 +41307,11 @@ const raw: Gen[] = [
       "sahara",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/UNMISS_announces_ambitious_road_rehabilitation_plan_for_South_Sudan.webm/1280px--UNMISS_announces_ambitious_road_rehabilitation_plan_for_South_Sudan.webm.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/UNMISS_announces_ambitious_road_rehabilitation_plan_for_South_Sudan.webm/1280px--UNMISS_announces_ambitious_road_rehabilitation_plan_for_South_Sudan.webm.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/UNMISS_September_2020.pdf/page1-1280px-UNMISS_September_2020.pdf.jpg"
+    ],
     "overview": "Kuacjok is one of South Sudan's major cities, home to around 78,000 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -41352,8 +42108,10 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/A_Great_Blue_Turaco_perched_on_a_Tree.jpg/1280px-A_Great_Blue_Turaco_perched_on_a_Tree.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/A_Great_Blue_Turaco_perched_on_a_Tree.jpg/1280px-A_Great_Blue_Turaco_perched_on_a_Tree.jpg"
+    ],
     "overview": "Kyengera is one of Uganda's major cities, home to around 285,400 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -41775,8 +42533,14 @@ const raw: Gen[] = [
       "food",
       "cityNight"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Dominicana-Altos_de_Chavon.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/ec/Dominicana-Altos_de_Chavon.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1a/Altos_de_Chavon_3.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/8c/Amphitheater_in_Altos_de_Chav%C3%B3n%2C_La_Romana%2C_Dominican_Republic.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/05/Casa_de_Campo_Marina%2C_La_Romana_22000%2C_Dominican_Republic_-_panoramio_%284%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/13/Dominikanische_Republik%2C_La_Romana_International_Airport_-_Dominican_Republic_-_panoramio.jpg"
+    ],
     "overview": "La Romana is one of Dominican Republic's major cities, home to around 208,437 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -42199,8 +42963,11 @@ const raw: Gen[] = [
       "mountains",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/91/Lami_Police_Station_%2814075808059%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/91/Lami_Police_Station_%2814075808059%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f8/VitiLevu2021OSM.png"
+    ],
     "overview": "Lami is one of Fiji's major cities, home to around 24,639 people.",
     "bestTime": "The warmer, drier months for the outdoors",
     "weather": "Mild to tropical, with plenty of sunshine",
@@ -42238,8 +43005,14 @@ const raw: Gen[] = [
       "beach",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Eagle_square_at_Kuah_Langkawi.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/6c/Eagle_square_at_Kuah_Langkawi.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/fd/Before_the_Dawn_at_Langkawi_Island.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f4/LangkawiMap.png",
+      "https://upload.wikimedia.org/wikipedia/commons/0/04/Langkawi_Malaysia_Dataran-Helang-05.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Langkawi_Pantai_Cenang_3.JPG"
+    ],
     "overview": "Langkawi is one of Malaysia's major cities, home to around 99,000 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -42277,8 +43050,14 @@ const raw: Gen[] = [
       "cityNight",
       "alps"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f9/20111009_Yeni_Tzami_former_seat_of_the_Archeological_Museum_Larissa_Thessaly_Greece.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f9/20111009_Yeni_Tzami_former_seat_of_the_Archeological_Museum_Larissa_Thessaly_Greece.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/65/2011_Dimos_Larisas.png",
+      "https://upload.wikimedia.org/wikipedia/commons/c/ca/2022-06-30_Canon-T_IMG_9569.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/26/Alkazar_Park_%28lake%29_-_Larisa.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/6/61/Dodwell_Larissa.jpg"
+    ],
     "overview": "Lárisa is one of Greece's major cities, home to around 146,926 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -42522,8 +43301,13 @@ const raw: Gen[] = [
       "beach",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/1/14/LasPiedras_Obelisco.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/14/LasPiedras_Obelisco.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/9f/LasPiedras_Parque_Artigas.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0a/LasPiedras_San_Isidro.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1f/LasPiedras_central_avenue.jpg"
+    ],
     "overview": "Las Piedras is one of Uruguay's major cities, home to around 69,682 people.",
     "bestTime": "The dry season (roughly May–September) is ideal",
     "weather": "From highland cool to tropical warmth",
@@ -42561,8 +43345,15 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/d/da/Las_Vegas_from_above_%2840064746644%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/da/Las_Vegas_from_above_%2840064746644%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/ac/04_Spanish_Trail_Country_Club_27-hole_golf_course_in_Las_Vegas%2C_Nevada_-_Creative_Commons_free_photo_with_attribution.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/38/2024_Las_Vegas_Grand_Prix_at_the_Sphere_-_Saturday%2C_November_23%2C_Orbi.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/36/Allegiantstadiumjune2020.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/da/Atomic_test_seen_from_Las_Vegas.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/38/City_of_Las_Vegas_Sign.jpg"
+    ],
     "overview": "Las Vegas is one of United States's major cities, home to around 641,903 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -42762,8 +43553,11 @@ const raw: Gen[] = [
       "mountains",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/84/Paramaribo_Ressorts_Suriname_Neutral.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Paramaribo_Ressorts_Suriname_Neutral.png",
+      "https://upload.wikimedia.org/wikipedia/commons/7/70/Suriname_resorts_Neutral.png"
+    ],
     "overview": "Latour is one of Suriname's major cities, home to around 29,526 people.",
     "bestTime": "The dry season (roughly May–September) is ideal",
     "weather": "From highland cool to tropical warmth",
@@ -43157,8 +43951,13 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/5/54/Couplenearpenadetigre.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/54/Couplenearpenadetigre.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/7/73/El_Calvario_%28interior_view%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/75/Frontis_Santuario_Diocesano_de_Nuestra_Se%C3%B1ora_de_La_Merced._Le%C3%B3n%2C_Nicaragua..jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b2/Guadalupe_Le%C3%B3n%2C_Nicaragua_por_Richard_Weiss.JPG"
+    ],
     "overview": "León is one of Nicaragua's major cities, home to around 144,538 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -44114,9 +44913,8 @@ const raw: Gen[] = [
       "temple",
       "coast"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Limerickcitycollage3.jpg/1280px-Limerickcitycollage3.jpg",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Limerick-King-Johns-Castle-2012.JPG/1280px-Limerick-King-Johns-Castle-2012.JPG",
     "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Limerickcitycollage3.jpg/1280px-Limerickcitycollage3.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Limerick-King-Johns-Castle-2012.JPG/1280px-Limerick-King-Johns-Castle-2012.JPG",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/George_Street%2C_Limerick_%285691906290%29.jpg/1280px-George_Street%2C_Limerick_%285691906290%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Limerick_arms.jpg/1280px-Limerick_arms.jpg",
@@ -44267,8 +45065,15 @@ const raw: Gen[] = [
       "food",
       "cityNight"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/1/15/Lim%C3%B3n_-_Panoramic_view_from_Downtown_Lim%C3%B3n.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/15/Lim%C3%B3n_-_Panoramic_view_from_Downtown_Lim%C3%B3n.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/3b/Isla_Uvita._Lim%C3%B3n._Costa_Rica.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/29/J._Gutierrez.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6e/Lim%C3%B3n%27s_House_of_Culture.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4f/Lim%C3%B3n_-_2023_Christmas_season_-_Balvanero_Vargas_park.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/34/Lim%C3%B3n_-_Catedral.jpg"
+    ],
     "overview": "Limón is one of Costa Rica's major cities, home to around 63,081 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -44306,8 +45111,10 @@ const raw: Gen[] = [
       "food",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/85/Linden_Bauxite_Company_-_panoramio_-_Marco_Farouk_Basir.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/85/Linden_Bauxite_Company_-_panoramio_-_Marco_Farouk_Basir.jpg"
+    ],
     "overview": "Linden is one of Guyana's major cities, home to around 44,690 people.",
     "bestTime": "The dry season (roughly May–September) is ideal",
     "weather": "From highland cool to tropical warmth",
@@ -45309,8 +46116,15 @@ const raw: Gen[] = [
       "coast",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Phou_si_Luang_Prabang_Laos_%E3%83%97%E3%83%BC%E3%82%B7%E3%83%BC%E3%81%AE%E4%B8%98_%E3%83%A9%E3%82%AA%E3%82%B9%E3%83%BB%E3%83%AB%E3%82%A2%E3%83%B3%E3%83%97%E3%83%A9%E3%83%90%E3%83%BC%E3%83%B3_DSCF6777.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f7/Phou_si_Luang_Prabang_Laos_%E3%83%97%E3%83%BC%E3%82%B7%E3%83%BC%E3%81%AE%E4%B8%98_%E3%83%A9%E3%82%AA%E3%82%B9%E3%83%BB%E3%83%AB%E3%82%A2%E3%83%B3%E3%83%97%E3%83%A9%E3%83%90%E3%83%BC%E3%83%B3_DSCF6777.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/41/Damaged_Laotian_North_American_T-28D_aircraft_at_Luang_Prabang%2C_Laos%2C_in_1967_%28110329-F-XN622-002%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/ea/Front_view_of_Wat_Mai_Suwannaphumaham_Buddhist_temple_at_blue_hour_in_Luang_Prabang_Laos.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5e/Haw_Kham_palace_%28August_2009%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Lao_New_Year%2C_parade_with_river_boat.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0d/Luang_Prabang-Phou_Si-10-Santi_Chedi-gje.jpg"
+    ],
     "overview": "Luang Prabang is one of Laos's major cities, home to around 66,000 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -45480,8 +46294,12 @@ const raw: Gen[] = [
       "food",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/7/7c/2009_08_24_06262_Lucerne.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/7c/2009_08_24_06262_Lucerne.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c1/%28Barcelona%29_Lucerne_from_the_Walls%2C_Sample_Study_-_William_Turner_-_Tate_Britain.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/46/Dampfschiffe_in_Luzern_%28cropped%29.jpg"
+    ],
     "overview": "Lucerne is one of Switzerland's major cities, home to around 81,691 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -45892,8 +46710,15 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/3/35/LuxorHotelsIbnWalidSt.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/35/LuxorHotelsIbnWalidSt.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f0/Abu_el-Haggag_R01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b9/Abu_el-Haggag_R03.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/bf/Aerial_Views_of_Luxor_No_24..JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d3/Avenue_towards_Karnak.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/4/41/Balloon_over_Luxor_-_Egypt_denoised.jpg"
+    ],
     "overview": "Luxor is one of Egypt's major cities, home to around 506,588 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -46206,8 +47031,13 @@ const raw: Gen[] = [
       "cityNight",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/aa/2008_Macau_F3_GP.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/aa/2008_Macau_F3_GP.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4d/Administrative_Division_of_Macau.png",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a9/Aerial_view_of_Macau_at_night.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7a/Air_Macau_Airbus_A321-200_B-MCA_%2824311327220%29.jpg"
+    ],
     "overview": "Macau is the capital of Macau, home to around 682,300 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -46391,8 +47221,10 @@ const raw: Gen[] = [
       "coast",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/1/1c/ISS023-E-18221_-_View_of_Bahrain.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/1c/ISS023-E-18221_-_View_of_Bahrain.jpg"
+    ],
     "overview": "Madīnat Ḩamad is one of Bahrain's major cities, home to around 133,550 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -46757,8 +47589,15 @@ const raw: Gen[] = [
       "beach",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Plaza_Maip%C3%BA_2023.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/ec/Plaza_Maip%C3%BA_2023.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Avances_Infraestructura_Hospitalaria_%2812799627024%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c1/Cerro15_cruz_maipu.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f2/CiudadsateliteImagen2_030.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e4/Edificio_Consistorial_de_Maip%C3%BA_2023_-_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5c/El_Metro_en_Maip%C3%BA.jpg"
+    ],
     "overview": "Maipú is one of Chile's major cities, home to around 503,635 people.",
     "bestTime": "The dry season (roughly May–September) is ideal",
     "weather": "From highland cool to tropical warmth",
@@ -47426,8 +48265,14 @@ const raw: Gen[] = [
       "coast",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Iglesia_Catedral_de_Maldonado_V.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5d/Iglesia_Catedral_de_Maldonado_V.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1e/Jefatura_de_la_ciudad_de_Maldonado..JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/1/17/Maldonado1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/2d/Monumento_a_Artigas_II.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/8/8f/Nicolas_Garc%C3%ADa_Uriburu_007-1.JPG"
+    ],
     "overview": "Maldonado is one of Uruguay's major cities, home to around 102,000 people.",
     "bestTime": "The dry season (roughly May–September) is ideal",
     "weather": "From highland cool to tropical warmth",
@@ -47493,8 +48338,10 @@ const raw: Gen[] = [
       "coast",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Anterior_view_of_human_female_and_male%2C_with_labels_2.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/e5/Anterior_view_of_human_female_and_male%2C_with_labels_2.png"
+    ],
     "overview": "Male is one of Maldives's major cities, home to around 103,693 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -48106,8 +48953,14 @@ const raw: Gen[] = [
       "food",
       "lantern"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kyrgyzstan_Manas_Raion.png/1280px-Kyrgyzstan_Manas_Raion.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kyrgyzstan_Manas_Raion.png/1280px-Kyrgyzstan_Manas_Raion.png",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0c/Manas_Air_Base_in_Kyrgyzstan.png",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e1/Jalalabad_7.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f4/Kyrgyzstan_Airport_Manas_001.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bishkek_03-2016_img51_Manas_Airport.jpg/1280px-Bishkek_03-2016_img51_Manas_Airport.jpg"
+    ],
     "overview": "Manas is one of Kyrgyzstan's major cities, home to around 123,239 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -48471,8 +49324,12 @@ const raw: Gen[] = [
       "mountains",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/6/61/Mandeville-courthouse.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/61/Mandeville-courthouse.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/01/Mandeville-panorama.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f5/Terra.png"
+    ],
     "overview": "Mandeville is one of Jamaica's major cities, home to around 47,115 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -48510,8 +49367,10 @@ const raw: Gen[] = [
       "temple",
       "desertCamp"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/a2/GN-Coyah.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/GN-Coyah.png"
+    ],
     "overview": "Manéah is one of Guinea's major cities, home to around 194,297 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -49073,8 +49932,14 @@ const raw: Gen[] = [
       "temple",
       "desertCamp"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/4/46/Maradi_2.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/46/Maradi_2.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/3/37/Bloc_Administratif.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a7/Gouvernaurat.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/5/50/Mosque_de_Tchana_Maradi_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d3/Mosqu%C3%A9_a_Maradi_2.JPG"
+    ],
     "overview": "Maradi is one of Niger's major cities, home to around 361,702 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -49245,8 +50110,15 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/7/72/Merca_minaret_moonrise.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/72/Merca_minaret_moonrise.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/ca/Marka%2CSomalia.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/A_Somali_elder_stands_with_his_prayer_beads_during_a_demonstration_by_a_local_militia%2C_formed_in_order_to_provide_security_for_the_town_of_Marka%2C_Somalia%2C_on_April_30._AU_UN_IST_PHOTO_-_Tobin_Jones_%2814057972726%29.jpg/1280px-thumbnail.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/A_young_woman_holds_the_Somali_flag_during_a_demonstration_by_a_local_militia%2C_formed_to_provide_security_in_Marka%2C_Somalia%2C_on_April_30._AU_UN_IST_PHOTO_-_Tobin_Jones_%2813894459768%29.jpg/1280px-thumbnail.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/A_young_woman_holds_the_Somali_flag_during_a_demonstration_by_a_local_militia%2C_formed_to_provide_security_in_Marka%2C_Somalia%2C_on_April_30._AU_UN_IST_PHOTO_-_Tobin_Jone_%2814081543544%29.jpg/1280px-thumbnail.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Young_men_stand_guard_during_a_demonstration_by_a_local_militia%2C_formed_to_provide_security_in_Marka%2C_Somalia%2C_on_April_30._AU_UN_IST_PHOTO_-_Tobin_Jones_%2814081553974%29.jpg/1280px-thumbnail.jpg"
+    ],
     "overview": "Marka is one of Somalia's major cities, home to around 230,100 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -49388,8 +50260,15 @@ const raw: Gen[] = [
       "temple",
       "desertCamp"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Pavillon_Menarag%C3%A4rten.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/9c/Pavillon_Menarag%C3%A4rten.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6e/%22Ein_lebendiger_Ort%2C_der_von_Touristen_und_Einheimischen_gleicherma%C3%9Fen_gesch%C3%A4tzt_wird%22._04.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/35/%22Ein_lebendiger_Ort%2C_der_von_Touristen_und_Einheimischen_gleicherma%C3%9Fen_gesch%C3%A4tzt_wird%22._08.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/ec/Al_Azama_synagogue_of_Marrakech.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7e/Almoravid_dinar_1138_631905.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/fa/BHNSMarrakech.jpg"
+    ],
     "overview": "Marrakech is one of Morocco's major cities, home to around 928,850 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -49676,8 +50555,15 @@ const raw: Gen[] = [
       "beach",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Regional_Museum%2C_Mary_%285730558369%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f5/Regional_Museum%2C_Mary_%285730558369%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/ca/151127-worlds-largest-yurt-Mary-Turkmenistan.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1d/MAMaryBushaltestelle.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7e/MAMaryHZ2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/55/MAMaryHZ3.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/3a/MAMaryMarkt1.jpg"
+    ],
     "overview": "Mary is one of Turkmenistan's major cities, home to around 167,027 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -50163,8 +51049,13 @@ const raw: Gen[] = [
       "mountains",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/1/1a/MaunAirview1.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/1a/MaunAirview1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e5/020522036Botswana.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/1/11/Mack_Air_aircraft_at_sunset_v1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/52/Maun_Airport.jpg"
+    ],
     "overview": "Maun is one of Botswana's major cities, home to around 85,350 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -50815,8 +51706,14 @@ const raw: Gen[] = [
       "lantern",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Great_Mosque_of_Mecca1.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3f/Great_Mosque_of_Mecca1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f4/3rd_Ring_Road_makkah.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/a/a4/Abraj_Al_Bait_Tower_2017.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/ab/Haji_pilgrimage_mina_tent_city.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b9/Hajr_Ismail%2C_Makkah.jpg"
+    ],
     "overview": "Mecca is one of Saudi Arabia's major cities, home to around 2,042,000 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -51124,8 +52021,14 @@ const raw: Gen[] = [
       "beach",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Al-Masjid_An-Nabawi_%28Bird%27s_Eye_View%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/0e/Al-Masjid_An-Nabawi_%28Bird%27s_Eye_View%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7a/%27Madinah_Sharif%27_Indian_token.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/eb/Al-Baqi_Cemetery_2021.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d5/An_inscription_mentioning_prophet%27s_grave_in_Madinah.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4a/Gold_dinar_of_Umar_II.jpg"
+    ],
     "overview": "Medina is one of Saudi Arabia's major cities, home to around 1,482,469 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -51447,8 +52350,15 @@ const raw: Gen[] = [
       "mountains",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/2/25/Villa_Vizcaya_20110228.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/25/Villa_Vizcaya_20110228.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f7/200127-H-PX819-0092.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f6/A306%2C_Skyline_at_twilight%2C_Miami%2C_Florida%2C_USA%2C_2010.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/4/44/American_Airlines_Arena%2C_Miami%2C_FL%2C_jjron_29.03.2012.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bayfront_Park_-_panoramio_%285%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e4/Bayfront_Plaza_2020.jpg"
+    ],
     "overview": "Miami is one of United States's major cities, home to around 442,241 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -51851,9 +52761,8 @@ const raw: Gen[] = [
       "food",
       "temple"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Miskolc_Montage.jpg/1280px-Miskolc_Montage.jpg",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Miskolc_city_hall_square.jpg/1280px-Miskolc_city_hall_square.jpg",
     "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Miskolc_Montage.jpg/1280px-Miskolc_Montage.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Miskolc_city_hall_square.jpg/1280px-Miskolc_city_hall_square.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Miskolc_old_picture.jpg/500px-Miskolc_old_picture.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Miskolc_Erzs%C3%A9bet_Spa.jpg/500px-Miskolc_Erzs%C3%A9bet_Spa.jpg",
@@ -52055,8 +52964,10 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f5/LG%26CG_-_Guine_finete_henriques.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f5/LG%26CG_-_Guine_finete_henriques.jpg"
+    ],
     "overview": "Missira is one of Guinea-Bissau's major cities, home to around 38,838 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -52139,8 +53050,11 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Moanda_Gabon1.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d8/Moanda_Gabon1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/91/Rhodochrosite-54413.jpg"
+    ],
     "overview": "Moanda is one of Gabon's major cities, home to around 71,099 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -52582,8 +53496,15 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Corfu_Mon_Repos_R01.jpg/1280px-Corfu_Mon_Repos_R01.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Corfu_Mon_Repos_R01.jpg/1280px-Corfu_Mon_Repos_R01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Corfu_Mon_Repos_R02.jpg/1280px-Corfu_Mon_Repos_R02.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Corfu_Mon_Repos_R04.jpg/1280px-Corfu_Mon_Repos_R04.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Mon_Repos_02_02.jpg/1280px-Mon_Repos_02_02.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mon_Repos_03.jpg/1280px-Mon_Repos_03.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mon_Repos_04_04.jpg/1280px-Mon_Repos_04_04.jpg"
+    ],
     "overview": "Mon Repos is one of Trinidad and Tobago's major cities, home to around 56,380 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -53276,8 +54197,14 @@ const raw: Gen[] = [
       "mountains",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Moron2008.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/dd/Moron2008.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4a/Gelenhuu.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/92/MoronHashaa.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/78/M%C3%B6r%C3%B6nHauptplatz.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5b/M%C3%B6r%C3%B6nMemorial.jpg"
+    ],
     "overview": "Mörön is one of Mongolia's major cities, home to around 39,404 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -53315,8 +54242,15 @@ const raw: Gen[] = [
       "sahara",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/94/Moroni-Harbour.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/94/Moroni-Harbour.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/56/Air_Tanzania_B737_at_Hahaya_Airport.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/ba/Catholic_church_in_comoros.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b4/Friday_Mosk.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/51/Grande_Comore_Harbor_Bay_Photo_by_Sascha_Grabow.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/f/fe/Moroni%2C_Capital_of_the_Comores%2C_Photo_by_Sascha_Grabow.jpg"
+    ],
     "overview": "Moroni is the capital of Comoros, home to around 74,749 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -53831,8 +54765,15 @@ const raw: Gen[] = [
       "coast",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/3/37/Burundi_Commune_of_Mpanda.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/37/Burundi_Commune_of_Mpanda.png",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b4/Jos%C3%A9_Mpanda_Kabangu_-_2020_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Jos%C3%A9_Mpanda_Kabangu_-_2022_%2852388306178%29.jpg/1280px-Jos%C3%A9_Mpanda_Kabangu_-_2022_%2852388306178%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Jos%C3%A9_Mpanda_Kabangu_-_2022_%2852388370584%29.jpg/1280px-Jos%C3%A9_Mpanda_Kabangu_-_2022_%2852388370584%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jos%C3%A9_Mpanda_Kabangu_%26_Rafael_Grossi_%2852388061806%29.jpg/1280px-Jos%C3%A9_Mpanda_Kabangu_%26_Rafael_Grossi_%2852388061806%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Jos%C3%A9_Mpanda_Kabangu_-_2022_%2852388490295%29.jpg/1280px-Jos%C3%A9_Mpanda_Kabangu_-_2022_%2852388490295%29.jpg"
+    ],
     "overview": "Mpanda is one of Burundi's major cities, home to around 58,913 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -53892,8 +54833,13 @@ const raw: Gen[] = [
       "lantern",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Municipal_Areas_in_Nonthaburi_Province_TH.png/1280px-Municipal_Areas_in_Nonthaburi_Province_TH.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Municipal_Areas_in_Nonthaburi_Province_TH.png/1280px-Municipal_Areas_in_Nonthaburi_Province_TH.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Wat_Chaloem_Phra_Kiat_%28Nonthaburi%2C_Thailand%29.jpg/1280px-Wat_Chaloem_Phra_Kiat_%28Nonthaburi%2C_Thailand%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazing_Thailand_-_panoramio_%281%29.jpg/1280px-Amazing_Thailand_-_panoramio_%281%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Amazing_Thailand_-_panoramio_%282%29.jpg/1280px-Amazing_Thailand_-_panoramio_%282%29.jpg"
+    ],
     "overview": "Mueang Nonthaburi is one of Thailand's major cities, home to around 254,375 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -54114,8 +55060,10 @@ const raw: Gen[] = [
       "coast",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Taken_in_2010_-_panoramio.jpg/1280px-Taken_in_2010_-_panoramio.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Taken_in_2010_-_panoramio.jpg/1280px-Taken_in_2010_-_panoramio.jpg"
+    ],
     "overview": "Mulenvos is one of Angola's major cities, home to around 882,014 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -54243,8 +55191,15 @@ const raw: Gen[] = [
       "mountains",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Building_Under_Construction_-_Musanze-Ruhengeri_-_Northern_Rwanda.jpg/1280px-Building_Under_Construction_-_Musanze-Ruhengeri_-_Northern_Rwanda.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Building_Under_Construction_-_Musanze-Ruhengeri_-_Northern_Rwanda.jpg/1280px-Building_Under_Construction_-_Musanze-Ruhengeri_-_Northern_Rwanda.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Project_Rwanda_-_Cyclists_on_Street_-_Musanze_Ruhengeri_-_Northern_Rwanda.jpg/1280px-Project_Rwanda_-_Cyclists_on_Street_-_Musanze_Ruhengeri_-_Northern_Rwanda.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/dc/This_photograph_is_located_in_Rwanda_Musanze_District.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Musanze_cave.jpg/1280px-Musanze_cave.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b9/Dam_in_Musanze_district_Rwanda.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e4/Photo_taken_in_Musanze_district_Rwanda.jpg"
+    ],
     "overview": "Musanze is one of Rwanda's major cities, home to around 153,368 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -54712,8 +55667,14 @@ const raw: Gen[] = [
       "food",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/b/b2/2011_Dimos_Mykonou.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/b2/2011_Dimos_Mykonou.png",
+      "https://upload.wikimedia.org/wikipedia/commons/3/33/20100706_Mykonos_chora_port_panorama_Greece.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c5/Against_Greek_skies%2C_one_of_the_Mykonos_Island_Windmills%2C_Chora._Cyclades%2C_Agean_Sea%2C_Greece.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c7/Baklava%281%29.png",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c1/Camel_Rock_Mykonos.jpg"
+    ],
     "overview": "Mykonos is one of Greece's major cities, home to around 10,134 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -55570,8 +56531,15 @@ const raw: Gen[] = [
       "lantern",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nalaikh_02.JPG/1280px-Nalaikh_02.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nalaikh_02.JPG/1280px-Nalaikh_02.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Nalaikh_16.JPG/1280px-Nalaikh_16.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nalaikh_17.JPG/1280px-Nalaikh_17.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Nalaikh_18.JPG/1280px-Nalaikh_18.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Nalaikh_19.JPG/1280px-Nalaikh_19.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nalaikh_20.JPG/1280px-Nalaikh_20.JPG"
+    ],
     "overview": "Nalayh is one of Mongolia's major cities, home to around 39,579 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -55693,9 +56661,8 @@ const raw: Gen[] = [
       "mountains",
       "beach"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/7/74/Nampo_Montage.JPG",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Landing_on_Nampho.jpg/1280px-Landing_on_Nampho.jpg",
     "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Nampo_Montage.JPG/500px-Nampo_Montage.JPG",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Landing_on_Nampho.jpg/1280px-Landing_on_Nampho.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/1354_-_Nordkorea_2015_-_von_Nampo_nach_K%C3%A4song_%2822566905827%29.jpg/1280px-1354_-_Nordkorea_2015_-_von_Nampo_nach_K%C3%A4song_%2822566905827%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hero_Youth_Highway_in_DPRK.jpg/1280px-Hero_Youth_Highway_in_DPRK.jpg",
@@ -56064,8 +57031,15 @@ const raw: Gen[] = [
       "coast",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Nashville%2C_TN_skyline.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/e4/Nashville%2C_TN_skyline.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1e/4_parks_in_NHRF_%282%29.png",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0e/AT%26T_Building%2C_Commerce_Street_and_3rd_Avenue%2C_Nashville%2C_TN_%2854384169042%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/8a/AT%26T_Building-_June_2022.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bar_Entrance_Nashville.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0f/Belmont_library_with_uniforms_on_chairs.jpg"
+    ],
     "overview": "Nashville is one of United States's major cities, home to around 689,447 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -56144,8 +57118,15 @@ const raw: Gen[] = [
       "coast",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/88/Nassau%2C_Bahamas_aerial_view_%28cropped%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/88/Nassau%2C_Bahamas_aerial_view_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/89/BahamianParliamentPanorama.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/ad/Downtown_Nassau_-_panoramio_%286%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/8a/Fort_Charlotte%2C_Nassau_walls_5.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e9/Hilton_resort_Nassau.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/53/IMRAY%281884%29_p0210_BAHAMAS%2C_NASSAU.jpg"
+    ],
     "overview": "Nassau is the capital of Bahamas, home to around 227,940 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -56654,8 +57635,10 @@ const raw: Gen[] = [
       "desertCamp",
       "sahara"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/d/df/NemaLookingSouth.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/df/NemaLookingSouth.jpg"
+    ],
     "overview": "Néma is one of Mauritania's major cities, home to around 60,000 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -56828,8 +57811,14 @@ const raw: Gen[] = [
       "food",
       "cityNight"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/c/cb/New_Orleans_from_the_Air_September_2019_-_Central_Business_District_Skyline_%28cropped%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/cb/New_Orleans_from_the_Air_September_2019_-_Central_Business_District_Skyline_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c9/Aerial_View_of_NASA%27s_Rocket_Factory.png",
+      "https://upload.wikimedia.org/wikipedia/commons/7/72/AlgiersFerry_TJefferson_arriving3_bright.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/02/Archives_nationales_d%E2%80%99outre-mer_-_Louisiane_-_Adrien_de_Pauger_-_1724_-_001.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/26/BethIsraelCarondeletFrontA.JPG"
+    ],
     "overview": "New Orleans is one of United States's major cities, home to around 383,997 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -57034,8 +58023,10 @@ const raw: Gen[] = [
       "beach",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/4/43/Bandung_View_dari_Gedung_Wisma_HSBC_Asia_Afrika_4.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/43/Bandung_View_dari_Gedung_Wisma_HSBC_Asia_Afrika_4.jpg"
+    ],
     "overview": "Nggosi is one of Solomon Islands's major cities, home to around 26,009 people.",
     "bestTime": "The warmer, drier months for the outdoors",
     "weather": "Mild to tropical, with plenty of sunshine",
@@ -57567,8 +58558,14 @@ const raw: Gen[] = [
       "beach",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/c/c6/%D0%9D%D0%B8%D1%88_34.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/c6/%D0%9D%D0%B8%D1%88_34.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bali_Begova_Dzamija.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f6/Bubanj-Pesnice_7.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/19/Church_in_Ni%C5%A1.IMG_3832.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f9/Filmski_susreti.JPG"
+    ],
     "overview": "Niš is one of Serbia's major cities, home to around 250,000 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -57862,8 +58859,12 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/fc/CG-Nkayi.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/fc/CG-Nkayi.png",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d3/Congo_-_Diocesi_di_Nkayi.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Mbagadhi_Frederick_Nkayi.jpg/1280px-Mbagadhi_Frederick_Nkayi.jpg"
+    ],
     "overview": "Nkayi is one of Congo's major cities, home to around 103,000 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -57946,8 +58947,14 @@ const raw: Gen[] = [
       "mountains",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Auckland%2C_New_Zealand_by_Planet_Labs_%28cropped_to_North_Shore%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/2f/Auckland%2C_New_Zealand_by_Planet_Labs_%28cropped_to_North_Shore%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0b/2Bio_Field_Trip_Waiake.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/9/97/AKLpanorama1080_%28North_Shore%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/44/Ann_Hartley_%28crop%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/56/Auckland%27s_defences_the_13_ton_gun_on_the_summit_of_Mount_Victoria_%28cropped%29.jpg"
+    ],
     "overview": "North Shore is one of New Zealand's major cities, home to around 258,697 people.",
     "bestTime": "The warmer, drier months for the outdoors",
     "weather": "Mild to tropical, with plenty of sunshine",
@@ -58714,8 +59721,13 @@ const raw: Gen[] = [
       "temple",
       "desertCamp"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Rwanda_Revenue_Authority_dans_la_rue_principale_de_Nyagatare.JPG/1280px-Rwanda_Revenue_Authority_dans_la_rue_principale_de_Nyagatare.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Rwanda_Revenue_Authority_dans_la_rue_principale_de_Nyagatare.JPG/1280px-Rwanda_Revenue_Authority_dans_la_rue_principale_de_Nyagatare.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Vache_de_Nyagatare_15.JPG/1280px-Vache_de_Nyagatare_15.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/5/52/Nyagatare_%286158896919%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Nyagatare_%286159454154%29.jpg"
+    ],
     "overview": "Nyagatare is one of Rwanda's major cities, home to around 100,000 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -58753,12 +59765,12 @@ const raw: Gen[] = [
       "coast",
       "beach"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Nyala_%28Tragelaphus_angasii%29_male_Maputo.jpg/1280px-Nyala_%28Tragelaphus_angasii%29_male_Maputo.jpg",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Cinema_street2.jpg",
     "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/8a/Cinema_street2.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nyala-Female-Kruger-National-Park.jpg/1280px-Nyala-Female-Kruger-National-Park.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/ZOO_Hellabrunn%2C_M%C3%BCnchen_-_kudui.jpg/1280px-ZOO_Hellabrunn%2C_M%C3%BCnchen_-_kudui.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Nyalas_male.jpg/500px-Nyalas_male.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Nyala_heart_%28Tragelaphus_angasii%29.jpg/1280px-Nyala_heart_%28Tragelaphus_angasii%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Nursing_nyala.jpg/1280px-Nursing_nyala.jpg"
     ],
     "overview": "Nyala is one of Sudan's major cities, home to around 565,734 people.",
@@ -58848,8 +59860,15 @@ const raw: Gen[] = [
       "coast",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/ea/MonteAlbanWest.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/ea/MonteAlbanWest.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5e/A_street_vendor_at_the_Zocalo_of_Oaxaca_City.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f7/Alameda_de_Le%C3%B3n_Oaxaca_Mexico.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c4/Auditorio_Guelaguetza_en_Oaxaca.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7e/Benevamezcaloaxaca.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/55/Benito_Juarez_Market_Oaxaca_Mexico.jpg"
+    ],
     "overview": "Oaxaca is one of Mexico's major cities, home to around 270,677 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -59475,8 +60494,15 @@ const raw: Gen[] = [
       "cityNight",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Clock_Tower%2C_Orange_Walk_Town%2C_Belize.JPG/1280px-Clock_Tower%2C_Orange_Walk_Town%2C_Belize.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Clock_Tower%2C_Orange_Walk_Town%2C_Belize.JPG/1280px-Clock_Tower%2C_Orange_Walk_Town%2C_Belize.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Main_square%2C_Orange_Walk_Town%2C_Belize.JPG/1280px-Main_square%2C_Orange_Walk_Town%2C_Belize.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/9/9b/School%2C_Orange_Walk%2C_Belize._-_panoramio.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Orange_Walk_Town_banner.JPG/1280px-Orange_Walk_Town_banner.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Adventurous_Taxi_-_Orange_Walk_Belize.jpg/1280px-Adventurous_Taxi_-_Orange_Walk_Belize.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Belize_Bus_in_Orange_Walk.jpg/1280px-Belize_Bus_in_Orange_Walk.jpg"
+    ],
     "overview": "Orange Walk is one of Belize's major cities, home to around 15,298 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -59560,8 +60586,15 @@ const raw: Gen[] = [
       "coast",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/b/bf/%C3%96rebro_slott_May_2014_01.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/bf/%C3%96rebro_slott_May_2014_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/94/Allehandaborgen.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e4/Allehandaborgen_from_Svartan_river_in_%C3%96rebro%2C_Sweden.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c5/Centralpalatset.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/8/81/Centralpalatset_May_2014.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/49/Engelbrekt_Engelbrektsson_Large.jpg"
+    ],
     "overview": "Örebro is one of Sweden's major cities, home to around 155,989 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -59599,8 +60632,14 @@ const raw: Gen[] = [
       "food",
       "cityNight"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Orlando%2C_Florida_%28cropped%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/e8/Orlando%2C_Florida_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/ff/AmwayCenterCourt.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1c/Bank_of_America_building_from_I4.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c7/Brightline_at_Orlando_International_Intermodal_Terminal_%2852372432604%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/61/CNL_Center_City_Commons_%28Orlando%29_May_2023.jpg"
+    ],
     "overview": "Orlando is one of United States's major cities, home to around 307,573 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -60529,9 +61568,8 @@ const raw: Gen[] = [
       "temple",
       "coast"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Montage_Pokkinen_Oulu.jpg/1280px-Montage_Pokkinen_Oulu.jpg",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Oulu1800.jpg/500px-Oulu1800.jpg",
     "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Montage_Pokkinen_Oulu.jpg/1280px-Montage_Pokkinen_Oulu.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Oulu1800.jpg/500px-Oulu1800.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Oulu_sat_img.jpg/1280px-Oulu_sat_img.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Oulu_city_centre_20250902_05.jpg/1280px-Oulu_city_centre_20250902_05.jpg",
@@ -61187,8 +62225,11 @@ const raw: Gen[] = [
       "cityNight",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/ECDM_20140415_SolomonIslands_Emergencies.pdf/page1-1280px-ECDM_20140415_SolomonIslands_Emergencies.pdf.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/ECDM_20140415_SolomonIslands_Emergencies.pdf/page1-1280px-ECDM_20140415_SolomonIslands_Emergencies.pdf.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ECDM_20140409_SolomonIslands_Floods.pdf/page1-1280px-ECDM_20140409_SolomonIslands_Floods.pdf.jpg"
+    ],
     "overview": "Panatina is one of Solomon Islands's major cities, home to around 32,712 people.",
     "bestTime": "The warmer, drier months for the outdoors",
     "weather": "Mild to tropical, with plenty of sunshine",
@@ -61409,8 +62450,10 @@ const raw: Gen[] = [
       "food",
       "cityNight"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Iglesia_Inmaculada_Concepcion_Ujarras.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/bd/Iglesia_Inmaculada_Concepcion_Ujarras.jpg"
+    ],
     "overview": "Paraíso is one of Costa Rica's major cities, home to around 39,702 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -61504,7 +62547,7 @@ const raw: Gen[] = [
       "temple",
       "food"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Paramaribo_city_collage.png/1280px-Paramaribo_city_collage.png",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tropenmuseum_Royal_Tropical_Institute_Objectnumber_3728-375_Litho_voorstellende_een_marktgezicht.jpg/500px-Tropenmuseum_Royal_Tropical_Institute_Objectnumber_3728-375_Litho_voorstellende_een_marktgezicht.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tropenmuseum_Royal_Tropical_Institute_Objectnumber_3728-375_Litho_voorstellende_een_marktgezicht.jpg/500px-Tropenmuseum_Royal_Tropical_Institute_Objectnumber_3728-375_Litho_voorstellende_een_marktgezicht.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Vente_d%27esclaves_au_Suriname_en_1831.jpg/1280px-Vente_d%27esclaves_au_Suriname_en_1831.jpg",
@@ -61698,8 +62741,15 @@ const raw: Gen[] = [
       "cityNight",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Nepal_Patan_Mangal.jpg/1280px-Nepal_Patan_Mangal.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Nepal_Patan_Mangal.jpg/1280px-Nepal_Patan_Mangal.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cattle_in_Patan.jpg/1280px-Cattle_in_Patan.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Nepal_Patan_Durbar_Square_10_%28full_res%29.jpg/1280px-Nepal_Patan_Durbar_Square_10_%28full_res%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Krishna_mandir_patan_nepal.jpg/1280px-Krishna_mandir_patan_nepal.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Patan_Durbar_Square_2007-12-0282_%282579737535%29.jpg/1280px-Patan_Durbar_Square_2007-12-0282_%282579737535%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Busy_streets_of_Patan.jpg/1280px-Busy_streets_of_Patan.jpg"
+    ],
     "overview": "Pātan is one of Nepal's major cities, home to around 299,283 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -61842,8 +62892,14 @@ const raw: Gen[] = [
       "cityNight",
       "alps"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Patras_from_the_fortress.jpg/1280px-Patras_from_the_fortress.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Patras_from_the_fortress.jpg/1280px-Patras_from_the_fortress.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Patra_Febr_2021.jpg/1280px-Patra_Febr_2021.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Roman_Odeon_of_Patras_-_1.jpg/1280px-Roman_Odeon_of_Patras_-_1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Stairs_of_Patras_-_2.jpg/1280px-Stairs_of_Patras_-_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Stairs_of_Patras_-_4.jpg/1280px-Stairs_of_Patras_-_4.jpg"
+    ],
     "overview": "Pátra is one of Greece's major cities, home to around 168,034 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -61942,8 +62998,15 @@ const raw: Gen[] = [
       "temple",
       "cityNight"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Pattaya_beach_from_view_point.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/ec/Pattaya_beach_from_view_point.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c0/A_crew_member_of_the_battleship_USS_NEW_JERSEY_%28BB-62%29_relaxes_while_on_shore_leave_-_DPLA_-_9ae4503fb33c536fc7225f16c9be6a61.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/2c/Art_In_Paradise%2C_Pattaya%2C_Thailand.png",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c2/Central_Pattaya%2C_Thailand_at_night_in_2017.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/df/Flooded_street_of_Pattaya.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/42/Hilton_Pattaya_Pool_dusk_view_201801.jpg"
+    ],
     "overview": "Pattaya is one of Thailand's major cities, home to around 119,532 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -62237,8 +63300,14 @@ const raw: Gen[] = [
       "temple",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Budapest_Chain_Bridge.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/c6/Budapest_Chain_Bridge.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/37/Budapeszt-panorama_srodmiescie.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/2c/Pest_t%C3%A9rk%C3%A9pe_1758.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c6/Pest_v%C3%A1ros_c%C3%ADmere_1703.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f5/Pesth_-_Peeters_Jacob_-_1686.jpg"
+    ],
     "overview": "Pest is one of Hungary's major cities, home to around 1,001,748 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -62510,8 +63579,14 @@ const raw: Gen[] = [
       "beach",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/7/78/Wadi_Musa%2C_Jordan.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/78/Wadi_Musa%2C_Jordan.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/17/Petra_Visitors_Center.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b3/Wadi_Musa%2C_m%C4%9Bsto_II.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/31/Wadi_Musa-Mosesquelle-02-aussen-2010-gje.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5c/Wadi_Musa-Panoramahotel-02-2010-gje.jpg"
+    ],
     "overview": "Petra / Wadi Musa is one of Jordan's major cities, home to around 30,000 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -62593,8 +63668,15 @@ const raw: Gen[] = [
       "mountains",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/1/19/Philadelphia_skyline_20240528_%28cropped_2-1%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/19/Philadelphia_skyline_20240528_%28cropped_2-1%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/dc/2022-10-09_13_33_59_View_east_along_Interstate_76_and_U.S._Route_30_%28Schuylkill_Expressway%29_from_the_overpass_for_Spring_Garden_Street_in_Philadelphia%2C_Pennsylvania.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/68/2022_Old_Philadelphia_Stock_Exchange_Buiding%2C_1411_Walnut_Street%2C_close.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0c/30th-Street-Station-Aug2019-fws-33.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e5/30th_Street_Station_Philadelphia_July_2016_002_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d9/A358%2C_Philadelphia%2C_Pennsylvania%2C_USA%2C_Boathouse_Row_at_night%2C_2009.JPG"
+    ],
     "overview": "Philadelphia is one of United States's major cities, home to around 1,603,797 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -62820,8 +63902,15 @@ const raw: Gen[] = [
       "mountains",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/2/25/Phuket_City.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/25/Phuket_City.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4f/Big_Buddha_statue_%28Phuket%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/01/Old_Post_Office_of_Phuket.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c7/Patak_Road.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/5/51/Phuket%2C_April_2012.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d7/PhuketPortugees.jpg"
+    ],
     "overview": "Phuket is one of Thailand's major cities, home to around 79,200 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -62943,8 +64032,15 @@ const raw: Gen[] = [
       "sahara",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Paysage_de_la_Niayes_de_Pikine_16.jpg/1280px-Paysage_de_la_Niayes_de_Pikine_16.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Paysage_de_la_Niayes_de_Pikine_16.jpg/1280px-Paysage_de_la_Niayes_de_Pikine_16.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Papillon_paysage_de_la_Niayes_de_Pikine_17.jpg/1280px-Papillon_paysage_de_la_Niayes_de_Pikine_17.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Vanneaux_%C3%A9peronn%C3%A9_de_la_Niayes_de_Pikine_11.jpg/1280px-Vanneaux_%C3%A9peronn%C3%A9_de_la_Niayes_de_Pikine_11.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/R%C3%A9serve_naturelle_urbaine_de_la_grande_Niaye_de_Pikine._03.jpg/1280px-R%C3%A9serve_naturelle_urbaine_de_la_grande_Niaye_de_Pikine._03.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/R%C3%A9serve_naturelle_urbaine_de_la_grande_Niaye_de_Pikine._04.jpg/1280px-R%C3%A9serve_naturelle_urbaine_de_la_grande_Niaye_de_Pikine._04.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/R%C3%A9serve_naturelle_urbaine_de_la_grande_Niaye_de_Pikine._10.jpg/1280px-R%C3%A9serve_naturelle_urbaine_de_la_grande_Niaye_de_Pikine._10.jpg"
+    ],
     "overview": "Pikine is one of Senegal's major cities, home to around 1,170,791 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -62982,8 +64078,14 @@ const raw: Gen[] = [
       "alps",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/1/15/Chlum_%28416_m%29_od_Mikulky%2C_18._8._2007.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/15/Chlum_%28416_m%29_od_Mikulky%2C_18._8._2007.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/45/Czech_Republic_2_1_Iceland.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/97/EVO2_v_Plzni_20190910.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/ed/Fakulta_pr%C3%A1vnick%C3%A1_Z%C4%8CU.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/42/Great_Synagogue_in_Pilsen-2010.jpg"
+    ],
     "overview": "Pilsen is one of Czechia's major cities, home to around 168,733 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -63268,8 +64370,12 @@ const raw: Gen[] = [
       "food",
       "cityNight"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/3/3b/PlayadelCarmen3.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3b/PlayadelCarmen3.png",
+      "https://upload.wikimedia.org/wikipedia/commons/6/68/PalmTreesWhiteSandPlayadelCarmen.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/2e/Quinta_Avenida_%282026%29.jpg"
+    ],
     "overview": "Playa del Carmen is one of Mexico's major cities, home to around 304,942 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -64975,8 +66081,10 @@ const raw: Gen[] = [
       "mountains",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Terra.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f5/Terra.png"
+    ],
     "overview": "Portmore is one of Jamaica's major cities, home to around 102,861 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -65199,7 +66307,7 @@ const raw: Gen[] = [
       "coast",
       "beach"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Collage_Portoviejo.png/1280px-Collage_Portoviejo.png",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Portoviejo_-_Catedral.JPG/250px-Portoviejo_-_Catedral.JPG",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Portoviejo_-_Catedral.JPG/250px-Portoviejo_-_Catedral.JPG",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Iguana_iguana_Portoviejo_01.jpg/250px-Iguana_iguana_Portoviejo_01.jpg",
@@ -66076,8 +67184,13 @@ const raw: Gen[] = [
       "beach",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Main_street%2C_Puerto_Ayora%2C_Santa_Cruz%2C_Galapagos_-_panoramio.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/b5/Main_street%2C_Puerto_Ayora%2C_Santa_Cruz%2C_Galapagos_-_panoramio.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/87/PtoAyoraMalec%C3%B3n.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/13/Puerto_Ayora_isla_Santa_Cruz_Islas_Gal%C3%A1pagos_Ecuador_foto_por_Alvaro_Sevilla_Design.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/03/Water_taxi_in_Puerto_Ayora_on_the_Island_of_Santa_Cruz_in_the_Galapagos_photo_by_Alvaro_Sevilla_Design.JPG"
+    ],
     "overview": "Puerto Ayora (Galápagos) is one of Ecuador's major cities, home to around 12,000 people.",
     "bestTime": "The dry season (roughly May–September) is ideal",
     "weather": "From highland cool to tropical warmth",
@@ -66159,8 +67272,13 @@ const raw: Gen[] = [
       "mountains",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/en/0/01/Dos_Palmas_RP.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/en/0/01/Dos_Palmas_RP.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/f/ff/Docking_area_to_Underground_River.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e5/PUERTO_PRINCESA_UNDERGROUND_RIVER.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/01/Palawan_Capitol.jpg"
+    ],
     "overview": "Puerto Princesa / Palawan is one of Philippines's major cities, home to around 307,079 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -66282,8 +67400,14 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/4/45/Cap_Cana_Marina_Dominican_Republic.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/45/Cap_Cana_Marina_Dominican_Republic.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4f/B%C3%A1varo%2C_23000%2C_Dominican_Republic_-_panoramio_%28398%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/70/Dominicana-Punta_Cana.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/86/Familia_Rainieri.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/8f/Gorgonia_ventalina_-_purple_sea_fan_-_Ocyurus_chrysurus_-_yellowtail_snapper_and_Abudefduf_saxatilis_-_sergeant_major_-_Punta_Cana_-_Dominican_Republic.jpg"
+    ],
     "overview": "Punta Cana is one of Dominican Republic's major cities, home to around 100,000 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -66545,8 +67669,15 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Quebec_City_skyline_from_L%C3%A9vis.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a4/Quebec_City_skyline_from_L%C3%A9vis.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/eb/Canadian_militiamen_and_British_soldiers_repulse_the_American_assault_at_Sault-au-Matelot.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f3/CentreVideotron-StephaneGroleau-0800.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7b/Chateau_Frontenac_in_Quebec_City_%283875826553%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/8d/Ch%C3%A2teau_Frontenac_02.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ch%C3%A2teau_Frontenac_after_a_freezing_rain_day_in_Quebec_city.jpg"
+    ],
     "overview": "Québec City is one of Canada's major cities, home to around 549,459 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -66632,8 +67763,15 @@ const raw: Gen[] = [
       "coast",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Queenstown_1_%288168013172%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/c9/Queenstown_1_%288168013172%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/cc/Lake_Wakatipu_from_Queenstown_gondola.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/3d/Ledge_Bungy%2C_Queenstown%2C_New_Zealand_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/85/Queenstown-NZ-Mall.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e5/Queenstown_%26_Remarkable_Mountains.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/be/Queenstown_%287187555194%29.jpg"
+    ],
     "overview": "Queenstown is one of New Zealand's major cities, home to around 16,000 people.",
     "bestTime": "The warmer, drier months for the outdoors",
     "weather": "Mild to tropical, with plenty of sunshine",
@@ -67124,8 +68262,11 @@ const raw: Gen[] = [
       "mountains",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/84/Paramaribo_Ressorts_Suriname_Neutral.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Paramaribo_Ressorts_Suriname_Neutral.png",
+      "https://upload.wikimedia.org/wikipedia/commons/7/70/Suriname_resorts_Neutral.png"
+    ],
     "overview": "Rainville is one of Suriname's major cities, home to around 22,747 people.",
     "bestTime": "The dry season (roughly May–September) is ideal",
     "weather": "From highland cool to tropical warmth",
@@ -67277,8 +68418,15 @@ const raw: Gen[] = [
       "lantern",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Tajhat_Rajbari_-_Side_View_%28cropped%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5d/Tajhat_Rajbari_-_Side_View_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/36/APC-4.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/09/BRTC-1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/8d/BangladeshBank-mor-Highway-RangpurCity.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6d/Bangladesh_Bank_Rangpur.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b6/Bangladesh_Bank_Rangpur_City.jpg"
+    ],
     "overview": "Rangpur is one of Bangladesh's major cities, home to around 1,031,388 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -67429,8 +68577,12 @@ const raw: Gen[] = [
       "desertCamp",
       "sahara"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/2/27/Rehoboth_Bird%C2%B4s-eye_view.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/27/Rehoboth_Bird%C2%B4s-eye_view.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/87/Chief_Hans_Eichab_of_the_%C7%83Ain%C3%AEn_Traditional_Community.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/28/Rehoboth_Namibia_1908.jpg"
+    ],
     "overview": "Rehoboth is one of Namibia's major cities, home to around 34,185 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -67563,8 +68715,10 @@ const raw: Gen[] = [
       "desertCamp",
       "sahara"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/4/44/Bissau-Stroossenzeen--w.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/44/Bissau-Stroossenzeen--w.jpg"
+    ],
     "overview": "Reino de Bandim is one of Guinea-Bissau's major cities, home to around 44,718 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -67755,8 +68909,15 @@ const raw: Gen[] = [
       "food",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Rhodes_sentinel2_%28cropped%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/2e/Rhodes_sentinel2_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5e/2011_Dimos_Rodou.png",
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/A_small_harbour_in_Rhodes.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1e/Airpoort_rhodes_02.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/7/74/Akramitis.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/cd/Apollon_temple_acropolis_Rhodes.jpg"
+    ],
     "overview": "Rhodes is one of Greece's major cities, home to around 50,916 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -68019,8 +69180,13 @@ const raw: Gen[] = [
       "mountains",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/d/db/Rio_Claro.PNG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/db/Rio_Claro.PNG",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e1/Brother%27s_Road_Mosque_-_Rio_Claro%2C_Trinidad_and_Tobago.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/27/TnT_Rio_Claro_Maxi_Station.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a3/TnT_Rio_Claro_St._Theresa%27s_RC_Church.jpg"
+    ],
     "overview": "Rio Claro is one of Trinidad and Tobago's major cities, home to around 35,650 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -68103,8 +69269,15 @@ const raw: Gen[] = [
       "lantern",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rishon_LeZion_West_Aerial_View.jpg/1280px-Rishon_LeZion_West_Aerial_View.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rishon_LeZion_West_Aerial_View.jpg/1280px-Rishon_LeZion_West_Aerial_View.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Music_park_in_Rishon_Lezion_%289%29.JPG/1280px-Music_park_in_Rishon_Lezion_%289%29.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gan_Haslosha_%28Rishon_Lezion%29.jpg/1280px-Gan_Haslosha_%28Rishon_Lezion%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gan_Haslosha_%28Rishon_Lezion%29_%281%29.jpg/1280px-Gan_Haslosha_%28Rishon_Lezion%29_%281%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Gan_Hashlosha_%28Rishon_Lezion%29.jpg/1280px-Gan_Hashlosha_%28Rishon_Lezion%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Hundreds_of_Rishon_Lezion_residents_demonstrating_against_the_building_a_sewage_processing_plant_which_will_clean_used_water_for_agriculture_%28FL45787655%29.jpg/1280px-Hundreds_of_Rishon_Lezion_residents_demonstrating_against_the_building_a_sewage_processing_plant_which_will_clean_used_water_for_agriculture_%28FL45787655%29.jpg"
+    ],
     "overview": "Rishon LeTsiyyon is one of Israel's major cities, home to around 258,535 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -68551,8 +69724,15 @@ const raw: Gen[] = [
       "mountains",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Government_Gardens_in_Rotorua_01.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5c/Government_Gardens_in_Rotorua_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/40/00_1555_Pohutu_Geyser_in_Whakarewarewa_%28Whaka%29%2C_New_Zealand.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/cd/00_2009_03_20_1526_Lake_Rotorua_-_Neuseeland.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/ef/2001-01_Rotorua.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/8e/City_of_Rotorua.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e6/Government_Gardens%2C_Rotorua_055.jpg"
+    ],
     "overview": "Rotorua is one of New Zealand's major cities, home to around 58,600 people.",
     "bestTime": "The warmer, drier months for the outdoors",
     "weather": "Mild to tropical, with plenty of sunshine",
@@ -68678,8 +69858,14 @@ const raw: Gen[] = [
       "desertCamp",
       "sahara"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/86/Rumonge%2C_Burundi.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/86/Rumonge%2C_Burundi.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bureaux_d%27OHP_Rumonge_%C3%A0_Rumonge.jpg/1280px-Bureaux_d%27OHP_Rumonge_%C3%A0_Rumonge.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Kaze_Restautant_in_Rumonge_city.jpg/1280px-Kaze_Restautant_in_Rumonge_city.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bar_at_Rumonge_city.jpg/1280px-Bar_at_Rumonge_city.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Banque_de_la_R%C3%A9publique_du_Burundi_%C3%A0_Rumonge_%28Entr%C3%A9e%29.jpg/1280px-Banque_de_la_R%C3%A9publique_du_Burundi_%C3%A0_Rumonge_%28Entr%C3%A9e%29.jpg"
+    ],
     "overview": "Rumonge is one of Burundi's major cities, home to around 55,599 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -68774,8 +69960,14 @@ const raw: Gen[] = [
       "cityNight",
       "alps"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/d/dc/03-08-2006-Rousse_114.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/dc/03-08-2006-Rousse_114.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/46/20140625_Rousse_016.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e9/20140625_Rousse_061.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6e/20140625_Rousse_082.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/11/20140625_Rousse_084.jpg"
+    ],
     "overview": "Ruse is one of Bulgaria's major cities, home to around 121,168 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -69016,8 +70208,10 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/4/46/BF-Boulgou.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/46/BF-Boulgou.png"
+    ],
     "overview": "Saaba is one of Burkina Faso's major cities, home to around 136,011 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -69055,8 +70249,15 @@ const raw: Gen[] = [
       "cityNight",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Mohammad_Mosaddak_Ali_met_with_Crown_Prince_of_Kuwait_Saad_Al-Abdullah_Al-Salim_Al-Sabah_in_Kuwait.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a4/Mohammad_Mosaddak_Ali_met_with_Crown_Prince_of_Kuwait_Saad_Al-Abdullah_Al-Salim_Al-Sabah_in_Kuwait.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/51/Kuwait_1936-1938_%28Scouts%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/65/The_first_cabinet_in_the_history_of_Kuwait_%281962%29.png",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c2/The_fifth_cabinet_in_the_history_of_Kuwait_%281965%29.png",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d2/The_sixth_cabinet_in_the_history_of_Kuwait_%281967%29.png",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f3/Saad_Al-Salim_Al-Sabah.jpg"
+    ],
     "overview": "Şabāḩ as Sālim is one of Kuwait's major cities, home to around 139,163 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -69176,8 +70377,15 @@ const raw: Gen[] = [
       "mountains",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/b/b0/St_Georges_Grenada_Fort_-_panoramio.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/b0/St_Georges_Grenada_Fort_-_panoramio.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/fa/2009_07-28_St._George%27s_Bay_%284%29.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c3/Grenada2010.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f8/Kathedrale_von_St._George%27s_auf_Grenada.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d9/Parliament_House_on_Church_Street_C_IMG_0521.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6a/Port_Saint-Georges_dans_l%27%C3%AEle_de_la_Grenade_en_1776.jpg"
+    ],
     "overview": "Saint George's is one of Grenada's major cities, home to around 7,500 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -69233,8 +70441,10 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/7/71/St_Johns_Antigua_2012.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/71/St_Johns_Antigua_2012.jpg"
+    ],
     "overview": "Saint John’s is the capital of Antigua and Barbuda, home to around 51,737 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -69545,8 +70755,14 @@ const raw: Gen[] = [
       "mountains",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Monuments_de_Sal%C3%A9.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/c8/Monuments_de_Sal%C3%A9.png",
+      "https://upload.wikimedia.org/wikipedia/commons/1/10/Entrance_of_Mohammed_VI_Football_Academy_in_Sal%C3%A9%2C_Morocco.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b2/Porte_de_la_grande_demeure_de_la_famille_Chemaou_%C3%A0_Sal%C3%A9.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/8c/Rabat-Sal%C3%A9_airport.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/fb/Rue_pi%C3%A9tonne-marina.JPG"
+    ],
     "overview": "Salé is one of Morocco's major cities, home to around 972,299 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -69695,8 +70911,14 @@ const raw: Gen[] = [
       "food",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/0/00/Plaza_Artigas%2C_Salto.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/00/Plaza_Artigas%2C_Salto.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4e/Calle_en_Salto.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c5/Homenaje_a_Eladio_Dieste_monumento_Salto_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d1/MuseoFachadaSalto.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/64/Salto_Grande_dam.JPG"
+    ],
     "overview": "Salto is one of Uruguay's major cities, home to around 114,084 people.",
     "bestTime": "The dry season (roughly May–September) is ideal",
     "weather": "From highland cool to tropical warmth",
@@ -69772,8 +70994,15 @@ const raw: Gen[] = [
       "temple",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Salvador_BA_%28cropped%29_2.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/c0/Salvador_BA_%28cropped%29_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/bf/2020_ACELINO_POP%C3%93_FREITAS_CANDIDATO_VICE-PREFEITO_BA_SALVADOR_TSE_%2850000771828%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/93/Acarajes.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/04/Adriana_Lima_au_festival_de_Cannes%2C_2015.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d1/Alexius_Filhos_de_Gandhy_Salvador_Bahia.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/24/Anchieta_Pelourinho_Cyark.jpg"
+    ],
     "overview": "Salvador is one of Brazil's major cities, home to around 2,711,840 people.",
     "bestTime": "The dry season (roughly May–September) is ideal",
     "weather": "From highland cool to tropical warmth",
@@ -69865,8 +71094,15 @@ const raw: Gen[] = [
       "mountains",
       "cityNight"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/91/Salzburg_%2848489551981%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/91/Salzburg_%2848489551981%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/9a/2163_-_Salzburg_-_Stift_Nonnberg.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b8/8_of_10_-_Hohensalzburg_Castle%2C_AUSTRIA.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/3f/A_view_from_Getreidegasse_%28Salzburg%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f0/Aussenansicht_red_bull_hangar-7_nacht.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e3/Bezirke_Salzburg.png"
+    ],
     "overview": "Salzburg is one of Austria's major cities, home to around 155,021 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -70044,8 +71280,15 @@ const raw: Gen[] = [
       "temple",
       "cityNight"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Songthaew_in_Samut_Prakan_%2837%29.jpg/1280px-Songthaew_in_Samut_Prakan_%2837%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Songthaew_in_Samut_Prakan_%2837%29.jpg/1280px-Songthaew_in_Samut_Prakan_%2837%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Songthaew_in_Samut_Prakan_%2845%29.jpg/1280px-Songthaew_in_Samut_Prakan_%2845%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Songthaew_in_Samut_Prakan_%2847%29.jpg/1280px-Songthaew_in_Samut_Prakan_%2847%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Songthaew_in_Samut_Prakan_%2856%29.jpg/1280px-Songthaew_in_Samut_Prakan_%2856%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Songthaew_in_Samut_Prakan_%2855%29.jpg/1280px-Songthaew_in_Samut_Prakan_%2855%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Songthaew_in_Samut_Prakan_%2862%29.jpg/1280px-Songthaew_in_Samut_Prakan_%2862%29.jpg"
+    ],
     "overview": "Samut Prakan is one of Thailand's major cities, home to around 388,920 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -70143,8 +71386,15 @@ const raw: Gen[] = [
       "cityNight",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/ea/La_Jolla_Shores_view_%28cropped%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/ea/La_Jolla_Shores_view_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4d/2012_Festival_of_Sail_934278934983.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/46/AT%26TBuildingSanDiegoApr09.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/aa/An_MH-60R_Sea_Hawk_helicopter_flies_over_San_Diego._%2824546100368%29_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/30/Balboa_Park%2C_San_Diego%2C_CA%2C_USA_-_panoramio_%28129%29_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f5/Balboa_Park%2C_San_Diego%2C_CA%2C_USA_-_panoramio_%28224%29.jpg"
+    ],
     "overview": "San Diego is one of United States's major cities, home to around 1,386,932 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -70182,8 +71432,11 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/97/San_Fernando_Hospital_Extension%2C_San_Fernando%2C_Trinidad_and_Tobago.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/97/San_Fernando_Hospital_Extension%2C_San_Fernando%2C_Trinidad_and_Tobago.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/4/47/STAPP_022_San_Fernando_San_Fernando_Hill.jpg"
+    ],
     "overview": "San Fernando is one of Trinidad and Tobago's major cities, home to around 55,419 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -70221,8 +71474,15 @@ const raw: Gen[] = [
       "cityNight",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Zeppelin-ride-020100925-195_%285029394846%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/9f/Zeppelin-ride-020100925-195_%285029394846%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/57/2017_SFMOMA_from_Yerba_Buena_Gardens.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/19/2019_San_Francisco_Carnaval_Grand_Parade_431_%2849490263633%29_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a9/A_view_of_Yerba_Buena_%28San_Francisco%29._On_July_9%2C_1846%2C_Capt._Montgomery_of_the_Sloop_of_War_Portsmouth%2C_raised_the_American_Flag_in_the_plaza_and_seized_the_region_of_the_United_States_LCCN2004666425.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/ef/Aerial_view_-_Presidio-whole.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/2b/Aerial_view_of_San_Francisco%2C_30_Jun_2018_%28cropped%29.jpg"
+    ],
     "overview": "San Francisco is one of Costa Rica's major cities, home to around 55,923 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -70305,8 +71565,14 @@ const raw: Gen[] = [
       "mountains",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/ae/San_Igancio_Belize_2016.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/ae/San_Igancio_Belize_2016.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/ca/Belize_independence_day_celebration_sept.21_2012.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/39/Burns_Ave_in_San_Ignacio.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/20/Hawkesworth_Bridge_2017.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/91/San_Ignacio_Town_Street%2C_Belize.jpg"
+    ],
     "overview": "San Ignacio is one of Belize's major cities, home to around 21,229 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -70344,8 +71610,10 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Ciudad_de_San_Jos%C3%A9.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f6/Ciudad_de_San_Jos%C3%A9.png"
+    ],
     "overview": "San José is the capital of Costa Rica, home to around 335,007 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -70383,8 +71651,12 @@ const raw: Gen[] = [
       "temple",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Catedral_de_San_Lorenzo_durante_un_10_de_Agosto.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/8b/Catedral_de_San_Lorenzo_durante_un_10_de_Agosto.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b8/Paraguay_Central.png",
+      "https://upload.wikimedia.org/wikipedia/commons/3/33/SanLorenzoLogo.png"
+    ],
     "overview": "San Lorenzo is one of Paraguay's major cities, home to around 227,876 people.",
     "bestTime": "The dry season (roughly May–September) is ideal",
     "weather": "From highland cool to tropical warmth",
@@ -70539,8 +71811,13 @@ const raw: Gen[] = [
       "cityNight",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/d/df/Calles_de_San_Miguel%2C_El_Salvador.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/df/Calles_de_San_Miguel%2C_El_Salvador.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/2e/Fdpt18102006bmcha43c.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d3/Hospital_Sn_Francisco.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f7/Iglesia_El_Calvario_San_Miguel_El_Salvador.jpg"
+    ],
     "overview": "San Miguel is one of El Salvador's major cities, home to around 247,126 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -70625,8 +71902,10 @@ const raw: Gen[] = [
       "cityNight",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/5/52/San_Miguelito%2C_Panama_-_panoramio_%281%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/52/San_Miguelito%2C_Panama_-_panoramio_%281%29.jpg"
+    ],
     "overview": "San Miguelito is one of Panama's major cities, home to around 321,501 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -70664,9 +71943,14 @@ const raw: Gen[] = [
       "cityNight",
       "alps"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St._Paul%27s_Bay_montage.jpg/1280px-St._Paul%27s_Bay_montage.jpg",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Malta_-_Mellieha_-_Triq_San_Pawl_il-Bahar_01_ies.jpg/1280px-Malta_-_Mellieha_-_Triq_San_Pawl_il-Bahar_01_ies.jpg",
     "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St._Paul%27s_Bay_montage.jpg/1280px-St._Paul%27s_Bay_montage.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Malta_-_Mellieha_-_Triq_San_Pawl_il-Bahar_01_ies.jpg/1280px-Malta_-_Mellieha_-_Triq_San_Pawl_il-Bahar_01_ies.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Malta_-_Mellieha_-_Triq_San_Pawl_il-Bahar_02_ies.jpg/1280px-Malta_-_Mellieha_-_Triq_San_Pawl_il-Bahar_02_ies.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Dawret_Il-Gzejjer%2C_San_Pawl_il-Ba%C4%A7ar%2C_Malta_-_panoramio.jpg/1280px-Dawret_Il-Gzejjer%2C_San_Pawl_il-Ba%C4%A7ar%2C_Malta_-_panoramio.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Boxxla%2C_San_Pawl_il-Ba%C4%A7ar%2C_Malta_-_panoramio.jpg/1280px-Boxxla%2C_San_Pawl_il-Ba%C4%A7ar%2C_Malta_-_panoramio.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/San_Pawl_il-Ba%C4%A7ar_Uferstra%C3%9Fe.jpg/1280px-San_Pawl_il-Ba%C4%A7ar_Uferstra%C3%9Fe.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/San_Pawl_il-Bahar_2017_06.jpg/1280px-San_Pawl_il-Bahar_2017_06.jpg"
     ],
     "overview": "San Pawl il-Baħar is one of Malta's major cities, home to around 32,042 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -70705,8 +71989,14 @@ const raw: Gen[] = [
       "coast",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/5/53/Amigos_del_Mar_Diving_shop_%284861692411%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/53/Amigos_del_Mar_Diving_shop_%284861692411%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/66/Banana_Beach_Resort_from_dock_%284862312468%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/43/Houses_in_San_Pedro_-_panoramio_%283%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/25/Main_Street_San_Pedro%2C_Ambergris_Caye.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/9d/Main_Street_San_Pedro%2C_Ambergris_Caye_2.jpg"
+    ],
     "overview": "San Pedro is one of Belize's major cities, home to around 17,429 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -70887,9 +72177,8 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/d/df/Collage_of_San_Pedro_Sula_Honduras.jpg",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/San_Pedro_Sula_Cathedral.jpg/500px-San_Pedro_Sula_Cathedral.jpg",
     "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Collage_of_San_Pedro_Sula_Honduras.jpg/500px-Collage_of_San_Pedro_Sula_Honduras.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/San_Pedro_Sula_Cathedral.jpg/500px-San_Pedro_Sula_Cathedral.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Panoramica_san_pedro_sula.jpg/960px-Panoramica_san_pedro_sula.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Palaciomunicipal_San_Pedro_Sula.JPG/500px-Palaciomunicipal_San_Pedro_Sula.JPG",
@@ -71231,8 +72520,14 @@ const raw: Gen[] = [
       "food",
       "cityNight"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/a2/ES_Palacio_Municipal_Santa_Ana_05_2012_1597.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/ES_Palacio_Municipal_Santa_Ana_05_2012_1597.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/9/92/ES_Santa_Ana_06_2011_2535.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/49/Estadio_Oscar_A._Quite%C3%B1o.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c0/Metrocentro_Santa_Ana.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6e/Santa_Ana_%28El_Salvador%29_flag.jpg"
+    ],
     "overview": "Santa Ana is one of El Salvador's major cities, home to around 176,661 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -71270,8 +72565,14 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/d/df/Calle_Parque_SC.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/df/Calle_Parque_SC.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/4/42/5_Vidal-Santa-Clara.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/9a/7_Monumento-Santa-Clara.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5e/Che_Guevara_-_Grab_in_Santa_Clara%2C_Kuba.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e9/Hotel_santa_clara_libre.jpg"
+    ],
     "overview": "Santa Clara is one of Cuba's major cities, home to around 250,512 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -71417,8 +72718,14 @@ const raw: Gen[] = [
       "cityNight",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/4/43/Ecoparque.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/43/Ecoparque.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/81/Iglesia_Del_Carmen_Sta_Tecla_LL_2012.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/91/Los_Chorros%2C_Colon%2C_La_Libertad_2012.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e3/Museo_de_Santa_Tecla_2012.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b0/Parque_San_Martin_Santa_Tecla_LL_El_Salvador_2011.jpg"
+    ],
     "overview": "Santa Tecla is one of El Salvador's major cities, home to around 124,694 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -71887,8 +73194,15 @@ const raw: Gen[] = [
       "temple",
       "food"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Collage_Santo_Domingo.png/1280px-Collage_Santo_Domingo.png",
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Ecuador_-_Diocesi_di_Santo_Domingo_de_los_Colorados.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f7/Ecuador_-_Diocesi_di_Santo_Domingo_de_los_Colorados.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Santo_Domingo_de_los_Colorados_from_Cerro_Bombol%C3%AC.jpg/1280px-Santo_Domingo_de_los_Colorados_from_Cerro_Bombol%C3%AC.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Iglesia_de_Santo_Domingo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_202-204_HDR.JPG/1280px-Iglesia_de_Santo_Domingo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_202-204_HDR.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Iglesia_de_Santo_Domingo%2C_Lima%2C_Per%C3%BA%2C_2015-07-28%2C_DD_52-54_HDR.JPG/1280px-Iglesia_de_Santo_Domingo%2C_Lima%2C_Per%C3%BA%2C_2015-07-28%2C_DD_52-54_HDR.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Iglesia_de_Santo_Domingo%2C_Cuenca_01.jpg/1280px-Iglesia_de_Santo_Domingo%2C_Cuenca_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ermita_de_Santo_Domingo%2C_L%C3%A9cera%2C_Zaragoza%2C_Espa%C3%B1a%2C_2017-01-04%2C_DD_103-105_HDR.jpg/1280px-Ermita_de_Santo_Domingo%2C_L%C3%A9cera%2C_Zaragoza%2C_Espa%C3%B1a%2C_2017-01-04%2C_DD_103-105_HDR.jpg"
+    ],
     "overview": "Santo Domingo de los Colorados is one of Ecuador's major cities, home to around 458,580 people.",
     "bestTime": "The dry season (roughly May–September) is ideal",
     "weather": "From highland cool to tropical warmth",
@@ -71986,8 +73300,14 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/5/5e/StoDgoOeste_en_Marcha.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5e/StoDgoOeste_en_Marcha.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/54/Vitilla.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Luniel_100%25urbano.jpg/1280px-Luniel_100%25urbano.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/17/Santo_Domingo_Oeste.png",
+      "https://upload.wikimedia.org/wikipedia/commons/5/58/La_Media_Cancha%2C_Santo_Domingo.png"
+    ],
     "overview": "Santo Domingo Oeste is one of Dominican Republic's major cities, home to around 701,269 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -72474,8 +73794,15 @@ const raw: Gen[] = [
       "food",
       "cityNight"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Tarangire-Natpark800600.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5a/Tarangire-Natpark800600.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/ca/AlentejoPortugal1994.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/37/Australian_savanna.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/83/Bushfire_Australia.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0e/Cordillera_oriental_Colombia.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/3d/Cumberlain_Plain_Woodland6.jpg"
+    ],
     "overview": "Savannah is one of United States's major cities, home to around 147,780 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -72637,8 +73964,15 @@ const raw: Gen[] = [
       "food",
       "cityNight"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/5/58/Seattle_Center_as_night_falls.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/58/Seattle_Center_as_night_falls.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/aa/Abies_lasiocarpa_0775.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/2/2f/Amazon_Spheres_from_6th_Avenue%2C_April_2020.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/96/Benaroya_Hall%2C_Seattle%2C_Washington%2C_USA.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/3d/Birds-eye-view_of_Seattle_and_environs_King_County%2C_Wash.%2C_1891._LOC_75696663.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e7/Boeing_747-100_prototype_N7470_%22City_of_Everett%22_at_Museum_of_Flight_September_2011_3.jpg"
+    ],
     "overview": "Seattle is one of United States's major cities, home to around 737,015 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -72717,8 +74051,15 @@ const raw: Gen[] = [
       "mountains",
       "cityNight"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sector_4%2C_Bucharest%2C_Romania_-_panoramio.jpg/1280px-Sector_4%2C_Bucharest%2C_Romania_-_panoramio.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sector_4%2C_Bucharest%2C_Romania_-_panoramio.jpg/1280px-Sector_4%2C_Bucharest%2C_Romania_-_panoramio.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sector_1%2C_Bucharest%2C_Romania_-_panoramio_-_Luca_Sironi.jpg/1280px-Sector_1%2C_Bucharest%2C_Romania_-_panoramio_-_Luca_Sironi.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/11/Sector_1%2C_Bucharest%2C_Romania_-_panoramio_-_Costel_Munteanu_%283%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Sector_4%2C_Bucharest%2C_Romania_-_panoramio_%281%29.jpg/1280px-Sector_4%2C_Bucharest%2C_Romania_-_panoramio_%281%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sector_1%2C_Bucharest%2C_Romania_-_panoramio_%288%29.jpg/1280px-Sector_1%2C_Bucharest%2C_Romania_-_panoramio_%288%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sector_2%2C_Bucharest%2C_Romania_-_panoramio.jpg/1280px-Sector_2%2C_Bucharest%2C_Romania_-_panoramio.jpg"
+    ],
     "overview": "Sector 3 is one of Romania's major cities, home to around 385,439 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -72918,9 +74259,8 @@ const raw: Gen[] = [
       "desertCamp",
       "sahara"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/2/22/Sekondi-Takoradi_Montage.jpg",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/The_Desert_Air_Force%2C_1943_TR824.jpg/500px-The_Desert_Air_Force%2C_1943_TR824.jpg",
     "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Sekondi-Takoradi_Montage.jpg/500px-Sekondi-Takoradi_Montage.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/The_Desert_Air_Force%2C_1943_TR824.jpg/500px-The_Desert_Air_Force%2C_1943_TR824.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_National_Archives_UK_-_CO_1069-37-18.jpg/500px-The_National_Archives_UK_-_CO_1069-37-18.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ISS018-E-38139_-_View_of_Ghana.jpg/1280px-ISS018-E-38139_-_View_of_Ghana.jpg",
@@ -73314,8 +74654,15 @@ const raw: Gen[] = [
       "coast",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Kit_body_croatia_sesvete_away.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/4f/Kit_body_croatia_sesvete_away.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/SRC_Sesvete_2009.jpg/1280px-SRC_Sesvete_2009.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/SRC_Sesvete_2011.jpg/1280px-SRC_Sesvete_2011.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sesvete%2C_hlavn%C3%AD_silnice_sm%C4%9Br_Z%C3%A1h%C5%99eb_II.jpg/1280px-Sesvete%2C_hlavn%C3%AD_silnice_sm%C4%9Br_Z%C3%A1h%C5%99eb_II.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Sesvete%2C_hlavn%C3%AD_t%C5%99%C3%ADda.jpg/1280px-Sesvete%2C_hlavn%C3%AD_t%C5%99%C3%ADda.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sesvete%2C_kostel.jpg/1280px-Sesvete%2C_kostel.jpg"
+    ],
     "overview": "Sesvete is one of Croatia's major cities, home to around 55,313 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -73481,8 +74828,15 @@ const raw: Gen[] = [
       "alps",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Sevilla_Cathedral_-_Southeast.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/2b/Sevilla_Cathedral_-_Southeast.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/8d/%28Sevilla%29_Seville%2C_Spain_%2849104522676%29_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/33/15.06.13-Toma-7-_posesi%C3%B3n_Juan_Espadas_%2818154377593%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/09/17401532982_c1e3546763_o_feria_de_abril_2012.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/09/8714202852_f852db384b_o_feria_de_abril.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d4/Avenida_de_la_Constitucion_Sevilla.jpg"
+    ],
     "overview": "Seville is one of Spain's major cities, home to around 688,711 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -73885,8 +75239,15 @@ const raw: Gen[] = [
       "temple",
       "desertCamp"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Sharm_El_Sheikh_-_panoramio_%2815%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/ac/Sharm_El_Sheikh_-_panoramio_%2815%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0e/03_SOHO_Square.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/2f/Bottle-nosed_Dolphin_by_Hatem_Moushir.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/2/2f/COP_27_John_Kerry.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/2f/Coral_reef_in_Ras_Muhammad_nature_park.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/f/fb/Direct_talks_in_Sharm_El_Sheikh%2C_Egypt%2C_on_September_14%2C_2010_2.jpg"
+    ],
     "overview": "Sharm El Sheikh is one of Egypt's major cities, home to around 73,000 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -74072,8 +75433,15 @@ const raw: Gen[] = [
       "food",
       "lantern"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Shengavit_Metro_Station%2C_the_entrance0587.jpg/1280px-Shengavit_Metro_Station%2C_the_entrance0587.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Shengavit_Metro_Station%2C_the_entrance0587.jpg/1280px-Shengavit_Metro_Station%2C_the_entrance0587.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Shengavit_Metro_Station%2C_Yerevan%2C_Armenia.jpg/1280px-Shengavit_Metro_Station%2C_Yerevan%2C_Armenia.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Panoramic_view_of_Shengavit_District%2C_Armenia.jpg/1280px-Panoramic_view_of_Shengavit_District%2C_Armenia.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Verin_Shengavit_2_street%2C_Shengavit_District%2C_Yerevan%2C_Armenia.jpg/1280px-Verin_Shengavit_2_street%2C_Shengavit_District%2C_Yerevan%2C_Armenia.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Verin_Shengavit_2_street%2C_Shengavit_District%2C_Yerevan%2C_Armenia_01.jpg/1280px-Verin_Shengavit_2_street%2C_Shengavit_District%2C_Yerevan%2C_Armenia_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Building_in_Nerkin_Shengavit_quarter.jpg/1280px-Building_in_Nerkin_Shengavit_quarter.jpg"
+    ],
     "overview": "Shengavit is one of Armenia's major cities, home to around 140,600 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -74468,13 +75836,13 @@ const raw: Gen[] = [
       "coast",
       "beach"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/5/56/3-D_Building_on_Google_Map_-_panoramio.jpg",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/0/05/Beauty_Of_Egypt.JPG",
     "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/ShubraPalaceFacade.jpg/500px-ShubraPalaceFacade.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%B7%D8%B1_%D8%A7%D9%84%D8%AE%D9%8A%D8%B1%D9%8A%D8%A9_-_%D8%A7%D9%84%D9%82%D9%84%D9%8A%D9%88%D8%A8%D9%8A%D8%A9.jpg/1280px-%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%B7%D8%B1_%D8%A7%D9%84%D8%AE%D9%8A%D8%B1%D9%8A%D8%A9_-_%D8%A7%D9%84%D9%82%D9%84%D9%8A%D9%88%D8%A8%D9%8A%D8%A9.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ShubraPalaceNymphaeum.jpg/500px-ShubraPalaceNymphaeum.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/%D9%83%D9%86%D9%8A%D8%B3%D8%A9_%D8%B3%D8%A7%D9%86%D8%AA_%D8%AA%D8%B1%D9%8A%D8%B2%D8%A7.jpg/250px-%D9%83%D9%86%D9%8A%D8%B3%D8%A9_%D8%B3%D8%A7%D9%86%D8%AA_%D8%AA%D8%B1%D9%8A%D8%B2%D8%A7.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Shubra_El-Kheima_20110125.jpg/250px-Shubra_El-Kheima_20110125.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/0/05/Beauty_Of_Egypt.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/0/03/Giza-Nile.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/6/65/ShubraPalaceFacade.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/38/ShubraPalaceNymphaeum.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/22/Shubra_El-Kheima_20110125.jpg"
     ],
     "overview": "Shubrā al Khaymah is one of Egypt's major cities, home to around 1,240,289 people.",
     "bestTime": "The dry season for the most comfortable travel",
@@ -75183,7 +76551,7 @@ const raw: Gen[] = [
       "cityNight",
       "alps"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sliema_montage.png",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Parroquia_de_Sliema.jpg/500px-Parroquia_de_Sliema.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Parroquia_de_Sliema.jpg/500px-Parroquia_de_Sliema.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Construction_of_the_Sliema_promenade%2C_Malta.jpg/250px-Construction_of_the_Sliema_promenade%2C_Malta.jpg",
@@ -75414,9 +76782,8 @@ const raw: Gen[] = [
       "food",
       "lantern"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sokhumi_Collage.jpg/1280px-Sokhumi_Collage.jpg",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Colchis_coin.jpg",
     "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sokhumi_Collage.jpg/1280px-Sokhumi_Collage.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/d/d5/Colchis_coin.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Gamba_-_view_of_sukhumi_fortress.JPG/330px-Gamba_-_view_of_sukhumi_fortress.JPG",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Botanical_garden.Sukhum.jpg/1280px-Botanical_garden.Sukhum.jpg",
@@ -75603,8 +76970,15 @@ const raw: Gen[] = [
       "desertCamp",
       "sahara"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Zambia_Solwezi_District.png/1280px-Zambia_Solwezi_District.png",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Zambia_Solwezi_District.png/1280px-Zambia_Solwezi_District.png",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c2/ZM-Solwezi.png",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6a/COLLECTIE_TROPENMUSEUM_Onbegaanbare_weg_in_de_regentijd_in_de_omgeving_van_Solwezi_TMnr_20039277.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/06/COLLECTIE_TROPENMUSEUM_President_Kaunda_spreekt_de_bevolking_toe_tijdens_zijn_bezoek_aan_Solwezi_TMnr_20014722.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/bf/Zambia_-_Diocesi_di_Solwezi.png",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d1/Solwezi_District%2C_Zambia_2022.png"
+    ],
     "overview": "Solwezi is one of Zambia's major cities, home to around 301,370 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -75983,8 +77357,15 @@ const raw: Gen[] = [
       "temple",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Split_080620-133710-IMG_0968x.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/ab/Split_080620-133710-IMG_0968x.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c8/2015_UEFA_Super_Cup_62.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0a/Ante_Zizic_%2832651797807%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Bratislava_Vienna_night_train_in_Split_%2853235729046%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/2c/Brodosplit_-_juice_carrier.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/7/74/Bundesarchiv_B_145_Bild-F016229-0008%2C_Italienisches_Kriegsschiff_im_Hafen_von_Split.jpg"
+    ],
     "overview": "Split is one of Croatia's major cities, home to around 149,830 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -76667,8 +78048,15 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/LaSoukra1Tunisia.JPG/1280px-LaSoukra1Tunisia.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/LaSoukra1Tunisia.JPG/1280px-LaSoukra1Tunisia.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Route_nationale_n%C2%B010_-_Tunisie.jpg/1280px-Route_nationale_n%C2%B010_-_Tunisie.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Aqueducs_romains_pr%C3%A9s_de_la_soukra_6.JPG/1280px-Aqueducs_romains_pr%C3%A9s_de_la_soukra_6.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Aqueducs_romains_pr%C3%A9s_de_la_soukra_10.JPG/1280px-Aqueducs_romains_pr%C3%A9s_de_la_soukra_10.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aqueducs_romains_pr%C3%A9s_de_la_soukra_11.JPG/1280px-Aqueducs_romains_pr%C3%A9s_de_la_soukra_11.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Aqueducs_romains_pr%C3%A9s_de_la_soukra_12.JPG/1280px-Aqueducs_romains_pr%C3%A9s_de_la_soukra_12.JPG"
+    ],
     "overview": "Sukrah is one of Tunisia's major cities, home to around 159,862 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -76747,8 +78135,15 @@ const raw: Gen[] = [
       "lantern",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Main_building_of_Hospital_Pakar_Sultanah_Fatimah.JPG/1280px-Main_building_of_Hospital_Pakar_Sultanah_Fatimah.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Main_building_of_Hospital_Pakar_Sultanah_Fatimah.JPG/1280px-Main_building_of_Hospital_Pakar_Sultanah_Fatimah.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Sultanah_Nora_Ismail_Hospital_4.jpg/1280px-Sultanah_Nora_Ismail_Hospital_4.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Show_Your_Stripes_change_in_temperature_graphic_for_Saudi_Arabia%2C_Sul%C5%A3%C4%81nah.png/1280px-Show_Your_Stripes_change_in_temperature_graphic_for_Saudi_Arabia%2C_Sul%C5%A3%C4%81nah.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Show_Your_Stripes_change_in_temperature_graphic_for_Sul%C5%A3%C4%81nah%2C_Saudi_Arabia_with_bars.png/1280px-Show_Your_Stripes_change_in_temperature_graphic_for_Sul%C5%A3%C4%81nah%2C_Saudi_Arabia_with_bars.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Show_Your_Stripes_change_in_temperature_graphic_for_Sul%C5%A3%C4%81nah%2C_Saudi_Arabia_with_bars_with_labels.png/1280px-Show_Your_Stripes_change_in_temperature_graphic_for_Sul%C5%A3%C4%81nah%2C_Saudi_Arabia_with_bars_with_labels.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Show_Your_Stripes_change_in_temperature_graphic_for_Sul%C5%A3%C4%81nah%2C_Saudi_Arabia_with_labels.png/1280px-Show_Your_Stripes_change_in_temperature_graphic_for_Sul%C5%A3%C4%81nah%2C_Saudi_Arabia_with_labels.png"
+    ],
     "overview": "Sulţānah is one of Saudi Arabia's major cities, home to around 946,697 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -77763,8 +79158,15 @@ const raw: Gen[] = [
       "temple",
       "cityNight"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Taipei_Skyline_2022.06.29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/ea/Taipei_Skyline_2022.06.29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c4/101.typhoon.altonthompson.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e0/2010_07_20770_6691_Da%27an_District%2C_Taipei%2C_Daan_Park%2C_Taiwan.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/bf/2010_07_21240_6773_Da%27an_District%2C_Taipei%2C_Daan_Park%2C_Washingtonia_filifera%2C_Taiwan.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/6/64/2014-02-23_%E5%8F%B0%E5%8C%97_Taipei_from_%E8%B2%93%E7%A9%BA_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a7/A03-28.jpg"
+    ],
     "overview": "Taipei is the capital of Taiwan, home to around 2,602,418 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -77847,8 +79249,15 @@ const raw: Gen[] = [
       "temple",
       "cityNight"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Ta_Prohm_%28Takeo%29.JPG/1280px-Ta_Prohm_%28Takeo%29.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Ta_Prohm_%28Takeo%29.JPG/1280px-Ta_Prohm_%28Takeo%29.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Takeo_restaurant.JPG/1280px-Takeo_restaurant.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Takeo_Psar_Nat.JPG/1280px-Takeo_Psar_Nat.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Takeo_pont.JPG/1280px-Takeo_pont.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/b/bc/Takeo_Independence_Monument_4051.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/ef/Takeo_Province.jpg"
+    ],
     "overview": "Takeo is one of Cambodia's major cities, home to around 843,931 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -77923,9 +79332,8 @@ const raw: Gen[] = [
       "coast",
       "beach"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/2/22/Sekondi-Takoradi_Montage.jpg",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/The_Desert_Air_Force%2C_1943_TR824.jpg/500px-The_Desert_Air_Force%2C_1943_TR824.jpg",
     "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Sekondi-Takoradi_Montage.jpg/500px-Sekondi-Takoradi_Montage.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/The_Desert_Air_Force%2C_1943_TR824.jpg/500px-The_Desert_Air_Force%2C_1943_TR824.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_National_Archives_UK_-_CO_1069-37-18.jpg/500px-The_National_Archives_UK_-_CO_1069-37-18.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ISS018-E-38139_-_View_of_Ghana.jpg/1280px-ISS018-E-38139_-_View_of_Ghana.jpg",
@@ -78010,8 +79418,10 @@ const raw: Gen[] = [
       "sahara",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Buckshot_War_-_%28miscellaneous_papers%29_%28IA_buckshotwarmisce00unse%29.pdf/page1-960px-Buckshot_War_-_%28miscellaneous_papers%29_%28IA_buckshotwarmisce00unse%29.pdf.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Buckshot_War_-_%28miscellaneous_papers%29_%28IA_buckshotwarmisce00unse%29.pdf/page1-960px-Buckshot_War_-_%28miscellaneous_papers%29_%28IA_buckshotwarmisce00unse%29.pdf.jpg"
+    ],
     "overview": "Talinding is one of Gambia's major cities, home to around 48,687 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -78351,9 +79761,8 @@ const raw: Gen[] = [
       "mountains",
       "cityNight"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Tampere_Montage_1.jpg/1280px-Tampere_Montage_1.jpg",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Messukyl%C3%A4_Old_Church.jpg/1280px-Messukyl%C3%A4_Old_Church.jpg",
     "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Tampere_Montage_1.jpg/1280px-Tampere_Montage_1.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Messukyl%C3%A4_Old_Church.jpg/1280px-Messukyl%C3%A4_Old_Church.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Tampere_1837.jpg/500px-Tampere_1837.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tampereen_kaupungintalo.JPG/1280px-Tampereen_kaupungintalo.JPG",
@@ -78515,8 +79924,11 @@ const raw: Gen[] = [
       "food",
       "lantern"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Every_Kids_Escapade%2C_Tampines_Playground.jpg/1280px-Every_Kids_Escapade%2C_Tampines_Playground.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Every_Kids_Escapade%2C_Tampines_Playground.jpg/1280px-Every_Kids_Escapade%2C_Tampines_Playground.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Housing_a_Nation_25_Years_of_Public_Housing_in_Singapore_%281985%29.pdf/page1-960px-Housing_a_Nation_25_Years_of_Public_Housing_in_Singapore_%281985%29.pdf.jpg"
+    ],
     "overview": "Tampines Estate is one of Singapore's major cities, home to around 265,340 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -78554,8 +79966,14 @@ const raw: Gen[] = [
       "beach",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/0/01/StMariaFausTinaChapel.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/01/StMariaFausTinaChapel.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/96/1024px_Honiara_suburban_map_of_Solomon_Islands.png",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0a/BishopDale.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d5/TandaiChristianLifeCenter.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c7/TandaiOxfam.jpg"
+    ],
     "overview": "Tandai is one of Solomon Islands's major cities, home to around 24,592 people.",
     "bestTime": "The warmer, drier months for the outdoors",
     "weather": "Mild to tropical, with plenty of sunshine",
@@ -79622,8 +81040,10 @@ const raw: Gen[] = [
       "temple",
       "desertCamp"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Tetesuspensionbridge.JPG",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/b3/Tetesuspensionbridge.JPG"
+    ],
     "overview": "Tete is one of Mozambique's major cities, home to around 357,000 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -80106,8 +81526,12 @@ const raw: Gen[] = [
       "mountains",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/99/Thies.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/99/Thies.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6e/Gare_ferroviaire_de_Thi%C3%A8s.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c7/TRANSPORT_SENEGAL_USINE_SENBUS_14.jpg"
+    ],
     "overview": "Thiès is one of Senegal's major cities, home to around 317,763 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -81106,8 +82530,10 @@ const raw: Gen[] = [
       "desertCamp",
       "sahara"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Maheswarnath_Shiv_Mandir_%286%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/8a/Maheswarnath_Shiv_Mandir_%286%29.jpg"
+    ],
     "overview": "Triolet is one of Mauritius's major cities, home to around 24,361 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -81145,8 +82571,15 @@ const raw: Gen[] = [
       "mountains",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/2/27/Mansouri_Great_Mosque_in_Tripoli.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/27/Mansouri_Great_Mosque_in_Tripoli.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/31/Al-Burtasi_Mosque_in_Tripoli%2C_Lebanon_03.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/97/AnNuriHammamTripoliLebanon.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/00/Downtown_Tripoli%2C_Mamluk_style%2C_Tripoli%2C_Lebanon.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/05/Hammam_al-Jadid_03.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/02/Le_ch%C3%A2teau_Saint-Gilles_%C3%A0_Tripoli_-_Liban.jpg"
+    ],
     "overview": "Tripoli is one of Lebanon's major cities, home to around 229,398 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -81253,8 +82686,15 @@ const raw: Gen[] = [
       "desertCamp",
       "sahara"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Tripoli_at_night.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/8d/Tripoli_at_night.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/06/A_Mapp_of_the_Citie_and_Port_of_Tripoli_in_Barbary_-_by_John_Seller_1675.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/4/49/Ahmed_Pasha_Karamanli_Mosque_Interior_Tripoli_Libya.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/3/3d/Al-Saraya_al-Hamra_Fortress%2C_Tripoli_%285282695461%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/8e/Ancient_castle_-_panoramio.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Burning_of_the_uss_philadelphia.jpg"
+    ],
     "overview": "Tripoli is the capital of Libya, home to around 1,302,947 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -81497,8 +82937,15 @@ const raw: Gen[] = [
       "beach",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Freedom_Monument%2C_Trujillo.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/ed/Freedom_Monument%2C_Trujillo.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/8b/AdmisionUcvTrujillo.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Airport_Trujillo_Peru.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/95/Bas%C3%ADlica_Catedral_de_Trujillo.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/37/Bypasss.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/09/Caballito_de_totora_ceramica_mochica.jpg"
+    ],
     "overview": "Trujillo is one of Peru's major cities, home to around 1,067,700 people.",
     "bestTime": "The dry season (roughly May–September) is ideal",
     "weather": "From highland cool to tropical warmth",
@@ -81577,8 +83024,15 @@ const raw: Gen[] = [
       "food",
       "cityNight"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/85/Tulum_2.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/85/Tulum_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e8/001_El_Castillo_o_templo_de_Kukulkan._Chich%C3%A9n_Itz%C3%A1%2C_M%C3%A9xico._MPLC.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e2/Autre_partie_des_Ruines_de_Tulum.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/20/Caribbean_near_Tulum.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/39/CastilloTulum.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/26/Castillo_Windows.JPG"
+    ],
     "overview": "Tulum is one of Mexico's major cities, home to around 46,721 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -81896,8 +83350,14 @@ const raw: Gen[] = [
       "beach",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/7/74/The_oil-soaked_jewel_of_the_Caspian_-_Turkmenbashi._%283891715567%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/74/The_oil-soaked_jewel_of_the_Caspian_-_Turkmenbashi._%283891715567%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a8/Alcyone_Turkmenbashy_1998.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/25/Railway_station_in_Krasnovodsk_%28now_T%C3%BCrkmenba%C5%9Fy%29%2C_Turkmenistan_%281902%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c9/Relief_Map_of_Turkmenistan.png",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d6/Turkmenbashi2.jpg"
+    ],
     "overview": "Türkmenbaşy is one of Turkmenistan's major cities, home to around 91,745 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -82071,8 +83531,15 @@ const raw: Gen[] = [
       "coast",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sufri_Bolkiah_Secondary_School_in_Tutong%2C_Brunei_%28DSCF1452%29.jpg/1280px-Sufri_Bolkiah_Secondary_School_in_Tutong%2C_Brunei_%28DSCF1452%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sufri_Bolkiah_Secondary_School_in_Tutong%2C_Brunei_%28DSCF1452%29.jpg/1280px-Sufri_Bolkiah_Secondary_School_in_Tutong%2C_Brunei_%28DSCF1452%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tutong_Sports_Complex_in_Tutong%2C_Brunei_%28DSCF1459%29.jpg/1280px-Tutong_Sports_Complex_in_Tutong%2C_Brunei_%28DSCF1459%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Tutong_Sports_Complex_in_Tutong%2C_Brunei_%28DSCF1461%29.jpg/1280px-Tutong_Sports_Complex_in_Tutong%2C_Brunei_%28DSCF1461%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Tutong_District_Office_in_Tutong%2C_Brunei_%28DSCF2105%29.jpg/1280px-Tutong_District_Office_in_Tutong%2C_Brunei_%28DSCF2105%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tutong_District_Office_in_Tutong%2C_Brunei_%28DSCF2104%29.jpg/1280px-Tutong_District_Office_in_Tutong%2C_Brunei_%28DSCF2104%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tutong_Post_Office_in_Tutong%2C_Brunei_%28DSCF2106%29.jpg/1280px-Tutong_Post_Office_in_Tutong%2C_Brunei_%28DSCF2106%29.jpg"
+    ],
     "overview": "Tutong is one of Brunei's major cities, home to around 19,151 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -82233,8 +83700,15 @@ const raw: Gen[] = [
       "coast",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/c/cc/SubmergedEgyptianHarbour_TyreSour_Lebanon_RomanDeckert04112019.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/cc/SubmergedEgyptianHarbour_TyreSour_Lebanon_RomanDeckert04112019.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/8d/209_Dido.png",
+      "https://upload.wikimedia.org/wikipedia/commons/5/56/A_pictorial_commentary_on_the_Gospel_according_to_Mark_-_with_the_text_of_the_Authorized_and_Revised_versions_%281881%29_%2814780353464%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/ca/Album_de_voyage_en_Orient%2C_CSR_AG_318%2804%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/85/As%27ad_AbuKhalil2.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/a/ae/AvenueDuSenegalSign_TyreSourLebanon_RomanDeckert11112018.jpg"
+    ],
     "overview": "Tyre is one of Lebanon's major cities, home to around 135,204 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -82317,8 +83791,15 @@ const raw: Gen[] = [
       "cityNight",
       "coast"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Evening_view%2C_City_Palace%2C_Udaipur.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Evening_view%2C_City_Palace%2C_Udaipur.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5c/20191207_City_Palace%2C_Udaipur_1701_7325.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/54/A_dusk_view_of_Lake_Palace_Udaipur_Rajasthan_India.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/57/A_view_of_Udaipur_Rajasthan_India_March_2015_d.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4d/A_view_of_Villages_and_farms_in_south_Rajasthan_India.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Airport-Udaipur_Terminal.JPG"
+    ],
     "overview": "Udaipur is one of India's major cities, home to around 451,100 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -82527,8 +84008,10 @@ const raw: Gen[] = [
       "temple",
       "cityNight"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Azad_Hind_-_English_-_Vol._2_-_No._88_-_1945-04-17.pdf/page1-1280px-Azad_Hind_-_English_-_Vol._2_-_No._88_-_1945-04-17.pdf.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Azad_Hind_-_English_-_Vol._2_-_No._88_-_1945-04-17.pdf/page1-1280px-Azad_Hind_-_English_-_Vol._2_-_No._88_-_1945-04-17.pdf.jpg"
+    ],
     "overview": "Ulu Bedok is one of Singapore's major cities, home to around 276,990 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -82805,8 +84288,15 @@ const raw: Gen[] = [
       "beach",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Uyuni_Potosi_Ave_Aerial.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/cd/Uyuni_Potosi_Ave_Aerial.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/bd/Estaci%C3%B3n_de_Ferrocarril_Uyuni%2C_Potos%C3%AD_-_Bolivia.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/32/Isla_del_Pescado%2C_Salar_de_Uyuni%2C_Bolivia%2C_2016-02-04%2C_DD_38.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/9/9a/Locomotora%2C_Av._Feeroviaria_Uyuni.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/37/Salar_de_Uyuni%2C_Bolivia%2C_2016-02-04%2C_DD_16-18_HDR.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/8/8b/Town_Centre_Uyuni_Bolivia.jpg"
+    ],
     "overview": "Uyuni is one of Bolivia's major cities, home to around 30,000 people.",
     "bestTime": "The dry season (roughly May–September) is ideal",
     "weather": "From highland cool to tropical warmth",
@@ -83500,8 +84990,15 @@ const raw: Gen[] = [
       "coast",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/3/33/Skyline_of_Vancouver%2C_Canada.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/33/Skyline_of_Vancouver%2C_Canada.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1a/2010-08_750_Burrard_Street.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/cc/3rd_Beach%2C_Vancouver%2C_BC_-_panoramio.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5a/A_look_downtown_%28759827996%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/aa/Abies_lasiocarpa_0775.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b0/BC_Place_Stadium_-_panoramio.jpg"
+    ],
     "overview": "Vancouver is one of Canada's major cities, home to around 662,248 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -83539,9 +85036,8 @@ const raw: Gen[] = [
       "mountains",
       "cityNight"
     ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/e7/VantaaMontage1%28jpg%29.jpg",
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pyh%C3%A4n_Laurin_kirkko.jpg/500px-Pyh%C3%A4n_Laurin_kirkko.jpg",
     "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/VantaaMontage1%28jpg%29.jpg/500px-VantaaMontage1%28jpg%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pyh%C3%A4n_Laurin_kirkko.jpg/500px-Pyh%C3%A4n_Laurin_kirkko.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Vanhankaupunginkoski2.jpg/1280px-Vanhankaupunginkoski2.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Tikkurila_railway_station.jpg/1280px-Tikkurila_railway_station.jpg",
@@ -83659,8 +85155,15 @@ const raw: Gen[] = [
       "mountains",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Varanasi%2C_India%2C_Ghats%2C_Cremation_ceremony_in_progress.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/0e/Varanasi%2C_India%2C_Ghats%2C_Cremation_ceremony_in_progress.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/52/20160628_021143293_iOS.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0c/Alamgir_Mosque_by_the_Ganges_ghats%2C_Varanasi.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b8/BHU_Main_Gate%2C_Banaras_Hindu_University_enhanced.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f0/Banarasi_sari_pallu_by_ashish4.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/b/bc/Bathing_Ghat_Banaras_India_1890.jpg"
+    ],
     "overview": "Varanasi is one of India's major cities, home to around 1,198,491 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -83698,8 +85201,14 @@ const raw: Gen[] = [
       "food",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/a9/1877-11-30%2C_La_Ilustraci%C3%B3n_Espa%C3%B1ola_y_Americana%2C_Cr%C3%B3nica_ilustrada_de_la_Guerra_de_Oriente_%28cropped%29_Vista_general_de_Varna%2C_tomada_desde_el_mar.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a9/1877-11-30%2C_La_Ilustraci%C3%B3n_Espa%C3%B1ola_y_Americana%2C_Cr%C3%B3nica_ilustrada_de_la_Guerra_de_Oriente_%28cropped%29_Vista_general_de_Varna%2C_tomada_desde_el_mar.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c7/Admiralty_Varna.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7a/BG_FONTAN_VARNA_06.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e1/BG_Golden_Sands.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7e/Briz_House.JPG"
+    ],
     "overview": "Varna is one of Bulgaria's major cities, home to around 318,737 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",
@@ -84068,8 +85577,10 @@ const raw: Gen[] = [
       "coast",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/5/53/Acail_Angola_-_Viana_-_panoramio.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/53/Acail_Angola_-_Viana_-_panoramio.jpg"
+    ],
     "overview": "Viana is one of Angola's major cities, home to around 865,863 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -84107,8 +85618,15 @@ const raw: Gen[] = [
       "desertCamp",
       "sahara"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Victoria_clock_tower.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f0/Victoria_clock_tower.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/ce/Hindu_Temple_Victoria_Seychelles_Islands_of_Africa.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/50/Port_Victoria%2C_Seychelles_-_panoramio.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b8/State_House_Seychelles.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/05/Victoria%2C_seychelles_seal.png",
+      "https://upload.wikimedia.org/wikipedia/commons/2/2c/Victoria_Clock_Tower_-_Seychelles.JPG"
+    ],
     "overview": "Victoria is the capital of Seychelles, home to around 22,881 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -84146,8 +85664,14 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/d/da/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_04.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/da/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_04.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/13/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_16-20_PAN.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f4/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_36-43_PAN.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b7/Satellite_view_of_Victoria_Falls.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/08/VicFallsSwim.jpg"
+    ],
     "overview": "Victoria Falls is one of Zimbabwe's major cities, home to around 35,000 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -84388,8 +85912,15 @@ const raw: Gen[] = [
       "food",
       "cityNight"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/4/49/View_of_eruption_of_Fuego_Volcano_from_Guatemala_City.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/49/View_of_eruption_of_Fuego_Volcano_from_Guatemala_City.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/89/Bulevar_El_Frutal_-_Villa_Nueva.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/59/Entre_Valles_y_Solana_-_52173147221.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/72/GuatemalaGUAT.PNG",
+      "https://upload.wikimedia.org/wikipedia/commons/0/02/Mariano_Rivera_Paz.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a8/Panoramic_view_of_south_Guatemala_city.jpg"
+    ],
     "overview": "Villa Nueva is one of Guatemala's major cities, home to around 618,397 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -84899,8 +86430,15 @@ const raw: Gen[] = [
       "mountains",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/%C5%A0VICARSKA_VURA_-_panoramio.jpg/1280px-%C5%A0VICARSKA_VURA_-_panoramio.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/%C5%A0VICARSKA_VURA_-_panoramio.jpg/1280px-%C5%A0VICARSKA_VURA_-_panoramio.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ribbon_cutting_ceremony_in_Solomon_Islands_150724-N-MK341-056.jpg/1280px-Ribbon_cutting_ceremony_in_Solomon_Islands_150724-N-MK341-056.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ribbon_cutting_ceremony_in_Solomon_Islands_150724-N-MK341-036.jpg/1280px-Ribbon_cutting_ceremony_in_Solomon_Islands_150724-N-MK341-036.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ribbon_cutting_ceremony_in_Solomon_Islands_150724-N-MK341-034.jpg/1280px-Ribbon_cutting_ceremony_in_Solomon_Islands_150724-N-MK341-034.jpg",
+      "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/0/05/Douglas_Ete_at_ceremony_%28cropped%29.jpg"
+    ],
     "overview": "Vura is one of Solomon Islands's major cities, home to around 18,753 people.",
     "bestTime": "The warmer, drier months for the outdoors",
     "weather": "Mild to tropical, with plenty of sunshine",
@@ -85015,8 +86553,14 @@ const raw: Gen[] = [
       "mountains",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Thomas_Schaaf_-_SV_Werder_Bremen_%283%29.jpg/1280px-Thomas_Schaaf_-_SV_Werder_Bremen_%283%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Thomas_Schaaf_-_SV_Werder_Bremen_%283%29.jpg/1280px-Thomas_Schaaf_-_SV_Werder_Bremen_%283%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a8/Warder.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/August_von_Werder_BNF_Gallica.jpg/1280px-August_von_Werder_BNF_Gallica.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Heilig-Geist-Kirche%2C_Werder_%28Havel%29%2C_150912%2C_ako.jpg/1280px-Heilig-Geist-Kirche%2C_Werder_%28Havel%29%2C_150912%2C_ako.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Rehfelde_Werder_Dorfkirche_Werder_S%C3%BCdostansicht.jpg/1280px-Rehfelde_Werder_Dorfkirche_Werder_S%C3%BCdostansicht.jpg"
+    ],
     "overview": "Warder is one of Ethiopia's major cities, home to around 450,400 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -85112,8 +86656,14 @@ const raw: Gen[] = [
       "coast",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/e4/12-07-13-washington-by-RalfR-08.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/e4/12-07-13-washington-by-RalfR-08.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5b/-i---i-_%2852380995447%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/cf/2009_DC_Proof.png",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5a/2014_Marine_Corps_Marathon_in_front_of_US_Botoanic_Garden.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1c/2018.06.07_Capital_Pride_Heroes_Gala%2C_Washington%2C_DC_USA_02927_%2841954942214%29.jpg"
+    ],
     "overview": "Washington, D.C. is the capital of United States, home to around 689,545 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
     "weather": "Diverse — temperate to subtropical",
@@ -85151,8 +86701,13 @@ const raw: Gen[] = [
       "coast",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ACOTA_Training_in_Sierra_Leone_-_Flickr_-_US_Army_Africa_%281%29.jpg/1280px-ACOTA_Training_in_Sierra_Leone_-_Flickr_-_US_Army_Africa_%281%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ACOTA_Training_in_Sierra_Leone_-_Flickr_-_US_Army_Africa_%281%29.jpg/1280px-ACOTA_Training_in_Sierra_Leone_-_Flickr_-_US_Army_Africa_%281%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/ACOTA_Training_in_Sierra_Leone_-_Flickr_-_US_Army_Africa_%282%29.jpg/1280px-ACOTA_Training_in_Sierra_Leone_-_Flickr_-_US_Army_Africa_%282%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/ACOTA_Training_in_Sierra_Leone_-_Flickr_-_US_Army_Africa_%283%29.jpg/1280px-ACOTA_Training_in_Sierra_Leone_-_Flickr_-_US_Army_Africa_%283%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ACOTA_Training_in_Sierra_Leone_-_Flickr_-_US_Army_Africa_%2811%29.jpg/1280px-ACOTA_Training_in_Sierra_Leone_-_Flickr_-_US_Army_Africa_%2811%29.jpg"
+    ],
     "overview": "Waterloo is one of Sierra Leone's major cities, home to around 55,000 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -85198,8 +86753,14 @@ const raw: Gen[] = [
       "mountains",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/6/6b/St_Mary_Cathedral%2C_Wau.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/6b/St_Mary_Cathedral%2C_Wau.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/2d/Cattle_market_Wau.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/ec/Huts_outside_Wau%2CSudan.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4f/University_of_Bahr_El-Ghazal_In_2009.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5d/Wau_refugee_camp_2.png"
+    ],
     "overview": "Wau is one of South Sudan's major cities, home to around 127,384 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -85522,8 +87083,10 @@ const raw: Gen[] = [
       "desertCamp",
       "sahara"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/6/6b/St_Mary_Cathedral%2C_Wau.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/6b/St_Mary_Cathedral%2C_Wau.jpg"
+    ],
     "overview": "Winejok is one of South Sudan's major cities, home to around 300,000 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -85991,8 +87554,15 @@ const raw: Gen[] = [
       "beach",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/3/32/City_wall_of_Xi%27an_51550-Xian_%2827959363326%29.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/32/City_wall_of_Xi%27an_51550-Xian_%2827959363326%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/2f/2023-10-09_Drum_Tower_of_Xi%27an_%28%E8%A5%BF%E5%AE%89%E9%BC%93%E6%A8%93%29_03.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/ba/2023-10-10_Giant_Wild_Goose_Pagoda_%E5%A4%A7%E9%9B%81%E5%A1%94_02.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b0/2023-10-10_Shaanxi_History_Museum_%E9%99%9D%E8%A5%BF%E6%AD%B7%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A4%A8_02.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a1/51514-Xian-Pano_%2827759087230%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/88/51714-Terracota-Army.jpg"
+    ],
     "overview": "Xi'an is one of China's major cities, home to around 12,953,000 people.",
     "bestTime": "November–March for cooler, drier conditions",
     "weather": "Varies from tropical to temperate depending on the season",
@@ -86475,8 +88045,14 @@ const raw: Gen[] = [
       "mountains",
       "temple"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Yei_Sudan_landscape.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f3/Yei_Sudan_landscape.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Radio_broadcaster_in_Yei%2C_Sudan.jpg/1280px-Radio_broadcaster_in_Yei%2C_Sudan.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/78/Yei_River_County_in_2010.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Huts_in_Yei_township%2C_South_Sudan.jpg/1280px-Huts_in_Yei_township%2C_South_Sudan.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Yei_township_%28South_Sudan%29_banner.jpg/1280px-Yei_township_%28South_Sudan%29_banner.jpg"
+    ],
     "overview": "Yei is one of South Sudan's major cities, home to around 260,720 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -87874,8 +89450,14 @@ const raw: Gen[] = [
       "coast",
       "beach"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Chancellor_college_zomba.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a9/Chancellor_college_zomba.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0d/CCAP_Church_Zomba.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e2/Eastern_Region_Police_Headquarters%2C_Zomba.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/83/Facade_in_Zomba.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7e/Gymkhana_Club_Zomba.jpg"
+    ],
     "overview": "Zomba is one of Malawi's major cities, home to around 118,440 people.",
     "bestTime": "The dry season for the most comfortable travel",
     "weather": "Largely warm year-round with distinct wet and dry seasons",
@@ -87966,8 +89548,14 @@ const raw: Gen[] = [
       "beach",
       "food"
     ],
-    "realPhoto": null,
-    "realGallery": [],
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/af/Altstadt_Z%C3%BCrich_2015.jpg",
+    "realGallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/af/Altstadt_Z%C3%BCrich_2015.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a0/%22Turicum%22_ZSG-Schiff_auf_der_Limmat_vor_dem_Grossm%C3%BCnster_%282013%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/8a/100m_women_Golden_League_2007_in_Zurich.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a5/Aerial_view_of_the_Zurich_Airport%2C_April_2019.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e3/Bahnhofstrasse_Grieder.jpg"
+    ],
     "overview": "Zurich is one of Switzerland's major cities, home to around 421,878 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
     "weather": "Temperate, with warm summers and cool winters",

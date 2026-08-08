@@ -686,7 +686,6 @@ const raw: Gen[] = [
       "cityNight"
     ],
     "realImages": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Baku_Montage.jpg/1280px-Baku_Montage.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sumqay%C4%B1t_%C5%9F%C9%99h%C9%99r_%C4%B0cra_Hakimiyy%C9%99ti.jpg/1280px-Sumqay%C4%B1t_%C5%9F%C9%99h%C9%99r_%C4%B0cra_Hakimiyy%C9%99ti.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Graffiti_streetart_rastafari.png/1280px-Graffiti_streetart_rastafari.png",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Heydar_Aliyev_park_in_Xirdalan.jpg/1280px-Heydar_Aliyev_park_in_Xirdalan.jpg",
@@ -753,7 +752,6 @@ const raw: Gen[] = [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sheraton_Grand_Bahamas_Panorama.jpg/1280px-Sheraton_Grand_Bahamas_Panorama.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Killarney_Cathedral%2C_2021-06-21%2C_02.jpg/1280px-Killarney_Cathedral%2C_2021-06-21%2C_02.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Landing_of_Columbus_%282%29_%28cropped%29.jpg/1280px-Landing_of_Columbus_%282%29_%28cropped%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Battle_of_Nassau.jpg/1280px-Battle_of_Nassau.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Escaping_To_Freedom_In_The_Bahamas_sign_01.jpg/1280px-Escaping_To_Freedom_In_The_Bahamas_sign_01.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Great_Isaac_Cay%2C_Bahamas.jpg/1280px-Great_Isaac_Cay%2C_Bahamas.jpg"
     ],
@@ -1134,7 +1132,6 @@ const raw: Gen[] = [
       "beach"
     ],
     "realImages": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Belize_City_Montage.jpeg/1280px-Belize_City_Montage.jpeg",
       "https://upload.wikimedia.org/wikipedia/commons/f/f9/National_Assembly_Building%2C_Belize.png",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/St._George%27s_Cay_Day_Official_Holiday.jpg/500px-St._George%27s_Cay_Day_Official_Holiday.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Belize_Barrier_Reef_Aerial_Looking_North.jpg/330px-Belize_Barrier_Reef_Aerial_Looking_North.jpg",
@@ -1647,7 +1644,6 @@ const raw: Gen[] = [
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Russian_church_%2837591925970%29.jpg/1280px-Russian_church_%2837591925970%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/%D0%9F%D0%BB%D0%BE%D0%B2%D0%B4%D0%B8%D0%B2.jpg/1280px-%D0%9F%D0%BB%D0%BE%D0%B2%D0%B4%D0%B8%D0%B2.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/b/be/Burgas-Collage_D.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/3/33/Samarsko_Zname_Panorama.jpg"
     ],
     "overview": "Bulgaria is a Southeast Europe nation in Europe, with Sofia as its capital and home to around 7,025,037 people. The currency is the Euro (EUR). The main language is Bulgarian. From its landscapes and cities to its cuisine and traditions, Bulgaria offers travelers a distinctive slice of the world to explore.",
@@ -2088,7 +2084,6 @@ const raw: Gen[] = [
       "temple"
     ],
     "realImages": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bangui_collage.png/1280px-Bangui_collage.png",
       "https://upload.wikimedia.org/wikipedia/commons/9/91/Rond-point-de-la-ville-de-Berberati-copyrights-CNC.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/3/31/Bambari_Downtown.jpg"
     ],
@@ -2782,7 +2777,6 @@ const raw: Gen[] = [
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Prague_%286365119737%29.jpg/1280px-Prague_%286365119737%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Brno_Montage_IV.png/1280px-Brno_Montage_IV.png",
       "https://upload.wikimedia.org/wikipedia/commons/2/22/Ostravakolaz.png",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Liberec%2C_radnice%2C_v%C3%BDhled_01.jpg/1280px-Liberec%2C_radnice%2C_v%C3%BDhled_01.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Horn%C3%AD_n%C3%A1m%C4%9Bst%C3%AD_Olomouc%2C_leteck%C3%A1_fotografie_1.jpg/1280px-Horn%C3%AD_n%C3%A1m%C4%9Bst%C3%AD_Olomouc%2C_leteck%C3%A1_fotografie_1.jpg"
@@ -3167,9 +3161,7 @@ const raw: Gen[] = [
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/FACHADA_ASAMBLEA_NACIONAL._QUITO%2C_20_DE_FEBRERO_2020._01.jpg/1280px-FACHADA_ASAMBLEA_NACIONAL._QUITO%2C_20_DE_FEBRERO_2020._01.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Faro_de_Guayaquil.jpg/1280px-Faro_de_Guayaquil.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Collage_Santo_Domingo.png/1280px-Collage_Santo_Domingo.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Collage_Portoviejo.png/1280px-Collage_Portoviejo.png"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Faro_de_Guayaquil.jpg/1280px-Faro_de_Guayaquil.jpg"
     ],
     "overview": "Ecuador is a South America nation in Americas, with Quito as its capital and home to around 17,084,357 people. The currency is the United States dollar (USD). The main language is Spanish. From its landscapes and cities to its cuisine and traditions, Ecuador offers travelers a distinctive slice of the world to explore.",
     "history": "Ecuador has a rich history shaped by its position in Americas and the cultures of South America, leaving a legacy visible in its landmarks, cities and traditions today.",
@@ -3423,7 +3415,6 @@ const raw: Gen[] = [
       "mountains"
     ],
     "realImages": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Asmara_Montage.png/1280px-Asmara_Montage.png",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Humera_in_Tigray_near_the_border_with_Sudan_and_Eritrea13.jpg/1280px-Humera_in_Tigray_near_the_border_with_Sudan_and_Eritrea13.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Massawa_harbour.JPG/1280px-Massawa_harbour.JPG",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/%D8%B5%D9%88%D8%B1%D8%A9_%D9%83%D9%86%D9%8A%D8%B3%D8%A9_%D9%81%D9%8A_%D8%B9%D8%B5%D8%A8_-_panoramio.jpg/1280px-%D8%B5%D9%88%D8%B1%D8%A9_%D9%83%D9%86%D9%8A%D8%B3%D8%A9_%D9%81%D9%8A_%D8%B9%D8%B5%D8%A8_-_panoramio.jpg",
@@ -3745,8 +3736,6 @@ const raw: Gen[] = [
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Suomenlinna_%28cropped%29.jpg/1280px-Suomenlinna_%28cropped%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Piispansilta_Matinkyl%C3%A4_Espoo_Iso_Omena_280719.jpg/1280px-Piispansilta_Matinkyl%C3%A4_Espoo_Iso_Omena_280719.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/e/e7/VantaaMontage1%28jpg%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Montage_Pokkinen_Oulu.jpg/1280px-Montage_Pokkinen_Oulu.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/View_from_Turku_Cathedral_tower.jpg/1280px-View_from_Turku_Cathedral_tower.jpg"
     ],
     "overview": "Finland is a Northern Europe nation in Europe, with Helsinki as its capital and home to around 5,515,525 people. The currency is the Euro (EUR). The main languages are Finnish, Swedish. From its landscapes and cities to its cuisine and traditions, Finland offers travelers a distinctive slice of the world to explore.",
@@ -3998,8 +3987,7 @@ const raw: Gen[] = [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/View_of_Tbilisi_from_Tabori_Church_2023-10-08-2.jpg/1280px-View_of_Tbilisi_from_Tabori_Church_2023-10-08-2.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/USS_Oak_Hill%2C_26th_MEU_Marines_Visit_Batumi%2C_Georgia_%2840817303032%29.jpg/1280px-USS_Oak_Hill%2C_26th_MEU_Marines_Visit_Batumi%2C_Georgia_%2840817303032%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Downtown_Kutaisi_%26_White_Bridge_as_seen_from_Mt_Gora_%28August_2011%29-cropped.jpg/1280px-Downtown_Kutaisi_%26_White_Bridge_as_seen_from_Mt_Gora_%28August_2011%29-cropped.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rustavi_Metallurgical_Plant.jpg/1280px-Rustavi_Metallurgical_Plant.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sokhumi_Collage.jpg/1280px-Sokhumi_Collage.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rustavi_Metallurgical_Plant.jpg/1280px-Rustavi_Metallurgical_Plant.jpg"
     ],
     "overview": "Georgia is a Western Asia nation in Asia, with Tbilisi as its capital and home to around 3,726,549 people. The currency is the lari (GEL). The main language is Georgian. From its landscapes and cities to its cuisine and traditions, Georgia offers travelers a distinctive slice of the world to explore.",
     "history": "Georgia has a rich history shaped by its position in Asia and the cultures of Western Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
@@ -4124,9 +4112,7 @@ const raw: Gen[] = [
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kronum_Kumasi_2018-11-08_%28130246%29.jpg/1280px-Kronum_Kumasi_2018-11-08_%28130246%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/0/0a/Acca.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tamale_Oaxaque%C3%B1o.jpg/1280px-Tamale_Oaxaque%C3%B1o.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/2/22/Sekondi-Takoradi_Montage.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/e/e4/Cape_Coast_Montage.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tamale_Oaxaque%C3%B1o.jpg/1280px-Tamale_Oaxaque%C3%B1o.jpg"
     ],
     "overview": "Ghana is a Western Africa nation in Africa, with Accra as its capital and home to around 29,767,108 people. The currency is the Ghanaian cedi (GHS). The main language is English. From its landscapes and cities to its cuisine and traditions, Ghana offers travelers a distinctive slice of the world to explore.",
     "history": "Ghana has a rich history shaped by its position in Africa and the cultures of Western Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
@@ -4312,8 +4298,7 @@ const raw: Gen[] = [
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ciudad_de_Guatemala%2C_CA.jpg/1280px-Ciudad_de_Guatemala%2C_CA.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Paso_a_Desnivel_Ruta_Interamericana_CA-1.jpg/1280px-Paso_a_Desnivel_Ruta_Interamericana_CA-1.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Palacio_Municipal_de_Quetzaltenango.jpg/1280px-Palacio_Municipal_de_Quetzaltenango.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Xalapa_montage.jpg/1280px-Xalapa_montage.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Palacio_Municipal_de_Quetzaltenango.jpg/1280px-Palacio_Municipal_de_Quetzaltenango.jpg"
     ],
     "overview": "Guatemala is a Central America nation in Americas, with Guatemala City as its capital and home to around 17,247,807 people. The currency is the Guatemalan quetzal (GTQ). The main language is Spanish. From its landscapes and cities to its cuisine and traditions, Guatemala offers travelers a distinctive slice of the world to explore.",
     "history": "Guatemala has a rich history shaped by its position in Americas and the cultures of Central America, leaving a legacy visible in its landmarks, cities and traditions today.",
@@ -4626,7 +4611,6 @@ const raw: Gen[] = [
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tegucigalpa_downtown_panoramic_2026.jpg/1280px-Tegucigalpa_downtown_panoramic_2026.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/d/df/Collage_of_San_Pedro_Sula_Honduras.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/f/f6/Vista_panor%C3%A1mica_de_la_Ciudad_de_Danl%C3%AD.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Letras_de_La_Ceiba.jpg/1280px-Letras_de_La_Ceiba.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/El_Malecon_Puerto_Cortes_Honduras.jpg/1280px-El_Malecon_Puerto_Cortes_Honduras.jpg"
@@ -4691,8 +4675,7 @@ const raw: Gen[] = [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/View_from_Gell%C3%A9rt_Hill_to_the_Danube%2C_Hungary_-_Budapest_%2828493220635%29.jpg/1280px-View_from_Gell%C3%A9rt_Hill_to_the_Danube%2C_Hungary_-_Budapest_%2828493220635%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Nuremberg_chronicles_-_BVJA.png/1280px-Nuremberg_chronicles_-_BVJA.png",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Universit%C3%A4t_Debrecen_Nr._3.jpg/1280px-Universit%C3%A4t_Debrecen_Nr._3.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ferenc_M%C3%B3ra_Museum_2021-03-02%2C_Szeged.jpg/1280px-Ferenc_M%C3%B3ra_Museum_2021-03-02%2C_Szeged.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Miskolc_Montage.jpg/1280px-Miskolc_Montage.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ferenc_M%C3%B3ra_Museum_2021-03-02%2C_Szeged.jpg/1280px-Ferenc_M%C3%B3ra_Museum_2021-03-02%2C_Szeged.jpg"
     ],
     "overview": "Hungary is a Central Europe nation in Europe, with Budapest as its capital and home to around 9,775,564 people. The currency is the Hungarian forint (HUF). The main language is Hungarian. From its landscapes and cities to its cuisine and traditions, Hungary offers travelers a distinctive slice of the world to explore.",
     "history": "Hungary has a rich history shaped by its position in Europe and the cultures of Central Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
@@ -5077,7 +5060,6 @@ const raw: Gen[] = [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ireland_%28MODIS%29.jpg/1280px-Ireland_%28MODIS%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Dublin_-_aerial_-_2025-07-07_01.jpg/1280px-Dublin_-_aerial_-_2025-07-07_01.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/South_Dublin_County_Boundary_Sign.jpg/1280px-South_Dublin_County_Boundary_Sign.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Limerickcitycollage3.jpg/1280px-Limerickcitycollage3.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/c/cb/Galway_cathedral.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Tallaght_-_aerial_-_2025-07-12_07.jpg/1280px-Tallaght_-_aerial_-_2025-07-12_07.jpg"
     ],
@@ -5268,7 +5250,6 @@ const raw: Gen[] = [
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Yamoussoukro_panorama.jpg/1280px-Yamoussoukro_panorama.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Visite_du_mus%C3%A9e_de_civilisation_de_C%C3%B4te_d%27Ivoire_08.jpg/1280px-Visite_du_mus%C3%A9e_de_civilisation_de_C%C3%B4te_d%27Ivoire_08.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bouak%C3%A9_Collage.jpg/1280px-Bouak%C3%A9_Collage.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Korhogo_8110.jpg/1280px-Korhogo_8110.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Rond-point_de_Daloa_01.jpg/1280px-Rond-point_de_Daloa_01.jpg"
     ],
@@ -6738,10 +6719,8 @@ const raw: Gen[] = [
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/St_Sebastian_Curtain_%28cropped%29.jpg/1280px-St_Sebastian_Curtain_%28cropped%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St._Paul%27s_Bay_montage.jpg/1280px-St._Paul%27s_Bay_montage.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/St_Helen_Parish_Church_Birkirkara_Malta_-1244497030.jpeg/1280px-St_Helen_Parish_Church_Birkirkara_Malta_-1244497030.jpeg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mosta_Dome_4_%286946839125%29.jpg/1280px-Mosta_Dome_4_%286946839125%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/4/40/Sliema_montage.png",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sait_George_Church%2C_Qormi.jpeg/1280px-Sait_George_Church%2C_Qormi.jpeg"
     ],
     "overview": "Malta is a Southern Europe nation in Europe, with Valletta as its capital and home to around 484,630 people. The currency is the Euro (EUR). The main languages are English, Maltese. From its landscapes and cities to its cuisine and traditions, Malta offers travelers a distinctive slice of the world to explore.",
@@ -8079,7 +8058,6 @@ const raw: Gen[] = [
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/The_Arch_of_Triumph_%2811360607534%29.jpg/1280px-The_Arch_of_Triumph_%2811360607534%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hamhung_%2814298554245%29.jpg/1280px-Hamhung_%2814298554245%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/7/74/Nampo_Montage.JPG",
       "https://upload.wikimedia.org/wikipedia/commons/f/f6/DPRK2006_Pyongnam-Sunchon.PNG",
       "https://upload.wikimedia.org/wikipedia/commons/6/6c/Hungnam_Fertilizer.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Koryo_Songgyungwan_University.jpg/1280px-Koryo_Songgyungwan_University.jpg"
@@ -9484,7 +9462,11 @@ const raw: Gen[] = [
       "mountains"
     ],
     "realImages": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/2012SaoTome-8_%288042889363%29.jpg/1280px-2012SaoTome-8_%288042889363%29.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/2012SaoTome-8_%288042889363%29.jpg/1280px-2012SaoTome-8_%288042889363%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Skyline_Frankfurt_am_Main.jpg/1280px-Skyline_Frankfurt_am_Main.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Frankfurter_Altstadt_mit_Skyline_2012-04.jpg/1280px-Frankfurter_Altstadt_mit_Skyline_2012-04.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prague_skyline_at_dawn.jpg/1280px-Prague_skyline_at_dawn.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Vilnius_Modern_Skyline_At_Dusk%2C_Lithuania_-_Diliff.jpg/1280px-Vilnius_Modern_Skyline_At_Dusk%2C_Lithuania_-_Diliff.jpg"
     ],
     "overview": "São Tomé and Príncipe is a Middle Africa nation in Africa, with São Tomé as its capital and a captivating destination. The currency is the São Tomé and Príncipe dobra (STN). The main language is Portuguese. From its landscapes and cities to its cuisine and traditions, São Tomé and Príncipe offers travelers a distinctive slice of the world to explore.",
     "history": "São Tomé and Príncipe has a rich history shaped by its position in Africa and the cultures of Middle Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
@@ -10056,7 +10038,6 @@ const raw: Gen[] = [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/El_viajero_ilustrado%2C_1878_602320_%283810561161%29.jpg/500px-El_viajero_ilustrado%2C_1878_602320_%283810561161%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Solomon_Islands_canoe_crop.jpg/330px-Solomon_Islands_canoe_crop.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Colonel_Carlson_and_Raider_Unit%2C_circa_1942.jpg/1280px-Colonel_Carlson_and_Raider_Unit%2C_circa_1942.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/USS_Enterprise_%28CV-6%29_under_attack_and_burning_during_the_Battle_of_the_Eastern_Solomons_on_24_August_1942_%28NH_97778%29.jpg/330px-USS_Enterprise_%28CV-6%29_under_attack_and_burning_during_the_Battle_of_the_Eastern_Solomons_on_24_August_1942_%28NH_97778%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Marines_Moving_to_Front%2C_Guadalcanal%2C_circa_1942.jpg/330px-Marines_Moving_to_Front%2C_Guadalcanal%2C_circa_1942.jpg"
     ],
     "overview": "Solomon Islands is a Melanesia nation in Oceania, with Honiara as its capital and home to around 652,858 people. The currency is the Solomon Islands dollar (SBD). The main language is English. From its landscapes and cities to its cuisine and traditions, Solomon Islands offers travelers a distinctive slice of the world to explore.",
@@ -10258,8 +10239,7 @@ const raw: Gen[] = [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gwangan_Bridge1.jpg/1280px-Gwangan_Bridge1.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Songdo_Central_Park_and_Posco_Tower_Songdo.jpg/1280px-Songdo_Central_Park_and_Posco_Tower_Songdo.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/1/10/%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C_%EC%8B%9C%EA%B0%80%EC%A7%80.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Korea-Daejeon-Uam_Historic_Park-01.jpg/1280px-Korea-Daejeon-Uam_Historic_Park-01.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/4/45/Gwangju_montage.png"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Korea-Daejeon-Uam_Historic_Park-01.jpg/1280px-Korea-Daejeon-Uam_Historic_Park-01.jpg"
     ],
     "overview": "South Korea is a Eastern Asia nation in Asia, with Seoul as its capital and home to around 51,606,633 people. The currency is the South Korean won (KRW). The main language is Korean. From its landscapes and cities to its cuisine and traditions, South Korea offers travelers a distinctive slice of the world to explore.",
     "history": "South Korea has a rich history shaped by its position in Asia and the cultures of Eastern Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
@@ -10450,7 +10430,6 @@ const raw: Gen[] = [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Colombo_city_skyline_at_night.png/1280px-Colombo_city_skyline_at_night.png",
       "https://upload.wikimedia.org/wikipedia/commons/3/31/Dehiwala-Mount_Lavania.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Maharagama_Vesak_Pandol_2023_-_%E0%B6%B8%E0%B7%84%E0%B6%BB%E0%B6%9C%E0%B6%B8_%E0%B7%80%E0%B7%99%E0%B7%83%E0%B6%9A%E0%B7%8A_%E0%B6%AD%E0%B7%9C%E0%B6%BB%E0%B6%AB_2023.jpg/500px-Maharagama_Vesak_Pandol_2023_-_%E0%B6%B8%E0%B7%84%E0%B6%BB%E0%B6%9C%E0%B6%B8_%E0%B7%80%E0%B7%99%E0%B7%83%E0%B6%9A%E0%B7%8A_%E0%B6%AD%E0%B7%9C%E0%B6%BB%E0%B6%AB_2023.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jaffna_montage.jpg/1280px-Jaffna_montage.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/MoratuwaBahnhof.jpg/250px-MoratuwaBahnhof.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Negombo_Beach_resort_pool_%28Unsplash%29.jpg/1280px-Negombo_Beach_resort_pool_%28Unsplash%29.jpg"
     ],
@@ -10515,7 +10494,6 @@ const raw: Gen[] = [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/%C2%A9Nile-Project_-Sari_Omer_0025.jpg/1280px-%C2%A9Nile-Project_-Sari_Omer_0025.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Omdurman_Market.JPG/1280px-Omdurman_Market.JPG",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Khartum_north_industrial.jpg/1280px-Khartum_north_industrial.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Nyala_%28Tragelaphus_angasii%29_male_Maputo.jpg/1280px-Nyala_%28Tragelaphus_angasii%29_male_Maputo.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PortSudan_center_harbour.jpg/1280px-PortSudan_center_harbour.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Kassala_center_Totil.jpg/1280px-Kassala_center_Totil.jpg"
     ],
@@ -10576,7 +10554,6 @@ const raw: Gen[] = [
       "food"
     ],
     "realImages": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Paramaribo_city_collage.png/1280px-Paramaribo_city_collage.png",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Leonsberg_%2831239515295%29.jpg/1280px-Leonsberg_%2831239515295%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Paramaribo_Ressorts_Suriname_Neutral.png/1280px-Paramaribo_Ressorts_Suriname_Neutral.png",
       "https://upload.wikimedia.org/wikipedia/commons/9/90/Flora.png"
@@ -11280,7 +11257,6 @@ const raw: Gen[] = [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Minaret_et_patio_de_la_mosqu%C3%A9e_Zitouna_au_centre_de_la_M%C3%A9dina_de_Tunis.jpg/1280px-Minaret_et_patio_de_la_mosqu%C3%A9e_Zitouna_au_centre_de_la_M%C3%A9dina_de_Tunis.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ksar_Berromdhan002.jpg/1280px-Ksar_Berromdhan002.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Tunezja%2C_Sousse_-_panoramio_%283%29.jpg/1280px-Tunezja%2C_Sousse_-_panoramio_%283%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/a/ad/Montage_ville_de_Kairouan.png",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bizerte_bridge_from_south_side%28zarzouna%29.jpg/1280px-Bizerte_bridge_from_south_side%28zarzouna%29.jpg"
     ],
     "overview": "Tunisia is a Northern Africa nation in Africa, with Tunis as its capital and home to around 11,565,204 people. The currency is the Tunisian dinar (TND). The main language is Arabic. From its landscapes and cities to its cuisine and traditions, Tunisia offers travelers a distinctive slice of the world to explore.",
@@ -12110,7 +12086,6 @@ const raw: Gen[] = [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Caracas_desde_el_%C3%A1vila.jpg/1280px-Caracas_desde_el_%C3%A1vila.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora_de_la_Chiquinquira.jpg/1280px-Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora_de_la_Chiquinquira.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Malvarrosa_Beach%2C_Valencia%2C_Spain_%2829812271043%29.jpg/1280px-Malvarrosa_Beach%2C_Valencia%2C_Spain_%2829812271043%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/2/2b/BarquisimetoCollage.png",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Panor%C3%A1mica_a%C3%A9rea_de_ciudad_Guayana.jpg/1280px-Panor%C3%A1mica_a%C3%A9rea_de_ciudad_Guayana.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Evening_light_over_Barcelona.jpg/1280px-Evening_light_over_Barcelona.jpg"
     ],
