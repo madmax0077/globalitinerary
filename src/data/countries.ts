@@ -1,6 +1,7 @@
 import type { Country } from "@/lib/types";
 import { PHOTOS, unsplash } from "@/lib/images";
 import { generatedCountries } from "@/data/countries.generated";
+import { countryTimezones } from "@/data/country-timezones.generated";
 
 /**
  * Hand-curated countries with rich overviews, galleries, cities and
@@ -513,7 +514,7 @@ const curatedBySlug = new Map(curatedCountries.map((c) => [c.slug, c]));
 /** Light factual patches for generated countries (without full re-curation). */
 const countryPatches: Partial<Record<string, Partial<Country>>> = {
   indonesia: {
-    timezone: "GMT+7 (Java WIB) · GMT+8 (Bali WITA) · GMT+9 (Papua WIT)",
+    timezone: "Asia/Jakarta",
     bestTime: "April–October dry season; May–June and September are ideal shoulder months",
     weather: "Tropical — hot and humid year-round, with a clearer dry season from April to October",
     drivingSide: "left",
@@ -724,13 +725,22 @@ const countryPatches: Partial<Record<string, Partial<Country>>> = {
  * Full list of countries: every generated country, with curated entries
  * overriding their auto-generated counterparts. Sorted alphabetically.
  */
+function withStandardTimezone(country: Country): Country {
+  const iana = countryTimezones[country.slug];
+  // Prefer standard IANA zones (Asia/Kolkata → UTC+05:30) over approximate GMT+N.
+  return iana ? { ...country, timezone: iana } : country;
+}
+
 export const countries: Country[] = [
-  ...curatedCountries.filter((c) => !generatedCountries.some((g) => g.slug === c.slug)),
+  ...curatedCountries
+    .filter((c) => !generatedCountries.some((g) => g.slug === c.slug))
+    .map(withStandardTimezone),
   ...generatedCountries.map((g) => {
     const curated = curatedBySlug.get(g.slug);
     const base = curated ?? g;
     const patch = countryPatches[g.slug];
-    return patch ? { ...base, ...patch } : base;
+    const merged = patch ? { ...base, ...patch } : base;
+    return withStandardTimezone(merged);
   }),
 ].sort((a, b) => a.name.localeCompare(b.name));
 

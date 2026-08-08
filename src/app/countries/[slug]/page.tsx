@@ -47,6 +47,7 @@ import {
   JsonLd,
 } from "@/lib/seo";
 import { enrichCountryFaqs } from "@/lib/destination-seo";
+import { formatTimezoneLabel, resolveCountryTimezone } from "@/lib/timezone";
 import { formatNumber } from "@/lib/utils";
 import { currencySymbol } from "@/lib/currency";
 import type { City } from "@/lib/types";
@@ -145,6 +146,7 @@ export default async function CountryPage({
     ? related
     : countries.filter((c) => c.slug !== country.slug).slice(0, 4);
 
+  const timezone = resolveCountryTimezone(country.slug, country.timezone);
   const facts = [
     { icon: MapPin, label: "Capital", value: country.capital },
     { icon: Users, label: "Population", value: formatNumber(country.population) },
@@ -154,7 +156,7 @@ export default async function CountryPage({
       value: `${currencySymbol(country.currencyCode)} · ${country.currency} (${country.currencyCode})`,
     },
     { icon: Languages, label: "Languages", value: country.languages.join(", ") },
-    { icon: Clock3, label: "Timezone", value: country.timezone },
+    { icon: Clock3, label: "Timezone", value: formatTimezoneLabel(timezone) },
     { icon: Globe, label: "Calling code", value: country.callingCode },
   ];
 
@@ -454,7 +456,7 @@ export default async function CountryPage({
             countryName={country.name}
           />
 
-          <LocalTime timezone={country.timezone} label={country.capital} />
+          <LocalTime timezone={timezone} label={country.capital} />
           <WeatherNow
             lat={country.coordinates.lat}
             lng={country.coordinates.lng}

@@ -44,6 +44,7 @@ import {
   JsonLd,
 } from "@/lib/seo";
 import { enrichCityFaqs } from "@/lib/destination-seo";
+import { resolveCityTimezone } from "@/lib/timezone";
 
 function haversine(a: { lat: number; lng: number }, b: { lat: number; lng: number }) {
   const R = 6371;
@@ -435,7 +436,10 @@ export default async function CityPage({
           <div className="overflow-hidden rounded-3xl border border-border bg-card shadow-soft">
             <MapPlaceholder coordinates={city.coordinates} label={city.name} />
           </div>
-          {country && <LocalTime timezone={country.timezone} label={city.name} />}
+          <LocalTime
+            timezone={resolveCityTimezone(city.slug, city.countrySlug) || country?.timezone || "UTC"}
+            label={city.name}
+          />
           <WeatherNow lat={city.coordinates.lat} lng={city.coordinates.lng} label={city.name} />
           <ClimateChart lat={city.coordinates.lat} lng={city.coordinates.lng} label={city.name} />
           {country && (

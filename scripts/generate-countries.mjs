@@ -5,6 +5,9 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { isScenic } from "./lib/bad-image.mjs";
 import { poolFor, hash } from "./lib/stock-pools.mjs";
+const countryTimezones = JSON.parse(
+  fs.readFileSync(path.join(__dirname, "country-timezones.json"), "utf8"),
+);
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.join(__dirname, "..");
@@ -110,8 +113,13 @@ for (const c of mledoze) {
   const languages = c.languages ? Object.values(c.languages) : [];
   const lat = c.latlng ? c.latlng[0] : 0;
   const lng = c.latlng ? c.latlng[1] : 0;
-  const offset = Math.round(lng / 15);
-  const timezone = `GMT${offset >= 0 ? "+" : ""}${offset}`;
+  // Prefer real IANA zone (e.g. Asia/Kolkata → UTC+05:30), not longitude-rounded GMT.
+  const timezone =
+    countryTimezones[slug] ||
+    (() => {
+      const offset = Math.round(lng / 15);
+      return `UTC${offset >= 0 ? "+" : ""}${String(Math.abs(offset)).padStart(2, "0")}:00`;
+    })();
 
   let callingCode = "";
   if (c.idd && c.idd.root) {

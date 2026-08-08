@@ -32,7 +32,7 @@ const raw: Gen[] = [
       "Pashto",
       "Turkmen"
     ],
-    "timezone": "GMT+4",
+    "timezone": "Asia/Kabul",
     "callingCode": "+93",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -96,7 +96,7 @@ const raw: Gen[] = [
     "languages": [
       "Albanian"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Europe/Tirane",
     "callingCode": "+355",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -160,7 +160,7 @@ const raw: Gen[] = [
     "languages": [
       "Arabic"
     ],
-    "timezone": "GMT+0",
+    "timezone": "Africa/Algiers",
     "callingCode": "+213",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -222,7 +222,7 @@ const raw: Gen[] = [
     "languages": [
       "Catalan"
     ],
-    "timezone": "GMT+0",
+    "timezone": "Europe/Andorra",
     "callingCode": "+376",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -286,7 +286,7 @@ const raw: Gen[] = [
     "languages": [
       "Portuguese"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Africa/Luanda",
     "callingCode": "+244",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -350,7 +350,7 @@ const raw: Gen[] = [
     "languages": [
       "English"
     ],
-    "timezone": "GMT-4",
+    "timezone": "America/Antigua",
     "callingCode": "+1268",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
@@ -413,7 +413,7 @@ const raw: Gen[] = [
       "Guaraní",
       "Spanish"
     ],
-    "timezone": "GMT-4",
+    "timezone": "America/Argentina/Buenos_Aires",
     "callingCode": "+54",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season (roughly May–September) is ideal for most regions",
@@ -475,7 +475,7 @@ const raw: Gen[] = [
     "languages": [
       "Armenian"
     ],
-    "timezone": "GMT+3",
+    "timezone": "Asia/Yerevan",
     "callingCode": "+374",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -539,7 +539,7 @@ const raw: Gen[] = [
     "languages": [
       "English"
     ],
-    "timezone": "GMT+9",
+    "timezone": "Australia/Sydney",
     "callingCode": "+61",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The warmer, drier months for beaches and the outdoors",
@@ -603,7 +603,7 @@ const raw: Gen[] = [
     "languages": [
       "Austro-Bavarian German"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Europe/Vienna",
     "callingCode": "+43",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -668,7 +668,7 @@ const raw: Gen[] = [
       "Azerbaijani",
       "Russian"
     ],
-    "timezone": "GMT+3",
+    "timezone": "Asia/Baku",
     "callingCode": "+994",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -731,7 +731,7 @@ const raw: Gen[] = [
     "languages": [
       "English"
     ],
-    "timezone": "GMT-5",
+    "timezone": "America/Nassau",
     "callingCode": "+1242",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
@@ -794,7 +794,7 @@ const raw: Gen[] = [
     "languages": [
       "Arabic"
     ],
-    "timezone": "GMT+3",
+    "timezone": "Asia/Bahrain",
     "callingCode": "+973",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -856,7 +856,7 @@ const raw: Gen[] = [
     "languages": [
       "Bengali"
     ],
-    "timezone": "GMT+6",
+    "timezone": "Asia/Dhaka",
     "callingCode": "+880",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -919,7 +919,7 @@ const raw: Gen[] = [
     "languages": [
       "English"
     ],
-    "timezone": "GMT-4",
+    "timezone": "America/Barbados",
     "callingCode": "+1246",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
@@ -984,7 +984,7 @@ const raw: Gen[] = [
       "Belarusian",
       "Russian"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Europe/Minsk",
     "callingCode": "+375",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -1049,7 +1049,7 @@ const raw: Gen[] = [
       "French",
       "Dutch"
     ],
-    "timezone": "GMT+0",
+    "timezone": "Europe/Brussels",
     "callingCode": "+32",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -1114,7 +1114,7 @@ const raw: Gen[] = [
       "English",
       "Spanish"
     ],
-    "timezone": "GMT-6",
+    "timezone": "America/Belize",
     "callingCode": "+501",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
@@ -1176,7 +1176,7 @@ const raw: Gen[] = [
     "languages": [
       "French"
     ],
-    "timezone": "GMT+0",
+    "timezone": "Africa/Porto-Novo",
     "callingCode": "+229",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -1239,7 +1239,7 @@ const raw: Gen[] = [
     "languages": [
       "Dzongkha"
     ],
-    "timezone": "GMT+6",
+    "timezone": "Asia/Thimphu",
     "callingCode": "+975",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -1306,7 +1306,7 @@ const raw: Gen[] = [
       "Quechua",
       "Spanish"
     ],
-    "timezone": "GMT-4",
+    "timezone": "America/La_Paz",
     "callingCode": "+591",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season (roughly May–September) is ideal for most regions",
@@ -1371,7 +1371,7 @@ const raw: Gen[] = [
       "Croatian",
       "Serbian"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Europe/Sarajevo",
     "callingCode": "+387",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -1435,7 +1435,7 @@ const raw: Gen[] = [
       "English",
       "Tswana"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Africa/Gaborone",
     "callingCode": "+267",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -1498,7 +1498,7 @@ const raw: Gen[] = [
     "languages": [
       "Portuguese"
     ],
-    "timezone": "GMT-4",
+    "timezone": "America/Sao_Paulo",
     "callingCode": "+55",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season (roughly May–September) is ideal for most regions",
@@ -1561,7 +1561,7 @@ const raw: Gen[] = [
     "languages": [
       "Malay"
     ],
-    "timezone": "GMT+8",
+    "timezone": "Asia/Brunei",
     "callingCode": "+673",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -1624,7 +1624,7 @@ const raw: Gen[] = [
     "languages": [
       "Bulgarian"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Europe/Sofia",
     "callingCode": "+359",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -1685,7 +1685,7 @@ const raw: Gen[] = [
     "languages": [
       "French"
     ],
-    "timezone": "GMT+0",
+    "timezone": "Africa/Ouagadougou",
     "callingCode": "+226",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -1748,7 +1748,7 @@ const raw: Gen[] = [
       "French",
       "Kirundi"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Africa/Bujumbura",
     "callingCode": "+257",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -1812,7 +1812,7 @@ const raw: Gen[] = [
     "languages": [
       "Khmer"
     ],
-    "timezone": "GMT+7",
+    "timezone": "Asia/Phnom_Penh",
     "callingCode": "+855",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -1875,7 +1875,7 @@ const raw: Gen[] = [
       "English",
       "French"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Africa/Douala",
     "callingCode": "+237",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -1940,7 +1940,7 @@ const raw: Gen[] = [
       "English",
       "French"
     ],
-    "timezone": "GMT-6",
+    "timezone": "America/Toronto",
     "callingCode": "+1",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
@@ -2003,7 +2003,7 @@ const raw: Gen[] = [
     "languages": [
       "Portuguese"
     ],
-    "timezone": "GMT-2",
+    "timezone": "Atlantic/Cape_Verde",
     "callingCode": "+238",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -2066,7 +2066,7 @@ const raw: Gen[] = [
       "French",
       "Sango"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Africa/Bangui",
     "callingCode": "+236",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -2127,7 +2127,7 @@ const raw: Gen[] = [
       "Arabic",
       "French"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Africa/Ndjamena",
     "callingCode": "+235",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -2190,7 +2190,7 @@ const raw: Gen[] = [
     "languages": [
       "Spanish"
     ],
-    "timezone": "GMT-5",
+    "timezone": "America/Santiago",
     "callingCode": "+56",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season (roughly May–September) is ideal for most regions",
@@ -2252,7 +2252,7 @@ const raw: Gen[] = [
     "languages": [
       "Chinese"
     ],
-    "timezone": "GMT+7",
+    "timezone": "Asia/Shanghai",
     "callingCode": "+86",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -2316,7 +2316,7 @@ const raw: Gen[] = [
     "languages": [
       "Spanish"
     ],
-    "timezone": "GMT-5",
+    "timezone": "America/Bogota",
     "callingCode": "+57",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season (roughly May–September) is ideal for most regions",
@@ -2379,7 +2379,7 @@ const raw: Gen[] = [
       "French",
       "Comorian"
     ],
-    "timezone": "GMT+3",
+    "timezone": "Indian/Comoro",
     "callingCode": "+269",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -2444,7 +2444,7 @@ const raw: Gen[] = [
       "Kikongo",
       "Lingala"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Africa/Brazzaville",
     "callingCode": "+242",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -2505,7 +2505,7 @@ const raw: Gen[] = [
     "languages": [
       "Spanish"
     ],
-    "timezone": "GMT-6",
+    "timezone": "America/Costa_Rica",
     "callingCode": "+506",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
@@ -2568,7 +2568,7 @@ const raw: Gen[] = [
     "languages": [
       "Croatian"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Europe/Zagreb",
     "callingCode": "+385",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -2630,7 +2630,7 @@ const raw: Gen[] = [
     "languages": [
       "Spanish"
     ],
-    "timezone": "GMT-5",
+    "timezone": "America/Havana",
     "callingCode": "+53",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
@@ -2694,7 +2694,7 @@ const raw: Gen[] = [
       "Greek",
       "Turkish"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Asia/Nicosia",
     "callingCode": "+357",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -2758,7 +2758,7 @@ const raw: Gen[] = [
       "Czech",
       "Slovak"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Europe/Prague",
     "callingCode": "+420",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -2820,7 +2820,7 @@ const raw: Gen[] = [
     "languages": [
       "Danish"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Europe/Copenhagen",
     "callingCode": "+45",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -2885,7 +2885,7 @@ const raw: Gen[] = [
       "Arabic",
       "French"
     ],
-    "timezone": "GMT+3",
+    "timezone": "Africa/Djibouti",
     "callingCode": "+253",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -2949,7 +2949,7 @@ const raw: Gen[] = [
     "languages": [
       "English"
     ],
-    "timezone": "GMT-4",
+    "timezone": "America/Dominica",
     "callingCode": "+1767",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
@@ -3012,7 +3012,7 @@ const raw: Gen[] = [
     "languages": [
       "Spanish"
     ],
-    "timezone": "GMT-5",
+    "timezone": "America/Santo_Domingo",
     "callingCode": "+1",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
@@ -3078,7 +3078,7 @@ const raw: Gen[] = [
       "Tshiluba",
       "Swahili"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Africa/Kinshasa",
     "callingCode": "+243",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -3142,7 +3142,7 @@ const raw: Gen[] = [
     "languages": [
       "Spanish"
     ],
-    "timezone": "GMT-5",
+    "timezone": "America/Guayaquil",
     "callingCode": "+593",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season (roughly May–September) is ideal for most regions",
@@ -3201,7 +3201,7 @@ const raw: Gen[] = [
     "languages": [
       "Arabic"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Africa/Cairo",
     "callingCode": "+20",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -3265,7 +3265,7 @@ const raw: Gen[] = [
     "languages": [
       "Spanish"
     ],
-    "timezone": "GMT-6",
+    "timezone": "America/El_Salvador",
     "callingCode": "+503",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
@@ -3331,7 +3331,7 @@ const raw: Gen[] = [
       "Portuguese",
       "Spanish"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Africa/Malabo",
     "callingCode": "+240",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -3397,7 +3397,7 @@ const raw: Gen[] = [
       "English",
       "Tigrinya"
     ],
-    "timezone": "GMT+3",
+    "timezone": "Africa/Asmara",
     "callingCode": "+291",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -3459,7 +3459,7 @@ const raw: Gen[] = [
     "languages": [
       "Estonian"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Europe/Tallinn",
     "callingCode": "+372",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -3523,7 +3523,7 @@ const raw: Gen[] = [
       "English",
       "Swazi"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Africa/Mbabane",
     "callingCode": "+268",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -3587,7 +3587,7 @@ const raw: Gen[] = [
     "languages": [
       "Amharic"
     ],
-    "timezone": "GMT+3",
+    "timezone": "Africa/Addis_Ababa",
     "callingCode": "+251",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -3652,7 +3652,7 @@ const raw: Gen[] = [
       "Fijian",
       "Fiji Hindi"
     ],
-    "timezone": "GMT+12",
+    "timezone": "Pacific/Fiji",
     "callingCode": "+679",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The warmer, drier months for beaches and the outdoors",
@@ -3716,7 +3716,7 @@ const raw: Gen[] = [
       "Finnish",
       "Swedish"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Europe/Helsinki",
     "callingCode": "+358",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -3777,7 +3777,7 @@ const raw: Gen[] = [
     "languages": [
       "French"
     ],
-    "timezone": "GMT+0",
+    "timezone": "Europe/Paris",
     "callingCode": "+33",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -3841,7 +3841,7 @@ const raw: Gen[] = [
     "languages": [
       "French"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Africa/Libreville",
     "callingCode": "+241",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -3904,7 +3904,7 @@ const raw: Gen[] = [
     "languages": [
       "English"
     ],
-    "timezone": "GMT-1",
+    "timezone": "Africa/Banjul",
     "callingCode": "+220",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -3966,7 +3966,7 @@ const raw: Gen[] = [
     "languages": [
       "Georgian"
     ],
-    "timezone": "GMT+3",
+    "timezone": "Asia/Tbilisi",
     "callingCode": "+995",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -4028,7 +4028,7 @@ const raw: Gen[] = [
     "languages": [
       "German"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Europe/Berlin",
     "callingCode": "+49",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -4092,7 +4092,7 @@ const raw: Gen[] = [
     "languages": [
       "English"
     ],
-    "timezone": "GMT+0",
+    "timezone": "Africa/Accra",
     "callingCode": "+233",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -4153,7 +4153,7 @@ const raw: Gen[] = [
     "languages": [
       "Greek"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Europe/Athens",
     "callingCode": "+30",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -4215,7 +4215,7 @@ const raw: Gen[] = [
     "languages": [
       "English"
     ],
-    "timezone": "GMT-4",
+    "timezone": "America/Grenada",
     "callingCode": "+1473",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
@@ -4278,7 +4278,7 @@ const raw: Gen[] = [
     "languages": [
       "Spanish"
     ],
-    "timezone": "GMT-6",
+    "timezone": "America/Guatemala",
     "callingCode": "+502",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
@@ -4339,7 +4339,7 @@ const raw: Gen[] = [
     "languages": [
       "French"
     ],
-    "timezone": "GMT-1",
+    "timezone": "Africa/Conakry",
     "callingCode": "+224",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -4404,7 +4404,7 @@ const raw: Gen[] = [
       "Portuguese",
       "Upper Guinea Creole"
     ],
-    "timezone": "GMT-1",
+    "timezone": "Africa/Bissau",
     "callingCode": "+245",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -4467,7 +4467,7 @@ const raw: Gen[] = [
     "languages": [
       "English"
     ],
-    "timezone": "GMT-4",
+    "timezone": "America/Guyana",
     "callingCode": "+592",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season (roughly May–September) is ideal for most regions",
@@ -4531,7 +4531,7 @@ const raw: Gen[] = [
       "French",
       "Haitian Creole"
     ],
-    "timezone": "GMT-5",
+    "timezone": "America/Port-au-Prince",
     "callingCode": "+509",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
@@ -4592,7 +4592,7 @@ const raw: Gen[] = [
     "languages": [
       "Spanish"
     ],
-    "timezone": "GMT-6",
+    "timezone": "America/Tegucigalpa",
     "callingCode": "+504",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
@@ -4654,7 +4654,7 @@ const raw: Gen[] = [
     "languages": [
       "Hungarian"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Europe/Budapest",
     "callingCode": "+36",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -4716,7 +4716,7 @@ const raw: Gen[] = [
     "languages": [
       "Icelandic"
     ],
-    "timezone": "GMT-1",
+    "timezone": "Atlantic/Reykjavik",
     "callingCode": "+354",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -4782,7 +4782,7 @@ const raw: Gen[] = [
       "Hindi",
       "Tamil"
     ],
-    "timezone": "GMT+5",
+    "timezone": "Asia/Kolkata",
     "callingCode": "+91",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -4846,7 +4846,7 @@ const raw: Gen[] = [
     "languages": [
       "Indonesian"
     ],
-    "timezone": "GMT+8",
+    "timezone": "Asia/Jakarta",
     "callingCode": "+62",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -4910,7 +4910,7 @@ const raw: Gen[] = [
     "languages": [
       "Persian (Farsi)"
     ],
-    "timezone": "GMT+4",
+    "timezone": "Asia/Tehran",
     "callingCode": "+98",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -4976,7 +4976,7 @@ const raw: Gen[] = [
       "Aramaic",
       "Sorani"
     ],
-    "timezone": "GMT+3",
+    "timezone": "Asia/Baghdad",
     "callingCode": "+964",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -5039,7 +5039,7 @@ const raw: Gen[] = [
       "English",
       "Irish"
     ],
-    "timezone": "GMT-1",
+    "timezone": "Europe/Dublin",
     "callingCode": "+353",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -5103,7 +5103,7 @@ const raw: Gen[] = [
       "Arabic",
       "Hebrew"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Asia/Jerusalem",
     "callingCode": "+972",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -5166,7 +5166,7 @@ const raw: Gen[] = [
     "languages": [
       "Italian"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Europe/Rome",
     "callingCode": "+39",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -5230,7 +5230,7 @@ const raw: Gen[] = [
     "languages": [
       "French"
     ],
-    "timezone": "GMT+0",
+    "timezone": "Africa/Abidjan",
     "callingCode": "+225",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -5293,7 +5293,7 @@ const raw: Gen[] = [
       "English",
       "Jamaican Patois"
     ],
-    "timezone": "GMT-5",
+    "timezone": "America/Jamaica",
     "callingCode": "+1876",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
@@ -5357,7 +5357,7 @@ const raw: Gen[] = [
     "languages": [
       "Japanese"
     ],
-    "timezone": "GMT+9",
+    "timezone": "Asia/Tokyo",
     "callingCode": "+81",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -5421,7 +5421,7 @@ const raw: Gen[] = [
     "languages": [
       "Arabic"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Asia/Amman",
     "callingCode": "+962",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -5485,7 +5485,7 @@ const raw: Gen[] = [
       "Kazakh",
       "Russian"
     ],
-    "timezone": "GMT+5",
+    "timezone": "Asia/Almaty",
     "callingCode": "+7",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -5550,7 +5550,7 @@ const raw: Gen[] = [
       "English",
       "Swahili"
     ],
-    "timezone": "GMT+3",
+    "timezone": "Africa/Nairobi",
     "callingCode": "+254",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -5615,7 +5615,7 @@ const raw: Gen[] = [
       "English",
       "Gilbertese"
     ],
-    "timezone": "GMT+12",
+    "timezone": "Pacific/Tarawa",
     "callingCode": "+686",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The warmer, drier months for beaches and the outdoors",
@@ -5677,7 +5677,7 @@ const raw: Gen[] = [
     "languages": [
       "Arabic"
     ],
-    "timezone": "GMT+3",
+    "timezone": "Asia/Kuwait",
     "callingCode": "+965",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -5742,7 +5742,7 @@ const raw: Gen[] = [
       "Kyrgyz",
       "Russian"
     ],
-    "timezone": "GMT+5",
+    "timezone": "Asia/Bishkek",
     "callingCode": "+996",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -5805,7 +5805,7 @@ const raw: Gen[] = [
     "languages": [
       "Lao"
     ],
-    "timezone": "GMT+7",
+    "timezone": "Asia/Vientiane",
     "callingCode": "+856",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -5867,7 +5867,7 @@ const raw: Gen[] = [
     "languages": [
       "Latvian"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Europe/Riga",
     "callingCode": "+371",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -5932,7 +5932,7 @@ const raw: Gen[] = [
       "Arabic",
       "French"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Asia/Beirut",
     "callingCode": "+961",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -5995,7 +5995,7 @@ const raw: Gen[] = [
       "English",
       "Sotho"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Africa/Maseru",
     "callingCode": "+266",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -6059,7 +6059,7 @@ const raw: Gen[] = [
     "languages": [
       "English"
     ],
-    "timezone": "GMT-1",
+    "timezone": "Africa/Monrovia",
     "callingCode": "+231",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -6123,7 +6123,7 @@ const raw: Gen[] = [
     "languages": [
       "Arabic"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Africa/Tripoli",
     "callingCode": "+218",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -6186,7 +6186,7 @@ const raw: Gen[] = [
     "languages": [
       "German"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Europe/Vaduz",
     "callingCode": "+423",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -6250,7 +6250,7 @@ const raw: Gen[] = [
     "languages": [
       "Lithuanian"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Europe/Vilnius",
     "callingCode": "+370",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -6316,7 +6316,7 @@ const raw: Gen[] = [
       "French",
       "Luxembourgish"
     ],
-    "timezone": "GMT+0",
+    "timezone": "Europe/Luxembourg",
     "callingCode": "+352",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -6381,7 +6381,7 @@ const raw: Gen[] = [
       "French",
       "Malagasy"
     ],
-    "timezone": "GMT+3",
+    "timezone": "Indian/Antananarivo",
     "callingCode": "+261",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -6446,7 +6446,7 @@ const raw: Gen[] = [
       "English",
       "Chewa"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Africa/Blantyre",
     "callingCode": "+265",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -6509,7 +6509,7 @@ const raw: Gen[] = [
       "English",
       "Malay"
     ],
-    "timezone": "GMT+8",
+    "timezone": "Asia/Kuala_Lumpur",
     "callingCode": "+60",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -6572,7 +6572,7 @@ const raw: Gen[] = [
     "languages": [
       "Maldivian"
     ],
-    "timezone": "GMT+5",
+    "timezone": "Indian/Maldives",
     "callingCode": "+960",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -6635,7 +6635,7 @@ const raw: Gen[] = [
     "languages": [
       "French"
     ],
-    "timezone": "GMT+0",
+    "timezone": "Africa/Bamako",
     "callingCode": "+223",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -6700,7 +6700,7 @@ const raw: Gen[] = [
       "English",
       "Maltese"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Europe/Malta",
     "callingCode": "+356",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -6763,7 +6763,7 @@ const raw: Gen[] = [
       "English",
       "Marshallese"
     ],
-    "timezone": "GMT+11",
+    "timezone": "Pacific/Majuro",
     "callingCode": "+692",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The warmer, drier months for beaches and the outdoors",
@@ -6826,7 +6826,7 @@ const raw: Gen[] = [
     "languages": [
       "Arabic"
     ],
-    "timezone": "GMT-1",
+    "timezone": "Africa/Nouakchott",
     "callingCode": "+222",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -6890,7 +6890,7 @@ const raw: Gen[] = [
       "French",
       "Mauritian Creole"
     ],
-    "timezone": "GMT+4",
+    "timezone": "Indian/Mauritius",
     "callingCode": "+230",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -6953,7 +6953,7 @@ const raw: Gen[] = [
     "languages": [
       "Spanish"
     ],
-    "timezone": "GMT-7",
+    "timezone": "America/Mexico_City",
     "callingCode": "+52",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
@@ -7016,7 +7016,7 @@ const raw: Gen[] = [
     "languages": [
       "English"
     ],
-    "timezone": "GMT+11",
+    "timezone": "Pacific/Pohnpei",
     "callingCode": "+691",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The warmer, drier months for beaches and the outdoors",
@@ -7080,7 +7080,7 @@ const raw: Gen[] = [
     "languages": [
       "Moldavian"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Europe/Chisinau",
     "callingCode": "+373",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -7142,7 +7142,7 @@ const raw: Gen[] = [
     "languages": [
       "French"
     ],
-    "timezone": "GMT+0",
+    "timezone": "Europe/Monaco",
     "callingCode": "+377",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -7206,7 +7206,7 @@ const raw: Gen[] = [
     "languages": [
       "Mongolian"
     ],
-    "timezone": "GMT+7",
+    "timezone": "Asia/Ulaanbaatar",
     "callingCode": "+976",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -7270,7 +7270,7 @@ const raw: Gen[] = [
     "languages": [
       "Montenegrin"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Europe/Podgorica",
     "callingCode": "+382",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -7334,7 +7334,7 @@ const raw: Gen[] = [
       "Arabic",
       "Berber"
     ],
-    "timezone": "GMT+0",
+    "timezone": "Africa/Casablanca",
     "callingCode": "+212",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -7397,7 +7397,7 @@ const raw: Gen[] = [
     "languages": [
       "Portuguese"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Africa/Maputo",
     "callingCode": "+258",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -7459,7 +7459,7 @@ const raw: Gen[] = [
     "languages": [
       "Burmese"
     ],
-    "timezone": "GMT+7",
+    "timezone": "Asia/Yangon",
     "callingCode": "+95",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -7531,7 +7531,7 @@ const raw: Gen[] = [
       "Ndonga",
       "Tswana"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Africa/Windhoek",
     "callingCode": "+264",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -7595,7 +7595,7 @@ const raw: Gen[] = [
       "English",
       "Nauru"
     ],
-    "timezone": "GMT+11",
+    "timezone": "Pacific/Nauru",
     "callingCode": "+674",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The warmer, drier months for beaches and the outdoors",
@@ -7659,7 +7659,7 @@ const raw: Gen[] = [
     "languages": [
       "Nepali"
     ],
-    "timezone": "GMT+6",
+    "timezone": "Asia/Kathmandu",
     "callingCode": "+977",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -7721,7 +7721,7 @@ const raw: Gen[] = [
     "languages": [
       "Dutch"
     ],
-    "timezone": "GMT+0",
+    "timezone": "Europe/Amsterdam",
     "callingCode": "+31",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -7787,7 +7787,7 @@ const raw: Gen[] = [
       "Māori",
       "New Zealand Sign Language"
     ],
-    "timezone": "GMT+12",
+    "timezone": "Pacific/Auckland",
     "callingCode": "+64",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The warmer, drier months for beaches and the outdoors",
@@ -7849,7 +7849,7 @@ const raw: Gen[] = [
     "languages": [
       "Spanish"
     ],
-    "timezone": "GMT-6",
+    "timezone": "America/Managua",
     "callingCode": "+505",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
@@ -7912,7 +7912,7 @@ const raw: Gen[] = [
     "languages": [
       "French"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Africa/Niamey",
     "callingCode": "+227",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -7975,7 +7975,7 @@ const raw: Gen[] = [
     "languages": [
       "English"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Africa/Lagos",
     "callingCode": "+234",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -8038,7 +8038,7 @@ const raw: Gen[] = [
     "languages": [
       "Korean"
     ],
-    "timezone": "GMT+8",
+    "timezone": "Asia/Pyongyang",
     "callingCode": "+850",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -8101,7 +8101,7 @@ const raw: Gen[] = [
     "languages": [
       "Macedonian"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Europe/Skopje",
     "callingCode": "+389",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -8166,7 +8166,7 @@ const raw: Gen[] = [
       "Norwegian Bokmål",
       "Sami"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Europe/Oslo",
     "callingCode": "+47",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -8230,7 +8230,7 @@ const raw: Gen[] = [
     "languages": [
       "Arabic"
     ],
-    "timezone": "GMT+4",
+    "timezone": "Asia/Muscat",
     "callingCode": "+968",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -8295,7 +8295,7 @@ const raw: Gen[] = [
       "English",
       "Urdu"
     ],
-    "timezone": "GMT+5",
+    "timezone": "Asia/Karachi",
     "callingCode": "+92",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -8360,7 +8360,7 @@ const raw: Gen[] = [
       "English",
       "Palauan"
     ],
-    "timezone": "GMT+9",
+    "timezone": "Pacific/Palau",
     "callingCode": "+680",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The warmer, drier months for beaches and the outdoors",
@@ -8424,7 +8424,7 @@ const raw: Gen[] = [
     "languages": [
       "Spanish"
     ],
-    "timezone": "GMT-5",
+    "timezone": "America/Panama",
     "callingCode": "+507",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
@@ -8490,7 +8490,7 @@ const raw: Gen[] = [
       "Hiri Motu",
       "Tok Pisin"
     ],
-    "timezone": "GMT+10",
+    "timezone": "Pacific/Port_Moresby",
     "callingCode": "+675",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The warmer, drier months for beaches and the outdoors",
@@ -8554,7 +8554,7 @@ const raw: Gen[] = [
       "Guaraní",
       "Spanish"
     ],
-    "timezone": "GMT-4",
+    "timezone": "America/Asuncion",
     "callingCode": "+595",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season (roughly May–September) is ideal for most regions",
@@ -8617,7 +8617,7 @@ const raw: Gen[] = [
       "Quechua",
       "Spanish"
     ],
-    "timezone": "GMT-5",
+    "timezone": "America/Lima",
     "callingCode": "+51",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season (roughly May–September) is ideal for most regions",
@@ -8680,7 +8680,7 @@ const raw: Gen[] = [
       "English",
       "Filipino"
     ],
-    "timezone": "GMT+8",
+    "timezone": "Asia/Manila",
     "callingCode": "+63",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -8742,7 +8742,7 @@ const raw: Gen[] = [
     "languages": [
       "Polish"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Europe/Warsaw",
     "callingCode": "+48",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -8806,7 +8806,7 @@ const raw: Gen[] = [
     "languages": [
       "Portuguese"
     ],
-    "timezone": "GMT-1",
+    "timezone": "Europe/Lisbon",
     "callingCode": "+351",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -8870,7 +8870,7 @@ const raw: Gen[] = [
     "languages": [
       "Arabic"
     ],
-    "timezone": "GMT+3",
+    "timezone": "Asia/Qatar",
     "callingCode": "+974",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -8932,7 +8932,7 @@ const raw: Gen[] = [
     "languages": [
       "Romanian"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Europe/Bucharest",
     "callingCode": "+40",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -8995,7 +8995,7 @@ const raw: Gen[] = [
     "languages": [
       "Russian"
     ],
-    "timezone": "GMT+7",
+    "timezone": "Europe/Moscow",
     "callingCode": "+7",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -9061,7 +9061,7 @@ const raw: Gen[] = [
       "French",
       "Kinyarwanda"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Africa/Kigali",
     "callingCode": "+250",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -9125,7 +9125,7 @@ const raw: Gen[] = [
     "languages": [
       "English"
     ],
-    "timezone": "GMT-4",
+    "timezone": "America/St_Kitts",
     "callingCode": "+1869",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
@@ -9189,7 +9189,7 @@ const raw: Gen[] = [
     "languages": [
       "English"
     ],
-    "timezone": "GMT-4",
+    "timezone": "America/St_Lucia",
     "callingCode": "+1758",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
@@ -9252,7 +9252,7 @@ const raw: Gen[] = [
     "languages": [
       "English"
     ],
-    "timezone": "GMT-4",
+    "timezone": "America/St_Vincent",
     "callingCode": "+1784",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
@@ -9317,7 +9317,7 @@ const raw: Gen[] = [
       "English",
       "Samoan"
     ],
-    "timezone": "GMT-11",
+    "timezone": "Pacific/Apia",
     "callingCode": "+685",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The warmer, drier months for beaches and the outdoors",
@@ -9381,7 +9381,7 @@ const raw: Gen[] = [
     "languages": [
       "Italian"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Europe/San_Marino",
     "callingCode": "+378",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -9444,7 +9444,7 @@ const raw: Gen[] = [
     "languages": [
       "Portuguese"
     ],
-    "timezone": "GMT+0",
+    "timezone": "Africa/Sao_Tome",
     "callingCode": "+239",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -9507,7 +9507,7 @@ const raw: Gen[] = [
     "languages": [
       "Arabic"
     ],
-    "timezone": "GMT+3",
+    "timezone": "Asia/Riyadh",
     "callingCode": "+966",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -9570,7 +9570,7 @@ const raw: Gen[] = [
     "languages": [
       "French"
     ],
-    "timezone": "GMT-1",
+    "timezone": "Africa/Dakar",
     "callingCode": "+221",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -9631,7 +9631,7 @@ const raw: Gen[] = [
     "languages": [
       "Serbian"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Europe/Belgrade",
     "callingCode": "+381",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -9696,7 +9696,7 @@ const raw: Gen[] = [
       "English",
       "French"
     ],
-    "timezone": "GMT+4",
+    "timezone": "Indian/Mahe",
     "callingCode": "+248",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -9757,7 +9757,7 @@ const raw: Gen[] = [
     "languages": [
       "English"
     ],
-    "timezone": "GMT-1",
+    "timezone": "Africa/Freetown",
     "callingCode": "+232",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -9824,7 +9824,7 @@ const raw: Gen[] = [
       "Tamil",
       "Chinese"
     ],
-    "timezone": "GMT+7",
+    "timezone": "Asia/Singapore",
     "callingCode": "+65",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -9888,7 +9888,7 @@ const raw: Gen[] = [
     "languages": [
       "Slovak"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Europe/Bratislava",
     "callingCode": "+421",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -9952,7 +9952,7 @@ const raw: Gen[] = [
     "languages": [
       "Slovene"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Europe/Ljubljana",
     "callingCode": "+386",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -10016,7 +10016,7 @@ const raw: Gen[] = [
     "languages": [
       "English"
     ],
-    "timezone": "GMT+11",
+    "timezone": "Pacific/Guadalcanal",
     "callingCode": "+677",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The warmer, drier months for beaches and the outdoors",
@@ -10080,7 +10080,7 @@ const raw: Gen[] = [
       "Arabic",
       "Somali"
     ],
-    "timezone": "GMT+3",
+    "timezone": "Africa/Mogadishu",
     "callingCode": "+252",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -10153,7 +10153,7 @@ const raw: Gen[] = [
       "Xhosa",
       "Zulu"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Africa/Johannesburg",
     "callingCode": "+27",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -10217,7 +10217,7 @@ const raw: Gen[] = [
     "languages": [
       "Korean"
     ],
-    "timezone": "GMT+9",
+    "timezone": "Asia/Seoul",
     "callingCode": "+82",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -10280,7 +10280,7 @@ const raw: Gen[] = [
     "languages": [
       "English"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Africa/Juba",
     "callingCode": "+211",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -10344,7 +10344,7 @@ const raw: Gen[] = [
     "languages": [
       "Spanish"
     ],
-    "timezone": "GMT+0",
+    "timezone": "Europe/Madrid",
     "callingCode": "+34",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -10409,7 +10409,7 @@ const raw: Gen[] = [
       "Sinhala",
       "Tamil"
     ],
-    "timezone": "GMT+5",
+    "timezone": "Asia/Colombo",
     "callingCode": "+94",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -10473,7 +10473,7 @@ const raw: Gen[] = [
       "Arabic",
       "English"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Africa/Khartoum",
     "callingCode": "+249",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -10536,7 +10536,7 @@ const raw: Gen[] = [
     "languages": [
       "Dutch"
     ],
-    "timezone": "GMT-4",
+    "timezone": "America/Paramaribo",
     "callingCode": "+597",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season (roughly May–September) is ideal for most regions",
@@ -10596,7 +10596,7 @@ const raw: Gen[] = [
     "languages": [
       "Swedish"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Europe/Stockholm",
     "callingCode": "+46",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -10662,7 +10662,7 @@ const raw: Gen[] = [
       "Italian",
       "Romansh"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Europe/Zurich",
     "callingCode": "+41",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -10726,7 +10726,7 @@ const raw: Gen[] = [
     "languages": [
       "Arabic"
     ],
-    "timezone": "GMT+3",
+    "timezone": "Asia/Damascus",
     "callingCode": "+963",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -10791,7 +10791,7 @@ const raw: Gen[] = [
       "Russian",
       "Tajik"
     ],
-    "timezone": "GMT+5",
+    "timezone": "Asia/Dushanbe",
     "callingCode": "+992",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -10856,7 +10856,7 @@ const raw: Gen[] = [
       "English",
       "Swahili"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Africa/Dar_es_Salaam",
     "callingCode": "+255",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -10919,7 +10919,7 @@ const raw: Gen[] = [
     "languages": [
       "Thai"
     ],
-    "timezone": "GMT+7",
+    "timezone": "Asia/Bangkok",
     "callingCode": "+66",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -10982,7 +10982,7 @@ const raw: Gen[] = [
       "Portuguese",
       "Tetum"
     ],
-    "timezone": "GMT+8",
+    "timezone": "Asia/Dili",
     "callingCode": "+670",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -11046,7 +11046,7 @@ const raw: Gen[] = [
     "languages": [
       "French"
     ],
-    "timezone": "GMT+0",
+    "timezone": "Africa/Lome",
     "callingCode": "+228",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -11110,7 +11110,7 @@ const raw: Gen[] = [
       "English",
       "Tongan"
     ],
-    "timezone": "GMT-12",
+    "timezone": "Pacific/Tongatapu",
     "callingCode": "+676",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The warmer, drier months for beaches and the outdoors",
@@ -11173,7 +11173,7 @@ const raw: Gen[] = [
     "languages": [
       "English"
     ],
-    "timezone": "GMT-4",
+    "timezone": "America/Port_of_Spain",
     "callingCode": "+1868",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
@@ -11236,7 +11236,7 @@ const raw: Gen[] = [
     "languages": [
       "Arabic"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Africa/Tunis",
     "callingCode": "+216",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -11298,7 +11298,7 @@ const raw: Gen[] = [
     "languages": [
       "Turkish"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Europe/Istanbul",
     "callingCode": "+90",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -11363,7 +11363,7 @@ const raw: Gen[] = [
       "Russian",
       "Turkmen"
     ],
-    "timezone": "GMT+4",
+    "timezone": "Asia/Ashgabat",
     "callingCode": "+993",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -11426,7 +11426,7 @@ const raw: Gen[] = [
       "English",
       "Tuvaluan"
     ],
-    "timezone": "GMT+12",
+    "timezone": "Pacific/Funafuti",
     "callingCode": "+688",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The warmer, drier months for beaches and the outdoors",
@@ -11490,7 +11490,7 @@ const raw: Gen[] = [
       "English",
       "Swahili"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Africa/Kampala",
     "callingCode": "+256",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -11554,7 +11554,7 @@ const raw: Gen[] = [
     "languages": [
       "Ukrainian"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Europe/Kyiv",
     "callingCode": "+380",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -11618,7 +11618,7 @@ const raw: Gen[] = [
     "languages": [
       "Arabic"
     ],
-    "timezone": "GMT+4",
+    "timezone": "Asia/Dubai",
     "callingCode": "+971",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -11681,7 +11681,7 @@ const raw: Gen[] = [
     "languages": [
       "English"
     ],
-    "timezone": "GMT+0",
+    "timezone": "Europe/London",
     "callingCode": "+44",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -11745,7 +11745,7 @@ const raw: Gen[] = [
     "languages": [
       "English"
     ],
-    "timezone": "GMT-6",
+    "timezone": "America/New_York",
     "callingCode": "+1",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
@@ -11808,7 +11808,7 @@ const raw: Gen[] = [
     "languages": [
       "Spanish"
     ],
-    "timezone": "GMT-4",
+    "timezone": "America/Montevideo",
     "callingCode": "+598",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season (roughly May–September) is ideal for most regions",
@@ -11872,7 +11872,7 @@ const raw: Gen[] = [
       "Russian",
       "Uzbek"
     ],
-    "timezone": "GMT+4",
+    "timezone": "Asia/Tashkent",
     "callingCode": "+998",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -11938,7 +11938,7 @@ const raw: Gen[] = [
       "English",
       "French"
     ],
-    "timezone": "GMT+11",
+    "timezone": "Pacific/Efate",
     "callingCode": "+678",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The warmer, drier months for beaches and the outdoors",
@@ -12003,7 +12003,7 @@ const raw: Gen[] = [
       "Italian",
       "Latin"
     ],
-    "timezone": "GMT+1",
+    "timezone": "Europe/Vatican",
     "callingCode": "+3",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -12065,7 +12065,7 @@ const raw: Gen[] = [
     "languages": [
       "Spanish"
     ],
-    "timezone": "GMT-4",
+    "timezone": "America/Caracas",
     "callingCode": "+58",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season (roughly May–September) is ideal for most regions",
@@ -12127,7 +12127,7 @@ const raw: Gen[] = [
     "languages": [
       "Vietnamese"
     ],
-    "timezone": "GMT+7",
+    "timezone": "Asia/Ho_Chi_Minh",
     "callingCode": "+84",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -12191,7 +12191,7 @@ const raw: Gen[] = [
     "languages": [
       "Arabic"
     ],
-    "timezone": "GMT+3",
+    "timezone": "Asia/Aden",
     "callingCode": "+967",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "November–March for cooler, drier conditions in most regions",
@@ -12255,7 +12255,7 @@ const raw: Gen[] = [
     "languages": [
       "English"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Africa/Lusaka",
     "callingCode": "+260",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
@@ -12332,7 +12332,7 @@ const raw: Gen[] = [
       "Xhosa",
       "Zimbabwean Sign Language"
     ],
-    "timezone": "GMT+2",
+    "timezone": "Africa/Harare",
     "callingCode": "+263",
     "visa": "Entry requirements vary by nationality — check visa rules before you travel.",
     "bestTime": "The dry season offers the best wildlife viewing and travel comfort",
