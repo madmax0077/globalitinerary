@@ -2019,5 +2019,31 @@ export const cityPicks: Record<string, CityPicks> = {
       { name: "Sofitel Legend People's Grand Hotel Xi'an", area: "Downtown", priceLevel: 4, note: "1950s heritage grand hotel" },
       { name: "Grand Mercure Xi'an on Renmin Square", area: "City centre", priceLevel: 3, note: "Central square tourist base" }
     ],
+  },
+  beijing: {
+    restaurants: [
+      { name: "Jing Yaa Tang", cuisine: "Peking duck", priceLevel: 4, note: "Opulent duck ceremony at The Opposite House" },
+      { name: "Dali Courtyard", cuisine: "Yunnan", priceLevel: 2, note: "Hutong courtyard favourite for cross-bridge noodles" },
+      { name: "TRB Hutong", cuisine: "Modern European", priceLevel: 4, note: "Temple-restaurant fine dining near Forbidden City" },
+      { name: "Duck de Chine", cuisine: "Peking duck", priceLevel: 3, note: "1949 The Hidden City duck specialist" }
+    ],
+    stays: [
+      { name: "The Peninsula Beijing", area: "Wangfujing", priceLevel: 4, note: "Classic luxury on the Golden Resources shopping strip" },
+      { name: "Aman at Summer Palace", area: "Summer Palace", priceLevel: 4, note: "Imperial garden resort beside UNESCO palace grounds" },
+      { name: "Hotel Éclat Beijing", area: "Parkview Green", priceLevel: 4, note: "Private-art-collection boutique in avant-garde pyramid" }
+    ],
+  },
+  moscow: {
+    restaurants: [
+      { name: "White Rabbit", cuisine: "Modern Russian", priceLevel: 4, note: "Smolenskaya Passage dome with panoramic tasting menus" },
+      { name: "Cafe Pushkin", cuisine: "Russian", priceLevel: 3, note: "Tverskoy Boulevard aristocratic dining institution" },
+      { name: "Dr. Zhivago", cuisine: "Russian", priceLevel: 3, note: "National Hotel Red Square-view classic cuisine" },
+      { name: "Vatrushka", cuisine: "Modern Russian", priceLevel: 2, note: "Patriarch's Ponds neighbourhood bistro favourite" }
+    ],
+    stays: [
+      { name: "Hotel National", area: "Red Square", priceLevel: 4, note: "1903 landmark facing the Kremlin walls" },
+      { name: "Four Seasons Moscow", area: "Red Square", priceLevel: 4, note: "Modern luxury steps from Red Square" },
+      { name: "St. Regis Moscow Nikolskaya", area: "Kitay-Gorod", priceLevel: 4, note: "Grande dame on Nikolskaya Street" }
+    ],
   }
 };

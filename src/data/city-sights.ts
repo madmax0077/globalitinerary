@@ -1826,5 +1826,15 @@ export const citySights: Record<string, string[]> = {
     "Shaanxi History Museum",
     "Huaqing Palace",
     "Big Wild Goose Pagoda fountain show"
+  ],
+  moscow: [
+    "Red Square & St Basil's Cathedral",
+    "Kremlin & Armoury Chamber",
+    "Bolshoi Theatre",
+    "GUM & State Historical Museum",
+    "Cathedral of Christ the Saviour",
+    "Gorky Park",
+    "Moscow Metro architecture tour",
+    "Tretyakov Gallery"
   ]
 };

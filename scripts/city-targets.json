@@ -4923,7 +4923,7 @@
     "population": 2625200,
     "lat": 20.86481,
     "lng": 106.68345,
-    "timezone": "Asia/Bangkok",
+    "timezone": "Asia/Ho_Chi_Minh",
     "isCapital": false
   },
   {
@@ -5001,7 +5001,7 @@
     "population": 8053663,
     "lat": 21.0245,
     "lng": 105.84117,
-    "timezone": "Asia/Bangkok",
+    "timezone": "Asia/Ho_Chi_Minh",
     "isCapital": true
   },
   {
@@ -5313,7 +5313,7 @@
     "population": 1380000,
     "lat": 16.4619,
     "lng": 107.59546,
-    "timezone": "Asia/Bangkok",
+    "timezone": "Asia/Ho_Chi_Minh",
     "isCapital": false
   },
   {
@@ -12684,7 +12684,7 @@
     "population": 65439,
     "lat": 43.00697,
     "lng": 40.9893,
-    "timezone": "Europe/Moscow",
+    "timezone": "Asia/Tbilisi",
     "isCapital": false
   },
   {

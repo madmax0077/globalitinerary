@@ -4,8 +4,10 @@
  */
 import fs from "node:fs";
 import { REAL_PACKS } from "./real-city-packs.mjs";
+import { MAJOR_HUB_PACKS } from "./major-hub-packs.mjs";
 
 const CURATED = new Set(["tokyo", "kyoto", "rome", "venice", "dubai", "santorini", "bali"]);
+const ALL_PACKS = { ...REAL_PACKS, ...MAJOR_HUB_PACKS };
 
 function hasKey(src, slug) {
   return new RegExp(`(?:^|\\n)\\s+(?:\"${slug}\"|${slug}):\\s*[\\[{]`, "m").test(src);
@@ -86,9 +88,9 @@ const enrichBlocks = [];
 const sightBlocks = [];
 const pickBlocks = [];
 
-for (const slug of Object.keys(REAL_PACKS).sort()) {
+for (const slug of Object.keys(ALL_PACKS).sort()) {
   if (CURATED.has(slug)) continue;
-  const p = REAL_PACKS[slug];
+  const p = ALL_PACKS[slug];
   if (!p?.restaurants?.length || !p?.stays?.length || !p?.sights?.length) {
     console.warn("incomplete", slug);
     continue;

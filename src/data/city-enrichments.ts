@@ -2238,5 +2238,255 @@ export const cityEnrichments: Record<string, CityEnrichment> = {
       { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
     ],
     featured: true,
+  },
+  bangkok: {
+    ...stock("longtail", ["temple", "food", "cityNight"]),
+    tagline: "Golden spires, night markets and some of Asia's best street food",
+    overview:
+      "Bangkok pulses between sacred temple mornings and neon-soaked nights — tuk-tuk rides through Chinatown, boat noodles along khlongs, and rooftop bars overlooking the Chao Phraya. The city's eating culture runs from Michelin-starred street stalls to progressive Thai tasting menus that reframe centuries of spice and balance.",
+    bestTime: "November–February for cooler, drier weather",
+    weather: "Tropical — hot year-round; rainy May–October; humid always",
+    airport: "Suvarnabhumi (BKK) and Don Mueang (DMK) for regional LCCs",
+    metro: "BTS Skytrain, MRT subway, Airport Rail Link and river boats",
+    transport: "BTS/MRT for traffic-free hops; Grab for rides; Chao Phraya express boats for temples",
+    shopping: ["Chatuchak Weekend Market", "Siam Paragon", "Asiatique riverfront", "ICONSIAM"],
+    nightlife: ["Khao San Road", "Thonglor & Ekkamai", "Rooftop bars Silom–Sathorn", "Chinatown Yaowarat at night"],
+    museums: ["Grand Palace & Wat Phra Kaew complex", "Jim Thompson House", "Bangkok National Museum"],
+    localFoods: ["Pad thai", "Boat noodles", "Mango sticky rice", "Tom yum goong"],
+    hiddenGems: ["Wat Arun at sunset from river", "Talad Noi street art alleys", "Bang Krachao green lung by ferry"],
+    tips: [
+      "Dress modestly for temples — cover shoulders and knees",
+      "Carry cash for street food and small vendors",
+      "Allow extra time for traffic — Skytrain beats taxis at rush hour"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  beijing: {
+    ...stock("temple", ["cityNight", "food", "kyoto"]),
+    tagline: "Forbidden City gates, hutong alleys and Peking duck rituals",
+    overview:
+      "Beijing layers imperial grandeur onto everyday hutong life — dawn tai chi beside Temple of Heaven, afternoons inside the Forbidden City's vermilion walls, and evenings of Peking duck carved tableside in century-old restaurants. Great Wall day trips, contemporary art in 798 District and some of China's most refined regional cuisines make the capital far more than a political centre.",
+    bestTime: "April–May and September–October for clear skies and mild temperatures",
+    weather: "Continental monsoon — hot humid summers; cold dry winters; spring sandstorms possible",
+    airport: "Beijing Capital (PEK) and Daxing (PKX)",
+    metro: "Beijing Subway — extensive and inexpensive",
+    transport: "Yikatong transit card; metro covers most sights; hire car/driver for Great Wall",
+    shopping: ["Wangfujing Street", "Silk Market", "Panjiayuan Antique Market", "Sanlitun Taikoo Li"],
+    nightlife: ["Sanlitun bar street", "Houhai lake bars", "798 art district openings", "Acrobatics at Chaoyang Theatre"],
+    museums: ["Palace Museum (Forbidden City)", "National Museum of China", "Capital Museum"],
+    localFoods: ["Peking duck", "Jianbing street crepe", "Zhajiangmian noodles", "Mongolian hot pot"],
+    hiddenGems: ["Drum and Bell Towers hutong views", "Confucius Temple & Imperial Academy", "Mutianyu Great Wall (less crowded)"],
+    tips: [
+      "Book Forbidden City tickets online — daily capacity limits apply",
+      "Download VPN before arrival if you need Western apps",
+      "Air quality varies — check AQI and plan outdoor days accordingly"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  cairo: {
+    ...stock("sahara", ["temple", "desertCamp", "cityNight"]),
+    tagline: "Pyramids on the horizon and millennia along the Nile",
+    overview:
+      "Cairo overwhelms in the best way — the Giza pyramids rise beyond the urban sprawl, Islamic Cairo's minarets pierce dusty golden light, and the Egyptian Museum holds treasures that rewrote human history. Khan el-Khalili bazaar chaos, Nile felucca sunsets and day trips to Saqqara or Memphis layer ancient wonder onto modern Arab street life.",
+    bestTime: "October–April for cooler desert sightseeing",
+    weather: "Desert — hot dry summers; mild winters; very little rain",
+    airport: "Cairo International (CAI); Sphinx International (SPX) near Giza for some routes",
+    metro: "Cairo Metro (limited lines) + Uber/Careem; no metro to pyramids",
+    transport: "Uber/Careem reliable; organised tours for pyramids; metro for downtown and Coptic Cairo",
+    shopping: ["Khan el-Khalili bazaar", "City Stars Mall", "Street of the Tentmakers", "Zamalek boutiques"],
+    nightlife: ["Zamalek cafés and bars", "Nile dinner cruises", "Al-Azhar Park at night", "Downtown belle époque cafés"],
+    museums: ["Egyptian Museum (Tahrir)", "National Museum of Egyptian Civilization", "Coptic Museum"],
+    localFoods: ["Koshari", "Ful medames", "Molokhia", "Shawarma and falafel"],
+    hiddenGems: ["Al-Azhar Park sunset views", "Cave Church in Mokattam", "Ibn Tulun Mosque minaret climb"],
+    tips: [
+      "Start Giza pyramids at opening to beat heat and crowds",
+      "Bargain hard for taxis and bazaar goods — agree price first",
+      "Carry small notes for baksheesh at sites and services"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  istanbul: {
+    ...stock("temple", ["cityNight", "coast", "food"]),
+    tagline: "Minarets at dawn, bazaar haggling and Bosphorus sunsets",
+    overview:
+      "Istanbul straddles two continents where Byzantine domes and Ottoman minarets share the skyline — mornings begin with simit and çay overlooking the Golden Horn, afternoons get lost in the Grand Bazaar, and evenings mean meze on a Bosphorus terrace as ferries cross between Europe and Asia.",
+    bestTime: "April–May and September–October for pleasant sightseeing weather",
+    weather: "Mediterranean-continental — hot dry summers; cool wet winters",
+    airport: "Istanbul Airport (IST) on European side; Sabiha Gökçen (SAW) for some LCCs",
+    metro: "Metro, tram, Marmaray undersea rail, funiculars and ferries",
+    transport: "Istanbulkart for all transit; ferries are essential for Bosphorus; walk Sultanahmet core",
+    shopping: ["Grand Bazaar", "Spice Bazaar", "İstiklal Avenue", "Nişantaşı boutiques"],
+    nightlife: ["Beyoğlu & İstiklal", "Karaköy wine bars", "Ortaköy waterfront", "Kadıköy on the Asian side"],
+    museums: ["Hagia Sophia", "Topkapi Palace Museum", "Istanbul Archaeological Museums"],
+    localFoods: ["Kebab & döner", "Meze spreads", "Baklava", "Turkish breakfast spread"],
+    hiddenGems: ["Balat colourful hillside streets", "Pierre Loti Hill café views", "Princes' Islands ferry escape"],
+    tips: [
+      "Hagia Sophia and Topkapi — buy skip-the-line tickets online",
+      "Haggle politely in bazaars — start around half the asking price",
+      "Remove shoes and dress modestly in active mosques"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  london: {
+    ...stock("london", ["cityNight", "food", "coast"]),
+    tagline: "Thames bridges, West End lights and centuries of layered history",
+    overview:
+      "London unfolds in distinct villages — Borough Market lunches, South Bank strolls past Tate Modern, and West End shows after dark. Royal pageantry at Buckingham Palace sits beside world museums, pub culture and a restaurant scene that spans Punjabi canteens in Soho to Michelin temples in Mayfair.",
+    bestTime: "May–September for longest days; December for festive lights",
+    weather: "Maritime — mild, changeable year-round; pack layers and a compact umbrella",
+    airport: "Heathrow (LHR), Gatwick (LGW), Stansted (STN) and City (LCY)",
+    metro: "Tube, Overground, Elizabeth line, buses and river Thames Clippers",
+    transport: "Contactless/Oyster for transit; walk central zones; National Rail for day trips",
+    shopping: ["Covent Garden", "Regent Street & Oxford Street", "Borough Market", "Camden Market"],
+    nightlife: ["Soho", "Shoreditch", "South Bank bars", "West End theatre district"],
+    museums: ["British Museum", "Tate Modern", "Natural History Museum"],
+    localFoods: ["Full English breakfast", "Fish and chips", "Sunday roast", "Afternoon tea"],
+    hiddenGems: ["Kyoto Garden in Holland Park", "Leadenhall Market", "Little Venice canal walk"],
+    tips: [
+      "Many major museums are free — arrive early on weekends",
+      "Book West End tickets and Tower of London online",
+      "Stand right on Tube escalators — Londoners notice"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  "mexico-city": {
+    ...stock("food", ["cityNight", "temple", "colosseum"]),
+    tagline: "Aztec ruins beneath art deco boulevards and world-class tacos",
+    overview:
+      "Mexico City is a high-altitude megacity with soul — Templo Mayor ruins sit blocks from Frida Kahlo's Casa Azul, Roma Norte coffee shops spill onto tree-lined streets, and weekend mornings mean chilaquiles followed by Xochimilco trajinera boats. The food scene rivals any capital on earth, from street tlacoyos to tasting menus that celebrate indigenous ingredients.",
+    bestTime: "March–May for warm dry weather before summer rains",
+    weather: "Subtropical highland — mild year-round; rainy June–September afternoons",
+    airport: "Benito Juárez International (MEX); Felipe Ángeles (NLU) alternate",
+    metro: "Metro CDMX — one of world's largest; Metrobús BRT; Ecobici bikes",
+    transport: "Metro for cross-city; Uber widely used; walk Roma–Condesa and Centro Histórico cores",
+    shopping: ["La Ciudadela crafts market", "Polanco boutiques", "Mercado de San Juan", "Coyoacán markets"],
+    nightlife: ["Roma Norte mezcalerías", "Condesa bars", "Polanco lounges", "Lucha libre at Arena México"],
+    museums: ["National Museum of Anthropology", "Frida Kahlo Museum", "Palacio de Bellas Artes"],
+    localFoods: ["Tacos al pastor", "Tlayudas", "Chilaquiles", "Mezcal and pulque"],
+    hiddenGems: ["Sunny rooftop at Biblioteca Vasconcelos", "Desierto de los Leones forest", "San Ángel Saturday bazaar"],
+    tips: [
+      "Altitude 2,240 m — hydrate and pace yourself first days",
+      "Use official sitio taxis or Uber from airport",
+      "Sunday muévelo en bici closes major avenues to cars"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  moscow: {
+    ...stock("cityNight", ["temple", "food", "norway"]),
+    tagline: "Onion domes, Bolshoi ballet and Red Square at midnight",
+    overview:
+      "Moscow blends imperial scale with contemporary edge — St Basil's candy-coloured domes anchor Red Square, the Metro doubles as an underground art gallery, and Gorky Park transforms into a summer social hub. World-class ballet, vodka-fuelled zakuski and a dining scene from Soviet nostalgia to White Rabbit's skyline tasting menus reward visitors who look beyond the Cold War clichés.",
+    bestTime: "May–September for warm walks; December for snow and New Year lights",
+    weather: "Continental — cold snowy winters; warm summers; brief spring and autumn",
+    airport: "Sheremetyevo (SVO), Domodedovo (DME) and Vnukovo (VKO)",
+    metro: "Moscow Metro — ornate stations and extensive network",
+    transport: "Troika card for metro/buses; walk central ring; Yandex Go for rides",
+    shopping: ["GUM department store", "Arbat Street", "TSUM luxury", "Danilovsky Market"],
+    nightlife: ["Patriarch's Ponds bars", "Red October island clubs", "Kitay-Gorod", "Bolshoi Theatre"],
+    museums: ["State Tretyakov Gallery", "Pushkin State Museum of Fine Arts", "Garage Museum of Contemporary Art"],
+    localFoods: ["Borscht", "Blini with caviar", "Pelmeni", "Beef stroganoff"],
+    hiddenGems: ["Metro station architecture tour", "Izmailovsky flea market", "VDNKh Soviet exhibition park"],
+    tips: [
+      "Carry passport — hotels register guests; occasional ID checks",
+      "Book Bolshoi tickets months ahead online",
+      "Learn Cyrillic basics — helps with Metro navigation"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  paris: {
+    ...stock("eiffel", ["paris", "food", "cityNight"]),
+    tagline: "Left Bank cafés, Haussmann boulevards and golden hour on the Seine",
+    overview:
+      "Paris rewards slow wandering — morning croissants in Saint-Germain, Impressionist afternoons at the Musée d'Orsay, and evenings when the Eiffel Tower sparkles over river barges. Beyond the postcard icons, neighbourhood marchés, wine bars and day trips to Versailles or Giverny reveal why the city still sets the standard for art, food and flânerie.",
+    bestTime: "April–June and September–October for mild weather and long daylight",
+    weather: "Oceanic — mild winters; warm summers; occasional heat waves in August",
+    airport: "Charles de Gaulle (CDG) and Orly (ORY); Beauvais (BVA) for budget carriers",
+    metro: "Métro, RER suburban rail, buses and Vélib' bike share",
+    transport: "Navigo Easy or carnet tickets; walk within arrondissements; RER for Versailles and airports",
+    shopping: ["Le Marais boutiques", "Galeries Lafayette", "Saint-Ouen flea market", "Rue de Rivoli department stores"],
+    nightlife: ["Canal Saint-Martin wine bars", "Oberkampf", "Pigalle", "Seine riverfront at dusk"],
+    museums: ["Louvre Museum", "Musée d'Orsay", "Centre Pompidou"],
+    localFoods: ["Baguette and viennoiserie", "Steak frites", "Onion soup", "Macarons"],
+    hiddenGems: ["Promenade Plantée elevated park", "Musée de la Chasse et de la Nature", "Square du Vert-Galant tip of Île de la Cité"],
+    tips: [
+      "Book Louvre and Eiffel Tower timed slots weeks ahead",
+      "Many museums free first Sunday of month — expect crowds",
+      "Restaurant kitchens often close 2–7 pm — plan lunch accordingly"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  singapore: {
+    ...stock("cityNight", ["food", "coast", "maldives"]),
+    tagline: "Garden city skylines, hawker halls and Peranakan heritage",
+    overview:
+      "Singapore compresses Asia into one impeccably organised island — hawker-centre lunches beside Marina Bay's futurist skyline, heritage shophouses in Katong, and rainforest canopy walks minutes from the financial district. Strictly multicultural and relentlessly food-obsessed, it works equally as a stopover and a destination in its own right.",
+    bestTime: "February–April for driest weather; year-round events calendar",
+    weather: "Equatorial — hot and humid daily; brief tropical showers common",
+    airport: "Changi (SIN) — consistently ranked world's best; Jewel for layovers",
+    metro: "MRT subway and extensive bus network",
+    transport: "EZ-Link or SimplyGo card; MRT covers most sights; Grab for late nights",
+    shopping: ["Orchard Road", "VivoCity", "Haji Lane boutiques", "Mustafa Centre"],
+    nightlife: ["Clarke Quay", "Marina Bay rooftop bars", "Ann Siang Hill", "Sentosa beach clubs"],
+    museums: ["National Gallery Singapore", "ArtScience Museum", "Asian Civilisations Museum"],
+    localFoods: ["Hainanese chicken rice", "Chilli crab", "Laksa", "Kaya toast"],
+    hiddenGems: ["Haw Par Villa", "Southern Ridges canopy walk", "Pulau Ubin island day trip"],
+    tips: [
+      "No chewing gum sales — fines for littering are real",
+      "Reserve Odette and fine dining weeks ahead",
+      "Carry an umbrella — downpours arrive fast"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  sydney: {
+    ...stock("beach", ["coast", "cityNight", "nyc"]),
+    tagline: "Harbour sails, Bondi surf and Pacific light",
+    overview:
+      "Sydney wraps a glittering harbour around outdoor living — ferry hops to Manly, coastal walks from Bondi to Coogee, and opera-house sunsets that feel almost too perfect. Beyond the icons, inner-city neighbourhoods like Surry Hills and Newtown deliver coffee culture, Asian dining and a relaxed Australian warmth that defines the city's appeal.",
+    bestTime: "September–November and March–May for warm, less crowded days",
+    weather: "Humid subtropical — hot summers; mild winters; strong UV year-round",
+    airport: "Sydney Kingsford Smith (SYD); train to Central in ~15 min",
+    metro: "Sydney Metro, trains, buses, light rail and harbour ferries",
+    transport: "Opal card for all transit; ferries are scenic and practical; walk the CBD and Rocks",
+    shopping: ["Queen Victoria Building", "Pitt Street Mall", "Bondi Markets", "The Rocks weekend market"],
+    nightlife: ["Kings Cross & Potts Point", "Darling Harbour", "Surry Hills pubs", "Oxford Street"],
+    museums: ["Art Gallery of New South Wales", "Australian Museum", "Museum of Contemporary Art Australia"],
+    localFoods: ["Meat pies", "Fresh seafood", "Avocado toast", "Flat white coffee"],
+    hiddenGems: ["Wendy's Secret Garden Lavender Bay", "Barangaroo Reserve harbour walk", "Wattamolla beach in Royal National Park"],
+    tips: [
+      "Slip-slop-slap — sun is fierce even on cloudy days",
+      "Book BridgeClimb and opera house tours ahead in peak season",
+      "Sunday ferries and Opal fare caps can save money"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
   }
 };
