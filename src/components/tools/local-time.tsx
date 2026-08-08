@@ -87,11 +87,6 @@ export function LocalTime({ timezone, label }: { timezone: string; label?: strin
       <p className="mt-1 text-sm text-muted-foreground">
         {date} · {zoneLabel}
       </p>
-      {iana && (
-        <p className="mt-1 text-xs text-muted-foreground">
-          Standard time zone ({formatUtcOffset(timezone, now)})
-        </p>
-      )}
     </div>
   );
 }
