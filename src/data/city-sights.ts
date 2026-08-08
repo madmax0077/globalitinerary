@@ -1217,4 +1217,614 @@ export const citySights: Record<string, string[]> = {
     "Puerto Juárez / Isla Blanca",
     "Nightlife on Boulevard Kukulcán",
   ],
+  agra: [
+    "Taj Mahal at sunrise",
+    "Agra Fort",
+    "Mehtab Bagh sunset view",
+    "Itmad-ud-Daulah",
+    "Fatehpur Sikri day trip",
+    "Kalakriti cultural show",
+    "Sadar Bazaar",
+    "Jama Masjid Agra"
+  ],
+  aswan: [
+    "Philae Temple",
+    "Aswan High Dam",
+    "Unfinished Obelisk",
+    "Nubian villages",
+    "Felucca sunset",
+    "Abu Simbel day trip",
+    "Elephantine Island",
+    "Souk Aswan"
+  ],
+  atlanta: [
+    "Georgia Aquarium",
+    "World of Coca-Cola",
+    "MLK Jr. National Historical Park",
+    "Atlanta BeltLine",
+    "Piedmont Park",
+    "High Museum of Art",
+    "Ponce City Market",
+    "Centennial Olympic Park"
+  ],
+  austin: [
+    "Lady Bird Lake trail",
+    "Barton Springs Pool",
+    "South Congress (SoCo)",
+    "Texas State Capitol",
+    "Live music on Sixth Street / Rainey",
+    "Food-truck parks",
+    "Mount Bonnell",
+    "Day trip to Fredericksburg / Hill Country"
+  ],
+  banff: [
+    "Banff Avenue & Cascade Mountain views",
+    "Lake Louise",
+    "Moraine Lake (seasonal access)",
+    "Banff Gondola",
+    "Bow Falls",
+    "Johnston Canyon",
+    "Vermilion Lakes sunrise",
+    "Icefields Parkway day trip"
+  ],
+  bilbao: [
+    "Guggenheim Museum",
+    "Casco Viejo pintxos",
+    "Azkuna Zentroa",
+    "Funicular Artxanda views",
+    "Mercado de la Ribera",
+    "Bilbao Fine Arts Museum",
+    "Nervión riverside walk",
+    "San Juan de Gaztelugatxe day trip"
+  ],
+  bodrum: [
+    "Bodrum Castle & Underwater Museum",
+    "Bodrum Marina",
+    "Windmills viewpoint",
+    "Bitez & Gümbet beaches",
+    "Ancient Theatre",
+    "Day boat to Greek islands (seasonal)",
+    "Mazi / Ortakent beaches",
+    "Old bazaar lanes"
+  ],
+  boracay: [
+    "White Beach Stations 1–3",
+    "Puka Shell Beach",
+    "Diniwid Beach sunset",
+    "Island hopping",
+    "Cliff dive / Ariel's Point day trip",
+    "D'Mall",
+    "Parasailing / water sports",
+    "Willy's Rock"
+  ],
+  bordeaux: [
+    "La Cité du Vin",
+    "Place de la Bourse & Miroir d'eau",
+    "Saint-Émilion day trip",
+    "Chartrons district",
+    "Bordeaux Cathedral",
+    "Garonne river quays",
+    "Wine tasting houses",
+    "CAPC museum"
+  ],
+  cairns: [
+    "Great Barrier Reef day trip",
+    "Kuranda Scenic Railway / Skyrail",
+    "Esplanade Lagoon",
+    "Daintree Rainforest day trip",
+    "Flecker Botanic Gardens",
+    "Night Zoo",
+    "Palm Cove",
+    "Atherton Tablelands"
+  ],
+  cappadocia: [
+    "Göreme Open-Air Museum",
+    "Hot-air balloon sunrise",
+    "Love Valley / Rose Valley hikes",
+    "Uçhisar Castle",
+    "Underground cities (Kaymakli/Derinkuyu)",
+    "Pottery in Avanos",
+    "Paşabağ fairy chimneys",
+    "Sunset viewpoint tours"
+  ],
+  charleston: [
+    "Historic District walking tour",
+    "Rainbow Row",
+    "Battery & White Point Garden",
+    "Fort Sumter",
+    "Boone Hall or Magnolia Plantation",
+    "King Street shopping",
+    "Waterfront Park pineapple fountain",
+    "Shem Creek"
+  ],
+  crete: [
+    "Heraklion Archaeological Museum",
+    "Knossos Palace",
+    "Koules Fortress",
+    "Central Market",
+    "Spinalonga day trip",
+    "Knossos + Heraklion combo",
+    "Nearby beaches",
+    "Historical Museum of Crete"
+  ],
+  denver: [
+    "Red Rocks Amphitheatre",
+    "Denver Art Museum",
+    "16th Street Mall",
+    "Union Station",
+    "Rocky Mountain National Park day trip",
+    "LoDo neighbourhood",
+    "Denver Botanic Gardens",
+    "Coors Field area"
+  ],
+  fez: [
+    "Fes el-Bali medina",
+    "Al-Attarine Madrasa",
+    "Chouara Tannery viewpoint",
+    "Bou Inania Madrasa",
+    "Bab Bou Jeloud",
+    "Nejjarine Museum",
+    "Jewish Quarter (Mellah)",
+    "Day trip to Meknes / Volubilis"
+  ],
+  fiji: [
+    "Denarau beaches",
+    "Island hopping / Mamanucas",
+    "Sri Siva Subramaniya Temple",
+    "Garden of the Sleeping Giant",
+    "Cloud 9 day trip (seasonal)",
+    "Village visit",
+    "Snorkel reefs",
+    "Sunset on Denarau"
+  ],
+  frankfurt: [
+    "Römerberg Altstadt",
+    "Main Tower observation deck",
+    "Städel Museum",
+    "Palmengarten",
+    "Goethe House",
+    "Sachsenhausen apple-wine quarter",
+    "Zeil shopping",
+    "Rhine Valley day trip"
+  ],
+  galapagos: [
+    "Charles Darwin Research Station",
+    "La Lobería sea lions",
+    "Tortuga Bay",
+    "Bay tour snorkelling",
+    "Fish market pelicans",
+    "Santa Cruz highlands tortoises",
+    "Bike to Garrapatero Beach",
+    "Island-hopping day tours"
+  ],
+  galle: [
+    "Galle Fort ramparts",
+    "Lighthouse & Clock Tower",
+    "Dutch Reformed Church",
+    "Jungle Beach",
+    "Unawatuna Beach",
+    "Maritime Museum",
+    "Pedlar Street cafés",
+    "Sunset on the walls"
+  ],
+  goa: [
+    "Calangute / Baga beaches",
+    "Old Goa churches",
+    "Panaji Latin Quarter (Fontainhas)",
+    "Anjuna flea market (seasonal)",
+    "Dudhsagar Falls day trip",
+    "Fort Aguada",
+    "Spice plantation tour",
+    "Sunset at Chapora / Vagator"
+  ],
+  guadalajara: [
+    "Instituto Cultural Cabañas",
+    "Guadalajara Cathedral",
+    "Tlaquepaque artisan town",
+    "Tequila day trip",
+    "Mercado San Juan de Dios",
+    "Hospicio Cabañas murals",
+    "Zapopan Basilica",
+    "Barranca de Huentitán viewpoint"
+  ],
+  hangzhou: [
+    "West Lake boat & walk",
+    "Lingyin Temple",
+    "Leifeng Pagoda",
+    "Longjing tea plantations",
+    "Qinghefang Ancient Street",
+    "Xixi Wetland",
+    "Impression West Lake show",
+    "Six Harmonies Pagoda"
+  ],
+  hobart: [
+    "Salamanca Market (Saturday)",
+    "MONA museum",
+    "Mount Wellington / kunanyi",
+    "Battery Point",
+    "Constitution Dock",
+    "Cascade Brewery",
+    "Port Arthur day trip",
+    "Kelly's Steps"
+  ],
+  "hoi-an": [
+    "Ancient Town lantern streets",
+    "Japanese Covered Bridge",
+    "Assembly Halls",
+    "Thu Bon River boat",
+    "An Bang Beach",
+    "Tra Que Vegetable Village",
+    "Tailor shopping",
+    "Night market"
+  ],
+  honolulu: [
+    "Waikiki Beach",
+    "Diamond Head summit",
+    "Pearl Harbor / USS Arizona",
+    "Hanauma Bay",
+    "Iolani Palace",
+    "North Shore beaches day trip",
+    "Nuʻuanu Pali Lookout",
+    "Ala Moana Beach Park"
+  ],
+  ibiza: [
+    "Dalt Vila old town",
+    "Ibiza Cathedral views",
+    "Port of Ibiza",
+    "Ses Salines Beach",
+    "Es Vedrà viewpoint",
+    "Sunset at Café del Mar area",
+    "Punta Galera",
+    "Formentera day ferry"
+  ],
+  iguazu: [
+    "Iguaçu National Park Brazilian side",
+    "Devil's Throat walkways",
+    "Macuco Safari boat (optional)",
+    "Bird Park",
+    "Argentine side day trip",
+    "Itaipu Dam",
+    "Marco das Três Fronteiras",
+    "Sunset at the falls"
+  ],
+  innsbruck: [
+    "Golden Roof",
+    "Nordkette cable car",
+    "Old Town (Altstadt)",
+    "Bergisel Ski Jump",
+    "Hofburg & Hofkirche",
+    "Inn promenade",
+    "Hungerburg",
+    "Hallstatt or Swarovski Crystal Worlds day trip"
+  ],
+  interlaken: [
+    "Harder Kulm viewpoint",
+    "Jungfraujoch day trip",
+    "Lake Thun / Brienz cruises",
+    "Höhematte park paragliding views",
+    "Schynige Platte",
+    "Trümmelbach Falls",
+    "Lauterbrunnen valley",
+    "Schilthorn / Piz Gloria"
+  ],
+  jeju: [
+    "Seongsan Ilchulbong",
+    "Hallasan National Park",
+    "Cheonjeyeon Falls",
+    "Manjanggul Lava Tube",
+    "Hyeopjae Beach",
+    "Dongmun Market",
+    "Teddy Bear Museum / theme parks",
+    "Olle walking trails"
+  ],
+  "koh-samui": [
+    "Chaweng Beach",
+    "Big Buddha (Wat Phra Yai)",
+    "Angel's Nests / viewpoint",
+    "Na Muang Waterfalls",
+    "Fisherman's Village",
+    "Ang Thong Marine Park day trip",
+    "Night markets",
+    "Coral cove snorkel"
+  ],
+  krabi: [
+    "Railay Beach",
+    "Ao Nang",
+    "Hong Islands day trip",
+    "Tiger Cave Temple",
+    "Emerald Pool / Hot Springs",
+    "Phi Phi day trip",
+    "Night market Ao Nang",
+    "Rock climbing at Railay"
+  ],
+  langkawi: [
+    "Sky Bridge & Cable Car",
+    "Kilim Geoforest Park",
+    "Eagle Square",
+    "Cenang Beach",
+    "Island hopping",
+    "Mangrove kayaking",
+    "Underwater World",
+    "Temurun Waterfall"
+  ],
+  "luang-prabang": [
+    "Night Market",
+    "Mount Phousi sunrise",
+    "Kuang Si Falls",
+    "Alms giving ceremony (respectfully)",
+    "Royal Palace Museum",
+    "Wat Xieng Thong",
+    "Mekong cruise",
+    "Bamboo Bridge area"
+  ],
+  lucerne: [
+    "Chapel Bridge (Kapellbrücke)",
+    "Lake Lucerne cruise",
+    "Mount Pilatus or Rigi",
+    "Old Town squares",
+    "Lion Monument",
+    "Swiss Museum of Transport",
+    "Musegg Wall",
+    "Jesuit Church"
+  ],
+  luxor: [
+    "Karnak Temple",
+    "Valley of the Kings",
+    "Hatshepsut Temple",
+    "Luxor Temple at night",
+    "Colossi of Memnon",
+    "Hot-air balloon (optional)",
+    "Felucca on the Nile",
+    "Luxor Museum"
+  ],
+  marrakech: [
+    "Jemaa el-Fnaa",
+    "Bahia Palace",
+    "Majorelle Garden",
+    "Koutoubia Mosque views",
+    "Medina souks",
+    "Saadian Tombs",
+    "El Badi Palace",
+    "Atlas Mountains day trip"
+  ],
+  mecca: [
+    "Masjid al-Haram & Kaaba (Muslim pilgrims)",
+    "Abraj Al Bait views",
+    "Zamzam cultural exhibits",
+    "Museum of the Two Holy Mosques",
+    "Jabal al-Nour (externally)",
+    "Local markets",
+    "Clock Tower complex",
+    "Guided pilgrim orientation"
+  ],
+  medina: [
+    "Prophet's Mosque (Al-Masjid an-Nabawi)",
+    "Quba Mosque",
+    "Mount Uhud",
+    "Al-Baqi area (respect rules)",
+    "Hejaz Railway Museum",
+    "Date markets",
+    "Ottoman architecture walks",
+    "Visitor centres for non-Muslim zones guidance"
+  ],
+  nashville: [
+    "Broadway honky-tonks",
+    "Country Music Hall of Fame",
+    "Ryman Auditorium",
+    "Parthenon in Centennial Park",
+    "The Gulch",
+    "Grand Ole Opry",
+    "Music Row",
+    "Radnor Lake"
+  ],
+  "new-orleans": [
+    "French Quarter",
+    "Bourbon Street (evening)",
+    "Garden District streetcars",
+    "Jackson Square",
+    "St. Louis Cathedral",
+    "National WWII Museum",
+    "Mississippi riverfront",
+    "City Park / Oak Alley day trip"
+  ],
+  oaxaca: [
+    "Monte Albán",
+    "Oaxaca Historic Centre",
+    "Santo Domingo Cultural Center",
+    "Mercado 20 de Noviembre",
+    "Hierve el Agua day trip",
+    "Mitla ruins",
+    "Mezcal tasting in Matatlán",
+    "Ethnobotanical Garden"
+  ],
+  palawan: [
+    "Puerto Princesa Underground River",
+    "Honda Bay island hopping",
+    "Firefly watching",
+    "Palawan Wildlife Rescue Center",
+    "Sabang beach",
+    "El Nido day-trip staging",
+    "Local seafood markets",
+    "City Baywalk"
+  ],
+  pattaya: [
+    "Walking Street (evening)",
+    "Sanctuary of Truth",
+    "Pattaya Beach / Jomtien",
+    "Coral island (Koh Larn)",
+    "Nong Nooch Tropical Garden",
+    "Thepprasit Night Market",
+    "Big Buddha Hill",
+    "Pattaya Floating Market"
+  ],
+  penang: [
+    "Street art trails",
+    "Clan jetties",
+    "Kek Lok Si Temple",
+    "Fort Cornwallis",
+    "Penang Hill",
+    "George Town food streets",
+    "Cheong Fatt Tze Mansion",
+    "Escape Penang / beaches"
+  ],
+  philadelphia: [
+    "Independence Hall & Liberty Bell",
+    "Philadelphia Museum of Art / Rocky Steps",
+    "Reading Terminal Market",
+    "Eastern State Penitentiary",
+    "Barnes Foundation",
+    "Italian Market",
+    "Magic Gardens",
+    "Boathouse Row"
+  ],
+  "playa-del-carmen": [
+    "Fifth Avenue (Quinta Avenida)",
+    "Playacar beach",
+    "Ferry to Cozumel",
+    "Cenotes nearby (Dos Ojos / Rio Secreto)",
+    "Xcaret / Xel-Há parks",
+    "Pedestrian nightlife strip",
+    "Tulum day trip",
+    "Mamitas Beach"
+  ],
+  "punta-cana": [
+    "Bavaro Beach",
+    "Saona Island day trip",
+    "Indigenous Eyes Ecological Park",
+    "Cap Cana marina",
+    "Snorkel Catalina Island",
+    "Hoyo Azul (Scape Park)",
+    "Downtown Friusa / shopping",
+    "Sunset catamaran"
+  ],
+  "quebec-city": [
+    "Old Quebec (Vieux-Québec)",
+    "Château Frontenac",
+    "Plains of Abraham",
+    "Petit Champlain",
+    "Montmorency Falls",
+    "Quebec City Fortifications",
+    "Musée de la civilisation",
+    "Île d'Orléans day trip"
+  ],
+  rhodes: [
+    "Medieval Old Town UNESCO",
+    "Palace of the Grand Master",
+    "Street of the Knights",
+    "Lindos Acropolis day trip",
+    "Mandraki Harbour",
+    "Elli Beach",
+    "Acropolis of Rhodes",
+    "Butterfly Valley (seasonal)"
+  ],
+  rotorua: [
+    "Te Puia / Pohutu Geyser",
+    "Redwoods Treewalk",
+    "Wai-O-Tapu Thermal Wonderland",
+    "Government Gardens",
+    "Lake Rotorua",
+    "Maori cultural performance & hangi",
+    "Polynesian Spa",
+    "Mount Ngongotaha"
+  ],
+  "san-diego": [
+    "Balboa Park",
+    "San Diego Zoo",
+    "La Jolla Cove",
+    "USS Midway Museum",
+    "Gaslamp Quarter",
+    "Coronado Beach",
+    "Old Town San Diego",
+    "Sunset Cliffs"
+  ],
+  savannah: [
+    "Historic District squares",
+    "River Street",
+    "Forsyth Park",
+    "Bonaventure Cemetery",
+    "Cathedral Basilica",
+    "Wormsloe / Coastal Georgia",
+    "City Market",
+    "Tybee Island beach day"
+  ],
+  seattle: [
+    "Pike Place Market",
+    "Space Needle",
+    "Chihuly Garden and Glass",
+    "Ferry to Bainbridge Island",
+    "Museum of Pop Culture",
+    "Olympic Sculpture Park",
+    "Ballard Locks",
+    "Mount Rainier day trip"
+  ],
+  "sharm-el-sheikh": [
+    "Ras Mohammed National Park",
+    "Naama Bay",
+    "Tiran Island snorkel",
+    "SOHO Square",
+    "Old Market",
+    "Desert safari",
+    "White Island / Ras Abu Galum",
+    "Diving the Red Sea reefs"
+  ],
+  tulum: [
+    "Tulum Archaeological Zone",
+    "Beach clubs south of town",
+    "Cenote Calavera / Dos Ojos",
+    "Coba day trip",
+    "Sian Ka'an Biosphere",
+    "Downtown Tulum food scene",
+    "Bike the beach road",
+    "IKIL cenote stop"
+  ],
+  udaipur: [
+    "City Palace",
+    "Lake Pichola boat",
+    "Jag Mandir views",
+    "Saheliyon-ki-Bari",
+    "Monsoon Palace sunset",
+    "Jagdish Temple",
+    "Bagore ki Haveli cultural show",
+    "Old city lanes"
+  ],
+  uyuni: [
+    "Uyuni Salt Flats tour",
+    "Train Cemetery",
+    "Isla Incahuasi",
+    "Colored lagoons (3-day circuit)",
+    "Rock formations (Árbol de Piedra)",
+    "Sunrise on the salt",
+    "Colchani village",
+    "Stargazing on the flats"
+  ],
+  varanasi: [
+    "Dawn Ganga aarti boat ride",
+    "Dashashwamedh Ghat evening aarti",
+    "Kashi Vishwanath Temple",
+    "Sarnath day trip",
+    "Banaras Hindu University",
+    "Weaving / silk workshops",
+    "Walking the ghats",
+    "Ramnagar Fort"
+  ],
+  "victoria-falls": [
+    "Victoria Falls viewpoints",
+    "Knife-Edge Bridge",
+    "Devil's Pool (seasonal, Zambia side)",
+    "Zambezi sunset cruise",
+    "Helicopter Flight of Angels",
+    "Bungee / adventure activities",
+    "Wildlife drive nearby",
+    "Local markets"
+  ],
+  "xi-an": [
+    "Terracotta Army",
+    "Ancient City Wall bike ride",
+    "Muslim Quarter street food",
+    "Giant Wild Goose Pagoda",
+    "Bell & Drum Towers",
+    "Shaanxi History Museum",
+    "Huaqing Palace",
+    "Big Wild Goose Pagoda fountain show"
+  ]
 };

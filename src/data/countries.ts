@@ -526,13 +526,17 @@ const countryPatches: Partial<Record<string, Partial<Country>>> = {
     topCitySlugs: [
       "new-york-city",
       "los-angeles",
+      "san-francisco",
       "miami",
       "orlando",
       "las-vegas",
       "washington-dc",
       "boston",
-      "san-francisco",
       "chicago",
+      "honolulu",
+      "san-diego",
+      "seattle",
+      "new-orleans",
     ],
   },
   "united-kingdom": {

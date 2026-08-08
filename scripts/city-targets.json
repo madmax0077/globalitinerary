@@ -182,6 +182,19 @@
     "isCapital": false
   },
   {
+    "slug": "agra",
+    "name": "Agra",
+    "wikiTitle": "Agra",
+    "countrySlug": "india",
+    "countryName": "India",
+    "countryCode": "IN",
+    "population": 1585704,
+    "lat": 27.1767,
+    "lng": 78.0081,
+    "timezone": "Asia/Kolkata",
+    "isCapital": false
+  },
+  {
     "slug": "ahmedabad",
     "name": "Ahmedabad",
     "wikiTitle": "Ahmedabad",
@@ -923,6 +936,19 @@
     "isCapital": true
   },
   {
+    "slug": "aswan",
+    "name": "Aswan",
+    "wikiTitle": "Aswan",
+    "countrySlug": "egypt",
+    "countryName": "Egypt",
+    "countryCode": "EG",
+    "population": 350000,
+    "lat": 24.0889,
+    "lng": 32.8998,
+    "timezone": "Africa/Cairo",
+    "isCapital": false
+  },
+  {
     "slug": "atakpame",
     "name": "Atakpamé",
     "wikiTitle": "Atakpame",
@@ -949,6 +975,19 @@
     "isCapital": true
   },
   {
+    "slug": "atlanta",
+    "name": "Atlanta",
+    "wikiTitle": "Atlanta",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "countryCode": "US",
+    "population": 498715,
+    "lat": 33.749,
+    "lng": -84.388,
+    "timezone": "America/New_York",
+    "isCapital": false
+  },
+  {
     "slug": "auckland",
     "name": "Auckland",
     "wikiTitle": "Auckland",
@@ -959,6 +998,19 @@
     "lat": -36.84853,
     "lng": 174.76349,
     "timezone": "Pacific/Auckland",
+    "isCapital": false
+  },
+  {
+    "slug": "austin",
+    "name": "Austin",
+    "wikiTitle": "Austin",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "countryCode": "US",
+    "population": 961855,
+    "lat": 30.2672,
+    "lng": -97.7431,
+    "timezone": "America/Chicago",
     "isCapital": false
   },
   {
@@ -1167,6 +1219,19 @@
     "lat": -6.92222,
     "lng": 107.60694,
     "timezone": "Asia/Jakarta",
+    "isCapital": false
+  },
+  {
+    "slug": "banff",
+    "name": "Banff",
+    "wikiTitle": "Banff",
+    "countrySlug": "canada",
+    "countryName": "Canada",
+    "countryCode": "CA",
+    "population": 8305,
+    "lat": 51.1784,
+    "lng": -115.5708,
+    "timezone": "America/Edmonton",
     "isCapital": false
   },
   {
@@ -1690,6 +1755,19 @@
     "isCapital": false
   },
   {
+    "slug": "bilbao",
+    "name": "Bilbao",
+    "wikiTitle": "Bilbao",
+    "countrySlug": "spain",
+    "countryName": "Spain",
+    "countryCode": "ES",
+    "population": 345821,
+    "lat": 43.263,
+    "lng": -2.935,
+    "timezone": "Europe/Madrid",
+    "isCapital": false
+  },
+  {
     "slug": "bimbo",
     "name": "Bimbo",
     "wikiTitle": "Bimbo",
@@ -1872,6 +1950,19 @@
     "isCapital": false
   },
   {
+    "slug": "bodrum",
+    "name": "Bodrum",
+    "wikiTitle": "Bodrum",
+    "countrySlug": "turkiye",
+    "countryName": "Turkey",
+    "countryCode": "TR",
+    "population": 175000,
+    "lat": 37.0344,
+    "lng": 27.4305,
+    "timezone": "Europe/Istanbul",
+    "isCapital": false
+  },
+  {
     "slug": "bogota",
     "name": "Bogotá",
     "wikiTitle": "Bogota",
@@ -1885,6 +1976,19 @@
     "isCapital": true
   },
   {
+    "slug": "boracay",
+    "name": "Boracay",
+    "wikiTitle": "Boracay",
+    "countrySlug": "philippines",
+    "countryName": "Philippines",
+    "countryCode": "PH",
+    "population": 37000,
+    "lat": 11.9674,
+    "lng": 121.9248,
+    "timezone": "Asia/Manila",
+    "isCapital": false
+  },
+  {
     "slug": "borama",
     "name": "Borama",
     "wikiTitle": "Borama",
@@ -1895,6 +1999,19 @@
     "lat": 9.93611,
     "lng": 43.18278,
     "timezone": "Africa/Mogadishu",
+    "isCapital": false
+  },
+  {
+    "slug": "bordeaux",
+    "name": "Bordeaux",
+    "wikiTitle": "Bordeaux",
+    "countrySlug": "france",
+    "countryName": "France",
+    "countryCode": "FR",
+    "population": 254436,
+    "lat": 44.8378,
+    "lng": -0.5792,
+    "timezone": "Europe/Paris",
     "isCapital": false
   },
   {
@@ -2327,6 +2444,19 @@
     "isCapital": false
   },
   {
+    "slug": "cairns",
+    "name": "Cairns",
+    "wikiTitle": "Cairns",
+    "countrySlug": "australia",
+    "countryName": "Australia",
+    "countryCode": "AU",
+    "population": 153181,
+    "lat": -16.9186,
+    "lng": 145.7781,
+    "timezone": "Australia/Brisbane",
+    "isCapital": false
+  },
+  {
     "slug": "cairo",
     "name": "Cairo",
     "wikiTitle": "Cairo",
@@ -2649,6 +2779,19 @@
     "lat": 50.41136,
     "lng": 4.44448,
     "timezone": "Europe/Brussels",
+    "isCapital": false
+  },
+  {
+    "slug": "charleston",
+    "name": "Charleston",
+    "wikiTitle": "Charleston, South Carolina",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "countryCode": "US",
+    "population": 150227,
+    "lat": 32.7765,
+    "lng": -79.9311,
+    "timezone": "America/New_York",
     "isCapital": false
   },
   {
@@ -3393,6 +3536,19 @@
     "isCapital": false
   },
   {
+    "slug": "denver",
+    "name": "Denver",
+    "wikiTitle": "Denver",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "countryCode": "US",
+    "population": 715522,
+    "lat": 39.7392,
+    "lng": -104.9903,
+    "timezone": "America/Denver",
+    "isCapital": false
+  },
+  {
     "slug": "depok",
     "name": "Depok",
     "wikiTitle": "Depok",
@@ -3978,6 +4134,19 @@
     "isCapital": false
   },
   {
+    "slug": "fez",
+    "name": "Fez",
+    "wikiTitle": "Fez",
+    "countrySlug": "morocco",
+    "countryName": "Morocco",
+    "countryCode": "MA",
+    "population": 1112072,
+    "lat": 34.0181,
+    "lng": -5.0078,
+    "timezone": "Africa/Casablanca",
+    "isCapital": false
+  },
+  {
     "slug": "fianarantsoa",
     "name": "Fianarantsoa",
     "wikiTitle": "Fianarantsoa",
@@ -4056,6 +4225,19 @@
     "isCapital": false
   },
   {
+    "slug": "iguazu",
+    "name": "Foz do Iguaçu",
+    "wikiTitle": "Foz do Iguaçu",
+    "countrySlug": "brazil",
+    "countryName": "Brazil",
+    "countryCode": "BR",
+    "population": 258467,
+    "lat": -25.5163,
+    "lng": -54.5855,
+    "timezone": "America/Sao_Paulo",
+    "isCapital": false
+  },
+  {
     "slug": "franceville",
     "name": "Franceville",
     "wikiTitle": "Franceville",
@@ -4079,6 +4261,19 @@
     "lat": -21.17,
     "lng": 27.50778,
     "timezone": "Africa/Gaborone",
+    "isCapital": false
+  },
+  {
+    "slug": "frankfurt",
+    "name": "Frankfurt",
+    "wikiTitle": "Frankfurt",
+    "countrySlug": "germany",
+    "countryName": "Germany",
+    "countryCode": "DE",
+    "population": 753056,
+    "lat": 50.1109,
+    "lng": 8.6821,
+    "timezone": "Europe/Berlin",
     "isCapital": false
   },
   {
@@ -4183,6 +4378,19 @@
     "lat": 12.28,
     "lng": -14.22222,
     "timezone": "Africa/Bissau",
+    "isCapital": false
+  },
+  {
+    "slug": "galle",
+    "name": "Galle",
+    "wikiTitle": "Galle",
+    "countrySlug": "sri-lanka",
+    "countryName": "Sri Lanka",
+    "countryCode": "LK",
+    "population": 93118,
+    "lat": 6.0535,
+    "lng": 80.221,
+    "timezone": "Asia/Colombo",
     "isCapital": false
   },
   {
@@ -4316,6 +4524,19 @@
     "isCapital": false
   },
   {
+    "slug": "penang",
+    "name": "George Town (Penang)",
+    "wikiTitle": "George Town, Penang",
+    "countrySlug": "malaysia",
+    "countryName": "Malaysia",
+    "countryCode": "MY",
+    "population": 708127,
+    "lat": 5.4141,
+    "lng": 100.3288,
+    "timezone": "Asia/Kuala_Lumpur",
+    "isCapital": false
+  },
+  {
     "slug": "georgetown",
     "name": "Georgetown",
     "wikiTitle": "Georgetown",
@@ -4394,6 +4615,19 @@
     "isCapital": false
   },
   {
+    "slug": "goa",
+    "name": "Goa",
+    "wikiTitle": "Goa",
+    "countrySlug": "india",
+    "countryName": "India",
+    "countryCode": "IN",
+    "population": 1458545,
+    "lat": 15.4909,
+    "lng": 73.8278,
+    "timezone": "Asia/Kolkata",
+    "isCapital": false
+  },
+  {
     "slug": "godome",
     "name": "Godomè",
     "wikiTitle": "Godome",
@@ -4430,6 +4664,19 @@
     "lat": 12.6,
     "lng": 37.46667,
     "timezone": "Africa/Addis_Ababa",
+    "isCapital": false
+  },
+  {
+    "slug": "cappadocia",
+    "name": "Göreme / Cappadocia",
+    "wikiTitle": "Göreme",
+    "countrySlug": "turkiye",
+    "countryName": "Turkey",
+    "countryCode": "TR",
+    "population": 2200,
+    "lat": 38.6431,
+    "lng": 34.8289,
+    "timezone": "Europe/Istanbul",
     "isCapital": false
   },
   {
@@ -4472,6 +4719,19 @@
     "isCapital": false
   },
   {
+    "slug": "granada",
+    "name": "Granada",
+    "wikiTitle": "Granada",
+    "countrySlug": "spain",
+    "countryName": "Spain",
+    "countryCode": "ES",
+    "population": 232208,
+    "lat": 37.1773,
+    "lng": -3.5986,
+    "timezone": "Europe/Madrid",
+    "isCapital": false
+  },
+  {
     "slug": "graz",
     "name": "Graz",
     "wikiTitle": "Graz",
@@ -4508,6 +4768,19 @@
     "lat": 14.06667,
     "lng": -60.95,
     "timezone": "America/St_Lucia",
+    "isCapital": false
+  },
+  {
+    "slug": "guadalajara",
+    "name": "Guadalajara",
+    "wikiTitle": "Guadalajara",
+    "countrySlug": "mexico",
+    "countryName": "Mexico",
+    "countryCode": "MX",
+    "population": 1385629,
+    "lat": 20.6597,
+    "lng": -103.3496,
+    "timezone": "America/Mexico_City",
     "isCapital": false
   },
   {
@@ -4706,6 +4979,19 @@
     "isCapital": false
   },
   {
+    "slug": "hangzhou",
+    "name": "Hangzhou",
+    "wikiTitle": "Hangzhou",
+    "countrySlug": "china",
+    "countryName": "China",
+    "countryCode": "CN",
+    "population": 11936010,
+    "lat": 30.2741,
+    "lng": 120.1551,
+    "timezone": "Asia/Shanghai",
+    "isCapital": false
+  },
+  {
     "slug": "hanoi",
     "name": "Hanoi",
     "wikiTitle": "Hanoi",
@@ -4797,6 +5083,19 @@
     "isCapital": true
   },
   {
+    "slug": "crete",
+    "name": "Heraklion (Crete)",
+    "wikiTitle": "Heraklion",
+    "countrySlug": "greece",
+    "countryName": "Greece",
+    "countryCode": "GR",
+    "population": 140730,
+    "lat": 35.3387,
+    "lng": 25.1442,
+    "timezone": "Europe/Athens",
+    "isCapital": false
+  },
+  {
     "slug": "herat",
     "name": "Herāt",
     "wikiTitle": "Herat",
@@ -4875,6 +5174,32 @@
     "isCapital": false
   },
   {
+    "slug": "hobart",
+    "name": "Hobart",
+    "wikiTitle": "Hobart",
+    "countrySlug": "australia",
+    "countryName": "Australia",
+    "countryCode": "AU",
+    "population": 247086,
+    "lat": -42.8821,
+    "lng": 147.3272,
+    "timezone": "Australia/Hobart",
+    "isCapital": false
+  },
+  {
+    "slug": "hoi-an",
+    "name": "Hoi An",
+    "wikiTitle": "Hoi An",
+    "countrySlug": "vietnam",
+    "countryName": "Vietnam",
+    "countryCode": "VN",
+    "population": 120000,
+    "lat": 15.8801,
+    "lng": 108.338,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isCapital": false
+  },
+  {
     "slug": "holguin",
     "name": "Holguín",
     "wikiTitle": "Holguin",
@@ -4938,6 +5263,19 @@
     "lng": 159.95,
     "timezone": "Pacific/Guadalcanal",
     "isCapital": true
+  },
+  {
+    "slug": "honolulu",
+    "name": "Honolulu",
+    "wikiTitle": "Honolulu",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "countryCode": "US",
+    "population": 350395,
+    "lat": 21.3069,
+    "lng": -157.8583,
+    "timezone": "Pacific/Honolulu",
+    "isCapital": false
   },
   {
     "slug": "houston",
@@ -5044,6 +5382,19 @@
     "isCapital": false
   },
   {
+    "slug": "ibiza",
+    "name": "Ibiza Town",
+    "wikiTitle": "Ibiza (town)",
+    "countrySlug": "spain",
+    "countryName": "Spain",
+    "countryCode": "ES",
+    "population": 50643,
+    "lat": 38.9067,
+    "lng": 1.4206,
+    "timezone": "Europe/Madrid",
+    "isCapital": false
+  },
+  {
     "slug": "impfondo",
     "name": "Impfondo",
     "wikiTitle": "Impfondo",
@@ -5067,6 +5418,32 @@
     "lat": 37.45646,
     "lng": 126.70515,
     "timezone": "Asia/Seoul",
+    "isCapital": false
+  },
+  {
+    "slug": "innsbruck",
+    "name": "Innsbruck",
+    "wikiTitle": "Innsbruck",
+    "countrySlug": "austria",
+    "countryName": "Austria",
+    "countryCode": "AT",
+    "population": 132493,
+    "lat": 47.2692,
+    "lng": 11.4041,
+    "timezone": "Europe/Vienna",
+    "isCapital": false
+  },
+  {
+    "slug": "interlaken",
+    "name": "Interlaken",
+    "wikiTitle": "Interlaken",
+    "countrySlug": "switzerland",
+    "countryName": "Switzerland",
+    "countryCode": "CH",
+    "population": 5600,
+    "lat": 46.6863,
+    "lng": 7.8632,
+    "timezone": "Europe/Zurich",
     "isCapital": false
   },
   {
@@ -5200,6 +5577,19 @@
     "isCapital": false
   },
   {
+    "slug": "jaipur",
+    "name": "Jaipur",
+    "wikiTitle": "Jaipur",
+    "countrySlug": "india",
+    "countryName": "India",
+    "countryCode": "IN",
+    "population": 3073350,
+    "lat": 26.9124,
+    "lng": 75.7873,
+    "timezone": "Asia/Kolkata",
+    "isCapital": false
+  },
+  {
     "slug": "jakarta",
     "name": "Jakarta",
     "wikiTitle": "Jakarta",
@@ -5249,6 +5639,19 @@
     "lat": 21.49012,
     "lng": 39.18624,
     "timezone": "Asia/Riyadh",
+    "isCapital": false
+  },
+  {
+    "slug": "jeju",
+    "name": "Jeju",
+    "wikiTitle": "Jeju City",
+    "countrySlug": "south-korea",
+    "countryName": "South Korea",
+    "countryCode": "KR",
+    "population": 492306,
+    "lat": 33.4996,
+    "lng": 126.5312,
+    "timezone": "Asia/Seoul",
     "isCapital": false
   },
   {
@@ -6110,6 +6513,19 @@
     "isCapital": false
   },
   {
+    "slug": "koh-samui",
+    "name": "Koh Samui",
+    "wikiTitle": "Ko Samui",
+    "countrySlug": "thailand",
+    "countryName": "Thailand",
+    "countryCode": "TH",
+    "population": 70000,
+    "lat": 9.512,
+    "lng": 100.0136,
+    "timezone": "Asia/Bangkok",
+    "isCapital": false
+  },
+  {
     "slug": "koidu",
     "name": "Koidu",
     "wikiTitle": "Koidu",
@@ -6263,6 +6679,19 @@
     "lat": 6.9,
     "lng": 0.63333,
     "timezone": "Africa/Lome",
+    "isCapital": false
+  },
+  {
+    "slug": "krabi",
+    "name": "Krabi",
+    "wikiTitle": "Krabi",
+    "countrySlug": "thailand",
+    "countryName": "Thailand",
+    "countryCode": "TH",
+    "population": 32644,
+    "lat": 8.0863,
+    "lng": 98.9063,
+    "timezone": "Asia/Bangkok",
     "isCapital": false
   },
   {
@@ -6461,6 +6890,19 @@
     "isCapital": true
   },
   {
+    "slug": "kyoto",
+    "name": "Kyoto",
+    "wikiTitle": "Kyoto",
+    "countrySlug": "japan",
+    "countryName": "Japan",
+    "countryCode": "JP",
+    "population": 1475183,
+    "lat": 35.0116,
+    "lng": 135.7681,
+    "timezone": "Asia/Tokyo",
+    "isCapital": false
+  },
+  {
     "slug": "la-ceiba",
     "name": "La Ceiba",
     "wikiTitle": "La Ceiba",
@@ -6588,6 +7030,19 @@
     "lat": -18.11094,
     "lng": 178.40943,
     "timezone": "Pacific/Fiji",
+    "isCapital": false
+  },
+  {
+    "slug": "langkawi",
+    "name": "Langkawi",
+    "wikiTitle": "Langkawi",
+    "countrySlug": "malaysia",
+    "countryName": "Malaysia",
+    "countryCode": "MY",
+    "population": 99000,
+    "lat": 6.35,
+    "lng": 99.8,
+    "timezone": "Asia/Kuala_Lumpur",
     "isCapital": false
   },
   {
@@ -7059,6 +7514,19 @@
     "isCapital": true
   },
   {
+    "slug": "luang-prabang",
+    "name": "Luang Prabang",
+    "wikiTitle": "Luang Prabang",
+    "countrySlug": "laos",
+    "countryName": "Laos",
+    "countryCode": "LA",
+    "population": 66000,
+    "lat": 19.8856,
+    "lng": 102.135,
+    "timezone": "Asia/Vientiane",
+    "isCapital": false
+  },
+  {
     "slug": "lubumbashi",
     "name": "Lubumbashi",
     "wikiTitle": "Lubumbashi",
@@ -7082,6 +7550,19 @@
     "lat": 26.53333,
     "lng": -78.66667,
     "timezone": "America/Nassau",
+    "isCapital": false
+  },
+  {
+    "slug": "lucerne",
+    "name": "Lucerne",
+    "wikiTitle": "Lucerne",
+    "countrySlug": "switzerland",
+    "countryName": "Switzerland",
+    "countryCode": "CH",
+    "population": 81691,
+    "lat": 47.0502,
+    "lng": 8.3093,
+    "timezone": "Europe/Zurich",
     "isCapital": false
   },
   {
@@ -7135,6 +7616,19 @@
     "lng": 6.13268,
     "timezone": "Europe/Luxembourg",
     "isCapital": true
+  },
+  {
+    "slug": "luxor",
+    "name": "Luxor",
+    "wikiTitle": "Luxor",
+    "countrySlug": "egypt",
+    "countryName": "Egypt",
+    "countryCode": "EG",
+    "population": 506588,
+    "lat": 25.6872,
+    "lng": 32.6396,
+    "timezone": "Africa/Cairo",
+    "isCapital": false
   },
   {
     "slug": "lviv",
@@ -7696,6 +8190,19 @@
     "isCapital": false
   },
   {
+    "slug": "marrakech",
+    "name": "Marrakech",
+    "wikiTitle": "Marrakech",
+    "countrySlug": "morocco",
+    "countryName": "Morocco",
+    "countryCode": "MA",
+    "population": 928850,
+    "lat": 31.6295,
+    "lng": -7.9811,
+    "timezone": "Africa/Casablanca",
+    "isCapital": false
+  },
+  {
     "slug": "marrakesh",
     "name": "Marrakesh",
     "wikiTitle": "Marrakesh",
@@ -7917,6 +8424,19 @@
     "isCapital": false
   },
   {
+    "slug": "mecca",
+    "name": "Mecca",
+    "wikiTitle": "Mecca",
+    "countrySlug": "saudi-arabia",
+    "countryName": "Saudi Arabia",
+    "countryCode": "SA",
+    "population": 2042000,
+    "lat": 21.3891,
+    "lng": 39.8579,
+    "timezone": "Asia/Riyadh",
+    "isCapital": false
+  },
+  {
     "slug": "medan",
     "name": "Medan",
     "wikiTitle": "Medan",
@@ -7940,6 +8460,19 @@
     "lat": 6.245,
     "lng": -75.57151,
     "timezone": "America/Bogota",
+    "isCapital": false
+  },
+  {
+    "slug": "medina",
+    "name": "Medina",
+    "wikiTitle": "Medina",
+    "countrySlug": "saudi-arabia",
+    "countryName": "Saudi Arabia",
+    "countryCode": "SA",
+    "population": 1482469,
+    "lat": 24.5247,
+    "lng": 39.5692,
+    "timezone": "Asia/Riyadh",
     "isCapital": false
   },
   {
@@ -8658,6 +9191,19 @@
     "isCapital": false
   },
   {
+    "slug": "fiji",
+    "name": "Nadi (Fiji)",
+    "wikiTitle": "Nadi",
+    "countrySlug": "fiji",
+    "countryName": "Fiji",
+    "countryCode": "FJ",
+    "population": 71000,
+    "lat": -17.7765,
+    "lng": 177.4356,
+    "timezone": "Pacific/Fiji",
+    "isCapital": false
+  },
+  {
     "slug": "nagoya",
     "name": "Nagoya",
     "wikiTitle": "Nagoya",
@@ -8788,6 +9334,19 @@
     "isCapital": false
   },
   {
+    "slug": "nashville",
+    "name": "Nashville",
+    "wikiTitle": "Nashville",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "countryCode": "US",
+    "population": 689447,
+    "lat": 36.1627,
+    "lng": -86.7816,
+    "timezone": "America/Chicago",
+    "isCapital": false
+  },
+  {
     "slug": "nasinu",
     "name": "Nasinu",
     "wikiTitle": "Nasinu",
@@ -8915,6 +9474,19 @@
     "lat": 18.00747,
     "lng": -76.78319,
     "timezone": "America/Jamaica",
+    "isCapital": false
+  },
+  {
+    "slug": "new-orleans",
+    "name": "New Orleans",
+    "wikiTitle": "New Orleans",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "countryCode": "US",
+    "population": 383997,
+    "lat": 29.9511,
+    "lng": -90.0715,
+    "timezone": "America/Chicago",
     "isCapital": false
   },
   {
@@ -9240,6 +9812,19 @@
     "lat": 7.75624,
     "lng": -8.8179,
     "timezone": "Africa/Conakry",
+    "isCapital": false
+  },
+  {
+    "slug": "oaxaca",
+    "name": "Oaxaca",
+    "wikiTitle": "Oaxaca City",
+    "countrySlug": "mexico",
+    "countryName": "Mexico",
+    "countryCode": "MX",
+    "population": 270677,
+    "lat": 17.0732,
+    "lng": -96.7266,
+    "timezone": "America/Mexico_City",
     "isCapital": false
   },
   {
@@ -9685,6 +10270,19 @@
     "isCapital": false
   },
   {
+    "slug": "pattaya",
+    "name": "Pattaya",
+    "wikiTitle": "Pattaya",
+    "countrySlug": "thailand",
+    "countryName": "Thailand",
+    "countryCode": "TH",
+    "population": 119532,
+    "lat": 12.9236,
+    "lng": 100.8825,
+    "timezone": "Asia/Bangkok",
+    "isCapital": false
+  },
+  {
     "slug": "paysandu",
     "name": "Paysandú",
     "wikiTitle": "Paysandu",
@@ -9815,6 +10413,19 @@
     "isCapital": false
   },
   {
+    "slug": "philadelphia",
+    "name": "Philadelphia",
+    "wikiTitle": "Philadelphia",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "countryCode": "US",
+    "population": 1603797,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "timezone": "America/New_York",
+    "isCapital": false
+  },
+  {
     "slug": "phnom-penh",
     "name": "Phnom Penh",
     "wikiTitle": "Phnom Penh",
@@ -9916,6 +10527,19 @@
     "lat": -5.18192,
     "lng": -80.65715,
     "timezone": "America/Lima",
+    "isCapital": false
+  },
+  {
+    "slug": "playa-del-carmen",
+    "name": "Playa del Carmen",
+    "wikiTitle": "Playa del Carmen",
+    "countrySlug": "mexico",
+    "countryName": "Mexico",
+    "countryCode": "MX",
+    "population": 304942,
+    "lat": 20.6296,
+    "lng": -87.0739,
+    "timezone": "America/Cancun",
     "isCapital": false
   },
   {
@@ -10309,6 +10933,19 @@
     "isCapital": false
   },
   {
+    "slug": "galapagos",
+    "name": "Puerto Ayora (Galápagos)",
+    "wikiTitle": "Puerto Ayora",
+    "countrySlug": "ecuador",
+    "countryName": "Ecuador",
+    "countryCode": "EC",
+    "population": 12000,
+    "lat": -0.7432,
+    "lng": -90.3135,
+    "timezone": "Pacific/Galapagos",
+    "isCapital": false
+  },
+  {
     "slug": "puerto-cortez",
     "name": "Puerto Cortez",
     "wikiTitle": "Puerto Cortez",
@@ -10322,6 +10959,19 @@
     "isCapital": false
   },
   {
+    "slug": "palawan",
+    "name": "Puerto Princesa / Palawan",
+    "wikiTitle": "Puerto Princesa",
+    "countrySlug": "philippines",
+    "countryName": "Philippines",
+    "countryCode": "PH",
+    "population": 307079,
+    "lat": 9.7392,
+    "lng": 118.7353,
+    "timezone": "Asia/Manila",
+    "isCapital": false
+  },
+  {
     "slug": "punakha",
     "name": "Punākha",
     "wikiTitle": "Punakha",
@@ -10332,6 +10982,19 @@
     "lat": 27.59137,
     "lng": 89.87743,
     "timezone": "Asia/Thimphu",
+    "isCapital": false
+  },
+  {
+    "slug": "punta-cana",
+    "name": "Punta Cana",
+    "wikiTitle": "Punta Cana",
+    "countrySlug": "dominican-republic",
+    "countryName": "Dominican Republic",
+    "countryCode": "DO",
+    "population": 100000,
+    "lat": 18.5601,
+    "lng": -68.3725,
+    "timezone": "America/Santo_Domingo",
     "isCapital": false
   },
   {
@@ -10371,6 +11034,19 @@
     "lat": -20.26381,
     "lng": 57.4791,
     "timezone": "Indian/Mauritius",
+    "isCapital": false
+  },
+  {
+    "slug": "quebec-city",
+    "name": "Québec City",
+    "wikiTitle": "Quebec City",
+    "countrySlug": "canada",
+    "countryName": "Canada",
+    "countryCode": "CA",
+    "population": 549459,
+    "lat": 46.8139,
+    "lng": -71.208,
+    "timezone": "America/Toronto",
     "isCapital": false
   },
   {
@@ -10569,6 +11245,19 @@
     "isCapital": true
   },
   {
+    "slug": "rhodes",
+    "name": "Rhodes",
+    "wikiTitle": "Rhodes",
+    "countrySlug": "greece",
+    "countryName": "Greece",
+    "countryCode": "GR",
+    "population": 50916,
+    "lat": 36.4349,
+    "lng": 28.2176,
+    "timezone": "Europe/Athens",
+    "isCapital": false
+  },
+  {
     "slug": "ribnita",
     "name": "Rîbniţa",
     "wikiTitle": "Ribnita",
@@ -10710,6 +11399,19 @@
     "lng": -61.38808,
     "timezone": "America/Dominica",
     "isCapital": true
+  },
+  {
+    "slug": "rotorua",
+    "name": "Rotorua",
+    "wikiTitle": "Rotorua",
+    "countrySlug": "new-zealand",
+    "countryName": "New Zealand",
+    "countryCode": "NZ",
+    "population": 58600,
+    "lat": -38.1368,
+    "lng": 176.2497,
+    "timezone": "Pacific/Auckland",
+    "isCapital": false
   },
   {
     "slug": "rotterdam",
@@ -11011,6 +11713,19 @@
     "isCapital": false
   },
   {
+    "slug": "san-diego",
+    "name": "San Diego",
+    "wikiTitle": "San Diego",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "countryCode": "US",
+    "population": 1386932,
+    "lat": 32.7157,
+    "lng": -117.1611,
+    "timezone": "America/Los_Angeles",
+    "isCapital": false
+  },
+  {
     "slug": "san-fernando",
     "name": "San Fernando",
     "wikiTitle": "San Fernando",
@@ -11024,9 +11739,9 @@
     "isCapital": false
   },
   {
-    "slug": "san-francisco",
+    "slug": "san-francisco-costa-rica",
     "name": "San Francisco",
-    "wikiTitle": "San Francisco",
+    "wikiTitle": "San Francisco, Costa Rica",
     "countrySlug": "costa-rica",
     "countryName": "Costa Rica",
     "countryCode": "CR",
@@ -11034,6 +11749,19 @@
     "lat": 9.9938,
     "lng": -84.12742,
     "timezone": "America/Costa_Rica",
+    "isCapital": false
+  },
+  {
+    "slug": "san-francisco",
+    "name": "San Francisco",
+    "wikiTitle": "San Francisco",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "countryCode": "US",
+    "population": 873965,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "timezone": "America/Los_Angeles",
     "isCapital": false
   },
   {
@@ -11362,6 +12090,19 @@
     "isCapital": false
   },
   {
+    "slug": "santorini",
+    "name": "Santorini",
+    "wikiTitle": "Santorini",
+    "countrySlug": "greece",
+    "countryName": "Greece",
+    "countryCode": "GR",
+    "population": 15550,
+    "lat": 36.3932,
+    "lng": 25.4615,
+    "timezone": "Europe/Athens",
+    "isCapital": false
+  },
+  {
     "slug": "sao-paulo",
     "name": "São Paulo",
     "wikiTitle": "Sao Paulo",
@@ -11427,6 +12168,19 @@
     "isCapital": false
   },
   {
+    "slug": "savannah",
+    "name": "Savannah",
+    "wikiTitle": "Savannah",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "countryCode": "US",
+    "population": 147780,
+    "lat": 32.0809,
+    "lng": -81.0912,
+    "timezone": "America/New_York",
+    "isCapital": false
+  },
+  {
     "slug": "savannakhet",
     "name": "Savannakhet",
     "wikiTitle": "Savannakhet",
@@ -11437,6 +12191,19 @@
     "lat": 16.5703,
     "lng": 104.7622,
     "timezone": "Asia/Vientiane",
+    "isCapital": false
+  },
+  {
+    "slug": "seattle",
+    "name": "Seattle",
+    "wikiTitle": "Seattle",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "countryCode": "US",
+    "population": 737015,
+    "lat": 47.6062,
+    "lng": -122.3321,
+    "timezone": "America/Los_Angeles",
     "isCapital": false
   },
   {
@@ -11622,6 +12389,19 @@
     "isCapital": false
   },
   {
+    "slug": "seville",
+    "name": "Seville",
+    "wikiTitle": "Seville",
+    "countrySlug": "spain",
+    "countryName": "Spain",
+    "countryCode": "ES",
+    "population": 688711,
+    "lat": 37.3891,
+    "lng": -5.9845,
+    "timezone": "Europe/Madrid",
+    "isCapital": false
+  },
+  {
     "slug": "sfax",
     "name": "Sfax",
     "wikiTitle": "Sfax",
@@ -11671,6 +12451,19 @@
     "lat": 25.3342,
     "lng": 55.41221,
     "timezone": "Asia/Dubai",
+    "isCapital": false
+  },
+  {
+    "slug": "sharm-el-sheikh",
+    "name": "Sharm El Sheikh",
+    "wikiTitle": "Sharm El Sheikh",
+    "countrySlug": "egypt",
+    "countryName": "Egypt",
+    "countryCode": "EG",
+    "population": 73000,
+    "lat": 27.9158,
+    "lng": 34.33,
+    "timezone": "Africa/Cairo",
     "isCapital": false
   },
   {
@@ -12844,6 +13637,19 @@
     "isCapital": false
   },
   {
+    "slug": "tulum",
+    "name": "Tulum",
+    "wikiTitle": "Tulum",
+    "countrySlug": "mexico",
+    "countryName": "Mexico",
+    "countryCode": "MX",
+    "population": 46721,
+    "lat": 20.2114,
+    "lng": -87.4654,
+    "timezone": "America/Cancun",
+    "isCapital": false
+  },
+  {
     "slug": "tunis",
     "name": "Tunis",
     "wikiTitle": "Tunis",
@@ -12948,6 +13754,19 @@
     "isCapital": false
   },
   {
+    "slug": "udaipur",
+    "name": "Udaipur",
+    "wikiTitle": "Udaipur",
+    "countrySlug": "india",
+    "countryName": "India",
+    "countryCode": "IN",
+    "population": 451100,
+    "lat": 24.5854,
+    "lng": 73.7125,
+    "timezone": "Asia/Kolkata",
+    "isCapital": false
+  },
+  {
     "slug": "ulan-bator",
     "name": "Ulan Bator",
     "wikiTitle": "Ulan Bator",
@@ -12997,6 +13816,19 @@
     "lat": 52.09083,
     "lng": 5.12222,
     "timezone": "Europe/Amsterdam",
+    "isCapital": false
+  },
+  {
+    "slug": "uyuni",
+    "name": "Uyuni",
+    "wikiTitle": "Uyuni",
+    "countrySlug": "bolivia",
+    "countryName": "Bolivia",
+    "countryCode": "BO",
+    "population": 30000,
+    "lat": -20.4603,
+    "lng": -66.8261,
+    "timezone": "America/La_Paz",
     "isCapital": false
   },
   {
@@ -13117,6 +13949,19 @@
     "isCapital": false
   },
   {
+    "slug": "varanasi",
+    "name": "Varanasi",
+    "wikiTitle": "Varanasi",
+    "countrySlug": "india",
+    "countryName": "India",
+    "countryCode": "IN",
+    "population": 1198491,
+    "lat": 25.3176,
+    "lng": 82.9739,
+    "timezone": "Asia/Kolkata",
+    "isCapital": false
+  },
+  {
     "slug": "varna",
     "name": "Varna",
     "wikiTitle": "Varna",
@@ -13141,6 +13986,19 @@
     "lng": 12.45414,
     "timezone": "Europe/Vatican",
     "isCapital": true
+  },
+  {
+    "slug": "venice",
+    "name": "Venice",
+    "wikiTitle": "Venice",
+    "countrySlug": "italy",
+    "countryName": "Italy",
+    "countryCode": "IT",
+    "population": 261905,
+    "lat": 45.4408,
+    "lng": 12.3155,
+    "timezone": "Europe/Rome",
+    "isCapital": false
   },
   {
     "slug": "ventspils",
@@ -13180,6 +14038,19 @@
     "lng": 55.45501,
     "timezone": "Indian/Mahe",
     "isCapital": true
+  },
+  {
+    "slug": "victoria-falls",
+    "name": "Victoria Falls",
+    "wikiTitle": "Victoria Falls",
+    "countrySlug": "zimbabwe",
+    "countryName": "Zimbabwe",
+    "countryCode": "ZW",
+    "population": 35000,
+    "lat": -17.9243,
+    "lng": 25.8572,
+    "timezone": "Africa/Harare",
+    "isCapital": false
   },
   {
     "slug": "vienna",
@@ -13465,6 +14336,19 @@
     "lat": 20.4164,
     "lng": 104.045,
     "timezone": "Asia/Vientiane",
+    "isCapital": false
+  },
+  {
+    "slug": "xi-an",
+    "name": "Xi'an",
+    "wikiTitle": "Xi'an",
+    "countrySlug": "china",
+    "countryName": "China",
+    "countryCode": "CN",
+    "population": 12953000,
+    "lat": 34.3416,
+    "lng": 108.9398,
+    "timezone": "Asia/Shanghai",
     "isCapital": false
   },
   {

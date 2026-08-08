@@ -614,4 +614,1629 @@ export const cityEnrichments: Record<string, CityEnrichment> = {
       { question: "Hotel Zone or downtown?", answer: "Hotel Zone for beaches and resorts; downtown (El Centro) for local food and lower prices." },
     ],
   },
+  agra: {
+    ...stock("temple", ["lantern", "food", "desertCamp"]),
+    tagline: "Taj Mahal dawn and Mughal legacy",
+    overview:
+      "Agra is synonymous with the Taj Mahal at sunrise — but also Agra Fort's red sandstone, Mehtab Bagh's river-view perspective and Mughal craft in marble inlay workshops.",
+    bestTime: "October–March for pleasant weather",
+    weather: "Semi-arid — very hot Apr–Jun; foggy Dec–Jan mornings",
+    airport: "Agra Airport (AGR) or Delhi (DEL) + train",
+    metro: "No metro; auto-rickshaws and taxis",
+    transport: "Taxi between Taj, Fort and Mehtab Bagh; train from Delhi",
+    shopping: ["Sadar Bazaar", "Kinari Bazaar", "Marble inlay workshops", "Raja Mandi area"],
+    nightlife: ["Taj Mahal night viewing (full moon nights only)", "Hotel rooftop Taj views", "Kalakriti cultural show"],
+    museums: ["Agra Fort interiors", "Itmad-ud-Daulah (Baby Taj)", "Taj Museum"],
+    localFoods: ["Petha sweet", "Bedai and jalebi breakfast", "Mughlai biryani", "Tandoori chicken"],
+    hiddenGems: ["Mehtab Bagh sunset Taj view", "Fatehpur Sikri day trip", "Lesser-known Itmad-ud-Daulah"],
+    tips: [
+      "Taj Mahal closed Fridays — plan around it",
+      "Sunrise entry — queue early for first light",
+      "Marble inlay demos — buy from reputable cooperatives"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  aswan: {
+    ...stock("sahara", ["temple", "desertCamp", "coast"]),
+    tagline: "Nubian villages and Nile cataracts",
+    overview:
+      "Aswan is Egypt's serene southern Nile city — Philae Temple on its island, colourful Nubian villages and the gateway for Abu Simbel day trips at Lake Nasser's edge.",
+    bestTime: "October–April for comfortable temperatures",
+    weather: "Desert — very hot summers; warm dry winters",
+    airport: "Aswan International (ASW)",
+    metro: "No metro; feluccas and taxis",
+    transport: "Felucca to Nubian villages; tour bus to Abu Simbel; taxi to Philae boat dock",
+    shopping: ["Aswan Souk", "Nubian village handicrafts", "Spice Market", "Essence oils shops"],
+    nightlife: ["Nile corniche cafés", "Nubian house dinners", "Old Cataract Hotel terrace"],
+    museums: ["Nubian Museum", "Aswan Museum on Elephantine Island", "Unfinished Obelisk site"],
+    localFoods: ["Nubian tagine", "Grilled Nile fish", "Ful and taameya", "Hibiscus tea (karkadeh)"],
+    hiddenGems: ["Abu Simbel at sunrise", "Elephantine Island", "Kitchener's Island botanical garden"],
+    tips: [
+      "Abu Simbel convoys leave pre-dawn — expect 3 AM wake-up",
+      "Philae requires a short boat ride",
+      "Bargain politely at the souk"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  atlanta: {
+    ...stock("cityNight", ["nyc", "food", "coast"]),
+    tagline: "Southern capital of food and culture",
+    overview:
+      "Atlanta combines civil-rights history, world-class aquariums and museums, BeltLine walks and a booming food scene across Midtown and the Westside.",
+    bestTime: "March–May and September–November",
+    weather: "Humid subtropical — hot summers, mild winters",
+    airport: "Hartsfield–Jackson Atlanta International (ATL)",
+    metro: "MARTA rail and buses",
+    transport: "MARTA for airport/downtown; rideshares for neighbourhoods",
+    shopping: ["Ponce City Market", "Atlantic Station", "Lenox Square", "Buckhead boutiques"],
+    nightlife: ["Midtown", "Edgewood", "Buckhead", "Westside Provisions"],
+    museums: ["National Center for Civil and Human Rights", "High Museum of Art", "Georgia Aquarium"],
+    localFoods: ["Fried chicken", "Shrimp and grits", "Peach desserts", "Southern BBQ"],
+    hiddenGems: ["BeltLine Eastside Trail", "Piedmont Park", "Martin Luther King Jr. National Historical Park"],
+    tips: [
+      "ATL airport is huge — allow connection time",
+      "BeltLine is best on foot or bike",
+      "Combine MLK historic site with Sweet Auburn"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  austin: {
+    ...stock("cityNight", ["food", "nyc", "coast"]),
+    tagline: "Live music capital and breakfast tacos",
+    overview:
+      "Austin keeps it weird with Sixth Street and Rainey live music, Lady Bird Lake trails, Franklin Barbecue queues and a tech-fuelled food scene across South Congress.",
+    bestTime: "March–May and October–November; SXSW in March",
+    weather: "Humid subtropical — very hot summers; mild winters",
+    airport: "Austin–Bergstrom International (AUS)",
+    metro: "CapMetro buses; limited rail",
+    transport: "Rideshare essential for sprawl; bike Lady Bird Lake trail; walk SoCo",
+    shopping: ["South Congress (SoCo)", "2nd Street District", "The Domain", "Allen Boots"],
+    nightlife: ["Sixth Street", "Rainey Street", "Red River Cultural District", "Continental Club"],
+    museums: ["Bullock Texas State History Museum", "Blanton Museum of Art", "LBJ Presidential Library"],
+    localFoods: ["Breakfast tacos", "Franklin Barbecue brisket", "Queso", "Chicken shiner pie"],
+    hiddenGems: ["Mount Bonnell sunset", "Barton Springs Pool", "Hamilton Pool (reservation required)"],
+    tips: [
+      "Franklin Barbecue — order online or queue early",
+      "Summer heat is brutal — swim at Barton Springs",
+      "SXSW and ACL — book hotels a year ahead"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  banff: {
+    ...stock("alps", ["mountains", "norway", "icelandFalls"]),
+    tagline: "Rockies peaks and turquoise glacial lakes",
+    overview:
+      "Banff is Canada's Rocky Mountain showpiece — Fairmont Banff Springs beneath Cascade Mountain, Lake Louise day trips and the Icefields Parkway into Jasper wilderness.",
+    bestTime: "June–September for hiking; December–March for skiing",
+    weather: "Alpine — short warm summers; long cold snowy winters",
+    airport: "Calgary International (YYC) + 1.5 hr drive",
+    metro: "No metro; ROAM buses in Banff; car for Lake Louise",
+    transport: "Park pass required; shuttle to Lake Louise/Moraine; walk Banff Avenue",
+    shopping: ["Banff Avenue shops", "Banff Indian Trading Post", "Cascade Plaza", "Lake Louise Samson Mall"],
+    nightlife: ["Banff Avenue pubs", "Park Distillery", "The Banff Centre events"],
+    museums: ["Banff Park Museum National Historic Site", "Whyte Museum of the Canadian Rockies", "Cave and Basin National Historic Site"],
+    localFoods: ["Alberta beef", "Bison burger", "Maple desserts", "Rocky Mountain chocolate"],
+    hiddenGems: ["Vermilion Lakes sunrise", "Johnston Canyon icewalk (winter)", "Bow Valley Parkway wildlife"],
+    tips: [
+      "Moraine Lake access requires reservation/shuttle in peak season",
+      "Wildlife on roads — elk and bears common",
+      "Book Banff hotels months ahead for summer"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  bilbao: {
+    ...stock("coast", ["food", "cityNight", "alps"]),
+    tagline: "Guggenheim titanium and pintxos lanes",
+    overview:
+      "Bilbao transformed around Frank Gehry's Guggenheim — a Basque city of world-class art, Casco Viejo pintxos bars and green hills above the Nervión estuary.",
+    bestTime: "May–September for warmest weather",
+    weather: "Oceanic — mild rainy winters; pleasant summers",
+    airport: "Bilbao Airport (BIO)",
+    metro: "Metro Bilbao + Euskotren + trams",
+    transport: "Metro and walk; funicular to Artxanda viewpoint",
+    shopping: ["Casco Viejo shops", "Gran Vía", "Azkuna Zentroa boutiques", "Mercado de la Ribera"],
+    nightlife: ["Casco Viejo pintxos crawl", "Indautxu bars", "Bilbao La Vieja"],
+    museums: ["Guggenheim Museum Bilbao", "Bilbao Fine Arts Museum", "Azkuna Zentroa"],
+    localFoods: ["Pintxos", "Bacalao al pil-pil", "Txakoli wine", "Idiazabal cheese"],
+    hiddenGems: ["Artxanda funicular views", "San Juan de Gaztelugatxe day trip", "Ribera Market upstairs"],
+    tips: [
+      "Pintxos — order at bar, don't sit for table service in old town",
+      "Guggenheim free on certain hours for locals — check schedule",
+      "Basque Country rain — pack a jacket"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  bodrum: {
+    ...stock("greeceSea", ["beach", "coast", "sahara"]),
+    tagline: "Aegean castle and gulet coast",
+    overview:
+      "Bodrum is the Turkish Riviera's whitewashed playground — Crusader castle museums, marina nightlife and gulet cruises to hidden coves on the Aegean.",
+    bestTime: "May–October for beach and boat season",
+    weather: "Mediterranean — hot dry summers; mild wet winters",
+    airport: "Milas–Bodrum (BJV)",
+    metro: "No metro; dolmuş minibuses and taxis",
+    transport: "Walk marina and castle; dolmuş to beaches; gulet day cruises",
+    shopping: ["Bodrum bazaar", "Marina boutiques", "Turgutreis market", "Ortakent artisan shops"],
+    nightlife: ["Halikarnas disco (seasonal)", "Marina bars", "Gumbet strip", "Bodrum Castle area"],
+    museums: ["Bodrum Castle & Museum of Underwater Archaeology", "Ancient Theatre", "Zeki Müren Arts Museum"],
+    localFoods: ["Ege mezze", "Fresh grilled fish", "Köfte", "Turkish breakfast spread"],
+    hiddenGems: ["Gümüşlük fishing village", "Yalıkavak Palmarina", "Ancient Halicarnassus Mausoleum site"],
+    tips: [
+      "Castle museum — allow 2 hours",
+      "Gümüşlük sunset dinner is worth the taxi",
+      "July–August is peak — book gulets early"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  boracay: {
+    ...stock("beach", ["phiPhi", "maldives", "coast"]),
+    tagline: "White Beach powder and island sunsets",
+    overview:
+      "Boracay's four-kilometre White Beach draws travellers for turquoise shallows, kiteboarding on Bulabog and legendary sunset sails — a compact Philippine island escape.",
+    bestTime: "November–May for dry season",
+    weather: "Tropical — wet Jun–Oct; typhoon risk Aug–Oct",
+    airport: "Godofredo P. Ramos (MPH) on nearby Caticlan",
+    metro: "No metro; tricycles and e-trikes on island",
+    transport: "Tricycle along White Beach; boat to Puka and Diniwid",
+    shopping: ["D'Mall de Boracay", "D'Talipapa Market", "Station 2 beach vendors", "Craft stalls at White Beach"],
+    nightlife: ["Station 2 beach bars", "Cocomangas Shooter", "Epic Boracay", "Exit Bar"],
+    museums: ["Boracay Butterfly Garden", "Boracay Ocean Club Gallery", "Motag Living Museum (nearby Malay)"],
+    localFoods: ["Chori burger", "Fresh grilled seafood", "Calamansi juice", "Halo-halo"],
+    hiddenGems: ["Puka Shell Beach", "Diniwid Beach", "Mount Luho viewpoint"],
+    tips: [
+      "Station 1 is quietest; Station 2 is liveliest",
+      "No smoking on White Beach",
+      "Book island-hopping tours through reputable operators"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  bordeaux: {
+    ...stock("eiffel", ["paris", "coast", "food"]),
+    tagline: "Grand Théâtre columns and Médoc châteaux",
+    overview:
+      "Bordeaux is a UNESCO wine capital — neoclassical quays, La Cité du Vin and day trips to Saint-Émilion vineyards along the Garonne estuary.",
+    bestTime: "May–October for vineyard visits and outdoor dining",
+    weather: "Oceanic — mild winters; warm summers",
+    airport: "Bordeaux–Mérignac (BOD)",
+    metro: "Tram network (TBM) + trains to wine regions",
+    transport: "Tram in city; train to Saint-Émilion; bike the river quays",
+    shopping: ["Rue Sainte-Catherine", "Chartrons antiques", "Marché des Capucins", "Wine shops on Cours du Languedoc"],
+    nightlife: ["Place de la Victoire", "Chartrons wine bars", "Quai des Chartrons", "Darwin Eco-système"],
+    museums: ["La Cité du Vin", "CAPC Museum of Contemporary Art", "Musée d'Aquitaine"],
+    localFoods: ["Canelé pastry", "Entrecôte bordelaise", "Oysters from Arcachon", "Duck confit"],
+    hiddenGems: ["Miroir d'eau reflections", "Saint-Émilion day trip", "Cap Ferret oyster villages"],
+    tips: [
+      "Book château tastings ahead in harvest season",
+      "La Cité du Vin — allow half a day",
+      "Tram is easiest for wine museum and centre"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  cairns: {
+    ...stock("beach", ["coast", "maldives", "mountains"]),
+    tagline: "Great Barrier Reef gateway and rainforest",
+    overview:
+      "Cairns is Tropical North Queensland's launchpad — Great Barrier Reef snorkel day boats, Kuranda Scenic Railway through rainforest and the Esplanade lagoon in a laid-back city.",
+    bestTime: "May–October for dry season and calm reef",
+    weather: "Tropical — wet Nov–Apr; stinger season Oct–May (use nets/suits)",
+    airport: "Cairns Airport (CNS)",
+    metro: "No metro; Sunbus local buses",
+    transport: "Reef tour boats from marina; Kuranda Scenic Railway + Skyrail; car for Daintree",
+    shopping: ["Cairns Esplanade markets", "Rusty's Markets", "Cairns Central", "Night Markets"],
+    nightlife: ["Esplanade bars", "The Pier Bar", "Gilligan's Backpacker (party hub)"],
+    museums: ["Cairns Aquarium", "Tjapukai Aboriginal Cultural Park", "Cairns Museum"],
+    localFoods: ["Barramundi", "Crocodile (try once)", "Tropical fruit", "Moreton Bay bugs"],
+    hiddenGems: ["Palm Cove beach day trip", "Atherton Tablelands waterfalls", "Fitzroy Island ferry"],
+    tips: [
+      "Reef trips — book reputable operators; check seasickness",
+      "Stinger season — wear lycra suits",
+      "Daintree — crocodile safety signs are serious"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  cappadocia: {
+    ...stock("desertCamp", ["sahara", "mountains", "temple"]),
+    tagline: "Fairy chimneys and dawn balloons",
+    overview:
+      "Göreme and Cappadocia's volcanic valleys offer cave hotels, hot-air balloon sunrises over fairy chimneys and underground cities carved by early Christians.",
+    bestTime: "April–June and September–November",
+    weather: "Continental steppe — hot dry summers; cold winters with snow",
+    airport: "Nevşehir Kapadokya (NAV) or Kayseri (ASR)",
+    metro: "No metro; tour vans and ATVs",
+    transport: "Tour packages for valleys; ATV tours; walk Göreme Open-Air Museum",
+    shopping: ["Göreme pottery workshops", "Avanos ceramics", "Onyx and carpet shops", "Local wine shops"],
+    nightlife: ["Cave restaurant dinners", "Turkish night shows", "Göreme rooftop bars"],
+    museums: ["Göreme Open-Air Museum", "Zelve Open-Air Museum", "Underground cities (Kaymakli/Derinkuyu)"],
+    localFoods: ["Testi kebab (pottery kebab)", "Manti", "Gözleme", "Local Cappadocia wine"],
+    hiddenGems: ["Love Valley hike at sunrise", "Uçhisar Castle panorama", "Ihlara Valley day trip"],
+    tips: [
+      "Balloon flights cancel in high wind — book multiple mornings",
+      "Cave hotels — check heating in winter",
+      "ATV tours — bring dust mask and sunglasses"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  charleston: {
+    ...stock("coast", ["cityNight", "food", "nyc"]),
+    tagline: "Rainbow Row and Lowcountry cuisine",
+    overview:
+      "Charleston is preserved antebellum elegance — Rainbow Row pastel houses, carriage tours through the Battery and a James Beard-saturated restaurant scene.",
+    bestTime: "March–May and October–November",
+    weather: "Humid subtropical — hot summers; hurricane season Jun–Nov",
+    airport: "Charleston International (CHS)",
+    metro: "No metro; CARTA buses; walk peninsula",
+    transport: "Walk historic peninsula; rideshare to plantations; car for beaches",
+    shopping: ["King Street", "City Market", "Charleston Place", "Broad Street antiques"],
+    nightlife: ["Upper King restaurant row", "Rooftop bars at Market", "The Commodore jazz"],
+    museums: ["Charleston Museum", "Gibbes Museum of Art", "International African American Museum"],
+    localFoods: ["Shrimp and grits", "She-crab soup", "Lowcountry boil", "Benne wafers"],
+    hiddenGems: ["Angel Oak Tree", "Shem Creek shrimp boats", "Sullivan's Island beach"],
+    tips: [
+      "Restaurant reservations essential weekends",
+      "Plantation visits — engage critically with slavery history",
+      "Summer heat — plan indoor midday breaks"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  crete: {
+    ...stock("greeceSea", ["beach", "coast", "temple"]),
+    tagline: "Knossos legends and Heraklion harbour",
+    overview:
+      "Heraklion is Crete's capital and Minoan gateway — Knossos Palace, Venetian harbour fortifications and a staging point for Spinalonga and south-coast beaches.",
+    bestTime: "April–June and September–October",
+    weather: "Mediterranean — hot dry summers; mild winters",
+    airport: "Heraklion International Nikos Kazantzakis (HER)",
+    metro: "No metro; KTEL buses; rental car for island",
+    transport: "Walk city centre; bus to Knossos; car for Spinalonga and beaches",
+    shopping: ["1866 Street market", "Lion Square shops", "Central Market", "Gold Street (Dedalou)"],
+    nightlife: ["Lion Square cafés", "Old harbour tavernas", "Hersonissos (nearby resort strip)"],
+    museums: ["Heraklion Archaeological Museum", "Historical Museum of Crete", "Natural History Museum"],
+    localFoods: ["Dakos salad", "Kalitsounia cheese pies", "Gamopilafo", "Cretan raki"],
+    hiddenGems: ["Spinalonga island day trip", "Matala caves beach", "Archanes wine village"],
+    tips: [
+      "Knossos — go early; afternoon heat is intense",
+      "Heraklion Archaeological Museum pairs with Knossos",
+      "Rent a car to explore Crete properly"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  denver: {
+    ...stock("mountains", ["alps", "cityNight", "nyc"]),
+    tagline: "Mile High city and Rocky Mountain gateway",
+    overview:
+      "Denver pairs LoDo brewpubs and Red Rocks concerts with day trips to Rocky Mountain National Park — a sunny high-altitude city where the Great Plains meet the Rockies.",
+    bestTime: "May–October for hiking; December–March for skiing nearby",
+    weather: "Semi-arid — 300 days of sun; sudden snow possible; altitude 5,280 ft",
+    airport: "Denver International (DEN)",
+    metro: "RTD light rail and buses",
+    transport: "A Line rail to Union Station; car for RMNP; walk LoDo and RiNo",
+    shopping: ["16th Street Mall", "Cherry Creek Shopping Center", "RiNo boutiques", "Union Station shops"],
+    nightlife: ["LoDo bars", "RiNo breweries", "Red Rocks concerts (seasonal)", "South Broadway"],
+    museums: ["Denver Art Museum", "Denver Museum of Nature & Science", "Clyfford Still Museum"],
+    localFoods: ["Green chile (Colorado style)", "Bison burger", "Craft beer", "Rocky Mountain oysters"],
+    hiddenGems: ["Red Rocks Amphitheatre hike", "Mount Evans scenic byway (seasonal)", "Washington Park"],
+    tips: [
+      "Altitude — drink water and pace first day",
+      "Red Rocks — hike amphitheatre in morning",
+      "RMNP timed entry in peak summer — reserve ahead"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  fez: {
+    ...stock("sahara", ["desertCamp", "temple", "food"]),
+    tagline: "Medina labyrinth and leather tanneries",
+    overview:
+      "Fez el-Bali is the world's largest car-free urban zone — 9,000 alleyways, Al-Attarine Madrasa tilework and the iconic Chouara tannery vats seen from terrace viewpoints.",
+    bestTime: "March–May and October–November",
+    weather: "Mediterranean-inland — hot dry summers; cool wet winters",
+    airport: "Fès–Saïs (FEZ)",
+    metro: "No metro; hire official medina guide",
+    transport: "Guided medina walks essential first visit; taxi to Ville Nouvelle",
+    shopping: ["Souk Attarine", "Souk Seffarine (copper)", "Chouara tannery leather goods", "Henri Maier pottery"],
+    nightlife: ["Rooftop restaurants in riads", "Scheherazade cabaret dinner", "Medina closes early — riad dinners"],
+    museums: ["Nejjarine Museum of Wooden Arts", "Borj Nord Arms Museum", "Dar Batha Museum"],
+    localFoods: ["Bastilla (pastilla)", "Tagine", "Harira soup", "Medina bread from communal ovens"],
+    hiddenGems: ["Al-Attarine Madrasa", "Merenid Tombs viewpoint", "Day trip to Meknes and Volubilis"],
+    tips: [
+      "Hire licensed guide for medina first day — easy to get lost",
+      "Tannery terraces — tip expected for view access",
+      "Friday — many shops close for prayers"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  fiji: {
+    ...stock("beach", ["maldives", "coast", "phiPhi"]),
+    tagline: "Bula spirit and Denarau gateway",
+    overview:
+      "Nadi and Denarau are Fiji's main tourist gateway — Mamanuca island hops, Sri Siva Subramaniya Temple colour and village kava ceremonies before transfers to resort islands.",
+    bestTime: "May–October for dry season",
+    weather: "Tropical — wet Nov–Apr; cyclone risk Dec–Apr",
+    airport: "Nadi International (NAN)",
+    metro: "No metro; taxis and resort transfers",
+    transport: "Resort transfers from Nadi; ferries to Mamanuca/Yasawa islands; taxi to Denarau",
+    shopping: ["Nadi Handicraft Market", "Denarau Marina shops", "Jack's of Fiji", "Municipal Market Nadi"],
+    nightlife: ["Denarau marina bars", "Nadi town local bars", "Resort lovo nights and meke dances"],
+    museums: ["Sri Siva Subramaniya Temple (active temple)", "Fiji Museum Suva (day trip)", "Garden of the Sleeping Giant"],
+    localFoods: ["Kokoda (ceviche)", "Lovo earth-oven feast", "Rourou (taro leaves)", "Kava ceremony drink"],
+    hiddenGems: ["Cloud 9 floating bar (Mamanuca)", "Sabeto Mud Pool and Hot Spring", "Garden of the Sleeping Giant orchids"],
+    tips: [
+      "Island transfers — confirm boat times with resort",
+      "Village visits — bring sela (sarong) and respect kava protocol",
+      "Fiji time is relaxed — build buffer into schedules"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  frankfurt: {
+    ...stock("cityNight", ["food", "alps", "nyc"]),
+    tagline: "Mainhattan skyline and apple-wine taverns",
+    overview:
+      "Frankfurt is Germany's finance hub with a reconstructed Altstadt, apple-wine taverns in Sachsenhausen and Europe's third-busiest airport connecting the continent.",
+    bestTime: "May–September for riverfront and festivals",
+    weather: "Oceanic — mild winters; warm summers",
+    airport: "Frankfurt Airport (FRA) — major European hub",
+    metro: "U-Bahn, S-Bahn and trams (RMV network)",
+    transport: "S-Bahn from airport; walk Altstadt; day trip Rhine Valley by train",
+    shopping: ["Zeil shopping street", "Kleinmarkthalle", "MyZeil mall", "Goethestraße luxury"],
+    nightlife: ["Sachsenhausen apple-wine taverns", "Oberrad river bars", "Bockenheim student bars"],
+    museums: ["Städel Museum", "Senckenberg Natural History Museum", "German Film Museum"],
+    localFoods: ["Grüne Soße (green sauce)", "Handkäse mit Musik", "Frankfurter Würstchen", "Apfelwein (apple wine)"],
+    hiddenGems: ["Palmengarten botanical garden", "Main river beach clubs (summer)", "Rhine Valley day trip"],
+    tips: [
+      "Museumsufer — many museums on river",
+      "Apple wine — traditional glass with diamond pattern (Geripptes)",
+      "Frankfurt Book Fair week — hotels sell out"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  galapagos: {
+    ...stock("coast", ["beach", "machuPicchu", "mountains"]),
+    tagline: "Darwin's islands and fearless wildlife",
+    overview:
+      "Puerto Ayora on Santa Cruz is the Galápagos hub — giant tortoises in the highlands, sea lions at La Lobería and boat trips to neighbouring islands for endemic wildlife encounters.",
+    bestTime: "December–May for warm calm seas; June–Nov for cooler wildlife activity",
+    weather: "Equatorial Pacific — warm wet season Dec–May; garúa mist Jun–Nov",
+    airport: "Seymour Galapagos (GPS) on Baltra; ferry/bus to Puerto Ayora",
+    metro: "No metro; water taxis and island boats",
+    transport: "Guided island tours required for most sites; water taxi across Academy Bay",
+    shopping: ["Puerto Ayora artisan market", "Charles Darwin Ave shops", "Fish market souvenirs", "Local chocolate and coffee"],
+    nightlife: ["Puerto Ayora waterfront bars", "Charles Darwin Avenue restaurants", "Early nights — dawn boat tours"],
+    museums: ["Charles Darwin Research Station", "Galápagos Interpretation Center (San Cristóbal)", "Galapagos National Park HQ exhibits"],
+    localFoods: ["Encebollado fish soup", "Seco de chivo", "Fresh ceviche", "Plantain patacones"],
+    hiddenGems: ["Tortuga Bay kayak", "Garrapatero Beach", "Highlands tortoise reserves"],
+    tips: [
+      "National Park rules are strict — stay with licensed guides",
+      "Bring reef-safe sunscreen and cash — ATMs limited",
+      "Book island-hopping cruises months ahead"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  galle: {
+    ...stock("coast", ["beach", "temple", "lantern"]),
+    tagline: "Dutch ramparts and Indian Ocean surf",
+    overview:
+      "Galle Fort is a UNESCO walled town of colonial lanes, boutique cafés and rampart sunsets — gateway to Sri Lanka's south-coast beaches and stilt fishermen.",
+    bestTime: "December–March for dry season on south coast",
+    weather: "Tropical — wet May–Sep on south coast",
+    airport: "Mattala Rajapaksa (HRI) or Colombo (CMB) + train",
+    metro: "No metro; tuk-tuk and walk within fort",
+    transport: "Tuk-tuk; train from Colombo; scooter for beaches",
+    shopping: ["Pedlar Street boutiques", "Galle Fort craft shops", "Mango House", "Orchid House"],
+    nightlife: ["Fort rampart sunset bars", "Unawatuna beach bars", "A Minute by Tuk Tuk"],
+    museums: ["Maritime Archaeology Museum", "National Museum Galle", "Dutch Reformed Church"],
+    localFoods: ["Kottu roti", "Hoppers", "Curry and rice", "Fresh seafood"],
+    hiddenGems: ["Jungle Beach", "Japanese Peace Pagoda", "Stilt fishermen near Koggala"],
+    tips: [
+      "Walk the fort ramparts at sunset",
+      "Combine with Mirissa whale watching (seasonal)",
+      "Train from Colombo to Galle is scenic"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  goa: {
+    ...stock("beach", ["coast", "temple", "food"]),
+    tagline: "Portuguese churches and palm-lined beaches",
+    overview:
+      "Goa blends colonial churches in Old Goa, Latin Quarter colour in Panaji and a beach belt from lively Baga to quieter South Goa coves — India's laid-back coastal escape.",
+    bestTime: "November–February for dry, sunny weather",
+    weather: "Tropical monsoon — wet Jun–Sep; hot Mar–May",
+    airport: "Goa Manohar International (GOX) / Dabolim (GOI)",
+    metro: "No metro; taxis, scooters and buses",
+    transport: "Scooter rental popular; prepaid taxis from airport",
+    shopping: ["Anjuna Flea Market (seasonal)", "Mapusa Market", "Panaji 18th June Road", "Calangute beach stalls"],
+    nightlife: ["Tito's Lane Baga", "Anjuna trance parties (seasonal)", "Palolem beach shacks"],
+    museums: ["Museum of Christian Art Old Goa", "Goa State Museum Panaji", "Naval Aviation Museum"],
+    localFoods: ["Fish curry rice", "Goan vindaloo", "Bebinca", "Xacuti"],
+    hiddenGems: ["Fontainhas Latin Quarter", "Chapora Fort sunset", "Spice plantation tours"],
+    tips: [
+      "North Goa is lively; South Goa is quieter — pick your zone",
+      "Cover shoulders at churches",
+      "Monsoon season closes many beach shacks"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  granada: {
+    ...stock("coast", ["food", "temple", "cityNight"]),
+    tagline: "Alhambra palaces and Albaicín views",
+    overview:
+      "Granada's Alhambra fortress-palace crowns a city of Moorish quarters, free-tapas culture and Sierra Nevada backdrop — one of Spain's most essential stops.",
+    bestTime: "April–May and September–October",
+    weather: "Continental-Mediterranean — hot dry summers; cold winters at altitude",
+    airport: "Federico García Lorca Granada-Jaén (GRX)",
+    metro: "No metro; buses and walkable centre",
+    transport: "Walk Albaicín and centre; bus C3 to Alhambra; taxi for late nights",
+    shopping: ["Alcaicería bazaar", "Albaicín craft shops", "Gran Vía", "Mercado San Agustín"],
+    nightlife: ["Calle Elvira tapas", "Plaza Nueva bars", "Flamenco in Sacromonte caves", "Carrera del Darro"],
+    museums: ["Alhambra Museum", "Science Park (Parque de las Ciencias)", "Archaeological Museum"],
+    localFoods: ["Free tapas with drinks", "Plato alpujarreño", "Pionono pastry", "Remojón granaíno"],
+    hiddenGems: ["Mirador de San Nicolás sunset", "Sacromonte cave dwellings", "Carmen de los Mártires gardens"],
+    tips: [
+      "Alhambra tickets sell out — book 2–3 months ahead",
+      "Wear comfortable shoes for Albaicín cobbles",
+      "Evening visit to Alhambra Nasrid Palaces is magical"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  guadalajara: {
+    ...stock("cityNight", ["food", "coast", "temple"]),
+    tagline: "Tequila, mariachi and torta ahogada",
+    overview:
+      "Guadalajara is Mexico's second city — birthplace of mariachi and tequila, with Hospicio Cabañas murals, Tlaquepaque crafts and torta ahogada street feasts.",
+    bestTime: "October–December for mild dry weather",
+    weather: "Subtropical highland — warm days, cool nights; wet Jun–Sep",
+    airport: "Guadalajara International Miguel Hidalgo (GDL)",
+    metro: "Macrobús BRT + light rail (Sistema de Tren Ligero)",
+    transport: "Macrobús for centre; Uber widely used; tequila country day tours",
+    shopping: ["Tlaquepaque artisan village", "Mercado San Juan de Dios", "Andares mall", "Libertad Market"],
+    nightlife: ["Plaza de los Mariachis", "Chapultepec nightlife corridor", "Tlaquepaque cantinas", "Americana neighbourhood bars"],
+    museums: ["Instituto Cultural Cabañas", "Hospicio Cabañas (UNESCO)", "Museum of the Arts (MUSA)"],
+    localFoods: ["Torta ahogada", "Birria", "Tequila and cantarito cocktails", "Pozole"],
+    hiddenGems: ["Tequila town Jose Cuervo distillery day trip", "Barranca de Huentitán canyon", "Lake Chapala day trip"],
+    tips: [
+      "Tlaquepaque — go weekday for calmer shopping",
+      "Tequila trains and tours — book ahead weekends",
+      "Altitude 1,500 m — sun is strong"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  hangzhou: {
+    ...stock("temple", ["lantern", "food", "cityNight"]),
+    tagline: "West Lake poetry and Longjing tea",
+    overview:
+      "Hangzhou's misty West Lake, Lingyin Temple and Longjing tea villages have inspired Chinese poets for centuries — a serene counterpoint to Shanghai day trips.",
+    bestTime: "March–May and September–November",
+    weather: "Humid subtropical — hot humid summers, mild winters",
+    airport: "Hangzhou Xiaoshan International (HGH)",
+    metro: "Hangzhou Metro lines 1–6+",
+    transport: "Metro to West Lake; bike around the lake; Didi rideshares",
+    shopping: ["Hefang Street", "Qinghefang Ancient Street", "Longjing tea villages", "MixC Mall"],
+    nightlife: ["West Lake night show area", "Nanshan Road bars", "Binjiang district"],
+    museums: ["China National Silk Museum", "Zhejiang Provincial Museum", "Hangzhou Museum"],
+    localFoods: ["West Lake fish in vinegar", "Dongpo pork", "Longjing shrimp", "Pian'er chuan noodles"],
+    hiddenGems: ["Xixi Wetland", "Fei Lai Feng grottoes", "Meijiawu tea village"],
+    tips: [
+      "West Lake is best early morning or at dusk",
+      "Book Impression West Lake show tickets ahead",
+      "Longjing tea purchases — buy from reputable plantations"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  hobart: {
+    ...stock("coast", ["mountains", "cityNight", "food"]),
+    tagline: "MONA art and Salamanca Market",
+    overview:
+      "Hobart is Tasmania's harbour capital — David Walsh's MONA museum, Saturday Salamanca Market, Mount Wellington/kunanyi views and Australia's oldest pub culture.",
+    bestTime: "December–February for warmest weather and festivals",
+    weather: "Oceanic — cool year-round; four seasons in one day",
+    airport: "Hobart Airport (HBA)",
+    metro: "No metro; Metro buses; walk waterfront",
+    transport: "Walk Salamanca and CBD; ferry to MONA; car for Port Arthur day trip",
+    shopping: ["Salamanca Market (Saturday)", "Salamanca Place boutiques", "Cat and Fiddle Arcade", "Farm Gate Market (Sunday)"],
+    nightlife: ["Salamanca pubs", "Waterfront bars", "MONA events and festivals"],
+    museums: ["MONA (Museum of Old and New Art)", "Tasmanian Museum and Art Gallery", "Maritime Museum of Tasmania"],
+    localFoods: ["Fresh Tasmanian salmon", "Curried scallop pie", "Wallaby (game meat)", "Tasmanian whisky"],
+    hiddenGems: ["Battery Point village walk", "Bruny Island day trip", "Mount Wellington summit"],
+    tips: [
+      "MONA — book ferry + entry together",
+      "Salamanca Market only Saturday 8:30 AM–3 PM",
+      "Port Arthur — allow full day from Hobart"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  "hoi-an": {
+    ...stock("lantern", ["temple", "food", "coast"]),
+    tagline: "Lantern-lit old town and tailor shops",
+    overview:
+      "Hoi An's UNESCO Ancient Town glows with yellow walls, lantern nights and riverside cafés — a walkable base for beaches, cooking classes and custom tailoring.",
+    bestTime: "February–April for dry, pleasant weather",
+    weather: "Tropical monsoon — hot summers, rainy Oct–Dec",
+    airport: "Da Nang International (DAD) — 45 min by road",
+    metro: "No metro; walk or bicycle in town",
+    transport: "Bicycle rental; taxi to An Bang Beach; shuttle to Da Nang",
+    shopping: ["Ancient Town silk shops", "Nguyen Phuc Chu Street tailors", "Central Market", "Night Market"],
+    nightlife: ["Ancient Town lantern bars", "An Bang Beach bars", "Riverside cafés", "Full Moon Lantern Festival (monthly)"],
+    museums: ["Hoi An Museum of History & Culture", "Museum of Trade Ceramics", "Sa Huynh Culture Museum"],
+    localFoods: ["Cao lau noodles", "White rose dumplings", "Mi Quang", "Com ga Hoi An"],
+    hiddenGems: ["Tra Que Vegetable Village", "Cam Kim Island bike loop", "Kim Bong carpentry village"],
+    tips: [
+      "Buy an Ancient Town ticket for assembly halls and old houses",
+      "Tailoring needs 24–48 hours — plan ahead",
+      "Full Moon nights restrict motor traffic in the old town"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  honolulu: {
+    ...stock("beach", ["coast", "maldives", "phiPhi"]),
+    tagline: "Waikiki beaches and Hawaiian culture",
+    overview:
+      "Honolulu pairs Waikiki's beachfront energy with Pearl Harbor history, Diamond Head hikes and easy island day trips across Oʻahu.",
+    bestTime: "April–June and September–November for fewer crowds",
+    weather: "Tropical — warm year-round; trade winds; wetter winters on windward side",
+    airport: "Daniel K. Inouye International (HNL)",
+    metro: "TheBus island network; no metro",
+    transport: "TheBus, rideshares, rental car for North Shore",
+    shopping: ["Ala Moana Center", "International Market Place", "Chinatown Honolulu", "Royal Hawaiian Center"],
+    nightlife: ["Waikiki beachfront bars", "Chinatown", "Kakaʻako"],
+    museums: ["Bishop Museum", "Pearl Harbor museums", "Honolulu Museum of Art"],
+    localFoods: ["Poke", "Plate lunch", "Spam musubi", "Shave ice"],
+    hiddenGems: ["Lanikai Beach", "Manoa Falls", "Kailua town"],
+    tips: [
+      "Start Diamond Head early for cooler temperatures",
+      "Respect sacred sites and reef etiquette",
+      "Book Pearl Harbor tickets online"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  ibiza: {
+    ...stock("beach", ["coast", "cityNight", "greeceSea"]),
+    tagline: "Dalt Vila walls and Balearic beats",
+    overview:
+      "Ibiza balances UNESCO Dalt Vila fortress lanes, crystalline coves and a world-famous club scene — with quieter north-coast retreats and Formentera day ferries.",
+    bestTime: "May–June and September for warm weather without peak crowds",
+    weather: "Mediterranean — hot dry summers; mild winters",
+    airport: "Ibiza Airport (IBZ)",
+    metro: "No metro; buses, taxis and scooters",
+    transport: "Bus to beaches; taxi at night; ferry to Formentera",
+    shopping: ["Dalt Vila boutiques", "Las Dalias Hippy Market", "Punta Arabí Hippy Market", "Ibiza Town marina"],
+    nightlife: ["Pacha Ibiza", "Ushuaïa", "Amnesia", "Café del Mar sunset strip"],
+    museums: ["Archaeological Museum of Ibiza", "Contemporary Art Museum (MACE)", "Madina Yabisa Interpretation Centre"],
+    localFoods: ["Bullit de peix fish stew", "Sofrit pagès", "Flaó cheesecake", "Ensaimada"],
+    hiddenGems: ["Es Vedrà viewpoint", "Cala Comte sunset", "Formentera day ferry"],
+    tips: [
+      "Dalt Vila is best explored on foot before beach clubs",
+      "Book clubs and restaurants in August",
+      "North coast (Portinatx, San Juan) is quieter"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  iguazu: {
+    ...stock("mountains", ["coast", "machuPicchu", "icelandFalls"]),
+    tagline: "Devil's Throat and triple-border falls",
+    overview:
+      "Foz do Iguaçu on the Brazilian side offers panoramic falls walkways and helicopter views of Iguaçu's 275 cascades — with day trips to Argentina's catwalks and Itaipu Dam.",
+    bestTime: "March–May and August–November for good flow and fewer crowds",
+    weather: "Subtropical — hot humid summers; warm winters",
+    airport: "Foz do Iguaçu International (IGU)",
+    metro: "No metro; Urban transport buses to falls",
+    transport: "Bus to Iguaçu National Park; tours to Argentina side and Itaipu",
+    shopping: ["Catuaí Palladium Shopping", "Mercosul Market", "Bird Park gift shop", "Marco das Três Fronteiras complex"],
+    nightlife: ["Rafain Churrascaria show", "Itaipu Lake waterfront", "Downtown Foz bars"],
+    museums: ["Bird Park (Parque das Aves)", "Muslim Mosque of Foz (regional landmark)", "Itaipu Dam visitor centre"],
+    localFoods: ["Churrasco", "Pão de queijo", "Moqueca", "Açaí"],
+    hiddenGems: ["Macuco Safari boat under falls (Argentina side)", "Belmond Hotel das Cataratas (inside park)", "Triple Frontier monument"],
+    tips: [
+      "Brazil side = panoramas; Argentina side = close catwalks — do both",
+      "Waterproof phone case essential",
+      "Yellow fever vaccination may be required — check current rules"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  innsbruck: {
+    ...stock("alps", ["mountains", "cityNight", "food"]),
+    tagline: "Golden Roof and Nordkette peaks",
+    overview:
+      "Innsbruck is the Tyrol capital where Habsburg history meets instant alpine access — Nordkette cable car rises from city centre to 2,000-metre ridges in minutes.",
+    bestTime: "December–March for skiing; June–September for hiking",
+    weather: "Alpine continental — cold snowy winters; mild summers",
+    airport: "Innsbruck Airport (INN)",
+    metro: "No metro; IVB buses and trams",
+    transport: "Walk Altstadt; Nordkette funicular + cable car; train to Hallstatt day trip",
+    shopping: ["Maria-Theresien-Straße", "Old Town arcades", "Rathaus Galerien", "Swarovski Kristallwelten (nearby)"],
+    nightlife: ["Maria-Theresien-Straße bars", "Old Town taverns", "Hofgarten area"],
+    museums: ["Tyrolean State Museum", "Imperial Palace (Hofburg)", "Bergisel Ski Jump Museum"],
+    localFoods: ["Tiroler Gröstl", "Käsespätzle", "Apfelstrudel", "Schnitzel"],
+    hiddenGems: ["Bergisel Ski Jump Zaha Hadid design", "Hungerburg funicular", "Ambras Castle"],
+    tips: [
+      "Nordkette — check weather at valley station",
+      "Innsbruck Card covers major attractions",
+      "Combine with Swarovski Crystal Worlds if travelling with family"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  interlaken: {
+    ...stock("alps", ["mountains", "norway", "cityNight"]),
+    tagline: "Jungfrau gateway between two lakes",
+    overview:
+      "Interlaken sits between Lake Thun and Lake Brienz as the classic base for Jungfraujoch trains, paragliding over the Höhematte and Lauterbrunnen valley day trips.",
+    bestTime: "June–September for alpine activities; December–March for skiing",
+    weather: "Alpine — cool summers; snowy winters; weather changes fast",
+    airport: "Bern (BRN) or Zurich (ZRH) + train; Interlaken Ost/Ost stations",
+    metro: "No metro; Swiss rail, buses and mountain railways",
+    transport: "Swiss Travel Pass; trains to Grindelwald/Lauterbrunnen; boat cruises on lakes",
+    shopping: ["Höheweg souvenir shops", "Metropole Arcade", "Unions Spital", "Grindelwald outdoor gear"],
+    nightlife: ["Höheweg bars", "Backpacker bars Bönigen", "Casino Kursaal Interlaken"],
+    museums: ["Touristik-Museum der Jungfrau-Region", "Jungfrau Park (nearby)", "Ballenberg Open-Air Museum (day trip)"],
+    localFoods: ["Rösti", "Fondue", "Berner Platte", "Swiss chocolate"],
+    hiddenGems: ["Harder Kulm sunset funicular", "Trümmelbach Falls inside the mountain", "Schynige Platte wildflower hike"],
+    tips: [
+      "Jungfraujoch — book first train to avoid clouds",
+      "Paragliding weather-dependent — have backup plans",
+      "Swiss trains run like clockwork — be on time"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  jaipur: {
+    ...stock("temple", ["lantern", "food", "desertCamp"]),
+    tagline: "Pink City palaces and bazaar bling",
+    overview:
+      "Jaipur is the Pink City of maharajas — Amber Fort elephant paths, Hawa Mahal's honeycomb facade and Johari Bazaar jewellery under Rajasthani desert sun.",
+    bestTime: "November–February for cool dry weather",
+    weather: "Semi-arid — scorching summers; mild winters",
+    airport: "Jaipur International (JAI)",
+    metro: "Jaipur Metro (limited); auto-rickshaws everywhere",
+    transport: "Auto-rickshaw with agreed fare; car for Amber Fort; walk old city",
+    shopping: ["Johari Bazaar", "Bapu Bazaar", "Tripolia Bazaar", "MI Road"],
+    nightlife: ["Bar Palladio Narain Niwas", "Steam lounge at Rambagh", "Amer Fort sound-and-light show"],
+    museums: ["Albert Hall Museum", "City Palace Museum", "Jantar Mantar (observatory)"],
+    localFoods: ["Dal baati churma", "Laal maas", "Ghewar sweet", "Pyaaz kachori"],
+    hiddenGems: ["Nahargarh Fort sunset", "Patrika Gate", "Galta Ji (Monkey Temple)"],
+    tips: [
+      "Amber Fort — go early; elephant rides controversial — consider jeep",
+      "Bargain in bazaars with good humour",
+      "Hawa Mahal best photographed from street café opposite"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  jeju: {
+    ...stock("coast", ["beach", "mountains", "temple"]),
+    tagline: "Volcanic island, haenyeo and tangerines",
+    overview:
+      "Jeju Island mixes UNESCO lava tubes, Hallasan hikes, dramatic coastal cliffs and a distinct island culture shaped by haenyeo divers and black-stone villages.",
+    bestTime: "April–June and September–November",
+    weather: "Subtropical oceanic — mild winters, humid summers; typhoon season Aug–Sep",
+    airport: "Jeju International (CJU)",
+    metro: "No metro; intercity buses circle the island",
+    transport: "Rental car recommended; airport buses to major towns",
+    shopping: ["Dongmun Market", "Seogwipo Olle Market", "Jeju duty-free", "Hamdeok Beach cafés"],
+    nightlife: ["Jeju City Nuwemaru Street", "Seogwipo harbour bars", "Aewol café coast"],
+    museums: ["Jeju National Museum", "Haenyeo Museum", "Teddy Bear Museum"],
+    localFoods: ["Black pork BBQ", "Jeju tangerines", "Abalone porridge", "Hallabong citrus desserts"],
+    hiddenGems: ["Seongsan Ilchulbong sunrise", "Jeju Olle Trail sections", "Udo Island day trip"],
+    tips: [
+      "Rent a car for efficient island touring",
+      "Weather changes fast on Hallasan — pack layers",
+      "Book Seongsan sunrise hike the night before"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  "koh-samui": {
+    ...stock("beach", ["phiPhi", "longtail", "temple"]),
+    tagline: "Palm-fringed Gulf island luxury",
+    overview:
+      "Koh Samui blends Chaweng's beach energy, Fisherman's Village charm and golden Big Buddha views — a polished Thai island with spa resorts and Ang Thong day trips.",
+    bestTime: "December–April for dry season",
+    weather: "Tropical — wet Oct–Dec; hot year-round",
+    airport: "Samui International (USM)",
+    metro: "No metro; songthaews and taxis",
+    transport: "Songthaew shared taxis; scooter rental; speedboat to Ang Thong",
+    shopping: ["Central Festival Samui", "Fisherman's Village Walking Street", "Chaweng Beach Road", "Lamai Night Plaza"],
+    nightlife: ["Chaweng Beach clubs", "Ark Bar", "Fisherman's Village Friday market", "Green Mango"],
+    museums: ["Samui Aquarium and Tiger Show", "Art Samui", "Wat Plai Laem temple complex"],
+    localFoods: ["Massaman curry", "Som tam", "Fresh coconut", "Grilled seafood"],
+    hiddenGems: ["Na Muang Waterfalls", "Secret Buddha Garden", "Silver Beach"],
+    tips: [
+      "Fisherman's Village Walking Street is Friday evenings",
+      "Ang Thong closes in rough seas — check weather",
+      "Songthaews — agree price before boarding"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  krabi: {
+    ...stock("phiPhi", ["longtail", "beach", "coast"]),
+    tagline: "Railay cliffs and island-hopping base",
+    overview:
+      "Krabi province centres on Ao Nang and Railay — limestone karsts, longtail boats to Hong Island and a staging point for Phi Phi day trips on the Andaman Sea.",
+    bestTime: "November–April for dry season",
+    weather: "Tropical monsoon — wet May–Oct",
+    airport: "Krabi International (KBV)",
+    metro: "No metro; songthaews and longtail boats",
+    transport: "Longtail to Railay; songthaew Ao Nang–Krabi Town; tour boats to islands",
+    shopping: ["Ao Nang Beach Road", "Krabi Town Night Market", "Maharaj Market", "Ao Nang Plaza"],
+    nightlife: ["Ao Nang Centrepoint", "Railay beach bars", "Tonsai climber bars"],
+    museums: ["Hat Noppharat Thara–Mu Ko Phi Phi National Park visitor centre", "Wat Kaew Korawaram", "Krabi Town Contemporary Art Museum"],
+    localFoods: ["Pad thai", "Tom yum goong", "Gaeng som", "Fresh mango sticky rice"],
+    hiddenGems: ["Emerald Pool / Sa Morakot", "Tiger Cave Temple 1,237 steps", "Tubkaek Beach"],
+    tips: [
+      "Railay is boat-access only — no roads",
+      "Book Phi Phi tours with licensed operators",
+      "Tiger Cave Temple requires modest dress"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  langkawi: {
+    ...stock("beach", ["coast", "maldives", "phiPhi"]),
+    tagline: "Duty-free islands and mangrove geoforest",
+    overview:
+      "Langkawi is Malaysia's duty-free archipelago of cable-car sky bridges, Kilim mangroves and Pantai Cenang beach bars — a relaxed tropical break with dramatic karst scenery.",
+    bestTime: "November–April for drier weather",
+    weather: "Tropical monsoon — wet May–Oct",
+    airport: "Langkawi International (LGK)",
+    metro: "No metro; rental car or Grab recommended",
+    transport: "Rental car best; Grab available; island-hopping boats",
+    shopping: ["Kuah town duty-free", "Cenang beach shops", "Orient Village", "Langkawi Fair Shopping Mall"],
+    nightlife: ["Pantai Cenang beach bars", "Sunba Retreat", "Red Tomato"],
+    museums: ["Underwater World Langkawi", "Langkawi Craft Complex", "Mahsuri Tomb & Museum"],
+    localFoods: ["Ikan bakar (grilled fish)", "Nasi campur", "Laksa Langkawi", "Fresh coconut"],
+    hiddenGems: ["Tanung Rhu Beach", "Datai Bay", "Temurun Waterfall"],
+    tips: [
+      "Rent a car — island is spread out",
+      "Sky Bridge closes in high winds",
+      "Duty-free alcohol is cheaper than mainland"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  "luang-prabang": {
+    ...stock("temple", ["lantern", "food", "coast"]),
+    tagline: "Mekong temples and saffron dawn",
+    overview:
+      "Luang Prabang is Laos's spiritual heart — gilded wats, French-colonial streets, alms-giving at dawn and easy trips to turquoise Kuang Si Falls.",
+    bestTime: "November–February for cool, dry weather",
+    weather: "Tropical — hot Mar–May; wet May–Oct",
+    airport: "Luang Prabang International (LPQ)",
+    metro: "No metro; walk or tuk-tuk",
+    transport: "Bicycle rental; tuk-tuk to falls; Mekong boat trips",
+    shopping: ["Night Market", "Morning Market", "Handicraft Night Market", "Ock Pop Tok textiles"],
+    nightlife: ["Night Market food stalls", "Mekong riverside bars", "Utopia bar area"],
+    museums: ["Royal Palace Museum (Haw Kham)", "Traditional Arts & Ethnology Centre", "UXO Laos Visitor Centre"],
+    localFoods: ["Or lam stew", "Khao soi Luang Prabang", "Jeow bong chili paste", "Khao piak sen noodles"],
+    hiddenGems: ["Mount Phousi sunrise", "Bamboo Bridge (seasonal)", "Ban Xang Hai whisky village"],
+    tips: [
+      "Observe alms giving quietly — do not touch monks",
+      "Dress modestly at temples",
+      "Book Kuang Si Falls early to beat tour buses"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  lucerne: {
+    ...stock("alps", ["mountains", "norway", "cityNight"]),
+    tagline: "Chapel Bridge and Pilatus peaks",
+    overview:
+      "Lucerne wraps around Lake Lucerne beneath snow-capped Pilatus and Rigi — Chapel Bridge, swan-filled quays and mountain railways define this Swiss postcard town.",
+    bestTime: "May–October for mountain excursions",
+    weather: "Alpine lake — mild summers; cold snowy winters",
+    airport: "Zurich (ZRH) + 1 hr train; Lucerne station central",
+    metro: "No metro; buses and lake steamers",
+    transport: "Swiss Travel Pass; cogwheel to Pilatus/Rigi; lake cruises",
+    shopping: ["Old Town shops", "Bucherer watches", "Löwenstrasse", "Luzerner Weihnachtsmarkt (seasonal)"],
+    nightlife: ["Old Town wine bars", "Casino Luzern", "Seebar by the lake"],
+    museums: ["Swiss Museum of Transport", "Rosengart Collection", "Richard Wagner Museum"],
+    localFoods: ["Luzerner Chügelipastete", "Fondue", "Rösti", "Swiss chocolate"],
+    hiddenGems: ["Musegg Wall walk", "Lion Monument", "Mt. Rigi sunrise (Queen of Mountains)"],
+    tips: [
+      "Mt. Pilatus Golden Round Trip is a full day",
+      "Chapel Bridge is free — best at dawn before tour groups",
+      "Lake cruises pair well with mountain mornings"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  luxor: {
+    ...stock("sahara", ["temple", "desertCamp", "coast"]),
+    tagline: "Pharaohs, Nile feluccas and temple columns",
+    overview:
+      "Luxor is open-air ancient Egypt — Karnak's hypostyle hall, the Valley of the Kings and riverside feluccas at sunset on the Nile's greatest concentration of monuments.",
+    bestTime: "October–April for cooler sightseeing weather",
+    weather: "Desert — scorching summers (40°C+); mild winters",
+    airport: "Luxor International (LXR)",
+    metro: "No metro; taxis and horse carriages",
+    transport: "Taxi between east and west bank; felucca on Nile; hot-air balloon at dawn",
+    shopping: ["Luxor Souk", "Alabaster factory shops", "West Bank artisan stalls", "Gaddis & Co antiques"],
+    nightlife: ["Luxor Temple lit at night", "Nile riverside cafés", "Sonesta St. George terrace"],
+    museums: ["Luxor Museum", "Mummification Museum", "Valley of the Kings tombs"],
+    localFoods: ["Koshari", "Ful medames", "Grilled pigeon", "Molokhia"],
+    hiddenGems: ["Hot-air balloon at sunrise", "Medinet Habu temple", "Deir el-Medina workers' village"],
+    tips: [
+      "Start Valley of the Kings at opening to avoid heat and crowds",
+      "West Bank needs a full day",
+      "Hot-air balloons — book reputable operators only"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  marrakech: {
+    ...stock("sahara", ["desertCamp", "food", "temple"]),
+    tagline: "Jemaa el-Fnaa dusk and riad courtyards",
+    overview:
+      "Marrakech assaults the senses — Jemaa el-Fnaa snake charmers at dusk, Majorelle blue gardens, souk bargaining and Atlas Mountain day trips from riad hideaways.",
+    bestTime: "March–May and September–November",
+    weather: "Semi-arid — very hot summers; mild winters",
+    airport: "Marrakech Menara (RAK)",
+    metro: "No metro; petit taxis (insist meter) and walks in medina",
+    transport: "Walk medina with offline map; taxi to Gueliz; day trip vans to Atlas",
+    shopping: ["Souk Semmarine", "Jemaa el-Fnaa stalls", "Guéliz boutiques", "Les Jardin Majorelle shop"],
+    nightlife: ["Jemaa el-Fnaa at night", "Comptoir Darna", "Theatro", "Nomad rooftop"],
+    museums: ["Majorelle Garden & YSL Museum", "Bahia Palace", "Saadian Tombs"],
+    localFoods: ["Tagine", "Couscous (Friday tradition)", "Msemen pancakes", "Mint tea"],
+    hiddenGems: ["Le Jardin Secret", "El Badi Palace storks", "Agafay Desert dinner (outside city)"],
+    tips: [
+      "Souk touts — polite but firm no",
+      "Majorelle — buy timed tickets online",
+      "Ramadan — eating hours shift; respect fasting"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  mecca: {
+    ...stock("sahara", ["desertCamp", "temple", "cityNight"]),
+    tagline: "Holiest city and Hajj destination",
+    overview:
+      "Mecca is the spiritual centre of Islam where Muslim pilgrims perform Hajj and Umrah at Masjid al-Haram — non-Muslims are prohibited from entering the city; travel content serves Muslim pilgrims planning stays near the Haram and Abraj Al Bait complex.",
+    bestTime: "Outside Hajj season for Umrah; avoid peak Hajj unless performing pilgrimage",
+    weather: "Desert — extreme heat year-round; very crowded during Hajj (Dhul Hijjah)",
+    airport: "King Abdulaziz International Jeddah (JED) + Haramain high-speed rail to Mecca",
+    metro: "Mecca Metro (Mashaaer line for Hajj); buses and taxis",
+    transport: "Haramain high-speed rail from Jeddah; pilgrim shuttle buses; walking within Haram zone",
+    shopping: ["Abraj Al Bait Mall", "Zamzam Well area supplies", "Clock Tower shopping complex", "Local ihram and pilgrim-supply shops"],
+    nightlife: ["Not applicable — spiritual city; night prayer at Haram"],
+    museums: ["Museum of the Two Holy Mosques Architecture", "Kaaba Kiswa exhibition area", "Clock Tower visitor exhibits"],
+    localFoods: ["Kabsa", "Mandi lamb", "Dates and zamzam water", "Arabic coffee"],
+    hiddenGems: ["Jabal al-Nour (Mountain of Light) — external views for context", "Hira Cave area (Muslim pilgrims)", "Mecca heritage library exhibits"],
+    tips: [
+      "Non-Muslims cannot enter Mecca — this guide is for Muslim pilgrims",
+      "Book Haram-view hotels months ahead for Ramadan and Hajj",
+      "Use official Hajj/Umrah operators for visa and logistics"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  medina: {
+    ...stock("sahara", ["desertCamp", "temple", "cityNight"]),
+    tagline: "Prophet's city and pilgrimage heart",
+    overview:
+      "Medina is Islam's second holiest city, centred on Al-Masjid an-Nabawi — non-Muslims cannot enter the mosque or central haram zone but can stay in pilgrim-service hotels and explore approved outer districts with deep respect for local customs.",
+    bestTime: "November–February for cooler weather outside Hajj peaks",
+    weather: "Desert — very hot summers; mild winters; crowded during Hajj and Ramadan",
+    airport: "Prince Mohammad bin Abdulaziz International (MED)",
+    metro: "No metro; taxis and hotel shuttles",
+    transport: "Pilgrim hotel shuttles to mosque precinct; taxis for outer sites; respect prayer times",
+    shopping: ["Dates souk", "Hejaz Railway Museum shop", "Pilgrim-supply markets", "Othman bin Affan Road shops"],
+    nightlife: ["Not applicable — alcohol-free city; evening prayer atmosphere around mosque precinct"],
+    museums: ["Hejaz Railway Museum", "Dar Al-Madinah Museum", "Knowledge Economic City exhibits"],
+    localFoods: ["Medina dates (Ajwa)", "Kabsa rice", "Mandi", "Arabic coffee and dates"],
+    hiddenGems: ["Mount Uhud historical site", "Quba Mosque (for Muslim visitors)", "Date farms on city outskirts"],
+    tips: [
+      "Non-Muslims cannot enter Al-Masjid an-Nabawi or central haram — confirm hotel zone before booking",
+      "Dress conservatively; respect prayer times",
+      "Hajj season — expect extreme crowding and price surges"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  nashville: {
+    ...stock("cityNight", ["nyc", "food", "coast"]),
+    tagline: "Broadway honky-tonks and Music Row",
+    overview:
+      "Nashville is country music's capital — Broadway neon honky-tonks, the Ryman Auditorium's hallowed stage and a food scene that now rivals the soundtrack.",
+    bestTime: "April–May and September–October",
+    weather: "Humid subtropical — hot summers; mild winters",
+    airport: "Nashville International (BNA)",
+    metro: "WeGo buses; no city metro; walk downtown core",
+    transport: "Walk Broadway; rideshare to Gulch and East Nashville; pedal taverns optional",
+    shopping: ["Broadway souvenir shops", "12 South boutiques", "Opry Mills", "Hatch Show Print"],
+    nightlife: ["Broadway honky-tonks", "The Bluebird Café", "Ryman Auditorium shows", "East Nashville bars"],
+    museums: ["Country Music Hall of Fame", "Johnny Cash Museum", "National Museum of African American Music"],
+    localFoods: ["Hot chicken", "Meat & three", "Biscuits and gravy", "Goo Goo Cluster"],
+    hiddenGems: ["Radnor Lake state park", "The Parthenon replica", "Printer's Alley history"],
+    tips: [
+      "Bluebird Café — book tickets online far ahead",
+      "Broadway cover charges add up — many bars free early",
+      "Hot chicken heat levels — start medium"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  "new-orleans": {
+    ...stock("cityNight", ["food", "coast", "nyc"]),
+    tagline: "Jazz, Creole and French Quarter iron",
+    overview:
+      "New Orleans is a living gumbo of French Quarter balconies, brass-band second lines, Creole cuisine and Mississippi riverfront — unlike anywhere else in America.",
+    bestTime: "February–May and October–November; Mardi Gras is late winter",
+    weather: "Humid subtropical — hot summers; hurricane season Jun–Nov",
+    airport: "Louis Armstrong New Orleans International (MSY)",
+    metro: "Streetcars + RTA buses",
+    transport: "Streetcar on St. Charles; walk French Quarter; rideshare at night",
+    shopping: ["French Market", "Magazine Street", "Royal Street antiques", "Decatur Street"],
+    nightlife: ["Frenchmen Street live music", "Bourbon Street (touristy)", "Preservation Hall jazz", "Maple Leaf Bar"],
+    museums: ["National WWII Museum", "New Orleans Museum of Art", "Backstreet Cultural Museum"],
+    localFoods: ["Beignets at Café du Monde", "Gumbo", "Po'boys", "Crawfish étouffée"],
+    hiddenGems: ["Garden District streetcar ride", "Cemetery tours (St. Louis No. 1)", "Bayou swamp tour"],
+    tips: [
+      "Book restaurants during Jazz Fest and Mardi Gras months ahead",
+      "Frenchmen Street beats Bourbon for live music",
+      "Heat and humidity — pace yourself with AC breaks"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  oaxaca: {
+    ...stock("food", ["temple", "cityNight", "desertCamp"]),
+    tagline: "Mole, mezcal and Monte Albán",
+    overview:
+      "Oaxaca City is Mexico's indigenous culinary capital — Zapotec ruins at Monte Albán, mole negro in market halls and mezcal palenques in nearby villages.",
+    bestTime: "October–April for dry season; Día de Muertos late October",
+    weather: "Semi-arid highland — warm days, cool nights",
+    airport: "Oaxaca International Xoxocotlán (OAX)",
+    metro: "No metro; walk centre; taxis to Monte Albán",
+    transport: "Walk historic centre; tour van to Hierve el Agua; taxi to Monte Albán",
+    shopping: ["Mercado 20 de Noviembre", "Mercado Benito Juárez", "Textile villages (Teotitlán)", "Macedonio Alcalá street"],
+    nightlife: ["Zócalo marimba evenings", "Mezcalerías", "Calle Macedonio bars", "La Mezcaloteca tastings"],
+    museums: ["Santo Domingo Cultural Center", "Museo de las Culturas de Oaxaca", "Rufino Tamayo Pre-Hispanic Art Museum"],
+    localFoods: ["Mole negro", "Tlayudas", "Chapulines (grasshoppers)", "Mezcal"],
+    hiddenGems: ["Hierve el Agua petrified falls", "Teotitlán del Valle weaving workshops", "Ethnobotanical Garden"],
+    tips: [
+      "Monte Albán — morning light and cooler temperatures",
+      "Mezcal tastings — designate a driver",
+      "Día de Muertos — book hotels months ahead"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  palawan: {
+    ...stock("beach", ["phiPhi", "coast", "longtail"]),
+    tagline: "Underground river and emerald lagoons",
+    overview:
+      "Puerto Princesa is the gateway to Palawan's UNESCO underground river, Honda Bay islets and staging posts for El Nido's limestone lagoons — the Philippines at its wildest.",
+    bestTime: "December–May for dry season",
+    weather: "Tropical — wet Jun–Nov; typhoon season possible",
+    airport: "Puerto Princesa International (PPS)",
+    metro: "No metro; tricycles and tour vans",
+    transport: "Tour vans to Sabang; tricycle in city; boats for Honda Bay",
+    shopping: ["Robinsons Place Palawan", "NCCC Mall", "Baker's Hill souvenirs", "Puerto Princesa public market"],
+    nightlife: ["Baywalk Park stalls", "Rizal Avenue bars", "Honda Bay sunset cruises"],
+    museums: ["Palawan Heritage Center", "Palawan Special Battalion WW2 Memorial Museum", "Ethnographic Museum"],
+    localFoods: ["Crocodile sisig", "Tamilok woodworm", "Fresh seafood", "Halo-halo"],
+    hiddenGems: ["Firefly watching Iwahig", "Nagtabon Beach", "Sabang village"],
+    tips: [
+      "Underground river permits sell out — book weeks ahead",
+      "El Nido is 5–6 hours north by van",
+      "Bring reef-safe sunscreen for island hops"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  pattaya: {
+    ...stock("beach", ["coast", "cityNight", "longtail"]),
+    tagline: "Gulf beaches and Sanctuary of Truth",
+    overview:
+      "Pattaya mixes resort beaches, the wood-carved Sanctuary of Truth and family attractions with a famous nightlife strip — a Bangkok weekend escape on the Gulf of Thailand.",
+    bestTime: "November–February for cooler, drier weather",
+    weather: "Tropical — hot year-round; wet May–Oct",
+    airport: "U-Tapao Rayong-Pattaya International (UTP) or Bangkok (BKK) + 2 hr drive",
+    metro: "No metro; baht buses (songthaews) and taxis",
+    transport: "Baht bus along Beach Road; boat to Koh Larn; taxi to Nong Nooch",
+    shopping: ["Central Festival Pattaya Beach", "Terminal 21 Pattaya", "Walking Street souvenirs", "Thepprasit Night Market"],
+    nightlife: ["Walking Street", "Beach Road bars", "Café del Mar Pattaya", "Royal Garden Plaza"],
+    museums: ["Art in Paradise", "Ripley's Believe It or Not!", "Teddy Bear Museum"],
+    localFoods: ["Tom yum", "Som tam", "Grilled seafood", "Mango sticky rice"],
+    hiddenGems: ["Koh Larn coral island", "Big Buddha Hill viewpoint", "Nong Nooch Tropical Garden"],
+    tips: [
+      "Walking Street is adult-oriented — families prefer Jomtien",
+      "Koh Larn gets crowded weekends — go weekday",
+      "Sanctuary of Truth requires covered shoulders"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  penang: {
+    ...stock("food", ["temple", "coast", "cityNight"]),
+    tagline: "George Town street food and heritage",
+    overview:
+      "George Town is a UNESCO street-art canvas of clan jetties, hawker legends and Peranakan mansions — Malaysia's food capital with serious heritage depth.",
+    bestTime: "December–February for drier weather",
+    weather: "Tropical — wet Apr–Nov; hot year-round",
+    airport: "Penang International (PEN)",
+    metro: "No metro; Rapid Penang buses; Grab rideshares",
+    transport: "Walk George Town core; Grab for Penang Hill and beaches",
+    shopping: ["Chowrasta Market", "Little India", "Gurney Plaza", "Armenian Street art shops"],
+    nightlife: ["Love Lane bars", "Upper Penang Road", "Gurney Drive hawkers"],
+    museums: ["Penang Peranakan Mansion", "Cheong Fatt Tze Mansion", "Penang State Museum"],
+    localFoods: ["Char kway teow", "Assam laksa", "Hokkien mee", "Chendol"],
+    hiddenGems: ["Kek Lok Si Temple", "Penang Hill funicular", "Clan Jetties at dawn"],
+    tips: [
+      "George Town is best explored on foot — heat peaks midday",
+      "Hawker stalls have irregular hours — go early",
+      "Grab is cheap and reliable"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  philadelphia: {
+    ...stock("nyc", ["cityNight", "food", "coast"]),
+    tagline: "Founding history and neighbourhood food",
+    overview:
+      "Philadelphia is the Independence Hall city with world-class museums, murals, Italian Market energy and a serious restaurant scene beyond the cheesesteak.",
+    bestTime: "April–June and September–November",
+    weather: "Humid subtropical — hot summers, cold winters",
+    airport: "Philadelphia International (PHL)",
+    metro: "SEPTA subway, trolleys and regional rail",
+    transport: "Walk Center City; SEPTA for museums and neighbourhoods",
+    shopping: ["Reading Terminal Market", "Rittenhouse Row", "Italian Market", "King of Prussia Mall"],
+    nightlife: ["Old City", "Fishtown", "Rittenhouse", "Northern Liberties"],
+    museums: ["Philadelphia Museum of Art", "Barnes Foundation", "National Constitution Center"],
+    localFoods: ["Cheesesteaks", "Soft pretzels", "Roast pork sandwiches", "Water ice"],
+    hiddenGems: ["Magic Gardens", "Boathouse Row", "Race Street Pier"],
+    tips: [
+      "Reserve Independence Hall tickets online",
+      "Rocky steps are free — the art museum is worth going inside",
+      "Reading Terminal Market is ideal for lunch"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  "playa-del-carmen": {
+    ...stock("beach", ["coast", "maldives", "temple"]),
+    tagline: "Quinta Avenida and Riviera Maya base",
+    overview:
+      "Playa del Carmen's Quinta Avenida pedestrian strip leads to Cozumel ferries, cenote dives and Tulum day trips — the Riviera Maya's cosmopolitan beach hub.",
+    bestTime: "December–April for dry season",
+    weather: "Tropical — wet Jun–Oct; hurricane season Aug–Oct",
+    airport: "Cancún International (CUN) + 1 hr drive",
+    metro: "No metro; colectivos and taxis",
+    transport: "Walk Quinta Avenida; ferry to Cozumel; tours to cenotes and Tulum",
+    shopping: ["Quinta Avenida", "Playa del Carmen outlets", "Coco Bongo area shops", "5th Avenue surf boutiques"],
+    nightlife: ["Quinta Avenida clubs", "Coco Bongo", "Mamita's Beach Club", "Palapas on beach"],
+    museums: ["Riviera Maya focuses on nature — Frida Kahlo Museum (nearby)", "3D Museum of Wonders", "Mayan ruins day trips"],
+    localFoods: ["Cochinita pibil", "Tacos al pastor", "Ceviche", "Marquesitas"],
+    hiddenGems: ["Rio Secreto cenote", "Cozumel snorkel day", "Xaman-Ha aviary"],
+    tips: [
+      "Beach club chairs often require minimum spend",
+      "Cenote tours — biodegradable sunscreen only",
+      "Tulum day trip — start early to beat crowds"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  "punta-cana": {
+    ...stock("beach", ["maldives", "coast", "phiPhi"]),
+    tagline: "Bavaro palms and Caribbean all-inclusive",
+    overview:
+      "Punta Cana is the Dominican Republic's resort coast — powder Bavaro Beach, Saona Island catamarans and all-inclusive escapes between turquoise Caribbean and coconut groves.",
+    bestTime: "December–April for driest weather",
+    weather: "Tropical — wet May–Nov; hurricane season Aug–Oct",
+    airport: "Punta Cana International (PUJ)",
+    metro: "No metro; resort shuttles and taxis",
+    transport: "Resort shuttles; book excursions for Saona Island; taxi to Cap Cana",
+    shopping: ["Palma Real Shopping Village", "BlueMall Punta Cana", "Bavaro beach vendors", "Cap Cana marina shops"],
+    nightlife: ["Imagine Punta Cana", "Coco Bongo", "Drink Point Bavaro", "Cap Cana marina bars"],
+    museums: ["Indigenous Eyes Ecological Park", "Altos de Chavón (nearby cultural village)", "Local cigar factory tours"],
+    localFoods: ["Mangu (plantain mash)", "Sancocho stew", "Fresh lobster", "Presidente beer"],
+    hiddenGems: ["Hoyo Azul cenote at Scape Park", "Isla Saona day catamaran", "Los Haitises National Park boat trip"],
+    tips: [
+      "All-inclusive resorts — confirm what's included",
+      "Saona tours — choose operators with safety record",
+      "Sunscreen and reef-safe products for snorkelling"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  "quebec-city": {
+    ...stock("alps", ["cityNight", "coast", "food"]),
+    tagline: "Château Frontenac and fortified old town",
+    overview:
+      "Québec City is North America's only walled city north of Mexico — cobblestone Petit Champlain, Château Frontenac turrets and French-Canadian cuisine on the St. Lawrence River.",
+    bestTime: "June–October; December for Winter Carnival",
+    weather: "Continental — cold snowy winters; warm humid summers",
+    airport: "Québec City Jean Lesage International (YQB)",
+    metro: "No metro; RTC buses; walkable Old Quebec",
+    transport: "Walk Old Quebec; funicular Petit Champlain–Dufferin; taxi in winter",
+    shopping: ["Petit Champlain boutiques", "Rue Saint-Jean", "Place Royale", "Galeries de la Capitale"],
+    nightlife: ["Grande Allée bars", "Petit Champlain wine bars", "Old Port terraces"],
+    museums: ["Musée de la civilisation", "Musée national des beaux-arts du Québec", "Fortifications of Québec exhibits"],
+    localFoods: ["Poutine", "Tourtière", "Maple taffy on snow", "French onion soup at Château"],
+    hiddenGems: ["Montmorency Falls (higher than Niagara)", "Île d'Orléans day trip", "Plains of Abraham walk"],
+    tips: [
+      "Old Quebec hills — wear good shoes; funicular saves climbing",
+      "Winter Carnival — book hotels a year ahead",
+      "French is primary — basic bonjour/merci appreciated"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  rhodes: {
+    ...stock("greeceSea", ["beach", "coast", "temple"]),
+    tagline: "Medieval knights and Lindos acropolis",
+    overview:
+      "Rhodes Old Town is Europe's best-preserved medieval walled city — Street of the Knights, Ottoman mosques and day trips to Lindos acropolis above turquoise coves.",
+    bestTime: "May–June and September–October",
+    weather: "Mediterranean — hot summers; mild winters",
+    airport: "Rhodes International Diagoras (RHO)",
+    metro: "No metro; buses and taxis",
+    transport: "Walk Old Town; bus or taxi to Lindos; boat trips to Symi",
+    shopping: ["Sokratous Street", "Old Town gold shops", "Mandraki harbour", "Lindos village crafts"],
+    nightlife: ["Old Town tavernas", "Elli Beach bars", "Faliraki (party strip nearby)"],
+    museums: ["Palace of the Grand Master", "Archaeological Museum of Rhodes", "Jewish Museum of Rhodes"],
+    localFoods: ["Pitaroudia", "Melekouni honey sesame bars", "Fresh seafood", "Souvlaki"],
+    hiddenGems: ["Anthony Quinn Bay", "Valley of Butterflies (seasonal)", "Symi island day ferry"],
+    tips: [
+      "Old Town walls — walk at sunset",
+      "Lindos acropolis — wear hat and water",
+      "Book Palace of Grand Master tickets online"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  rotorua: {
+    ...stock("mountains", ["coast", "aurora", "norway"]),
+    tagline: "Geysers, Māori culture and thermal spas",
+    overview:
+      "Rotorua sits on the Pacific Ring of Fire — Pohutu geyser eruptions, Māori hangi performances, redwood forest walks and Polynesian Spa soaks in New Zealand's geothermal heart.",
+    bestTime: "December–March for warmest weather; autumn for fewer crowds",
+    weather: "Temperate — mild wet winters; warm summers; sulphur scent in geothermal zones",
+    airport: "Rotorua Regional (ROT) or Auckland (AKL) + 3 hr drive",
+    metro: "No metro; local buses; walk lakefront",
+    transport: "Car or tour for Wai-O-Tapu; walk Government Gardens; bike Redwoods",
+    shopping: ["Rotorua Night Market", "Kuirau Park area shops", "Polynesian Spa retail", "Whakarewarewa village crafts"],
+    nightlife: ["Eat Street (Tutanekai Street)", "Polynesian Spa evening soak", "Māori cultural show dinners"],
+    museums: ["Te Puia / New Zealand Māori Arts and Crafts Institute", "Rotorua Museum (Te Whare Taonga o Te Arawa)", "Buried Village of Te Wairoa"],
+    localFoods: ["Hangi-cooked feast", "Rewena bread", "Manuka honey", "Fresh trout from lake"],
+    hiddenGems: ["Redwoods Treewalk at night", "Kerosene Creek free hot pool", "Blue and Green Lakes viewpoint"],
+    tips: [
+      "Geothermal areas — stay on boardwalks",
+      "Hangi bookings essential in peak season",
+      "Sulphur smell is normal — you'll adjust quickly"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  "san-diego": {
+    ...stock("beach", ["coast", "nyc", "cityNight"]),
+    tagline: "Beaches, Balboa and Baja day trips",
+    overview:
+      "San Diego offers Pacific beaches, Balboa Park museums, a historic Gaslamp Quarter and easy day trips to La Jolla or Coronado.",
+    bestTime: "May–October for beach weather",
+    weather: "Mediterranean-leaning — mild winters, warm dry summers",
+    airport: "San Diego International (SAN)",
+    metro: "Trolley light rail + buses",
+    transport: "Trolley for downtown/Old Town; car for beaches and La Jolla",
+    shopping: ["Gaslamp Quarter", "Fashion Valley", "Seaport Village", "Little Italy Mercato"],
+    nightlife: ["Gaslamp Quarter", "Pacific Beach", "North Park", "Little Italy"],
+    museums: ["USS Midway Museum", "Balboa Park museums", "San Diego Zoo"],
+    localFoods: ["Fish tacos", "California burritos", "Craft beer", "Fresh seafood"],
+    hiddenGems: ["Sunset Cliffs", "Torrey Pines", "Liberty Public Market"],
+    tips: [
+      "Balboa Park deserves a full day",
+      "Park early at La Jolla Cove",
+      "Combine Midway with the Embarcadero walk"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  "san-francisco": {
+    ...stock("cityNight", ["coast", "nyc", "beach"]),
+    tagline: "Fog, bridges and Pacific creativity",
+    overview:
+      "San Francisco mixes cable cars, Golden Gate views, neighbourhood food scenes and day trips to Muir Woods or Napa — a compact, walkable West Coast icon.",
+    bestTime: "September–November for warmest, clearest weather",
+    weather: "Mild year-round; summer fog common; microclimates by neighbourhood",
+    airport: "San Francisco International (SFO); Oakland (OAK) and San Jose (SJC) alternates",
+    metro: "BART, Muni Metro and cable cars",
+    transport: "Clipper card for transit; rideshares and ferries for Bay Area day trips",
+    shopping: ["Union Square", "Ferry Building Marketplace", "Haight-Ashbury", "Fillmore Street"],
+    nightlife: ["Mission bars", "North Beach", "SoMa", "Castro"],
+    museums: ["SFMOMA", "de Young Museum", "California Academy of Sciences"],
+    localFoods: ["Sourdough", "Cioppino", "Mission burritos", "Dim sum in Chinatown"],
+    hiddenGems: ["Lands End trail", "Twin Peaks at sunset", "Japan Center"],
+    tips: [
+      "Layers are essential — fog can drop temperatures fast",
+      "Book Alcatraz tickets weeks ahead",
+      "Use cable cars early to avoid queues"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  savannah: {
+    ...stock("cityNight", ["coast", "food", "nyc"]),
+    tagline: "Spanish moss squares and Lowcountry charm",
+    overview:
+      "Savannah's 22 shaded squares, Forsyth Park fountain and River Street cobbles deliver antebellum romance — a walkable Southern city with serious ghost-tour folklore.",
+    bestTime: "March–May and October–November",
+    weather: "Humid subtropical — hot summers; mild winters",
+    airport: "Savannah/Hilton Head International (SAV)",
+    metro: "No metro; dot shuttle; walk historic district",
+    transport: "Walk historic core; pedicabs; car for Tybee Island beach",
+    shopping: ["City Market", "Broughton Street", "River Street", "SCAD shop"],
+    nightlife: ["River Street pubs", "Congress Street bars", "Ghost tour evenings", "Moon River Brewing"],
+    museums: ["Telfair Museums", "SCAD Museum of Art", "Ships of the Sea Maritime Museum"],
+    localFoods: ["Shrimp and grits", "She-crab soup", "Fried green tomatoes", "Pralines"],
+    hiddenGems: ["Bonaventure Cemetery", "Wormsloe Avenue oak alley", "Tybee Island lighthouse"],
+    tips: [
+      "Open-container rules — plastic cup only in designated areas",
+      "Parking in historic district is tight — stay centrally if possible",
+      "Ghost tours — choose licensed operators"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  seattle: {
+    ...stock("cityNight", ["coast", "mountains", "nyc"]),
+    tagline: "Coffee, waterfront and Pacific Northwest views",
+    overview:
+      "Seattle blends Pike Place Market energy, ferry-filled Elliott Bay views, coffee culture and day trips to the Olympics or Mount Rainier.",
+    bestTime: "July–September for driest weather",
+    weather: "Oceanic — mild wet winters, pleasant dry summers",
+    airport: "Seattle–Tacoma International (SEA)",
+    metro: "Link light rail + streetcars + ferries",
+    transport: "ORCA card; ferries for Bainbridge; car for mountains",
+    shopping: ["Pike Place Market", "Pacific Place", "Capitol Hill boutiques", "University Village"],
+    nightlife: ["Capitol Hill", "Belltown", "Fremont", "Ballard"],
+    museums: ["Museum of Pop Culture", "Chihuly Garden and Glass", "Seattle Art Museum"],
+    localFoods: ["Fresh oysters", "Teriyaki", "Coffee", "Pacific salmon"],
+    hiddenGems: ["Discovery Park", "Ballard Locks", "Kerry Park viewpoint"],
+    tips: [
+      "Pack a light rain jacket year-round",
+      "Reserve Space Needle timed tickets",
+      "Kerry Park is the classic skyline photo"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  seville: {
+    ...stock("coast", ["food", "cityNight", "temple"]),
+    tagline: "Flamenco, orange trees and Mudéjar splendour",
+    overview:
+      "Seville is Andalusia's soul — the Alcázar's tiled courtyards, the Gothic cathedral's Giralda tower and Triana's tapas bars pulse with flamenco and Semana Santa tradition.",
+    bestTime: "March–May and October–November",
+    weather: "Mediterranean — very hot summers (40°C+); mild winters",
+    airport: "Seville Airport (SVQ)",
+    metro: "Seville Metro + tram + buses",
+    transport: "Walk centre; tram to Plaza de España; taxi in summer heat",
+    shopping: ["Calle Sierpes", "Triana ceramics", "El Corte Inglés", "Mercado de Triana"],
+    nightlife: ["Triana tapas bars", "Alameda de Hércules", "Flamenco tablaos", "Rooftop bars near cathedral"],
+    museums: ["Museum of Fine Arts of Seville", "Flamenco Dance Museum", "Archivo de Indias"],
+    localFoods: ["Salmorejo", "Espetos (grilled sardines)", "Sevilla oranges", "Jamón ibérico"],
+    hiddenGems: ["Metropol Parasol (Setas)", "Plaza de España rowboats", "Italica Roman ruins day trip"],
+    tips: [
+      "Book Alcázar tickets weeks ahead",
+      "Siesta hours — many shops close 2–5 PM",
+      "Flamenco — book reputable tablaos, not street touts"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  "sharm-el-sheikh": {
+    ...stock("beach", ["coast", "maldives", "desertCamp"]),
+    tagline: "Red Sea reefs and Sinai desert",
+    overview:
+      "Sharm el-Sheikh is Egypt's Red Sea resort capital — world-class diving at Ras Mohammed, Naama Bay nightlife and desert safaris into the Sinai Peninsula.",
+    bestTime: "March–May and September–November",
+    weather: "Desert coastal — hot dry summers; mild winters; warm sea year-round",
+    airport: "Sharm el-Sheikh International (SSH)",
+    metro: "No metro; taxis and resort shuttles",
+    transport: "Taxi between Naama Bay and Old Market; dive boats to reefs",
+    shopping: ["Old Market (Sharm Old Town)", "SOHO Square", "Naama Bay promenade", "Il Mercato Mall"],
+    nightlife: ["Naama Bay clubs", "SOHO Square", "Pacha Sharm", "Hard Rock Café Naama"],
+    museums: ["Ras Mohammed National Park Visitor Centre", "Al Mustafa Mosque cultural centre", "SOHO Square art installations"],
+    localFoods: ["Grilled seafood", "Koshari", "Bedouin tea", "Fresh Red Sea fish"],
+    hiddenGems: ["Ras Mohammed National Park", "White Island snorkel", "Coloured Canyon day trip"],
+    tips: [
+      "Book diving through PADI-certified centres",
+      "Old Market is better for authentic dining than Naama Bay chains",
+      "Desert safaris — choose licensed operators"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  tulum: {
+    ...stock("beach", ["coast", "temple", "maldives"]),
+    tagline: "Cliff ruins and boho beach clubs",
+    overview:
+      "Tulum pairs Mayan ruins on a Caribbean cliff with cenote swims, jungle boutique hotels and a wellness-meets-nightlife scene on the beach road south of town.",
+    bestTime: "November–April for dry season",
+    weather: "Tropical — wet Jun–Oct; sargassum seaweed possible summer",
+    airport: "Cancún International (CUN) + 2 hr drive",
+    metro: "No metro; bikes and taxis on beach road",
+    transport: "Bike beach road; taxi to ruins; colectivo to town",
+    shopping: ["Tulum town artisan shops", "Beach road boutiques", "La Veleta design stores", "Coba road crafts"],
+    nightlife: ["Beach club DJ events", "Papaya Playa Project", "Vagalume (seasonal)", "Batey Mojito bar in town"],
+    museums: ["Tulum Archaeological Zone is the main historic site", "Sian Ka'an Biosphere visitor info", "Cenote cultural tours"],
+    localFoods: ["Tikin xic fish", "Cochinita pibil", "Aguachile", "Fresh coconut"],
+    hiddenGems: ["Cenote Calavera", "Sian Ka'an Biosphere", "Ka'an Luum lagoon"],
+    tips: [
+      "Ruins — arrive at opening for fewer crowds and heat",
+      "Beach clubs — reserve beds in high season",
+      "Sargassum season — check conditions before booking beach hotels"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  udaipur: {
+    ...stock("temple", ["lantern", "food", "coast"]),
+    tagline: "Lake palaces and Rajput romance",
+    overview:
+      "Udaipur floats on Lake Pichola with white marble palaces, rooftop sunset views and a maze of havelis — Rajasthan's most photogenic lake city.",
+    bestTime: "October–March for pleasant weather",
+    weather: "Semi-arid — hot summers; mild winters",
+    airport: "Maharana Pratap Airport (UDR)",
+    metro: "No metro; auto-rickshaws and taxis",
+    transport: "Auto-rickshaw in city; boat to Jag Mandir; car for day trips",
+    shopping: ["Hathi Pol Bazaar", "Bada Bazaar", "Shilpgram crafts village", "City Palace Museum Shop"],
+    nightlife: ["Ambrai Ghat sunset bars", "Fateh Sagar lakeside", "Bagore ki Haveli cultural show"],
+    museums: ["City Palace Museum", "Ahar Cenotaphs Museum", "Vintage Car Museum"],
+    localFoods: ["Dal baati churma", "Laal maas", "Gatte ki sabzi", "Mirchi vada"],
+    hiddenGems: ["Monsoon Palace sunset", "Saheliyon-ki-Bari", "Shilpgram crafts fair (seasonal)"],
+    tips: [
+      "Book lake-view hotels early in peak season",
+      "City Palace takes half a day — arrive early",
+      "Boat rides at sunset sell out fast"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  uyuni: {
+    ...stock("desertCamp", ["sahara", "mountains", "aurora"]),
+    tagline: "Mirror salt flats and star-filled altiplano",
+    overview:
+      "Uyuni is the launch point for Bolivia's Salar de Uyuni — the world's largest salt flat reflecting infinite skies, plus 4x4 circuits to coloured lagoons and flamingos.",
+    bestTime: "May–November for dry flats; Dec–Apr for mirror effect (with rain)",
+    weather: "High-altitude desert — freezing nights; intense sun; 3,650 m elevation",
+    airport: "Uyuni Airport Joya Andina (UYU) or La Paz (LPB) + bus",
+    metro: "No metro; 4x4 tour jeeps only on flats",
+    transport: "Book 1–3 day salt flat tours from Uyuni; train from Oruro",
+    shopping: ["Salt-crystal souvenirs", "Colchani village salt crafts", "Uyuni town market", "Llama-wool textiles"],
+    nightlife: ["Salt-hotel lounge stargazing", "Uyuni town basic bars", "Early nights before dawn flat departures"],
+    museums: ["Train Cemetery (open-air)", "Casa de Sal museum hotels", "Local mining/salt cooperative exhibits"],
+    localFoods: ["Quinoa soup", "Llama steak", "Salteñas", "Coca tea for altitude"],
+    hiddenGems: ["Isla Incahuasi cacti island", "Stargazing on the flats", "Eduardo Avaroa coloured lagoons"],
+    tips: [
+      "Altitude sickness is real — acclimatise in La Paz first",
+      "Book tours with reputable operators — check vehicle and driver",
+      "Layers for freezing pre-dawn flat departures"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  varanasi: {
+    ...stock("temple", ["lantern", "food", "coast"]),
+    tagline: "Ghats, Ganga aarti and ancient Kashi",
+    overview:
+      "Varanasi is Hinduism's holiest city — a labyrinth of ghats where dawn boat rides, evening aarti flames and silk weavers reveal layers of living tradition on the Ganges.",
+    bestTime: "October–March for cooler, drier weather",
+    weather: "Humid subtropical — scorching summers; monsoon Jul–Sep",
+    airport: "Lal Bahadur Shastri International (VNS)",
+    metro: "No metro; walk ghats; auto-rickshaws",
+    transport: "Walk the ghats; cycle-rickshaw for old city; boat at Dashashwamedh",
+    shopping: ["Vishwanath Lane", "Godowlia Market", "Thateri Bazaar silk", "Assi Ghat bookshops"],
+    nightlife: ["Dashashwamedh Ghat evening aarti", "Assi Ghat cultural events", "Blue Lassi shop area"],
+    museums: ["Bharat Kala Bhavan", "Ramnagar Fort Museum", "Sarnath Archaeological Museum"],
+    localFoods: ["Kachori sabzi", "Banarasi paan", "Malaiyo (seasonal)", "Thandai"],
+    hiddenGems: ["Manikarnika Ghat at dawn", "Blue Lassi", "Sarnath Buddhist site"],
+    tips: [
+      "Respect photography rules at cremation ghats",
+      "Boat rides are best at sunrise",
+      "Silk shopping — verify authenticity at government emporiums"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  "victoria-falls": {
+    ...stock("mountains", ["coast", "sahara", "alps"]),
+    tagline: "Smoke that thunders and Zambezi adventure",
+    overview:
+      "Victoria Falls town on the Zimbabwe side is the base for the world's largest waterfall curtain, Zambezi sunset cruises, bungee at the bridge and Big Five safaris nearby.",
+    bestTime: "February–May for peak flow after rains; Jul–Aug for safari",
+    weather: "Subtropical — hot wet summers; mild dry winters",
+    airport: "Victoria Falls Airport (VFA)",
+    metro: "No metro; taxis and hotel transfers",
+    transport: "Walk to falls from town; taxis to lodges; day trips to Chobe (Botswana)",
+    shopping: ["Elephant's Walk Shopping & Artist Village", "Curio markets near falls", "Victoria Falls Craft Market", "Mukuni Victoria Falls Craft Village"],
+    nightlife: ["The Three Monkeys", "The Boma dinner show", "Victoria Falls Safari Lodge deck"],
+    museums: ["Victoria Falls Bridge Visitor Centre", "Livingstone Statue area exhibits", "Jafuta Heritage Centre"],
+    localFoods: ["Game meat (impala, kudu)", "Sadza and relish", "Mopane worms (adventurous)", "Fresh Zambezi bream"],
+    hiddenGems: ["Devil's Pool (Zambia side, seasonal)", "Victoria Falls Bridge tour", "Helicopter Flight of Angels"],
+    tips: [
+      "Rain gear essential at the falls — you will get soaked",
+      "Devil's Pool is Zambia side in low-water season only",
+      "Book bungee and helicopter in advance in peak season"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  },
+  "xi-an": {
+    ...stock("temple", ["cityNight", "food", "lantern"]),
+    tagline: "Terracotta warriors and Silk Road spice",
+    overview:
+      "Xi'an was China's ancient capital — home to the Terracotta Army, intact Ming city walls and a Muslim Quarter alive with roujiamo, biangbiang noodles and night-market smoke.",
+    bestTime: "April–May and September–October",
+    weather: "Continental — hot dry summers, cold winters",
+    airport: "Xi'an Xianyang International (XIY)",
+    metro: "Xi'an Metro lines 1–6",
+    transport: "Metro in city; tour bus or taxi to Terracotta Army",
+    shopping: ["Muslim Quarter", "Shuyuanmen Cultural Street", "Saga International Shopping Mall", "Terracotta replica shops"],
+    nightlife: ["Muslim Quarter night food", "Defuxiang bar street", "Tang Paradise evening show"],
+    museums: ["Shaanxi History Museum", "Xi'an Beilin Museum", "Banpo Museum"],
+    localFoods: ["Roujiamo", "Biangbiang noodles", "Yang rou pao mo", "Liangpi cold noodles"],
+    hiddenGems: ["City Wall bike ride at sunset", "Great Mosque of Xi'an", "Huaqing Palace hot springs"],
+    tips: [
+      "Terracotta Army is 40 km east — go early",
+      "Shaanxi History Museum is free but requires reservation",
+      "Muslim Quarter is packed at dinner — arrive hungry"
+    ],
+    faqs: [
+      { question: "How many days do I need?", answer: "Two to four full days cover the highlights at a comfortable pace for most travellers." },
+    ],
+    featured: true,
+  }
 };

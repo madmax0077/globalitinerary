@@ -1188,4 +1188,836 @@ export const cityPicks: Record<string, CityPicks> = {
       { name: "Live Aqua Beach Resort", area: "Hotel Zone", priceLevel: 3, note: "Adults-only tourist favourite" },
     ],
   },
+  agra: {
+    restaurants: [
+      { name: "Peshawri", cuisine: "North Indian", priceLevel: 4, note: "ITC Mughal fine-dining institution" },
+      { name: "Pinch of Spice", cuisine: "North Indian", priceLevel: 2, note: "Agra tourist-area favourite" },
+      { name: "Esphahan", cuisine: "Indian fine dining", priceLevel: 4, note: "Oberoi Amarvilas signature restaurant" },
+      { name: "Joney's Place", cuisine: "Indian", priceLevel: 1, note: "Taj Ganj backpacker classic" }
+    ],
+    stays: [
+      { name: "The Oberoi Amarvilas", area: "Taj East Gate", priceLevel: 4, note: "Taj-view luxury icon" },
+      { name: "ITC Mughal", area: "Fatehabad Road", priceLevel: 4, note: "Mughal-garden luxury resort" },
+      { name: "Taj Hotel & Convention Centre Agra", area: "Taj East Gate", priceLevel: 3, note: "Taj-view tourist favourite" }
+    ],
+  },
+  aswan: {
+    restaurants: [
+      { name: "1902 Restaurant", cuisine: "French", priceLevel: 4, note: "Old Cataract Hotel fine dining" },
+      { name: "El-Masry Restaurant", cuisine: "Egyptian", priceLevel: 2, note: "Local Egyptian institution" },
+      { name: "Panorama Restaurant & Bar", cuisine: "Nubian-Egyptian", priceLevel: 2, note: "Nubian village dining experience" },
+      { name: "Chef Khalil", cuisine: "Seafood", priceLevel: 2, note: "Nile fish specialist" }
+    ],
+    stays: [
+      { name: "Sofitel Legend Old Cataract Aswan", area: "Nile corniche", priceLevel: 4, note: "Victorian Nile legend since 1899" },
+      { name: "Mövenpick Resort Aswan", area: "Elephantine Island", priceLevel: 4, note: "Island resort with Nile views" },
+      { name: "Basma Hotel", area: "East Bank", priceLevel: 3, note: "Garden hotel tourist favourite" }
+    ],
+  },
+  atlanta: {
+    restaurants: [
+      { name: "Mary Mac's Tea Room", cuisine: "Southern", priceLevel: 2, note: "Atlanta meat-and-three institution" },
+      { name: "The Varsity", cuisine: "American", priceLevel: 1, note: "Classic drive-in landmark" },
+      { name: "Bacchanalia", cuisine: "American fine dining", priceLevel: 4, note: "Westside fine-dining favourite" },
+      { name: "Folk Art Restaurant", cuisine: "Southern", priceLevel: 2, note: "Local Southern favourite" }
+    ],
+    stays: [
+      { name: "St. Regis Atlanta", area: "Buckhead", priceLevel: 4, note: "Buckhead luxury landmark" },
+      { name: "Four Seasons Hotel Atlanta", area: "Midtown", priceLevel: 4, note: "Midtown arts-district luxury" },
+      { name: "The Georgian Terrace", area: "Midtown", priceLevel: 3, note: "Historic hotel by Fox Theatre" }
+    ],
+  },
+  austin: {
+    restaurants: [
+      { name: "Franklin Barbecue", cuisine: "BBQ", priceLevel: 2, note: "World-famous brisket queue" },
+      { name: "Uchi", cuisine: "Japanese", priceLevel: 4, note: "Tyson Cole sushi institution" },
+      { name: "Veracruz All Natural", cuisine: "Tacos", priceLevel: 1, note: "Breakfast taco favourite" },
+      { name: "Jeffrey's", cuisine: "American fine dining", priceLevel: 4, note: "Clarksville special-occasion pick" }
+    ],
+    stays: [
+      { name: "Hotel Saint Cecilia", area: "South Congress", priceLevel: 4, note: "Rock-and-roll boutique luxury" },
+      { name: "Fairmont Austin", area: "Downtown", priceLevel: 4, note: "Convention-centre luxury tower" },
+      { name: "South Congress Hotel", area: "SoCo", priceLevel: 3, note: "SoCo design hotel" }
+    ],
+  },
+  banff: {
+    restaurants: [
+      { name: "Grizzly House", cuisine: "Fondue", priceLevel: 2, note: "Banff fondue institution since 1967" },
+      { name: "Magpie and Stump", cuisine: "Mexican", priceLevel: 2, note: "Banff Avenue favourite" },
+      { name: "Three Ravens Restaurant", cuisine: "Canadian fine dining", priceLevel: 3, note: "Banff Centre views" },
+      { name: "Eden at Fairmont Banff Springs", cuisine: "Fine dining", priceLevel: 4, note: "Banff Springs luxury dining" }
+    ],
+    stays: [
+      { name: "Fairmont Banff Springs", area: "Banff town", priceLevel: 4, note: "Castle in the Rockies icon" },
+      { name: "Fairmont Chateau Lake Louise", area: "Lake Louise", priceLevel: 4, note: "Lakefront luxury landmark" },
+      { name: "Banff Caribou Lodge and Spa", area: "Banff town", priceLevel: 3, note: "Family-friendly Banff Avenue area" }
+    ],
+  },
+  bilbao: {
+    restaurants: [
+      { name: "Azurmendi", cuisine: "Basque fine dining", priceLevel: 4, note: "Three-Michelin-star landmark (Larrabetzu, near Bilbao)" },
+      { name: "Gure Toko", cuisine: "Pintxos", priceLevel: 2, note: "Casco Viejo institution" },
+      { name: "Sorginzulo", cuisine: "Pintxos", priceLevel: 2, note: "Plaza Nueva classic" },
+      { name: "Etxanobe", cuisine: "Basque", priceLevel: 3, note: "Guggenheim-area fine dining" }
+    ],
+    stays: [
+      { name: "Hotel Carlton", area: "Abando", priceLevel: 4, note: "Gran Vía Belle Époque landmark" },
+      { name: "Gran Hotel Domine Bilbao", area: "Guggenheim", priceLevel: 4, note: "Facing Gehry's titanium curves" },
+      { name: "Hotel Miró", area: "Guggenheim", priceLevel: 3, note: "Design hotel near museum" }
+    ],
+  },
+  bodrum: {
+    restaurants: [
+      { name: "Orfoz Restaurant", cuisine: "Seafood", priceLevel: 3, note: "Harbour institution since 1946" },
+      { name: "Sofra Restaurant", cuisine: "Turkish", priceLevel: 2, note: "Old town local favourite" },
+      { name: "Maritimo", cuisine: "Italian-Seafood", priceLevel: 3, note: "Marina fine dining" },
+      { name: "Keçi Restaurant", cuisine: "Aegean", priceLevel: 2, note: "Gümüşlük waterfront classic" }
+    ],
+    stays: [
+      { name: "Mandarin Oriental Bodrum", area: "Paradise Bay", priceLevel: 4, note: "Aegean peninsula luxury resort" },
+      { name: "Caresse, a Luxury Collection Resort", area: "Bardakci Bay", priceLevel: 4, note: "Bay-view luxury resort" },
+      { name: "Yalikavak Marina Garden Hotel", area: "Yalıkavak", priceLevel: 3, note: "Marina-area boutique favourite" }
+    ],
+  },
+  boracay: {
+    restaurants: [
+      { name: "Dos Mestizos", cuisine: "Spanish-Filipino", priceLevel: 2, note: "Station 2 institution" },
+      { name: "Nonie's", cuisine: "Filipino", priceLevel: 2, note: "Filipino breakfast favourite" },
+      { name: "Prisma", cuisine: "Mediterranean", priceLevel: 3, note: "Station 1 upscale dining" },
+      { name: "Smoke Resto", cuisine: "Filipino BBQ", priceLevel: 1, note: "Budget D'Talipapa classic" }
+    ],
+    stays: [
+      { name: "Shangri-La Boracay", area: "Punta Bunga Cove", priceLevel: 4, note: "Northwest cove luxury resort" },
+      { name: "Discovery Shores Boracay", area: "Station 1", priceLevel: 4, note: "White Beach luxury favourite" },
+      { name: "Henann Regency Resort & Spa", area: "Station 2", priceLevel: 3, note: "Central beachfront resort" }
+    ],
+  },
+  bordeaux: {
+    restaurants: [
+      { name: "Le Pressoir d'Argent", cuisine: "French fine dining", priceLevel: 4, note: "Gordon Ramsay at Grand Hôtel de Bordeaux" },
+      { name: "La Tupina", cuisine: "Southwest French", priceLevel: 3, note: "Rustic fire-cooking institution" },
+      { name: "Le Chien de Pavlov", cuisine: "French bistro", priceLevel: 2, note: "Creative bistro favourite" },
+      { name: "Chez Dupont", cuisine: "Bistro", priceLevel: 2, note: "Classic Bordeaux bistro" }
+    ],
+    stays: [
+      { name: "InterContinental Bordeaux – Le Grand Hotel", area: "Place de la Comédie", priceLevel: 4, note: "Neoclassical city landmark" },
+      { name: "Yndo Hotel", area: "Central Bordeaux", priceLevel: 4, note: "Boutique design hotel" },
+      { name: "Hotel de Sèze", area: "Golden Triangle", priceLevel: 3, note: "Central boutique favourite" }
+    ],
+  },
+  cairns: {
+    restaurants: [
+      { name: "Ochre Restaurant", cuisine: "Modern Australian", priceLevel: 3, note: "Native-ingredient institution" },
+      { name: "Prawn Star", cuisine: "Seafood", priceLevel: 2, note: "Harbour seafood boats" },
+      { name: "Dundee's on the Waterfront", cuisine: "Seafood", priceLevel: 2, note: "Esplanade tourist classic" },
+      { name: "C'est Bon Restaurant", cuisine: "French", priceLevel: 3, note: "Cairns fine-dining pick" }
+    ],
+    stays: [
+      { name: "Shangri-La The Marina, Cairns", area: "Marina", priceLevel: 4, note: "Reef-departure marina luxury" },
+      { name: "Riley, a Crystalbrook Collection Resort", area: "Esplanade", priceLevel: 4, note: "Esplanade design luxury" },
+      { name: "Pacific Hotel Cairns", area: "Esplanade", priceLevel: 3, note: "Central lagoon-area favourite" }
+    ],
+  },
+  cappadocia: {
+    restaurants: [
+      { name: "Seten Restaurant", cuisine: "Anatolian", priceLevel: 2, note: "Göreme cave-dining institution" },
+      { name: "Topdeck Cave Restaurant", cuisine: "Turkish", priceLevel: 2, note: "Panoramic Göreme views" },
+      { name: "Ziggy's Shoppe", cuisine: "Turkish-International", priceLevel: 2, note: "Göreme favourite" },
+      { name: "Local Cave House Restaurant", cuisine: "Turkish", priceLevel: 2, note: "Traditional testi kebab specialist" }
+    ],
+    stays: [
+      { name: "Museum Hotel", area: "Uçhisar", priceLevel: 4, note: "Luxury cave hotel with antiques" },
+      { name: "Argos in Cappadocia", area: "Uçhisar", priceLevel: 4, note: "Monastery-complex luxury caves" },
+      { name: "Sultan Cave Suites", area: "Göreme", priceLevel: 3, note: "Rooftop balloon-view favourite" }
+    ],
+  },
+  charleston: {
+    restaurants: [
+      { name: "Husk", cuisine: "Southern", priceLevel: 3, note: "Sean Brock Lowcountry institution" },
+      { name: "FIG", cuisine: "Farm-to-table", priceLevel: 3, note: "James Beard destination" },
+      { name: "Poogan's Porch", cuisine: "Southern", priceLevel: 2, note: "Historic house restaurant" },
+      { name: "Callie's Hot Little Biscuit", cuisine: "Southern", priceLevel: 1, note: "Biscuit breakfast favourite" }
+    ],
+    stays: [
+      { name: "Belmond Charleston Place", area: "Downtown", priceLevel: 4, note: "Charleston luxury landmark" },
+      { name: "The Dewberry Charleston", area: "Marion Square", priceLevel: 4, note: "Mid-century modern luxury" },
+      { name: "Zero George Street", area: "Ansonborough", priceLevel: 3, note: "Boutique inn favourite" }
+    ],
+  },
+  crete: {
+    restaurants: [
+      { name: "Peskesi", cuisine: "Cretan", priceLevel: 2, note: "Farm-to-table Cretan institution" },
+      { name: "Parasties", cuisine: "Cretan", priceLevel: 2, note: "Old town local favourite" },
+      { name: "Loukoula", cuisine: "Cretan", priceLevel: 2, note: "Harbour-view dining" },
+      { name: "Daphnis & Chloe", cuisine: "Greek", priceLevel: 3, note: "Upscale Heraklion dining" }
+    ],
+    stays: [
+      { name: "GDM Megaron Hotel", area: "Heraklion harbour", priceLevel: 4, note: "Historic harbour luxury" },
+      { name: "Lato Boutique Hotel", area: "Old harbour", priceLevel: 3, note: "Harbour-view boutique" },
+      { name: "Atrion Hotel", area: "City centre", priceLevel: 3, note: "Central business-district favourite" }
+    ],
+  },
+  denver: {
+    restaurants: [
+      { name: "Frasca Food and Wine", cuisine: "Italian", priceLevel: 4, note: "Boulder fine-dining icon (near Denver)" },
+      { name: "Mercantile Dining & Provision", cuisine: "American", priceLevel: 3, note: "Union Station institution" },
+      { name: "Snooze an A.M. Eatery", cuisine: "Brunch", priceLevel: 2, note: "Denver brunch favourite" },
+      { name: "Biker Jim's Gourmet Dogs", cuisine: "Hot dogs", priceLevel: 1, note: "Denver street-food institution" }
+    ],
+    stays: [
+      { name: "The Brown Palace Hotel and Spa", area: "Downtown", priceLevel: 4, note: "Historic triangular landmark since 1892" },
+      { name: "The Crawford Hotel", area: "Union Station", priceLevel: 4, note: "Inside restored Union Station" },
+      { name: "Halcyon, a hotel in Cherry Creek", area: "Cherry Creek", priceLevel: 3, note: "Boutique shopping-district favourite" }
+    ],
+  },
+  fez: {
+    restaurants: [
+      { name: "Nur", cuisine: "Moroccan fine dining", priceLevel: 4, note: "Chef Najat Kaanache destination" },
+      { name: "Chez Rachid", cuisine: "Moroccan", priceLevel: 2, note: "Medina rooftop favourite" },
+      { name: "Ruined Garden", cuisine: "Moroccan", priceLevel: 2, note: "Riad garden dining" },
+      { name: "Café Clock", cuisine: "Fusion", priceLevel: 2, note: "Medina cultural café institution" }
+    ],
+    stays: [
+      { name: "Riad Fès", area: "Medina", priceLevel: 4, note: "Relais & Châteaux medina luxury" },
+      { name: "Palais Amani", area: "Medina", priceLevel: 4, note: "Garden riad boutique luxury" },
+      { name: "Riad Laaroussa", area: "Medina", priceLevel: 3, note: "Restored palace riad favourite" }
+    ],
+  },
+  fiji: {
+    restaurants: [
+      { name: "Tu's Place", cuisine: "Fijian-Chinese", priceLevel: 2, note: "Nadi local institution" },
+      { name: "Sahara Turkish Kebab", cuisine: "Turkish", priceLevel: 1, note: "Nadi expat favourite" },
+      { name: "Bonefish Fiji", cuisine: "Seafood", priceLevel: 2, note: "Denarau marina dining" },
+      { name: "Taste Restaurant at Radisson Blu", cuisine: "International", priceLevel: 3, note: "Denarau resort dining" }
+    ],
+    stays: [
+      { name: "Radisson Blu Resort Fiji Denarau Island", area: "Denarau", priceLevel: 4, note: "Denarau marina resort hub" },
+      { name: "Sofitel Fiji Resort & Spa Denarau", area: "Denarau", priceLevel: 4, note: "Beachfront Denarau luxury" },
+      { name: "Mercure Nadi", area: "Nadi", priceLevel: 3, note: "Airport-area tourist base" }
+    ],
+  },
+  frankfurt: {
+    restaurants: [
+      { name: "Lafleur", cuisine: "Fine dining", priceLevel: 4, note: "Two-Michelin-star Palmengarten" },
+      { name: "Atschel", cuisine: "Apple-wine tavern", priceLevel: 2, note: "Sachsenhausen institution since 1848" },
+      { name: "Kleinmarkthalle stalls", cuisine: "Market food", priceLevel: 1, note: "Downtown market hall classics" },
+      { name: "Main Nizza", cuisine: "Mediterranean", priceLevel: 2, note: "Riverfront dining favourite" }
+    ],
+    stays: [
+      { name: "Jumeirah Frankfurt", area: "Westend", priceLevel: 4, note: "Thurn-und-Taxis Palais luxury" },
+      { name: "Villa Kennedy", area: "Sachsenhausen", priceLevel: 4, note: "Rocco Forte river-area luxury" },
+      { name: "25hours Hotel The Trip", area: "Nordend", priceLevel: 3, note: "Design hotel tourist favourite" }
+    ],
+  },
+  galapagos: {
+    restaurants: [
+      { name: "Il Giardino", cuisine: "Italian-Ecuadorian", priceLevel: 2, note: "Puerto Ayora institution" },
+      { name: "Calderón", cuisine: "Seafood", priceLevel: 2, note: "Local seafood favourite" },
+      { name: "Galapagos Deli", cuisine: "International", priceLevel: 2, note: "Expat breakfast and lunch staple" },
+      { name: "Angermeyer Point", cuisine: "Seafood", priceLevel: 3, note: "Waterfront dining by water taxi" }
+    ],
+    stays: [
+      { name: "Finch Bay Galapagos Hotel", area: "Puerto Ayora", priceLevel: 4, note: "Beachfront eco-luxury" },
+      { name: "Golden Bay Galapagos", area: "Puerto Ayora", priceLevel: 4, note: "Waterfront boutique hotel" },
+      { name: "Hotel Solymar", area: "Puerto Ayora", priceLevel: 3, note: "Avenue Charles Darwin favourite" }
+    ],
+  },
+  galle: {
+    restaurants: [
+      { name: "A Minute by Tuk Tuk", cuisine: "Sri Lankan-European", priceLevel: 2, note: "Fort institution with courtyard" },
+      { name: "The Fort Printers", cuisine: "Fine dining", priceLevel: 3, note: "Boutique hotel restaurant" },
+      { name: "Chambers at Fort", cuisine: "Sri Lankan", priceLevel: 2, note: "Fort courtyard favourite" },
+      { name: "Wijaya Beach Restaurant", cuisine: "Seafood", priceLevel: 2, note: "Unawatuna beach classic" }
+    ],
+    stays: [
+      { name: "Amangalla", area: "Galle Fort", priceLevel: 4, note: "Dutch colonial Aman icon" },
+      { name: "Fort Bazaar", area: "Galle Fort", priceLevel: 3, note: "Boutique fort hotel" },
+      { name: "Jetwing Lighthouse", area: "Galle", priceLevel: 3, note: "Geoffrey Bawa-designed resort" }
+    ],
+  },
+  goa: {
+    restaurants: [
+      { name: "Vinayak Family Restaurant", cuisine: "Goan", priceLevel: 1, note: "Assagao local favourite" },
+      { name: "Gunpowder", cuisine: "South Indian", priceLevel: 2, note: "Assagao cult favourite" },
+      { name: "Fisherman's Wharf", cuisine: "Seafood", priceLevel: 2, note: "Candolim waterfront institution" },
+      { name: "The Black Sheep Bistro", cuisine: "Continental-Goan", priceLevel: 3, note: "Panaji fine-dining pick" }
+    ],
+    stays: [
+      { name: "Taj Exotica Resort & Spa", area: "Benaulim", priceLevel: 4, note: "South Goa luxury resort" },
+      { name: "W Goa", area: "Vagator", priceLevel: 4, note: "North Goa design hotel" },
+      { name: "Alila Diwa Goa", area: "Majorda", priceLevel: 3, note: "South Goa boutique resort" }
+    ],
+  },
+  granada: {
+    restaurants: [
+      { name: "Restaurante Carmen de San Miguel", cuisine: "Andalusian", priceLevel: 3, note: "Albaicín terrace institution" },
+      { name: "Los Manueles", cuisine: "Tapas", priceLevel: 2, note: "Centro granada classic since 1917" },
+      { name: "La Sitarilla", cuisine: "Tapas", priceLevel: 1, note: "Generous free tapas favourite" },
+      { name: "Restaurante Ruta del Azafrán", cuisine: "Andalusian", priceLevel: 3, note: "Alhambra-area fine dining" }
+    ],
+    stays: [
+      { name: "Alhambra Palace Hotel", area: "Alhambra hill", priceLevel: 4, note: "Belle-époque hilltop landmark" },
+      { name: "Parador de Granada", area: "Alhambra grounds", priceLevel: 4, note: "Stay inside the monument complex" },
+      { name: "Hotel Casa 1800 Granada", area: "Albaicín", priceLevel: 3, note: "Alhambra-view boutique" }
+    ],
+  },
+  guadalajara: {
+    restaurants: [
+      { name: "Alcalde", cuisine: "Contemporary Mexican", priceLevel: 3, note: "World-ranked modern Mexican" },
+      { name: "La Chata", cuisine: "Jaliscan", priceLevel: 1, note: "Torta ahogada institution" },
+      { name: "Birrieria Las Nueve Esquinas", cuisine: "Birria", priceLevel: 1, note: "Birria classic since 1939" },
+      { name: "Santo Coyote", cuisine: "Mexican", priceLevel: 2, note: "Tlaquepaque garden favourite" }
+    ],
+    stays: [
+      { name: "Hotel Demetria", area: "Lafayette", priceLevel: 4, note: "Design boutique luxury" },
+      { name: "Quinta Real Guadalajara", area: "Zapopan", priceLevel: 4, note: "Colonial hacienda luxury" },
+      { name: "Hotel Morales Historical & Colonial", area: "Centro", priceLevel: 3, note: "Downtown historic favourite" }
+    ],
+  },
+  hangzhou: {
+    restaurants: [
+      { name: "Lou Wai Lou", cuisine: "Hangzhou", priceLevel: 3, note: "West Lake institution since 1848" },
+      { name: "Zhi Wei Guan", cuisine: "Hangzhou", priceLevel: 2, note: "Classic dim sum and local dishes" },
+      { name: "Grandma's Home", cuisine: "Zhejiang", priceLevel: 1, note: "Popular local chain" },
+      { name: "Green Tea Restaurant", cuisine: "Chinese", priceLevel: 2, note: "Modern Hangzhou favourite" }
+    ],
+    stays: [
+      { name: "Four Seasons Hotel Hangzhou at West Lake", area: "West Lake", priceLevel: 4, note: "Lakefront luxury landmark" },
+      { name: "Amanfayun", area: "Lingyin Temple area", priceLevel: 4, note: "Temple-village luxury retreat" },
+      { name: "Midtown Shangri-La Hangzhou", area: "Downtown", priceLevel: 3, note: "Central business-district favourite" }
+    ],
+  },
+  hobart: {
+    restaurants: [
+      { name: "The Source Restaurant at MONA", cuisine: "Contemporary Australian", priceLevel: 3, note: "MONA fine dining" },
+      { name: "Diverse Taste", cuisine: "Modern Australian", priceLevel: 3, note: "Waterfront institution" },
+      { name: "Ball and Chain Grill", cuisine: "Steakhouse", priceLevel: 2, note: "Salamanca steakhouse classic" },
+      { name: "Drunken Admiral", cuisine: "Seafood", priceLevel: 2, note: "Historic waterfront favourite" }
+    ],
+    stays: [
+      { name: "MACq 01 Hotel", area: "Waterfront", priceLevel: 4, note: "Storytelling design hotel on harbour" },
+      { name: "Henry Jones Art Hotel", area: "Waterfront", priceLevel: 4, note: "Jam factory heritage luxury" },
+      { name: "Lenna of Hobart", area: "Battery Point", priceLevel: 3, note: "Harbour-view heritage hotel" }
+    ],
+  },
+  "hoi-an": {
+    restaurants: [
+      { name: "Morning Glory", cuisine: "Vietnamese", priceLevel: 2, note: "Ms Vy Nguyen's Hoi An classic" },
+      { name: "Banh Mi Phuong", cuisine: "Vietnamese", priceLevel: 1, note: "Famous Anthony Bourdain stop" },
+      { name: "Secret Garden", cuisine: "Vietnamese", priceLevel: 2, note: "Rooftop garden favourite" },
+      { name: "Nu Eatery", cuisine: "Vietnamese fusion", priceLevel: 2, note: "Intimate chef-driven spot" }
+    ],
+    stays: [
+      { name: "Anantara Hoi An Resort", area: "Cua Dai Beach", priceLevel: 4, note: "River-meets-sea luxury resort" },
+      { name: "Hotel Royal Hoi An", area: "Ancient Town edge", priceLevel: 3, note: "MGallery heritage stay" },
+      { name: "Little Hoi An Beach Boutique Hotel", area: "Cua Dai", priceLevel: 3, note: "Beachside boutique favourite" }
+    ],
+  },
+  honolulu: {
+    restaurants: [
+      { name: "Helena's Hawaiian Food", cuisine: "Hawaiian", priceLevel: 1, note: "Local Hawaiian classic" },
+      { name: "Ono Seafood", cuisine: "Poke", priceLevel: 1, note: "Takeout poke favourite" },
+      { name: "Marukame Udon", cuisine: "Japanese", priceLevel: 1, note: "Waikiki udon institution" },
+      { name: "Chef Mavro", cuisine: "Hawaii Regional", priceLevel: 4, note: "Fine-dining Honolulu landmark" }
+    ],
+    stays: [
+      { name: "Halekulani", area: "Waikiki", priceLevel: 4, note: "Beachfront luxury icon" },
+      { name: "The Royal Hawaiian", area: "Waikiki", priceLevel: 4, note: "Pink Palace historic resort" },
+      { name: "Moana Surfrider", area: "Waikiki", priceLevel: 3, note: "Historic beachfront tourist favourite" }
+    ],
+  },
+  ibiza: {
+    restaurants: [
+      { name: "La Brasa", cuisine: "Mediterranean", priceLevel: 3, note: "Ibiza Town fine-dining favourite" },
+      { name: "Can Pujol", cuisine: "Seafood", priceLevel: 2, note: "Old town institution since 1920" },
+      { name: "El Bigotes", cuisine: "Seafood", priceLevel: 2, note: "Cala Mastella no-frills classic" },
+      { name: "Babylon Beach Club", cuisine: "Mediterranean", priceLevel: 3, note: "Santa Eulària beachfront dining" }
+    ],
+    stays: [
+      { name: "Six Senses Ibiza", area: "Cala Xarraca", priceLevel: 4, note: "North-coast wellness luxury" },
+      { name: "Nobu Hotel Ibiza Bay", area: "Talamanca", priceLevel: 4, note: "Talamanca Bay design hotel" },
+      { name: "Hotel Montesol", area: "Ibiza Town", priceLevel: 3, note: "Dalt Vila boutique since 1933" }
+    ],
+  },
+  iguazu: {
+    restaurants: [
+      { name: "Rafain Churrascaria", cuisine: "Brazilian BBQ", priceLevel: 3, note: "Dinner show institution" },
+      { name: "Bufalo Branco", cuisine: "Churrascaria", priceLevel: 2, note: "All-you-can-eat rodízio classic" },
+      { name: "Porto Canoas", cuisine: "Buffet", priceLevel: 2, note: "Inside national park buffet" },
+      { name: "El Quincho del Tío Querido", cuisine: "Argentine steak", priceLevel: 2, note: "Cross-border steak favourite" }
+    ],
+    stays: [
+      { name: "Belmond Hotel das Cataratas", area: "Inside national park", priceLevel: 4, note: "Only hotel inside Brazilian park" },
+      { name: "Wish Resort Golf Convention Foz do Iguaçu", area: "Parque das Aves area", priceLevel: 4, note: "Resort near falls entrance" },
+      { name: "Hotel Águas do Iguaçu", area: "Central Foz", priceLevel: 3, note: "Central tourist favourite" }
+    ],
+  },
+  innsbruck: {
+    restaurants: [
+      { name: "Die Pötz", cuisine: "Tyrolean", priceLevel: 2, note: "Old town institution" },
+      { name: "Stiftskeller", cuisine: "Austrian", priceLevel: 2, note: "Historic cellar dining" },
+      { name: "iTi Austrian Food & Drinks", cuisine: "Modern Austrian", priceLevel: 2, note: "Contemporary Tyrolean favourite" },
+      { name: "Restaurant Sacher Innsbruck", cuisine: "Austrian", priceLevel: 3, note: "Sacher torte and fine dining" }
+    ],
+    stays: [
+      { name: "Grand Hotel Europa", area: "Central Innsbruck", priceLevel: 4, note: "Historic luxury opposite train station" },
+      { name: "AC Hotel by Marriott Innsbruck", area: "Old Town edge", priceLevel: 3, note: "Modern central hotel" },
+      { name: "Hotel Innsbruck", area: "Old Town", priceLevel: 3, note: "Rooftop pool Old Town favourite" }
+    ],
+  },
+  interlaken: {
+    restaurants: [
+      { name: "Stella", cuisine: "Swiss", priceLevel: 3, note: "Victoria-Jungfrau Grand Hotel fine dining" },
+      { name: "Husi Bierhaus", cuisine: "Swiss-German", priceLevel: 2, note: "Local beer-hall institution" },
+      { name: "Goldener Anker", cuisine: "Swiss", priceLevel: 2, note: "Old town Interlaken classic" },
+      { name: "Restaurant Taverne", cuisine: "Swiss", priceLevel: 2, note: "Höheweg tourist favourite" }
+    ],
+    stays: [
+      { name: "Victoria-Jungfrau Grand Hotel & Spa", area: "Höheweg", priceLevel: 4, note: "Belle Époque alpine luxury icon" },
+      { name: "Hotel Schweizerhof Bern & Spa", area: "Bern (day trip)", priceLevel: 4, note: "Bern luxury base for Interlaken" },
+      { name: "Hotel Interlaken", area: "Central Interlaken", priceLevel: 3, note: "Historic central tourist hotel" }
+    ],
+  },
+  jaipur: {
+    restaurants: [
+      { name: "Niros", cuisine: "North Indian", priceLevel: 2, note: "MI Road institution since 1949" },
+      { name: "Peacock Rooftop Restaurant", cuisine: "Indian", priceLevel: 2, note: "Hotel Pearl Palace rooftop favourite" },
+      { name: "1135 AD", cuisine: "Rajasthani", priceLevel: 3, note: "Amber Fort fine-dining setting" },
+      { name: "Laxmi Mishthan Bhandar (LMB)", cuisine: "Sweets & snacks", priceLevel: 1, note: "Johari Bazaar sweet institution" }
+    ],
+    stays: [
+      { name: "Rambagh Palace", area: "Bhawani Singh Road", priceLevel: 4, note: "Taj maharaja palace icon" },
+      { name: "Samode Haveli", area: "Old city", priceLevel: 4, note: "Heritage haveli luxury" },
+      { name: "Shahpura House", area: "Durgapura", priceLevel: 3, note: "Boutique heritage hotel" }
+    ],
+  },
+  jeju: {
+    restaurants: [
+      { name: "Dombedon", cuisine: "Korean BBQ", priceLevel: 2, note: "Black pork specialist" },
+      { name: "Myeongjin Jeonbok", cuisine: "Abalone", priceLevel: 2, note: "Abalone institution near coast" },
+      { name: "Sister's Noodles", cuisine: "Korean", priceLevel: 1, note: "Local noodle favourite" },
+      { name: "The Kitchen Salvatore Cuomo", cuisine: "Italian", priceLevel: 3, note: "Seogwipo fine-dining option" }
+    ],
+    stays: [
+      { name: "The Shilla Jeju", area: "Jungmun", priceLevel: 4, note: "Resort-district luxury icon" },
+      { name: "Lotte Hotel Jeju", area: "Jungmun", priceLevel: 4, note: "Family resort with pools" },
+      { name: "Ramada Plaza Jeju", area: "Jeju City", priceLevel: 3, note: "City-base tourist favourite" }
+    ],
+  },
+  "koh-samui": {
+    restaurants: [
+      { name: "Coco Tam's", cuisine: "Thai BBQ", priceLevel: 2, note: "Bophut beach fire-show institution" },
+      { name: "The Jungle Club", cuisine: "Thai-International", priceLevel: 2, note: "Chaweng hillside views" },
+      { name: "Sabienglamp Restaurant", cuisine: "Thai", priceLevel: 2, note: "Local favourite off Chaweng" },
+      { name: "H-Bistro at Hansar Samui", cuisine: "International", priceLevel: 3, note: "Beachfront fine dining" }
+    ],
+    stays: [
+      { name: "Four Seasons Resort Koh Samui", area: "Laem Yai", priceLevel: 4, note: "Hillside pool-villa luxury" },
+      { name: "Banyan Tree Samui", area: "Lamai", priceLevel: 4, note: "Crescent-bay resort icon" },
+      { name: "Chaweng Regent Beach Resort", area: "Chaweng", priceLevel: 3, note: "Central beachfront favourite" }
+    ],
+  },
+  krabi: {
+    restaurants: [
+      { name: "May and Mark's Restaurant", cuisine: "Thai", priceLevel: 1, note: "Ao Nang budget institution" },
+      { name: "KoDam Kitchen", cuisine: "Thai seafood", priceLevel: 2, note: "Ao Nang local favourite" },
+      { name: "Railay Bay Resort Restaurant", cuisine: "Thai-International", priceLevel: 2, note: "Railay beachfront dining" },
+      { name: "Lae Lay Grill", cuisine: "Seafood", priceLevel: 3, note: "Ao Nang sunset views" }
+    ],
+    stays: [
+      { name: "Rayavadee", area: "Railay", priceLevel: 4, note: "Limestone-cliff luxury icon" },
+      { name: "Centara Grand Beach Resort & Villas Krabi", area: "Railay", priceLevel: 4, note: "Private beach resort" },
+      { name: "Holiday Inn Resort Krabi Ao Nang", area: "Ao Nang", priceLevel: 3, note: "Family beachfront favourite" }
+    ],
+  },
+  langkawi: {
+    restaurants: [
+      { name: "Orkid Ria Seafood Restaurant", cuisine: "Seafood", priceLevel: 2, note: "Cenang beach institution" },
+      { name: "Red Tomato Garden Café", cuisine: "Western", priceLevel: 2, note: "Expat breakfast favourite" },
+      { name: "La Sal at Casa del Mar", cuisine: "Mediterranean", priceLevel: 3, note: "Upscale beachfront dining" },
+      { name: "Wan Thai Restaurant", cuisine: "Thai", priceLevel: 2, note: "Kuah town local favourite" }
+    ],
+    stays: [
+      { name: "The Datai Langkawi", area: "Datai Bay", priceLevel: 4, note: "Rainforest-meets-beach luxury icon" },
+      { name: "Four Seasons Resort Langkawi", area: "Tanjung Rhu", priceLevel: 4, note: "Mangrove-shore luxury resort" },
+      { name: "The Frangipani Langkawi Resort & Spa", area: "Pantai Tengah", priceLevel: 3, note: "Eco-resort beach favourite" }
+    ],
+  },
+  "luang-prabang": {
+    restaurants: [
+      { name: "Tamarind", cuisine: "Lao", priceLevel: 2, note: "Cooking-class restaurant institution" },
+      { name: "L'Elephant", cuisine: "French-Lao", priceLevel: 3, note: "Colonial-era fine dining" },
+      { name: "Dyen Sabai", cuisine: "Lao", priceLevel: 2, note: "Bamboo bridge riverside favourite" },
+      { name: "Joma Bakery Café", cuisine: "Café", priceLevel: 2, note: "Expat breakfast staple" }
+    ],
+    stays: [
+      { name: "Amantaka", area: "Old town", priceLevel: 4, note: "Aman luxury in former hospital" },
+      { name: "Belmond La Résidence Phou Vao", area: "Phou Vao hill", priceLevel: 4, note: "Hilltop colonial resort" },
+      { name: "Maison Dalabua", area: "Old town", priceLevel: 3, note: "Lotus-pond boutique hotel" }
+    ],
+  },
+  lucerne: {
+    restaurants: [
+      { name: "Restaurant Old Swiss House", cuisine: "Swiss", priceLevel: 3, note: "Old town institution since 1858" },
+      { name: "Wirtshaus Taube", cuisine: "Swiss", priceLevel: 2, note: "Old town local favourite" },
+      { name: "Gourmency", cuisine: "International", priceLevel: 3, note: "Lakefront dining at Hotel Palace" },
+      { name: "Bierliebe & Chuchi", cuisine: "Swiss", priceLevel: 2, note: "Craft beer and Swiss plates" }
+    ],
+    stays: [
+      { name: "Hotel Schweizerhof Luzern", area: "Lakefront", priceLevel: 4, note: "Lakefront luxury since 1845" },
+      { name: "Hotel Palace Luzern", area: "Nationalquai", priceLevel: 4, note: "Belle Époque lake landmark" },
+      { name: "Hotel des Balances", area: "Old Town", priceLevel: 3, note: "Riverside boutique favourite" }
+    ],
+  },
+  luxor: {
+    restaurants: [
+      { name: "1886 Restaurant", cuisine: "French-Egyptian", priceLevel: 4, note: "Winter Palace fine-dining institution" },
+      { name: "Sofra Restaurant", cuisine: "Egyptian", priceLevel: 2, note: "Traditional Egyptian favourite" },
+      { name: "Al-Sahaby Lane Restaurant", cuisine: "Egyptian", priceLevel: 2, note: "Nile-view rooftop" },
+      { name: "Soft Restaurant", cuisine: "Egyptian", priceLevel: 2, note: "Local tourist-area classic" }
+    ],
+    stays: [
+      { name: "Sofitel Winter Palace Luxor", area: "East Bank Nile", priceLevel: 4, note: "Agatha Christie-era Nile landmark" },
+      { name: "Hilton Luxor Resort & Spa", area: "East Bank", priceLevel: 4, note: "Modern Nile resort" },
+      { name: "Nefertiti Hotel", area: "East Bank", priceLevel: 3, note: "Rooftop Nile-view favourite" }
+    ],
+  },
+  marrakech: {
+    restaurants: [
+      { name: "Le Jardin", cuisine: "Moroccan", priceLevel: 2, note: "Medina garden oasis" },
+      { name: "Nomad", cuisine: "Modern Moroccan", priceLevel: 2, note: "Rooftop medina favourite" },
+      { name: "La Mamounia", cuisine: "Moroccan fine dining", priceLevel: 4, note: "Palace hotel dining institution" },
+      { name: "Al Fassia", cuisine: "Moroccan", priceLevel: 3, note: "Women-run restaurant legend" }
+    ],
+    stays: [
+      { name: "La Mamounia", area: "Medina edge", priceLevel: 4, note: "Marrakech palace hotel icon" },
+      { name: "Royal Mansour Marrakech", area: "Medina", priceLevel: 4, note: "King-owned riad luxury" },
+      { name: "Riad Kniza", area: "Medina", priceLevel: 3, note: "Boutique riad favourite" }
+    ],
+  },
+  mecca: {
+    restaurants: [
+      { name: "Al Baik", cuisine: "Fast food halal", priceLevel: 1, note: "Saudi institution near pilgrim zones" },
+      { name: "Al Tazaj", cuisine: "Rotisserie chicken halal", priceLevel: 1, note: "Pilgrim-area fast favourite" },
+      { name: "Makkah Clock Royal Tower, A Fairmont Hotel restaurants", cuisine: "International halal", priceLevel: 4, note: "Clock Tower fine dining" },
+      { name: "Hyatt Regency Makkah Al Madinah Restaurant", cuisine: "International halal", priceLevel: 3, note: "Haram-area hotel dining" }
+    ],
+    stays: [
+      { name: "Makkah Clock Royal Tower, A Fairmont Hotel", area: "Abraj Al Bait", priceLevel: 4, note: "Clock Tower Haram-view landmark" },
+      { name: "Raffles Makkah Palace", area: "Abraj Al Bait", priceLevel: 4, note: "Luxury pilgrim stay" },
+      { name: "Swissôtel Makkah", area: "Ibrahim Al Khalil Road", priceLevel: 4, note: "Haram-proximity luxury hotel" }
+    ],
+  },
+  medina: {
+    restaurants: [
+      { name: "Arabesque Restaurant", cuisine: "International halal", priceLevel: 3, note: "Pullman Zamzam Madina hotel dining" },
+      { name: "Al Baik", cuisine: "Fast food halal", priceLevel: 1, note: "Saudi fried-chicken institution" },
+      { name: "Mövenpick Hotel Al Nour Restaurant", cuisine: "International halal", priceLevel: 3, note: "Pilgrim-area hotel dining" },
+      { name: "Hardee's / local mall food courts", cuisine: "Halal fast food", priceLevel: 1, note: "Mall dining near approved zones" }
+    ],
+    stays: [
+      { name: "Pullman Zamzam Madina", area: "Central (Muslim guests near mosque)", priceLevel: 4, note: "Pilgrim luxury facing mosque precinct" },
+      { name: "Anwar Al Madinah Mövenpick Hotel", area: "Central Medina", priceLevel: 4, note: "Major pilgrim hotel group" },
+      { name: "Dar Al Taqwa Hotel", area: "Central Medina", priceLevel: 3, note: "Well-known pilgrim hotel" }
+    ],
+  },
+  nashville: {
+    restaurants: [
+      { name: "Hattie B's Hot Chicken", cuisine: "Hot chicken", priceLevel: 1, note: "Nashville hot chicken institution" },
+      { name: "Prince's Hot Chicken Shack", cuisine: "Hot chicken", priceLevel: 1, note: "Original hot chicken legend" },
+      { name: "The Catbird Seat", cuisine: "Tasting menu", priceLevel: 4, note: "Chef's counter destination" },
+      { name: "Arnold's Country Kitchen", cuisine: "Meat & three", priceLevel: 1, note: "James Beard American classic" }
+    ],
+    stays: [
+      { name: "The Hermitage Hotel", area: "Downtown", priceLevel: 4, note: "Beaux-Arts Nashville landmark" },
+      { name: "Thompson Nashville", area: "The Gulch", priceLevel: 4, note: "Gulch rooftop design hotel" },
+      { name: "Noelle", area: "Downtown", priceLevel: 3, note: "Art-deco boutique favourite" }
+    ],
+  },
+  "new-orleans": {
+    restaurants: [
+      { name: "Commander's Palace", cuisine: "Creole", priceLevel: 4, note: "Garden District institution since 1880" },
+      { name: "Café du Monde", cuisine: "Café", priceLevel: 1, note: "Beignet and chicory coffee icon" },
+      { name: "Cochon", cuisine: "Cajun", priceLevel: 3, note: "Donald Link Cajun favourite" },
+      { name: "Galatoire's", cuisine: "Creole", priceLevel: 3, note: "French Quarter Friday lunch tradition" }
+    ],
+    stays: [
+      { name: "The Roosevelt New Orleans", area: "Central Business District", priceLevel: 4, note: "Waldorf Astoria grand hotel" },
+      { name: "Hotel Monteleone", area: "French Quarter", priceLevel: 4, note: "Carousel Bar literary landmark" },
+      { name: "Royal Sonesta New Orleans", area: "French Quarter", priceLevel: 3, note: "Bourbon Street area favourite" }
+    ],
+  },
+  oaxaca: {
+    restaurants: [
+      { name: "Levain", cuisine: "Contemporary Oaxacan", priceLevel: 3, note: "Chef-driven Oaxaca favourite" },
+      { name: "Casa Oaxaca", cuisine: "Oaxacan", priceLevel: 3, note: "Zocalo-area fine dining institution" },
+      { name: "Pasillo de Humo", cuisine: "Oaxacan", priceLevel: 2, note: "Smoked-meat market favourite" },
+      { name: "Itanoní", cuisine: "Antojitos", priceLevel: 1, note: "Tlayuda and masa institution" }
+    ],
+    stays: [
+      { name: "Hotel Casa Oaxaca", area: "Centro", priceLevel: 4, note: "Boutique luxury with restaurant" },
+      { name: "Quinta Real Oaxaca", area: "Centro", priceLevel: 4, note: "Former convent luxury" },
+      { name: "Hotel CasAntica", area: "Centro", priceLevel: 3, note: "Colonial courtyard favourite" }
+    ],
+  },
+  palawan: {
+    restaurants: [
+      { name: "KaLui Restaurant", cuisine: "Filipino seafood", priceLevel: 2, note: "Barefoot dining institution" },
+      { name: "Badjao Seafront Restaurant", cuisine: "Seafood", priceLevel: 2, note: "Stilt-house waterfront favourite" },
+      { name: "Kinabuch's Grill and Bar", cuisine: "Filipino", priceLevel: 2, note: "Local expat favourite" },
+      { name: "Baker's Hill", cuisine: "Bakery", priceLevel: 1, note: "Hopia and hopia garden stop" }
+    ],
+    stays: [
+      { name: "Daluyon Beach and Mountain Resort", area: "Sabang", priceLevel: 4, note: "Near underground river" },
+      { name: "Hue Hotels Puerto Princesa", area: "City centre", priceLevel: 3, note: "Modern city-base hotel" },
+      { name: "Blue Palawan Beach Club", area: "City outskirts", priceLevel: 3, note: "Beach-club resort stay" }
+    ],
+  },
+  pattaya: {
+    restaurants: [
+      { name: "Mantra Restaurant & Bar", cuisine: "Asian fusion", priceLevel: 3, note: "Hilton Pattaya fine dining" },
+      { name: "Ruenthai Restaurant", cuisine: "Thai", priceLevel: 2, note: "Garden-setting local favourite" },
+      { name: "The Glass House", cuisine: "Seafood", priceLevel: 2, note: "Beachfront bistro institution" },
+      { name: "Cafe des Amis Fine Dining", cuisine: "French", priceLevel: 3, note: "North Pattaya special-occasion pick" }
+    ],
+    stays: [
+      { name: "Hilton Pattaya", area: "Central Pattaya", priceLevel: 4, note: "Central Festival rooftop luxury" },
+      { name: "Centara Grand Mirage Beach Resort", area: "North Pattaya", priceLevel: 4, note: "Lagoon-pool family resort" },
+      { name: "Avani Pattaya Resort", area: "Central Pattaya", priceLevel: 3, note: "Beach-road tourist favourite" }
+    ],
+  },
+  penang: {
+    restaurants: [
+      { name: "Kebaya Dining Room", cuisine: "Peranakan", priceLevel: 3, note: "Seven Terraces fine dining" },
+      { name: "Siam Road Char Koay Teow", cuisine: "Street food", priceLevel: 1, note: "Legendary wok stall" },
+      { name: "Gurney Drive Hawker Centre", cuisine: "Hawker", priceLevel: 1, note: "Classic open-air food centre" },
+      { name: "Tek Sen Restaurant", cuisine: "Chinese", priceLevel: 2, note: "Double-roast pork favourite" }
+    ],
+    stays: [
+      { name: "Eastern & Oriental Hotel", area: "Georgetown waterfront", priceLevel: 4, note: "Colonial grande dame since 1885" },
+      { name: "Seven Terraces", area: "Georgetown", priceLevel: 4, note: "Peranakan heritage boutique" },
+      { name: "Muntri Mews", area: "Georgetown", priceLevel: 3, note: "Converted shophouse boutique" }
+    ],
+  },
+  philadelphia: {
+    restaurants: [
+      { name: "Pat's King of Steaks", cuisine: "Cheesesteaks", priceLevel: 1, note: "South Philly cheesesteak institution" },
+      { name: "Reading Terminal Market stalls", cuisine: "Market food", priceLevel: 1, note: "Amish and local classics under one roof" },
+      { name: "Zahav", cuisine: "Israeli", priceLevel: 3, note: "James Beard destination restaurant" },
+      { name: "Suraya", cuisine: "Lebanese", priceLevel: 3, note: "Fishtown favourite" }
+    ],
+    stays: [
+      { name: "The Rittenhouse", area: "Rittenhouse Square", priceLevel: 4, note: "Park-side luxury landmark" },
+      { name: "Loews Philadelphia Hotel", area: "Center City", priceLevel: 3, note: "PSFS Building historic stay" },
+      { name: "Kimpton Hotel Monaco", area: "Old City", priceLevel: 3, note: "Near Independence Hall" }
+    ],
+  },
+  "playa-del-carmen": {
+    restaurants: [
+      { name: "Alux Restaurant", cuisine: "Mexican", priceLevel: 3, note: "Dining inside a cenote cave" },
+      { name: "La Cueva del Chango", cuisine: "Mexican", priceLevel: 2, note: "Jungle breakfast institution" },
+      { name: "Johnny Rockets 5th Avenue", cuisine: "American", priceLevel: 2, note: "Quinta Avenida casual classic" },
+      { name: "El Fogon", cuisine: "Mexican", priceLevel: 1, note: "Local taco favourite off 5th Ave" }
+    ],
+    stays: [
+      { name: "Rosewood Mayakoba", area: "Mayakoba", priceLevel: 4, note: "Lagoon-laced luxury resort" },
+      { name: "Hotel Xcaret Arte", area: "Playacar", priceLevel: 4, note: "All-inclusive park-access luxury" },
+      { name: "The Reef 28", area: "Quinta Avenida", priceLevel: 3, note: "Adults-only rooftop pool favourite" }
+    ],
+  },
+  "punta-cana": {
+    restaurants: [
+      { name: "La Yola", cuisine: "Seafood", priceLevel: 3, note: "Punta Cana Resort & Club overwater dining" },
+      { name: "Bamboo Bar", cuisine: "Caribbean", priceLevel: 2, note: "Bavaro beachfront favourite" },
+      { name: "Jellyfish Restaurant", cuisine: "Seafood", priceLevel: 3, note: "Bavaro beach icon" },
+      { name: "Capitan Cook", cuisine: "Seafood", priceLevel: 2, note: "Local seafood institution" }
+    ],
+    stays: [
+      { name: "Eden Roc Cap Cana", area: "Cap Cana", priceLevel: 4, note: "Relais & Châteaux luxury resort" },
+      { name: "Secrets Cap Cana Resort & Spa", area: "Cap Cana", priceLevel: 4, note: "Adults-only all-inclusive luxury" },
+      { name: "Barceló Bávaro Palace", area: "Bavaro", priceLevel: 3, note: "Large beachfront all-inclusive" }
+    ],
+  },
+  "quebec-city": {
+    restaurants: [
+      { name: "Le Saint-Amour", cuisine: "French fine dining", priceLevel: 4, note: "Old Quebec institution" },
+      { name: "Chez Ashton", cuisine: "Quebec fast food", priceLevel: 1, note: "Local poutine chain classic" },
+      { name: "Le Continental", cuisine: "Steakhouse", priceLevel: 3, note: "Old Quebec tableside flambé institution" },
+      { name: "La Buche", cuisine: "Quebecois", priceLevel: 2, note: "Sugar-shack themed favourite" }
+    ],
+    stays: [
+      { name: "Fairmont Le Château Frontenac", area: "Old Quebec", priceLevel: 4, note: "Castle-on-the-cliff icon" },
+      { name: "Auberge Saint-Antoine", area: "Old Port", priceLevel: 4, note: "Relais & Châteaux boutique" },
+      { name: "Hotel Manoir Victoria", area: "Old Quebec", priceLevel: 3, note: "Central old-town favourite" }
+    ],
+  },
+  rhodes: {
+    restaurants: [
+      { name: "Mavrikos", cuisine: "Greek", priceLevel: 2, note: "Lindos village institution since 1912" },
+      { name: "Alexis Four Seasons", cuisine: "Greek seafood", priceLevel: 2, note: "Old Town harbour favourite" },
+      { name: "Marco Polo", cuisine: "Greek", priceLevel: 2, note: "Old Town garden setting" },
+      { name: "Hatzikio", cuisine: "Seafood", priceLevel: 2, note: "Mandraki harbour classic" }
+    ],
+    stays: [
+      { name: "Bellevue On The Spot Suites", area: "Old Town", priceLevel: 4, note: "Boutique inside the walls" },
+      { name: "Rodos Park Suites & Spa", area: "City centre", priceLevel: 4, note: "Modern luxury near Old Town" },
+      { name: "Spirit of the Knights Boutique Hotel", area: "Old Town", priceLevel: 3, note: "Medieval atmosphere boutique" }
+    ],
+  },
+  rotorua: {
+    restaurants: [
+      { name: "Atticus Finch", cuisine: "Modern NZ", priceLevel: 2, note: "Eat Street institution" },
+      { name: "Stratosfare Restaurant & Bar", cuisine: "Buffet", priceLevel: 3, note: "Skyline gondola revolving restaurant" },
+      { name: "Pig & Whistle", cuisine: "Pub", priceLevel: 2, note: "Historic pub favourite" },
+      { name: "Ti Tapu at Wai Ariki Hot Springs", cuisine: "Māori-inspired", priceLevel: 3, note: "New thermal spa dining" }
+    ],
+    stays: [
+      { name: "Solitaire Lodge", area: "Lake Tarawera", priceLevel: 4, note: "Remote luxury lodge near Rotorua" },
+      { name: "Peppers on the Point", area: "Lake Rotorua", priceLevel: 4, note: "Lakefront boutique luxury" },
+      { name: "Distinction Rotorua Hotel", area: "City centre", priceLevel: 3, note: "Central tourist favourite" }
+    ],
+  },
+  "san-diego": {
+    restaurants: [
+      { name: "Oscar's Mexican Seafood", cuisine: "Mexican seafood", priceLevel: 1, note: "Fish-taco favourite" },
+      { name: "Point Loma Seafoods", cuisine: "Seafood", priceLevel: 1, note: "Harbor-side classic" },
+      { name: "Hash House A Go Go", cuisine: "American", priceLevel: 2, note: "Brunch institution" },
+      { name: "Juniper & Ivy", cuisine: "Californian", priceLevel: 3, note: "Little Italy chef-driven favourite" }
+    ],
+    stays: [
+      { name: "Hotel del Coronado", area: "Coronado", priceLevel: 4, note: "Iconic Victorian beach resort" },
+      { name: "Pendry San Diego", area: "Gaslamp", priceLevel: 4, note: "Downtown luxury favourite" },
+      { name: "La Valencia Hotel", area: "La Jolla", priceLevel: 3, note: "Pink Lady coastal classic" }
+    ],
+  },
+  savannah: {
+    restaurants: [
+      { name: "The Grey", cuisine: "Southern", priceLevel: 3, note: "Greyhound-station-turned-James Beard restaurant" },
+      { name: "Mrs. Wilkes' Dining Room", cuisine: "Southern", priceLevel: 2, note: "Communal boarding-house lunch institution" },
+      { name: "The Olde Pink House", cuisine: "Southern", priceLevel: 3, note: "Historic mansion dining" },
+      { name: "Leopold's Ice Cream", cuisine: "Ice cream", priceLevel: 1, note: "Century-old ice cream icon" }
+    ],
+    stays: [
+      { name: "The Bohemian Hotel Savannah Riverfront", area: "River Street", priceLevel: 4, note: "Autograph Collection riverfront luxury" },
+      { name: "Mansion on Forsyth Park", area: "Forsyth Park", priceLevel: 4, note: "Kessler Collection boutique luxury" },
+      { name: "Kehoe House", area: "Columbia Square", priceLevel: 3, note: "Historic inn favourite" }
+    ],
+  },
+  seattle: {
+    restaurants: [
+      { name: "Piroshky Piroshky", cuisine: "Russian bakery", priceLevel: 1, note: "Pike Place pastry classic" },
+      { name: "The Pink Door", cuisine: "Italian", priceLevel: 2, note: "Post Alley tourist favourite" },
+      { name: "Toulouse Petit", cuisine: "Cajun / Creole", priceLevel: 2, note: "Lower Queen Anne institution" },
+      { name: "Canlis", cuisine: "Pacific Northwest", priceLevel: 4, note: "Seattle fine-dining landmark" }
+    ],
+    stays: [
+      { name: "Four Seasons Hotel Seattle", area: "Downtown waterfront", priceLevel: 4, note: "Bay-view luxury" },
+      { name: "Thompson Seattle", area: "Belltown", priceLevel: 4, note: "Design hotel with skyline views" },
+      { name: "Hotel Monaco Seattle", area: "Downtown", priceLevel: 3, note: "Colourful Kimpton tourist favourite" }
+    ],
+  },
+  seville: {
+    restaurants: [
+      { name: "Eslava", cuisine: "Tapas", priceLevel: 2, note: "Award-winning San Lorenzo institution" },
+      { name: "El Rinconcillo", cuisine: "Tapas", priceLevel: 2, note: "Oldest bar in Seville since 1670" },
+      { name: "La Azotea", cuisine: "Modern tapas", priceLevel: 2, note: "Contemporary tapas favourite" },
+      { name: "Abantal", cuisine: "Creative Spanish", priceLevel: 4, note: "Michelin-starred Seville dining" }
+    ],
+    stays: [
+      { name: "Hotel Alfonso XIII", area: "Historic centre", priceLevel: 4, note: "Seville's grand royal hotel" },
+      { name: "EME Catedral Mercer", area: "Cathedral", priceLevel: 4, note: "Cathedral-view luxury" },
+      { name: "Hotel Las Casas de la Judería", area: "Santa Cruz", priceLevel: 3, note: "Maze-like historic hotel" }
+    ],
+  },
+  "sharm-el-sheikh": {
+    restaurants: [
+      { name: "Fares Seafood", cuisine: "Seafood", priceLevel: 2, note: "Old Market institution" },
+      { name: "El Masrien", cuisine: "Egyptian", priceLevel: 2, note: "Old Sharm local favourite" },
+      { name: "Sala Thai", cuisine: "Thai", priceLevel: 2, note: "Naama Bay long-running favourite" },
+      { name: "Camel Bar & Roof", cuisine: "International", priceLevel: 2, note: "Naama Bay rooftop classic" }
+    ],
+    stays: [
+      { name: "Four Seasons Resort Sharm El Sheikh", area: "Red Sea Riviera", priceLevel: 4, note: "Luxury reef-access resort" },
+      { name: "Rixos Premium Seagate", area: "Nabq Bay", priceLevel: 4, note: "All-inclusive luxury resort" },
+      { name: "Iberotel Palace", area: "Naama Bay", priceLevel: 3, note: "Central bay tourist favourite" }
+    ],
+  },
+  tulum: {
+    restaurants: [
+      { name: "Hartwood", cuisine: "Wood-fired", priceLevel: 3, note: "No-electricity jungle dining institution" },
+      { name: "Arca", cuisine: "Contemporary Mexican", priceLevel: 3, note: "Jungle open-fire favourite" },
+      { name: "Antiqa Hacienda", cuisine: "Mexican", priceLevel: 2, note: "Town-centre local favourite" },
+      { name: "Matcha Mama", cuisine: "Health café", priceLevel: 2, note: "Beach smoothie bowl icon" }
+    ],
+    stays: [
+      { name: "Azulik", area: "Beach zone", priceLevel: 4, note: "Treehouse eco-luxury icon" },
+      { name: "Be Tulum", area: "Beach zone", priceLevel: 4, note: "Boutique beach luxury" },
+      { name: "Hotel Poc Na Tulum", area: "Town beach", priceLevel: 3, note: "Beachfront mid-range favourite" }
+    ],
+  },
+  udaipur: {
+    restaurants: [
+      { name: "Ambrai", cuisine: "Indian", priceLevel: 3, note: "Lake-view Amet Haveli institution" },
+      { name: "1559 AD", cuisine: "Rajasthani", priceLevel: 2, note: "Heritage haveli dining" },
+      { name: "Upre", cuisine: "Indian", priceLevel: 2, note: "Lake Pichola rooftop favourite" },
+      { name: "Natraj Dining Hall", cuisine: "Thali", priceLevel: 1, note: "Local thali institution" }
+    ],
+    stays: [
+      { name: "Taj Lake Palace", area: "Lake Pichola", priceLevel: 4, note: "Floating marble palace icon" },
+      { name: "The Oberoi Udaivilas", area: "Lake Pichola", priceLevel: 4, note: "Luxury lakeside resort landmark" },
+      { name: "Jagat Niwas Palace Hotel", area: "Hanuman Ghat", priceLevel: 3, note: "Heritage haveli on the lake" }
+    ],
+  },
+  uyuni: {
+    restaurants: [
+      { name: "Minuteman Revolutionary Pizza", cuisine: "Pizza", priceLevel: 2, note: "Uyuni expat institution" },
+      { name: "Toctos", cuisine: "Bolivian", priceLevel: 2, note: "Local Bolivian favourite" },
+      { name: "Pizza Ristorante", cuisine: "Italian", priceLevel: 2, note: "Post-tour comfort food" },
+      { name: "Lithium Restaurant", cuisine: "International", priceLevel: 2, note: "Hotel Luna Salada dining" }
+    ],
+    stays: [
+      { name: "Hotel Palacio de Sal", area: "Salt flat edge", priceLevel: 4, note: "Salt-block luxury hotel icon" },
+      { name: "Luna Salada Hotel", area: "Salt flat edge", priceLevel: 3, note: "Salt-built boutique hotel" },
+      { name: "Hotel Girasoles", area: "Uyuni town", priceLevel: 2, note: "Pre-tour town-base favourite" }
+    ],
+  },
+  varanasi: {
+    restaurants: [
+      { name: "Kashi Chat Bhandar", cuisine: "Street food", priceLevel: 1, note: "Chaat institution near Godowlia" },
+      { name: "Pizzeria Vaatika Café", cuisine: "Indian-Italian", priceLevel: 1, note: "Assi Ghat rooftop favourite" },
+      { name: "Brown Bread Bakery", cuisine: "Bakery", priceLevel: 1, note: "Organic rooftop near ghats" },
+      { name: "Bona Restaurant", cuisine: "North Indian", priceLevel: 2, note: "Riverside hotel restaurant" }
+    ],
+    stays: [
+      { name: "Taj Ganges Varanasi", area: "Nadesar", priceLevel: 4, note: "City luxury landmark" },
+      { name: "BrijRama Palace", area: "Darbhanga Ghat", priceLevel: 4, note: "Heritage palace on the Ganges" },
+      { name: "Ganges View Hotel", area: "Assi Ghat", priceLevel: 3, note: "Ghat-view tourist favourite" }
+    ],
+  },
+  "victoria-falls": {
+    restaurants: [
+      { name: "The Boma – Dinner & Drum Show", cuisine: "African buffet", priceLevel: 3, note: "Safari dinner institution" },
+      { name: "The Three Monkeys", cuisine: "International", priceLevel: 2, note: "Victoria Falls town favourite" },
+      { name: "Lookout Café", cuisine: "International", priceLevel: 2, note: "Gorge-view Wild Horizons café" },
+      { name: "The Dusty Road Township Experience", cuisine: "Zimbabwean", priceLevel: 2, note: "Authentic township dining" }
+    ],
+    stays: [
+      { name: "Victoria Falls Hotel", area: "Victoria Falls town", priceLevel: 4, note: "Colonial grande dame since 1904" },
+      { name: "Matetsi Victoria Falls", area: "Zambezi River", priceLevel: 4, note: "Luxury river lodge" },
+      { name: "Ilala Lodge Hotel", area: "Victoria Falls town", priceLevel: 3, note: "Walk-to-falls tourist favourite" }
+    ],
+  },
+  "xi-an": {
+    restaurants: [
+      { name: "La Maison de Han", cuisine: "Shaanxi", priceLevel: 2, note: "Refined local cuisine" },
+      { name: "Old Xi'an Restaurant", cuisine: "Shaanxi", priceLevel: 2, note: "Classic tourist-area favourite" },
+      { name: "Jiasan Guantang Baozi", cuisine: "Dumplings", priceLevel: 1, note: "Soup dumpling institution" },
+      { name: "Tong Sheng Xiang", cuisine: "Shaanxi", priceLevel: 2, note: "Yang rou pao mo specialist" }
+    ],
+    stays: [
+      { name: "The Ritz-Carlton Xi'an", area: "Gao Xin district", priceLevel: 4, note: "Modern luxury landmark" },
+      { name: "Sofitel Legend People's Grand Hotel Xi'an", area: "Downtown", priceLevel: 4, note: "1950s heritage grand hotel" },
+      { name: "Grand Mercure Xi'an on Renmin Square", area: "City centre", priceLevel: 3, note: "Central square tourist base" }
+    ],
+  }
 };
