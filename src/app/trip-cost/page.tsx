@@ -10,12 +10,15 @@ export const metadata = buildMetadata({
     "Estimate the cost of your next trip. Pick a destination, travel style, length and group size to see a daily and total budget — and find out whether a country is expensive or budget-friendly.",
   path: "/trip-cost",
   keywords: [
+    "trip cost",
+    "travel cost",
     "trip cost calculator",
     "how much does a trip cost",
     "travel budget calculator",
     "is it expensive to visit",
     "daily travel budget",
     "cost of travel by country",
+    "itinerary pricing",
   ],
 });
 

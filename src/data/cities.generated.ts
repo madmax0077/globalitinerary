@@ -7231,10 +7231,7 @@ const raw: Gen[] = [
     ],
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bangui_collage.png/1280px-Bangui_collage.png",
     "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/99/Peace_pact_between_Dolisie_and_Chief_Gbembo_stamp.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Soldiers_of_the_Forces_Fran%C3%A7aises_Libres_near_Bangui.jpg/500px-Soldiers_of_the_Forces_Fran%C3%A7aises_Libres_near_Bangui.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bangui_1960.jpg/1280px-Bangui_1960.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/VOA_Bangui_Refugees_02.jpg/1280px-VOA_Bangui_Refugees_02.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bangui%2C_Central_African_Republic.jpg/1280px-Bangui%2C_Central_African_Republic.jpg"
     ],
     "overview": "Bangui is the capital of Central African Republic, home to around 812,407 people.",
@@ -9258,7 +9255,6 @@ const raw: Gen[] = [
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Belize_City_Montage.jpeg/1280px-Belize_City_Montage.jpeg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Belize_City_Montage.jpeg/1280px-Belize_City_Montage.jpeg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Belize_Population_Density_and_Low_Elevation_Coastal_Zones_%285457913240%29.jpg/1280px-Belize_Population_Density_and_Low_Elevation_Coastal_Zones_%285457913240%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/British_Honduras_1914.jpg/1280px-British_Honduras_1914.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/SWING_BRIDGE_IN_BELIZE_CITY%2C_BELIZE.jpg/1280px-SWING_BRIDGE_IN_BELIZE_CITY%2C_BELIZE.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Darcy_McCarthy_5-26-06.jpg/1280px-Darcy_McCarthy_5-26-06.jpg"
@@ -14235,8 +14231,7 @@ const raw: Gen[] = [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Blocul_central_de_studii.jpg/1280px-Blocul_central_de_studii.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Catedrala_%E2%80%9ESf._Mihail%E2%80%9D%2C_monument_ocrotit_de_stat_amplasat_%C3%AEn_Cahul_02.jpg/1280px-Catedrala_%E2%80%9ESf._Mihail%E2%80%9D%2C_monument_ocrotit_de_stat_amplasat_%C3%AEn_Cahul_02.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Ioan_Vod%C4%83._Foto_2.jpg/1280px-Ioan_Vod%C4%83._Foto_2.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Catedrala_%E2%80%9ESf._Mihail%E2%80%9D%2C_monument_ocrotit_de_stat_amplasat_%C3%AEn_Cahul_01.jpg/1280px-Catedrala_%E2%80%9ESf._Mihail%E2%80%9D%2C_monument_ocrotit_de_stat_amplasat_%C3%AEn_Cahul_01.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/e/e1/Stamp_of_Moldova_md540.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Catedrala_%E2%80%9ESf._Mihail%E2%80%9D%2C_monument_ocrotit_de_stat_amplasat_%C3%AEn_Cahul_01.jpg/1280px-Catedrala_%E2%80%9ESf._Mihail%E2%80%9D%2C_monument_ocrotit_de_stat_amplasat_%C3%AEn_Cahul_01.jpg"
     ],
     "overview": "Cahul is one of Moldova's major cities, home to around 34,492 people.",
     "bestTime": "May–June & September–October for mild weather and thinner crowds",
@@ -15650,7 +15645,7 @@ const raw: Gen[] = [
       "coast",
       "alps"
     ],
-    "realPhoto": null,
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Carrefour_at_Puna%27auia%2C_French_Polynesia.jpg/1280px-Carrefour_at_Puna%27auia%2C_French_Polynesia.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Carrefour_at_Puna%27auia%2C_French_Polynesia.jpg/1280px-Carrefour_at_Puna%27auia%2C_French_Polynesia.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Carrefour_City_Paris.jpg/1280px-Carrefour_City_Paris.jpg",
@@ -20533,7 +20528,6 @@ const raw: Gen[] = [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Daugavpils_luter%C4%81%C5%86u_bazn%C4%ABca_01.JPG/1280px-Daugavpils_luter%C4%81%C5%86u_bazn%C4%ABca_01.JPG",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Vien%C4%ABbas_nams_092011.jpg/500px-Vien%C4%ABbas_nams_092011.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Daugavpils_cietoksnis_Nikolaja_v%C4%81rti_%283%29.jpg/1280px-Daugavpils_cietoksnis_Nikolaja_v%C4%81rti_%283%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/e/e8/Daugavpils_COA_1582.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Dvinsk_1912.jpg/500px-Dvinsk_1912.jpg"
     ],
     "overview": "Daugavpils is one of Latvia's major cities, home to around 78,126 people.",
@@ -21577,7 +21571,7 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Pottery_of_Asa_Koma.JPG/500px-Pottery_of_Asa_Koma.JPG",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Pottery_of_Asa_Koma.JPG/500px-Pottery_of_Asa_Koma.JPG",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Three_Puntites.jpg/500px-Three_Puntites.jpg",
@@ -29359,7 +29353,7 @@ const raw: Gen[] = [
       "mountains",
       "temple"
     ],
-    "realPhoto": null,
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dakar_-_Guediawaye.jpg/250px-Dakar_-_Guediawaye.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dakar_-_Guediawaye.jpg/250px-Dakar_-_Guediawaye.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Dakar_-_Guediawaye_2.jpg/960px-Dakar_-_Guediawaye_2.jpg",
@@ -35303,7 +35297,7 @@ const raw: Gen[] = [
       "desertCamp",
       "coast"
     ],
-    "realPhoto": null,
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CryingStone.jpg/1280px-CryingStone.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CryingStone.jpg/1280px-CryingStone.jpg"
     ],
@@ -37000,7 +36994,7 @@ const raw: Gen[] = [
       "coast",
       "beach"
     ],
-    "realPhoto": null,
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kayes_avenue_archinard.jpg/500px-Kayes_avenue_archinard.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kayes_avenue_archinard.jpg/500px-Kayes_avenue_archinard.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/EcoleOtages.jpg/500px-EcoleOtages.jpg",
@@ -37043,7 +37037,7 @@ const raw: Gen[] = [
       "sahara",
       "desertCamp"
     ],
-    "realPhoto": null,
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kayes_avenue_archinard.jpg/500px-Kayes_avenue_archinard.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kayes_avenue_archinard.jpg/500px-Kayes_avenue_archinard.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/EcoleOtages.jpg/500px-EcoleOtages.jpg",
@@ -39950,7 +39944,7 @@ const raw: Gen[] = [
       "desertCamp",
       "coast"
     ],
-    "realPhoto": null,
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Le_march%C3%A9_de_Koumassi_ext%C3%A9rieur.JPG/960px-Le_march%C3%A9_de_Koumassi_ext%C3%A9rieur.JPG",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Le_march%C3%A9_de_Koumassi_ext%C3%A9rieur.JPG/960px-Le_march%C3%A9_de_Koumassi_ext%C3%A9rieur.JPG",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Le_boucher_au_march%C3%A9_de_Koumassi.JPG/960px-Le_boucher_au_march%C3%A9_de_Koumassi.JPG"
@@ -41047,7 +41041,7 @@ const raw: Gen[] = [
       "dubai",
       "cityNight"
     ],
-    "realPhoto": null,
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Shuja_Shah_Durrani_and_Men_in_his_decorated_palace_Wellcome_V0050531.jpg/1280px-Shuja_Shah_Durrani_and_Men_in_his_decorated_palace_Wellcome_V0050531.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Shuja_Shah_Durrani_and_Men_in_his_decorated_palace_Wellcome_V0050531.jpg/1280px-Shuja_Shah_Durrani_and_Men_in_his_decorated_palace_Wellcome_V0050531.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Kunduz.JPG/500px-Kunduz.JPG"
@@ -43363,7 +43357,7 @@ const raw: Gen[] = [
       "alps",
       "nyc"
     ],
-    "realPhoto": null,
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Negroland_and_Guinea_with_the_European_Settlements%2C_1736.jpg/500px-Negroland_and_Guinea_with_the_European_Settlements%2C_1736.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Negroland_and_Guinea_with_the_European_Settlements%2C_1736.jpg/500px-Negroland_and_Guinea_with_the_European_Settlements%2C_1736.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Monrovia%2C_Liberia%2C_1842.jpg/500px-Monrovia%2C_Liberia%2C_1842.jpg",
@@ -44940,8 +44934,7 @@ const raw: Gen[] = [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/C%E2%80%99est_Lom%C3%A9.jpg/1280px-C%E2%80%99est_Lom%C3%A9.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Cath%C3%A9drale_du_Sacr%C3%A9-C%C5%93ur_de_Lom%C3%A9_1.jpg/1280px-Cath%C3%A9drale_du_Sacr%C3%A9-C%C5%93ur_de_Lom%C3%A9_1.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Boulevard_Circulaire_%C3%A0_hauteur_du_quartier_bancaire_%C3%A0_Lom%C3%A9.jpg/1280px-Boulevard_Circulaire_%C3%A0_hauteur_du_quartier_bancaire_%C3%A0_Lom%C3%A9.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Economic_Community_of_West_African_States_%28ECOWAS%29_%E2%80%93_Lom%C3%A9.jpg/1280px-Economic_Community_of_West_African_States_%28ECOWAS%29_%E2%80%93_Lom%C3%A9.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Armoiries_du_Togo_%E2%80%93_Deux_Lions_2_%E2%80%93_Lom%C3%A9.jpg/1280px-Armoiries_du_Togo_%E2%80%93_Deux_Lions_2_%E2%80%93_Lom%C3%A9.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Economic_Community_of_West_African_States_%28ECOWAS%29_%E2%80%93_Lom%C3%A9.jpg/1280px-Economic_Community_of_West_African_States_%28ECOWAS%29_%E2%80%93_Lom%C3%A9.jpg"
     ],
     "overview": "Lomé is the capital of Togo, home to around 2,188,376 people.",
     "bestTime": "The dry season for the most comfortable travel",
@@ -45858,7 +45851,7 @@ const raw: Gen[] = [
       "colosseum",
       "norway"
     ],
-    "realPhoto": null,
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Codex_aureus_Epternacensis_folio_24_2.jpg/1280px-Codex_aureus_Epternacensis_folio_24_2.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Codex_aureus_Epternacensis_folio_24_2.jpg/1280px-Codex_aureus_Epternacensis_folio_24_2.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Charles_IV-John_Ocko_votive_picture-fragment.jpg/1280px-Charles_IV-John_Ocko_votive_picture-fragment.jpg",
@@ -46639,7 +46632,7 @@ const raw: Gen[] = [
       "cityNight",
       "lantern"
     ],
-    "realPhoto": null,
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Maharagama_Vesak_Pandol_2023_-_%E0%B6%B8%E0%B7%84%E0%B6%BB%E0%B6%9C%E0%B6%B8_%E0%B7%80%E0%B7%99%E0%B7%83%E0%B6%9A%E0%B7%8A_%E0%B6%AD%E0%B7%9C%E0%B6%BB%E0%B6%AB_2023.jpg/500px-Maharagama_Vesak_Pandol_2023_-_%E0%B6%B8%E0%B7%84%E0%B6%BB%E0%B6%9C%E0%B6%B8_%E0%B7%80%E0%B7%99%E0%B7%83%E0%B6%9A%E0%B7%8A_%E0%B6%AD%E0%B7%9C%E0%B6%BB%E0%B6%AB_2023.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Maharagama_Vesak_Pandol_2023_-_%E0%B6%B8%E0%B7%84%E0%B6%BB%E0%B6%9C%E0%B6%B8_%E0%B7%80%E0%B7%99%E0%B7%83%E0%B6%9A%E0%B7%8A_%E0%B6%AD%E0%B7%9C%E0%B6%BB%E0%B6%AB_2023.jpg/500px-Maharagama_Vesak_Pandol_2023_-_%E0%B6%B8%E0%B7%84%E0%B6%BB%E0%B6%9C%E0%B6%B8_%E0%B7%80%E0%B7%99%E0%B7%83%E0%B6%9A%E0%B7%8A_%E0%B6%AD%E0%B7%9C%E0%B6%BB%E0%B6%AB_2023.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Maharagama_Vesak_Pandol_2022.jpg/1280px-Maharagama_Vesak_Pandol_2022.jpg"
@@ -52633,7 +52626,7 @@ const raw: Gen[] = [
       "eiffel",
       "colosseum"
     ],
-    "realPhoto": null,
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Raniero_I_de_M%C3%B3naco.jpg/500px-Raniero_I_de_M%C3%B3naco.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Raniero_I_de_M%C3%B3naco.jpg/500px-Raniero_I_de_M%C3%B3naco.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Monaco_um_1900.jpg/1280px-Monaco_um_1900.jpg",
@@ -52745,7 +52738,6 @@ const raw: Gen[] = [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Liberia%2C_Africa_-_panoramio_%28256%29.jpg/1280px-Liberia%2C_Africa_-_panoramio_%28256%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Monrovia01.jpg/500px-Monrovia01.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Monrovia_Bay.jpg/500px-Monrovia_Bay.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Monrovia%2C_Liberia_Population_Density_and_Low_Elevation_Coastal_Zones_%285457306759%29.jpg/1280px-Monrovia%2C_Liberia_Population_Density_and_Low_Elevation_Coastal_Zones_%285457306759%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Market_stall_%40_Monrovia%2C_Liberia_-_panoramio.jpg/500px-Market_stall_%40_Monrovia%2C_Liberia_-_panoramio.jpg"
     ],
     "overview": "Monrovia is the capital of Liberia, home to around 1,542,549 people.",
@@ -53244,7 +53236,7 @@ const raw: Gen[] = [
       "kyoto",
       "temple"
     ],
-    "realPhoto": null,
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/MoratuwaBahnhof.jpg/250px-MoratuwaBahnhof.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/MoratuwaBahnhof.jpg/250px-MoratuwaBahnhof.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/MoratuwaGalleRoad.jpg/250px-MoratuwaGalleRoad.jpg",
@@ -56883,10 +56875,10 @@ const raw: Gen[] = [
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/1280px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/1280px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/67%C2%BA_Per%C3%ADodo_de_Sesiones_de_la_Asamblea_General_de_Naciones_Unidas_%288020913157%29_%28cropped%29.jpg/1280px-67%C2%BA_Per%C3%ADodo_de_Sesiones_de_la_Asamblea_General_de_Naciones_Unidas_%288020913157%29_%28cropped%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Statue-of-Liberty-New-York-2014.jpg/1280px-Statue-of-Liberty-New-York-2014.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/New_york_times_square-terabass_%28cropped%29.jpg/1280px-New_york_times_square-terabass_%28cropped%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Unisphere_at_night_%28cropped%29.jpg/1280px-Unisphere_at_night_%28cropped%29.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Unisphere_at_night_%28cropped%29.jpg/1280px-Unisphere_at_night_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/New_york_taxi_in_times_square.jpg/1280px-New_york_taxi_in_times_square.jpg"
     ],
     "overview": "New York City is one of United States's major cities, home to around 8,804,190 people.",
     "bestTime": "Late spring and early autumn for pleasant temperatures",
@@ -63694,7 +63686,6 @@ const raw: Gen[] = [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikim%C3%A9dia_R%C3%A9publique_du_Congo_-_Pointe_Noire._07.jpg/1280px-Wikim%C3%A9dia_R%C3%A9publique_du_Congo_-_Pointe_Noire._07.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Wikim%C3%A9dia_R%C3%A9publique_du_Congo_-_Pointe_Noire._01.jpg/1280px-Wikim%C3%A9dia_R%C3%A9publique_du_Congo_-_Pointe_Noire._01.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/S%C3%A9jour_%C3%A0_Pointe_Noire_2024._09.jpg/1280px-S%C3%A9jour_%C3%A0_Pointe_Noire_2024._09.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/1/1a/Pointe_Noire_Congo_Coats_of_Arms.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Timber_for_export_at_the_Port_of_Pointe-Noire%2C_Republic_of_Congo.jpg/500px-Timber_for_export_at_the_Port_of_Pointe-Noire%2C_Republic_of_Congo.jpg"
     ],
     "overview": "Pointe-Noire is one of Congo's major cities, home to around 1,032,000 people.",
@@ -70443,7 +70434,7 @@ const raw: Gen[] = [
       "coast",
       "santorini"
     ],
-    "realPhoto": null,
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/a/ac/San_Marino_constitution_1600.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/a/ac/San_Marino_constitution_1600.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Giuseppe_e_Anita_Garibaldi_trovano_rifugio_a_San_Marino.JPG/500px-Giuseppe_e_Anita_Garibaldi_trovano_rifugio_a_San_Marino.JPG",
@@ -72454,7 +72445,7 @@ const raw: Gen[] = [
       "beach",
       "mountains"
     ],
-    "realPhoto": null,
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fort-Archambault_bridge_by_A._Yakovlev_%281926%29.jpg/330px-Fort-Archambault_bridge_by_A._Yakovlev_%281926%29.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fort-Archambault_bridge_by_A._Yakovlev_%281926%29.jpg/330px-Fort-Archambault_bridge_by_A._Yakovlev_%281926%29.jpg"
     ],
@@ -75034,7 +75025,7 @@ const raw: Gen[] = [
       "fujiLake",
       "dubai"
     ],
-    "realPhoto": null,
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Letter_from_William_Farquhar_to_Sultan_Muhammad_Kanzul_Alam%2C_the_Sultan_of_Brunei%2C_dated_28_November_1819.jpg/1280px-Letter_from_William_Farquhar_to_Sultan_Muhammad_Kanzul_Alam%2C_the_Sultan_of_Brunei%2C_dated_28_November_1819.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Letter_from_William_Farquhar_to_Sultan_Muhammad_Kanzul_Alam%2C_the_Sultan_of_Brunei%2C_dated_28_November_1819.jpg/1280px-Letter_from_William_Farquhar_to_Sultan_Muhammad_Kanzul_Alam%2C_the_Sultan_of_Brunei%2C_dated_28_November_1819.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Singapore_1865_SLNSW_FL15083916.jpg/1280px-Singapore_1865_SLNSW_FL15083916.jpg",
@@ -75079,7 +75070,7 @@ const raw: Gen[] = [
       "longtail",
       "fujiLake"
     ],
-    "realPhoto": null,
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/BapcoTanks-SitraBahrain.jpg/330px-BapcoTanks-SitraBahrain.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/BapcoTanks-SitraBahrain.jpg/330px-BapcoTanks-SitraBahrain.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Sitra_Wharf%2C_1940.jpg/330px-Sitra_Wharf%2C_1940.jpg",
@@ -75767,7 +75758,7 @@ const raw: Gen[] = [
       "colosseum",
       "norway"
     ],
-    "realPhoto": null,
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/South_Dublin_County_Boundary_Sign.jpg/1280px-South_Dublin_County_Boundary_Sign.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/South_Dublin_County_Boundary_Sign.jpg/1280px-South_Dublin_County_Boundary_Sign.jpg"
     ],
@@ -78373,7 +78364,7 @@ const raw: Gen[] = [
       "santorini",
       "eiffel"
     ],
-    "realPhoto": null,
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Tampere_Montage_1.jpg/1280px-Tampere_Montage_1.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Tampere_Montage_1.jpg/1280px-Tampere_Montage_1.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Messukyl%C3%A4_Old_Church.jpg/1280px-Messukyl%C3%A4_Old_Church.jpg",
@@ -78744,7 +78735,7 @@ const raw: Gen[] = [
       "coast",
       "longtail"
     ],
-    "realPhoto": null,
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Line5304_-_Flickr_-_NOAA_Photo_Library.jpg/1280px-Line5304_-_Flickr_-_NOAA_Photo_Library.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Line5304_-_Flickr_-_NOAA_Photo_Library.jpg/1280px-Line5304_-_Flickr_-_NOAA_Photo_Library.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Battle_Tarawa.jpg/1280px-Battle_Tarawa.jpg"
@@ -79805,7 +79796,7 @@ const raw: Gen[] = [
       "cityNight",
       "lantern"
     ],
-    "realPhoto": null,
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Khammouane_Thakhek2_tango7174.jpg/1280px-Khammouane_Thakhek2_tango7174.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Khammouane_Thakhek2_tango7174.jpg/1280px-Khammouane_Thakhek2_tango7174.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/05_Sook_Som_Boon_Market_-_panoramio.jpg/1280px-05_Sook_Som_Boon_Market_-_panoramio.jpg",
@@ -80831,7 +80822,7 @@ const raw: Gen[] = [
       "temple",
       "sahara"
     ],
-    "realPhoto": null,
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ville_de_Tul%C3%A9ar_%28Toliara%29_en_1934.jpg/500px-Ville_de_Tul%C3%A9ar_%28Toliara%29_en_1934.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ville_de_Tul%C3%A9ar_%28Toliara%29_en_1934.jpg/500px-Ville_de_Tul%C3%A9ar_%28Toliara%29_en_1934.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ifaty_beach_Madagascar.jpg/1280px-Ifaty_beach_Madagascar.jpg",
@@ -81558,7 +81549,7 @@ const raw: Gen[] = [
       "kyoto",
       "temple"
     ],
-    "realPhoto": null,
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Dzong_at_Damphu_Tsirang_Bhutan.jpg/1280px-Dzong_at_Damphu_Tsirang_Bhutan.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Dzong_at_Damphu_Tsirang_Bhutan.jpg/1280px-Dzong_at_Damphu_Tsirang_Bhutan.jpg"
     ],
@@ -82591,7 +82582,6 @@ const raw: Gen[] = [
     "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Uppsala.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Uppsala.jpg/500px-Uppsala.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Charta_%C3%B6fwer_Upsala_stad_no_II.jpg/1280px-Charta_%C3%B6fwer_Upsala_stad_no_II.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Utsikt_av_Uppsala_med_domkyrka%2C_Elias_Martin._Malm%C3%B6_museum.JPG/1280px-Utsikt_av_Uppsala_med_domkyrka%2C_Elias_Martin._Malm%C3%B6_museum.JPG",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Uppsala_by_Sentinel-2%2C_2020-06-10.jpg/1280px-Uppsala_by_Sentinel-2%2C_2020-06-10.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Linneanum_orangery%2C_Botaniska_Tr%C3%A4dg%C3%A5rden%2C_Uppsala.jpg/1280px-Linneanum_orangery%2C_Botaniska_Tr%C3%A4dg%C3%A5rden%2C_Uppsala.jpg"
@@ -83854,7 +83844,7 @@ const raw: Gen[] = [
       "paris",
       "rome"
     ],
-    "realPhoto": null,
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Vatikanische_Gaerten_Museen_Rom.jpg/1280px-Vatikanische_Gaerten_Museen_Rom.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Vatikanische_Gaerten_Museen_Rom.jpg/1280px-Vatikanische_Gaerten_Museen_Rom.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Obelisk_of_St._Peter.jpg/1280px-Obelisk_of_St._Peter.jpg",
@@ -87347,7 +87337,7 @@ const raw: Gen[] = [
       "sahara",
       "desertCamp"
     ],
-    "realPhoto": null,
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_old_castle_in_Zanzibar.JPG/1280px-The_old_castle_in_Zanzibar.JPG",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_old_castle_in_Zanzibar.JPG/1280px-The_old_castle_in_Zanzibar.JPG",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/ZanzibarOmaniRuler.jpg/1280px-ZanzibarOmaniRuler.jpg",
@@ -87603,7 +87593,7 @@ const raw: Gen[] = [
       "greeceSea",
       "alps"
     ],
-    "realPhoto": null,
+    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Panorama_Zenice.jpg/1280px-Panorama_Zenice.jpg",
     "realGallery": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Panorama_Zenice.jpg/1280px-Panorama_Zenice.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Vranduk%2C_pristup_ke_hradu.jpg/500px-Vranduk%2C_pristup_ke_hradu.jpg",

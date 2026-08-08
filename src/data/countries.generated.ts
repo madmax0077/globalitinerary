@@ -369,7 +369,6 @@ const raw: Gen[] = [
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/The_Mill_Yard_-_Ten_Views_in_the_Island_of_Antigua_%281823%29%2C_plate_V_-_BL.jpg/1280px-The_Mill_Yard_-_Ten_Views_in_the_Island_of_Antigua_%281823%29%2C_plate_V_-_BL.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/1953_Antigua_stamps.jpg/1280px-1953_Antigua_stamps.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Barbuda_in_2025-E_08.jpg/1280px-Barbuda_in_2025-E_08.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Antigua-_Animal_Yoga_at_T.N._Kirnon_%287216055656%29.jpg/1280px-Antigua-_Animal_Yoga_at_T.N._Kirnon_%287216055656%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Parliament_of_Antigua_and_Barbuda.JPG/1280px-Parliament_of_Antigua_and_Barbuda.JPG"
@@ -1140,7 +1139,6 @@ const raw: Gen[] = [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Belize_City_Montage.jpeg/1280px-Belize_City_Montage.jpeg",
       "https://upload.wikimedia.org/wikipedia/commons/f/f9/National_Assembly_Building%2C_Belize.png",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/St._George%27s_Cay_Day_Official_Holiday.jpg/500px-St._George%27s_Cay_Day_Official_Holiday.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/British_Honduras_1962_Hurricane_Hattie_stamp.jpg/500px-British_Honduras_1962_Hurricane_Hattie_stamp.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Belize_Barrier_Reef_Aerial_Looking_North.jpg/330px-Belize_Barrier_Reef_Aerial_Looking_North.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Great_Blue_Hole.jpg/500px-Great_Blue_Hole.jpg"
     ],
@@ -2538,7 +2536,6 @@ const raw: Gen[] = [
       "https://upload.wikimedia.org/wikipedia/commons/d/d6/Alajuela%2C_Costa_Rica_-_Night_Skyline.png",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Stone_spheres_of_Costa_Rica._Museo_Nacional.jpg/1280px-Stone_spheres_of_Costa_Rica._Museo_Nacional.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Iglesia_Inmaculada_Concepcion_Ujarras.jpg/1280px-Iglesia_Inmaculada_Concepcion_Ujarras.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/First_postal_stamp_CR_4_Reales_1863.jpg/500px-First_postal_stamp_CR_4_Reales_1863.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Scarlet_Macaw.jpg/500px-Scarlet_Macaw.jpg"
     ],
     "overview": "Costa Rica is a Central America nation in Americas, with San José as its capital and home to around 4,999,441 people. The currency is the Costa Rican colón (CRC). The main language is Spanish. From its landscapes and cities to its cuisine and traditions, Costa Rica offers travelers a distinctive slice of the world to explore.",
@@ -2982,7 +2979,6 @@ const raw: Gen[] = [
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/d/d2/Roseau_Dominica.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Agostino_Brunias_-_Linen_Market%2C_Dominica_-_Google_Art_Project.jpg/1280px-Agostino_Brunias_-_Linen_Market%2C_Dominica_-_Google_Art_Project.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Dominica_stamps.jpg/1280px-Dominica_stamps.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/President_Ronald_Reagan_Meets_with_Prime_Minister_Eugenia_Charles_of_Dominica_on_Events_in_Grenada_George_Shultz_and_Robert_Mcfarlane_Also_Visible_-_DPLA_-_b2115fa33fa49a111b0a71dd2acfb384.jpg/1280px-thumbnail.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Morning_after_Hurricane_Maria_%2837372721465%29.jpg/1280px-Morning_after_Hurricane_Maria_%2837372721465%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lesser_Antilles_250m.jpg/500px-Lesser_Antilles_250m.jpg"
@@ -4448,7 +4444,6 @@ const raw: Gen[] = [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bissau-Stroossenzeen--w.jpg/1280px-Bissau-Stroossenzeen--w.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/LG%26CD_-_Guine_Barro_Jagudis_11.jpg/500px-LG%26CD_-_Guine_Barro_Jagudis_11.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Portugal_Colonial_War_1970.jpg/330px-Portugal_Colonial_War_1970.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Hastear_da_bandeira_da_Guin%C3%A9_Bissau_ap%C3%B3s_o_arrear_da_de_Portugal.jpg/1280px-Hastear_da_bandeira_da_Guin%C3%A9_Bissau_ap%C3%B3s_o_arrear_da_de_Portugal.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Pal%C3%A1cio_Presidencial_em_Bissau_%282%29.jpg/1280px-Pal%C3%A1cio_Presidencial_em_Bissau_%282%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fernanda_Nossa%2C_Guinea-Bissau%2C_photo_3.jpg/1280px-Fernanda_Nossa%2C_Guinea-Bissau%2C_photo_3.jpg"
     ],
@@ -5665,8 +5660,7 @@ const raw: Gen[] = [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/FMIB_53006_Gilbert_or_Kingsmill_Islands.jpeg/330px-FMIB_53006_Gilbert_or_Kingsmill_Islands.jpeg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Makin_Islander.jpg/500px-Makin_Islander.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Declaration_of_a_protectorate_on_Abemama_by_Captain_Davis%2C_27th_May_1892.JPG/500px-Declaration_of_a_protectorate_on_Abemama_by_Captain_Davis%2C_27th_May_1892.JPG",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Boeing_314_Clipper_in_cruise.jpg/500px-Boeing_314_Clipper_in_cruise.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Stamp_Gilbert_Ellice_Islands_1939_3p.jpg/500px-Stamp_Gilbert_Ellice_Islands_1939_3p.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Boeing_314_Clipper_in_cruise.jpg/500px-Boeing_314_Clipper_in_cruise.jpg"
     ],
     "overview": "Kiribati is a Micronesia nation in Oceania, with South Tarawa as its capital and home to around 115,847 people. The currency is the Australian dollar (AUD). The main languages are English, Gilbertese. From its landscapes and cities to its cuisine and traditions, Kiribati offers travelers a distinctive slice of the world to explore.",
     "history": "Kiribati has a rich history shaped by its position in Oceania and the cultures of Micronesia, leaving a legacy visible in its landmarks, cities and traditions today.",
@@ -6815,7 +6809,6 @@ const raw: Gen[] = [
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Eneko_Islet_02.JPG/1280px-Eneko_Islet_02.JPG",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sailing_Canoe_brailed_on_starboard_tack%2C_Jaliut_Lagoon%2C_Marshall_Islands_%281899-1900%29.jpg/1280px-Sailing_Canoe_brailed_on_starboard_tack%2C_Jaliut_Lagoon%2C_Marshall_Islands_%281899-1900%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Stick_chart-BHM_1920.530.0032-P8260228.JPG/1280px-Stick_chart-BHM_1920.530.0032-P8260228.JPG",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Reception_of_the_Manila_Galleon_by_the_Chamorro_in_the_Ladrones_Islands%2C_ca._1590.jpg/500px-Reception_of_the_Manila_Galleon_by_the_Chamorro_in_the_Ladrones_Islands%2C_ca._1590.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/German_colonial_album_1880s_img26.jpg/500px-German_colonial_album_1880s_img26.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/German_colonial_album_1880s_img12.jpg/500px-German_colonial_album_1880s_img12.jpg"
@@ -9746,8 +9739,6 @@ const raw: Gen[] = [
     ],
     "realImages": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gama_armada_of_1502_%28Livro_de_Lisuarte_de_Abreu%29.jpg/500px-Gama_armada_of_1502_%28Livro_de_Lisuarte_de_Abreu%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Seychelles_1953_coronation_stamp.JPG/330px-Seychelles_1953_coronation_stamp.JPG",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Queen_Elizabeth_Seychelles_stamp_1977.jpg/330px-Queen_Elizabeth_Seychelles_stamp_1977.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Victoria_Seychelles_1900s.jpg/500px-Victoria_Seychelles_1900s.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/James_Michel_in_meeting.jpg/1280px-James_Michel_in_meeting.jpg"
     ],
@@ -11489,7 +11480,6 @@ const raw: Gen[] = [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tuvalu_costume.jpg/330px-Tuvalu_costume.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/8/80/Nukufetauman1831.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/H-C-Fassett-Ellice-Is-1900.jpg/500px-H-C-Fassett-Ellice-Is-1900.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/1939_%26_1956_stamps_of_the_Gilbert_and_Ellice_Islands.jpg/1280px-1939_%26_1956_stamps_of_the_Gilbert_and_Ellice_Islands.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tuvalu_Funafuti_atoll_beach.jpg/1280px-Tuvalu_Funafuti_atoll_beach.jpg"
     ],
     "overview": "Tuvalu is a Polynesia nation in Oceania, with Funafuti as its capital and home to around 11,508 people. The currency is the Australian dollar (AUD). The main languages are English, Tuvaluan. From its landscapes and cities to its cuisine and traditions, Tuvalu offers travelers a distinctive slice of the world to explore.",

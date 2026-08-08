@@ -34,6 +34,17 @@ export async function generateMetadata({
       `${country.name} tourist visa documents`,
       `${country.name} visa on arrival`,
       `${country.name} e-visa`,
+      `${country.name} travel visa`,
+      `visa requirements for ${country.name}`,
+      // Common search aliases
+      ...(country.slug === "netherlands"
+        ? [
+            "netherland visa requirements",
+            "netherlands visit visa requirements",
+            "visa requirements holland",
+            "what visa do you need for netherlands",
+          ]
+        : []),
     ],
   });
 }

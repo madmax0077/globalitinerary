@@ -3,6 +3,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { isScenic } from "./lib/bad-image.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.join(__dirname, "..");
@@ -44,10 +45,6 @@ function hash(str) {
   }
   return Math.abs(h);
 }
-
-// Non-scenic imagery (flags, coats of arms, locator maps, vector icons).
-const BAD_IMAGE = /flag[_ ]?of|\.svg|locator|orthographic|coat[_ ]?of[_ ]?arms|\bemblem|insignia|location_map|seal_of/i;
-const isScenic = (u) => typeof u === "string" && u.length > 0 && !BAD_IMAGE.test(u);
 
 // Continent lookup by cca2 (mirrors generate-countries.mjs).
 function continentOf(region, subregion) {

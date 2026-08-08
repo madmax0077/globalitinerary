@@ -43,6 +43,7 @@ import {
   touristDestinationJsonLd,
   JsonLd,
 } from "@/lib/seo";
+import { enrichCityFaqs } from "@/lib/destination-seo";
 
 function haversine(a: { lat: number; lng: number }, b: { lat: number; lng: number }) {
   const R = 6371;
@@ -70,8 +71,8 @@ export async function generateMetadata({
   const city = getCity(slug);
   if (!city) return {};
   return buildMetadata({
-    title: `Things to Do in ${city.name} — Travel Guide & Itinerary`,
-    description: `The best things to do in ${city.name}: top attractions, a day-by-day itinerary, where to stay, best time to visit, local food and free things to do.`,
+    title: `${city.name}, ${city.countryName} Travel Guide — Things to Do & Itinerary`,
+    description: `Things to do in ${city.name}, ${city.countryName}: top attractions, itinerary ideas, where to stay, best time to visit, local food and travel tips.`,
     path: `/cities/${city.slug}`,
     image: city.heroImage,
     keywords: [
@@ -82,6 +83,7 @@ export async function generateMetadata({
       `where to stay in ${city.name}`,
       `free things to do in ${city.name}`,
       `visit ${city.name}`,
+      `${city.name} ${city.countryName}`,
     ],
   });
 }
@@ -148,23 +150,26 @@ export default async function CityPage({
     { icon: Plane, label: "Airport", value: city.airport },
     { icon: TramFront, label: "Getting around", value: city.transport },
   ].filter((f) => f.value);
+  const faqs = enrichCityFaqs(city);
 
   return (
     <>
       <JsonLd
         data={[
           breadcrumbJsonLd([
-            { name: "Cities", url: "/cities" },
+            { name: "Home", url: "/" },
+            { name: "Countries", url: "/countries" },
+            { name: city.countryName, url: `/countries/${city.countrySlug}` },
             { name: city.name, url: `/cities/${city.slug}` },
           ]),
           touristDestinationJsonLd({
-            name: city.name,
+            name: `${city.name}, ${city.countryName}`,
             description: city.overview,
             image: city.heroImage,
             lat: city.coordinates.lat,
             lng: city.coordinates.lng,
           }),
-          faqJsonLd(city.faqs),
+          faqJsonLd(faqs),
         ]}
       />
 
@@ -173,7 +178,7 @@ export default async function CityPage({
         <div className="absolute inset-0 -z-10">
           <Image
             src={city.heroImage}
-            alt={city.name}
+            alt={`Things to do in ${city.name}, ${city.countryName}`}
             fill
             priority
             sizes="100vw"
@@ -185,7 +190,7 @@ export default async function CityPage({
           <Breadcrumbs
             onDark
             items={[
-              { name: "Cities", href: "/cities" },
+              { name: city.countryName, href: `/countries/${city.countrySlug}` },
               { name: city.name, href: `/cities/${city.slug}` },
             ]}
           />
@@ -193,13 +198,15 @@ export default async function CityPage({
             <div className="max-w-2xl">
               <Link href={`/countries/${city.countrySlug}`}>
                 <Badge variant="glass" className="text-white">
-                  {country?.flag} {city.countryName}
+                  {country?.flag} {city.countryName} travel guide
                 </Badge>
               </Link>
               <h1 className="mt-4 font-display text-5xl font-extrabold tracking-tight sm:text-6xl">
-                {city.name}
+                {city.name} Travel Guide
               </h1>
-              <p className="mt-3 max-w-xl text-lg text-white/85">{city.tagline}</p>
+              <p className="mt-3 max-w-xl text-lg text-white/85">
+                Things to do in {city.name} — {city.tagline}
+              </p>
             </div>
             <ShareButtons title={`${city.name} Travel Guide`} onDark />
           </div>
@@ -210,7 +217,7 @@ export default async function CityPage({
         <div className="flex flex-col gap-14">
           <Reveal>
             <h2 className="font-display text-3xl font-bold tracking-tight">
-              About {city.name}
+              Why visit {city.name}
             </h2>
             <p className="mt-4 text-lg leading-relaxed text-muted-foreground">
               {city.overview}
@@ -286,7 +293,10 @@ export default async function CityPage({
           {/* Itinerary */}
           {city.itinerary.length > 0 && (
             <div>
-              <SectionHeading eyebrow="Plan your trip" title="Suggested itinerary" />
+              <SectionHeading
+                eyebrow="Plan your trip"
+                title={`${city.name} itinerary (${city.itinerary.length} days)`}
+              />
               <div className="mt-8">
                 <ItineraryPlanner days={city.itinerary} />
               </div>
@@ -407,11 +417,14 @@ export default async function CityPage({
           </div>
 
           {/* FAQ */}
-          {city.faqs.length > 0 && (
+          {faqs.length > 0 && (
             <div>
-              <SectionHeading eyebrow="Good to know" title="Frequently asked questions" />
+              <SectionHeading
+                eyebrow="Good to know"
+                title={`${city.name} travel FAQs`}
+              />
               <div className="mt-8">
-                <FaqSection faqs={city.faqs} />
+                <FaqSection faqs={faqs} />
               </div>
             </div>
           )}

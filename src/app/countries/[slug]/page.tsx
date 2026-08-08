@@ -46,6 +46,7 @@ import {
   touristDestinationJsonLd,
   JsonLd,
 } from "@/lib/seo";
+import { enrichCountryFaqs } from "@/lib/destination-seo";
 import { formatNumber } from "@/lib/utils";
 import { currencySymbol } from "@/lib/currency";
 import type { City } from "@/lib/types";
@@ -100,18 +101,22 @@ export async function generateMetadata({
   const { slug } = await params;
   const country = getCountry(slug);
   if (!country) return {};
+  const name = country.name;
   return buildMetadata({
-    title: `${country.name} Travel Guide — Things to Do & Best Time to Visit`,
-    description: `Plan your trip to ${country.name}: top things to do, the best time to visit, sample itineraries, where to stay, visa & entry rules, budget and local travel tips.`,
+    title: `${name} Travel Guide — Visit ${name} & Plan Your Trip`,
+    description: `Visit ${name}: travel guide with best time to visit, top cities, sample itineraries, budget tips, safety advice and visa rules for travel to ${name}.`,
     path: `/countries/${country.slug}`,
     image: country.heroImage,
     keywords: [
-      `${country.name} travel guide`,
-      `things to do in ${country.name}`,
-      `best time to visit ${country.name}`,
-      `${country.name} itinerary`,
-      `${country.name} travel tips`,
-      `visit ${country.name}`,
+      `${name} travel guide`,
+      `visit ${name}`,
+      `travel to ${name}`,
+      `${name} travel`,
+      `things to do in ${name}`,
+      `best time to visit ${name}`,
+      `${name} itinerary`,
+      `${name} travel tips`,
+      `plan a trip to ${name}`,
       ...country.tags,
     ],
   });
@@ -162,12 +167,14 @@ export default async function CountryPage({
     { icon: Shield, label: "Safety", value: country.safety },
     { icon: Wallet, label: "Budget / day", value: country.budgetPerDay },
   ];
+  const faqs = enrichCountryFaqs(country);
 
   return (
     <>
       <JsonLd
         data={[
           breadcrumbJsonLd([
+            { name: "Home", url: "/" },
             { name: "Countries", url: "/countries" },
             { name: country.name, url: `/countries/${country.slug}` },
           ]),
@@ -178,7 +185,7 @@ export default async function CountryPage({
             lat: country.coordinates.lat,
             lng: country.coordinates.lng,
           }),
-          faqJsonLd(country.faqs),
+          faqJsonLd(faqs),
         ]}
       />
 
@@ -187,7 +194,7 @@ export default async function CountryPage({
         <div className="absolute inset-0 -z-10">
           <Image
             src={country.heroImage}
-            alt={country.name}
+            alt={`Visit ${country.name} — travel guide`}
             fill
             priority
             sizes="100vw"
@@ -212,9 +219,13 @@ export default async function CountryPage({
                 </Badge>
               </div>
               <h1 className="mt-4 font-display text-5xl font-extrabold tracking-tight sm:text-6xl">
-                {country.name}
+                {country.name} Travel Guide
               </h1>
-              <p className="mt-3 max-w-xl text-lg text-white/85">{country.tagline}</p>
+              <p className="mt-3 max-w-xl text-lg text-white/85">
+                {country.tagline?.toLowerCase().startsWith("discover the wonders")
+                  ? `Visit ${country.name} — plan your trip with this practical travel guide`
+                  : country.tagline}
+              </p>
             </div>
             <ShareButtons title={`${country.name} Travel Guide`} onDark />
           </div>
@@ -225,9 +236,22 @@ export default async function CountryPage({
       <div className="container-lux grid gap-12 py-16 lg:grid-cols-[1fr_340px]">
         <div className="flex flex-col gap-14">
           <Reveal>
-            <h2 className="font-display text-3xl font-bold tracking-tight">Overview</h2>
+            <h2 className="font-display text-3xl font-bold tracking-tight">
+              Why visit {country.name}
+            </h2>
             <p className="mt-4 text-lg leading-relaxed text-muted-foreground">
               {country.overview}
+            </p>
+            <p className="mt-3 text-base leading-relaxed text-muted-foreground">
+              This {country.name} travel guide covers the best time to visit, top cities, sample
+              routes, budget ranges and how to travel to {country.name} — including{" "}
+              <Link
+                href={`/countries/${country.slug}/visa`}
+                className="font-medium text-primary underline-offset-4 hover:underline"
+              >
+                visa requirements
+              </Link>
+              .
             </p>
           </Reveal>
 
@@ -374,18 +398,24 @@ export default async function CountryPage({
 
           {/* Budget planner */}
           <div>
-            <SectionHeading eyebrow="Plan your trip" title="Estimate your budget" />
+            <SectionHeading
+              eyebrow="Plan your trip"
+              title={`Travel cost for ${country.name}`}
+            />
             <div className="mt-8">
               <BudgetCalculator />
             </div>
           </div>
 
           {/* FAQ */}
-          {country.faqs.length > 0 && (
+          {faqs.length > 0 && (
             <div>
-              <SectionHeading eyebrow="Good to know" title="Frequently asked questions" />
+              <SectionHeading
+                eyebrow="Good to know"
+                title={`${country.name} travel FAQs`}
+              />
               <div className="mt-8">
-                <FaqSection faqs={country.faqs} />
+                <FaqSection faqs={faqs} />
               </div>
             </div>
           )}

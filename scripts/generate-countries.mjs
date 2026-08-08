@@ -3,6 +3,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { isScenic } from "./lib/bad-image.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.join(__dirname, "..");
@@ -63,11 +64,6 @@ function hash(str) {
   }
   return Math.abs(h);
 }
-
-// Non-scenic imagery (flags, coats of arms, locator maps, vector icons) that
-// should never appear as a hero or in a travel gallery.
-const BAD_IMAGE = /flag[_ ]?of|\.svg|locator|orthographic|coat[_ ]?of[_ ]?arms|\bemblem|insignia|location_map|seal_of/i;
-const isScenic = (u) => typeof u === "string" && u.length > 0 && !BAD_IMAGE.test(u);
 
 // Scenic photo pools per continent (keys from src/lib/images.ts PHOTOS).
 const pools = {

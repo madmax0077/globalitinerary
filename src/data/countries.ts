@@ -584,6 +584,140 @@ const countryPatches: Partial<Record<string, Partial<Country>>> = {
   canada: {
     topCitySlugs: ["toronto", "montreal", "vancouver", "calgary", "ottawa"],
   },
+
+  // --- GSC priority destinations (high impressions, weak position) ---
+  namibia: {
+    tagline: "Desert dunes, wildlife and Atlantic coast road trips",
+    overview:
+      "Visit Namibia for some of Africa's most dramatic landscapes — Sossusvlei's red dunes, Etosha wildlife, Skeleton Coast fog and Swakopmund's adventure scene. This Namibia travel guide helps you plan travel to Namibia with realistic routes from Windhoek, best seasons and safari-friendly budgets.",
+    bestTime: "May–October dry season for wildlife and cooler desert nights; July–September peak for Etosha",
+    weather: "Arid to semi-arid — hot days, cool nights; sparse rainfall mainly November–March",
+    transportation: "Self-drive is the classic way to travel Namibia; domestic flights link Windhoek, Swakopmund and safari lodges",
+    safety: "Generally safe for tourism on main routes — plan fuel stops in remote areas and avoid driving at night outside towns",
+    budgetPerDay: "$80–220",
+    topCitySlugs: ["windhoek", "swakopmund", "walvis-bay"],
+    tags: ["Africa", "Safari", "Desert", "Road trip", "Wildlife"],
+  },
+  romania: {
+    tagline: "Carpathian castles, Saxon towns and lively Bucharest",
+    overview:
+      "Romania travel blends mountain scenery, medieval towns like Brașov and Sighișoara, Black Sea beaches and Bucharest's cafe culture. Use this Romania travel guide to visit Romania with a clear itinerary — Transylvania loop, Bucharest base and seasonal tips for hiking or Christmas markets.",
+    bestTime: "May–June and September–October for mild weather; December for festive markets",
+    weather: "Continental — warm summers, cold snowy winters in the mountains",
+    transportation: "Trains and buses link major cities; hire a car for Transylvania villages and mountain roads",
+    safety: "Generally safe for tourists in cities and resorts — use normal city precautions with valuables",
+    budgetPerDay: "$50–140",
+    topCitySlugs: ["bucharest", "iasi", "constanta"],
+    tags: ["Europe", "Castles", "Mountains", "Culture", "Budget"],
+  },
+  moldova: {
+    tagline: "Wine cellars, Chisinau cafés and quiet countryside",
+    overview:
+      "Travel to Moldova for underground wine cities, Orthodox monasteries and a compact capital that is easy to explore on foot. This Moldova travel guide covers visiting Moldova safely, when to go for wine harvests and how to combine Chisinau with day trips.",
+    bestTime: "May–June and September–October for wine country and mild weather",
+    weather: "Temperate continental — warm summers, cold winters",
+    transportation: "Marshrutkas and taxis cover Chisinau; hire a car or join tours for Orheiul Vechi and wine cellars",
+    safety: "Mainstream tourist areas are generally calm — check current advice for the Transnistria region before any side trip",
+    budgetPerDay: "$40–110",
+    topCitySlugs: ["chisinau", "balti", "tiraspol"],
+    tags: ["Europe", "Wine", "Culture", "Off the beaten path"],
+  },
+  serbia: {
+    tagline: "Belgrade nightlife, fortress towns and Danube scenery",
+    overview:
+      "A Serbia travel guide for visitors who want Belgrade energy, Novi Sad festivals and historic fortress towns along the Danube. Plan visiting Serbia with this overview of seasons, budgets and easy city-to-city routes.",
+    bestTime: "May–June and September–October; July for EXIT Festival in Novi Sad",
+    weather: "Continental — hot summers, cold winters",
+    transportation: "Buses are reliable between cities; Belgrade has trams, buses and affordable taxis/apps",
+    safety: "Generally safe for travellers in major cities — use normal nightlife precautions",
+    budgetPerDay: "$45–130",
+    topCitySlugs: ["belgrade", "novi-sad", "nis"],
+    tags: ["Europe", "Cities", "Nightlife", "Culture"],
+  },
+  haiti: {
+    tagline: "Caribbean mountains, Citadelle history and Creole culture",
+    overview:
+      "Visit Haiti for Citadelle Laferrière, Cap-Haïtien heritage and Caribbean coastline — with careful trip planning. This Haiti travel guide outlines best seasons, practical tips and why many travellers combine Haiti with the Dominican Republic.",
+    bestTime: "November–March for drier weather; avoid peak hurricane months when possible",
+    weather: "Tropical — hot and humid year-round with a wetter season roughly April–October",
+    transportation: "Domestic flights and private drivers are common; road conditions vary widely",
+    safety: "Security conditions can change quickly — check official travel advisories and use trusted local operators",
+    budgetPerDay: "$70–180",
+    topCitySlugs: ["port-au-prince", "petionville", "saint-marc"],
+    tags: ["Caribbean", "History", "Culture", "Beaches"],
+  },
+  bangladesh: {
+    tagline: "River deltas, tea hills and vibrant Dhaka",
+    overview:
+      "Bangladesh travel rewards curious travellers with Sundarbans wildlife, Sylhet tea gardens and dense urban energy in Dhaka. This Bangladesh travel guide covers best time to visit, regional highlights and practical tips for travelling in Bangladesh.",
+    bestTime: "November–March for cooler, drier weather and easier road travel",
+    weather: "Tropical monsoon — hot humid summers; heavy rains roughly June–October",
+    transportation: "Domestic flights, trains and launches connect major regions; traffic in Dhaka is intense",
+    safety: "Exercise normal urban precautions; monitor weather and flood advisories in monsoon season",
+    budgetPerDay: "$35–100",
+    topCitySlugs: ["dhaka", "chattogram", "khulna", "rajshahi"],
+    tags: ["Asia", "Rivers", "Culture", "Wildlife"],
+  },
+  bahrain: {
+    tagline: "Gulf island culture, pearling history and Manama nights",
+    overview:
+      "Visit Bahrain for Manama's skyline, Bahrain Fort, desert drives and weekend energy from the Gulf region. This Bahrain travel guide helps with best months, what to see and how to plan a short trip.",
+    bestTime: "November–March for cooler evenings; summers are extremely hot",
+    weather: "Desert climate — mild winters, very hot humid summers",
+    transportation: "Taxis and ride apps are easy in Manama; the island is compact for day trips",
+    safety: "Generally safe for tourists — dress modestly outside nightlife areas and respect local customs",
+    budgetPerDay: "$90–220",
+    topCitySlugs: ["manama"],
+    tags: ["Middle East", "Gulf", "City break", "Culture"],
+  },
+  netherlands: {
+    tagline: "Canals, cycling cities and easy Schengen travel",
+    overview:
+      "Travel to the Netherlands for Amsterdam canals, Rotterdam design, Utrecht's compact centre and tulip season day trips. This Netherlands travel guide covers when to visit, city bases and Schengen visa / entry basics for your trip.",
+    bestTime: "April–May for tulips; May–June and September for milder crowds",
+    weather: "Maritime — mild, changeable and often breezy; pack layers and rain protection",
+    transportation: "Trains are excellent between cities; cycling is everyday transport in town centres",
+    safety: "Very safe for tourists — watch for bike lanes and pickpockets in busy stations",
+    budgetPerDay: "$100–250",
+    topCitySlugs: ["amsterdam", "rotterdam", "the-hague", "utrecht"],
+    tags: ["Europe", "Cities", "Cycling", "Museums"],
+  },
+  spain: {
+    tagline: "Cities, coast and food-first road trips",
+    overview:
+      "Spain travel spans Madrid and Barcelona, Andalusian cities, Basque food and Mediterranean beaches. Use this Spain travel guide to plan travelling around Spain with seasonal tips and multi-city routes.",
+    bestTime: "April–June and September–October; July–August is peak on the coast",
+    weather: "Varied — Atlantic north is greener and cooler; Mediterranean south is hotter and drier",
+    transportation: "High-speed AVE trains link major cities; regional buses and rental cars fill the gaps",
+    safety: "Generally safe — be alert for pickpockets in tourist hubs and on metro lines",
+    budgetPerDay: "$70–200",
+    topCitySlugs: ["madrid", "barcelona", "seville", "valencia", "bilbao"],
+    tags: ["Europe", "Food", "Beaches", "Cities", "Culture"],
+  },
+  armenia: {
+    tagline: "Ancient monasteries, Yerevan cafés and mountain roads",
+    overview:
+      "Visiting Armenia means monastery day trips, Lake Sevan weekends and a walkable capital full of cafés. This Armenia travel guide covers best seasons and how to travel in Armenia without overcomplicating logistics.",
+    bestTime: "May–June and September–October for hiking and mild weather",
+    weather: "Continental highland — hot summers, cold snowy winters",
+    transportation: "Yerevan marshrutkas and taxis; hire a driver or join tours for remote monasteries",
+    safety: "Generally welcoming for tourists — check current advice near border areas",
+    budgetPerDay: "$40–120",
+    topCitySlugs: ["yerevan"],
+    tags: ["Europe", "Asia", "Mountains", "History", "Culture"],
+  },
+  uganda: {
+    tagline: "Gorillas, the Nile and Kampala as a launchpad",
+    overview:
+      "Travel to Uganda for gorilla trekking, Murchison Falls and a growing coffee-and-city scene in Kampala. This Uganda travel guide outlines seasons, safari logistics and practical tips for an Uganda visit.",
+    bestTime: "June–September and December–February drier windows for parks and trekking",
+    weather: "Equatorial highland — pleasant temperatures; rainfall varies by region",
+    transportation: "Domestic flights and private safari vehicles are common between parks",
+    safety: "Follow park rules and current advisories; use registered gorilla-permit operators",
+    budgetPerDay: "$80–250",
+    topCitySlugs: ["kampala", "mbarara"],
+    tags: ["Africa", "Safari", "Wildlife", "Adventure"],
+  },
 };
 
 /**

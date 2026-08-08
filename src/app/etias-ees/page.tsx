@@ -11,12 +11,16 @@ export const metadata = buildMetadata({
   keywords: [
     "ETIAS",
     "EES",
+    "ees etias difference",
+    "ETIAS vs EES",
     "do I need ETIAS",
     "ETIAS 2026",
     "EU entry exit system",
     "ETIAS application",
     "Schengen travel authorisation",
     "ETIAS cost",
+    "e.e.s. cost",
+    "EES cost",
   ],
 });
 
