@@ -2098,4 +2098,84 @@ export const cityPicks: Record<string, CityPicks> = {
       { name: "Sala Boutique Hotel", area: "Hulhumalé", priceLevel: 2, note: "Popular Hulhumalé base with beach access" },
     ],
   },
+  bath: {
+    restaurants: [
+      { name: "Sally Lunn's Historic Eating House", cuisine: "British", priceLevel: 2, note: "Famous Bath bun institution" },
+      { name: "The Pump Room Restaurant", cuisine: "British", priceLevel: 3, note: "Elegant dining beside Roman Baths" }
+    ],
+    stays: [
+      { name: "The Gainsborough Bath Spa", area: "City centre", priceLevel: 4, note: "Luxury spa hotel using natural thermal waters" },
+      { name: "The Royal Crescent Hotel & Spa", area: "Royal Crescent", priceLevel: 4, note: "Iconic Georgian crescent landmark" }
+    ],
+  },
+  liverpool: {
+    restaurants: [
+      { name: "The Cavern Club", cuisine: "Live music venue", priceLevel: 2, note: "Beatles-era live music institution" },
+      { name: "Maggie May's", cuisine: "British café", priceLevel: 1, note: "Bold Street breakfast classic" }
+    ],
+    stays: [
+      { name: "Hard Day's Night Hotel", area: "City centre", priceLevel: 3, note: "Beatles-themed hotel near Mathew Street" },
+      { name: "Adelphi Hotel", area: "Waterfront", priceLevel: 3, note: "Historic Liverpool landmark hotel" }
+    ],
+  },
+  oxford: {
+    restaurants: [
+      { name: "The Eagle and Child", cuisine: "Pub", priceLevel: 2, note: "Historic pub linked to the Inklings writers" },
+      { name: "The Covered Market food stalls", cuisine: "Market", priceLevel: 1, note: "Victorian market institution" }
+    ],
+    stays: [
+      { name: "Macdonald Randolph Hotel", area: "City centre", priceLevel: 4, note: "Landmark Oxford hotel on Beaumont Street" },
+      { name: "Old Parsonage Hotel", area: "City centre", priceLevel: 4, note: "Boutique Oxford classic" }
+    ],
+  },
+  koeln: {
+    restaurants: [
+      { name: "Früh am Dom", cuisine: "Cologne brewery", priceLevel: 2, note: "Historic Kölsch brewery beside the cathedral" },
+      { name: "Himmel un Ääd", cuisine: "Rhenish", priceLevel: 2, note: "Traditional Cologne cooking institution" }
+    ],
+    stays: [
+      { name: "Excelsior Hotel Ernst", area: "Cathedral", priceLevel: 4, note: "Grand hotel facing Cologne Cathedral since 1863" },
+      { name: "Hyatt Regency Cologne", area: "Rhine", priceLevel: 4, note: "Waterfront luxury with cathedral views" }
+    ],
+  },
+  hiroshima: {
+    restaurants: [
+      { name: "Okonomimura", cuisine: "Okonomiyaki", priceLevel: 1, note: "Multi-floor okonomiyaki institution" },
+      { name: "Miyajima grilled oysters stalls", cuisine: "Seafood", priceLevel: 1, note: "Island classic on Miyajima" }
+    ],
+    stays: [
+      { name: "Hotel Granvia Hiroshima", area: "Station", priceLevel: 3, note: "Reliable tourist favourite above JR Hiroshima" },
+      { name: "Rihga Royal Hotel Hiroshima", area: "City centre", priceLevel: 3, note: "Long-standing business and leisure hotel" }
+    ],
+  },
+  kolkata: {
+    restaurants: [
+      { name: "Flurys", cuisine: "Bakery / Continental", priceLevel: 2, note: "Park Street institution since 1927" },
+      { name: "Peter Cat", cuisine: "Continental / Indian", priceLevel: 2, note: "Park Street classic for chelo kebab" }
+    ],
+    stays: [
+      { name: "The Oberoi Grand", area: "Chowringhee", priceLevel: 4, note: "Colonial-era luxury landmark on Park Street" },
+      { name: "Taj Bengal", area: "Alipore", priceLevel: 4, note: "Established five-star Kolkata favourite" }
+    ],
+  },
+  amritsar: {
+    restaurants: [
+      { name: "Kesar Da Dhaba", cuisine: "Punjabi", priceLevel: 1, note: "Legendary vegetarian dhaba since 1916" },
+      { name: "Bharawan Da Dhaba", cuisine: "Punjabi", priceLevel: 1, note: "Famous Amritsari kulcha institution" }
+    ],
+    stays: [
+      { name: "Taj Swarna Amritsar", area: "Ranjit Avenue", priceLevel: 4, note: "Top-rated luxury hotel in Amritsar" },
+      { name: "Hyatt Amritsar", area: "GT Road", priceLevel: 4, note: "Modern five-star tourist favourite" }
+    ],
+  },
+  "puerto-vallarta": {
+    restaurants: [
+      { name: "Café des Artistes", cuisine: "Mexican / French", priceLevel: 4, note: "Long-running fine-dining institution" },
+      { name: "El Arrayán", cuisine: "Mexican", priceLevel: 2, note: "Beloved traditional Mexican in Zona Romántica" }
+    ],
+    stays: [
+      { name: "Hotel Mousai", area: "Puerto Vallarta", priceLevel: 4, note: "Award-winning adults-only resort" },
+      { name: "Casa Kimberly", area: "Gringo Gulch", priceLevel: 4, note: "Elizabeth Taylor and Richard Burton's former home" }
+    ],
+  }
 };
