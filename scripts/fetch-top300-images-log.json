@@ -1,0 +1,512 @@
+{
+  "updated": 101,
+  "failed": 0,
+  "need": 101,
+  "log": [
+    {
+      "slug": "singapore",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/6/6b/010253_00001_Singapore%2C_Victoria_Theatre.jpg"
+    },
+    {
+      "slug": "zanzibar",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/0/0a/12_Jan._2004%2C_festivities_at_40th_anniversary_of_the_Zanzibar_Revolution._President_Karume_enters_Amani_Stadium_in_ceremonial_Hummer.JPG"
+    },
+    {
+      "slug": "bilbao",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Abandoibarra3.jpg"
+    },
+    {
+      "slug": "crete",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/f/f1/20110927_St._Peter_of_Dominicans_Heraklion_Crete_Greece_Panorama.jpg"
+    },
+    {
+      "slug": "baku",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/7/76/1541-Battle_in_the_war_between_Shah_Isma%27il_and_the_King_of_Shirvan-Shahnama-i-Isma%27il.jpg"
+    },
+    {
+      "slug": "san-juan",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/9/9d/2013_Old_San_Juan_01.JPG"
+    },
+    {
+      "slug": "verona",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Verona_cityscape_sunny.jpg"
+    },
+    {
+      "slug": "pisa",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Italy_-_Pisa.jpg"
+    },
+    {
+      "slug": "siena",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/2/20/Siena_Cattedrale_nuova_Vista_su_la_Piazza_del_Campo_2.jpg"
+    },
+    {
+      "slug": "bologna",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Torri_di_Bologna%2C_Bologna.jpg"
+    },
+    {
+      "slug": "sorrento",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/f/f7/View_of_Sorrento.jpg"
+    },
+    {
+      "slug": "catania",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Catania_vista_dall%27alto_e_il_vulcano_Etna_a_sovrastarla.jpg"
+    },
+    {
+      "slug": "bath",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Roman_Baths_in_Bath_Spa%2C_England_-_July_2006.jpg/1280px-Roman_Baths_in_Bath_Spa%2C_England_-_July_2006.jpg"
+    },
+    {
+      "slug": "liverpool",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/7/78/Pier_Head%2C_Liverpool_-_geograph.org.uk_-_3059094.jpg"
+    },
+    {
+      "slug": "oxford",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Museum_of_Oxford_%285652685943%29.jpg"
+    },
+    {
+      "slug": "cambridge",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/0/08/Cambridge_-_Kings_College_vue_des_backs.jpg"
+    },
+    {
+      "slug": "brighton",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/e/e1/At_Brighton%2C_East_Sussex_2024_019.jpg"
+    },
+    {
+      "slug": "york",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/1/14/York_Minster_%282797690%29.jpg"
+    },
+    {
+      "slug": "bristol",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/1/19/Clifton_Suspension_Bridge_and_the_Observatory_in_Bristol%2C_England.jpg"
+    },
+    {
+      "slug": "dresden",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/5/51/HFBK_Dresden_2024_Luftbild_Toni_Klemm_2500px.jpg"
+    },
+    {
+      "slug": "heidelberg",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg"
+    },
+    {
+      "slug": "nuremberg",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/b/bf/N%C3%BCrnberger_Burg_im_Herbst_2013.jpg"
+    },
+    {
+      "slug": "zermatt",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/a/a0/1_zermatt_evening_2022.jpg"
+    },
+    {
+      "slug": "annecy",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Pr%C3%A9fecture_de_Haute-Savoie_%28Annecy%29_%28cropped%29.JPG"
+    },
+    {
+      "slug": "strasbourg",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Strasbourg_Cathedral.jpg"
+    },
+    {
+      "slug": "montpellier",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Montpellier_Place_de_la_Com%C3%A9die.jpg"
+    },
+    {
+      "slug": "faro",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/6/61/2021_12_12_arne_mueseler_08_17_0576.jpg"
+    },
+    {
+      "slug": "toledo",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/6/65/Toledo_%2837737041515%29.jpg"
+    },
+    {
+      "slug": "san-sebastian",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/f/f4/San_Sebasti%C3%A1n_-_Ayuntamiento_10.jpg"
+    },
+    {
+      "slug": "salamanca",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/6/6b/68436-Salamanca_%2849093713952%29_edited.jpg"
+    },
+    {
+      "slug": "corfu",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/4/44/Pontikonisi.jpg"
+    },
+    {
+      "slug": "zakynthos",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Zakintos_-_panorama.jpg"
+    },
+    {
+      "slug": "cesky-krumlov",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/6/63/Blick_auf_das_Stadtzentrum_von_Krumau_%282026%29.jpg"
+    },
+    {
+      "slug": "hallstatt",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Hallstatt_-_Zentrum_.JPG"
+    },
+    {
+      "slug": "tromso",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Troms%C3%B8_sentrum_%285835702754%29.jpg"
+    },
+    {
+      "slug": "nara",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/2/2f/T%C5%8Ddai-ji_Kon-d%C5%8D.jpg"
+    },
+    {
+      "slug": "hiroshima",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Atomic_Bomb_Dome_and_Motoyaso_River%2C_Hiroshima%2C_Northwest_view_20190417_1.jpg"
+    },
+    {
+      "slug": "kanazawa",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/2/23/%E6%9C%9B%E6%B9%96%E5%8F%B0%EF%BC%92.jpg"
+    },
+    {
+      "slug": "naha",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Kokusai_Dori_in_early_1950s.JPG"
+    },
+    {
+      "slug": "takayama",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Takayama-01.jpg/1280px-Takayama-01.jpg"
+    },
+    {
+      "slug": "gyeongju",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Asl13.jpg"
+    },
+    {
+      "slug": "jeonju",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Jeonju_Hanok_Maeul_01.jpg"
+    },
+    {
+      "slug": "guilin",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Xiangshan_Scenic_Area_89468-Guilin_%2831130832628%29.jpg"
+    },
+    {
+      "slug": "suzhou",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/8/8f/%E4%B8%9C%E6%96%B9%E4%B9%8B%E9%97%A81.jpg"
+    },
+    {
+      "slug": "lijiang",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/1/12/Black_Dragon_%E9%BB%91%E9%BE%99%E6%BD%AD_%285496141333%29.jpg"
+    },
+    {
+      "slug": "kunming",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/e/e2/%E4%BA%94%E5%8D%8E%E5%8C%BA%E4%B8%8E%E7%9B%98%E9%BE%99%E5%8C%BA%E5%A4%A9%E9%99%85%E7%BA%BF_-_%E8%88%AA%E6%8B%8D_-_2025-05-16_03.jpg"
+    },
+    {
+      "slug": "chongqing",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/6/67/Chongqing_Nightscape.jpg"
+    },
+    {
+      "slug": "nanjing",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/8/82/Nanjing_CBD_from_City_Wall.jpg"
+    },
+    {
+      "slug": "wuhan",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/f/f0/%E6%AD%A6%E6%B1%89%E9%BB%84%E9%B9%A4%E6%A5%BC%E4%BF%AF%E7%9E%B0.jpg"
+    },
+    {
+      "slug": "xiamen",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/4/47/20121031_Xiamen_University_01.jpg"
+    },
+    {
+      "slug": "yogyakarta",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Jogja_-_Tugu_Monument_%282025%29_-_img_06.jpg"
+    },
+    {
+      "slug": "labuan-bajo",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/4/45/Labuan_Bajo%2C_a_port_in_West_Flores%2C_Nusa_Tenggara%2C_Indonesia%3B_January_2020.jpg"
+    },
+    {
+      "slug": "nha-trang",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Nha_Trang%2C_Kh%C3%A1nh_H%C3%B2a.png"
+    },
+    {
+      "slug": "da-lat",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Xuan_Huong_Lake_11.jpg"
+    },
+    {
+      "slug": "phu-quoc",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bai-sao-phu-quoc-tuonglamphotos.jpg"
+    },
+    {
+      "slug": "chiang-rai",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/7/75/%E0%B8%AB%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%AC%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2_Chiang_Rai_Clock_Tower.jpg"
+    },
+    {
+      "slug": "ayutthaya",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ayutthaya_Thailand_2004.jpg/1280px-Ayutthaya_Thailand_2004.jpg"
+    },
+    {
+      "slug": "hua-hin",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/5/53/Hua_Hin_hotels.jpg"
+    },
+    {
+      "slug": "kota-kinabalu",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Panoramic_view_of_Kota_Kinabalu_City.jpg"
+    },
+    {
+      "slug": "melaka",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Melaka_View.jpg"
+    },
+    {
+      "slug": "el-nido",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Limestone_island_in_Bacuit_Bay%2C_El_Nido%2C_Palawan%2C_Philippines.jpg/1280px-Limestone_island_in_Bacuit_Bay%2C_El_Nido%2C_Palawan%2C_Philippines.jpg"
+    },
+    {
+      "slug": "siargao",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Siargao_Island%2C_PH%2C_Sentinel-2.jpg"
+    },
+    {
+      "slug": "taichung",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Taichung_skyline.png"
+    },
+    {
+      "slug": "kaohsiung",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Cityscape_of_Kaohsiung%2C_Taiwan_202303.jpg"
+    },
+    {
+      "slug": "hualien",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/5/5e/108-10-hualien01.jpg"
+    },
+    {
+      "slug": "kolkata",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Kolkata_maidan.jpg"
+    },
+    {
+      "slug": "kochi",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Kochi_Skyline.jpg"
+    },
+    {
+      "slug": "amritsar",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Golden_Temple_Amritsar_Gurudwara_%28cropped%29.jpg"
+    },
+    {
+      "slug": "leh",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Leh_City_seen_from_Shanti_Stupa.JPG"
+    },
+    {
+      "slug": "rishikesh",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/7/74/Trayambakeshwar_Temple_VK.jpg"
+    },
+    {
+      "slug": "jodhpur",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/9/99/Mehrangarh_Fort_sanhita.jpg"
+    },
+    {
+      "slug": "jaisalmer",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/4/46/Jaisalmer_Fort.jpg"
+    },
+    {
+      "slug": "mysore",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Chamundeshwari_Temple_Mysore.jpg"
+    },
+    {
+      "slug": "pondicherry",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Pondicherry-Rock_beach_aerial_view.jpg"
+    },
+    {
+      "slug": "shimla",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Landscape_of_Shimla_%2C_Himachal_Pradesh.jpg"
+    },
+    {
+      "slug": "manali",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/0/03/Manali_City.jpg"
+    },
+    {
+      "slug": "darjeeling",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/9/96/DarjeelingTrainFruitshop_%282%29.jpg"
+    },
+    {
+      "slug": "alleppey",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Alappuzha_Boat_Beauty_W.jpg"
+    },
+    {
+      "slug": "bagan",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bagan%2C_Burma.jpg"
+    },
+    {
+      "slug": "hurghada",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Hurghada_Hotels_R03.jpg"
+    },
+    {
+      "slug": "essaouira",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/6/65/%22Ein_bemerkenswertes_historisches_Denkmal%22._16.jpg"
+    },
+    {
+      "slug": "chefchaouen",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/3/34/Chefchaouen%2C_Morocco_-_panoramio_%2817%29.jpg"
+    },
+    {
+      "slug": "livingstone",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Livingstone.Zambia.jpg"
+    },
+    {
+      "slug": "portland",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Portland_Oregon_Aerial%2C_June_2025.jpg"
+    },
+    {
+      "slug": "phoenix",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Downtown_Phoenix_Aerial_Looking_Northeast.jpg"
+    },
+    {
+      "slug": "dallas",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Dallas_Texas_skyline_from_Reunion_Tower_September_2025_%28cropped%29.png"
+    },
+    {
+      "slug": "san-antonio",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/6/6f/San_Antonio_Botanical_Garden_Overlook_View.jpg"
+    },
+    {
+      "slug": "key-west",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/3/37/Southernmost_point_buoy%2C_NE_view.jpg"
+    },
+    {
+      "slug": "sedona",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Cathedral_Rock_-_Sedona_AZ-1.jpg"
+    },
+    {
+      "slug": "salt-lake-city",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/1/15/SLC_Skyline_2024.jpg"
+    },
+    {
+      "slug": "minneapolis",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/3/31/Minneapolis_Skyline_looking_south.jpg"
+    },
+    {
+      "slug": "puerto-vallarta",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/6/66/Balboa_s%C3%BCdsee.jpg"
+    },
+    {
+      "slug": "cabo-san-lucas",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/9/9e/CaboSanLucas_ISS012-E-7151_annotated.jpg"
+    },
+    {
+      "slug": "merida",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/3/34/Anthropologisches_Museum%2C_Merida.JPG"
+    },
+    {
+      "slug": "san-miguel-de-allende",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/d/d3/A_bullfighter_in_the_arena%2C_San_Miguel_de_Allende%2C_Mexico.jpg"
+    },
+    {
+      "slug": "guanajuato",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/9/90/Vista_a%C3%A9rea_de_Guanajuato.jpg"
+    },
+    {
+      "slug": "antigua",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Antigua_-_Arco.jpg"
+    },
+    {
+      "slug": "mendoza",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/5/53/Downtown_Mendoza.jpg"
+    },
+    {
+      "slug": "bariloche",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/1/16/Catedral_desde_el_Lago_Nahuel_Huapi_-_panoramio.jpg"
+    },
+    {
+      "slug": "florianopolis",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/0/09/Morro_da_Cruz%2C_Florian%C3%B3polis_-_SC%2C_Brazil_-_panoramio_%28cropped%29.jpg"
+    },
+    {
+      "slug": "oranjestad",
+      "ok": true,
+      "hero": "https://upload.wikimedia.org/wikipedia/en/f/f8/Sightings_in_Oranjestad.jpg"
+    }
+  ]
+}
