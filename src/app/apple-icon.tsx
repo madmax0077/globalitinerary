@@ -3,48 +3,10 @@ import { ImageResponse } from "next/og";
 export const size = { width: 180, height: 180 };
 export const contentType = "image/png";
 
-const ICON_SVG = `<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
-  <defs>
-    <linearGradient id="giBg" x1="6" y1="4" x2="58" y2="60" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#1E3A8A"/>
-      <stop offset="0.45" stop-color="#2563EB"/>
-      <stop offset="1" stop-color="#38BDF8"/>
-    </linearGradient>
-    <linearGradient id="giRoute" x1="12" y1="44" x2="50" y2="18" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FFFFFF"/>
-      <stop offset="1" stop-color="#FEF3C7"/>
-    </linearGradient>
-  </defs>
-  <rect width="64" height="64" rx="16" fill="url(#giBg)"/>
-  <circle cx="32" cy="33" r="18" fill="#FFFFFF" fill-opacity="0.14"/>
-  <circle cx="32" cy="33" r="18" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1.5"/>
-  <ellipse cx="32" cy="33" rx="18" ry="7" stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1.25" fill="none"/>
-  <path d="M32 15v36" stroke="#FFFFFF" stroke-opacity="0.22" stroke-width="1.25"/>
-  <path d="M14 42 C20 28, 28 48, 34 30 S43 20, 46.5 21.5" stroke="url(#giRoute)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
-  <circle cx="14.5" cy="41.5" r="3.4" fill="#FFFFFF"/>
-  <circle cx="14.5" cy="41.5" r="1.5" fill="#2563EB"/>
-  <circle cx="33.5" cy="30.2" r="3.6" fill="#FFFFFF"/>
-  <circle cx="33.5" cy="30.2" r="1.6" fill="#0EA5E9"/>
-  <g transform="translate(43.2 21.8) rotate(-42)">
-    <g transform="translate(0.6 0.7)" opacity="0.22">
-      <path fill="#0F172A" d="M-6.8 1.05 L-6.8-1.05 L5.6-1.45 L9.4 0 L5.6 1.45 Z"/>
-      <path fill="#0F172A" d="M-0.4-1.15 L-1.7-7.6 L0.9-7.6 L2.6-1.2 Z"/>
-      <path fill="#0F172A" d="M-0.4 1.15 L-1.7 7.6 L0.9 7.6 L2.6 1.2 Z"/>
-    </g>
-    <path fill="#FFFFFF" stroke="#1E3A8A" stroke-width="0.55" stroke-linejoin="round" d="M-6.8 1.05 L-6.8-1.05 L5.6-1.45 L9.4 0 L5.6 1.45 Z"/>
-    <path fill="#FFFFFF" stroke="#1E3A8A" stroke-width="0.55" stroke-linejoin="round" d="M-0.4-1.15 L-1.7-7.6 L0.9-7.6 L2.6-1.2 Z"/>
-    <path fill="#FFFFFF" stroke="#1E3A8A" stroke-width="0.55" stroke-linejoin="round" d="M-0.4 1.15 L-1.7 7.6 L0.9 7.6 L2.6 1.2 Z"/>
-    <path fill="#FFFFFF" stroke="#1E3A8A" stroke-width="0.5" stroke-linejoin="round" d="M-6.8-0.75 L-9.5-3.9 L-7.9-3.9 L-6-0.75 Z"/>
-    <path fill="#FFFFFF" stroke="#1E3A8A" stroke-width="0.5" stroke-linejoin="round" d="M-6.8 0.75 L-9.5 3.9 L-7.9 3.9 L-6 0.75 Z"/>
-    <circle cx="6.2" cy="0" r="1.15" fill="#F97316"/>
-  </g>
-  <path fill="#F97316" d="M50 12.2c-3.7 0-6.7 2.95-6.7 6.6 0 4.55 5.1 10.1 6.3 11.35a0.55 0.55 0 0 0 .8 0C51.6 28.9 56.7 23.35 56.7 18.8c0-3.65-3-6.6-6.7-6.6Z"/>
-  <circle cx="50" cy="18.6" r="2.15" fill="#FFFFFF"/>
-</svg>`;
+const ICON_B64 = "PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0IiBmaWxsPSJub25lIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZ2lCZyIgeDE9IjYiIHkxPSI0IiB4Mj0iNTgiIHkyPSI2MCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjMUUzQThBIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMC40NSIgc3RvcC1jb2xvcj0iIzI1NjNFQiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMzOEJERjgiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdpUm91dGUiIHgxPSIxMiIgeTE9IjQ0IiB4Mj0iNTAiIHkyPSIxOCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjRkZGRkZGIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI0ZFRjNDNyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CgogIDxyZWN0IHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgcng9IjE2IiBmaWxsPSJ1cmwoI2dpQmcpIi8+CgogIDxjaXJjbGUgY3g9IjMzIiBjeT0iMzYiIHI9IjE3IiBmaWxsPSIjRkZGRkZGIiBmaWxsLW9wYWNpdHk9IjAuMTQiLz4KICA8Y2lyY2xlIGN4PSIzMyIgY3k9IjM2IiByPSIxNyIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utb3BhY2l0eT0iMC4zNSIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KICA8ZWxsaXBzZSBjeD0iMzMiIGN5PSIzNiIgcng9IjE3IiByeT0iNi42IiBzdHJva2U9IiNGRkZGRkYiIHN0cm9rZS1vcGFjaXR5PSIwLjI4IiBzdHJva2Utd2lkdGg9IjEuMjUiIGZpbGw9Im5vbmUiLz4KICA8cGF0aCBkPSJNMzMgMTl2MzQiIHN0cm9rZT0iI0ZGRkZGRiIgc3Ryb2tlLW9wYWNpdHk9IjAuMjIiIHN0cm9rZS13aWR0aD0iMS4yNSIvPgoKICA8cGF0aAogICAgZD0iTTE1IDQ2IEMyMSAzMiwgMjkgNTIsIDM1IDM0IFM0NSAyMiwgNDkgMjQiCiAgICBzdHJva2U9InVybCgjZ2lSb3V0ZSkiCiAgICBzdHJva2Utd2lkdGg9IjMuMSIKICAgIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIKICAgIHN0cm9rZS1saW5lam9pbj0icm91bmQiCiAgICBmaWxsPSJub25lIgogIC8+CgogIDxjaXJjbGUgY3g9IjE1LjUiIGN5PSI0NS41IiByPSIzLjIiIGZpbGw9IiNGRkZGRkYiLz4KICA8Y2lyY2xlIGN4PSIxNS41IiBjeT0iNDUuNSIgcj0iMS40IiBmaWxsPSIjMjU2M0VCIi8+CiAgPGNpcmNsZSBjeD0iMzUiIGN5PSIzNCIgcj0iMy4zIiBmaWxsPSIjRkZGRkZGIi8+CiAgPGNpcmNsZSBjeD0iMzUiIGN5PSIzNCIgcj0iMS40NSIgZmlsbD0iIzBFQTVFOSIvPgoKICA8IS0tIE1vZGVybiBqZXQgc2lkZS12aWV3IOKAlCBhYnNvbHV0ZSB0b3AtbGVmdCBjb3JuZXIgLS0+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNyA3KSI+CiAgICA8IS0tIHZlcnRpY2FsIHN0YWJpbGl6ZXIgLS0+CiAgICA8cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMi4yIDUuMiBMNS40IDUgTDQuNiAwLjQgTDIuNiAwLjkgWiIvPgogICAgPCEtLSBob3Jpem9udGFsIHN0YWJpbGl6ZXIgLS0+CiAgICA8cGF0aCBmaWxsPSIjRkVGM0M3IiBkPSJNMS42IDYuNCBMNS4yIDYuMSBMNS42IDguNiBMMi4yIDguOCBaIi8+CiAgICA8IS0tIGZ1c2VsYWdlIChzbGVlayBhaXJsaW5lciBwcm9maWxlKSAtLT4KICAgIDxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9IgogICAgICBNMi44IDYuOQogICAgICBDMi44IDUuNSAzLjkgNC42IDUuNCA0LjYKICAgICAgTDE4LjIgNC4xNQogICAgICBDMjEuOCA0IDIzLjggNC43IDI1LjEgNgogICAgICBDMjUuNyA2LjU1IDI1LjU1IDcuNCAyNC43IDcuNgogICAgICBMMTguNiA4LjU1CiAgICAgIEw1LjYgOC43NQogICAgICBDNCA4Ljc1IDIuOCA3LjkgMi44IDYuOVoiLz4KICAgIDwhLS0gY29ja3BpdCAtLT4KICAgIDxwYXRoIGZpbGw9IiMzOEJERjgiIGQ9Ik0xOS40IDQuNTUgQzIxLjIgNC40NSAyMi44IDQuOSAyMy42IDUuODUgQzIzIDYuMzUgMjEuOCA2LjU1IDIwLjQgNi40IEwxOS4zIDUuMzUgWiIvPgogICAgPCEtLSB3aW5kb3dzIC0tPgogICAgPHJlY3QgeD0iMTAuMiIgeT0iNS4zNSIgd2lkdGg9IjEuMTUiIGhlaWdodD0iMS4wNSIgcng9IjAuMzUiIGZpbGw9IiM3REQzRkMiLz4KICAgIDxyZWN0IHg9IjEyLjEiIHk9IjUuMyIgd2lkdGg9IjEuMTUiIGhlaWdodD0iMS4wNSIgcng9IjAuMzUiIGZpbGw9IiM3REQzRkMiLz4KICAgIDxyZWN0IHg9IjE0IiB5PSI1LjI1IiB3aWR0aD0iMS4xNSIgaGVpZ2h0PSIxLjA1IiByeD0iMC4zNSIgZmlsbD0iIzdERDNGQyIvPgogICAgPHJlY3QgeD0iMTUuOSIgeT0iNS4yIiB3aWR0aD0iMS4xNSIgaGVpZ2h0PSIxLjA1IiByeD0iMC4zNSIgZmlsbD0iIzdERDNGQyIvPgogICAgPCEtLSBzd2VwdCBtYWluIHdpbmcgLS0+CiAgICA8cGF0aCBmaWxsPSIjRkVGM0M3IiBkPSJNOS4yIDcuMiBMMTUuNCA2Ljg1IEwxOC44IDEzLjYgTDE0LjIgMTMuODUgWiIvPgogICAgPCEtLSBlbmdpbmUgcG9kIC0tPgogICAgPHJlY3QgeD0iMTIuMiIgeT0iOC41NSIgd2lkdGg9IjQuNiIgaGVpZ2h0PSIxLjciIHJ4PSIwLjg1IiBmaWxsPSIjRTJFOEYwIi8+CiAgICA8cmVjdCB4PSIxNi4yIiB5PSI4LjciIHdpZHRoPSIxLjE1IiBoZWlnaHQ9IjEuNCIgcng9IjAuNDUiIGZpbGw9IiM5NEEzQjgiLz4KICAgIDwhLS0gbm9zZSB0aXAgLS0+CiAgICA8Y2lyY2xlIGN4PSIyNC41NSIgY3k9IjYuNTUiIHI9IjAuOTUiIGZpbGw9IiNGOTczMTYiLz4KICA8L2c+CgogIDxwYXRoCiAgICBmaWxsPSIjRjk3MzE2IgogICAgZD0iTTUxIDE1LjJjLTMuNyAwLTYuNyAyLjk1LTYuNyA2LjYgMCA0LjU1IDUuMSAxMC4xIDYuMyAxMS4zNWEwLjU1IDAuNTUgMCAwIDAgLjggMEM1Mi42IDMxLjkgNTcuNyAyNi4zNSA1Ny43IDIxLjhjMC0zLjY1LTMtNi42LTYuNy02LjZaIgogIC8+CiAgPGNpcmNsZSBjeD0iNTEiIGN5PSIyMS42IiByPSIyLjE1IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=";
 
 export default function AppleIcon() {
-  const src = `data:image/svg+xml;base64,${Buffer.from(ICON_SVG).toString("base64")}`;
-
+  const src = `data:image/svg+xml;base64,${ICON_B64}`;
   return new ImageResponse(
     (
       // eslint-disable-next-line @next/next/no-img-element

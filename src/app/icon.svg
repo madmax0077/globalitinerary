@@ -11,60 +11,59 @@
     </linearGradient>
   </defs>
 
-  <!-- Brand tile -->
   <rect width="64" height="64" rx="16" fill="url(#giBg)"/>
 
-  <!-- Soft globe -->
-  <circle cx="32" cy="33" r="18" fill="#FFFFFF" fill-opacity="0.14"/>
-  <circle cx="32" cy="33" r="18" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1.5"/>
-  <ellipse cx="32" cy="33" rx="18" ry="7" stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1.25" fill="none"/>
-  <path d="M32 15v36" stroke="#FFFFFF" stroke-opacity="0.22" stroke-width="1.25"/>
+  <circle cx="34" cy="37" r="16.5" fill="#FFFFFF" fill-opacity="0.14"/>
+  <circle cx="34" cy="37" r="16.5" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1.5"/>
+  <ellipse cx="34" cy="37" rx="16.5" ry="6.4" stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1.25" fill="none"/>
+  <path d="M34 20.5v33" stroke="#FFFFFF" stroke-opacity="0.22" stroke-width="1.25"/>
 
-  <!-- Itinerary route -->
   <path
-    d="M14 42 C20 28, 28 48, 34 30 S43 20, 46.5 21.5"
+    d="M16 47 C22 33, 30 53, 36 35 S46 23, 50 25"
     stroke="url(#giRoute)"
-    stroke-width="3.2"
+    stroke-width="3.1"
     stroke-linecap="round"
     stroke-linejoin="round"
     fill="none"
   />
 
-  <!-- Stops -->
-  <circle cx="14.5" cy="41.5" r="3.4" fill="#FFFFFF"/>
-  <circle cx="14.5" cy="41.5" r="1.5" fill="#2563EB"/>
-  <circle cx="33.5" cy="30.2" r="3.6" fill="#FFFFFF"/>
-  <circle cx="33.5" cy="30.2" r="1.6" fill="#0EA5E9"/>
+  <circle cx="16.5" cy="46.5" r="3.1" fill="#FFFFFF"/>
+  <circle cx="16.5" cy="46.5" r="1.35" fill="#2563EB"/>
+  <circle cx="36.2" cy="35" r="3.2" fill="#FFFFFF"/>
+  <circle cx="36.2" cy="35" r="1.4" fill="#0EA5E9"/>
 
-  <!-- Airplane (top-down) flying toward destination pin -->
-  <g transform="translate(43.2 21.8) rotate(-42)">
-    <!-- soft shadow -->
-    <g transform="translate(0.6 0.7)" opacity="0.22">
-      <path fill="#0F172A" d="M-6.8 1.05 L-6.8-1.05 L5.6-1.45 L9.4 0 L5.6 1.45 Z"/>
-      <path fill="#0F172A" d="M-0.4-1.15 L-1.7-7.6 L0.9-7.6 L2.6-1.2 Z"/>
-      <path fill="#0F172A" d="M-0.4 1.15 L-1.7 7.6 L0.9 7.6 L2.6 1.2 Z"/>
-    </g>
-    <!-- body -->
-    <path fill="#FFFFFF" stroke="#1E3A8A" stroke-width="0.55" stroke-linejoin="round"
-      d="M-6.8 1.05 L-6.8-1.05 L5.6-1.45 L9.4 0 L5.6 1.45 Z"/>
-    <!-- wings -->
-    <path fill="#FFFFFF" stroke="#1E3A8A" stroke-width="0.55" stroke-linejoin="round"
-      d="M-0.4-1.15 L-1.7-7.6 L0.9-7.6 L2.6-1.2 Z"/>
-    <path fill="#FFFFFF" stroke="#1E3A8A" stroke-width="0.55" stroke-linejoin="round"
-      d="M-0.4 1.15 L-1.7 7.6 L0.9 7.6 L2.6 1.2 Z"/>
-    <!-- tail -->
-    <path fill="#FFFFFF" stroke="#1E3A8A" stroke-width="0.5" stroke-linejoin="round"
-      d="M-6.8-0.75 L-9.5-3.9 L-7.9-3.9 L-6-0.75 Z"/>
-    <path fill="#FFFFFF" stroke="#1E3A8A" stroke-width="0.5" stroke-linejoin="round"
-      d="M-6.8 0.75 L-9.5 3.9 L-7.9 3.9 L-6 0.75 Z"/>
-    <!-- cockpit accent -->
-    <circle cx="6.2" cy="0" r="1.15" fill="#F97316"/>
+  <!-- Flat modern jet — pure side elevation, top-left corner -->
+  <g transform="translate(5.5 5.5)">
+    <!-- tail fin -->
+    <path fill="#FFFFFF" d="M1.8 5.8 L5.6 5.55 L4.85 0.15 L2.35 0.7 Z"/>
+    <!-- rear stab -->
+    <path fill="#FEF3C7" d="M1.4 6.7 L5.3 6.45 L5.55 8.15 L1.85 8.3 Z"/>
+    <!-- long slim fuselage -->
+    <path fill="#FFFFFF" d="
+      M2.4 7.05
+      C2.4 5.85 3.35 5.1 4.7 5.1
+      L20.4 4.55
+      C23.6 4.4 25.5 5.05 26.7 6.15
+      C27.25 6.65 27.1 7.4 26.3 7.55
+      L20.8 8.35
+      L5 8.55
+      C3.4 8.55 2.4 7.85 2.4 7.05Z"/>
+    <!-- cockpit glass band -->
+    <path fill="#38BDF8" opacity="0.95" d="M21.2 5 C22.9 4.9 24.4 5.25 25.2 6.05 C24.55 6.5 23.2 6.7 21.8 6.55 L21.1 5.55 Z"/>
+    <!-- window strip -->
+    <rect x="8.2" y="5.7" width="11.2" height="0.95" rx="0.45" fill="#7DD3FC"/>
+    <!-- thin swept wing (side elevation) -->
+    <path fill="#FEF3C7" d="M9.6 7.55 L16.8 7.25 L19.4 12.9 L15.6 13.05 Z"/>
+    <!-- engine pod under wing -->
+    <rect x="12.6" y="8.85" width="5.2" height="1.55" rx="0.75" fill="#F1F5F9"/>
+    <circle cx="17.5" cy="9.6" r="0.55" fill="#94A3B8"/>
+    <!-- orange nose -->
+    <ellipse cx="26.2" cy="6.7" rx="1.15" ry="0.95" fill="#F97316"/>
   </g>
 
-  <!-- Destination pin -->
   <path
     fill="#F97316"
-    d="M50 12.2c-3.7 0-6.7 2.95-6.7 6.6 0 4.55 5.1 10.1 6.3 11.35a0.55 0.55 0 0 0 .8 0C51.6 28.9 56.7 23.35 56.7 18.8c0-3.65-3-6.6-6.7-6.6Z"
+    d="M52 16.5c-3.7 0-6.7 2.95-6.7 6.6 0 4.55 5.1 10.1 6.3 11.35a0.55 0.55 0 0 0 .8 0C53.6 33.2 58.7 27.65 58.7 23.1c0-3.65-3-6.6-6.7-6.6Z"
   />
-  <circle cx="50" cy="18.6" r="2.15" fill="#FFFFFF"/>
+  <circle cx="52" cy="22.9" r="2.15" fill="#FFFFFF"/>
 </svg>
