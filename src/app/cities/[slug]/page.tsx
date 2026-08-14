@@ -16,6 +16,8 @@ import {
   Lightbulb,
   Check,
   Gift,
+  Wallet,
+  MapPinned,
 } from "lucide-react";
 import { getCity, getPrerenderedCitySlugs, cities } from "@/data/cities";
 import { getAttractionsByCity } from "@/data/attractions";
@@ -300,6 +302,77 @@ export default async function CityPage({
               />
               <div className="mt-8">
                 <ItineraryPlanner days={city.itinerary} />
+              </div>
+            </div>
+          )}
+
+          {/* Trip cost */}
+          {city.tripCost && (
+            <div>
+              <SectionHeading
+                eyebrow="Budget"
+                title={`${city.name} trip cost`}
+              />
+              <div className="mt-8 grid gap-4 sm:grid-cols-3">
+                {(
+                  [
+                    { label: "Budget", value: city.tripCost.budget },
+                    { label: "Mid-range", value: city.tripCost.mid },
+                    { label: "Luxury", value: city.tripCost.luxury },
+                  ] as const
+                ).map((tier) => (
+                  <div
+                    key={tier.label}
+                    className="rounded-2xl border border-border bg-card p-5 shadow-soft"
+                  >
+                    <div className="flex items-center gap-2 text-primary">
+                      <Wallet className="size-4" />
+                      <p className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
+                        {tier.label}
+                      </p>
+                    </div>
+                    <p className="mt-2 font-display text-xl font-bold tabular-nums">
+                      {city.tripCost!.currency} {tier.value}
+                    </p>
+                    <p className="mt-1 text-xs text-muted-foreground">per person / day</p>
+                  </div>
+                ))}
+              </div>
+              <p className="mt-4 text-sm leading-relaxed text-muted-foreground">
+                {city.tripCost.note} Figures exclude international flights.
+              </p>
+            </div>
+          )}
+
+          {/* Stay by area */}
+          {city.stayAreas && city.stayAreas.length > 0 && (
+            <div>
+              <SectionHeading
+                eyebrow="Neighbourhoods"
+                title={`Where to stay in ${city.name}`}
+              />
+              <div className="mt-8 grid gap-4 sm:grid-cols-2">
+                {city.stayAreas.map((area) => (
+                  <div
+                    key={area.name}
+                    className="rounded-2xl border border-border bg-card p-5 shadow-soft"
+                  >
+                    <div className="flex items-start gap-3">
+                      <span className="grid size-9 shrink-0 place-items-center rounded-xl bg-primary/10 text-primary">
+                        <MapPinned className="size-4" />
+                      </span>
+                      <div>
+                        <h3 className="font-display text-lg font-bold">{area.name}</h3>
+                        <p className="mt-0.5 text-xs font-medium uppercase tracking-wide text-primary">
+                          Best for: {area.bestFor}
+                        </p>
+                        <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
+                          {area.note}
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                ))}
               </div>
             </div>
           )}

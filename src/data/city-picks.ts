@@ -2045,5 +2045,57 @@ export const cityPicks: Record<string, CityPicks> = {
       { name: "Four Seasons Moscow", area: "Red Square", priceLevel: 4, note: "Modern luxury steps from Red Square" },
       { name: "St. Regis Moscow Nikolskaya", area: "Kitay-Gorod", priceLevel: 4, note: "Grande dame on Nikolskaya Street" }
     ],
-  }
+  },
+  manila: {
+    restaurants: [
+      { name: "Aristocrat Restaurant", cuisine: "Filipino", priceLevel: 2, note: "Roxas Boulevard institution since 1936" },
+      { name: "Barbara's Heritage Restaurant", cuisine: "Filipino", priceLevel: 2, note: "Intramuros classic with cultural shows" },
+      { name: "Cafe Adriatico", cuisine: "Filipino cafe", priceLevel: 2, note: "Malate landmark for ensaymada and coffee" },
+      { name: "Binondo street-food walk", cuisine: "Chinese-Filipino", priceLevel: 1, note: "World's oldest Chinatown — lumpia, siopao, hopia" },
+    ],
+    stays: [
+      { name: "The Manila Hotel", area: "Rizal Park", priceLevel: 4, note: "Historic grand hotel beside Intramuros" },
+      { name: "Raffles Makati", area: "Makati", priceLevel: 4, note: "Business-district luxury with spa and butler service" },
+      { name: "Sofitel Philippine Plaza Manila", area: "CCP Complex", priceLevel: 3, note: "Manila Bay sunset views" },
+    ],
+  },
+  colombo: {
+    restaurants: [
+      { name: "Ministry of Crab", cuisine: "Seafood", priceLevel: 4, note: "Dutch Hospital precinct — Sri Lanka's famous crab house" },
+      { name: "Gallery Café", cuisine: "Sri Lankan / international", priceLevel: 2, note: "Paradise Road courtyard favourite" },
+      { name: "Nihonbashi", cuisine: "Japanese / seafood", priceLevel: 3, note: "Long-running Colombo sushi institution" },
+      { name: "Galle Face Green street carts", cuisine: "Street food", priceLevel: 1, note: "Isso wade and corn with ocean breeze" },
+    ],
+    stays: [
+      { name: "Galle Face Hotel", area: "Galle Face", priceLevel: 3, note: "Colonial grande dame on the oceanfront" },
+      { name: "Shangri-La Colombo", area: "Galle Face", priceLevel: 4, note: "Modern luxury overlooking the green" },
+      { name: "Cinnamon Grand Colombo", area: "City centre", priceLevel: 3, note: "Central tourist favourite with strong dining" },
+    ],
+  },
+  pokhara: {
+    restaurants: [
+      { name: "Moondance Restaurant", cuisine: "International / Nepali", priceLevel: 2, note: "Lakeside institution with live music evenings" },
+      { name: "Orphan's Café", cuisine: "Cafe", priceLevel: 1, note: "Long-running Lakeside backpacker favourite" },
+      { name: "Caffe Concerto", cuisine: "Italian / cafe", priceLevel: 2, note: "Phewa Lake-edge pasta and coffee stop" },
+      { name: "Lakeside dal bhat thalis", cuisine: "Nepali", priceLevel: 1, note: "Simple local kitchens along the strip" },
+    ],
+    stays: [
+      { name: "Temple Tree Resort & Spa", area: "Lakeside", priceLevel: 3, note: "Garden resort favourite steps from Phewa" },
+      { name: "Fishtail Lodge", area: "Phewa Lake", priceLevel: 3, note: "Iconic lakeside lodge with mountain views" },
+      { name: "Waterfront Pokhara", area: "Lakeside", priceLevel: 3, note: "Modern rooms facing the lake promenade" },
+    ],
+  },
+  male: {
+    restaurants: [
+      { name: "Seagull Café Corner", cuisine: "Cafe / international", priceLevel: 2, note: "Malé waterfront institution for breakfast and coffee" },
+      { name: "Malé Fish Market stalls", cuisine: "Seafood", priceLevel: 1, note: "Fresh tuna and short-eats where locals shop" },
+      { name: "Symphony by Seaside", cuisine: "International", priceLevel: 3, note: "Well-known Malé dining room near the harbour" },
+      { name: "Local Market short eats", cuisine: "Maldivian", priceLevel: 1, note: "Hedhikaa evening snacks with tea" },
+    ],
+    stays: [
+      { name: "Hotel Jen Malé by Shangri-La", area: "Malé", priceLevel: 3, note: "Reliable city base before a resort transfer" },
+      { name: "Mercure Maldives Malé Airport Hotel", area: "Hulhulé", priceLevel: 3, note: "Transit hotel next to Velana International" },
+      { name: "Sala Boutique Hotel", area: "Hulhumalé", priceLevel: 2, note: "Popular Hulhumalé base with beach access" },
+    ],
+  },
 };

@@ -23,6 +23,13 @@ export type CityEnrichment = Partial<
     | "thumbnail"
     | "gallery"
     | "featured"
+    | "thingsToDo"
+    | "itinerary"
+    | "restaurants"
+    | "stays"
+    | "hotels"
+    | "tripCost"
+    | "stayAreas"
   >
 >;
 

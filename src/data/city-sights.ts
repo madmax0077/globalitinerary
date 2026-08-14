@@ -1836,5 +1836,15 @@ export const citySights: Record<string, string[]> = {
     "Gorky Park",
     "Moscow Metro architecture tour",
     "Tretyakov Gallery"
-  ]
+  ],
+  male: [
+    "Old Friday Mosque (Hukuru Miskiy) and Islamic Centre",
+    "Sultan Park and the Rasranivige / Muliaage area",
+    "Malé Fish Market and Local Market",
+    "Artificial Beach (Thun'di Beach) promenade",
+    "National Museum of the Maldives",
+    "Tsunami Monument and Republic Square",
+    "Ferry hop to Hulhumalé for beaches and cafés",
+    "Friday Mosque courtyard and coral-stone architecture",
+  ],
 };

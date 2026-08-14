@@ -5,6 +5,7 @@ import { generatedCities } from "@/data/cities.generated";
 import { cityPicks } from "@/data/city-picks";
 import { citySights } from "@/data/city-sights";
 import { cityEnrichments } from "@/data/city-enrichments";
+import { cityGuideDepth } from "@/data/city-guide-depth";
 
 function hasWikimediaPhoto(city: City): boolean {
   const urls = [city.heroImage, city.thumbnail, ...(city.gallery || [])];
@@ -13,8 +14,11 @@ function hasWikimediaPhoto(city: City): boolean {
 
 /** Overlay richer travel copy — keep real place photos when enrichment only has stock. */
 function applyCityEnrichment(city: City): City {
-  const patch = cityEnrichments[city.slug];
-  if (!patch) return city;
+  const patch = {
+    ...(cityEnrichments[city.slug] || {}),
+    ...(cityGuideDepth[city.slug] || {}),
+  };
+  if (Object.keys(patch).length === 0) return city;
   if (hasWikimediaPhoto(city)) {
     const { heroImage: _h, thumbnail: _t, gallery: _g, ...copy } = patch;
     return { ...city, ...copy };
@@ -470,14 +474,15 @@ const curatedSlugs = new Set(curatedCities.map((c) => c.slug));
 
 // Merge hand-curated cities (which win on slug conflicts) with the generated set,
 // then overlay curated eat/stay picks (local favourites / tourist favourites).
+// picks → sights → enrichment (hand guide wins) → sanitize images
 export const cities: City[] = [
   ...curatedCities,
   ...generatedCities.filter((c) => !curatedSlugs.has(c.slug)),
 ]
-  .map(applyCityEnrichment)
-  .map((c) => sanitizeCityImages(c))
   .map(applyCityPicks)
   .map(applyCitySights)
+  .map(applyCityEnrichment)
+  .map((c) => sanitizeCityImages(c))
   .sort((a, b) => a.name.localeCompare(b.name));
 
 export function getCity(slug: string) {

@@ -53,11 +53,23 @@ export function enrichCityFaqs(city: City): FAQ[] {
     },
     {
       question: `Where should I stay in ${city.name}?`,
-      answer:
-        (city.stays && city.stays.length > 0) || city.hotels.length > 0
+      answer: city.stayAreas && city.stayAreas.length > 0
+        ? `Base yourself in ${city.stayAreas
+            .slice(0, 3)
+            .map((a) => `${a.name} (${a.bestFor})`)
+            .join(", ")}. Pick the area that matches your trip style, then book within walking distance of transit or main sights.`
+        : (city.stays && city.stays.length > 0) || city.hotels.length > 0
           ? `Popular stays in ${city.name} include ${(city.stays?.length ? city.stays.map((s) => s.name) : city.hotels).slice(0, 3).join(", ")}. Book central areas if you want to walk to major sights.`
           : `Stay near the centre of ${city.name} for easy access to attractions, or near the airport if you have a short layover.`,
     },
+    ...(city.tripCost
+      ? [
+          {
+            question: `How much does a trip to ${city.name} cost?`,
+            answer: `On the ground in ${city.name} (excluding international flights), budget travellers often spend about ${city.tripCost.budget} per person per day, mid-range about ${city.tripCost.mid}, and luxury about ${city.tripCost.luxury} (${city.tripCost.currency}). ${city.tripCost.note}`,
+          },
+        ]
+      : []),
   ];
   return mergeFaqs(city.faqs || [], defaults);
 }

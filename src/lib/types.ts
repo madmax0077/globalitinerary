@@ -65,6 +65,21 @@ export interface ItineraryDay {
   activities: string[];
 }
 
+/** Ground costs only — never includes long-haul flights. */
+export interface TripCost {
+  currency: string;
+  budget: string;
+  mid: string;
+  luxury: string;
+  note: string;
+}
+
+export interface StayArea {
+  name: string;
+  bestFor: string;
+  note: string;
+}
+
 export interface City {
   id: string;
   slug: string;
@@ -98,6 +113,8 @@ export interface City {
   attractionSlugs: string[];
   faqs: FAQ[];
   featured?: boolean;
+  tripCost?: TripCost;
+  stayAreas?: StayArea[];
 }
 
 export type AttractionCategory =
