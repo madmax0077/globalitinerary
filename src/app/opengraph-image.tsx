@@ -25,39 +25,57 @@ export default function OpengraphImage() {
         <div style={{ display: "flex", alignItems: "center", gap: 20 }}>
           <div
             style={{
-              width: 64,
-              height: 64,
+              width: 72,
+              height: 72,
               borderRadius: 20,
-              background: "rgba(255,255,255,0.18)",
+              background: "rgba(255,255,255,0.2)",
               display: "flex",
               alignItems: "center",
               justifyContent: "center",
-              position: "relative",
             }}
           >
+            {/* Pin mark */}
             <div
               style={{
-                position: "absolute",
-                width: 52,
-                height: 21,
-                border: "4px solid #fff",
-                borderRadius: 9999,
-                transform: "rotate(-30deg)",
-                opacity: 0.92,
+                width: 36,
+                height: 48,
+                display: "flex",
+                flexDirection: "column",
+                alignItems: "center",
               }}
-            />
-            <div style={{ width: 27, height: 27, borderRadius: 9999, background: "#fff" }} />
-            <div
-              style={{
-                position: "absolute",
-                top: 12,
-                right: 11,
-                width: 10,
-                height: 10,
-                borderRadius: 9999,
-                background: "#F97316",
-              }}
-            />
+            >
+              <div
+                style={{
+                  width: 36,
+                  height: 36,
+                  borderRadius: 9999,
+                  background: "#fff",
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "center",
+                }}
+              >
+                <div
+                  style={{
+                    width: 14,
+                    height: 14,
+                    borderRadius: 9999,
+                    background: "#1D4ED8",
+                    border: "3px solid #F97316",
+                  }}
+                />
+              </div>
+              <div
+                style={{
+                  width: 0,
+                  height: 0,
+                  borderLeft: "10px solid transparent",
+                  borderRight: "10px solid transparent",
+                  borderTop: "16px solid #fff",
+                  marginTop: -4,
+                }}
+              />
+            </div>
           </div>
           <div style={{ fontSize: 40, fontWeight: 800 }}>{siteConfig.name}</div>
         </div>

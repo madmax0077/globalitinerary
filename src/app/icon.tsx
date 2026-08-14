@@ -1,9 +1,10 @@
 import { ImageResponse } from "next/og";
 
-export const size = { width: 180, height: 180 };
+/** Google SERP favicon — crisp 48×48 PNG (pin mark, no nested SVG for Satori). */
+export const size = { width: 48, height: 48 };
 export const contentType = "image/png";
 
-export default function AppleIcon() {
+export default function Icon() {
   return new ImageResponse(
     (
       <div
@@ -13,7 +14,8 @@ export default function AppleIcon() {
           display: "flex",
           alignItems: "center",
           justifyContent: "center",
-          background: "linear-gradient(135deg, #1D4ED8 0%, #2563EB 50%, #38BDF8 100%)",
+          background: "linear-gradient(135deg, #1D4ED8 0%, #2563EB 55%, #38BDF8 100%)",
+          borderRadius: 12,
         }}
       >
         <div
@@ -21,12 +23,13 @@ export default function AppleIcon() {
             display: "flex",
             flexDirection: "column",
             alignItems: "center",
+            marginTop: 2,
           }}
         >
           <div
             style={{
-              width: 92,
-              height: 92,
+              width: 26,
+              height: 26,
               borderRadius: 9999,
               background: "#FFFFFF",
               display: "flex",
@@ -36,11 +39,11 @@ export default function AppleIcon() {
           >
             <div
               style={{
-                width: 42,
-                height: 42,
+                width: 12,
+                height: 12,
                 borderRadius: 9999,
                 background: "#1D4ED8",
-                border: "10px solid #F97316",
+                border: "3px solid #F97316",
               }}
             />
           </div>
@@ -48,10 +51,10 @@ export default function AppleIcon() {
             style={{
               width: 0,
               height: 0,
-              borderLeft: "28px solid transparent",
-              borderRight: "28px solid transparent",
-              borderTop: "42px solid #FFFFFF",
-              marginTop: -10,
+              borderLeft: "8px solid transparent",
+              borderRight: "8px solid transparent",
+              borderTop: "12px solid #FFFFFF",
+              marginTop: -3,
             }}
           />
         </div>

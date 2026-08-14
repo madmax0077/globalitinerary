@@ -53,8 +53,12 @@ export const metadata: Metadata = {
   },
   robots: { index: true, follow: true },
   icons: {
-    icon: [{ url: "/icon.svg", type: "image/svg+xml" }],
-    apple: [{ url: "/apple-icon", sizes: "180x180" }],
+    icon: [
+      { url: "/icon.svg", type: "image/svg+xml" },
+      { url: "/icon", type: "image/png", sizes: "48x48" },
+    ],
+    shortcut: ["/icon"],
+    apple: [{ url: "/apple-icon", sizes: "180x180", type: "image/png" }],
   },
   ...(adsenseClient
     ? { other: { "google-adsense-account": adsenseClient } }

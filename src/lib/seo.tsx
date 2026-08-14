@@ -160,7 +160,7 @@ export function articleJsonLd(a: {
     publisher: {
       "@type": "Organization",
       name: siteConfig.name,
-      logo: { "@type": "ImageObject", url: `${siteConfig.url}/icon.png` },
+      logo: { "@type": "ImageObject", url: `${siteConfig.url}/icon.svg` },
     },
     mainEntityOfPage: a.url,
   };

@@ -4,6 +4,35 @@ import Link from "next/link";
 import { cn } from "@/lib/utils";
 import { siteConfig } from "@/lib/config";
 
+/** Shared brand mark: location pin + globe core (matches favicon / apple icon). */
+function BrandMark({ className }: { className?: string }) {
+  return (
+    <svg viewBox="0 0 64 64" fill="none" className={className} aria-hidden="true">
+      <path
+        fill="currentColor"
+        d="M32 8c-9.8 0-17.8 7.8-17.8 17.4 0 11.7 13 25.4 16.6 28.9a1.7 1.7 0 0 0 2.4 0c3.6-3.5 16.6-17.2 16.6-28.9C49.8 15.8 41.8 8 32 8Z"
+      />
+      <circle cx="32" cy="24.8" r="8.4" fill="#1D4ED8" />
+      <ellipse
+        cx="32"
+        cy="24.8"
+        rx="8.4"
+        ry="3.3"
+        stroke="#7DD3FC"
+        strokeWidth="1.7"
+        fill="none"
+      />
+      <path
+        d="M32 16.4v16.8"
+        stroke="#7DD3FC"
+        strokeWidth="1.7"
+        strokeLinecap="round"
+      />
+      <circle cx="32" cy="24.8" r="2.5" fill="#F97316" />
+    </svg>
+  );
+}
+
 export function Logo({
   className,
   onDark,
@@ -21,46 +50,9 @@ export function Logo({
       )}
       aria-label={`${siteConfig.name} home`}
     >
-      <span className="logo-badge relative grid size-9 place-items-center rounded-xl bg-[linear-gradient(135deg,var(--primary),var(--sky))] transition-transform duration-300 group-hover:scale-110">
+      <span className="logo-badge relative grid size-9 place-items-center overflow-hidden rounded-xl bg-[linear-gradient(135deg,#1D4ED8_0%,var(--primary)_50%,var(--sky)_100%)] text-white shadow-sm transition-transform duration-300 group-hover:scale-110">
         <span className="logo-aura" aria-hidden="true" />
-        <span className="logo-spark logo-spark-1" aria-hidden="true" />
-        <span className="logo-spark logo-spark-2" aria-hidden="true" />
-        <span className="logo-spark logo-spark-3" aria-hidden="true" />
-        <span className="logo-spark logo-spark-4" aria-hidden="true" />
-
-        <svg
-          viewBox="0 0 24 24"
-          fill="none"
-          className="logo-mark relative z-[1] size-5 text-white"
-          aria-hidden="true"
-        >
-          <circle cx="12" cy="12" r="4.2" fill="currentColor" opacity="0.95" />
-          <ellipse
-            cx="12"
-            cy="12"
-            rx="7.5"
-            ry="3"
-            transform="rotate(-28 12 12)"
-            stroke="currentColor"
-            strokeWidth="1.25"
-            opacity="0.9"
-          />
-          <ellipse
-            cx="12"
-            cy="12"
-            rx="3"
-            ry="7.5"
-            transform="rotate(-12 12 12)"
-            stroke="currentColor"
-            strokeWidth="1"
-            opacity="0.4"
-          />
-          <path
-            className="logo-route"
-            d="M6.5 14.5c2.2-1.8 4.2.6 6.2-.4 1.8-.9 2.8-2.8 4.8-2.2"
-          />
-          <circle className="logo-pin" cx="17.8" cy="11.2" r="1.35" fill="#F97316" />
-        </svg>
+        <BrandMark className="logo-mark relative z-[1] size-[1.35rem]" />
       </span>
 
       <span
