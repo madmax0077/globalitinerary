@@ -4,17 +4,17 @@ import Link from "next/link";
 import { cn } from "@/lib/utils";
 import { siteConfig } from "@/lib/config";
 
-/** Brand mark: globe + route + side-view plane + destination pin */
+/** Brand mark: globe + route + twin-engine jet + destination pin */
 function BrandMark({ className }: { className?: string }) {
   return (
     <svg viewBox="0 0 64 64" fill="none" className={className} aria-hidden="true">
-      <circle cx="33" cy="36" r="16.5" fill="currentColor" fillOpacity="0.18" />
-      <circle cx="33" cy="36" r="16.5" stroke="currentColor" strokeOpacity="0.4" strokeWidth="1.4" />
+      <circle cx="35" cy="39" r="15" fill="currentColor" fillOpacity="0.18" />
+      <circle cx="35" cy="39" r="15" stroke="currentColor" strokeOpacity="0.4" strokeWidth="1.4" />
       <ellipse
-        cx="33"
-        cy="36"
-        rx="16.5"
-        ry="6.3"
+        cx="35"
+        cy="39"
+        rx="15"
+        ry="5.8"
         stroke="currentColor"
         strokeOpacity="0.3"
         strokeWidth="1.2"
@@ -22,35 +22,49 @@ function BrandMark({ className }: { className?: string }) {
       />
       <path
         className="logo-route"
-        d="M15.5 45.5 C21.5 32, 29 51, 35 34 S45 22.5, 48.5 24.5"
+        d="M18 48.5 C24 35, 32 54, 38 36.5 S48 25, 51.5 27"
         stroke="currentColor"
         strokeWidth="2.8"
         strokeLinecap="round"
         fill="none"
       />
-      <circle cx="15.5" cy="45" r="2.7" fill="currentColor" />
-      <circle cx="15.5" cy="45" r="1.15" fill="#1D4ED8" />
-      <circle cx="35" cy="34" r="2.8" fill="currentColor" />
-      <circle cx="35" cy="34" r="1.2" fill="#0EA5E9" />
-      <g transform="translate(5.5 5.5)">
-        <path fill="currentColor" d="M1.8 5.8 L5.6 5.55 L4.85 0.15 L2.35 0.7 Z" />
-        <path fill="#FEF3C7" d="M1.4 6.7 L5.3 6.45 L5.55 8.15 L1.85 8.3 Z" />
+      <circle cx="18.2" cy="48" r="2.6" fill="currentColor" />
+      <circle cx="18.2" cy="48" r="1.1" fill="#1D4ED8" />
+      <circle cx="38" cy="36.5" r="2.7" fill="currentColor" />
+      <circle cx="38" cy="36.5" r="1.15" fill="#0EA5E9" />
+      <g transform="translate(2.5 1.8) scale(0.92) rotate(-16)">
+        <path fill="#94A3B8" d="M11 8.2 L22 4.8 L23.6 5.9 L15.4 10.6 Z" />
         <path
-          fill="currentColor"
-          d="M2.4 7.05 C2.4 5.85 3.35 5.1 4.7 5.1 L20.4 4.55 C23.6 4.4 25.5 5.05 26.7 6.15 C27.25 6.65 27.1 7.4 26.3 7.55 L20.8 8.35 L5 8.55 C3.4 8.55 2.4 7.85 2.4 7.05Z"
+          fill="#0F274F"
+          d="M3.2 9 C3 8 3.8 7.2 5 7.15 L24 5 C26.4 4.75 28 5.35 28.6 6.35 C28.95 6.95 28.55 7.55 27.7 7.75 L23.2 8.7 L6 10.85 C4.4 11.15 3.4 10.2 3.2 9Z"
         />
-        <path fill="#38BDF8" d="M21.2 5 C22.9 4.9 24.4 5.25 25.2 6.05 C24.55 6.5 23.2 6.7 21.8 6.55 L21.1 5.55 Z" />
-        <rect x="8.2" y="5.7" width="11.2" height="0.95" rx="0.45" fill="#7DD3FC" />
-        <path fill="#FEF3C7" d="M9.6 7.55 L16.8 7.25 L19.4 12.9 L15.6 13.05 Z" />
-        <rect x="12.6" y="8.85" width="5.2" height="1.55" rx="0.75" fill="#F1F5F9" />
-        <ellipse cx="26.2" cy="6.7" rx="1.15" ry="0.95" fill="#F97316" />
+        <path
+          fill="#FFFFFF"
+          d="M3.4 7.35 C3.2 5.7 4.4 4.4 6.2 4.2 L23 2.2 C26 1.85 28 2.7 28.8 4.2 C29.2 4.95 28.8 5.7 27.8 5.9 L23.4 6.65 L6.4 8.55 C4.6 8.85 3.55 8.2 3.4 7.35Z"
+        />
+        <path fill="#0F172A" d="M24 2.85 C25.5 2.65 26.8 3.05 27.35 3.9 C26.55 4.4 25.1 4.5 23.85 4.2 Z" />
+        <g fill="#0F172A">
+          <circle cx="10.6" cy="5.55" r="0.45" />
+          <circle cx="12.5" cy="5.3" r="0.45" />
+          <circle cx="14.4" cy="5.05" r="0.45" />
+          <circle cx="16.3" cy="4.8" r="0.45" />
+          <circle cx="18.2" cy="4.55" r="0.45" />
+          <circle cx="20.1" cy="4.3" r="0.45" />
+        </g>
+        <path fill="#F8FAFC" d="M10.2 8.6 L23.5 6.2 L26.8 15 L18.6 15.8 Z" />
+        <path fill="#FFFFFF" d="M25.8 14.2 L28.6 10.8 L29.5 11.4 L27.2 15.4 Z" />
+        <ellipse cx="17.2" cy="12.4" rx="3.35" ry="2.55" fill="#F1F5F9" />
+        <ellipse cx="17.2" cy="12.4" rx="2.35" ry="1.7" fill="#0F172A" />
+        <ellipse cx="12.6" cy="10.35" rx="2.55" ry="1.9" fill="#E2E8F0" />
+        <ellipse cx="12.6" cy="10.35" rx="1.7" ry="1.2" fill="#1E293B" />
+        <path fill="#FFFFFF" d="M3.6 5.5 L7.4 4.95 L6.35-0.2 L3.7 0.55 Z" />
       </g>
       <path
         className="logo-pin"
         fill="#F97316"
-        d="M50.2 15.5c-3.2 0-5.8 2.55-5.8 5.7 0 3.95 4.4 8.75 5.45 9.85a0.5 0.5 0 0 0 .7 0c1.05-1.1 5.45-5.9 5.45-9.85 0-3.15-2.6-5.7-5.8-5.7Z"
+        d="M51.5 17.2c-3.2 0-5.8 2.55-5.8 5.7 0 3.95 4.4 8.75 5.45 9.85a0.5 0.5 0 0 0 .7 0c1.05-1.1 5.45-5.9 5.45-9.85 0-3.15-2.6-5.7-5.8-5.7Z"
       />
-      <circle cx="50.2" cy="21" r="1.85" fill="#fff" />
+      <circle cx="51.5" cy="22.7" r="1.85" fill="#fff" />
     </svg>
   );
 }
