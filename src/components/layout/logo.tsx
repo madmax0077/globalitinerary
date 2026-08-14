@@ -4,7 +4,7 @@ import Link from "next/link";
 import { cn } from "@/lib/utils";
 import { siteConfig } from "@/lib/config";
 
-/** Brand mark: globe + winding itinerary route + destination pin */
+/** Brand mark: globe + route + plane + destination pin */
 function BrandMark({ className }: { className?: string }) {
   return (
     <svg viewBox="0 0 64 64" fill="none" className={className} aria-hidden="true">
@@ -22,7 +22,7 @@ function BrandMark({ className }: { className?: string }) {
       />
       <path
         className="logo-route"
-        d="M15 42.5 C21 29, 28 48, 34 31.5 S45.5 19, 49 22.5"
+        d="M15 42.5 C21 29, 28 48, 34 31.5 S43 20.5, 46 22"
         stroke="currentColor"
         strokeWidth="2.8"
         strokeLinecap="round"
@@ -32,6 +32,44 @@ function BrandMark({ className }: { className?: string }) {
       <circle cx="15.2" cy="42.2" r="1.2" fill="#1D4ED8" />
       <circle cx="33.8" cy="31.4" r="2.9" fill="currentColor" />
       <circle cx="33.8" cy="31.4" r="1.25" fill="#0EA5E9" />
+      <g transform="translate(42.5 22.5) rotate(-42)">
+        <path
+          fill="currentColor"
+          stroke="#1E3A8A"
+          strokeWidth="0.5"
+          strokeLinejoin="round"
+          d="M-6 0.9 L-6-0.9 L4.8-1.25 L8.2 0 L4.8 1.25 Z"
+        />
+        <path
+          fill="currentColor"
+          stroke="#1E3A8A"
+          strokeWidth="0.5"
+          strokeLinejoin="round"
+          d="M-0.3-1 L-1.5-6.6 L0.8-6.6 L2.3-1 Z"
+        />
+        <path
+          fill="currentColor"
+          stroke="#1E3A8A"
+          strokeWidth="0.5"
+          strokeLinejoin="round"
+          d="M-0.3 1 L-1.5 6.6 L0.8 6.6 L2.3 1 Z"
+        />
+        <path
+          fill="currentColor"
+          stroke="#1E3A8A"
+          strokeWidth="0.45"
+          strokeLinejoin="round"
+          d="M-6-0.65 L-8.4-3.4 L-7-3.4 L-5.3-0.65 Z"
+        />
+        <path
+          fill="currentColor"
+          stroke="#1E3A8A"
+          strokeWidth="0.45"
+          strokeLinejoin="round"
+          d="M-6 0.65 L-8.4 3.4 L-7 3.4 L-5.3 0.65 Z"
+        />
+        <circle cx="5.5" cy="0" r="1" fill="#F97316" />
+      </g>
       <path
         className="logo-pin"
         fill="#F97316"

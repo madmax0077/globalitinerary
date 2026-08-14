@@ -22,7 +22,7 @@
 
   <!-- Itinerary route -->
   <path
-    d="M14 42 C20 28, 28 48, 34 30 S46 18, 50 22"
+    d="M14 42 C20 28, 28 48, 34 30 S43 20, 46.5 21.5"
     stroke="url(#giRoute)"
     stroke-width="3.2"
     stroke-linecap="round"
@@ -30,14 +30,38 @@
     fill="none"
   />
 
-  <!-- Stops along the itinerary -->
+  <!-- Stops -->
   <circle cx="14.5" cy="41.5" r="3.4" fill="#FFFFFF"/>
   <circle cx="14.5" cy="41.5" r="1.5" fill="#2563EB"/>
-
   <circle cx="33.5" cy="30.2" r="3.6" fill="#FFFFFF"/>
   <circle cx="33.5" cy="30.2" r="1.6" fill="#0EA5E9"/>
 
-  <!-- Final destination pin -->
+  <!-- Airplane (top-down) flying toward destination pin -->
+  <g transform="translate(43.2 21.8) rotate(-42)">
+    <!-- soft shadow -->
+    <g transform="translate(0.6 0.7)" opacity="0.22">
+      <path fill="#0F172A" d="M-6.8 1.05 L-6.8-1.05 L5.6-1.45 L9.4 0 L5.6 1.45 Z"/>
+      <path fill="#0F172A" d="M-0.4-1.15 L-1.7-7.6 L0.9-7.6 L2.6-1.2 Z"/>
+      <path fill="#0F172A" d="M-0.4 1.15 L-1.7 7.6 L0.9 7.6 L2.6 1.2 Z"/>
+    </g>
+    <!-- body -->
+    <path fill="#FFFFFF" stroke="#1E3A8A" stroke-width="0.55" stroke-linejoin="round"
+      d="M-6.8 1.05 L-6.8-1.05 L5.6-1.45 L9.4 0 L5.6 1.45 Z"/>
+    <!-- wings -->
+    <path fill="#FFFFFF" stroke="#1E3A8A" stroke-width="0.55" stroke-linejoin="round"
+      d="M-0.4-1.15 L-1.7-7.6 L0.9-7.6 L2.6-1.2 Z"/>
+    <path fill="#FFFFFF" stroke="#1E3A8A" stroke-width="0.55" stroke-linejoin="round"
+      d="M-0.4 1.15 L-1.7 7.6 L0.9 7.6 L2.6 1.2 Z"/>
+    <!-- tail -->
+    <path fill="#FFFFFF" stroke="#1E3A8A" stroke-width="0.5" stroke-linejoin="round"
+      d="M-6.8-0.75 L-9.5-3.9 L-7.9-3.9 L-6-0.75 Z"/>
+    <path fill="#FFFFFF" stroke="#1E3A8A" stroke-width="0.5" stroke-linejoin="round"
+      d="M-6.8 0.75 L-9.5 3.9 L-7.9 3.9 L-6 0.75 Z"/>
+    <!-- cockpit accent -->
+    <circle cx="6.2" cy="0" r="1.15" fill="#F97316"/>
+  </g>
+
+  <!-- Destination pin -->
   <path
     fill="#F97316"
     d="M50 12.2c-3.7 0-6.7 2.95-6.7 6.6 0 4.55 5.1 10.1 6.3 11.35a0.55 0.55 0 0 0 .8 0C51.6 28.9 56.7 23.35 56.7 18.8c0-3.65-3-6.6-6.7-6.6Z"

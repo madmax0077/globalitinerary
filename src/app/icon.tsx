@@ -1,130 +1,55 @@
 import { ImageResponse } from "next/og";
 
-/** Favicon: itinerary route + destination pin on blue tile */
+/** Favicon: globe + itinerary route + plane + pin */
 export const size = { width: 48, height: 48 };
 export const contentType = "image/png";
 
+const ICON_SVG = `<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="giBg" x1="6" y1="4" x2="58" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1E3A8A"/>
+      <stop offset="0.45" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="giRoute" x1="12" y1="44" x2="50" y2="18" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#FEF3C7"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#giBg)"/>
+  <circle cx="32" cy="33" r="18" fill="#FFFFFF" fill-opacity="0.14"/>
+  <circle cx="32" cy="33" r="18" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1.5"/>
+  <ellipse cx="32" cy="33" rx="18" ry="7" stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1.25" fill="none"/>
+  <path d="M32 15v36" stroke="#FFFFFF" stroke-opacity="0.22" stroke-width="1.25"/>
+  <path d="M14 42 C20 28, 28 48, 34 30 S43 20, 46.5 21.5" stroke="url(#giRoute)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="14.5" cy="41.5" r="3.4" fill="#FFFFFF"/>
+  <circle cx="14.5" cy="41.5" r="1.5" fill="#2563EB"/>
+  <circle cx="33.5" cy="30.2" r="3.6" fill="#FFFFFF"/>
+  <circle cx="33.5" cy="30.2" r="1.6" fill="#0EA5E9"/>
+  <g transform="translate(43.2 21.8) rotate(-42)">
+    <g transform="translate(0.6 0.7)" opacity="0.22">
+      <path fill="#0F172A" d="M-6.8 1.05 L-6.8-1.05 L5.6-1.45 L9.4 0 L5.6 1.45 Z"/>
+      <path fill="#0F172A" d="M-0.4-1.15 L-1.7-7.6 L0.9-7.6 L2.6-1.2 Z"/>
+      <path fill="#0F172A" d="M-0.4 1.15 L-1.7 7.6 L0.9 7.6 L2.6 1.2 Z"/>
+    </g>
+    <path fill="#FFFFFF" stroke="#1E3A8A" stroke-width="0.55" stroke-linejoin="round" d="M-6.8 1.05 L-6.8-1.05 L5.6-1.45 L9.4 0 L5.6 1.45 Z"/>
+    <path fill="#FFFFFF" stroke="#1E3A8A" stroke-width="0.55" stroke-linejoin="round" d="M-0.4-1.15 L-1.7-7.6 L0.9-7.6 L2.6-1.2 Z"/>
+    <path fill="#FFFFFF" stroke="#1E3A8A" stroke-width="0.55" stroke-linejoin="round" d="M-0.4 1.15 L-1.7 7.6 L0.9 7.6 L2.6 1.2 Z"/>
+    <path fill="#FFFFFF" stroke="#1E3A8A" stroke-width="0.5" stroke-linejoin="round" d="M-6.8-0.75 L-9.5-3.9 L-7.9-3.9 L-6-0.75 Z"/>
+    <path fill="#FFFFFF" stroke="#1E3A8A" stroke-width="0.5" stroke-linejoin="round" d="M-6.8 0.75 L-9.5 3.9 L-7.9 3.9 L-6 0.75 Z"/>
+    <circle cx="6.2" cy="0" r="1.15" fill="#F97316"/>
+  </g>
+  <path fill="#F97316" d="M50 12.2c-3.7 0-6.7 2.95-6.7 6.6 0 4.55 5.1 10.1 6.3 11.35a0.55 0.55 0 0 0 .8 0C51.6 28.9 56.7 23.35 56.7 18.8c0-3.65-3-6.6-6.7-6.6Z"/>
+  <circle cx="50" cy="18.6" r="2.15" fill="#FFFFFF"/>
+</svg>`;
+
 export default function Icon() {
+  const src = `data:image/svg+xml;base64,${Buffer.from(ICON_SVG).toString("base64")}`;
+
   return new ImageResponse(
     (
-      <div
-        style={{
-          width: "100%",
-          height: "100%",
-          display: "flex",
-          alignItems: "center",
-          justifyContent: "center",
-          position: "relative",
-          background: "linear-gradient(145deg, #1E3A8A 0%, #2563EB 50%, #38BDF8 100%)",
-          borderRadius: 12,
-        }}
-      >
-        {/* Globe disc */}
-        <div
-          style={{
-            position: "absolute",
-            width: 30,
-            height: 30,
-            borderRadius: 9999,
-            background: "rgba(255,255,255,0.16)",
-            border: "1.5px solid rgba(255,255,255,0.35)",
-          }}
-        />
-        {/* Route stops */}
-        <div
-          style={{
-            position: "absolute",
-            left: 8,
-            bottom: 14,
-            width: 7,
-            height: 7,
-            borderRadius: 9999,
-            background: "#fff",
-            border: "2px solid #2563EB",
-          }}
-        />
-        <div
-          style={{
-            position: "absolute",
-            left: 20,
-            top: 22,
-            width: 7,
-            height: 7,
-            borderRadius: 9999,
-            background: "#fff",
-            border: "2px solid #0EA5E9",
-          }}
-        />
-        {/* Connecting route bar (approx) */}
-        <div
-          style={{
-            position: "absolute",
-            left: 12,
-            top: 26,
-            width: 18,
-            height: 3,
-            background: "#fff",
-            borderRadius: 4,
-            transform: "rotate(-28deg)",
-            opacity: 0.95,
-          }}
-        />
-        <div
-          style={{
-            position: "absolute",
-            left: 24,
-            top: 16,
-            width: 12,
-            height: 3,
-            background: "#FEF3C7",
-            borderRadius: 4,
-            transform: "rotate(-38deg)",
-            opacity: 0.95,
-          }}
-        />
-        {/* Destination pin */}
-        <div
-          style={{
-            position: "absolute",
-            right: 7,
-            top: 7,
-            display: "flex",
-            flexDirection: "column",
-            alignItems: "center",
-          }}
-        >
-          <div
-            style={{
-              width: 12,
-              height: 12,
-              borderRadius: 9999,
-              background: "#F97316",
-              display: "flex",
-              alignItems: "center",
-              justifyContent: "center",
-            }}
-          >
-            <div
-              style={{
-                width: 4,
-                height: 4,
-                borderRadius: 9999,
-                background: "#fff",
-              }}
-            />
-          </div>
-          <div
-            style={{
-              width: 0,
-              height: 0,
-              borderLeft: "4px solid transparent",
-              borderRight: "4px solid transparent",
-              borderTop: "6px solid #F97316",
-              marginTop: -1,
-            }}
-          />
-        </div>
-      </div>
+      // eslint-disable-next-line @next/next/no-img-element
+      <img src={src} width={48} height={48} alt="" />
     ),
     { ...size },
   );
