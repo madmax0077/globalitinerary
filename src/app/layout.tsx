@@ -53,11 +53,16 @@ export const metadata: Metadata = {
   },
   robots: { index: true, follow: true },
   icons: {
+    // favicon.ico first — Google Discover/Search prefer this URL over /icon
     icon: [
+      { url: "/favicon.ico", sizes: "48x48", type: "image/x-icon" },
+      { url: "/favicon-48x48.png", sizes: "48x48", type: "image/png" },
+      { url: "/favicon-96x96.png", sizes: "96x96", type: "image/png" },
+      { url: "/favicon-192x192.png", sizes: "192x192", type: "image/png" },
       { url: "/icon.svg", type: "image/svg+xml" },
       { url: "/icon", type: "image/png", sizes: "48x48" },
     ],
-    shortcut: ["/icon"],
+    shortcut: ["/favicon.ico"],
     apple: [{ url: "/apple-icon", sizes: "180x180", type: "image/png" }],
   },
   ...(adsenseClient
