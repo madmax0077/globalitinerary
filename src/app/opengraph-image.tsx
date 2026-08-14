@@ -25,59 +25,84 @@ export default function OpengraphImage() {
         <div style={{ display: "flex", alignItems: "center", gap: 20 }}>
           <div
             style={{
-              width: 72,
-              height: 72,
-              borderRadius: 20,
-              background: "rgba(255,255,255,0.2)",
+              width: 76,
+              height: 76,
+              borderRadius: 22,
+              background: "rgba(255,255,255,0.18)",
               display: "flex",
               alignItems: "center",
               justifyContent: "center",
+              position: "relative",
             }}
           >
-            {/* Pin mark */}
             <div
               style={{
-                width: 36,
-                height: 48,
+                position: "absolute",
+                width: 46,
+                height: 46,
+                borderRadius: 9999,
+                border: "2px solid rgba(255,255,255,0.45)",
+                background: "rgba(255,255,255,0.12)",
+              }}
+            />
+            <div
+              style={{
+                position: "absolute",
+                left: 14,
+                bottom: 22,
+                width: 12,
+                height: 12,
+                borderRadius: 9999,
+                background: "#fff",
+              }}
+            />
+            <div
+              style={{
+                position: "absolute",
+                left: 32,
+                top: 34,
+                width: 12,
+                height: 12,
+                borderRadius: 9999,
+                background: "#fff",
+              }}
+            />
+            <div
+              style={{
+                position: "absolute",
+                left: 18,
+                top: 40,
+                width: 28,
+                height: 4,
+                background: "#fff",
+                borderRadius: 4,
+                transform: "rotate(-32deg)",
+              }}
+            />
+            <div
+              style={{
+                position: "absolute",
+                right: 14,
+                top: 12,
+                width: 16,
+                height: 16,
+                borderRadius: 9999,
+                background: "#F97316",
                 display: "flex",
-                flexDirection: "column",
                 alignItems: "center",
+                justifyContent: "center",
+                color: "#fff",
+                fontSize: 10,
+                fontWeight: 800,
               }}
             >
-              <div
-                style={{
-                  width: 36,
-                  height: 36,
-                  borderRadius: 9999,
-                  background: "#fff",
-                  display: "flex",
-                  alignItems: "center",
-                  justifyContent: "center",
-                }}
-              >
-                <div
-                  style={{
-                    width: 14,
-                    height: 14,
-                    borderRadius: 9999,
-                    background: "#1D4ED8",
-                    border: "3px solid #F97316",
-                  }}
-                />
-              </div>
-              <div
-                style={{
-                  width: 0,
-                  height: 0,
-                  borderLeft: "10px solid transparent",
-                  borderRight: "10px solid transparent",
-                  borderTop: "16px solid #fff",
-                  marginTop: -4,
-                }}
-              />
+              •
             </div>
           </div>
-          <div style={{ fontSize: 40, fontWeight: 800 }}>{siteConfig.name}</div>
+          <div style={{ display: "flex", flexDirection: "column", gap: 4 }}>
+            <div style={{ fontSize: 22, fontWeight: 700, opacity: 0.9, letterSpacing: 1 }}>GLOBAL</div>
+            <div style={{ fontSize: 40, fontWeight: 800, lineHeight: 1 }}>Itinerary</div>
+          </div>
         </div>
 
         <div style={{ display: "flex", flexDirection: "column", gap: 16 }}>

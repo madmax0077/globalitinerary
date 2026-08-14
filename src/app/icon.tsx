@@ -1,6 +1,6 @@
 import { ImageResponse } from "next/og";
 
-/** Google SERP favicon — crisp 48×48 PNG (pin mark, no nested SVG for Satori). */
+/** Favicon: itinerary route + destination pin on blue tile */
 export const size = { width: 48, height: 48 };
 export const contentType = "image/png";
 
@@ -14,24 +14,91 @@ export default function Icon() {
           display: "flex",
           alignItems: "center",
           justifyContent: "center",
-          background: "linear-gradient(135deg, #1D4ED8 0%, #2563EB 55%, #38BDF8 100%)",
+          position: "relative",
+          background: "linear-gradient(145deg, #1E3A8A 0%, #2563EB 50%, #38BDF8 100%)",
           borderRadius: 12,
         }}
       >
+        {/* Globe disc */}
         <div
           style={{
+            position: "absolute",
+            width: 30,
+            height: 30,
+            borderRadius: 9999,
+            background: "rgba(255,255,255,0.16)",
+            border: "1.5px solid rgba(255,255,255,0.35)",
+          }}
+        />
+        {/* Route stops */}
+        <div
+          style={{
+            position: "absolute",
+            left: 8,
+            bottom: 14,
+            width: 7,
+            height: 7,
+            borderRadius: 9999,
+            background: "#fff",
+            border: "2px solid #2563EB",
+          }}
+        />
+        <div
+          style={{
+            position: "absolute",
+            left: 20,
+            top: 22,
+            width: 7,
+            height: 7,
+            borderRadius: 9999,
+            background: "#fff",
+            border: "2px solid #0EA5E9",
+          }}
+        />
+        {/* Connecting route bar (approx) */}
+        <div
+          style={{
+            position: "absolute",
+            left: 12,
+            top: 26,
+            width: 18,
+            height: 3,
+            background: "#fff",
+            borderRadius: 4,
+            transform: "rotate(-28deg)",
+            opacity: 0.95,
+          }}
+        />
+        <div
+          style={{
+            position: "absolute",
+            left: 24,
+            top: 16,
+            width: 12,
+            height: 3,
+            background: "#FEF3C7",
+            borderRadius: 4,
+            transform: "rotate(-38deg)",
+            opacity: 0.95,
+          }}
+        />
+        {/* Destination pin */}
+        <div
+          style={{
+            position: "absolute",
+            right: 7,
+            top: 7,
             display: "flex",
             flexDirection: "column",
             alignItems: "center",
-            marginTop: 2,
           }}
         >
           <div
             style={{
-              width: 26,
-              height: 26,
+              width: 12,
+              height: 12,
               borderRadius: 9999,
-              background: "#FFFFFF",
+              background: "#F97316",
               display: "flex",
               alignItems: "center",
               justifyContent: "center",
@@ -39,11 +106,10 @@ export default function Icon() {
           >
             <div
               style={{
-                width: 12,
-                height: 12,
+                width: 4,
+                height: 4,
                 borderRadius: 9999,
-                background: "#1D4ED8",
-                border: "3px solid #F97316",
+                background: "#fff",
               }}
             />
           </div>
@@ -51,10 +117,10 @@ export default function Icon() {
             style={{
               width: 0,
               height: 0,
-              borderLeft: "8px solid transparent",
-              borderRight: "8px solid transparent",
-              borderTop: "12px solid #FFFFFF",
-              marginTop: -3,
+              borderLeft: "4px solid transparent",
+              borderRight: "4px solid transparent",
+              borderTop: "6px solid #F97316",
+              marginTop: -1,
             }}
           />
         </div>

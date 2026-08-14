@@ -1,22 +1,46 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
   <defs>
-    <linearGradient id="gi" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#1D4ED8"/>
-      <stop offset="0.55" stop-color="#2563EB"/>
+    <linearGradient id="giBg" x1="6" y1="4" x2="58" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1E3A8A"/>
+      <stop offset="0.45" stop-color="#2563EB"/>
       <stop offset="1" stop-color="#38BDF8"/>
     </linearGradient>
+    <linearGradient id="giRoute" x1="12" y1="44" x2="50" y2="18" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#FEF3C7"/>
+    </linearGradient>
   </defs>
-  <!-- Rounded brand tile — readable at 16×16 in Google SERPs -->
-  <rect width="64" height="64" rx="16" fill="url(#gi)"/>
-  <!-- Bold location pin (Global Itinerary) -->
+
+  <!-- Brand tile -->
+  <rect width="64" height="64" rx="16" fill="url(#giBg)"/>
+
+  <!-- Soft globe -->
+  <circle cx="32" cy="33" r="18" fill="#FFFFFF" fill-opacity="0.14"/>
+  <circle cx="32" cy="33" r="18" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1.5"/>
+  <ellipse cx="32" cy="33" rx="18" ry="7" stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1.25" fill="none"/>
+  <path d="M32 15v36" stroke="#FFFFFF" stroke-opacity="0.22" stroke-width="1.25"/>
+
+  <!-- Itinerary route -->
   <path
-    fill="#FFFFFF"
-    d="M32 10c-9.4 0-17 7.5-17 16.7 0 11.2 12.4 24.4 15.9 27.8a1.7 1.7 0 0 0 2.2 0C36.6 51.1 49 37.9 49 26.7 49 17.5 41.4 10 32 10Z"
+    d="M14 42 C20 28, 28 48, 34 30 S46 18, 50 22"
+    stroke="url(#giRoute)"
+    stroke-width="3.2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    fill="none"
   />
-  <!-- Pin window / globe core -->
-  <circle cx="32" cy="26.5" r="8.2" fill="#1D4ED8"/>
-  <ellipse cx="32" cy="26.5" rx="8.2" ry="3.2" stroke="#38BDF8" stroke-width="1.6" fill="none"/>
-  <path d="M32 18.4v16.2" stroke="#38BDF8" stroke-width="1.6" stroke-linecap="round"/>
-  <!-- Destination spark -->
-  <circle cx="32" cy="26.5" r="2.4" fill="#F97316"/>
+
+  <!-- Stops along the itinerary -->
+  <circle cx="14.5" cy="41.5" r="3.4" fill="#FFFFFF"/>
+  <circle cx="14.5" cy="41.5" r="1.5" fill="#2563EB"/>
+
+  <circle cx="33.5" cy="30.2" r="3.6" fill="#FFFFFF"/>
+  <circle cx="33.5" cy="30.2" r="1.6" fill="#0EA5E9"/>
+
+  <!-- Final destination pin -->
+  <path
+    fill="#F97316"
+    d="M50 12.2c-3.7 0-6.7 2.95-6.7 6.6 0 4.55 5.1 10.1 6.3 11.35a0.55 0.55 0 0 0 .8 0C51.6 28.9 56.7 23.35 56.7 18.8c0-3.65-3-6.6-6.7-6.6Z"
+  />
+  <circle cx="50" cy="18.6" r="2.15" fill="#FFFFFF"/>
 </svg>
