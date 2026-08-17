@@ -8,6 +8,13 @@ import { cityEnrichments } from "@/data/city-enrichments";
 import { cityGuideDepth } from "@/data/city-guide-depth";
 import { tripCostForPlace } from "@/lib/travel-budgets";
 import { countries } from "@/data/countries";
+import {
+  filterRealSights,
+  honestCityOverview,
+  honestCityTagline,
+  isGenericCityOverview,
+  isTemplateSight,
+} from "@/lib/content-legitimacy";
 
 function hasWikimediaPhoto(city: City): boolean {
   const urls = [city.heroImage, city.thumbnail, ...(city.gallery || [])];
@@ -58,9 +65,19 @@ function itineraryFromSights(sights: string[]) {
 
 /** Prefer curated famous landmarks over polluted Wikivoyage see/do lists. */
 function applyCitySights(city: City): City {
-  const sights = citySights[city.slug];
-  if (!sights || sights.length === 0) return city;
-  // Keep hand-written itineraries (Bali etc.); rebuild auto "Visit …" ones.
+  const overlay = citySights[city.slug];
+  const fromOverlay = overlay ? filterRealSights(overlay) : [];
+  const fromGenerated = filterRealSights(city.thingsToDo);
+  const sights = fromOverlay.length >= 3 ? fromOverlay : fromGenerated;
+  if (!sights.length) {
+    return {
+      ...city,
+      thingsToDo: [],
+      itinerary: city.itinerary?.some((d) => d.activities?.some((a) => !/^Visit\s/i.test(a)))
+        ? city.itinerary
+        : [],
+    };
+  }
   const handWritten = city.itinerary?.some((d) =>
     d.activities?.some((a) => !/^Visit\s/i.test(a)),
   );
@@ -68,6 +85,29 @@ function applyCitySights(city: City): City {
     ...city,
     thingsToDo: sights,
     itinerary: handWritten ? city.itinerary! : itineraryFromSights(sights),
+  };
+}
+
+/** Soften boilerplate taglines/overviews; drop template itinerary activities. */
+function applyHonesty(city: City): City {
+  const thingsToDo = filterRealSights(city.thingsToDo).filter((s) => !isTemplateSight(s));
+  const handWritten = city.itinerary?.some((d) =>
+    d.activities?.some((a) => !/^Visit\s/i.test(a)),
+  );
+  const itinerary =
+    handWritten
+      ? city.itinerary!
+      : thingsToDo.length >= 3
+        ? itineraryFromSights(thingsToDo)
+        : [];
+  return {
+    ...city,
+    tagline: honestCityTagline(city.tagline, city.countryName),
+    overview: isGenericCityOverview(city.overview)
+      ? honestCityOverview(city.overview, city.name, city.countryName)
+      : city.overview,
+    thingsToDo,
+    itinerary,
   };
 }
 
@@ -506,6 +546,7 @@ export const cities: City[] = [
   .map(applyCitySights)
   .map(applyCityEnrichment)
   .map(applyTripCost)
+  .map(applyHonesty)
   .map((c) => sanitizeCityImages(c))
   .sort((a, b) => a.name.localeCompare(b.name));
 

@@ -38,15 +38,6 @@ const uniq = (arr) => Array.from(new Set(arr));
 // Slugs already owned by hand-curated cities (these win, so we skip them here).
 const curatedSlugs = new Set(["tokyo", "kyoto", "rome", "venice", "dubai", "santorini", "bali"]);
 
-function hash(str) {
-  let h = 2166136261;
-  for (let i = 0; i < str.length; i++) {
-    h ^= str.charCodeAt(i);
-    h = Math.imul(h, 16777619);
-  }
-  return Math.abs(h);
-}
-
 // Continent lookup by cca2 (mirrors generate-countries.mjs).
 function continentOf(region, subregion) {
   if (region === "Americas") return /south america/i.test(subregion || "") ? "South America" : "North America";
@@ -109,9 +100,7 @@ for (const city of cities) {
   const { hero, gallery } = poolFor(city.slug, continent);
   const realPhoto = isScenic(imagesMap[city.wikiTitle]) ? imagesMap[city.wikiTitle] : null;
   const realGallery = (Array.isArray(galleryMap[city.wikiTitle]) ? galleryMap[city.wikiTitle] : []).filter(isScenic);
-  const h = hash(city.slug);
-  const rating = Number((4.2 + (h % 70) / 100).toFixed(1));
-  const reviews = 300 + (h % 8000);
+  // Do NOT invent ratings/reviews — only curated cities may set those.
   const { name, countryName, isCapital, population } = city;
 
   // Real listings sourced from Wikivoyage (empty when the city has no article).
@@ -215,8 +204,6 @@ for (const city of cities) {
     itinerary,
     hiddenGems: [],
     tips: [],
-    rating,
-    reviews,
     lat: city.lat,
     lng: city.lng,
     faqs: [],

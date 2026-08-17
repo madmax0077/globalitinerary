@@ -4,7 +4,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { isScenic } from "./lib/bad-image.mjs";
-import { poolFor, hash } from "./lib/stock-pools.mjs";
+import { poolFor } from "./lib/stock-pools.mjs";
 import { budgetPerDayForCountry } from "./lib/travel-budgets.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -143,9 +143,7 @@ for (const c of mledoze) {
   for (const u of cityHeros) pushUnique(u);
   if (scenic.length < 2) for (const u of articleMedia) pushUnique(u);
   const realImages = scenic.slice(0, 6);
-  const h = hash(slug);
-  const rating = Number((4.3 + (h % 60) / 100).toFixed(1)); // 4.30–4.89
-  const reviews = 800 + (h % 9000);
+  // Do NOT invent ratings/reviews for generated countries.
 
   const langLine = languages.length
     ? `The main language${languages.length > 1 ? "s are" : " is"} ${languages.slice(0, 3).join(", ")}.`
@@ -187,8 +185,6 @@ for (const c of mledoze) {
     overview: overview.replace(/\s+/g, " ").trim(),
     history: `${name} has a rich history shaped by its position in ${region} and the cultures of ${subregion}, leaving a legacy visible in its landmarks, cities and traditions today.`,
     culture: `Culture in ${name} is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.`,
-    rating,
-    reviews,
     lat,
     lng,
     tags: Array.from(new Set([continent, subregion, "Culture", "Travel"])),

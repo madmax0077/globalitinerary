@@ -53,8 +53,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 855,
     "lat": 23.22573,
     "lng": 56.51572,
     "faqs": []
@@ -189,8 +187,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2369,
     "lat": 57.048,
     "lng": 9.9187,
     "faqs": []
@@ -235,8 +231,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 387,
     "lat": 56.1629,
     "lng": 10.2039,
     "faqs": []
@@ -296,8 +290,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6709,
     "lat": 13.82916,
     "lng": 20.8324,
     "faqs": []
@@ -409,8 +401,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4200,
     "lat": 5.35444,
     "lng": -4.00167,
     "faqs": []
@@ -452,8 +442,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 6764,
     "lat": 68.349,
     "lng": 18.831,
     "faqs": []
@@ -491,8 +479,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2900,
     "lat": 5.41613,
     "lng": -4.0159,
     "faqs": []
@@ -538,8 +524,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2780,
     "lat": 7.18286,
     "lng": 1.99119,
     "faqs": []
@@ -583,8 +567,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3995,
     "lat": 6.44852,
     "lng": 2.35566,
     "faqs": []
@@ -697,8 +679,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1886,
     "lat": 24.45118,
     "lng": 54.39696,
     "faqs": []
@@ -844,8 +824,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 1920,
     "lat": 9.05785,
     "lng": 7.49508,
     "faqs": []
@@ -981,8 +959,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5319,
     "lat": 5.55602,
     "lng": -0.1969,
     "faqs": []
@@ -1023,8 +999,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7251,
     "lat": 36.725,
     "lng": 24.446,
     "faqs": []
@@ -1179,8 +1153,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 2114,
     "lat": 9.02497,
     "lng": 38.74689,
     "faqs": []
@@ -1224,8 +1196,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 1284,
     "lat": -34.92866,
     "lng": 138.59863,
     "faqs": []
@@ -1303,8 +1273,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 2871,
     "lat": 12.77957,
     "lng": 45.03852,
     "faqs": []
@@ -1375,8 +1343,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4479,
     "lat": 16.97333,
     "lng": 7.99111,
     "faqs": []
@@ -1421,8 +1387,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2835,
     "lat": 30.4278,
     "lng": -9.5981,
     "faqs": []
@@ -1467,8 +1431,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2884,
     "lat": 27.1767,
     "lng": 78.0081,
     "faqs": []
@@ -1513,8 +1475,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5451,
     "lat": 37.311,
     "lng": 13.576,
     "faqs": []
@@ -1558,8 +1518,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 5257,
     "lat": -13.1547,
     "lng": -72.5255,
     "faqs": []
@@ -1603,8 +1561,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3590,
     "lat": -13.155,
     "lng": -72.525,
     "faqs": []
@@ -1648,8 +1604,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4680,
     "lat": 23.02579,
     "lng": 72.58727,
     "faqs": []
@@ -1689,8 +1643,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1289,
     "lat": -8.72806,
     "lng": 125.56639,
     "faqs": []
@@ -1735,8 +1687,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 330,
     "lat": 43.5297,
     "lng": 5.4474,
     "faqs": []
@@ -1799,8 +1749,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5390,
     "lat": 25.40177,
     "lng": 55.47878,
     "faqs": []
@@ -1851,8 +1799,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3553,
     "lat": 50.27969,
     "lng": 57.20718,
     "faqs": []
@@ -1968,8 +1914,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 3609,
     "lat": 65.68353,
     "lng": -18.0878,
     "faqs": []
@@ -2085,8 +2029,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3624,
     "lat": 65.6835,
     "lng": -18.1262,
     "faqs": []
@@ -2130,8 +2072,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 6131,
     "lat": 29.07694,
     "lng": 48.08389,
     "faqs": []
@@ -2175,8 +2115,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1277,
     "lat": 24.19167,
     "lng": 55.76056,
     "faqs": []
@@ -2214,8 +2152,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1424,
     "lat": 30.50316,
     "lng": 47.81507,
     "faqs": []
@@ -2255,8 +2191,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 1114,
     "lat": 29.0825,
     "lng": 48.13028,
     "faqs": []
@@ -2300,8 +2234,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 987,
     "lat": 29.2775,
     "lng": 47.95861,
     "faqs": []
@@ -2351,8 +2283,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3375,
     "lat": 14.79781,
     "lng": 42.95452,
     "faqs": []
@@ -2396,8 +2326,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6295,
     "lat": 32.64861,
     "lng": 14.26191,
     "faqs": []
@@ -2441,8 +2369,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 3164,
     "lat": 25.26807,
     "lng": 51.53219,
     "faqs": []
@@ -2480,8 +2406,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6130,
     "lat": 25.25138,
     "lng": 51.55569,
     "faqs": []
@@ -2519,8 +2443,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5918,
     "lat": 36.33271,
     "lng": 43.10555,
     "faqs": []
@@ -2564,8 +2486,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1860,
     "lat": 26.25722,
     "lng": 50.61194,
     "faqs": []
@@ -2650,8 +2570,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6342,
     "lat": 10.01723,
     "lng": -84.21275,
     "faqs": []
@@ -2696,8 +2614,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 612,
     "lat": 40.787,
     "lng": 17.237,
     "faqs": []
@@ -2741,8 +2657,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2099,
     "lat": 35.0844,
     "lng": -106.6504,
     "faqs": []
@@ -2859,8 +2773,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 580,
     "lat": 36.20124,
     "lng": 37.16117,
     "faqs": []
@@ -2905,8 +2817,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7669,
     "lat": 62.4722,
     "lng": 6.1549,
     "faqs": []
@@ -3043,8 +2953,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 2582,
     "lat": 31.20176,
     "lng": 29.91582,
     "faqs": []
@@ -3085,8 +2993,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 7034,
     "lat": 33.80528,
     "lng": 35.6,
     "faqs": []
@@ -3130,8 +3036,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1523,
     "lat": 40.558,
     "lng": 8.319,
     "faqs": []
@@ -3249,8 +3153,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 5228,
     "lat": 36.73225,
     "lng": 3.08746,
     "faqs": []
@@ -3291,8 +3193,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 369,
     "lat": 11.15583,
     "lng": 42.7125,
     "faqs": []
@@ -3336,8 +3236,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 6656,
     "lat": 38.346,
     "lng": -0.491,
     "faqs": []
@@ -3381,8 +3279,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 1908,
     "lat": -23.698,
     "lng": 133.8807,
     "faqs": []
@@ -3426,8 +3322,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3427,
     "lat": 9.4981,
     "lng": 76.3388,
     "faqs": []
@@ -3584,8 +3478,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 7883,
     "lat": 43.25249,
     "lng": 76.9115,
     "faqs": []
@@ -3629,8 +3521,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4004,
     "lat": 26.608,
     "lng": 37.923,
     "faqs": []
@@ -3670,8 +3560,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7895,
     "lat": 11.0433,
     "lng": 20.28342,
     "faqs": []
@@ -3741,8 +3629,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4330,
     "lat": 38.75382,
     "lng": -9.23083,
     "faqs": []
@@ -3787,8 +3673,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 649,
     "lat": 40.634,
     "lng": 14.6027,
     "faqs": []
@@ -3850,8 +3734,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 5735,
     "lat": -1.24908,
     "lng": -78.61675,
     "faqs": []
@@ -3895,8 +3777,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4434,
     "lat": 49.8941,
     "lng": 2.2958,
     "faqs": []
@@ -4035,8 +3915,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 6223,
     "lat": 31.95522,
     "lng": 35.94503,
     "faqs": []
@@ -4081,8 +3959,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6892,
     "lat": 31.634,
     "lng": 74.8723,
     "faqs": []
@@ -4126,8 +4002,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3185,
     "lat": 52.37403,
     "lng": 4.88969,
     "faqs": []
@@ -4172,8 +4046,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 8197,
     "lat": 61.2181,
     "lng": -149.9003,
     "faqs": []
@@ -4217,8 +4089,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 409,
     "lat": 50.83619,
     "lng": 4.31454,
     "faqs": []
@@ -4262,8 +4132,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6156,
     "lat": 40.78338,
     "lng": 72.35067,
     "faqs": []
@@ -4392,8 +4260,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 963,
     "lat": 42.50779,
     "lng": 1.52109,
     "faqs": []
@@ -4558,8 +4424,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 6505,
     "lat": 39.91987,
     "lng": 32.85427,
     "faqs": []
@@ -4647,8 +4511,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7646,
     "lat": 36.9,
     "lng": 7.76667,
     "faqs": []
@@ -4693,8 +4555,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 955,
     "lat": 45.8992,
     "lng": 6.1294,
     "faqs": []
@@ -4739,8 +4599,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4081,
     "lat": 36.8969,
     "lng": 30.7133,
     "faqs": []
@@ -4873,8 +4731,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2789,
     "lat": -18.91368,
     "lng": 47.53613,
     "faqs": []
@@ -4919,8 +4775,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5867,
     "lat": 43.58,
     "lng": 7.125,
     "faqs": []
@@ -4965,8 +4819,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3996,
     "lat": 14.5586,
     "lng": -90.7335,
     "faqs": []
@@ -5029,8 +4881,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5400,
     "lat": -23.65094,
     "lng": -70.39752,
     "faqs": []
@@ -5102,8 +4952,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7498,
     "lat": -19.86586,
     "lng": 47.03333,
     "faqs": []
@@ -5202,8 +5050,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3756,
     "lat": 51.22047,
     "lng": 4.40026,
     "faqs": []
@@ -5355,8 +5201,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 474,
     "lat": -13.83333,
     "lng": -171.76666,
     "faqs": []
@@ -5508,8 +5352,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4160,
     "lat": -13.833,
     "lng": -171.767,
     "faqs": []
@@ -5553,8 +5395,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2415,
     "lat": 29.532,
     "lng": 35.006,
     "faqs": []
@@ -5598,8 +5438,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 367,
     "lat": 35.95283,
     "lng": 39.00788,
     "faqs": []
@@ -5643,8 +5481,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7873,
     "lat": 25.29194,
     "lng": 51.42444,
     "faqs": []
@@ -5689,8 +5525,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3591,
     "lat": 26.13,
     "lng": 50.555,
     "faqs": []
@@ -5778,8 +5612,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 7763,
     "lat": -6.22977,
     "lng": 155.56598,
     "faqs": []
@@ -5823,8 +5655,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3000,
     "lat": 63.398,
     "lng": 13.082,
     "faqs": []
@@ -5942,8 +5772,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4109,
     "lat": -16.39899,
     "lng": -71.53747,
     "faqs": []
@@ -5988,8 +5816,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 6466,
     "lat": 43.463,
     "lng": 11.879,
     "faqs": []
@@ -6104,8 +5930,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4238,
     "lat": 56.15674,
     "lng": 10.21076,
     "faqs": []
@@ -6148,8 +5972,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5123,
     "lat": 10.63737,
     "lng": -61.28228,
     "faqs": []
@@ -6193,8 +6015,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 3481,
     "lat": 43.6767,
     "lng": 4.6278,
     "faqs": []
@@ -6238,8 +6058,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2670,
     "lat": 43.677,
     "lng": 4.628,
     "faqs": []
@@ -6281,8 +6099,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 6123,
     "lat": 18.73694,
     "lng": 7.38528,
     "faqs": []
@@ -6322,8 +6138,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 8031,
     "lat": 8.9398,
     "lng": -79.64038,
     "faqs": []
@@ -6414,8 +6228,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4987,
     "lat": 11.52639,
     "lng": 42.85194,
     "faqs": []
@@ -6526,8 +6338,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1649,
     "lat": -3.36667,
     "lng": 36.68333,
     "faqs": []
@@ -6638,8 +6448,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5452,
     "lat": -3.387,
     "lng": 36.683,
     "faqs": []
@@ -6684,8 +6492,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4793,
     "lat": 29.33389,
     "lng": 48.07611,
     "faqs": []
@@ -6730,8 +6536,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 590,
     "lat": 35.5951,
     "lng": -82.5515,
     "faqs": []
@@ -6868,8 +6672,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5322,
     "lat": 37.95,
     "lng": 58.38333,
     "faqs": []
@@ -6991,8 +6793,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7106,
     "lat": 15.33805,
     "lng": 38.93184,
     "faqs": []
@@ -7037,8 +6837,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 749,
     "lat": 39.1911,
     "lng": -106.8175,
     "faqs": []
@@ -7083,8 +6881,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7588,
     "lat": 39.191,
     "lng": -106.818,
     "faqs": []
@@ -7125,8 +6921,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 883,
     "lat": 13.00917,
     "lng": 42.73944,
     "faqs": []
@@ -7171,8 +6965,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 5649,
     "lat": 43.0707,
     "lng": 12.6197,
     "faqs": []
@@ -7216,8 +7008,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1282,
     "lat": 15.1,
     "lng": -23.68333,
     "faqs": []
@@ -7362,8 +7152,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4639,
     "lat": 51.1801,
     "lng": 71.44598,
     "faqs": []
@@ -7481,8 +7269,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 2677,
     "lat": -25.28646,
     "lng": -57.647,
     "faqs": []
@@ -7527,8 +7313,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4885,
     "lat": 24.0889,
     "lng": 32.8998,
     "faqs": []
@@ -7568,8 +7352,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 1417,
     "lat": 7.53333,
     "lng": 1.13333,
     "faqs": []
@@ -7705,8 +7487,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 7292,
     "lat": 37.98376,
     "lng": 23.72784,
     "faqs": []
@@ -7750,8 +7530,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 6040,
     "lat": 33.749,
     "lng": -84.388,
     "faqs": []
@@ -7795,8 +7573,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2740,
     "lat": -36.84853,
     "lng": 174.76349,
     "faqs": []
@@ -7841,8 +7617,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7121,
     "lat": 30.2672,
     "lng": -97.7431,
     "faqs": []
@@ -7886,8 +7660,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5552,
     "lat": -21.208,
     "lng": -159.775,
     "faqs": []
@@ -7932,8 +7704,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4351,
     "lat": 40.641,
     "lng": -8.654,
     "faqs": []
@@ -7978,8 +7748,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1325,
     "lat": 43.9493,
     "lng": 4.8055,
     "faqs": []
@@ -8023,8 +7791,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5686,
     "lat": 34.982,
     "lng": 34.002,
     "faqs": []
@@ -8069,8 +7835,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 5455,
     "lat": 14.3532,
     "lng": 100.5684,
     "faqs": []
@@ -8108,8 +7872,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7318,
     "lat": 25.57744,
     "lng": 51.48306,
     "faqs": []
@@ -8149,8 +7911,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4742,
     "lat": 32.7571,
     "lng": 12.72764,
     "faqs": []
@@ -8194,8 +7954,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4433,
     "lat": 18.68,
     "lng": -88.39,
     "faqs": []
@@ -8239,8 +7997,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4620,
     "lat": 47.115,
     "lng": 13.134,
     "faqs": []
@@ -8285,8 +8041,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 6530,
     "lat": 48.7606,
     "lng": 8.2398,
     "faqs": []
@@ -8366,8 +8120,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 630,
     "lat": 5.47775,
     "lng": 10.41759,
     "faqs": []
@@ -8412,8 +8164,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6578,
     "lat": 21.1717,
     "lng": 94.8585,
     "faqs": []
@@ -8552,8 +8302,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6956,
     "lat": 33.34058,
     "lng": 44.40088,
     "faqs": []
@@ -8598,8 +8346,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2012,
     "lat": 16.4,
     "lng": 120.6,
     "faqs": []
@@ -8642,8 +8388,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3964,
     "lat": 20.96,
     "lng": 107.04,
     "faqs": []
@@ -8683,8 +8427,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4641,
     "lat": 11.8746,
     "lng": -15.6158,
     "faqs": []
@@ -8821,8 +8563,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3548,
     "lat": 40.37767,
     "lng": 49.89201,
     "faqs": []
@@ -8863,8 +8603,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 522,
     "lat": 11.56194,
     "lng": 43.10666,
     "faqs": []
@@ -8944,8 +8682,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7160,
     "lat": 39.51075,
     "lng": 54.36713,
     "faqs": []
@@ -8990,8 +8726,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4253,
     "lat": 47.76291,
     "lng": 27.92854,
     "faqs": []
@@ -9131,8 +8865,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 1588,
     "lat": 12.60915,
     "lng": -7.97522,
     "faqs": []
@@ -9181,8 +8913,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7549,
     "lat": 5.76795,
     "lng": 20.67565,
     "faqs": []
@@ -9227,8 +8957,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7537,
     "lat": 49.8988,
     "lng": 10.9028,
     "faqs": []
@@ -9318,8 +9046,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 5625,
     "lat": 5.9597,
     "lng": 10.14597,
     "faqs": []
@@ -9360,8 +9086,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 6208,
     "lat": 20.35008,
     "lng": 100.09022,
     "faqs": []
@@ -9486,8 +9210,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2597,
     "lat": 4.89035,
     "lng": 114.94006,
     "faqs": []
@@ -9531,8 +9253,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 8198,
     "lat": -6.92222,
     "lng": 107.60694,
     "faqs": []
@@ -9577,8 +9297,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2106,
     "lat": 51.1784,
     "lng": -115.5708,
     "faqs": []
@@ -9616,8 +9334,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 7193,
     "lat": 51.178,
     "lng": -115.571,
     "faqs": []
@@ -9657,8 +9373,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2427,
     "lat": 13.69301,
     "lng": 100.40755,
     "faqs": []
@@ -9723,8 +9437,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3746,
     "lat": 13.75398,
     "lng": 100.50144,
     "faqs": []
@@ -9790,8 +9502,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4461,
     "lat": 4.36122,
     "lng": 18.55496,
     "faqs": []
@@ -9919,8 +9629,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 8287,
     "lat": 44.77879,
     "lng": 17.20629,
     "faqs": []
@@ -10001,8 +9709,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 7439,
     "lat": 13.45274,
     "lng": -16.57803,
     "faqs": []
@@ -10047,8 +9753,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4990,
     "lat": 48.459,
     "lng": 18.893,
     "faqs": []
@@ -10157,8 +9861,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 902,
     "lat": 42.0937,
     "lng": 19.09841,
     "faqs": []
@@ -10202,8 +9904,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1937,
     "lat": 44.387,
     "lng": -68.204,
     "faqs": []
@@ -10267,8 +9967,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5690,
     "lat": 41.38879,
     "lng": 2.15899,
     "faqs": []
@@ -10332,8 +10030,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7028,
     "lat": 10.1384,
     "lng": -64.68769,
     "faqs": []
@@ -10377,8 +10073,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 6261,
     "lat": 41.117,
     "lng": 16.871,
     "faqs": []
@@ -10423,8 +10117,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1454,
     "lat": -41.1335,
     "lng": -71.3103,
     "faqs": []
@@ -10516,8 +10208,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2364,
     "lat": 10.0647,
     "lng": -69.35703,
     "faqs": []
@@ -10591,8 +10281,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4381,
     "lat": 10.96854,
     "lng": -74.78132,
     "faqs": []
@@ -10734,8 +10422,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 8264,
     "lat": 47.55839,
     "lng": 7.57327,
     "faqs": []
@@ -10844,8 +10530,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7656,
     "lat": 30.50852,
     "lng": 47.7804,
     "faqs": []
@@ -10889,8 +10573,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4917,
     "lat": 9.25025,
     "lng": 0.78213,
     "faqs": []
@@ -10977,8 +10659,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6413,
     "lat": 17.2955,
     "lng": -62.72499,
     "faqs": []
@@ -11042,8 +10722,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7191,
     "lat": 1.86391,
     "lng": 9.76582,
     "faqs": []
@@ -11088,8 +10766,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 620,
     "lat": 51.3811,
     "lng": -2.359,
     "faqs": []
@@ -11134,8 +10810,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7125,
     "lat": 35.55597,
     "lng": 6.17414,
     "faqs": []
@@ -11251,8 +10925,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4288,
     "lat": 13.10271,
     "lng": 103.19822,
     "faqs": []
@@ -11397,8 +11069,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4577,
     "lat": 41.64077,
     "lng": 41.6306,
     "faqs": []
@@ -11438,8 +11108,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 7171,
     "lat": 23.57769,
     "lng": 58.39982,
     "faqs": []
@@ -11484,8 +11152,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 823,
     "lat": 49.276,
     "lng": -0.703,
     "faqs": []
@@ -11525,8 +11191,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3515,
     "lat": -20.23325,
     "lng": 57.46609,
     "faqs": []
@@ -11569,8 +11233,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 6831,
     "lat": -4.614,
     "lng": 55.428,
     "faqs": []
@@ -11614,8 +11276,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 6192,
     "lat": 1.32639,
     "lng": 103.94167,
     "faqs": []
@@ -11656,8 +11316,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5180,
     "lat": 4.45437,
     "lng": 18.53475,
     "faqs": []
@@ -11701,8 +11359,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 3911,
     "lat": 39.9075,
     "lng": 116.39723,
     "faqs": []
@@ -11805,8 +11461,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3098,
     "lat": -19.84361,
     "lng": 34.83889,
     "faqs": []
@@ -11871,8 +11525,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3398,
     "lat": 33.89332,
     "lng": 35.50157,
     "faqs": []
@@ -11954,8 +11606,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 6364,
     "lat": -6.2349,
     "lng": 106.9896,
     "faqs": []
@@ -12000,8 +11650,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1354,
     "lat": 54.5973,
     "lng": -5.9301,
     "faqs": []
@@ -12134,8 +11782,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 2641,
     "lat": 44.80401,
     "lng": 20.46513,
     "faqs": []
@@ -12238,8 +11884,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 8002,
     "lat": 17.49952,
     "lng": -88.19756,
     "faqs": []
@@ -12284,8 +11928,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1044,
     "lat": 45.987,
     "lng": 9.262,
     "faqs": []
@@ -12354,8 +11996,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 4057,
     "lat": 17.25376,
     "lng": -88.76401,
     "faqs": []
@@ -12458,8 +12098,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5808,
     "lat": -19.92083,
     "lng": -43.93778,
     "faqs": []
@@ -12503,8 +12141,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6735,
     "lat": 46.83158,
     "lng": 29.47671,
     "faqs": []
@@ -12581,8 +12217,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4628,
     "lat": 12.97194,
     "lng": 77.59369,
     "faqs": []
@@ -12655,8 +12289,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 7139,
     "lat": 32.11486,
     "lng": 20.06859,
     "faqs": []
@@ -12700,8 +12332,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 2805,
     "lat": 38.541,
     "lng": -0.123,
     "faqs": []
@@ -12744,8 +12374,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4859,
     "lat": 33.2846,
     "lng": 131.4914,
     "faqs": []
@@ -12790,8 +12418,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5631,
     "lat": 40.7058,
     "lng": 19.9522,
     "faqs": []
@@ -12848,8 +12474,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4366,
     "lat": 10.43959,
     "lng": 45.01432,
     "faqs": []
@@ -12893,8 +12517,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 2839,
     "lat": 4.26116,
     "lng": 15.79216,
     "faqs": []
@@ -12939,8 +12561,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 3230,
     "lat": 47.633,
     "lng": 13.002,
     "faqs": []
@@ -13053,8 +12673,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 4216,
     "lat": 60.39299,
     "lng": 5.32415,
     "faqs": []
@@ -13098,8 +12716,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 8285,
     "lat": 52.52437,
     "lng": 13.41053,
     "faqs": []
@@ -13226,8 +12842,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 1252,
     "lat": 46.94809,
     "lng": 7.44744,
     "faqs": []
@@ -13272,8 +12886,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 1127,
     "lat": 27.672,
     "lng": 85.428,
     "faqs": []
@@ -13347,8 +12959,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4872,
     "lat": 27.68027,
     "lng": 84.43647,
     "faqs": []
@@ -13386,8 +12996,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4215,
     "lat": 27.683,
     "lng": 84.433,
     "faqs": []
@@ -13432,8 +13040,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 2532,
     "lat": 43.4832,
     "lng": -1.5586,
     "faqs": []
@@ -13478,8 +13084,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1130,
     "lat": 36.2704,
     "lng": -121.8081,
     "faqs": []
@@ -13523,8 +13127,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5920,
     "lat": 44.81694,
     "lng": 15.87083,
     "faqs": []
@@ -13568,8 +13170,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3778,
     "lat": 43.263,
     "lng": -2.935,
     "faqs": []
@@ -13614,8 +13214,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 6688,
     "lat": 4.25671,
     "lng": 18.41583,
     "faqs": []
@@ -13683,8 +13281,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4456,
     "lat": 26.45505,
     "lng": 87.27007,
     "faqs": []
@@ -13761,8 +13357,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 878,
     "lat": 27.01736,
     "lng": 84.88047,
     "faqs": []
@@ -13806,8 +13400,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7291,
     "lat": 35.89706,
     "lng": 14.46115,
     "faqs": []
@@ -13936,8 +13528,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 7045,
     "lat": 52.48142,
     "lng": -1.89983,
     "faqs": []
@@ -14091,8 +13681,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 2516,
     "lat": 42.87,
     "lng": 74.59,
     "faqs": []
@@ -14192,8 +13780,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1752,
     "lat": 11.86357,
     "lng": -15.59767,
     "faqs": []
@@ -14354,8 +13940,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 450,
     "lat": 41.03226,
     "lng": 21.33553,
     "faqs": []
@@ -14437,8 +14021,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6662,
     "lat": 37.27442,
     "lng": 9.87391,
     "faqs": []
@@ -14532,8 +14114,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4550,
     "lat": -15.78499,
     "lng": 35.00854,
     "faqs": []
@@ -14573,8 +14153,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5758,
     "lat": 5.84342,
     "lng": -55.11929,
     "faqs": []
@@ -14619,8 +14197,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 1558,
     "lat": 46.3683,
     "lng": 14.1145,
     "faqs": []
@@ -14680,8 +14256,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7015,
     "lat": 36.47004,
     "lng": 2.8277,
     "faqs": []
@@ -14745,8 +14319,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7722,
     "lat": 7.96472,
     "lng": -11.73833,
     "faqs": []
@@ -14823,8 +14395,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6827,
     "lat": 11.18064,
     "lng": -4.29489,
     "faqs": []
@@ -14869,8 +14439,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 6962,
     "lat": 37.0344,
     "lng": 27.4305,
     "faqs": []
@@ -14914,8 +14482,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2897,
     "lat": 4.60971,
     "lng": -74.08175,
     "faqs": []
@@ -14959,8 +14525,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3313,
     "lat": 46.275,
     "lng": 13.888,
     "faqs": []
@@ -15005,8 +14569,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 7337,
     "lat": 44.4949,
     "lng": 11.3426,
     "faqs": []
@@ -15051,8 +14613,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 6512,
     "lat": 46.498,
     "lng": 11.354,
     "faqs": []
@@ -15095,8 +14655,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1666,
     "lat": -21.126,
     "lng": -56.484,
     "faqs": []
@@ -15140,8 +14698,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1100,
     "lat": -16.5004,
     "lng": -151.7415,
     "faqs": []
@@ -15186,8 +14742,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1134,
     "lat": 11.9674,
     "lng": 121.9248,
     "faqs": []
@@ -15239,8 +14793,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 5025,
     "lat": 9.93611,
     "lng": 43.18278,
     "faqs": []
@@ -15285,8 +14837,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2091,
     "lat": 44.8378,
     "lng": -0.5792,
     "faqs": []
@@ -15329,8 +14879,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 5121,
     "lat": 46.469,
     "lng": 10.372,
     "faqs": []
@@ -15375,8 +14923,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4872,
     "lat": 42.3601,
     "lng": -71.0589,
     "faqs": []
@@ -15431,8 +14977,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 6112,
     "lat": 7.69385,
     "lng": -5.03031,
     "faqs": []
@@ -15476,8 +15020,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 1577,
     "lat": 51.884,
     "lng": -1.758,
     "faqs": []
@@ -15522,8 +15064,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7761,
     "lat": 45.677,
     "lng": -111.043,
     "faqs": []
@@ -15602,8 +15142,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3852,
     "lat": 41.5514,
     "lng": -8.42311,
     "faqs": []
@@ -15647,8 +15185,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 6146,
     "lat": 45.515,
     "lng": 25.367,
     "faqs": []
@@ -15781,8 +15317,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6682,
     "lat": -15.77972,
     "lng": -47.92972,
     "faqs": []
@@ -15827,56 +15361,8 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1324,
     "lat": 45.6579,
     "lng": 25.6012,
-    "faqs": []
-  },
-  {
-    "id": "brasov-center",
-    "slug": "brasov-center",
-    "name": "Brașov",
-    "countrySlug": "romania",
-    "countryName": "Romania",
-    "tagline": "A city in Romania",
-    "heroKey": "food",
-    "galleryKeys": [
-      "food",
-      "temple",
-      "coast",
-      "mountains"
-    ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Bra%C8%99ov%2C_Pia%C8%9Ba_Sfatului_-_Flickr_-_Jorge_Franganillo.jpg",
-    "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/0a/Bra%C8%99ov%2C_Pia%C8%9Ba_Sfatului_-_Flickr_-_Jorge_Franganillo.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/6/6d/1950_-_Decretul_de_schimbare_a_numelui_orasului_Brasov_in_Orasul_Stalin.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/5/55/20140627_Bra%C5%9Fov_012.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/4/40/BRS-05-14-BastTesatorilor01.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/2/25/Biserica_Sfantu_Nicolae.JPG",
-      "https://upload.wikimedia.org/wikipedia/commons/d/de/Biserica_neagra.jpg"
-    ],
-    "overview": "Brașov is one of Romania's major cities, home to around 250,000 people.",
-    "bestTime": "May–June & September–October for mild weather and thinner crowds",
-    "weather": "Temperate, with warm summers and cool winters",
-    "airport": "",
-    "metro": "",
-    "transport": "",
-    "thingsToDo": [],
-    "restaurants": [],
-    "hotels": [],
-    "stays": [],
-    "shopping": [],
-    "nightlife": [],
-    "museums": [],
-    "localFoods": [],
-    "itinerary": [],
-    "hiddenGems": [],
-    "tips": [],
-    "rating": 4.3,
-    "reviews": 3782,
-    "lat": 45.643,
-    "lng": 25.589,
     "faqs": []
   },
   {
@@ -16028,8 +15514,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3614,
     "lat": 48.14816,
     "lng": 17.10674,
     "faqs": []
@@ -16123,8 +15607,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4969,
     "lat": -4.26613,
     "lng": 15.28318,
     "faqs": []
@@ -16168,8 +15650,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 6389,
     "lat": 52.10894,
     "lng": 23.71749,
     "faqs": []
@@ -16213,8 +15693,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2035,
     "lat": 44.899,
     "lng": 6.635,
     "faqs": []
@@ -16313,8 +15791,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1432,
     "lat": 13.10732,
     "lng": -59.62021,
     "faqs": []
@@ -16413,8 +15889,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5265,
     "lat": 13.0975,
     "lng": -59.6105,
     "faqs": []
@@ -16458,8 +15932,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5212,
     "lat": 50.8225,
     "lng": -0.1372,
     "faqs": []
@@ -16526,8 +15998,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 2922,
     "lat": 13.27136,
     "lng": -16.64944,
     "faqs": []
@@ -16664,8 +16134,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7781,
     "lat": -27.46794,
     "lng": 153.02809,
     "faqs": []
@@ -16709,8 +16177,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 1844,
     "lat": 51.4545,
     "lng": -2.5879,
     "faqs": []
@@ -16843,8 +16309,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 790,
     "lat": 49.19522,
     "lng": 16.60796,
     "faqs": []
@@ -16891,8 +16355,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 1241,
     "lat": 40.6501,
     "lng": -73.94958,
     "faqs": []
@@ -16936,8 +16398,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4095,
     "lat": -17.9614,
     "lng": 122.2359,
     "faqs": []
@@ -16981,8 +16441,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 629,
     "lat": 51.2093,
     "lng": 3.2247,
     "faqs": []
@@ -17026,8 +16484,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 6629,
     "lat": 51.209,
     "lng": 3.225,
     "faqs": []
@@ -17078,8 +16534,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 4080,
     "lat": 50.85045,
     "lng": 4.34878,
     "faqs": []
@@ -17119,8 +16573,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6381,
     "lat": 5.87693,
     "lng": -10.04964,
     "faqs": []
@@ -17279,8 +16731,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 7488,
     "lat": 44.43225,
     "lng": 26.10626,
     "faqs": []
@@ -17332,8 +16782,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 339,
     "lat": 47.5,
     "lng": 19.03333,
     "faqs": []
@@ -17386,8 +16834,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1123,
     "lat": 47.49835,
     "lng": 19.04045,
     "faqs": []
@@ -17427,8 +16873,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 5553,
     "lat": 7.20417,
     "lng": 124.43972,
     "faqs": []
@@ -17575,8 +17019,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3935,
     "lat": 42.28721,
     "lng": 18.83922,
     "faqs": []
@@ -17628,8 +17070,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7140,
     "lat": -34.61315,
     "lng": -58.37723,
     "faqs": []
@@ -17752,8 +17192,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5552,
     "lat": -3.38193,
     "lng": 29.36142,
     "faqs": []
@@ -17827,8 +17265,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7649,
     "lat": -2.49077,
     "lng": 28.84281,
     "faqs": []
@@ -17873,8 +17309,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4397,
     "lat": 39.768,
     "lng": 64.455,
     "faqs": []
@@ -18015,8 +17449,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3911,
     "lat": -20.15,
     "lng": 28.58333,
     "faqs": []
@@ -18061,8 +17493,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2274,
     "lat": 0.25344,
     "lng": 32.55723,
     "faqs": []
@@ -18107,8 +17537,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6521,
     "lat": 13.42722,
     "lng": -16.68528,
     "faqs": []
@@ -18234,8 +17662,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1485,
     "lat": 42.50651,
     "lng": 27.46886,
     "faqs": []
@@ -18375,8 +17801,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5890,
     "lat": 40.19559,
     "lng": 29.06013,
     "faqs": []
@@ -18420,8 +17844,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 446,
     "lat": 35.10168,
     "lng": 129.03004,
     "faqs": []
@@ -18461,8 +17883,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 3686,
     "lat": -28.76659,
     "lng": 28.24937,
     "faqs": []
@@ -18507,8 +17927,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 944,
     "lat": 34.121,
     "lng": 35.651,
     "faqs": []
@@ -18552,8 +17970,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7258,
     "lat": -28.6474,
     "lng": 153.602,
     "faqs": []
@@ -18597,8 +18013,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4932,
     "lat": 22.8905,
     "lng": -109.9167,
     "faqs": []
@@ -18642,8 +18056,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4914,
     "lat": 22.89,
     "lng": -109.92,
     "faqs": []
@@ -18687,8 +18099,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 5598,
     "lat": 43.89139,
     "lng": 20.34972,
     "faqs": []
@@ -18732,8 +18142,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3127,
     "lat": 39.475,
     "lng": -6.372,
     "faqs": []
@@ -18777,8 +18185,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 796,
     "lat": 42.289,
     "lng": 3.277,
     "faqs": []
@@ -18822,8 +18228,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4991,
     "lat": 39.223,
     "lng": 9.122,
     "faqs": []
@@ -18881,8 +18285,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 6886,
     "lat": 45.90456,
     "lng": 28.19516,
     "faqs": []
@@ -18922,8 +18324,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4246,
     "lat": 42.01528,
     "lng": 21.44111,
     "faqs": []
@@ -18967,8 +18367,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6829,
     "lat": -16.9186,
     "lng": 145.7781,
     "faqs": []
@@ -19054,8 +18452,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4007,
     "lat": 30.06263,
     "lng": 31.24967,
     "faqs": []
@@ -19102,8 +18498,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 3666,
     "lat": 51.05011,
     "lng": -114.08529,
     "faqs": []
@@ -19218,8 +18612,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4938,
     "lat": 3.43054,
     "lng": -76.5199,
     "faqs": []
@@ -19292,8 +18684,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1409,
     "lat": -12.05162,
     "lng": -77.13452,
     "faqs": []
@@ -19338,8 +18728,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6788,
     "lat": 13.12867,
     "lng": -61.19178,
     "faqs": []
@@ -19467,8 +18855,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 1497,
     "lat": 14.64953,
     "lng": 120.96788,
     "faqs": []
@@ -19512,8 +18898,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2964,
     "lat": 21.38083,
     "lng": -77.91694,
     "faqs": []
@@ -19558,8 +18942,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 5961,
     "lat": -8.93611,
     "lng": 13.26518,
     "faqs": []
@@ -19604,8 +18986,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2764,
     "lat": 9.535,
     "lng": -13.68778,
     "faqs": []
@@ -19649,8 +19029,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4931,
     "lat": 52.2053,
     "lng": 0.1218,
     "faqs": []
@@ -19694,8 +19072,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 732,
     "lat": 52.205,
     "lng": 0.122,
     "faqs": []
@@ -19739,8 +19115,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4101,
     "lat": 19.83,
     "lng": -90.53,
     "faqs": []
@@ -19892,8 +19266,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 6557,
     "lat": 10.03711,
     "lng": 105.78825,
     "faqs": []
@@ -19944,8 +19316,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 629,
     "lat": -35.28346,
     "lng": 149.12807,
     "faqs": []
@@ -19989,8 +19359,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 507,
     "lat": 21.1619,
     "lng": -86.8515,
     "faqs": []
@@ -20034,8 +19402,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2182,
     "lat": -8.65,
     "lng": 115.13,
     "faqs": []
@@ -20080,8 +19446,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 7529,
     "lat": 43.5528,
     "lng": 7.0174,
     "faqs": []
@@ -20170,8 +19534,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6337,
     "lat": 5.10535,
     "lng": -1.2466,
     "faqs": []
@@ -20305,8 +19667,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 6561,
     "lat": -33.92584,
     "lng": 18.42322,
     "faqs": []
@@ -20346,8 +19706,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4246,
     "lat": -25.3552,
     "lng": -57.44545,
     "faqs": []
@@ -20391,8 +19749,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 518,
     "lat": 40.5532,
     "lng": 14.2222,
     "faqs": []
@@ -20436,8 +19792,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 635,
     "lat": 40.551,
     "lng": 14.243,
     "faqs": []
@@ -20552,8 +19906,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4075,
     "lat": 10.48801,
     "lng": -66.87919,
     "faqs": []
@@ -20597,8 +19949,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6267,
     "lat": 43.213,
     "lng": 2.3491,
     "faqs": []
@@ -20643,8 +19993,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5230,
     "lat": 51.4816,
     "lng": -3.1791,
     "faqs": []
@@ -20689,8 +20037,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1923,
     "lat": 36.48,
     "lng": -121.73,
     "faqs": []
@@ -20735,8 +20081,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4927,
     "lat": 36.5552,
     "lng": -121.9233,
     "faqs": []
@@ -20781,8 +20125,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2467,
     "lat": 36.555,
     "lng": -121.923,
     "faqs": []
@@ -20822,8 +20164,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 5266,
     "lat": 4.94273,
     "lng": 15.87735,
     "faqs": []
@@ -20867,8 +20207,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 8020,
     "lat": 18.53333,
     "lng": -72.4,
     "faqs": []
@@ -20913,8 +20251,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1601,
     "lat": 10.39817,
     "lng": -75.49328,
     "faqs": []
@@ -20952,8 +20288,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7752,
     "lat": 10.391,
     "lng": -75.479,
     "faqs": []
@@ -21085,8 +20419,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7132,
     "lat": 33.58831,
     "lng": -7.61138,
     "faqs": []
@@ -21131,8 +20463,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3078,
     "lat": 38.697,
     "lng": -9.422,
     "faqs": []
@@ -21206,8 +20536,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 8123,
     "lat": 13.9957,
     "lng": -61.00614,
     "faqs": []
@@ -21252,8 +20580,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6906,
     "lat": 37.5079,
     "lng": 15.083,
     "faqs": []
@@ -21298,8 +20624,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3660,
     "lat": 10.3157,
     "lng": 123.8854,
     "faqs": []
@@ -21344,8 +20668,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6004,
     "lat": 10.3157,
     "lng": 123.8854,
     "faqs": []
@@ -21389,8 +20711,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 8279,
     "lat": 38.036,
     "lng": 14.022,
     "faqs": []
@@ -21440,8 +20760,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 794,
     "lat": 46.23092,
     "lng": 15.26044,
     "faqs": []
@@ -21484,54 +20802,8 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4473,
     "lat": 48.8127,
     "lng": 14.3175,
-    "faqs": []
-  },
-  {
-    "id": "cesky-krumlov-old",
-    "slug": "cesky-krumlov-old",
-    "name": "Český Krumlov",
-    "countrySlug": "czechia",
-    "countryName": "Czechia",
-    "tagline": "A city in Czechia",
-    "heroKey": "cityNight",
-    "galleryKeys": [
-      "cityNight",
-      "alps",
-      "beach",
-      "food"
-    ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/6/63/Blick_auf_das_Stadtzentrum_von_Krumau_%282026%29.jpg",
-    "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/63/Blick_auf_das_Stadtzentrum_von_Krumau_%282026%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/f/fc/05_2025_%C4%8Cesk%C3%BD_Krumlov_IMG_2794.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/3/38/5.9.15_Cesky_Krumlov_Monastery_03_%2820593062084%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/4/42/Ceskystage.jpg"
-    ],
-    "overview": "Český Krumlov is one of Czechia's major cities, home to around 13,000 people.",
-    "bestTime": "May–June & September–October for mild weather and thinner crowds",
-    "weather": "Temperate, with warm summers and cool winters",
-    "airport": "",
-    "metro": "",
-    "transport": "",
-    "thingsToDo": [],
-    "restaurants": [],
-    "hotels": [],
-    "stays": [],
-    "shopping": [],
-    "nightlife": [],
-    "museums": [],
-    "localFoods": [],
-    "itinerary": [],
-    "hiddenGems": [],
-    "tips": [],
-    "rating": 4.9,
-    "reviews": 3685,
-    "lat": 48.811,
-    "lng": 14.315,
     "faqs": []
   },
   {
@@ -21574,8 +20846,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7757,
     "lat": 42.3906,
     "lng": 18.9142,
     "faqs": []
@@ -21650,8 +20920,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3846,
     "lat": 10.51667,
     "lng": -61.41667,
     "faqs": []
@@ -21693,8 +20961,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 564,
     "lat": 45.9237,
     "lng": 6.8694,
     "faqs": []
@@ -21738,8 +21004,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3999,
     "lat": 35.5138,
     "lng": 24.018,
     "faqs": []
@@ -21832,8 +21096,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1840,
     "lat": 50.41136,
     "lng": 4.44448,
     "faqs": []
@@ -21878,8 +21140,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6428,
     "lat": 32.7765,
     "lng": -79.9311,
     "faqs": []
@@ -21924,8 +21184,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4511,
     "lat": 32.776,
     "lng": -79.931,
     "faqs": []
@@ -21970,8 +21228,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 753,
     "lat": 18.3419,
     "lng": -64.9307,
     "faqs": []
@@ -22105,8 +21361,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 429,
     "lat": 22.3384,
     "lng": 91.83168,
     "faqs": []
@@ -22150,8 +21404,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4558,
     "lat": 35.1688,
     "lng": -5.2636,
     "faqs": []
@@ -22289,8 +21541,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3725,
     "lat": 30.66667,
     "lng": 104.06667,
     "faqs": []
@@ -22334,8 +21584,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2111,
     "lat": 13.08784,
     "lng": 80.27847,
     "faqs": []
@@ -22379,8 +21627,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6638,
     "lat": 48.292,
     "lng": 25.935,
     "faqs": []
@@ -22424,8 +21670,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2781,
     "lat": 18.7883,
     "lng": 98.9853,
     "faqs": []
@@ -22468,8 +21712,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 8194,
     "lat": 19.9105,
     "lng": 99.8406,
     "faqs": []
@@ -22513,8 +21755,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 555,
     "lat": 41.85003,
     "lng": -87.65005,
     "faqs": []
@@ -22617,8 +21857,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 5297,
     "lat": -6.77008,
     "lng": -79.85495,
     "faqs": []
@@ -22681,8 +21919,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 8107,
     "lat": -19.11639,
     "lng": 33.48333,
     "faqs": []
@@ -22775,8 +22011,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 8121,
     "lat": 12.62951,
     "lng": -87.13133,
     "faqs": []
@@ -22853,8 +22087,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1965,
     "lat": -13.63333,
     "lng": 32.65,
     "faqs": []
@@ -23005,8 +22237,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 1071,
     "lat": 47.00902,
     "lng": 28.85938,
     "faqs": []
@@ -23047,8 +22277,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3380,
     "lat": -18.01274,
     "lng": 31.07555,
     "faqs": []
@@ -23162,8 +22390,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1091,
     "lat": 48.07257,
     "lng": 114.53264,
     "faqs": []
@@ -23205,8 +22431,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3258,
     "lat": 13.3622,
     "lng": 100.98345,
     "faqs": []
@@ -23251,8 +22475,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3447,
     "lat": 29.4316,
     "lng": 106.9123,
     "faqs": []
@@ -23413,8 +22635,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6337,
     "lat": -43.53333,
     "lng": 172.63333,
     "faqs": []
@@ -23471,8 +22691,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5525,
     "lat": -2.8869,
     "lng": 29.1248,
     "faqs": []
@@ -23516,8 +22734,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3469,
     "lat": 44.127,
     "lng": 9.7124,
     "faqs": []
@@ -23567,8 +22783,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 2965,
     "lat": 1.5925,
     "lng": 10.82361,
     "faqs": []
@@ -23672,8 +22886,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 867,
     "lat": -25.5036,
     "lng": -54.65067,
     "faqs": []
@@ -23724,8 +22936,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3716,
     "lat": 8.35122,
     "lng": -62.64102,
     "faqs": []
@@ -23770,8 +22980,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7272,
     "lat": 46.7712,
     "lng": 23.6236,
     "faqs": []
@@ -23826,8 +23034,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2160,
     "lat": 15.47025,
     "lng": -90.37455,
     "faqs": []
@@ -23960,8 +23166,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 960,
     "lat": -17.38195,
     "lng": -66.15995,
     "faqs": []
@@ -24093,8 +23297,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 1392,
     "lat": 40.20686,
     "lng": -8.41996,
     "faqs": []
@@ -24139,8 +23341,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2451,
     "lat": 48.0794,
     "lng": 7.3586,
     "faqs": []
@@ -24305,8 +23505,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4826,
     "lat": 6.93548,
     "lng": 79.84868,
     "faqs": []
@@ -24350,8 +23548,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 616,
     "lat": 9.36025,
     "lng": -79.90019,
     "faqs": []
@@ -24396,8 +23592,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3021,
     "lat": 45.8081,
     "lng": 9.0852,
     "faqs": []
@@ -24523,8 +23717,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4722,
     "lat": 9.53795,
     "lng": -13.67729,
     "faqs": []
@@ -24660,8 +23852,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4704,
     "lat": 44.18073,
     "lng": 28.63432,
     "faqs": []
@@ -24748,8 +23938,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 8109,
     "lat": 36.365,
     "lng": 6.61472,
     "faqs": []
@@ -24787,8 +23975,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4828,
     "lat": 11.85,
     "lng": -15.61667,
     "faqs": []
@@ -24834,8 +24020,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 8017,
     "lat": 55.67594,
     "lng": 12.56553,
     "faqs": []
@@ -24880,8 +24064,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3543,
     "lat": -31.40648,
     "lng": -64.18853,
     "faqs": []
@@ -24919,8 +24101,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 990,
     "lat": 37.8882,
     "lng": -4.7794,
     "faqs": []
@@ -24965,8 +24145,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4402,
     "lat": 39.6243,
     "lng": 19.9217,
     "faqs": []
@@ -25121,8 +24299,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3488,
     "lat": 51.89797,
     "lng": -8.47061,
     "faqs": []
@@ -25167,8 +24343,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4758,
     "lat": 12,
     "lng": 120.2,
     "faqs": []
@@ -25213,8 +24387,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 6963,
     "lat": 46.54,
     "lng": 12.14,
     "faqs": []
@@ -25337,8 +24509,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7504,
     "lat": 6.36536,
     "lng": 2.41833,
     "faqs": []
@@ -25382,8 +24552,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1789,
     "lat": 45.415,
     "lng": 6.634,
     "faqs": []
@@ -25427,8 +24595,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 5932,
     "lat": 20.51,
     "lng": -86.95,
     "faqs": []
@@ -25471,8 +24637,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5742,
     "lat": -2.8953,
     "lng": -78.9963,
     "faqs": []
@@ -25517,8 +24681,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4498,
     "lat": 18.92,
     "lng": -99.23,
     "faqs": []
@@ -25581,8 +24743,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7992,
     "lat": -20.31628,
     "lng": 57.52594,
     "faqs": []
@@ -25627,8 +24787,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 5280,
     "lat": -13.5319,
     "lng": -71.9675,
     "faqs": []
@@ -25673,8 +24831,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3786,
     "lat": 11.9404,
     "lng": 108.4583,
     "faqs": []
@@ -25719,8 +24875,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 6081,
     "lat": 11.94,
     "lng": 108.458,
     "faqs": []
@@ -25876,8 +25030,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2647,
     "lat": 16.06778,
     "lng": 108.22083,
     "faqs": []
@@ -26033,8 +25185,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4100,
     "lat": 16.0544,
     "lng": 108.2022,
     "faqs": []
@@ -26154,8 +25304,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3935,
     "lat": 35.87028,
     "lng": 128.59111,
     "faqs": []
@@ -26307,8 +25455,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 5359,
     "lat": 36.34913,
     "lng": 127.38493,
     "faqs": []
@@ -26349,8 +25495,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3807,
     "lat": 54.91525,
     "lng": 23.96831,
     "faqs": []
@@ -26495,8 +25639,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 8140,
     "lat": 14.6937,
     "lng": -17.44406,
     "faqs": []
@@ -26534,8 +25676,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2071,
     "lat": 7.087,
     "lng": 171.377,
     "faqs": []
@@ -26580,8 +25720,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 7666,
     "lat": 38.914,
     "lng": 121.6147,
     "faqs": []
@@ -26626,8 +25764,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1550,
     "lat": 32.7767,
     "lng": -96.797,
     "faqs": []
@@ -26667,8 +25803,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 1366,
     "lat": 6.87735,
     "lng": -6.45022,
     "faqs": []
@@ -26813,8 +25947,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 2310,
     "lat": 33.5102,
     "lng": 36.29128,
     "faqs": []
@@ -26896,8 +26028,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4854,
     "lat": 26.43442,
     "lng": 50.10326,
     "faqs": []
@@ -26940,8 +26070,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6186,
     "lat": 11.50881,
     "lng": 104.89144,
     "faqs": []
@@ -26982,8 +26110,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4589,
     "lat": 14.03333,
     "lng": -86.58333,
     "faqs": []
@@ -27123,8 +26249,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 5209,
     "lat": -6.82349,
     "lng": 39.26951,
     "faqs": []
@@ -27166,8 +26290,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3656,
     "lat": 18.10808,
     "lng": -15.92666,
     "faqs": []
@@ -27286,8 +26408,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 551,
     "lat": 49.48667,
     "lng": 105.92278,
     "faqs": []
@@ -27332,8 +26452,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2672,
     "lat": 27.041,
     "lng": 88.2663,
     "faqs": []
@@ -27378,8 +26496,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1934,
     "lat": -12.4634,
     "lng": 130.8456,
     "faqs": []
@@ -27444,8 +26560,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 5150,
     "lat": 41.83625,
     "lng": 59.96661,
     "faqs": []
@@ -27561,8 +26675,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1607,
     "lat": 55.88333,
     "lng": 26.53333,
     "faqs": []
@@ -27692,8 +26804,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 5176,
     "lat": 7.07306,
     "lng": 125.61278,
     "faqs": []
@@ -27737,8 +26847,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7247,
     "lat": 8.42729,
     "lng": -82.43085,
     "faqs": []
@@ -27782,8 +26890,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1986,
     "lat": 46.803,
     "lng": 9.837,
     "faqs": []
@@ -27821,8 +26927,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 2880,
     "lat": 25.27143,
     "lng": 55.30207,
     "faqs": []
@@ -27980,8 +27084,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6633,
     "lat": 47.53167,
     "lng": 21.62444,
     "faqs": []
@@ -28025,8 +27127,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 6871,
     "lat": 6.84019,
     "lng": 79.87116,
     "faqs": []
@@ -28071,8 +27171,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1084,
     "lat": 52.011,
     "lng": 4.357,
     "faqs": []
@@ -28116,8 +27214,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4585,
     "lat": 28.65195,
     "lng": 77.23149,
     "faqs": []
@@ -28158,8 +27254,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3161,
     "lat": 18.54478,
     "lng": -72.30036,
     "faqs": []
@@ -28204,8 +27298,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 8141,
     "lat": 38.4824,
     "lng": 22.501,
     "faqs": []
@@ -28250,8 +27342,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6029,
     "lat": 39.7392,
     "lng": -104.9903,
     "faqs": []
@@ -28320,8 +27410,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4188,
     "lat": -6.4,
     "lng": 106.81861,
     "faqs": []
@@ -28365,8 +27453,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1820,
     "lat": 23.7104,
     "lng": 90.40744,
     "faqs": []
@@ -28411,8 +27497,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 3201,
     "lat": 47.322,
     "lng": 5.0415,
     "faqs": []
@@ -28454,8 +27538,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2740,
     "lat": 11.10454,
     "lng": 42.36971,
     "faqs": []
@@ -28588,8 +27670,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3209,
     "lat": -8.55861,
     "lng": 125.57361,
     "faqs": []
@@ -28634,8 +27714,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4066,
     "lat": 40.741,
     "lng": 44.863,
     "faqs": []
@@ -28680,8 +27758,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 6403,
     "lat": 50.261,
     "lng": 4.912,
     "faqs": []
@@ -28725,8 +27801,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7350,
     "lat": 52.141,
     "lng": -10.269,
     "faqs": []
@@ -28828,8 +27902,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1495,
     "lat": 37.91363,
     "lng": 40.21721,
     "faqs": []
@@ -28873,8 +27945,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 6145,
     "lat": 11.58901,
     "lng": 43.14503,
     "faqs": []
@@ -29014,8 +28084,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3947,
     "lat": 48.46664,
     "lng": 35.04066,
     "faqs": []
@@ -29100,8 +28168,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7071,
     "lat": -6.17221,
     "lng": 35.73947,
     "faqs": []
@@ -29253,8 +28319,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4731,
     "lat": 25.28545,
     "lng": 51.53096,
     "faqs": []
@@ -29299,8 +28363,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 822,
     "lat": -4.19834,
     "lng": 12.66664,
     "faqs": []
@@ -29342,8 +28404,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1850,
     "lat": 21.16,
     "lng": -100.93,
     "faqs": []
@@ -29387,8 +28447,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4482,
     "lat": 48.2333,
     "lng": 16.46002,
     "faqs": []
@@ -29538,8 +28596,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 873,
     "lat": 48.023,
     "lng": 37.80224,
     "faqs": []
@@ -29618,8 +28674,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1967,
     "lat": 4.04827,
     "lng": 9.70428,
     "faqs": []
@@ -29720,8 +28774,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 2309,
     "lat": 59.74389,
     "lng": 10.20449,
     "faqs": []
@@ -29766,8 +28818,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 8290,
     "lat": 51.0504,
     "lng": 13.7373,
     "faqs": []
@@ -29925,8 +28975,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3639,
     "lat": 53.33306,
     "lng": -6.24889,
     "faqs": []
@@ -29966,8 +29014,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1879,
     "lat": 9.79111,
     "lng": -13.52333,
     "faqs": []
@@ -30012,8 +29058,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 483,
     "lat": 42.6507,
     "lng": 18.0944,
     "faqs": []
@@ -30123,8 +29167,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1500,
     "lat": 49.48056,
     "lng": 6.0875,
     "faqs": []
@@ -30169,8 +29211,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 3790,
     "lat": -45.8788,
     "lng": 170.5028,
     "faqs": []
@@ -30214,8 +29254,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2646,
     "lat": 10.22,
     "lng": 103.96,
     "faqs": []
@@ -30313,8 +29351,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 5245,
     "lat": -29.8579,
     "lng": 31.0292,
     "faqs": []
@@ -30474,8 +29510,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2010,
     "lat": 41.32355,
     "lng": 19.45469,
     "faqs": []
@@ -30638,8 +29672,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 421,
     "lat": 38.53575,
     "lng": 68.77905,
     "faqs": []
@@ -30774,8 +29806,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4201,
     "lat": 51.22319,
     "lng": 6.77927,
     "faqs": []
@@ -30817,8 +29847,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 2764,
     "lat": 2.15218,
     "lng": 11.33013,
     "faqs": []
@@ -30862,8 +29890,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 8253,
     "lat": 19.60492,
     "lng": -99.06064,
     "faqs": []
@@ -30908,56 +29934,8 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2403,
     "lat": 55.9533,
     "lng": -3.1883,
-    "faqs": []
-  },
-  {
-    "id": "edinburgh-old",
-    "slug": "edinburgh-old",
-    "name": "Edinburgh Old Town",
-    "countrySlug": "united-kingdom",
-    "countryName": "United Kingdom",
-    "tagline": "A city in United Kingdom",
-    "heroKey": "coast",
-    "galleryKeys": [
-      "coast",
-      "mountains",
-      "cityNight",
-      "alps"
-    ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Skyline_of_Edinburgh.jpg",
-    "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/1/1a/Skyline_of_Edinburgh.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/7/7d/20231022_Rockstar_North.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/1/1c/334038_sits_at_Edinburgh_Waverley%2C_05_April_2013.JPG",
-      "https://upload.wikimedia.org/wikipedia/en/7/79/Aerial_View_of_Edinburgh%2C_by_Alfred_Buckham%2C_from_about_1920.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/1/10/Arthur%27s_Seat_from_Bernard_Terrace%2C_Edinburgh_-_geograph.org.uk_-_5453114.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/9/91/Edinburgh._View_from_Calton_Hill.jpg"
-    ],
-    "overview": "Edinburgh Old Town is one of United Kingdom's major cities, home to around 20,000 people.",
-    "bestTime": "May–June & September–October for mild weather and thinner crowds",
-    "weather": "Temperate, with warm summers and cool winters",
-    "airport": "",
-    "metro": "",
-    "transport": "",
-    "thingsToDo": [],
-    "restaurants": [],
-    "hotels": [],
-    "stays": [],
-    "shopping": [],
-    "nightlife": [],
-    "museums": [],
-    "localFoods": [],
-    "itinerary": [],
-    "hiddenGems": [],
-    "tips": [],
-    "rating": 4.4,
-    "reviews": 3201,
-    "lat": 55.949,
-    "lng": -3.19,
     "faqs": []
   },
   {
@@ -30999,8 +29977,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5765,
     "lat": 53.55014,
     "lng": -113.46871,
     "faqs": []
@@ -31045,8 +30021,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 6244,
     "lat": 29.5577,
     "lng": 34.9519,
     "faqs": []
@@ -31189,8 +30163,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3103,
     "lat": 51.44083,
     "lng": 5.47778,
     "faqs": []
@@ -31234,8 +30206,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 6850,
     "lat": -50.3379,
     "lng": -72.2648,
     "faqs": []
@@ -31280,51 +30250,8 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2405,
     "lat": 11.1784,
     "lng": 119.3956,
-    "faqs": []
-  },
-  {
-    "id": "valencia-albufera",
-    "slug": "valencia-albufera",
-    "name": "El Palmar",
-    "countrySlug": "spain",
-    "countryName": "Spain",
-    "tagline": "A city in Spain",
-    "heroKey": "mountains",
-    "galleryKeys": [
-      "mountains",
-      "cityNight",
-      "alps",
-      "beach"
-    ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Canal_in_El_Palmar.jpg",
-    "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/e/e3/Canal_in_El_Palmar.jpg"
-    ],
-    "overview": "El Palmar is one of Spain's major cities, home to around 1,000 people.",
-    "bestTime": "May–June & September–October for mild weather and thinner crowds",
-    "weather": "Temperate, with warm summers and cool winters",
-    "airport": "",
-    "metro": "",
-    "transport": "",
-    "thingsToDo": [],
-    "restaurants": [],
-    "hotels": [],
-    "stays": [],
-    "shopping": [],
-    "nightlife": [],
-    "museums": [],
-    "localFoods": [],
-    "itinerary": [],
-    "hiddenGems": [],
-    "tips": [],
-    "rating": 4.5,
-    "reviews": 6449,
-    "lat": 39.317,
-    "lng": -0.318,
     "faqs": []
   },
   {
@@ -31420,8 +30347,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 6325,
     "lat": 41.11138,
     "lng": 20.08224,
     "faqs": []
@@ -31503,8 +30428,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7168,
     "lat": 0.52036,
     "lng": 35.26993,
     "faqs": []
@@ -31545,8 +30468,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 6193,
     "lat": 6.8667,
     "lng": 81.0466,
     "faqs": []
@@ -31590,8 +30511,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 1344,
     "lat": 31.87,
     "lng": -116.6,
     "faqs": []
@@ -31632,8 +30551,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 3655,
     "lat": 49.04,
     "lng": 3.959,
     "faqs": []
@@ -31677,8 +30594,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3908,
     "lat": -17.89,
     "lng": 31.1475,
     "faqs": []
@@ -31829,8 +30744,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4211,
     "lat": 36.19117,
     "lng": 44.00943,
     "faqs": []
@@ -31875,8 +30788,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 6384,
     "lat": 40.806,
     "lng": 14.353,
     "faqs": []
@@ -31958,8 +30869,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 816,
     "lat": 49.03333,
     "lng": 104.08333,
     "faqs": []
@@ -32003,8 +30912,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3561,
     "lat": 40.13309,
     "lng": 44.53009,
     "faqs": []
@@ -32108,8 +31015,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1075,
     "lat": 55.47028,
     "lng": 8.45187,
     "faqs": []
@@ -32220,8 +31125,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4757,
     "lat": 49.49583,
     "lng": 5.98056,
     "faqs": []
@@ -32264,8 +31167,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 4889,
     "lat": 16.75524,
     "lng": -22.9446,
     "faqs": []
@@ -32413,8 +31314,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 7861,
     "lat": 60.2052,
     "lng": 24.6522,
     "faqs": []
@@ -32459,8 +31358,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 5863,
     "lat": 31.5085,
     "lng": -9.7595,
     "faqs": []
@@ -32537,8 +31434,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 993,
     "lat": 13.09291,
     "lng": -86.35589,
     "faqs": []
@@ -32583,8 +31478,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2606,
     "lat": 49.707,
     "lng": 0.207,
     "faqs": []
@@ -32629,8 +31522,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4434,
     "lat": 38.5714,
     "lng": -7.9096,
     "faqs": []
@@ -32675,8 +31566,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 7357,
     "lat": 43.728,
     "lng": 7.362,
     "faqs": []
@@ -32720,8 +31609,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4762,
     "lat": 64.8378,
     "lng": -147.7164,
     "faqs": []
@@ -32804,8 +31691,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 931,
     "lat": 31.41554,
     "lng": 73.08969,
     "faqs": []
@@ -32845,8 +31730,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 3319,
     "lat": 13.41778,
     "lng": -16.66667,
     "faqs": []
@@ -32956,8 +31839,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4988,
     "lat": 35.12489,
     "lng": 33.94135,
     "faqs": []
@@ -33001,8 +31882,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7449,
     "lat": 37.0194,
     "lng": -7.9304,
     "faqs": []
@@ -33046,8 +31925,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4115,
     "lat": 48.16116,
     "lng": 16.38233,
     "faqs": []
@@ -33090,8 +31967,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7744,
     "lat": -25.3386,
     "lng": -57.52167,
     "faqs": []
@@ -33136,8 +32011,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 2382,
     "lat": -3.854,
     "lng": -32.428,
     "faqs": []
@@ -33181,8 +32054,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1762,
     "lat": 44.838,
     "lng": 11.62,
     "faqs": []
@@ -33304,8 +32175,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7207,
     "lat": 34.03313,
     "lng": -5.00028,
     "faqs": []
@@ -33350,8 +32219,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 3259,
     "lat": 36.6513,
     "lng": 29.1272,
     "faqs": []
@@ -33396,8 +32263,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3874,
     "lat": 34.0181,
     "lng": -5.0078,
     "faqs": []
@@ -33473,8 +32338,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5522,
     "lat": -21.45267,
     "lng": 47.08569,
     "faqs": []
@@ -33517,8 +32380,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7311,
     "lat": 36.4166,
     "lng": 25.4324,
     "faqs": []
@@ -33561,8 +32422,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7943,
     "lat": 36.417,
     "lng": 25.433,
     "faqs": []
@@ -33606,8 +32465,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 839,
     "lat": 60.863,
     "lng": 7.113,
     "faqs": []
@@ -33645,8 +32502,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 7863,
     "lat": 5.8,
     "lng": -55.2,
     "faqs": []
@@ -33691,8 +32546,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3095,
     "lat": 43.7696,
     "lng": 11.2558,
     "faqs": []
@@ -33737,8 +32590,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 5210,
     "lat": -27.5954,
     "lng": -48.548,
     "faqs": []
@@ -33782,8 +32633,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 639,
     "lat": 48.25,
     "lng": 16.4,
     "faqs": []
@@ -33823,8 +32672,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4975,
     "lat": -12.28759,
     "lng": 43.74344,
     "faqs": []
@@ -33869,8 +32716,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4710,
     "lat": 26.1224,
     "lng": -80.1373,
     "faqs": []
@@ -33997,8 +32842,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 2149,
     "lat": -3.71722,
     "lng": -38.54306,
     "faqs": []
@@ -34043,8 +32886,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2954,
     "lat": -25.5163,
     "lng": -54.5855,
     "faqs": []
@@ -34109,8 +32950,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3286,
     "lat": -1.63333,
     "lng": 13.58357,
     "faqs": []
@@ -34199,8 +33038,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 2961,
     "lat": -21.17,
     "lng": 27.50778,
     "faqs": []
@@ -34245,8 +33082,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 6780,
     "lat": 50.1109,
     "lng": 8.6821,
     "faqs": []
@@ -34312,8 +33147,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 6489,
     "lat": 50.11552,
     "lng": 8.68417,
     "faqs": []
@@ -34442,8 +33275,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7394,
     "lat": 55.67938,
     "lng": 12.53463,
     "faqs": []
@@ -34488,8 +33319,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 1072,
     "lat": 26.53333,
     "lng": -78.7,
     "faqs": []
@@ -34527,8 +33356,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1224,
     "lat": 26.5333,
     "lng": -78.7,
     "faqs": []
@@ -34634,8 +33461,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 2885,
     "lat": 8.48714,
     "lng": -13.2356,
     "faqs": []
@@ -34680,8 +33505,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7563,
     "lat": 47.999,
     "lng": 7.8421,
     "faqs": []
@@ -34726,8 +33549,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 3447,
     "lat": 46.806,
     "lng": 7.162,
     "faqs": []
@@ -34863,8 +33684,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4877,
     "lat": 33.6,
     "lng": 130.41667,
     "faqs": []
@@ -34908,8 +33727,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 6175,
     "lat": -8.52425,
     "lng": 179.19417,
     "faqs": []
@@ -34953,8 +33770,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3076,
     "lat": 32.6669,
     "lng": -16.9241,
     "faqs": []
@@ -34999,8 +33814,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 779,
     "lat": 47.5714,
     "lng": 10.7017,
     "faqs": []
@@ -35124,8 +33937,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7972,
     "lat": -24.65451,
     "lng": 25.90859,
     "faqs": []
@@ -35179,8 +33990,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 828,
     "lat": 12.28,
     "lng": -14.22222,
     "faqs": []
@@ -35225,8 +34034,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6540,
     "lat": 6.0535,
     "lng": 80.221,
     "faqs": []
@@ -35365,8 +34172,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3470,
     "lat": 53.27245,
     "lng": -9.05095,
     "faqs": []
@@ -35410,8 +34215,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 8163,
     "lat": 37.7519,
     "lng": 128.8761,
     "faqs": []
@@ -35500,8 +34303,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 1132,
     "lat": 40.68157,
     "lng": 46.36134,
     "faqs": []
@@ -35546,8 +34347,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7846,
     "lat": 7.235,
     "lng": -8.98444,
     "faqs": []
@@ -35588,8 +34387,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1167,
     "lat": 47.492,
     "lng": 11.095,
     "faqs": []
@@ -35710,8 +34507,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 5124,
     "lat": 37.05944,
     "lng": 37.3825,
     "faqs": []
@@ -35796,8 +34591,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 5081,
     "lat": 23.99844,
     "lng": 90.42234,
     "faqs": []
@@ -35842,8 +34635,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1749,
     "lat": 6.99543,
     "lng": -9.47122,
     "faqs": []
@@ -35977,8 +34768,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2645,
     "lat": 54.35227,
     "lng": 18.64912,
     "faqs": []
@@ -36023,8 +34812,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7201,
     "lat": 62.1,
     "lng": 7.2,
     "faqs": []
@@ -36065,8 +34852,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4371,
     "lat": 9.86,
     "lng": 126.05,
     "faqs": []
@@ -36183,8 +34968,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1397,
     "lat": 46.20222,
     "lng": 6.14569,
     "faqs": []
@@ -36285,8 +35068,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3887,
     "lat": 44.40478,
     "lng": 8.94439,
     "faqs": []
@@ -36389,8 +35170,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1887,
     "lat": 51.05,
     "lng": 3.71667,
     "faqs": []
@@ -36435,8 +35214,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 2799,
     "lat": 5.4141,
     "lng": 100.3288,
     "faqs": []
@@ -36481,8 +35258,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2242,
     "lat": 5.414,
     "lng": 100.329,
     "faqs": []
@@ -36527,8 +35302,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 8092,
     "lat": 5.4141,
     "lng": 100.3288,
     "faqs": []
@@ -36573,8 +35346,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4544,
     "lat": 6.80448,
     "lng": -58.15527,
     "faqs": []
@@ -36615,8 +35386,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 4318,
     "lat": 52.738,
     "lng": 6.078,
     "faqs": []
@@ -36660,8 +35429,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 5930,
     "lat": -8.35,
     "lng": 116.04,
     "faqs": []
@@ -36705,8 +35472,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 5867,
     "lat": -8.35,
     "lng": 116.037,
     "faqs": []
@@ -36801,8 +35566,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3281,
     "lat": -1.70278,
     "lng": 29.25639,
     "faqs": []
@@ -36844,8 +35607,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7735,
     "lat": -2.07444,
     "lng": 29.75667,
     "faqs": []
@@ -36897,8 +35658,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3050,
     "lat": -3.42708,
     "lng": 29.92463,
     "faqs": []
@@ -37013,8 +35772,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1752,
     "lat": 30.00944,
     "lng": 31.20861,
     "faqs": []
@@ -37059,8 +35816,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7088,
     "lat": 40.0758,
     "lng": 20.1389,
     "faqs": []
@@ -37196,8 +35951,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 5737,
     "lat": 55.86515,
     "lng": -4.25763,
     "faqs": []
@@ -37241,8 +35994,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1930,
     "lat": 15.4909,
     "lng": 73.8278,
     "faqs": []
@@ -37287,8 +36038,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 7584,
     "lat": 6.38948,
     "lng": 2.34581,
     "faqs": []
@@ -37332,8 +36081,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 6238,
     "lat": 14.55,
     "lng": 74.32,
     "faqs": []
@@ -37378,8 +36125,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 8132,
     "lat": -28.00029,
     "lng": 153.43088,
     "faqs": []
@@ -37475,8 +36220,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5414,
     "lat": 12.6,
     "lng": 37.46667,
     "faqs": []
@@ -37520,8 +36263,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 317,
     "lat": 43.911,
     "lng": 5.2,
     "faqs": []
@@ -37566,8 +36307,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3390,
     "lat": 38.6431,
     "lng": 34.8289,
     "faqs": []
@@ -37612,8 +36351,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 1160,
     "lat": 38.6431,
     "lng": 34.8289,
     "faqs": []
@@ -37742,8 +36479,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 8194,
     "lat": 41.98532,
     "lng": 44.1129,
     "faqs": []
@@ -37872,8 +36607,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 5722,
     "lat": 57.70716,
     "lng": 11.96679,
     "faqs": []
@@ -38022,8 +36755,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4238,
     "lat": -33.96109,
     "lng": 25.61494,
     "faqs": []
@@ -38068,8 +36799,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 367,
     "lat": 37.1773,
     "lng": -3.5986,
     "faqs": []
@@ -38113,8 +36842,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 5487,
     "lat": -20.013,
     "lng": 57.581,
     "faqs": []
@@ -38156,8 +36883,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3663,
     "lat": 36.0544,
     "lng": -112.1401,
     "faqs": []
@@ -38284,8 +37009,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4517,
     "lat": 47.06733,
     "lng": 15.44197,
     "faqs": []
@@ -38328,8 +37051,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2423,
     "lat": 43.585,
     "lng": 11.318,
     "faqs": []
@@ -38374,8 +37095,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5700,
     "lat": 46.6242,
     "lng": 8.0414,
     "faqs": []
@@ -38513,8 +37232,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7376,
     "lat": 53.21917,
     "lng": 6.56667,
     "faqs": []
@@ -38614,8 +37331,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4330,
     "lat": 14.06667,
     "lng": -60.95,
     "faqs": []
@@ -38660,8 +37375,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1896,
     "lat": 20.6597,
     "lng": -103.3496,
     "faqs": []
@@ -38706,8 +37419,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1282,
     "lat": 21.019,
     "lng": -101.2574,
     "faqs": []
@@ -38752,8 +37463,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 7342,
     "lat": 21.02,
     "lng": -101.26,
     "faqs": []
@@ -38797,8 +37506,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 7021,
     "lat": 23.11667,
     "lng": 113.25,
     "faqs": []
@@ -38842,8 +37549,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 1384,
     "lat": 20.14444,
     "lng": -75.20917,
     "faqs": []
@@ -38971,8 +37676,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 3986,
     "lat": 14.64072,
     "lng": -90.51327,
     "faqs": []
@@ -39071,8 +37774,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3191,
     "lat": -2.19616,
     "lng": -79.88621,
     "faqs": []
@@ -39117,8 +37818,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4207,
     "lat": 43.355,
     "lng": 12.573,
     "faqs": []
@@ -39162,8 +37861,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4044,
     "lat": 14.77446,
     "lng": -17.40212,
     "faqs": []
@@ -39208,8 +37905,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1415,
     "lat": 25.2736,
     "lng": 110.29,
     "faqs": []
@@ -39254,8 +37949,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 2143,
     "lat": 41.443,
     "lng": -8.292,
     "faqs": []
@@ -39323,8 +38016,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 6621,
     "lat": 32.15567,
     "lng": 74.18705,
     "faqs": []
@@ -39430,8 +38121,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4604,
     "lat": 35.15472,
     "lng": 126.91556,
     "faqs": []
@@ -39529,8 +38218,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 7293,
     "lat": -19.45,
     "lng": 29.81667,
     "faqs": []
@@ -39574,8 +38261,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 307,
     "lat": 35.8562,
     "lng": 129.2247,
     "faqs": []
@@ -39619,8 +38304,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 7271,
     "lat": 20.95,
     "lng": 107.08,
     "faqs": []
@@ -39665,8 +38348,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7997,
     "lat": 52.3874,
     "lng": 4.6462,
     "faqs": []
@@ -39711,8 +38392,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5600,
     "lat": 35.1587,
     "lng": 129.1604,
     "faqs": []
@@ -39755,8 +38434,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4828,
     "lat": 64.0671,
     "lng": -21.93774,
     "faqs": []
@@ -39800,8 +38477,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 2942,
     "lat": 13.476,
     "lng": 144.75,
     "faqs": []
@@ -39923,8 +38598,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4144,
     "lat": 32.81303,
     "lng": 34.99928,
     "faqs": []
@@ -40030,8 +38703,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 3931,
     "lat": 20.86481,
     "lng": 106.68345,
     "faqs": []
@@ -40076,8 +38747,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 805,
     "lat": 35.2324,
     "lng": 139.1067,
     "faqs": []
@@ -40121,8 +38790,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 384,
     "lat": 47.5622,
     "lng": 13.6493,
     "faqs": []
@@ -40166,8 +38833,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5024,
     "lat": 35.13179,
     "lng": 36.75783,
     "faqs": []
@@ -40213,8 +38878,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6017,
     "lat": 53.55073,
     "lng": 9.99302,
     "faqs": []
@@ -40258,8 +38921,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 1457,
     "lat": 39.91833,
     "lng": 127.53639,
     "faqs": []
@@ -40303,8 +38964,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3799,
     "lat": -37.78333,
     "lng": 175.28333,
     "faqs": []
@@ -40349,8 +39008,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6974,
     "lat": 32.2942,
     "lng": -64.7839,
     "faqs": []
@@ -40395,8 +39052,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 358,
     "lat": 15.335,
     "lng": 76.46,
     "faqs": []
@@ -40441,8 +39096,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5032,
     "lat": 15.335,
     "lng": 76.46,
     "faqs": []
@@ -40487,8 +39140,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 1839,
     "lat": 30.2741,
     "lng": 120.1551,
     "faqs": []
@@ -40643,8 +39294,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7540,
     "lat": 21.0245,
     "lng": 105.84117,
     "faqs": []
@@ -40772,8 +39421,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 2458,
     "lat": -17.82772,
     "lng": 31.05337,
     "faqs": []
@@ -40817,8 +39464,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7877,
     "lat": 45.8038,
     "lng": 126.5349,
     "faqs": []
@@ -40862,8 +39507,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2519,
     "lat": 9.56,
     "lng": 44.065,
     "faqs": []
@@ -40999,8 +39642,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4682,
     "lat": 23.13302,
     "lng": -82.38304,
     "faqs": []
@@ -41072,8 +39713,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6883,
     "lat": 29.33278,
     "lng": 48.02861,
     "faqs": []
@@ -41111,8 +39750,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1278,
     "lat": 31.99202,
     "lng": 35.84002,
     "faqs": []
@@ -41155,8 +39792,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1412,
     "lat": 38.61,
     "lng": -122.87,
     "faqs": []
@@ -41201,8 +39836,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4748,
     "lat": 49.3988,
     "lng": 8.6724,
     "faqs": []
@@ -41246,8 +39879,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 1648,
     "lat": 60.16952,
     "lng": 24.93545,
     "faqs": []
@@ -41291,8 +39922,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2398,
     "lat": 35.3387,
     "lng": 25.1442,
     "faqs": []
@@ -41336,8 +39965,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 6512,
     "lat": 35.3387,
     "lng": 25.1442,
     "faqs": []
@@ -41429,8 +40056,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3091,
     "lat": 34.34817,
     "lng": 62.19967,
     "faqs": []
@@ -41518,8 +40143,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 4566,
     "lat": 42.45306,
     "lng": 18.5375,
     "faqs": []
@@ -41564,8 +40187,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5672,
     "lat": -34.419,
     "lng": 19.235,
     "faqs": []
@@ -41608,8 +40229,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 6262,
     "lat": 19.707,
     "lng": -155.09,
     "faqs": []
@@ -41654,8 +40273,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 6624,
     "lat": 32.22,
     "lng": -80.75,
     "faqs": []
@@ -41696,8 +40313,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 571,
     "lat": 14.30427,
     "lng": 36.60601,
     "faqs": []
@@ -41741,8 +40356,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 647,
     "lat": 34.3853,
     "lng": 132.4553,
     "faqs": []
@@ -41782,8 +40395,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 5363,
     "lat": 16.85,
     "lng": 96.06667,
     "faqs": []
@@ -41831,8 +40442,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3906,
     "lat": -28.87185,
     "lng": 28.04501,
     "faqs": []
@@ -41998,8 +40607,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 4786,
     "lat": 10.82302,
     "lng": 106.62965,
     "faqs": []
@@ -42043,8 +40650,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3537,
     "lat": -42.8821,
     "lng": 147.3272,
     "faqs": []
@@ -42089,8 +40694,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 591,
     "lat": 15.8801,
     "lng": 108.338,
     "faqs": []
@@ -42135,8 +40738,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1745,
     "lat": 21.52,
     "lng": -87.38,
     "faqs": []
@@ -42195,8 +40796,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 8169,
     "lat": 20.88722,
     "lng": -76.26306,
     "faqs": []
@@ -42278,8 +40877,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1896,
     "lat": 34.72405,
     "lng": 36.72559,
     "faqs": []
@@ -42323,8 +40920,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 7985,
     "lat": 52.4345,
     "lng": 30.9754,
     "faqs": []
@@ -42369,8 +40964,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2808,
     "lat": 49.419,
     "lng": 0.233,
     "faqs": []
@@ -42414,8 +41007,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3835,
     "lat": 22.3193,
     "lng": 114.1694,
     "faqs": []
@@ -42493,8 +41084,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 3137,
     "lat": -9.43333,
     "lng": 159.95,
     "faqs": []
@@ -42538,8 +41127,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 859,
     "lat": 21.3069,
     "lng": -157.8583,
     "faqs": []
@@ -42584,8 +41171,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 5634,
     "lat": 38.539,
     "lng": -28.63,
     "faqs": []
@@ -42629,8 +41214,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 4937,
     "lat": 33.875,
     "lng": 10.85,
     "faqs": []
@@ -42679,8 +41262,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 8075,
     "lat": 29.76328,
     "lng": -95.36327,
     "faqs": []
@@ -42797,8 +41378,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4119,
     "lat": 53.6758,
     "lng": 23.82887,
     "faqs": []
@@ -42842,8 +41421,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 763,
     "lat": 12.5684,
     "lng": 99.9577,
     "faqs": []
@@ -42885,8 +41462,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 7393,
     "lat": 23.9871,
     "lng": 121.6011,
     "faqs": []
@@ -42931,8 +41506,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6554,
     "lat": 29.7147,
     "lng": 118.3375,
     "faqs": []
@@ -42977,8 +41550,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 6240,
     "lat": 15.77,
     "lng": -96.13,
     "faqs": []
@@ -43116,8 +41687,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1555,
     "lat": 16.4619,
     "lng": 107.59546,
     "faqs": []
@@ -43159,8 +41728,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3597,
     "lat": 39.84198,
     "lng": 127.63206,
     "faqs": []
@@ -43205,8 +41772,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 5391,
     "lat": 27.2579,
     "lng": 33.8116,
     "faqs": []
@@ -43251,8 +41816,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1984,
     "lat": 43.1729,
     "lng": 16.4411,
     "faqs": []
@@ -43325,8 +41888,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 901,
     "lat": 17.38405,
     "lng": 78.45636,
     "faqs": []
@@ -43371,8 +41932,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 6386,
     "lat": 37.349,
     "lng": 23.465,
     "faqs": []
@@ -43503,8 +42062,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5173,
     "lat": 47.16667,
     "lng": 27.6,
     "faqs": []
@@ -43642,8 +42199,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5608,
     "lat": 7.37756,
     "lng": 3.90591,
     "faqs": []
@@ -43685,8 +42240,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 1436,
     "lat": 13.96667,
     "lng": 44.18333,
     "faqs": []
@@ -43727,8 +42280,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2636,
     "lat": 38.9067,
     "lng": 1.4206,
     "faqs": []
@@ -43769,8 +42320,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 2527,
     "lat": 38.9067,
     "lng": 1.4206,
     "faqs": []
@@ -43814,8 +42363,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 4789,
     "lat": 1.61804,
     "lng": 18.05981,
     "faqs": []
@@ -43948,8 +42495,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 2301,
     "lat": 37.45646,
     "lng": 126.70515,
     "faqs": []
@@ -43994,8 +42539,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 6290,
     "lat": 47.2692,
     "lng": 11.4041,
     "faqs": []
@@ -44039,8 +42582,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5760,
     "lat": 46.6863,
     "lng": 7.8632,
     "faqs": []
@@ -44085,8 +42626,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5116,
     "lat": 57.4778,
     "lng": -4.2247,
     "faqs": []
@@ -44130,8 +42669,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 733,
     "lat": 36.723,
     "lng": 25.282,
     "faqs": []
@@ -44240,8 +42777,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2015,
     "lat": 4.5841,
     "lng": 101.0829,
     "faqs": []
@@ -44333,8 +42868,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 8079,
     "lat": 32.55556,
     "lng": 35.85,
     "faqs": []
@@ -44378,8 +42911,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 3676,
     "lat": 52.287,
     "lng": 104.305,
     "faqs": []
@@ -44423,8 +42954,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3536,
     "lat": 40.735,
     "lng": 13.946,
     "faqs": []
@@ -44544,8 +43073,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4181,
     "lat": 32.65246,
     "lng": 51.67462,
     "faqs": []
@@ -44586,8 +43113,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3769,
     "lat": 40.12649,
     "lng": 70.62526,
     "faqs": []
@@ -44632,8 +43157,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4742,
     "lat": 24.344,
     "lng": 124.157,
     "faqs": []
@@ -44677,8 +43200,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 896,
     "lat": 21.23,
     "lng": -86.73,
     "faqs": []
@@ -44813,8 +43334,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2327,
     "lat": 33.72148,
     "lng": 73.04329,
     "faqs": []
@@ -44858,8 +43377,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 3699,
     "lat": 41.01384,
     "lng": 28.94966,
     "faqs": []
@@ -44905,8 +43422,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 8221,
     "lat": 39.9142,
     "lng": 69.00328,
     "faqs": []
@@ -45037,8 +43552,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2526,
     "lat": 38.41273,
     "lng": 27.13838,
     "faqs": []
@@ -45120,8 +43633,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7182,
     "lat": 19.35529,
     "lng": -99.06224,
     "faqs": []
@@ -45165,8 +43676,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2781,
     "lat": 43.4799,
     "lng": -110.7624,
     "faqs": []
@@ -45280,8 +43789,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 5931,
     "lat": 9.66845,
     "lng": 80.00742,
     "faqs": []
@@ -45325,8 +43832,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7938,
     "lat": 26.9124,
     "lng": 75.7873,
     "faqs": []
@@ -45371,8 +43876,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2601,
     "lat": 26.9157,
     "lng": 70.9083,
     "faqs": []
@@ -45416,8 +43919,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 6515,
     "lat": -6.21462,
     "lng": 106.84513,
     "faqs": []
@@ -45488,8 +43989,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 3421,
     "lat": 34.42647,
     "lng": 70.45153,
     "faqs": []
@@ -45599,8 +44098,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3148,
     "lat": 14.63542,
     "lng": -89.99112,
     "faqs": []
@@ -45645,8 +44142,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7016,
     "lat": 52.8737,
     "lng": -118.0814,
     "faqs": []
@@ -45778,8 +44273,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 2443,
     "lat": 21.49012,
     "lng": 39.18624,
     "faqs": []
@@ -45823,8 +44316,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4213,
     "lat": 33.4996,
     "lng": 126.5312,
     "faqs": []
@@ -45868,8 +44359,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5209,
     "lat": 33.4996,
     "lng": 126.5312,
     "faqs": []
@@ -45969,8 +44458,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3683,
     "lat": 56.65,
     "lng": 23.71278,
     "faqs": []
@@ -46014,8 +44501,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1840,
     "lat": 35.8242,
     "lng": 127.148,
     "faqs": []
@@ -46061,8 +44546,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1527,
     "lat": 31.76904,
     "lng": 35.21633,
     "faqs": []
@@ -46102,8 +44585,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6961,
     "lat": 26.21861,
     "lng": 50.54778,
     "faqs": []
@@ -46164,8 +44645,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 595,
     "lat": 9.35,
     "lng": 42.8,
     "faqs": []
@@ -46209,8 +44688,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 6251,
     "lat": -8.77,
     "lng": 115.16,
     "faqs": []
@@ -46254,8 +44731,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3780,
     "lat": 25.109,
     "lng": 121.844,
     "faqs": []
@@ -46300,8 +44775,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4435,
     "lat": 26.2389,
     "lng": 73.0243,
     "faqs": []
@@ -46345,8 +44818,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6921,
     "lat": -26.20227,
     "lng": 28.04363,
     "faqs": []
@@ -46484,8 +44955,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5772,
     "lat": 1.4655,
     "lng": 103.7578,
     "faqs": []
@@ -46529,8 +44998,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3330,
     "lat": 9.04059,
     "lng": -79.44083,
     "faqs": []
@@ -46620,8 +45087,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1071,
     "lat": 4.85165,
     "lng": 31.58247,
     "faqs": []
@@ -46666,8 +45131,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 7985,
     "lat": 58.3019,
     "lng": -134.4197,
     "faqs": []
@@ -46755,8 +45218,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5459,
     "lat": 56.968,
     "lng": 23.77038,
     "faqs": []
@@ -46800,8 +45261,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1417,
     "lat": 1.33417,
     "lng": 103.72278,
     "faqs": []
@@ -46933,8 +45392,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5620,
     "lat": 34.52813,
     "lng": 69.17233,
     "faqs": []
@@ -46999,8 +45456,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 8025,
     "lat": -14.4469,
     "lng": 28.44644,
     "faqs": []
@@ -47113,8 +45568,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5279,
     "lat": 10.52641,
     "lng": 7.43879,
     "faqs": []
@@ -47197,8 +45650,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 5833,
     "lat": 37.97083,
     "lng": 126.55444,
     "faqs": []
@@ -47242,8 +45693,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 5318,
     "lat": 19.64,
     "lng": -155.997,
     "faqs": []
@@ -47334,8 +45783,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7761,
     "lat": 35.6781,
     "lng": 10.09633,
     "faqs": []
@@ -47409,8 +45856,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4871,
     "lat": 0.28422,
     "lng": 34.75229,
     "faqs": []
@@ -47450,8 +45895,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4142,
     "lat": 6.53104,
     "lng": -10.35368,
     "faqs": []
@@ -47495,8 +45938,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1734,
     "lat": 39.7044,
     "lng": 21.6281,
     "faqs": []
@@ -47538,8 +45979,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4311,
     "lat": 23.19014,
     "lng": 94.06405,
     "faqs": []
@@ -47580,8 +46019,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 557,
     "lat": 54.7104,
     "lng": 20.4522,
     "faqs": []
@@ -47626,8 +46063,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4234,
     "lat": 35.3192,
     "lng": 139.5467,
     "faqs": []
@@ -47791,8 +46226,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 1900,
     "lat": 0.31628,
     "lng": 32.58219,
     "faqs": []
@@ -47836,8 +46269,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3925,
     "lat": 10.61,
     "lng": 104.18,
     "faqs": []
@@ -47882,8 +46313,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 8136,
     "lat": 3.15,
     "lng": 101.53333,
     "faqs": []
@@ -47932,8 +46361,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5022,
     "lat": -5.89624,
     "lng": 22.41659,
     "faqs": []
@@ -47978,8 +46405,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5715,
     "lat": 36.5613,
     "lng": 136.6562,
     "faqs": []
@@ -48021,8 +46446,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 580,
     "lat": 14.004,
     "lng": 99.548,
     "faqs": []
@@ -48144,8 +46567,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4349,
     "lat": 31.61332,
     "lng": 65.71013,
     "faqs": []
@@ -48190,8 +46611,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 962,
     "lat": 7.2906,
     "lng": 80.6337,
     "faqs": []
@@ -48241,8 +46660,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1841,
     "lat": 10.38542,
     "lng": -9.30568,
     "faqs": []
@@ -48389,8 +46806,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7314,
     "lat": 12.00012,
     "lng": 8.51672,
     "faqs": []
@@ -48434,8 +46849,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7802,
     "lat": 22.6273,
     "lng": 120.3014,
     "faqs": []
@@ -48486,8 +46899,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 1901,
     "lat": 14.15197,
     "lng": -16.07259,
     "faqs": []
@@ -48545,8 +46956,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3028,
     "lat": 9.55111,
     "lng": 1.18611,
     "faqs": []
@@ -48697,8 +47106,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 790,
     "lat": 24.8608,
     "lng": 67.0104,
     "faqs": []
@@ -48742,8 +47149,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5927,
     "lat": 49.80187,
     "lng": 73.10211,
     "faqs": []
@@ -48816,8 +47221,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7378,
     "lat": 35.83266,
     "lng": 50.99155,
     "faqs": []
@@ -48944,8 +47347,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2230,
     "lat": 42.49047,
     "lng": 78.39197,
     "faqs": []
@@ -48990,8 +47391,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1856,
     "lat": 50.232,
     "lng": 12.871,
     "faqs": []
@@ -49054,8 +47453,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 5908,
     "lat": -9.93333,
     "lng": 33.93333,
     "faqs": []
@@ -49100,8 +47497,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 8114,
     "lat": 36.2018,
     "lng": 29.6411,
     "faqs": []
@@ -49163,8 +47558,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1443,
     "lat": 15.45099,
     "lng": 36.39998,
     "faqs": []
@@ -49209,8 +47602,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3925,
     "lat": -13.03333,
     "lng": 33.48333,
     "faqs": []
@@ -49261,8 +47652,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1032,
     "lat": 27.70169,
     "lng": 85.3206,
     "faqs": []
@@ -49307,8 +47696,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 1703,
     "lat": 35.11755,
     "lng": 33.32539,
     "faqs": []
@@ -49348,8 +47735,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 7037,
     "lat": 21.09,
     "lng": -157.02,
     "faqs": []
@@ -49505,8 +47890,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6574,
     "lat": 54.90156,
     "lng": 23.90909,
     "faqs": []
@@ -49547,8 +47930,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 748,
     "lat": 10.57,
     "lng": 72.64,
     "faqs": []
@@ -49600,8 +47981,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 2503,
     "lat": 13.0883,
     "lng": -1.08368,
     "faqs": []
@@ -49643,8 +48022,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 2736,
     "lat": -4.20493,
     "lng": 13.28608,
     "faqs": []
@@ -49686,8 +48063,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 2782,
     "lat": 14.44776,
     "lng": -11.44393,
     "faqs": []
@@ -49826,8 +48201,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 690,
     "lat": 55.78874,
     "lng": 49.12214,
     "faqs": []
@@ -49888,8 +48261,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2880,
     "lat": 64.00492,
     "lng": -22.56242,
     "faqs": []
@@ -49929,8 +48300,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3656,
     "lat": 9.30859,
     "lng": 15.80658,
     "faqs": []
@@ -49980,8 +48349,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 7950,
     "lat": 7.87687,
     "lng": -11.19025,
     "faqs": []
@@ -50024,8 +48391,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 3741,
     "lat": 4.6165,
     "lng": -74.14597,
     "faqs": []
@@ -50070,8 +48435,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4667,
     "lat": 21.948,
     "lng": 120.779,
     "faqs": []
@@ -50116,8 +48479,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 7894,
     "lat": 40.17806,
     "lng": 44.51303,
     "faqs": []
@@ -50185,8 +48546,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7834,
     "lat": 15.77792,
     "lng": 38.45107,
     "faqs": []
@@ -50231,8 +48590,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1780,
     "lat": 59.4355,
     "lng": 24.75748,
     "faqs": []
@@ -50277,8 +48634,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 7587,
     "lat": 55.342,
     "lng": -131.647,
     "faqs": []
@@ -50320,8 +48675,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4732,
     "lat": 25.09,
     "lng": -80.45,
     "faqs": []
@@ -50366,8 +48719,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3896,
     "lat": 24.5551,
     "lng": -81.78,
     "faqs": []
@@ -50411,8 +48762,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7145,
     "lat": 8.65,
     "lng": 98.25,
     "faqs": []
@@ -50572,8 +48921,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 2815,
     "lat": 49.98177,
     "lng": 36.25475,
     "faqs": []
@@ -50712,8 +49059,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 4146,
     "lat": 15.55177,
     "lng": 32.53241,
     "faqs": []
@@ -50755,8 +49100,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4992,
     "lat": 15.64925,
     "lng": 32.53458,
     "faqs": []
@@ -50800,8 +49143,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 3611,
     "lat": 40.44808,
     "lng": 49.75502,
     "faqs": []
@@ -50846,8 +49187,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 2172,
     "lat": 41.378,
     "lng": 60.364,
     "faqs": []
@@ -50983,8 +49322,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3050,
     "lat": 40.28256,
     "lng": 69.62216,
     "faqs": []
@@ -51059,8 +49396,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1286,
     "lat": 22.80979,
     "lng": 89.56439,
     "faqs": []
@@ -51098,8 +49433,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 1481,
     "lat": 31.87913,
     "lng": 35.92098,
     "faqs": []
@@ -51143,8 +49476,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3420,
     "lat": 16.62073,
     "lng": -11.40208,
     "faqs": []
@@ -51288,8 +49619,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3142,
     "lat": -1.94995,
     "lng": 30.05885,
     "faqs": []
@@ -51331,8 +49660,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 830,
     "lat": -8.7815,
     "lng": 13.33384,
     "faqs": []
@@ -51457,8 +49784,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 2234,
     "lat": 25.05,
     "lng": -77.41667,
     "faqs": []
@@ -51583,8 +49908,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5207,
     "lat": 52.0599,
     "lng": -9.5044,
     "faqs": []
@@ -51628,8 +49951,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 6912,
     "lat": 51.884,
     "lng": 4.633,
     "faqs": []
@@ -51674,8 +49995,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 8008,
     "lat": 17.99702,
     "lng": -76.79358,
     "faqs": []
@@ -51742,8 +50061,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 5617,
     "lat": 13.15527,
     "lng": -61.22742,
     "faqs": []
@@ -51858,8 +50175,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2813,
     "lat": -4.32758,
     "lng": 15.31357,
     "faqs": []
@@ -51899,8 +50214,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5020,
     "lat": 0.4,
     "lng": 32.63333,
     "faqs": []
@@ -51944,8 +50257,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4135,
     "lat": 67.8558,
     "lng": 20.2253,
     "faqs": []
@@ -52008,8 +50319,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 1616,
     "lat": 0.51528,
     "lng": 25.19099,
     "faqs": []
@@ -52064,8 +50373,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2240,
     "lat": -0.35817,
     "lng": 42.54536,
     "faqs": []
@@ -52134,8 +50441,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1837,
     "lat": -12.80243,
     "lng": 28.21323,
     "faqs": []
@@ -52179,8 +50484,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4583,
     "lat": 47.446,
     "lng": 12.392,
     "faqs": []
@@ -52333,8 +50636,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1884,
     "lat": 55.7068,
     "lng": 21.13912,
     "faqs": []
@@ -52379,8 +50680,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3823,
     "lat": -34.036,
     "lng": 23.049,
     "faqs": []
@@ -52425,8 +50724,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2680,
     "lat": 7.62,
     "lng": 99.05,
     "faqs": []
@@ -52468,8 +50765,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 3860,
     "lat": 6.489,
     "lng": 99.301,
     "faqs": []
@@ -52513,8 +50808,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 6259,
     "lat": 9.74,
     "lng": 100.01,
     "faqs": []
@@ -52559,8 +50852,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 5765,
     "lat": 7.74,
     "lng": 98.778,
     "faqs": []
@@ -52604,8 +50895,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 876,
     "lat": 10.098,
     "lng": 99.838,
     "faqs": []
@@ -52650,8 +50939,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3366,
     "lat": 34.6901,
     "lng": 135.1955,
     "faqs": []
@@ -52696,8 +50983,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6373,
     "lat": 9.9312,
     "lng": 76.2673,
     "faqs": []
@@ -52742,8 +51027,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 3465,
     "lat": 9.512,
     "lng": 100.0136,
     "faqs": []
@@ -52790,8 +51073,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 721,
     "lat": 8.64387,
     "lng": -10.9714,
     "faqs": []
@@ -52829,8 +51110,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6018,
     "lat": -9.44112,
     "lng": 159.97002,
     "faqs": []
@@ -52875,8 +51154,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3122,
     "lat": 22.5726,
     "lng": 88.3639,
     "faqs": []
@@ -53027,8 +51304,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7476,
     "lat": 50.93333,
     "lng": 6.95,
     "faqs": []
@@ -53076,8 +51351,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4709,
     "lat": 40.29414,
     "lng": 70.43122,
     "faqs": []
@@ -53149,8 +51422,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 809,
     "lat": 64.11234,
     "lng": -21.91298,
     "faqs": []
@@ -53283,8 +51554,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3898,
     "lat": 45.5482,
     "lng": 13.72963,
     "faqs": []
@@ -53331,8 +51600,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7520,
     "lat": 9.45803,
     "lng": -5.62961,
     "faqs": []
@@ -53374,8 +51641,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3088,
     "lat": 7.342,
     "lng": 134.479,
     "faqs": []
@@ -53537,8 +51802,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2609,
     "lat": 48.71441,
     "lng": 21.25802,
     "faqs": []
@@ -53583,8 +51846,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4312,
     "lat": 5.9804,
     "lng": 116.0735,
     "faqs": []
@@ -53628,8 +51889,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 8020,
     "lat": 42.4247,
     "lng": 18.7712,
     "faqs": []
@@ -53679,8 +51938,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4509,
     "lat": 12.25188,
     "lng": -2.36694,
     "faqs": []
@@ -53721,8 +51978,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3241,
     "lat": 5.29716,
     "lng": -3.96753,
     "faqs": []
@@ -53765,8 +52020,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 5897,
     "lat": 12.38723,
     "lng": -5.46507,
     "faqs": []
@@ -53849,8 +52102,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 656,
     "lat": 6.9,
     "lng": 0.63333,
     "faqs": []
@@ -53895,8 +52146,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6834,
     "lat": 8.0863,
     "lng": 98.9063,
     "faqs": []
@@ -53941,8 +52190,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3517,
     "lat": 8.0863,
     "lng": 98.9063,
     "faqs": []
@@ -54083,8 +52330,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5928,
     "lat": 44.01667,
     "lng": 20.91667,
     "faqs": []
@@ -54128,8 +52373,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3786,
     "lat": 50.06143,
     "lng": 19.93658,
     "faqs": []
@@ -54205,8 +52448,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 2427,
     "lat": 46.23887,
     "lng": 14.35561,
     "faqs": []
@@ -54346,8 +52587,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3450,
     "lat": 58.14671,
     "lng": 7.9956,
     "faqs": []
@@ -54388,8 +52627,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3077,
     "lat": 8.30278,
     "lng": 27.98,
     "faqs": []
@@ -54469,8 +52706,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 2817,
     "lat": 4.58361,
     "lng": 114.2312,
     "faqs": []
@@ -54514,8 +52749,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 3459,
     "lat": 3.1412,
     "lng": 101.68653,
     "faqs": []
@@ -54560,8 +52793,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2646,
     "lat": 1.5533,
     "lng": 110.3592,
     "faqs": []
@@ -54620,8 +52851,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1770,
     "lat": 37.91459,
     "lng": 69.78454,
     "faqs": []
@@ -54758,8 +52987,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7597,
     "lat": 42.13279,
     "lng": 21.71585,
     "faqs": []
@@ -54878,8 +53105,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 791,
     "lat": 6.68848,
     "lng": -1.62443,
     "faqs": []
@@ -54920,8 +53145,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6024,
     "lat": 36.72895,
     "lng": 68.857,
     "faqs": []
@@ -54966,8 +53189,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3664,
     "lat": 25.0389,
     "lng": 102.7183,
     "faqs": []
@@ -55008,8 +53229,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 6806,
     "lat": 58.248,
     "lng": 22.492,
     "faqs": []
@@ -55166,8 +53385,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4509,
     "lat": 42.26791,
     "lng": 42.69459,
     "faqs": []
@@ -55212,8 +53429,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 5263,
     "lat": 49.948,
     "lng": 15.268,
     "faqs": []
@@ -55327,8 +53542,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 2284,
     "lat": 29.367,
     "lng": 47.97429,
     "faqs": []
@@ -55368,8 +53581,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1425,
     "lat": 0.29517,
     "lng": 32.50159,
     "faqs": []
@@ -55500,8 +53711,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4394,
     "lat": 50.45466,
     "lng": 30.5238,
     "faqs": []
@@ -55574,8 +53783,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5865,
     "lat": 15.75971,
     "lng": -86.78221,
     "faqs": []
@@ -55648,8 +53855,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 4798,
     "lat": 15.76667,
     "lng": -86.83333,
     "faqs": []
@@ -55690,8 +53895,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 5770,
     "lat": 10.471,
     "lng": 84.645,
     "faqs": []
@@ -55794,8 +53997,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7528,
     "lat": -16.5,
     "lng": -68.15,
     "faqs": []
@@ -55840,8 +54041,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 2419,
     "lat": 24.14,
     "lng": -110.31,
     "faqs": []
@@ -55897,8 +54096,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2897,
     "lat": 18.42332,
     "lng": -68.96635,
     "faqs": []
@@ -55948,8 +54145,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4027,
     "lat": -16.4332,
     "lng": 179.36451,
     "faqs": []
@@ -55993,8 +54188,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 1415,
     "lat": -8.4961,
     "lng": 119.8877,
     "faqs": []
@@ -56038,8 +54231,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 552,
     "lat": -8.5,
     "lng": 119.89,
     "faqs": []
@@ -56083,8 +54274,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3176,
     "lat": -8.5,
     "lng": 119.89,
     "faqs": []
@@ -56157,8 +54346,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6925,
     "lat": -6.72333,
     "lng": 146.99611,
     "faqs": []
@@ -56211,8 +54398,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5775,
     "lat": 6.45407,
     "lng": 3.39467,
     "faqs": []
@@ -56257,8 +54442,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1842,
     "lat": 37.1028,
     "lng": -8.6743,
     "faqs": []
@@ -56302,8 +54485,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3463,
     "lat": 33.542,
     "lng": -117.783,
     "faqs": []
@@ -56348,8 +54529,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3638,
     "lat": 20.8783,
     "lng": -156.6825,
     "faqs": []
@@ -56501,56 +54680,8 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7514,
     "lat": 31.558,
     "lng": 74.35071,
-    "faqs": []
-  },
-  {
-    "id": "bled-lake",
-    "slug": "bled-lake",
-    "name": "Lake Bled",
-    "countrySlug": "slovenia",
-    "countryName": "Slovenia",
-    "tagline": "A city in Slovenia",
-    "heroKey": "cityNight",
-    "galleryKeys": [
-      "cityNight",
-      "alps",
-      "beach",
-      "food"
-    ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/8/84/Lake_Bled_from_the_Mountain.jpg",
-    "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/84/Lake_Bled_from_the_Mountain.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bled-3366909.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/9/96/Bled1a.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bled_Cremeschnitte_%28blejska_krem%C5%A1nita%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/8/89/Bled_in_the_1890s_%282%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/b/b1/Bled_island_July_2005.jpg"
-    ],
-    "overview": "Lake Bled is one of Slovenia's major cities, home to around 5,000 people.",
-    "bestTime": "May–June & September–October for mild weather and thinner crowds",
-    "weather": "Temperate, with warm summers and cool winters",
-    "airport": "",
-    "metro": "",
-    "transport": "",
-    "thingsToDo": [],
-    "restaurants": [],
-    "hotels": [],
-    "stays": [],
-    "shopping": [],
-    "nightlife": [],
-    "museums": [],
-    "localFoods": [],
-    "itinerary": [],
-    "hiddenGems": [],
-    "tips": [],
-    "rating": 4.6,
-    "reviews": 5354,
-    "lat": 46.369,
-    "lng": 14.11,
     "faqs": []
   },
   {
@@ -56593,8 +54724,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 5091,
     "lat": 12.031,
     "lng": 39.043,
     "faqs": []
@@ -56634,8 +54763,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7205,
     "lat": -25.34682,
     "lng": -57.60647,
     "faqs": []
@@ -56676,8 +54803,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 7820,
     "lat": -18.11094,
     "lng": 178.40943,
     "faqs": []
@@ -56720,8 +54845,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2382,
     "lat": 20.828,
     "lng": -156.92,
     "faqs": []
@@ -56765,8 +54888,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7357,
     "lat": 6.35,
     "lng": 99.8,
     "faqs": []
@@ -56885,8 +55006,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2531,
     "lat": 39.62847,
     "lng": 22.42112,
     "faqs": []
@@ -57016,8 +55135,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 925,
     "lat": 34.9221,
     "lng": 33.62794,
     "faqs": []
@@ -57062,8 +55179,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2262,
     "lat": 28.1235,
     "lng": -15.4363,
     "faqs": []
@@ -57106,8 +55221,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5950,
     "lat": -34.7302,
     "lng": -56.21915,
     "faqs": []
@@ -57152,8 +55265,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1404,
     "lat": 36.1699,
     "lng": -115.1398,
     "faqs": []
@@ -57195,8 +55306,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4642,
     "lat": 59.4336,
     "lng": 24.86017,
     "faqs": []
@@ -57314,8 +55423,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1484,
     "lat": 35.53125,
     "lng": 35.79088,
     "faqs": []
@@ -57356,8 +55463,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3068,
     "lat": 5.79668,
     "lng": -55.20858,
     "faqs": []
@@ -57402,8 +55507,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6393,
     "lat": -41.433,
     "lng": 147.144,
     "faqs": []
@@ -57527,8 +55630,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1316,
     "lat": 46.516,
     "lng": 6.63282,
     "faqs": []
@@ -57630,8 +55731,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 8044,
     "lat": -17.61686,
     "lng": 177.45049,
     "faqs": []
@@ -57676,8 +55775,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5354,
     "lat": 48.6361,
     "lng": -1.5115,
     "faqs": []
@@ -57722,8 +55819,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2661,
     "lat": 40.3515,
     "lng": 18.175,
     "faqs": []
@@ -57777,8 +55872,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4804,
     "lat": 53.79648,
     "lng": -1.54785,
     "faqs": []
@@ -57823,8 +55916,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 1618,
     "lat": 34.1526,
     "lng": 77.5771,
     "faqs": []
@@ -57869,8 +55960,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 6247,
     "lat": 51.3397,
     "lng": 12.3731,
     "faqs": []
@@ -57942,8 +56031,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7511,
     "lat": 39.74362,
     "lng": -8.80705,
     "faqs": []
@@ -57986,8 +56073,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4879,
     "lat": 12.43527,
     "lng": -86.87862,
     "faqs": []
@@ -58028,8 +56113,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 2978,
     "lat": 42.50729,
     "lng": 1.53414,
     "faqs": []
@@ -58074,8 +56157,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7308,
     "lat": 29.6525,
     "lng": 91.1721,
     "faqs": []
@@ -58189,8 +56270,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4721,
     "lat": 50.76711,
     "lng": 15.05619,
     "faqs": []
@@ -58234,8 +56313,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1911,
     "lat": 10.63517,
     "lng": -85.43779,
     "faqs": []
@@ -58357,8 +56434,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4187,
     "lat": 0.39241,
     "lng": 9.45356,
     "faqs": []
@@ -58494,8 +56569,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 5951,
     "lat": 50.63373,
     "lng": 5.56749,
     "faqs": []
@@ -58645,8 +56718,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5413,
     "lat": 56.50474,
     "lng": 21.01085,
     "faqs": []
@@ -58686,8 +56757,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7684,
     "lat": 21.981,
     "lng": -159.367,
     "faqs": []
@@ -58731,8 +56800,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3219,
     "lat": 26.855,
     "lng": 100.227,
     "faqs": []
@@ -58774,8 +56841,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7054,
     "lat": -8.5875,
     "lng": 125.34194,
     "faqs": []
@@ -58818,8 +56883,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3715,
     "lat": 50.6292,
     "lng": 3.0573,
     "faqs": []
@@ -58861,8 +56924,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 6553,
     "lat": 61.115,
     "lng": 10.466,
     "faqs": []
@@ -58955,8 +57016,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 524,
     "lat": -13.96692,
     "lng": 33.78725,
     "faqs": []
@@ -59000,8 +57059,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2396,
     "lat": -12.04318,
     "lng": -77.02824,
     "faqs": []
@@ -59123,8 +57180,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 559,
     "lat": 34.68406,
     "lng": 33.03794,
     "faqs": []
@@ -59275,8 +57330,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 1387,
     "lat": 52.66472,
     "lng": -8.62306,
     "faqs": []
@@ -59321,8 +57374,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6312,
     "lat": 9.99074,
     "lng": -83.03596,
     "faqs": []
@@ -59362,8 +57413,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 3107,
     "lat": 6.00815,
     "lng": -58.30724,
     "faqs": []
@@ -59407,8 +57456,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6419,
     "lat": 58.41086,
     "lng": 15.62157,
     "faqs": []
@@ -59542,8 +57589,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1990,
     "lat": 48.30639,
     "lng": 14.28611,
     "faqs": []
@@ -59587,8 +57632,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3390,
     "lat": 38.72509,
     "lng": -9.1498,
     "faqs": []
@@ -59633,8 +57676,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2137,
     "lat": 53.4084,
     "lng": -2.9916,
     "faqs": []
@@ -59678,8 +57719,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7007,
     "lat": -17.8419,
     "lng": 25.8543,
     "faqs": []
@@ -59823,8 +57862,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 2040,
     "lat": 46.05108,
     "lng": 14.50513,
     "faqs": []
@@ -59869,8 +57906,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 998,
     "lat": 41.7,
     "lng": 2.846,
     "faqs": []
@@ -59950,8 +57985,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4805,
     "lat": -26.46667,
     "lng": 31.2,
     "faqs": []
@@ -60079,8 +58112,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7526,
     "lat": 51.77058,
     "lng": 19.47395,
     "faqs": []
@@ -60204,8 +58235,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4074,
     "lat": 6.12874,
     "lng": 1.22154,
     "faqs": []
@@ -60252,8 +58281,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6731,
     "lat": 51.50853,
     "lng": -0.12574,
     "faqs": []
@@ -60297,8 +58324,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2248,
     "lat": 14.799,
     "lng": 100.653,
     "faqs": []
@@ -60342,8 +58367,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 6448,
     "lat": 26.01,
     "lng": -111.35,
     "faqs": []
@@ -60387,8 +58410,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5953,
     "lat": 34.05223,
     "lng": -118.24368,
     "faqs": []
@@ -60428,8 +58449,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 6296,
     "lat": -8.52167,
     "lng": 126.99833,
     "faqs": []
@@ -60553,8 +58572,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4506,
     "lat": -8.83682,
     "lng": 13.23432,
     "faqs": []
@@ -60599,8 +58616,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 7326,
     "lat": 20.95,
     "lng": 101.4,
     "faqs": []
@@ -60645,8 +58660,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 5280,
     "lat": 19.8856,
     "lng": 102.135,
     "faqs": []
@@ -60732,8 +58745,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2195,
     "lat": -11.66089,
     "lng": 27.47938,
     "faqs": []
@@ -60777,8 +58788,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4976,
     "lat": 26.53333,
     "lng": -78.66667,
     "faqs": []
@@ -60822,8 +58831,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 929,
     "lat": 43.8429,
     "lng": 10.5027,
     "faqs": []
@@ -60865,8 +58872,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 1159,
     "lat": 47.0502,
     "lng": 8.3093,
     "faqs": []
@@ -60911,8 +58916,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 5099,
     "lat": 46.0037,
     "lng": 8.9511,
     "faqs": []
@@ -60957,8 +58960,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2644,
     "lat": 55.7047,
     "lng": 13.191,
     "faqs": []
@@ -61110,8 +59111,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4903,
     "lat": 25.4175,
     "lng": 51.5075,
     "faqs": []
@@ -61240,8 +59239,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4022,
     "lat": -15.40669,
     "lng": 28.28713,
     "faqs": []
@@ -61285,8 +59282,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3220,
     "lat": 40.94194,
     "lng": 19.705,
     "faqs": []
@@ -61330,8 +59325,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7925,
     "lat": 49.60982,
     "lng": 6.13268,
     "faqs": []
@@ -61376,8 +59369,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 5439,
     "lat": 49.6116,
     "lng": 6.1319,
     "faqs": []
@@ -61422,8 +59413,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 359,
     "lat": 25.6872,
     "lng": 32.6396,
     "faqs": []
@@ -61570,8 +59559,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3096,
     "lat": 49.83826,
     "lng": 24.02324,
     "faqs": []
@@ -61697,8 +59684,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1725,
     "lat": 45.74906,
     "lng": 4.84789,
     "faqs": []
@@ -61743,8 +59728,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6823,
     "lat": 3.941,
     "lng": 73.49,
     "faqs": []
@@ -61789,8 +59772,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7135,
     "lat": 50.8514,
     "lng": 5.6909,
     "faqs": []
@@ -61831,8 +59812,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4762,
     "lat": 4.25,
     "lng": 118.63,
     "faqs": []
@@ -61875,8 +59854,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 8230,
     "lat": 22.1987,
     "lng": 113.5439,
     "faqs": []
@@ -61945,8 +59922,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2193,
     "lat": -5.22152,
     "lng": 145.78695,
     "faqs": []
@@ -61991,8 +59966,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3463,
     "lat": 12.42,
     "lng": 75.74,
     "faqs": []
@@ -62067,8 +60040,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 2019,
     "lat": 24.46861,
     "lng": 39.61417,
     "faqs": []
@@ -62108,8 +60079,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 921,
     "lat": 26.11528,
     "lng": 50.50694,
     "faqs": []
@@ -62161,8 +60130,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1044,
     "lat": 40.4165,
     "lng": -3.70256,
     "faqs": []
@@ -62213,8 +60180,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 7218,
     "lat": -29.82299,
     "lng": 27.23744,
     "faqs": []
@@ -62259,8 +60224,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 3068,
     "lat": -7.48,
     "lng": 110.22,
     "faqs": []
@@ -62352,8 +60315,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 5013,
     "lat": -15.71667,
     "lng": 46.31667,
     "faqs": []
@@ -62394,8 +60355,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 3295,
     "lat": 6.848,
     "lng": 79.9265,
     "faqs": []
@@ -62439,8 +60398,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7407,
     "lat": 53.90876,
     "lng": 30.34044,
     "faqs": []
@@ -62481,8 +60438,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1216,
     "lat": 20.66,
     "lng": 105.08,
     "faqs": []
@@ -62523,8 +60478,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4259,
     "lat": -8.84693,
     "lng": 13.23698,
     "faqs": []
@@ -62613,8 +60566,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5735,
     "lat": -33.51421,
     "lng": -70.7651,
     "faqs": []
@@ -62718,8 +60669,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5305,
     "lat": 7.08971,
     "lng": 171.38027,
     "faqs": []
@@ -62764,8 +60713,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 6842,
     "lat": -5.1477,
     "lng": 119.4327,
     "faqs": []
@@ -62816,8 +60763,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3614,
     "lat": 8.88605,
     "lng": -12.04417,
     "faqs": []
@@ -62946,8 +60891,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 8164,
     "lat": 21.42664,
     "lng": 39.82563,
     "faqs": []
@@ -63044,8 +60987,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 7003,
     "lat": 3.75578,
     "lng": 8.78166,
     "faqs": []
@@ -63090,8 +61031,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7276,
     "lat": 2.1896,
     "lng": 102.2501,
     "faqs": []
@@ -63136,8 +61075,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 6961,
     "lat": 2.19,
     "lng": 102.25,
     "faqs": []
@@ -63247,8 +61184,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 5356,
     "lat": 36.72016,
     "lng": -4.42034,
     "faqs": []
@@ -63292,8 +61227,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3612,
     "lat": 9.53342,
     "lng": 31.66049,
     "faqs": []
@@ -63337,8 +61270,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 507,
     "lat": 40.17396,
     "lng": 44.4457,
     "faqs": []
@@ -63382,8 +61313,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4176,
     "lat": 3.2028,
     "lng": 73.2207,
     "faqs": []
@@ -63455,8 +61384,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 6104,
     "lat": -34.89791,
     "lng": -54.95021,
     "faqs": []
@@ -63577,8 +61504,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 3932,
     "lat": 4.17521,
     "lng": 73.50916,
     "faqs": []
@@ -63623,8 +61548,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3282,
     "lat": 4.175,
     "lng": 73.509,
     "faqs": []
@@ -63694,8 +61617,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 342,
     "lat": -8.99167,
     "lng": 125.21972,
     "faqs": []
@@ -63740,8 +61661,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 929,
     "lat": 34.0259,
     "lng": -118.7798,
     "faqs": []
@@ -63878,8 +61797,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 3404,
     "lat": 55.60587,
     "lng": 13.00073,
     "faqs": []
@@ -63923,8 +61840,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 3559,
     "lat": 55.605,
     "lng": 13.0038,
     "faqs": []
@@ -63969,8 +61884,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 6822,
     "lat": 1.475,
     "lng": 124.842,
     "faqs": []
@@ -64109,8 +62022,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1233,
     "lat": 12.13282,
     "lng": -86.2504,
     "faqs": []
@@ -64155,8 +62066,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 7757,
     "lat": 32.2432,
     "lng": 77.1892,
     "faqs": []
@@ -64299,8 +62208,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 8032,
     "lat": 26.22787,
     "lng": 50.58565,
     "faqs": []
@@ -64344,8 +62251,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 3534,
     "lat": 44.108,
     "lng": 9.728,
     "faqs": []
@@ -64423,8 +62328,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 3303,
     "lat": 40.94498,
     "lng": 72.99313,
     "faqs": []
@@ -64533,8 +62436,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7398,
     "lat": -3.10194,
     "lng": -60.025,
     "faqs": []
@@ -64582,8 +62483,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5751,
     "lat": 53.48095,
     "lng": -2.23743,
     "faqs": []
@@ -64715,8 +62614,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 682,
     "lat": 21.97473,
     "lng": 96.08359,
     "faqs": []
@@ -64758,8 +62655,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1660,
     "lat": 18.04168,
     "lng": -77.50714,
     "faqs": []
@@ -64799,8 +62694,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6507,
     "lat": 9.73333,
     "lng": -13.41667,
     "faqs": []
@@ -64870,8 +62763,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 2283,
     "lat": 14.6042,
     "lng": 120.9822,
     "faqs": []
@@ -64915,8 +62806,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1253,
     "lat": 45.156,
     "lng": 10.791,
     "faqs": []
@@ -64956,8 +62845,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5803,
     "lat": -36.99282,
     "lng": 174.87986,
     "faqs": []
@@ -65010,8 +62897,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7955,
     "lat": -26.49884,
     "lng": 31.38004,
     "faqs": []
@@ -65143,8 +63028,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 2855,
     "lat": -25.96553,
     "lng": 32.58322,
     "faqs": []
@@ -65182,8 +63065,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3919,
     "lat": -28.8866,
     "lng": 27.89915,
     "faqs": []
@@ -65254,8 +63135,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6654,
     "lat": -38.00042,
     "lng": -57.5562,
     "faqs": []
@@ -65368,8 +63247,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6666,
     "lat": 10.64232,
     "lng": -71.61089,
     "faqs": []
@@ -65432,8 +63309,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6535,
     "lat": 13.5,
     "lng": 7.10174,
     "faqs": []
@@ -65477,8 +63352,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 3501,
     "lat": 36.5101,
     "lng": -4.8824,
     "faqs": []
@@ -65591,8 +63464,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1819,
     "lat": 46.55583,
     "lng": 15.64593,
     "faqs": []
@@ -65637,8 +63508,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 1241,
     "lat": 1.71594,
     "lng": 44.77166,
     "faqs": []
@@ -65741,8 +63610,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1018,
     "lat": 10.59095,
     "lng": 14.31593,
     "faqs": []
@@ -65787,8 +63654,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 7999,
     "lat": 31.6295,
     "lng": -7.9811,
     "faqs": []
@@ -65927,8 +63792,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4783,
     "lat": 31.63416,
     "lng": -7.99994,
     "faqs": []
@@ -66036,8 +63899,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 8169,
     "lat": 43.29695,
     "lng": 5.38107,
     "faqs": []
@@ -66134,8 +63995,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2550,
     "lat": 37.59378,
     "lng": 61.83031,
     "faqs": []
@@ -66190,8 +64049,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 593,
     "lat": 11.97316,
     "lng": -86.09587,
     "faqs": []
@@ -66268,8 +64125,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6650,
     "lat": -29.31667,
     "lng": 27.48333,
     "faqs": []
@@ -66380,8 +64235,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 4905,
     "lat": 36.29807,
     "lng": 59.60567,
     "faqs": []
@@ -66435,8 +64288,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2744,
     "lat": 15.60811,
     "lng": 39.47455,
     "faqs": []
@@ -66488,8 +64339,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3211,
     "lat": 12.92795,
     "lng": -85.91906,
     "faqs": []
@@ -66533,8 +64382,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 5763,
     "lat": -8.5833,
     "lng": 116.1167,
     "faqs": []
@@ -66579,8 +64426,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 6646,
     "lat": 40.6663,
     "lng": 16.6043,
     "faqs": []
@@ -66625,8 +64470,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4143,
     "lat": 40.666,
     "lng": 16.604,
     "faqs": []
@@ -66667,8 +64510,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 1577,
     "lat": -25.96222,
     "lng": 32.45889,
     "faqs": []
@@ -66711,8 +64552,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 6815,
     "lat": 33.8392,
     "lng": 132.7657,
     "faqs": []
@@ -66756,8 +64595,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3770,
     "lat": 46.678,
     "lng": 7.855,
     "faqs": []
@@ -66841,8 +64678,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3360,
     "lat": -19.98333,
     "lng": 23.41667,
     "faqs": []
@@ -66970,8 +64805,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1095,
     "lat": 16.49051,
     "lng": 97.62825,
     "faqs": []
@@ -67051,8 +64884,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 886,
     "lat": 36.70904,
     "lng": 67.11087,
     "faqs": []
@@ -67096,8 +64927,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 5285,
     "lat": 23.25,
     "lng": -106.41,
     "faqs": []
@@ -67165,8 +64994,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7405,
     "lat": -26.31667,
     "lng": 31.13333,
     "faqs": []
@@ -67253,8 +65080,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7011,
     "lat": -0.60467,
     "lng": 30.64851,
     "faqs": []
@@ -67294,8 +65119,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4484,
     "lat": 15.85615,
     "lng": -5.79067,
     "faqs": []
@@ -67408,8 +65231,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5009,
     "lat": -8.9,
     "lng": 33.45,
     "faqs": []
@@ -67453,8 +65274,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7158,
     "lat": -25.4753,
     "lng": 30.9694,
     "faqs": []
@@ -67503,8 +65322,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 6659,
     "lat": -6.13603,
     "lng": 23.58979,
     "faqs": []
@@ -67549,8 +65366,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 6798,
     "lat": 35.8869,
     "lng": 14.4025,
     "faqs": []
@@ -67594,8 +65409,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 4504,
     "lat": 21.3891,
     "lng": 39.8579,
     "faqs": []
@@ -67751,8 +65564,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6362,
     "lat": 3.58333,
     "lng": 98.66667,
     "faqs": []
@@ -67864,8 +65675,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3247,
     "lat": 6.245,
     "lng": -75.57151,
     "faqs": []
@@ -67909,8 +65718,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6061,
     "lat": 24.5247,
     "lng": 39.5692,
     "faqs": []
@@ -67954,8 +65761,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 5750,
     "lat": 45.857,
     "lng": 6.619,
     "faqs": []
@@ -67996,8 +65801,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3650,
     "lat": 13.72397,
     "lng": -89.188,
     "faqs": []
@@ -68041,8 +65844,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6615,
     "lat": 13.49667,
     "lng": 39.47528,
     "faqs": []
@@ -68089,8 +65890,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6680,
     "lat": -37.814,
     "lng": 144.96332,
     "faqs": []
@@ -68133,8 +65932,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2884,
     "lat": 46.021,
     "lng": 9.239,
     "faqs": []
@@ -68174,8 +65971,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 5728,
     "lat": 14.88722,
     "lng": 38.81528,
     "faqs": []
@@ -68220,8 +66015,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 5741,
     "lat": 39.31,
     "lng": -123.8,
     "faqs": []
@@ -68265,8 +66058,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3021,
     "lat": -32.8895,
     "lng": -68.8458,
     "faqs": []
@@ -68307,8 +66098,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2965,
     "lat": 4.97058,
     "lng": 115.02078,
     "faqs": []
@@ -68353,8 +66142,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 2484,
     "lat": 43.776,
     "lng": 7.504,
     "faqs": []
@@ -68398,8 +66185,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 5701,
     "lat": 20.9674,
     "lng": -89.5926,
     "faqs": []
@@ -68464,8 +66249,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3286,
     "lat": 19.42847,
     "lng": -99.12766,
     "faqs": []
@@ -68510,8 +66293,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 1460,
     "lat": 25.7617,
     "lng": -80.1918,
     "faqs": []
@@ -68556,8 +66337,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 8094,
     "lat": 25.7907,
     "lng": -80.13,
     "faqs": []
@@ -68603,8 +66382,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4254,
     "lat": 45.46427,
     "lng": 9.18951,
     "faqs": []
@@ -68648,8 +66425,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 4166,
     "lat": -44.6414,
     "lng": 167.897,
     "faqs": []
@@ -68754,8 +66529,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2871,
     "lat": 16.89014,
     "lng": -24.98042,
     "faqs": []
@@ -68799,8 +66572,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 5736,
     "lat": 40.76422,
     "lng": 47.06227,
     "faqs": []
@@ -68845,8 +66616,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 2684,
     "lat": 44.9778,
     "lng": -93.265,
     "faqs": []
@@ -69012,8 +66781,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2215,
     "lat": 53.90019,
     "lng": 27.56653,
     "faqs": []
@@ -69053,8 +66820,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4291,
     "lat": 5.948,
     "lng": 80.459,
     "faqs": []
@@ -69209,8 +66974,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 1289,
     "lat": 48.10327,
     "lng": 20.77806,
     "faqs": []
@@ -69256,8 +67019,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4950,
     "lat": 32.37535,
     "lng": 15.09254,
     "faqs": []
@@ -69297,8 +67058,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 2311,
     "lat": 11.86145,
     "lng": -15.60679,
     "faqs": []
@@ -69343,8 +67102,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3518,
     "lat": 46.872,
     "lng": -113.994,
     "faqs": []
@@ -69388,8 +67145,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 6529,
     "lat": 14.63077,
     "lng": -90.60711,
     "faqs": []
@@ -69433,8 +67188,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2918,
     "lat": 38.5733,
     "lng": -109.5498,
     "faqs": []
@@ -69478,8 +67231,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2223,
     "lat": 38.573,
     "lng": -109.55,
     "faqs": []
@@ -69520,8 +67271,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5879,
     "lat": -1.56652,
     "lng": 13.1987,
     "faqs": []
@@ -69564,8 +67313,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 7611,
     "lat": 44.647,
     "lng": 10.925,
     "faqs": []
@@ -69608,8 +67355,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5466,
     "lat": 36.859,
     "lng": 14.761,
     "faqs": []
@@ -69723,8 +67468,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5252,
     "lat": 2.03711,
     "lng": 45.34375,
     "faqs": []
@@ -69764,8 +67507,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1565,
     "lat": -24.62694,
     "lng": 25.86556,
     "faqs": []
@@ -69805,8 +67546,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5081,
     "lat": -30.15137,
     "lng": 27.47691,
     "faqs": []
@@ -69850,8 +67589,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 1597,
     "lat": -24.40659,
     "lng": 25.49508,
     "faqs": []
@@ -70012,8 +67749,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1645,
     "lat": -4.05466,
     "lng": 39.66359,
     "faqs": []
@@ -70058,8 +67793,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1109,
     "lat": 10.27979,
     "lng": -61.4459,
     "faqs": []
@@ -70165,8 +67898,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3534,
     "lat": 43.73718,
     "lng": 7.42145,
     "faqs": []
@@ -70211,8 +67942,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7800,
     "lat": 40.956,
     "lng": 17.29,
     "faqs": []
@@ -70312,8 +68041,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6738,
     "lat": 6.30054,
     "lng": -10.7969,
     "faqs": []
@@ -70358,8 +68085,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1785,
     "lat": 43.055,
     "lng": 11.49,
     "faqs": []
@@ -70403,8 +68128,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6968,
     "lat": 43.73976,
     "lng": 7.42732,
     "faqs": []
@@ -70526,8 +68249,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 6601,
     "lat": 18.47116,
     "lng": -77.91883,
     "faqs": []
@@ -70571,8 +68292,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 1769,
     "lat": 43.092,
     "lng": 11.787,
     "faqs": []
@@ -70617,8 +68336,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3594,
     "lat": 36.6002,
     "lng": -121.8947,
     "faqs": []
@@ -70662,8 +68379,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1132,
     "lat": 44.146,
     "lng": 9.655,
     "faqs": []
@@ -70776,8 +68491,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7497,
     "lat": -34.90328,
     "lng": -56.18816,
     "faqs": []
@@ -70822,8 +68535,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4020,
     "lat": 43.6108,
     "lng": 3.8767,
     "faqs": []
@@ -70895,8 +68606,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2273,
     "lat": 45.50884,
     "lng": -73.58781,
     "faqs": []
@@ -70941,8 +68650,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 2537,
     "lat": 46.431,
     "lng": 6.911,
     "faqs": []
@@ -70987,8 +68694,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1708,
     "lat": 36.998,
     "lng": -110.112,
     "faqs": []
@@ -71034,8 +68739,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2788,
     "lat": 14.4843,
     "lng": -4.18296,
     "faqs": []
@@ -71079,8 +68782,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3279,
     "lat": 6.773,
     "lng": 79.8816,
     "faqs": []
@@ -71124,8 +68825,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5646,
     "lat": 19.7,
     "lng": -101.19,
     "faqs": []
@@ -71169,8 +68868,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 5248,
     "lat": 49.63417,
     "lng": 100.1625,
     "faqs": []
@@ -71215,8 +68912,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5351,
     "lat": -11.70216,
     "lng": 43.25506,
     "faqs": []
@@ -71260,8 +68955,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1269,
     "lat": 55.75204,
     "lng": 37.61781,
     "faqs": []
@@ -71305,8 +68998,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2883,
     "lat": 35.90942,
     "lng": 14.42566,
     "faqs": []
@@ -71435,8 +69126,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3949,
     "lat": 43.34333,
     "lng": 17.80806,
     "faqs": []
@@ -71538,8 +69227,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 5025,
     "lat": 36.335,
     "lng": 43.11889,
     "faqs": []
@@ -71588,8 +69275,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 6510,
     "lat": 8.57437,
     "lng": 16.07722,
     "faqs": []
@@ -71647,8 +69332,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2332,
     "lat": -5.85746,
     "lng": 144.23058,
     "faqs": []
@@ -71692,8 +69375,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6309,
     "lat": -12.16672,
     "lng": 44.39944,
     "faqs": []
@@ -71760,8 +69441,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 7228,
     "lat": -3.1703,
     "lng": 29.4026,
     "faqs": []
@@ -71804,8 +69483,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 8015,
     "lat": 13.86075,
     "lng": 100.51477,
     "faqs": []
@@ -71897,8 +69574,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6910,
     "lat": -2.02269,
     "lng": 29.70691,
     "faqs": []
@@ -71987,8 +69662,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3586,
     "lat": 14.54248,
     "lng": 49.12424,
     "faqs": []
@@ -72028,8 +69701,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 2386,
     "lat": -8.86695,
     "lng": 13.3344,
     "faqs": []
@@ -72073,8 +69744,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 1194,
     "lat": 19.07283,
     "lng": 72.88261,
     "faqs": []
@@ -72118,8 +69787,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 2833,
     "lat": 48.13743,
     "lng": 11.57549,
     "faqs": []
@@ -72164,8 +69831,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 6148,
     "lat": 10.089,
     "lng": 77.06,
     "faqs": []
@@ -72264,8 +69929,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3690,
     "lat": -1.49984,
     "lng": 29.63497,
     "faqs": []
@@ -72419,8 +70082,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 5836,
     "lat": 23.58413,
     "lng": 58.40778,
     "faqs": []
@@ -72464,8 +70125,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 6425,
     "lat": 59.40482,
     "lng": 24.68119,
     "faqs": []
@@ -72546,8 +70205,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7419,
     "lat": -18.9707,
     "lng": 32.67086,
     "faqs": []
@@ -72640,8 +70297,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4421,
     "lat": -2.51667,
     "lng": 32.9,
     "faqs": []
@@ -72685,8 +70340,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1367,
     "lat": 37.4467,
     "lng": 25.3289,
     "faqs": []
@@ -72731,8 +70384,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 2738,
     "lat": 37.4467,
     "lng": 25.3289,
     "faqs": []
@@ -72776,8 +70427,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2340,
     "lat": 12.2958,
     "lng": 76.6394,
     "faqs": []
@@ -72863,8 +70512,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 6552,
     "lat": -11.46556,
     "lng": 34.02071,
     "faqs": []
@@ -72949,8 +70596,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 386,
     "lat": 12.10672,
     "lng": 15.0444,
     "faqs": []
@@ -73081,8 +70726,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5405,
     "lat": -17.80309,
     "lng": 177.41617,
     "faqs": []
@@ -73213,8 +70856,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6530,
     "lat": -17.7765,
     "lng": 177.4356,
     "faqs": []
@@ -73345,8 +70986,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3207,
     "lat": -17.7765,
     "lng": 177.4356,
     "faqs": []
@@ -73391,8 +71030,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7598,
     "lat": 37.567,
     "lng": 22.806,
     "faqs": []
@@ -73544,8 +71181,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 488,
     "lat": 35.18147,
     "lng": 136.90641,
     "faqs": []
@@ -73590,8 +71225,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1426,
     "lat": 35.94,
     "lng": -75.63,
     "faqs": []
@@ -73635,8 +71268,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 5665,
     "lat": 26.2124,
     "lng": 127.6809,
     "faqs": []
@@ -73680,8 +71311,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4408,
     "lat": 26.2124,
     "lng": 127.6809,
     "faqs": []
@@ -73821,8 +71450,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2885,
     "lat": -1.28333,
     "lng": 36.81667,
     "faqs": []
@@ -73909,8 +71536,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 4217,
     "lat": -0.30719,
     "lng": 36.07225,
     "faqs": []
@@ -73955,8 +71580,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 4394,
     "lat": 47.76667,
     "lng": 107.28333,
     "faqs": []
@@ -74039,8 +71662,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1162,
     "lat": 40.9983,
     "lng": 71.67257,
     "faqs": []
@@ -74080,8 +71701,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1714,
     "lat": 34.6627,
     "lng": 135.501,
     "faqs": []
@@ -74124,8 +71743,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 2961,
     "lat": 38.7375,
     "lng": 125.40778,
     "faqs": []
@@ -74199,8 +71816,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5483,
     "lat": -15.11646,
     "lng": 39.2666,
     "faqs": []
@@ -74245,8 +71860,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2308,
     "lat": 32.0603,
     "lng": 118.7969,
     "faqs": []
@@ -74287,8 +71900,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7855,
     "lat": 0.36389,
     "lng": 32.52861,
     "faqs": []
@@ -74389,8 +72000,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6774,
     "lat": 47.21725,
     "lng": -1.55336,
     "faqs": []
@@ -74435,8 +72044,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2766,
     "lat": 41.28,
     "lng": -70.1,
     "faqs": []
@@ -74481,8 +72088,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7353,
     "lat": 38.2975,
     "lng": -122.2869,
     "faqs": []
@@ -74527,8 +72132,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7396,
     "lat": -39.4928,
     "lng": 176.912,
     "faqs": []
@@ -74634,8 +72237,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 5228,
     "lat": 40.85216,
     "lng": 14.26811,
     "faqs": []
@@ -74680,8 +72281,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5735,
     "lat": 34.6851,
     "lng": 135.8048,
     "faqs": []
@@ -74726,8 +72325,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7591,
     "lat": 36.1627,
     "lng": -86.7816,
     "faqs": []
@@ -74767,8 +72364,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 8143,
     "lat": -18.07051,
     "lng": 178.51313,
     "faqs": []
@@ -74885,8 +72480,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 2196,
     "lat": 25.05823,
     "lng": -77.34306,
     "faqs": []
@@ -74931,8 +72524,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 6175,
     "lat": 37.105,
     "lng": 25.377,
     "faqs": []
@@ -75031,8 +72622,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3211,
     "lat": 19.745,
     "lng": 96.12972,
     "faqs": []
@@ -75076,8 +72665,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7876,
     "lat": 39.603,
     "lng": -9.071,
     "faqs": []
@@ -75143,8 +72730,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2897,
     "lat": 8.55,
     "lng": 39.26667,
     "faqs": []
@@ -75244,8 +72829,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4877,
     "lat": -12.95867,
     "lng": 28.63659,
     "faqs": []
@@ -75375,8 +72958,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3050,
     "lat": 7.2083,
     "lng": 79.8358,
     "faqs": []
@@ -75420,8 +73001,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2768,
     "lat": 18.268,
     "lng": 78.348,
     "faqs": []
@@ -75461,8 +73040,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 434,
     "lat": 16.61702,
     "lng": -7.25649,
     "faqs": []
@@ -75506,8 +73083,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1625,
     "lat": 42.659,
     "lng": 27.735,
     "faqs": []
@@ -75551,8 +73126,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7792,
     "lat": 6.24924,
     "lng": -57.51578,
     "faqs": []
@@ -75596,8 +73169,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1966,
     "lat": 28.62137,
     "lng": 77.2148,
     "faqs": []
@@ -75641,8 +73212,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4775,
     "lat": 18.00747,
     "lng": -76.78319,
     "faqs": []
@@ -75686,8 +73255,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 3102,
     "lat": 29.9511,
     "lng": -90.0715,
     "faqs": []
@@ -75730,8 +73297,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 829,
     "lat": 40.71427,
     "lng": -74.00597,
     "faqs": []
@@ -75776,8 +73341,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 960,
     "lat": 41.49,
     "lng": -71.31,
     "faqs": []
@@ -75850,8 +73413,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 5775,
     "lat": 7.32765,
     "lng": 13.58472,
     "faqs": []
@@ -75898,8 +73459,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6130,
     "lat": 7.50077,
     "lng": 134.6238,
     "faqs": []
@@ -75937,8 +73496,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 668,
     "lat": -9.43056,
     "lng": 159.92103,
     "faqs": []
@@ -75978,8 +73535,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5874,
     "lat": -2.9075,
     "lng": 29.8306,
     "faqs": []
@@ -76024,8 +73579,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 8171,
     "lat": 12.2388,
     "lng": 109.1967,
     "faqs": []
@@ -76070,8 +73623,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4059,
     "lat": 43.0896,
     "lng": -79.0849,
     "faqs": []
@@ -76116,8 +73667,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3674,
     "lat": 43.255,
     "lng": -79.072,
     "faqs": []
@@ -76223,8 +73772,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5104,
     "lat": 13.51366,
     "lng": 2.1098,
     "faqs": []
@@ -76335,8 +73882,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2920,
     "lat": 43.70313,
     "lng": 7.26608,
     "faqs": []
@@ -76494,8 +74039,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1959,
     "lat": 35.17284,
     "lng": 33.35397,
     "faqs": []
@@ -76538,8 +74081,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7249,
     "lat": 36.7199,
     "lng": 139.6982,
     "faqs": []
@@ -76613,8 +74154,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 1578,
     "lat": 42.7731,
     "lng": 18.94446,
     "faqs": []
@@ -76659,8 +74198,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 2501,
     "lat": 43.8367,
     "lng": 4.3601,
     "faqs": []
@@ -76705,8 +74242,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7246,
     "lat": 20.251,
     "lng": 105.975,
     "faqs": []
@@ -76828,8 +74363,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7437,
     "lat": 43.32472,
     "lng": 21.90333,
     "faqs": []
@@ -76903,8 +74436,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3413,
     "lat": 48.30763,
     "lng": 18.08453,
     "faqs": []
@@ -77006,8 +74537,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2255,
     "lat": 56.32867,
     "lng": 44.00205,
     "faqs": []
@@ -77049,8 +74578,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6987,
     "lat": -4.18396,
     "lng": 13.2859,
     "faqs": []
@@ -77095,8 +74622,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 955,
     "lat": -26.386,
     "lng": 153.091,
     "faqs": []
@@ -77140,8 +74665,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 1863,
     "lat": 40.19661,
     "lng": 44.5669,
     "faqs": []
@@ -77185,8 +74708,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 3140,
     "lat": -36.8,
     "lng": 174.75,
     "faqs": []
@@ -77231,8 +74752,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7789,
     "lat": 36.891,
     "lng": 15.071,
     "faqs": []
@@ -77312,8 +74831,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5199,
     "lat": 20.94188,
     "lng": -17.03842,
     "faqs": []
@@ -77384,8 +74901,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 2151,
     "lat": 18.08581,
     "lng": -15.9785,
     "faqs": []
@@ -77430,8 +74945,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 6882,
     "lat": -22.276,
     "lng": 166.458,
     "faqs": []
@@ -77476,8 +74989,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 1462,
     "lat": 43.137,
     "lng": 20.512,
     "faqs": []
@@ -77626,8 +75137,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7562,
     "lat": 45.25167,
     "lng": 19.83694,
     "faqs": []
@@ -77703,8 +75212,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4946,
     "lat": 45.80397,
     "lng": 15.16886,
     "faqs": []
@@ -77840,8 +75347,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 7084,
     "lat": 55.02259,
     "lng": 82.93175,
     "faqs": []
@@ -77979,8 +75484,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6922,
     "lat": -21.13683,
     "lng": -175.20114,
     "faqs": []
@@ -78025,8 +75528,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 6029,
     "lat": -21.139,
     "lng": -175.201,
     "faqs": []
@@ -78098,8 +75599,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2149,
     "lat": 42.45861,
     "lng": 59.60576,
     "faqs": []
@@ -78140,8 +75639,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4173,
     "lat": -5.726,
     "lng": 39.294,
     "faqs": []
@@ -78186,8 +75683,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 2382,
     "lat": 49.4521,
     "lng": 11.0767,
     "faqs": []
@@ -78231,8 +75726,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 8258,
     "lat": 6.949,
     "lng": 80.789,
     "faqs": []
@@ -78275,8 +75768,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 8181,
     "lat": -1.2952,
     "lng": 30.3226,
     "faqs": []
@@ -78328,8 +75819,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 872,
     "lat": 12.04888,
     "lng": 24.88069,
     "faqs": []
@@ -78370,8 +75859,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4681,
     "lat": 21.18,
     "lng": 94.91,
     "faqs": []
@@ -78412,8 +75899,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3921,
     "lat": 20.66,
     "lng": 96.93,
     "faqs": []
@@ -78453,8 +75938,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6618,
     "lat": 7.75624,
     "lng": -8.8179,
     "faqs": []
@@ -78499,8 +75982,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2606,
     "lat": 17.0732,
     "lng": -96.7266,
     "faqs": []
@@ -78545,8 +76026,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1738,
     "lat": 17.07,
     "lng": -96.72,
     "faqs": []
@@ -78586,8 +76065,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7340,
     "lat": 56.4154,
     "lng": -5.471,
     "faqs": []
@@ -78632,8 +76109,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1135,
     "lat": 39.362,
     "lng": -9.157,
     "faqs": []
@@ -78764,8 +76239,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 1241,
     "lat": 55.39594,
     "lng": 10.38831,
     "faqs": []
@@ -78904,8 +76377,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4071,
     "lat": 46.48572,
     "lng": 30.74383,
     "faqs": []
@@ -78948,8 +76419,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 479,
     "lat": 41.1231,
     "lng": 20.8016,
     "faqs": []
@@ -78994,8 +76463,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 8215,
     "lat": 36.461,
     "lng": 25.375,
     "faqs": []
@@ -79037,8 +76504,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 6102,
     "lat": 34.6551,
     "lng": 133.9195,
     "faqs": []
@@ -79079,8 +76544,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7682,
     "lat": 40.923,
     "lng": 9.499,
     "faqs": []
@@ -79125,8 +76588,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3974,
     "lat": 23.135,
     "lng": 82.358,
     "faqs": []
@@ -79170,8 +76631,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 880,
     "lat": 46.813,
     "lng": -71.208,
     "faqs": []
@@ -79311,8 +76770,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4973,
     "lat": 49.59552,
     "lng": 17.25175,
     "faqs": []
@@ -79356,8 +76813,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 8004,
     "lat": 15.64453,
     "lng": 32.47773,
     "faqs": []
@@ -79402,8 +76857,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4304,
     "lat": 11.41,
     "lng": 76.7,
     "faqs": []
@@ -79448,8 +76901,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 5297,
     "lat": 45.337,
     "lng": 14.305,
     "faqs": []
@@ -79578,8 +77029,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4841,
     "lat": 35.69906,
     "lng": -0.63588,
     "faqs": []
@@ -79670,8 +77119,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4663,
     "lat": 18.08124,
     "lng": -88.56328,
     "faqs": []
@@ -79716,8 +77163,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6972,
     "lat": 12.5092,
     "lng": -70.0086,
     "faqs": []
@@ -79762,8 +77207,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4079,
     "lat": 59.27412,
     "lng": 15.2066,
     "faqs": []
@@ -79807,8 +77250,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6022,
     "lat": 28.5383,
     "lng": -81.3792,
     "faqs": []
@@ -79852,8 +77293,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2242,
     "lat": 46.576,
     "lng": 11.672,
     "faqs": []
@@ -79944,8 +77383,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7016,
     "lat": -17.97153,
     "lng": -67.0932,
     "faqs": []
@@ -79990,8 +77427,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4733,
     "lat": 42.718,
     "lng": 12.11,
     "faqs": []
@@ -80035,8 +77470,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 330,
     "lat": 34.69379,
     "lng": 135.50107,
     "faqs": []
@@ -80159,8 +77592,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 639,
     "lat": 40.52828,
     "lng": 72.7985,
     "faqs": []
@@ -80212,8 +77643,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2295,
     "lat": -17.78833,
     "lng": 15.70436,
     "faqs": []
@@ -80287,8 +77716,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 5408,
     "lat": 45.55066,
     "lng": 18.6942,
     "faqs": []
@@ -80334,8 +77761,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3830,
     "lat": 59.91273,
     "lng": 10.74609,
     "faqs": []
@@ -80450,8 +77875,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4291,
     "lat": 49.83465,
     "lng": 18.28204,
     "faqs": []
@@ -80496,8 +77919,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 343,
     "lat": 40.729,
     "lng": 17.577,
     "faqs": []
@@ -80646,8 +78067,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4047,
     "lat": 45.41117,
     "lng": -75.69812,
     "faqs": []
@@ -80766,8 +78185,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 2605,
     "lat": 12.36566,
     "lng": -1.53388,
     "faqs": []
@@ -80835,8 +78252,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 1326,
     "lat": 13.5769,
     "lng": -2.41786,
     "faqs": []
@@ -80993,8 +78408,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6210,
     "lat": 65.01236,
     "lng": 25.46816,
     "faqs": []
@@ -81034,8 +78447,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7351,
     "lat": 0.29123,
     "lng": 9.50465,
     "faqs": []
@@ -81080,8 +78491,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5389,
     "lat": 51.752,
     "lng": -1.2577,
     "faqs": []
@@ -81122,8 +78531,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 1301,
     "lat": 1.5995,
     "lng": 11.57933,
     "faqs": []
@@ -81168,8 +78575,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 304,
     "lat": 45.406,
     "lng": 11.876,
     "faqs": []
@@ -81214,8 +78619,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 607,
     "lat": 36.9147,
     "lng": -111.4558,
     "faqs": []
@@ -81258,8 +78661,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 602,
     "lat": 36.915,
     "lng": -111.456,
     "faqs": []
@@ -81304,8 +78705,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 6469,
     "lat": 19.358,
     "lng": 98.44,
     "faqs": []
@@ -81350,8 +78749,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 6315,
     "lat": 19.358,
     "lng": 98.44,
     "faqs": []
@@ -81468,8 +78865,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1643,
     "lat": 15.12022,
     "lng": 105.79898,
     "faqs": []
@@ -81513,8 +78908,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4638,
     "lat": 17.51,
     "lng": -91.98,
     "faqs": []
@@ -81636,8 +79029,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 407,
     "lat": 38.1166,
     "lng": 13.3636,
     "faqs": []
@@ -81683,8 +79074,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 743,
     "lat": 6.92477,
     "lng": 158.16109,
     "faqs": []
@@ -81729,8 +79118,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4454,
     "lat": 33.83,
     "lng": -116.545,
     "faqs": []
@@ -81775,8 +79162,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4936,
     "lat": 39.5696,
     "lng": 2.6502,
     "faqs": []
@@ -81820,8 +79205,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 7150,
     "lat": 37.9137,
     "lng": 29.1187,
     "faqs": []
@@ -81866,8 +79249,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6006,
     "lat": 15.4909,
     "lng": 73.8278,
     "faqs": []
@@ -81994,8 +79375,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 2059,
     "lat": 8.9936,
     "lng": -79.51973,
     "faqs": []
@@ -82036,8 +79415,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 7147,
     "lat": -9.43215,
     "lng": 160.00607,
     "faqs": []
@@ -82175,8 +79552,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3456,
     "lat": 55.73186,
     "lng": 24.35983,
     "faqs": []
@@ -82221,8 +79596,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3216,
     "lat": 9.58,
     "lng": 123.75,
     "faqs": []
@@ -82265,8 +79638,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 7289,
     "lat": 13.65805,
     "lng": 102.56365,
     "faqs": []
@@ -82311,8 +79682,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 579,
     "lat": -17.5516,
     "lng": -149.5585,
     "faqs": []
@@ -82357,8 +79726,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 8008,
     "lat": 34.772,
     "lng": 32.4297,
     "faqs": []
@@ -82403,8 +79770,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 8212,
     "lat": -13.833,
     "lng": -76.25,
     "faqs": []
@@ -82444,8 +79809,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 6732,
     "lat": 9.83847,
     "lng": -83.86655,
     "faqs": []
@@ -82500,8 +79863,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 1284,
     "lat": 9.33716,
     "lng": 2.63031,
     "faqs": []
@@ -82649,8 +80010,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 6041,
     "lat": 5.86638,
     "lng": -55.16682,
     "faqs": []
@@ -82692,52 +80051,7 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4526,
     "lat": 37.0853,
-    "lng": 25.148,
-    "faqs": []
-  },
-  {
-    "id": "parikia",
-    "slug": "parikia",
-    "name": "Parikia",
-    "countrySlug": "greece",
-    "countryName": "Greece",
-    "tagline": "A city in Greece",
-    "heroKey": "food",
-    "galleryKeys": [
-      "food",
-      "temple",
-      "coast",
-      "mountains"
-    ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/5/57/EKPYL_2881.jpg",
-    "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/5/57/EKPYL_2881.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/1/18/Ekatontapyliani_16.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/6/6d/Paros_Parikia1_tango7174.jpg"
-    ],
-    "overview": "Parikia is one of Greece's major cities, home to around 5,000 people.",
-    "bestTime": "May–June & September–October for mild weather and thinner crowds",
-    "weather": "Temperate, with warm summers and cool winters",
-    "airport": "",
-    "metro": "",
-    "transport": "",
-    "thingsToDo": [],
-    "restaurants": [],
-    "hotels": [],
-    "stays": [],
-    "shopping": [],
-    "nightlife": [],
-    "museums": [],
-    "localFoods": [],
-    "itinerary": [],
-    "hiddenGems": [],
-    "tips": [],
-    "rating": 4.9,
-    "reviews": 4578,
-    "lat": 37.085,
     "lng": 25.148,
     "faqs": []
   },
@@ -82780,8 +80094,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5836,
     "lat": 48.85341,
     "lng": 2.3488,
     "faqs": []
@@ -82826,8 +80138,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 6281,
     "lat": 40.6461,
     "lng": -111.498,
     "faqs": []
@@ -82872,8 +80182,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 6214,
     "lat": 44.801,
     "lng": 10.328,
     "faqs": []
@@ -82918,8 +80226,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3249,
     "lat": 27.4305,
     "lng": 89.413,
     "faqs": []
@@ -82964,8 +80270,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1261,
     "lat": 27.43,
     "lng": 89.413,
     "faqs": []
@@ -83010,8 +80314,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 5478,
     "lat": 27.676,
     "lng": 85.325,
     "faqs": []
@@ -83161,8 +80463,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7887,
     "lat": 27.67658,
     "lng": 85.31417,
     "faqs": []
@@ -83267,8 +80567,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2769,
     "lat": 38.2462,
     "lng": 21.73508,
     "faqs": []
@@ -83313,8 +80611,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7121,
     "lat": 12.9236,
     "lng": 100.8825,
     "faqs": []
@@ -83359,8 +80655,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7892,
     "lat": 19.51,
     "lng": -101.61,
     "faqs": []
@@ -83425,8 +80719,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 8070,
     "lat": -32.3171,
     "lng": -58.08072,
     "faqs": []
@@ -83469,8 +80761,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4595,
     "lat": 5.9,
     "lng": 102.75,
     "faqs": []
@@ -83510,8 +80800,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 3118,
     "lat": 38.01539,
     "lng": 23.69187,
     "faqs": []
@@ -83557,8 +80845,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 8164,
     "lat": -31.95224,
     "lng": 115.8614,
     "faqs": []
@@ -83603,8 +80889,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7826,
     "lat": 43.1107,
     "lng": 12.3908,
     "faqs": []
@@ -83705,8 +80989,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1578,
     "lat": 34.008,
     "lng": 71.57849,
     "faqs": []
@@ -83750,8 +81032,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3635,
     "lat": 47.5,
     "lng": 19.08333,
     "faqs": []
@@ -83795,8 +81075,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1345,
     "lat": 32.08707,
     "lng": 34.88747,
     "faqs": []
@@ -83908,8 +81186,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 907,
     "lat": 3.10726,
     "lng": 101.60671,
     "faqs": []
@@ -83984,8 +81260,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4496,
     "lat": 18.5125,
     "lng": -72.28528,
     "faqs": []
@@ -84029,8 +81303,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3021,
     "lat": 30.3285,
     "lng": 35.4444,
     "faqs": []
@@ -84073,8 +81345,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 8093,
     "lat": 48.12331,
     "lng": 17.12866,
     "faqs": []
@@ -84119,8 +81389,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 6510,
     "lat": 39.9526,
     "lng": -75.1652,
     "faqs": []
@@ -84161,8 +81429,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1089,
     "lat": 18.029,
     "lng": 63.047,
     "faqs": []
@@ -84306,8 +81572,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2979,
     "lat": 11.56245,
     "lng": 104.91601,
     "faqs": []
@@ -84352,8 +81616,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7832,
     "lat": 33.4484,
     "lng": -112.074,
     "faqs": []
@@ -84395,8 +81657,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1967,
     "lat": 13.65855,
     "lng": 100.53362,
     "faqs": []
@@ -84440,8 +81700,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3541,
     "lat": 10.2899,
     "lng": 103.984,
     "faqs": []
@@ -84486,8 +81744,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7444,
     "lat": 7.8804,
     "lng": 98.3923,
     "faqs": []
@@ -84532,8 +81788,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1735,
     "lat": 7.8804,
     "lng": 98.3923,
     "faqs": []
@@ -84616,8 +81870,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 850,
     "lat": 26.85164,
     "lng": 89.38837,
     "faqs": []
@@ -84662,8 +81914,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7724,
     "lat": 43.078,
     "lng": 11.677,
     "faqs": []
@@ -84708,8 +81958,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 7427,
     "lat": 14.76457,
     "lng": -17.39071,
     "faqs": []
@@ -84808,8 +82056,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2432,
     "lat": 49.74747,
     "lng": 13.37759,
     "faqs": []
@@ -84854,8 +82100,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 1872,
     "lat": 37.189,
     "lng": 112.176,
     "faqs": []
@@ -84947,8 +82191,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 2746,
     "lat": 37.94203,
     "lng": 23.64619,
     "faqs": []
@@ -84991,8 +82233,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4883,
     "lat": 45.528,
     "lng": 13.568,
     "faqs": []
@@ -85033,8 +82273,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4002,
     "lat": 43.7228,
     "lng": 10.4017,
     "faqs": []
@@ -85132,8 +82370,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 2760,
     "lat": -5.18192,
     "lng": -80.65715,
     "faqs": []
@@ -85175,8 +82411,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3527,
     "lat": 20.6296,
     "lng": -87.0739,
     "faqs": []
@@ -85217,8 +82451,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3255,
     "lat": 44.882,
     "lng": 15.616,
     "faqs": []
@@ -85262,8 +82494,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 931,
     "lat": 43.3567,
     "lng": 19.35843,
     "faqs": []
@@ -85396,8 +82626,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 715,
     "lat": 42.15387,
     "lng": 24.75001,
     "faqs": []
@@ -85536,8 +82764,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5055,
     "lat": 42.44124,
     "lng": 19.26309,
     "faqs": []
@@ -85581,8 +82807,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7450,
     "lat": 59.44901,
     "lng": 24.69812,
     "faqs": []
@@ -85680,8 +82904,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5998,
     "lat": -4.77609,
     "lng": 11.86352,
     "faqs": []
@@ -85814,8 +83036,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 3579,
     "lat": 28.26689,
     "lng": 83.96851,
     "faqs": []
@@ -85857,8 +83077,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6434,
     "lat": 40.996,
     "lng": 17.22,
     "faqs": []
@@ -85902,8 +83120,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 2802,
     "lat": 40.749,
     "lng": 14.501,
     "faqs": []
@@ -85948,8 +83164,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5392,
     "lat": 11.9416,
     "lng": 79.8083,
     "faqs": []
@@ -85993,8 +83207,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3298,
     "lat": 37.739,
     "lng": -25.669,
     "faqs": []
@@ -86032,8 +83244,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 659,
     "lat": 5.78808,
     "lng": -55.20895,
     "faqs": []
@@ -86071,8 +83281,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 3857,
     "lat": -8.76536,
     "lng": 148.23252,
     "faqs": []
@@ -86117,8 +83325,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6554,
     "lat": 11.623,
     "lng": 92.726,
     "faqs": []
@@ -86234,8 +83440,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2373,
     "lat": 4.77742,
     "lng": 7.0134,
     "faqs": []
@@ -86368,8 +83572,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 6849,
     "lat": -20.16194,
     "lng": 57.49889,
     "faqs": []
@@ -86502,8 +83704,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 7353,
     "lat": -20.1609,
     "lng": 57.5012,
     "faqs": []
@@ -86622,8 +83822,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 6824,
     "lat": -9.47723,
     "lng": 147.15089,
     "faqs": []
@@ -86742,8 +83940,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 6676,
     "lat": 10.66668,
     "lng": -61.51889,
     "faqs": []
@@ -86862,8 +84058,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 5322,
     "lat": 10.6549,
     "lng": -61.5019,
     "faqs": []
@@ -86979,8 +84173,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5740,
     "lat": 31.26531,
     "lng": 32.3019,
     "faqs": []
@@ -87048,8 +84240,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7664,
     "lat": 19.61745,
     "lng": 37.21644,
     "faqs": []
@@ -87094,8 +84284,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 1322,
     "lat": -17.733,
     "lng": 168.327,
     "faqs": []
@@ -87178,8 +84366,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 2415,
     "lat": 18.54349,
     "lng": -72.33881,
     "faqs": []
@@ -87219,8 +84405,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 6533,
     "lat": 19.93984,
     "lng": -72.83037,
     "faqs": []
@@ -87282,8 +84466,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 5814,
     "lat": -0.71933,
     "lng": 8.78151,
     "faqs": []
@@ -87410,8 +84592,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7527,
     "lat": -17.73648,
     "lng": 168.31366,
     "faqs": []
@@ -87456,8 +84636,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6885,
     "lat": 45.5152,
     "lng": -122.6784,
     "faqs": []
@@ -87497,8 +84675,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2835,
     "lat": 17.97102,
     "lng": -76.88691,
     "faqs": []
@@ -87607,8 +84783,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6145,
     "lat": 41.1485,
     "lng": -8.61097,
     "faqs": []
@@ -87651,8 +84825,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 8035,
     "lat": 41.134,
     "lng": 9.536,
     "faqs": []
@@ -87697,8 +84869,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3370,
     "lat": 44.048,
     "lng": 9.835,
     "faqs": []
@@ -87772,8 +84942,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5758,
     "lat": 6.49646,
     "lng": 2.60359,
     "faqs": []
@@ -87817,8 +84985,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 917,
     "lat": 44.303,
     "lng": 9.21,
     "faqs": []
@@ -87877,8 +85043,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7294,
     "lat": -1.05764,
     "lng": -80.45145,
     "faqs": []
@@ -87920,8 +85084,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2055,
     "lat": 57.413,
     "lng": -6.196,
     "faqs": []
@@ -87964,8 +85126,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6274,
     "lat": 60.3925,
     "lng": 25.665,
     "faqs": []
@@ -88008,8 +85168,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 6240,
     "lat": 40.6281,
     "lng": 14.4844,
     "faqs": []
@@ -88054,8 +85212,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7827,
     "lat": 52.3906,
     "lng": 13.0645,
     "faqs": []
@@ -88208,8 +85364,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 6963,
     "lat": 52.40692,
     "lng": 16.92993,
     "faqs": []
@@ -88253,8 +85407,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3869,
     "lat": 50.08804,
     "lng": 14.42076,
     "faqs": []
@@ -88368,8 +85520,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7052,
     "lat": 14.93152,
     "lng": -23.51254,
     "faqs": []
@@ -88409,8 +85559,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3565,
     "lat": 40.612,
     "lng": 14.53,
     "faqs": []
@@ -88505,8 +85653,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 5834,
     "lat": 48.99923,
     "lng": 21.2355,
     "faqs": []
@@ -88637,8 +85783,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 5425,
     "lat": -25.74486,
     "lng": 28.18783,
     "faqs": []
@@ -88758,8 +85902,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7277,
     "lat": 41.34558,
     "lng": 21.5537,
     "faqs": []
@@ -88804,8 +85946,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 955,
     "lat": -7.75,
     "lng": 113.22,
     "faqs": []
@@ -88849,8 +85989,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 2491,
     "lat": 40.757,
     "lng": 14.015,
     "faqs": []
@@ -88895,8 +86033,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7596,
     "lat": 42.058,
     "lng": -70.179,
     "faqs": []
@@ -89004,8 +86140,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 6962,
     "lat": 19.04778,
     "lng": -98.20723,
     "faqs": []
@@ -89049,8 +86183,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 2355,
     "lat": -33.61169,
     "lng": -70.57577,
     "faqs": []
@@ -89093,8 +86225,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5269,
     "lat": -0.744,
     "lng": -90.314,
     "faqs": []
@@ -89137,8 +86267,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6840,
     "lat": -0.7432,
     "lng": -90.3135,
     "faqs": []
@@ -89181,8 +86309,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6008,
     "lat": 15.82562,
     "lng": -87.92968,
     "faqs": []
@@ -89225,53 +86351,7 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4639,
     "lat": 15.87,
-    "lng": -97.07,
-    "faqs": []
-  },
-  {
-    "id": "zicatela",
-    "slug": "zicatela",
-    "name": "Puerto Escondido",
-    "countrySlug": "mexico",
-    "countryName": "Mexico",
-    "tagline": "A city in Mexico",
-    "heroKey": "mountains",
-    "galleryKeys": [
-      "mountains",
-      "coast",
-      "food",
-      "cityNight"
-    ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/en/3/31/Mexico_167.jpg",
-    "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/en/3/31/Mexico_167.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/8/81/Playa_Principal_Puerto_Escondido_Oaxaca.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/6/64/Playa_carrizalillo.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/d/dc/Puerto_angelito.jpg"
-    ],
-    "overview": "Puerto Escondido is one of Mexico's major cities, home to around 45,000 people.",
-    "bestTime": "Late spring and early autumn for pleasant temperatures",
-    "weather": "Diverse — temperate to subtropical",
-    "airport": "",
-    "metro": "",
-    "transport": "",
-    "thingsToDo": [],
-    "restaurants": [],
-    "hotels": [],
-    "stays": [],
-    "shopping": [],
-    "nightlife": [],
-    "museums": [],
-    "localFoods": [],
-    "itinerary": [],
-    "hiddenGems": [],
-    "tips": [],
-    "rating": 4.3,
-    "reviews": 6132,
-    "lat": 15.85,
     "lng": -97.07,
     "faqs": []
   },
@@ -89314,8 +86394,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 6166,
     "lat": -51.723,
     "lng": -72.487,
     "faqs": []
@@ -89358,8 +86436,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6817,
     "lat": 9.7392,
     "lng": 118.7353,
     "faqs": []
@@ -89402,8 +86478,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 591,
     "lat": 9.7392,
     "lng": 118.7353,
     "faqs": []
@@ -89448,8 +86522,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1710,
     "lat": 20.6534,
     "lng": -105.2253,
     "faqs": []
@@ -89494,8 +86566,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2832,
     "lat": -41.3195,
     "lng": -72.9854,
     "faqs": []
@@ -89540,8 +86610,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1649,
     "lat": 44.8666,
     "lng": 13.8496,
     "faqs": []
@@ -89624,8 +86692,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 5273,
     "lat": 27.59137,
     "lng": 89.87743,
     "faqs": []
@@ -89669,8 +86735,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 3579,
     "lat": 18.5601,
     "lng": -68.3725,
     "faqs": []
@@ -89805,8 +86869,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7923,
     "lat": 39.03385,
     "lng": 125.75432,
     "faqs": []
@@ -89851,8 +86913,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3744,
     "lat": 36.0671,
     "lng": 120.3826,
     "faqs": []
@@ -89896,8 +86956,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1379,
     "lat": 35.87601,
     "lng": 14.472,
     "faqs": []
@@ -89939,8 +86997,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3257,
     "lat": -20.26381,
     "lng": 57.4791,
     "faqs": []
@@ -89985,8 +87041,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1024,
     "lat": 46.8139,
     "lng": -71.208,
     "faqs": []
@@ -90033,8 +87087,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6970,
     "lat": 40.68149,
     "lng": -73.83652,
     "faqs": []
@@ -90079,8 +87131,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 6694,
     "lat": -45.0312,
     "lng": 168.6626,
     "faqs": []
@@ -90125,8 +87175,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 3073,
     "lat": -45.031,
     "lng": 168.663,
     "faqs": []
@@ -90167,8 +87215,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3894,
     "lat": 9.431,
     "lng": 84.16,
     "faqs": []
@@ -90213,8 +87259,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 409,
     "lat": 20.59,
     "lng": -100.39,
     "faqs": []
@@ -90301,8 +87345,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4507,
     "lat": 14.84462,
     "lng": -91.52316,
     "faqs": []
@@ -90346,8 +87388,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 5231,
     "lat": 14.6488,
     "lng": 121.0509,
     "faqs": []
@@ -90487,8 +87527,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 1489,
     "lat": -0.22985,
     "lng": -78.52495,
     "faqs": []
@@ -90531,8 +87569,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2900,
     "lat": 33.9,
     "lng": 35.48333,
     "faqs": []
@@ -90666,8 +87702,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5307,
     "lat": 34.01325,
     "lng": -6.83255,
     "faqs": []
@@ -90707,8 +87741,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 4600,
     "lat": 36.927,
     "lng": 14.732,
     "faqs": []
@@ -90749,8 +87781,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 4033,
     "lat": 5.83436,
     "lng": -55.13769,
     "faqs": []
@@ -90863,8 +87893,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5887,
     "lat": 24.374,
     "lng": 88.60114,
     "faqs": []
@@ -90909,8 +87937,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6970,
     "lat": 25.74664,
     "lng": 89.25166,
     "faqs": []
@@ -90954,8 +87980,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7746,
     "lat": 40.649,
     "lng": 14.612,
     "faqs": []
@@ -91000,8 +88024,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 436,
     "lat": 44.4184,
     "lng": 12.2035,
     "faqs": []
@@ -91113,8 +88135,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 6440,
     "lat": 33.59733,
     "lng": 73.0479,
     "faqs": []
@@ -91159,8 +88179,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 5352,
     "lat": 5.78,
     "lng": 103.01,
     "faqs": []
@@ -91297,8 +88315,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 394,
     "lat": -23.317,
     "lng": 17.09,
     "faqs": []
@@ -91343,8 +88359,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2217,
     "lat": 49.2583,
     "lng": 4.0317,
     "faqs": []
@@ -91389,8 +88403,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3598,
     "lat": 67.932,
     "lng": 13.089,
     "faqs": []
@@ -91428,8 +88440,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3558,
     "lat": 11.85,
     "lng": -15.6,
     "faqs": []
@@ -91473,8 +88483,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7335,
     "lat": 63.99813,
     "lng": -22.56111,
     "faqs": []
@@ -91581,8 +88589,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 483,
     "lat": 64.13548,
     "lng": -21.89541,
     "faqs": []
@@ -91627,8 +88633,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 1596,
     "lat": 36.4349,
     "lng": 28.2176,
     "faqs": []
@@ -91670,8 +88674,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1956,
     "lat": 47.76817,
     "lng": 29.01,
     "faqs": []
@@ -91724,8 +88726,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7188,
     "lat": 56.946,
     "lng": 24.10589,
     "faqs": []
@@ -91852,8 +88852,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4085,
     "lat": 45.32673,
     "lng": 14.44241,
     "faqs": []
@@ -91897,8 +88895,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 2873,
     "lat": 44.067,
     "lng": 12.568,
     "faqs": []
@@ -91941,8 +88937,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4315,
     "lat": 10.30594,
     "lng": -61.17556,
     "faqs": []
@@ -91986,8 +88980,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4810,
     "lat": -22.90642,
     "lng": -43.18223,
     "faqs": []
@@ -92031,8 +89023,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 6656,
     "lat": 44.099,
     "lng": 9.738,
     "faqs": []
@@ -92077,8 +89067,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 6283,
     "lat": 30.0869,
     "lng": 78.2676,
     "faqs": []
@@ -92123,8 +89111,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7049,
     "lat": 31.97102,
     "lng": 34.78939,
     "faqs": []
@@ -92220,8 +89206,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 1020,
     "lat": -30.90534,
     "lng": -55.55076,
     "faqs": []
@@ -92344,8 +89328,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1022,
     "lat": 24.68773,
     "lng": 46.72185,
     "faqs": []
@@ -92389,8 +89371,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1502,
     "lat": 44.8,
     "lng": 1.617,
     "faqs": []
@@ -92435,8 +89415,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6613,
     "lat": 36.7423,
     "lng": -5.166,
     "faqs": []
@@ -92520,8 +89498,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 1208,
     "lat": -32.94682,
     "lng": -60.63932,
     "faqs": []
@@ -92566,8 +89542,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7666,
     "lat": 32.33,
     "lng": -117.05,
     "faqs": []
@@ -92669,8 +89643,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5628,
     "lat": 15.30174,
     "lng": -61.38808,
     "faqs": []
@@ -92712,8 +89684,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7744,
     "lat": 49.377,
     "lng": 10.179,
     "faqs": []
@@ -92758,8 +89728,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2165,
     "lat": -38.1368,
     "lng": 176.2497,
     "faqs": []
@@ -92803,8 +89771,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7391,
     "lat": 51.9225,
     "lng": 4.47917,
     "faqs": []
@@ -92849,8 +89815,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 1202,
     "lat": 49.4432,
     "lng": 1.0993,
     "faqs": []
@@ -92890,8 +89854,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 2447,
     "lat": 66.5039,
     "lng": 25.7294,
     "faqs": []
@@ -92932,8 +89894,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2115,
     "lat": 45.0812,
     "lng": 13.6387,
     "faqs": []
@@ -92975,8 +89935,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5590,
     "lat": -1.14665,
     "lng": 36.96087,
     "faqs": []
@@ -93020,8 +89978,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4910,
     "lat": -3.9736,
     "lng": 29.4386,
     "faqs": []
@@ -93077,8 +90033,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 6367,
     "lat": -17.91796,
     "lng": 19.77314,
     "faqs": []
@@ -93160,8 +90114,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1424,
     "lat": 43.84872,
     "lng": 25.9534,
     "faqs": []
@@ -93205,8 +90157,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 413,
     "lat": 32.01778,
     "lng": 36.04639,
     "faqs": []
@@ -93325,8 +90275,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 2027,
     "lat": 41.56271,
     "lng": 44.9787,
     "faqs": []
@@ -93371,8 +90319,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5902,
     "lat": 22.3402,
     "lng": 103.844,
     "faqs": []
@@ -93412,8 +90358,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 8223,
     "lat": 12.37136,
     "lng": -1.41468,
     "faqs": []
@@ -93455,8 +90399,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 8031,
     "lat": 68.42,
     "lng": 27.4,
     "faqs": []
@@ -93501,8 +90443,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3572,
     "lat": 29.25722,
     "lng": 48.05722,
     "faqs": []
@@ -93542,8 +90482,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 1648,
     "lat": -17.39799,
     "lng": -66.03825,
     "faqs": []
@@ -93587,8 +90525,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 6322,
     "lat": 41.2508,
     "lng": 32.6833,
     "faqs": []
@@ -93628,8 +90564,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7003,
     "lat": 24.17222,
     "lng": 56.88861,
     "faqs": []
@@ -93692,8 +90626,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3720,
     "lat": 12.05288,
     "lng": -61.75226,
     "faqs": []
@@ -93778,8 +90710,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 604,
     "lat": 17.12096,
     "lng": -61.84329,
     "faqs": []
@@ -93823,8 +90753,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3392,
     "lat": 59.93863,
     "lng": 30.31413,
     "faqs": []
@@ -93869,8 +90797,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3422,
     "lat": 48.649,
     "lng": -2.025,
     "faqs": []
@@ -93912,8 +90838,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 2420,
     "lat": 19.11136,
     "lng": -72.70078,
     "faqs": []
@@ -93958,8 +90882,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2713,
     "lat": 43.267,
     "lng": 6.64,
     "faqs": []
@@ -94004,8 +90926,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 3379,
     "lat": 15.179,
     "lng": 145.751,
     "faqs": []
@@ -94142,8 +91062,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 697,
     "lat": 17.01505,
     "lng": 54.09237,
     "faqs": []
@@ -94188,8 +91106,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 6578,
     "lat": 40.9701,
     "lng": -5.6635,
     "faqs": []
@@ -94233,8 +91149,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3118,
     "lat": 34.0531,
     "lng": -6.79846,
     "faqs": []
@@ -94279,8 +91193,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2059,
     "lat": 40.7608,
     "lng": -111.891,
     "faqs": []
@@ -94390,8 +91302,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6796,
     "lat": -24.80645,
     "lng": -65.41999,
     "faqs": []
@@ -94473,8 +91383,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5462,
     "lat": -31.38811,
     "lng": -57.95983,
     "faqs": []
@@ -94573,8 +91481,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 3561,
     "lat": -12.97563,
     "lng": -38.49096,
     "faqs": []
@@ -94612,8 +91518,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6585,
     "lat": -12.977,
     "lng": -38.507,
     "faqs": []
@@ -94658,8 +91562,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5131,
     "lat": 47.8095,
     "lng": 13.055,
     "faqs": []
@@ -94798,8 +91700,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1529,
     "lat": 39.65456,
     "lng": 66.96445,
     "faqs": []
@@ -94904,8 +91804,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4793,
     "lat": 13.5976,
     "lng": 100.5972,
     "faqs": []
@@ -94950,8 +91848,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7372,
     "lat": 29.4241,
     "lng": -98.4936,
     "faqs": []
@@ -94996,8 +91892,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 6495,
     "lat": 16.74,
     "lng": -92.64,
     "faqs": []
@@ -95042,8 +91936,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 528,
     "lat": 32.7157,
     "lng": -117.1611,
     "faqs": []
@@ -95084,8 +91976,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 8019,
     "lat": 10.27969,
     "lng": -61.46835,
     "faqs": []
@@ -95130,8 +92020,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7483,
     "lat": 9.9938,
     "lng": -84.12742,
     "faqs": []
@@ -95175,8 +92063,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6950,
     "lat": 37.7749,
     "lng": -122.4194,
     "faqs": []
@@ -95220,8 +92106,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4901,
     "lat": 43.4677,
     "lng": 11.0432,
     "faqs": []
@@ -95265,8 +92149,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 5510,
     "lat": 17.1588,
     "lng": -89.0696,
     "faqs": []
@@ -95306,8 +92188,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4099,
     "lat": 9.93388,
     "lng": -84.08489,
     "faqs": []
@@ -95345,8 +92225,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1323,
     "lat": 9.9281,
     "lng": -84.0907,
     "faqs": []
@@ -95390,8 +92268,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 2684,
     "lat": 23.06,
     "lng": -109.7,
     "faqs": []
@@ -95435,8 +92311,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2410,
     "lat": 18.4655,
     "lng": -66.1057,
     "faqs": []
@@ -95478,8 +92352,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 5981,
     "lat": -25.33968,
     "lng": -57.50879,
     "faqs": []
@@ -95595,8 +92467,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3972,
     "lat": 43.93667,
     "lng": 12.44639,
     "faqs": []
@@ -95641,8 +92511,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 380,
     "lat": 43.9424,
     "lng": 12.4578,
     "faqs": []
@@ -95686,8 +92554,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 3203,
     "lat": 13.48261,
     "lng": -88.18211,
     "faqs": []
@@ -95732,8 +92598,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2689,
     "lat": 20.9144,
     "lng": -100.7452,
     "faqs": []
@@ -95778,8 +92642,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 8121,
     "lat": 20.91,
     "lng": -100.74,
     "faqs": []
@@ -95825,8 +92687,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3465,
     "lat": -26.81601,
     "lng": -65.21051,
     "faqs": []
@@ -95866,8 +92726,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6733,
     "lat": 9.05032,
     "lng": -79.47068,
     "faqs": []
@@ -95905,8 +92763,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 8237,
     "lat": 35.95064,
     "lng": 14.41561,
     "faqs": []
@@ -96041,8 +92897,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 5686,
     "lat": 17.91598,
     "lng": -87.9659,
     "faqs": []
@@ -96086,8 +92940,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1686,
     "lat": 17.9214,
     "lng": -87.9611,
     "faqs": []
@@ -96131,8 +92983,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 4411,
     "lat": -22.9087,
     "lng": -68.1997,
     "faqs": []
@@ -96183,8 +93033,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4553,
     "lat": 18.4539,
     "lng": -69.30864,
     "faqs": []
@@ -96264,8 +93112,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 314,
     "lat": 15.50585,
     "lng": -88.02588,
     "faqs": []
@@ -96407,8 +93253,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 8202,
     "lat": 13.68935,
     "lng": -89.18718,
     "faqs": []
@@ -96453,8 +93297,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3114,
     "lat": 43.3183,
     "lng": -1.9812,
     "faqs": []
@@ -96572,8 +93414,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 627,
     "lat": 15.35452,
     "lng": 44.20646,
     "faqs": []
@@ -96618,8 +93458,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5072,
     "lat": 5.84,
     "lng": 118.12,
     "faqs": []
@@ -96662,8 +93500,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7236,
     "lat": 43.816,
     "lng": 7.777,
     "faqs": []
@@ -96707,8 +93543,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 5787,
     "lat": 13.98827,
     "lng": -89.55685,
     "faqs": []
@@ -96746,8 +93580,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 7370,
     "lat": 34.4208,
     "lng": -119.6982,
     "faqs": []
@@ -96791,8 +93623,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7304,
     "lat": 22.40711,
     "lng": -79.96581,
     "faqs": []
@@ -96899,8 +93729,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 8296,
     "lat": -17.78629,
     "lng": -63.18117,
     "faqs": []
@@ -96944,8 +93772,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 6572,
     "lat": 28.4636,
     "lng": -16.2518,
     "faqs": []
@@ -96990,8 +93816,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1612,
     "lat": 35.687,
     "lng": -105.9378,
     "faqs": []
@@ -97036,8 +93860,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6250,
     "lat": 35.687,
     "lng": -105.938,
     "faqs": []
@@ -97082,8 +93904,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3456,
     "lat": 34.0195,
     "lng": -118.4912,
     "faqs": []
@@ -97178,8 +93998,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7228,
     "lat": 13.67741,
     "lng": -89.28335,
     "faqs": []
@@ -97223,8 +94041,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3487,
     "lat": -33.45694,
     "lng": -70.64827,
     "faqs": []
@@ -97269,8 +94085,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 3223,
     "lat": 42.88,
     "lng": -8.546,
     "faqs": []
@@ -97350,8 +94164,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1685,
     "lat": 20.02287,
     "lng": -75.82171,
     "faqs": []
@@ -97413,8 +94225,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 695,
     "lat": 19.45036,
     "lng": -70.69085,
     "faqs": []
@@ -97458,8 +94268,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3452,
     "lat": 20.58806,
     "lng": -100.38806,
     "faqs": []
@@ -97604,8 +94412,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 748,
     "lat": 18.47186,
     "lng": -69.89232,
     "faqs": []
@@ -97660,8 +94466,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 4766,
     "lat": -0.25368,
     "lng": -79.17628,
     "faqs": []
@@ -97703,8 +94507,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 4456,
     "lat": 18.48511,
     "lng": -69.84757,
     "faqs": []
@@ -97742,8 +94544,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 2659,
     "lat": 18.5,
     "lng": -70,
     "faqs": []
@@ -97788,8 +94588,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6082,
     "lat": -8.69,
     "lng": 115.263,
     "faqs": []
@@ -97833,8 +94631,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4744,
     "lat": -23.5475,
     "lng": -46.63611,
     "faqs": []
@@ -97939,8 +94735,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7950,
     "lat": 0.33756,
     "lng": 6.7299,
     "faqs": []
@@ -98068,8 +94862,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1905,
     "lat": 43.06667,
     "lng": 141.35,
     "faqs": []
@@ -98196,8 +94988,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5098,
     "lat": 43.84864,
     "lng": 18.35644,
     "faqs": []
@@ -98241,8 +95031,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7403,
     "lat": 39.875,
     "lng": 20.005,
     "faqs": []
@@ -98282,8 +95070,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 5713,
     "lat": 9.14555,
     "lng": 18.38331,
     "faqs": []
@@ -98327,8 +95113,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 5214,
     "lat": 44.89,
     "lng": 1.217,
     "faqs": []
@@ -98373,8 +95157,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5067,
     "lat": 32.0809,
     "lng": -81.0912,
     "faqs": []
@@ -98418,8 +95200,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 1268,
     "lat": 32.08,
     "lng": -81.09,
     "faqs": []
@@ -98542,8 +95322,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4029,
     "lat": 16.5703,
     "lng": 104.7622,
     "faqs": []
@@ -98584,8 +95362,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3875,
     "lat": 20.87,
     "lng": -105.44,
     "faqs": []
@@ -98625,8 +95401,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5279,
     "lat": 47.393,
     "lng": 13.687,
     "faqs": []
@@ -98671,8 +95445,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2355,
     "lat": 33.494,
     "lng": -111.926,
     "faqs": []
@@ -98717,8 +95489,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3957,
     "lat": 47.6062,
     "lng": -122.3321,
     "faqs": []
@@ -98758,8 +95528,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5640,
     "lat": 44.4528,
     "lng": 26.13321,
     "faqs": []
@@ -98804,8 +95572,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 7259,
     "lat": 44.4234,
     "lng": 26.16874,
     "faqs": []
@@ -98847,8 +95613,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7164,
     "lat": 44.43579,
     "lng": 26.01649,
     "faqs": []
@@ -98892,8 +95656,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 5263,
     "lat": 34.8697,
     "lng": -111.761,
     "faqs": []
@@ -98937,8 +95699,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1489,
     "lat": 34.87,
     "lng": -111.76,
     "faqs": []
@@ -98979,8 +95739,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 626,
     "lat": 23.67027,
     "lng": 58.18911,
     "faqs": []
@@ -99056,8 +95814,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 422,
     "lat": 13.44032,
     "lng": -6.25947,
     "faqs": []
@@ -99102,8 +95858,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3293,
     "lat": 40.9429,
     "lng": -4.1088,
     "faqs": []
@@ -99188,8 +95942,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3464,
     "lat": 4.93422,
     "lng": -1.71454,
     "faqs": []
@@ -99233,8 +95985,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 5614,
     "lat": 37.9501,
     "lng": 27.3689,
     "faqs": []
@@ -99274,8 +96024,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5374,
     "lat": -8.691,
     "lng": 115.158,
     "faqs": []
@@ -99320,8 +96068,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7900,
     "lat": 4.48,
     "lng": 118.61,
     "faqs": []
@@ -99366,8 +96112,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 5011,
     "lat": 38.2682,
     "lng": 140.8694,
     "faqs": []
@@ -99411,8 +96155,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3003,
     "lat": 1.39167,
     "lng": 103.89444,
     "faqs": []
@@ -99453,8 +96195,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 7514,
     "lat": 4.88333,
     "lng": 114.83333,
     "faqs": []
@@ -99499,8 +96239,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 6429,
     "lat": 33.2541,
     "lng": 126.5601,
     "faqs": []
@@ -99549,8 +96287,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3059,
     "lat": 37.566,
     "lng": 126.9784,
     "faqs": []
@@ -99634,8 +96370,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5249,
     "lat": 13.43833,
     "lng": -16.67806,
     "faqs": []
@@ -99679,8 +96413,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7579,
     "lat": 4.60637,
     "lng": 114.32476,
     "faqs": []
@@ -99721,8 +96453,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2310,
     "lat": -22.38754,
     "lng": 26.71077,
     "faqs": []
@@ -99767,8 +96497,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 4068,
     "lat": 45.83111,
     "lng": 16.11639,
     "faqs": []
@@ -99895,8 +96623,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 1735,
     "lat": 37.38283,
     "lng": -5.97317,
     "faqs": []
@@ -99941,8 +96667,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 8211,
     "lat": 37.3891,
     "lng": -5.9845,
     "faqs": []
@@ -99987,8 +96711,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2904,
     "lat": 37.3891,
     "lng": -5.9845,
     "faqs": []
@@ -100083,8 +96805,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 457,
     "lat": 34.74056,
     "lng": 10.76028,
     "faqs": []
@@ -100175,8 +96895,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2451,
     "lat": 3.08507,
     "lng": 101.53281,
     "faqs": []
@@ -100222,8 +96940,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4408,
     "lat": 31.22222,
     "lng": 121.45806,
     "faqs": []
@@ -100352,8 +97068,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7936,
     "lat": 25.3342,
     "lng": 55.41221,
     "faqs": []
@@ -100398,8 +97112,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4797,
     "lat": 27.9158,
     "lng": 34.33,
     "faqs": []
@@ -100546,8 +97258,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6035,
     "lat": 53.38297,
     "lng": -1.4659,
     "faqs": []
@@ -100592,8 +97302,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 2657,
     "lat": 41.192,
     "lng": 47.171,
     "faqs": []
@@ -100638,8 +97346,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 8064,
     "lat": 40.1557,
     "lng": 44.4779,
     "faqs": []
@@ -100692,8 +97398,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 5892,
     "lat": 22.54554,
     "lng": 114.0683,
     "faqs": []
@@ -100738,8 +97442,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3413,
     "lat": 31.1048,
     "lng": 77.1734,
     "faqs": []
@@ -100891,8 +97593,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2670,
     "lat": 29.61031,
     "lng": 52.53113,
     "faqs": []
@@ -101041,8 +97741,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 2193,
     "lat": 42.06828,
     "lng": 19.51258,
     "faqs": []
@@ -101086,8 +97784,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4254,
     "lat": 30.12511,
     "lng": 31.25053,
     "faqs": []
@@ -101223,8 +97919,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 6410,
     "lat": 42.30988,
     "lng": 69.60042,
     "faqs": []
@@ -101269,8 +97963,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5575,
     "lat": 9.8597,
     "lng": 126.045,
     "faqs": []
@@ -101382,8 +98074,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 2106,
     "lat": 55.93333,
     "lng": 23.31667,
     "faqs": []
@@ -101428,8 +98118,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 1074,
     "lat": 43.735,
     "lng": 15.895,
     "faqs": []
@@ -101474,8 +98162,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2045,
     "lat": 45.7983,
     "lng": 24.1256,
     "faqs": []
@@ -101532,8 +98218,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6518,
     "lat": 33.55751,
     "lng": 35.37148,
     "faqs": []
@@ -101670,8 +98354,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1846,
     "lat": 13.36179,
     "lng": 103.86056,
     "faqs": []
@@ -101715,8 +98397,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 8193,
     "lat": 43.3188,
     "lng": 11.3308,
     "faqs": []
@@ -101761,8 +98441,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4049,
     "lat": 36.974,
     "lng": 24.703,
     "faqs": []
@@ -101807,8 +98485,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4409,
     "lat": 46.22,
     "lng": 24.791,
     "faqs": []
@@ -101853,8 +98529,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1550,
     "lat": 7.957,
     "lng": 80.76,
     "faqs": []
@@ -101899,8 +98573,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 8287,
     "lat": 10.6093,
     "lng": 103.5296,
     "faqs": []
@@ -101952,8 +98624,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 776,
     "lat": 11.31755,
     "lng": -5.66654,
     "faqs": []
@@ -101997,8 +98667,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6062,
     "lat": 45.35,
     "lng": 25.55,
     "faqs": []
@@ -102042,8 +98710,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 5773,
     "lat": 1.28967,
     "lng": 103.85007,
     "faqs": []
@@ -102088,8 +98754,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 3566,
     "lat": 38.8029,
     "lng": -9.3817,
     "faqs": []
@@ -102134,8 +98798,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7144,
     "lat": 46.233,
     "lng": 7.359,
     "faqs": []
@@ -102180,8 +98842,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 5353,
     "lat": 45.497,
     "lng": 10.608,
     "faqs": []
@@ -102226,8 +98886,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4704,
     "lat": 41.237,
     "lng": 1.805,
     "faqs": []
@@ -102272,8 +98930,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 3877,
     "lat": 57.053,
     "lng": -135.33,
     "faqs": []
@@ -102323,8 +98979,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 6602,
     "lat": 26.15472,
     "lng": 50.62056,
     "faqs": []
@@ -102369,8 +99023,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7272,
     "lat": 57.72,
     "lng": 10.58,
     "faqs": []
@@ -102444,8 +99096,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1407,
     "lat": 41.99646,
     "lng": 21.43141,
     "faqs": []
@@ -102519,8 +99169,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 2214,
     "lat": 41.998,
     "lng": 21.425,
     "faqs": []
@@ -102606,8 +99254,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3418,
     "lat": 35.91247,
     "lng": 14.50175,
     "faqs": []
@@ -102652,8 +99298,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 701,
     "lat": 43.6028,
     "lng": 39.7342,
     "faqs": []
@@ -102796,8 +99440,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4601,
     "lat": 42.69751,
     "lng": 23.32415,
     "faqs": []
@@ -102841,8 +99483,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 5844,
     "lat": 38.207,
     "lng": 128.5919,
     "faqs": []
@@ -102984,8 +99624,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1045,
     "lat": 43.00697,
     "lng": 40.9893,
     "faqs": []
@@ -103029,8 +99667,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 6682,
     "lat": 8.98333,
     "lng": 1.13333,
     "faqs": []
@@ -103099,8 +99735,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 1464,
     "lat": -12.1688,
     "lng": 26.38938,
     "faqs": []
@@ -103145,8 +99779,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 998,
     "lat": 38.29,
     "lng": -122.46,
     "faqs": []
@@ -103187,8 +99819,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 525,
     "lat": 40.6263,
     "lng": 14.3758,
     "faqs": []
@@ -103266,8 +99896,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7625,
     "lat": 35.82539,
     "lng": 10.63699,
     "faqs": []
@@ -103307,8 +99935,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 3345,
     "lat": 53.29026,
     "lng": -6.34151,
     "faqs": []
@@ -103353,8 +99979,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7662,
     "lat": 38.9399,
     "lng": -119.9772,
     "faqs": []
@@ -103464,8 +100088,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7590,
     "lat": -26.26781,
     "lng": 27.85849,
     "faqs": []
@@ -103505,8 +100127,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7906,
     "lat": 13.71024,
     "lng": -89.13989,
     "faqs": []
@@ -103551,8 +100171,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 8129,
     "lat": 42.4167,
     "lng": 27.7,
     "faqs": []
@@ -103596,8 +100214,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2134,
     "lat": 17.99107,
     "lng": -76.95742,
     "faqs": []
@@ -103641,8 +100257,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2724,
     "lat": 37.262,
     "lng": 23.159,
     "faqs": []
@@ -103769,8 +100383,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5065,
     "lat": 43.50891,
     "lng": 16.43915,
     "faqs": []
@@ -103815,8 +100427,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1139,
     "lat": 42.739,
     "lng": 12.738,
     "faqs": []
@@ -103856,8 +100466,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3435,
     "lat": 37.1889,
     "lng": -112.9986,
     "faqs": []
@@ -103902,8 +100510,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4223,
     "lat": 56.3398,
     "lng": -2.7967,
     "faqs": []
@@ -103948,8 +100554,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 1233,
     "lat": 50.211,
     "lng": -5.48,
     "faqs": []
@@ -103994,8 +100598,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2486,
     "lat": 29.9012,
     "lng": -81.3124,
     "faqs": []
@@ -104039,8 +100641,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 5590,
     "lat": 46.491,
     "lng": 9.836,
     "faqs": []
@@ -104121,8 +100721,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1879,
     "lat": 42.43205,
     "lng": 25.64262,
     "faqs": []
@@ -104255,8 +100853,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 5348,
     "lat": 58.97005,
     "lng": 5.73332,
     "faqs": []
@@ -104301,8 +100897,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 7069,
     "lat": -33.9321,
     "lng": 18.8602,
     "faqs": []
@@ -104347,8 +100941,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 7832,
     "lat": -33.932,
     "lng": 18.86,
     "faqs": []
@@ -104393,8 +100985,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 405,
     "lat": 56.1165,
     "lng": -3.9369,
     "faqs": []
@@ -104445,8 +101035,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2025,
     "lat": 59.32938,
     "lng": 18.06871,
     "faqs": []
@@ -104491,56 +101079,8 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 957,
     "lat": -6.163,
     "lng": 39.188,
-    "faqs": []
-  },
-  {
-    "id": "stone-town-spice",
-    "slug": "stone-town-spice",
-    "name": "Stone Town",
-    "countrySlug": "tanzania",
-    "countryName": "Tanzania",
-    "tagline": "A city in Tanzania",
-    "heroKey": "mountains",
-    "galleryKeys": [
-      "mountains",
-      "temple",
-      "desertCamp",
-      "sahara"
-    ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/7/73/Zanzibar_sultan_palace.jpg",
-    "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/7/73/Zanzibar_sultan_palace.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/b/b7/AngloZanzibarWar.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/f/f9/Beit_al_Ajaib%2C_2010.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/b/b1/Christ_Church_Stone_Town_Zanzibar.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/6/67/Cine_Afrique_-_Art_Deco_Cinema_-_Kiponda_District_-_Stone_Town_-_Zanzibar_-_Tanzania_%288830689498%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/b/bf/Forodhani_park_food_stand.jpg"
-    ],
-    "overview": "Stone Town is one of Tanzania's major cities, home to around 200,000 people.",
-    "bestTime": "The dry season for the most comfortable travel",
-    "weather": "Largely warm year-round with distinct wet and dry seasons",
-    "airport": "",
-    "metro": "",
-    "transport": "",
-    "thingsToDo": [],
-    "restaurants": [],
-    "hotels": [],
-    "stays": [],
-    "shopping": [],
-    "nightlife": [],
-    "museums": [],
-    "localFoods": [],
-    "itinerary": [],
-    "hiddenGems": [],
-    "tips": [],
-    "rating": 4.2,
-    "reviews": 1714,
-    "lat": -6.164,
-    "lng": 39.199,
     "faqs": []
   },
   {
@@ -104583,8 +101123,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4361,
     "lat": 48.5734,
     "lng": 7.7521,
     "faqs": []
@@ -104625,8 +101163,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7080,
     "lat": 35.14867,
     "lng": 33.33384,
     "faqs": []
@@ -104697,8 +101233,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2651,
     "lat": -9.31286,
     "lng": 125.25648,
     "faqs": []
@@ -104833,8 +101367,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 3355,
     "lat": -19.03332,
     "lng": -65.26274,
     "faqs": []
@@ -104878,8 +101410,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1034,
     "lat": 29.97371,
     "lng": 32.52627,
     "faqs": []
@@ -104924,8 +101454,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7361,
     "lat": 17.007,
     "lng": 99.826,
     "faqs": []
@@ -104970,8 +101498,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2293,
     "lat": 36.87744,
     "lng": 10.2468,
     "faqs": []
@@ -105011,8 +101537,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2410,
     "lat": 13.41033,
     "lng": -16.70815,
     "faqs": []
@@ -105057,8 +101581,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3581,
     "lat": 24.49258,
     "lng": 39.58572,
     "faqs": []
@@ -105109,8 +101631,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5494,
     "lat": 40.58972,
     "lng": 49.66861,
     "faqs": []
@@ -105148,8 +101668,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 5628,
     "lat": 39.43167,
     "lng": 125.93278,
     "faqs": []
@@ -105286,8 +101804,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 7505,
     "lat": -7.24917,
     "lng": 112.75083,
     "faqs": []
@@ -105393,8 +101909,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 7700,
     "lat": -18.13683,
     "lng": 178.42531,
     "faqs": []
@@ -105500,8 +102014,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 3753,
     "lat": -18.1416,
     "lng": 178.4419,
     "faqs": []
@@ -105543,8 +102055,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5485,
     "lat": 37.2636,
     "lng": 127.0286,
     "faqs": []
@@ -105588,8 +102098,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5554,
     "lat": 56.422,
     "lng": 40.448,
     "faqs": []
@@ -105634,8 +102142,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 5981,
     "lat": 31.2989,
     "lng": 120.5853,
     "faqs": []
@@ -105679,8 +102185,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2084,
     "lat": 68.234,
     "lng": 14.568,
     "faqs": []
@@ -105790,8 +102294,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3644,
     "lat": -22.67842,
     "lng": 14.52663,
     "faqs": []
@@ -105831,8 +102333,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 1454,
     "lat": 31.715,
     "lng": 35.585,
     "faqs": []
@@ -105876,8 +102376,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1853,
     "lat": -33.86785,
     "lng": 151.20732,
     "faqs": []
@@ -105922,8 +102420,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 6956,
     "lat": 37.075,
     "lng": 15.287,
     "faqs": []
@@ -106073,8 +102569,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 315,
     "lat": 46.253,
     "lng": 20.14824,
     "faqs": []
@@ -106196,8 +102690,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7907,
     "lat": 38.08,
     "lng": 46.2919,
     "faqs": []
@@ -106241,8 +102733,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4715,
     "lat": 11.78778,
     "lng": 42.88222,
     "faqs": []
@@ -106284,8 +102774,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1233,
     "lat": 14.1,
     "lng": 120.93,
     "faqs": []
@@ -106406,8 +102894,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1786,
     "lat": 14.5243,
     "lng": 121.0792,
     "faqs": []
@@ -106450,8 +102936,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 6559,
     "lat": 14.8888,
     "lng": 5.2692,
     "faqs": []
@@ -106496,8 +102980,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 8150,
     "lat": 24.1477,
     "lng": 120.6736,
     "faqs": []
@@ -106542,8 +103024,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5262,
     "lat": 22.9997,
     "lng": 120.227,
     "faqs": []
@@ -106588,8 +103068,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4063,
     "lat": 25.033,
     "lng": 121.5654,
     "faqs": []
@@ -106633,8 +103111,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 5009,
     "lat": 13.57952,
     "lng": 44.02091,
     "faqs": []
@@ -106676,8 +103152,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 4600,
     "lat": 34.3403,
     "lng": 134.0434,
     "faqs": []
@@ -106722,8 +103196,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3150,
     "lat": 36.146,
     "lng": 137.2522,
     "faqs": []
@@ -106805,8 +103277,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5927,
     "lat": 10.99081,
     "lng": 104.78498,
     "faqs": []
@@ -106891,8 +103361,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3958,
     "lat": 4.89816,
     "lng": -1.76029,
     "faqs": []
@@ -106932,8 +103400,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2917,
     "lat": 13.42558,
     "lng": -16.67261,
     "faqs": []
@@ -106977,8 +103443,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 2978,
     "lat": 53.2859,
     "lng": -6.37344,
     "faqs": []
@@ -107128,161 +103592,8 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2423,
     "lat": 59.43696,
     "lng": 24.75353,
-    "faqs": []
-  },
-  {
-    "id": "tallinn-old",
-    "slug": "tallinn-old",
-    "name": "Tallinn Old Town",
-    "countrySlug": "estonia",
-    "countryName": "Estonia",
-    "tagline": "A city in Estonia",
-    "heroKey": "mountains",
-    "galleryKeys": [
-      "mountains",
-      "cityNight",
-      "alps",
-      "beach"
-    ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Raekoja_plats_at_night.jpg/1280px-Raekoja_plats_at_night.jpg",
-    "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Old_Town_of_Tallinn%2C_Tallinn%2C_Estonia_-_panoramio_%2858_cropped%29.jpg/1280px-Old_Town_of_Tallinn%2C_Tallinn%2C_Estonia_-_panoramio_%2858_cropped%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Pikkhermann.jpg/500px-Pikkhermann.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Raekoja_plats_at_night.jpg/1280px-Raekoja_plats_at_night.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Iglesia_de_San_Nicol%C3%A1s%2C_Tallinn%2C_Estonia%2C_2012-08-05%2C_DD_07.JPG/1280px-Iglesia_de_San_Nicol%C3%A1s%2C_Tallinn%2C_Estonia%2C_2012-08-05%2C_DD_07.JPG",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Vabaduse_v%C3%A4ljak_01.01.2023.jpg/1280px-Vabaduse_v%C3%A4ljak_01.01.2023.jpg"
-    ],
-    "overview": "Tallinn Old Town is one of Estonia's major cities, home to around 5,000 people.",
-    "bestTime": "May–June & September–October for mild weather and thinner crowds",
-    "weather": "Temperate, with warm summers and cool winters",
-    "airport": "",
-    "metro": "",
-    "transport": "",
-    "thingsToDo": [
-      "Toompea Castle",
-      "Alexander Nevsky Cathedral",
-      "St. Mary's Cathedral",
-      "Viru Gate",
-      "Town Hall Square",
-      "Atlantis H2O Aquapark",
-      "Pirita Beach"
-    ],
-    "restaurants": [
-      {
-        "name": "Maiasmokk",
-        "note": "The oldest still operating café in Tallinn, dating back to 1864. Coffee, tea, chocolate and various sweet and savoury pastries at quite chea"
-      },
-      {
-        "name": "Pub Kompressor",
-        "note": "Very tasty and varied pancakes. There are also other dishes. Fantastic place with great food and drinks, especially kvass!"
-      },
-      {
-        "name": "III Draakon",
-        "note": "If you'd like to scoop nostalgia. Very interesting to eat in a special way. They have a small menu to offer but very good and very typical. "
-      },
-      {
-        "name": "Pizza Grande",
-        "note": "Very cozy place. Delicious pizza, affordable prices, pleasant service. Great environment."
-      },
-      {
-        "name": "Loca",
-        "note": "Pizza, falafel, hummus, soup, beer. Fast food joint with wild staff and increasing customer service.",
-        "priceLevel": 1
-      },
-      {
-        "name": "Borsch j Varenyk",
-        "note": "Great place to enjoy home-made Ukranian food",
-        "priceLevel": 1
-      }
-    ],
-    "hotels": [
-      "Euphoria",
-      "Fat Margeret's",
-      "Knight House",
-      "Monk's Bunk"
-    ],
-    "stays": [
-      {
-        "name": "Euphoria",
-        "note": "The place with a character. Painted walls, daily events, workshops and unplugged concerts make this place different from other hostels. A mu",
-        "priceLevel": 1
-      },
-      {
-        "name": "Fat Margeret's",
-        "note": "Hostel with a big living room, kitchen and a lot of clean toilets and showers. Free Wi-Fi.",
-        "priceLevel": 1
-      },
-      {
-        "name": "Knight House"
-      },
-      {
-        "name": "Monk's Bunk",
-        "note": "Even booking a place here online (either through the well known suspects or their own website), does not mean they have accommodation availa",
-        "priceLevel": 1
-      }
-    ],
-    "shopping": [
-      "Viru Keskus",
-      "Foorum Keskus",
-      "Kaubamaja",
-      "Melon Kaubanduskeskus",
-      "Stockmann",
-      "Rocca al Mare kaubanduskeskus"
-    ],
-    "nightlife": [
-      "Café Mademoiselle",
-      "Wabadus Kohvik",
-      "Beer House",
-      "The Dubliner",
-      "Drink Baar",
-      "Hell Hunt"
-    ],
-    "museums": [
-      "Toompea Castle",
-      "Alexander Nevsky Cathedral",
-      "St. Mary's Cathedral"
-    ],
-    "localFoods": [],
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Icons & landmarks",
-        "activities": [
-          "Visit Toompea Castle",
-          "Visit Alexander Nevsky Cathedral",
-          "Visit St. Mary's Cathedral",
-          "Eat at Maiasmokk"
-        ]
-      },
-      {
-        "day": 2,
-        "title": "Culture & neighborhoods",
-        "activities": [
-          "Visit Viru Gate",
-          "Visit Town Hall Square",
-          "Visit Atlantis H2O Aquapark",
-          "Eat at Pub Kompressor"
-        ]
-      },
-      {
-        "day": 3,
-        "title": "Markets, parks & hidden corners",
-        "activities": [
-          "Visit Pirita Beach",
-          "Eat at III Draakon"
-        ]
-      }
-    ],
-    "hiddenGems": [],
-    "tips": [],
-    "rating": 4.2,
-    "reviews": 521,
-    "lat": 59.437,
-    "lng": 24.754,
     "faqs": []
   },
   {
@@ -107385,8 +103696,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 6633,
     "lat": 9.40079,
     "lng": -0.8393,
     "faqs": []
@@ -107431,8 +103740,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 322,
     "lat": 27.9506,
     "lng": -82.4572,
     "faqs": []
@@ -107595,8 +103902,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4603,
     "lat": 61.49911,
     "lng": 23.78712,
     "faqs": []
@@ -107637,8 +103942,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 6253,
     "lat": 1.35806,
     "lng": 103.94028,
     "faqs": []
@@ -107679,8 +103982,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2115,
     "lat": 4.47,
     "lng": 101.38,
     "faqs": []
@@ -107724,8 +104025,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7358,
     "lat": -9.44666,
     "lng": 159.94549,
     "faqs": []
@@ -107853,8 +104152,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4071,
     "lat": 35.76727,
     "lng": -5.79975,
     "faqs": []
@@ -107898,8 +104195,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 3880,
     "lat": 37.8537,
     "lng": 15.2887,
     "faqs": []
@@ -107944,8 +104239,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 1652,
     "lat": 36.407,
     "lng": -105.573,
     "faqs": []
@@ -107999,8 +104292,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5359,
     "lat": 1.3278,
     "lng": 172.97696,
     "faqs": []
@@ -108093,8 +104384,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4115,
     "lat": 42.89799,
     "lng": 71.37334,
     "faqs": []
@@ -108233,8 +104522,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 7235,
     "lat": 58.38062,
     "lng": 26.72509,
     "faqs": []
@@ -108399,8 +104686,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7187,
     "lat": 41.26465,
     "lng": 69.21627,
     "faqs": []
@@ -108444,8 +104729,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1121,
     "lat": 20.79,
     "lng": 97.03,
     "faqs": []
@@ -108489,8 +104772,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4880,
     "lat": 18.56,
     "lng": -99.6,
     "faqs": []
@@ -108637,8 +104918,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 8069,
     "lat": 41.69143,
     "lng": 44.83412,
     "faqs": []
@@ -108745,8 +105024,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 473,
     "lat": 14.0818,
     "lng": -87.20681,
     "faqs": []
@@ -108889,8 +105166,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2623,
     "lat": 35.69439,
     "lng": 51.42151,
     "faqs": []
@@ -108934,8 +105209,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4389,
     "lat": 32.08088,
     "lng": 34.78057,
     "faqs": []
@@ -108979,8 +105252,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7249,
     "lat": 49.184,
     "lng": 15.453,
     "faqs": []
@@ -109025,8 +105296,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1229,
     "lat": 37.937,
     "lng": -107.812,
     "faqs": []
@@ -109070,8 +105339,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 7391,
     "lat": 20.88,
     "lng": -103.84,
     "faqs": []
@@ -109111,8 +105378,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7223,
     "lat": -16.15639,
     "lng": 33.58667,
     "faqs": []
@@ -109233,8 +105498,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7088,
     "lat": 42.00989,
     "lng": 20.97138,
     "faqs": []
@@ -109306,8 +105569,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4345,
     "lat": 17.41027,
     "lng": 104.83068,
     "faqs": []
@@ -109434,8 +105695,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4941,
     "lat": 52.07667,
     "lng": 4.29861,
     "faqs": []
@@ -109556,8 +105815,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2801,
     "lat": 40.64072,
     "lng": 22.93493,
     "faqs": []
@@ -109615,8 +105872,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7480,
     "lat": 14.78944,
     "lng": -16.92602,
     "faqs": []
@@ -109753,8 +106008,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7034,
     "lat": 27.46609,
     "lng": 89.64191,
     "faqs": []
@@ -109798,8 +106051,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 6262,
     "lat": 39.14222,
     "lng": 117.17667,
     "faqs": []
@@ -109843,8 +106094,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 6889,
     "lat": 32.5027,
     "lng": -117.00371,
     "faqs": []
@@ -109889,8 +106138,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 7468,
     "lat": 45.7489,
     "lng": 21.2087,
     "faqs": []
@@ -109933,8 +106180,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7513,
     "lat": 2.8,
     "lng": 104.17,
     "faqs": []
@@ -110105,8 +106350,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3270,
     "lat": 41.32744,
     "lng": 19.81866,
     "faqs": []
@@ -110228,56 +106471,8 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4781,
     "lat": 46.84275,
     "lng": 29.6284,
-    "faqs": []
-  },
-  {
-    "id": "guadalajara-tlaquepaque",
-    "slug": "guadalajara-tlaquepaque",
-    "name": "Tlaquepaque",
-    "countrySlug": "mexico",
-    "countryName": "Mexico",
-    "tagline": "A city in Mexico",
-    "heroKey": "mountains",
-    "galleryKeys": [
-      "mountains",
-      "coast",
-      "food",
-      "cityNight"
-    ],
-    "realPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/92/Santuario_De_La_Soledad_02.jpg",
-    "realGallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/92/Santuario_De_La_Soledad_02.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/7/78/Andador_indepedencia.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/1/10/CasaAntiguaTlaquepaque.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/5/56/El_Par%C3%ADan_en_Tlaquepaque.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/b/b8/Giant_Tlaquepaque_Letters_%28Letras_Gigantes_Tlaquepaque%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/5/55/Giant_Tlaquepaque_Letters_%28Letras_Gigantes_Tlaquepaque%29_Night.jpg"
-    ],
-    "overview": "Tlaquepaque is one of Mexico's major cities, home to around 600,000 people.",
-    "bestTime": "Late spring and early autumn for pleasant temperatures",
-    "weather": "Diverse — temperate to subtropical",
-    "airport": "",
-    "metro": "",
-    "transport": "",
-    "thingsToDo": [],
-    "restaurants": [],
-    "hotels": [],
-    "stays": [],
-    "shopping": [],
-    "nightlife": [],
-    "museums": [],
-    "localFoods": [],
-    "itinerary": [],
-    "hiddenGems": [],
-    "tips": [],
-    "rating": 4.7,
-    "reviews": 5237,
-    "lat": 20.64,
-    "lng": -103.31,
     "faqs": []
   },
   {
@@ -110354,8 +106549,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 2648,
     "lat": -18.1492,
     "lng": 49.40234,
     "faqs": []
@@ -110400,8 +106593,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3879,
     "lat": 23.45,
     "lng": -110.23,
     "faqs": []
@@ -110445,8 +106636,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4538,
     "lat": 42.84194,
     "lng": 75.30149,
     "faqs": []
@@ -110491,8 +106680,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 942,
     "lat": 39.8628,
     "lng": -4.0273,
     "faqs": []
@@ -110530,8 +106717,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 6733,
     "lat": 39.863,
     "lng": -4.027,
     "faqs": []
@@ -110617,8 +106802,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1683,
     "lat": -23.35,
     "lng": 43.66667,
     "faqs": []
@@ -110674,8 +106857,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3286,
     "lat": 43.70643,
     "lng": -79.39864,
     "faqs": []
@@ -110720,8 +106901,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 5816,
     "lat": 62.0079,
     "lng": -6.7909,
     "faqs": []
@@ -110764,8 +106943,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 8150,
     "lat": 14.86229,
     "lng": -15.87532,
     "faqs": []
@@ -110873,8 +107050,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7243,
     "lat": 43.60426,
     "lng": 1.44367,
     "faqs": []
@@ -110919,8 +107094,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7992,
     "lat": 38.017,
     "lng": 12.516,
     "faqs": []
@@ -110965,8 +107138,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3817,
     "lat": 46.074,
     "lng": 11.121,
     "faqs": []
@@ -111011,8 +107182,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7099,
     "lat": 45.667,
     "lng": 12.242,
     "faqs": []
@@ -111053,8 +107222,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4867,
     "lat": 49.75,
     "lng": 6.637,
     "faqs": []
@@ -111099,8 +107266,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6469,
     "lat": 45.649,
     "lng": 13.776,
     "faqs": []
@@ -111144,8 +107309,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1638,
     "lat": 8.587,
     "lng": 81.215,
     "faqs": []
@@ -111190,8 +107353,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 8110,
     "lat": 21.804,
     "lng": 79.984,
     "faqs": []
@@ -111231,8 +107392,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3904,
     "lat": -20.0576,
     "lng": 57.55025,
     "faqs": []
@@ -111346,8 +107505,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2444,
     "lat": 34.43352,
     "lng": 35.84415,
     "faqs": []
@@ -111461,8 +107618,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5076,
     "lat": 32.88743,
     "lng": 13.18733,
     "faqs": []
@@ -111507,8 +107662,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 1062,
     "lat": 43.5167,
     "lng": 16.25,
     "faqs": []
@@ -111553,8 +107706,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4785,
     "lat": 69.6492,
     "lng": 18.9553,
     "faqs": []
@@ -111689,8 +107840,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 6023,
     "lat": 63.43049,
     "lng": 10.39506,
     "faqs": []
@@ -111734,8 +107883,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4906,
     "lat": 37.623,
     "lng": -112.082,
     "faqs": []
@@ -111780,8 +107927,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1960,
     "lat": -8.11599,
     "lng": -79.02998,
     "faqs": []
@@ -111821,8 +107966,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 919,
     "lat": 27.0219,
     "lng": 90.12291,
     "faqs": []
@@ -111865,8 +108008,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4981,
     "lat": 32.2226,
     "lng": -110.9747,
     "faqs": []
@@ -111911,8 +108052,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 492,
     "lat": 20.2114,
     "lng": -87.4654,
     "faqs": []
@@ -112035,8 +108174,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 5560,
     "lat": 36.81897,
     "lng": 10.16579,
     "faqs": []
@@ -112146,8 +108283,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7101,
     "lat": 45.07049,
     "lng": 7.68682,
     "faqs": []
@@ -112191,8 +108326,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4896,
     "lat": 39.07328,
     "lng": 63.57861,
     "faqs": []
@@ -112236,8 +108369,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 6159,
     "lat": 40.02216,
     "lng": 52.95517,
     "faqs": []
@@ -112372,8 +108503,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 4624,
     "lat": 60.45148,
     "lng": 22.26869,
     "faqs": []
@@ -112450,8 +108579,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 5664,
     "lat": 4.80278,
     "lng": 114.64917,
     "faqs": []
@@ -112541,8 +108668,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 3235,
     "lat": 44.53842,
     "lng": 18.66709,
     "faqs": []
@@ -112632,8 +108757,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 5903,
     "lat": 33.27333,
     "lng": 35.19389,
     "faqs": []
@@ -112677,8 +108800,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2693,
     "lat": -8.5069,
     "lng": 115.2625,
     "faqs": []
@@ -112723,8 +108844,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 611,
     "lat": 24.5854,
     "lng": 73.7125,
     "faqs": []
@@ -112769,8 +108888,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 2763,
     "lat": 47.8864,
     "lng": 106.9057,
     "faqs": []
@@ -112940,8 +109057,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1256,
     "lat": 47.90771,
     "lng": 106.88324,
     "faqs": []
@@ -112981,8 +109096,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3783,
     "lat": 1.33333,
     "lng": 103.93333,
     "faqs": []
@@ -113026,8 +109139,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 1800,
     "lat": -8.8291,
     "lng": 115.0849,
     "faqs": []
@@ -113069,8 +109180,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 5863,
     "lat": 6.01,
     "lng": 80.25,
     "faqs": []
@@ -113198,8 +109307,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 4917,
     "lat": 59.85882,
     "lng": 17.63889,
     "faqs": []
@@ -113244,8 +109351,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7304,
     "lat": 43.726,
     "lng": 12.636,
     "faqs": []
@@ -113290,8 +109395,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2607,
     "lat": -54.8019,
     "lng": -68.303,
     "faqs": []
@@ -113400,8 +109503,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7766,
     "lat": 52.09083,
     "lng": 5.12222,
     "faqs": []
@@ -113446,8 +109547,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1405,
     "lat": -20.4603,
     "lng": -66.8261,
     "faqs": []
@@ -113490,8 +109589,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 4776,
     "lat": 40.76994,
     "lng": 73.30068,
     "faqs": []
@@ -113531,8 +109628,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 7270,
     "lat": -20.29806,
     "lng": 57.47833,
     "faqs": []
@@ -113633,8 +109728,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5633,
     "lat": 47.14151,
     "lng": 9.52154,
     "faqs": []
@@ -113678,8 +109771,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 3753,
     "lat": 39.6403,
     "lng": -106.3742,
     "faqs": []
@@ -113722,8 +109813,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 3513,
     "lat": -16.508,
     "lng": -151.751,
     "faqs": []
@@ -113765,8 +109854,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6245,
     "lat": 45.448,
     "lng": 6.978,
     "faqs": []
@@ -113871,8 +109958,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 1162,
     "lat": 39.47391,
     "lng": -0.37966,
     "faqs": []
@@ -113977,8 +110062,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 624,
     "lat": 10.16153,
     "lng": -68.00044,
     "faqs": []
@@ -114022,8 +110105,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5669,
     "lat": 20.69,
     "lng": -88.2,
     "faqs": []
@@ -114167,8 +110248,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2498,
     "lat": 35.89968,
     "lng": 14.5148,
     "faqs": []
@@ -114279,8 +110358,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 7511,
     "lat": -33.036,
     "lng": -71.62963,
     "faqs": []
@@ -114325,8 +110402,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7296,
     "lat": 49.2827,
     "lng": -123.1207,
     "faqs": []
@@ -114369,8 +110444,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 3216,
     "lat": 18.923,
     "lng": 102.448,
     "faqs": []
@@ -114413,8 +110486,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 2189,
     "lat": 18.922,
     "lng": 102.448,
     "faqs": []
@@ -114532,8 +110603,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3428,
     "lat": 60.29414,
     "lng": 25.04099,
     "faqs": []
@@ -114577,8 +110646,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 785,
     "lat": 23.156,
     "lng": 81.25,
     "faqs": []
@@ -114623,8 +110690,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3428,
     "lat": 25.3176,
     "lng": 82.9739,
     "faqs": []
@@ -114668,8 +110733,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2692,
     "lat": 46.01,
     "lng": 9.284,
     "faqs": []
@@ -114807,8 +110870,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1007,
     "lat": 43.21912,
     "lng": 27.91024,
     "faqs": []
@@ -114920,8 +110981,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2439,
     "lat": 41.90268,
     "lng": 12.45414,
     "faqs": []
@@ -114965,8 +111024,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3135,
     "lat": 43.0757,
     "lng": 25.6172,
     "faqs": []
@@ -115009,8 +111066,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 6316,
     "lat": 58.521,
     "lng": 31.275,
     "faqs": []
@@ -115133,8 +111188,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2235,
     "lat": 57.39485,
     "lng": 21.56121,
     "faqs": []
@@ -115178,8 +111231,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1172,
     "lat": 46.096,
     "lng": 7.229,
     "faqs": []
@@ -115224,8 +111275,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 2150,
     "lat": 44.135,
     "lng": 9.684,
     "faqs": []
@@ -115268,8 +111317,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 830,
     "lat": 45.4384,
     "lng": 10.9916,
     "faqs": []
@@ -115314,8 +111361,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1325,
     "lat": 48.8049,
     "lng": 2.1204,
     "faqs": []
@@ -115355,8 +111400,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3866,
     "lat": -8.90553,
     "lng": 13.37499,
     "faqs": []
@@ -115400,8 +111443,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2995,
     "lat": 45.546,
     "lng": 11.549,
     "faqs": []
@@ -115446,8 +111487,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7288,
     "lat": -4.62001,
     "lng": 55.45501,
     "faqs": []
@@ -115485,8 +111524,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 5092,
     "lat": -4.6191,
     "lng": 55.4513,
     "faqs": []
@@ -115531,8 +111568,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 6924,
     "lat": 48.4284,
     "lng": -123.3656,
     "faqs": []
@@ -115576,8 +111611,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4566,
     "lat": 36.044,
     "lng": 14.239,
     "faqs": []
@@ -115621,8 +111654,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 8001,
     "lat": -17.9243,
     "lng": 25.8572,
     "faqs": []
@@ -115667,8 +111698,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7782,
     "lat": -17.9318,
     "lng": 25.8307,
     "faqs": []
@@ -115725,8 +111754,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2634,
     "lat": 48.20849,
     "lng": 16.37208,
     "faqs": []
@@ -115870,8 +111897,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 3822,
     "lat": 17.96667,
     "lng": 102.6,
     "faqs": []
@@ -115915,8 +111940,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 6482,
     "lat": 17.57,
     "lng": 120.39,
     "faqs": []
@@ -115961,8 +111984,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 5557,
     "lat": 14.52512,
     "lng": -90.58544,
     "faqs": []
@@ -116122,8 +112143,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6197,
     "lat": 54.68916,
     "lng": 25.2798,
     "faqs": []
@@ -116192,8 +112211,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 784,
     "lat": -33.02457,
     "lng": -71.55183,
     "faqs": []
@@ -116234,8 +112251,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7931,
     "lat": 41.45,
     "lng": -70.6,
     "faqs": []
@@ -116279,8 +112294,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 356,
     "lat": 57.6348,
     "lng": 18.2948,
     "faqs": []
@@ -116377,8 +112390,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2211,
     "lat": 55.1904,
     "lng": 30.2049,
     "faqs": []
@@ -116423,8 +112434,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 8281,
     "lat": 43.1332,
     "lng": 131.9113,
     "faqs": []
@@ -116566,8 +112575,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5875,
     "lat": 40.4696,
     "lng": 19.48379,
     "faqs": []
@@ -116612,8 +112619,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 2616,
     "lat": 43.4,
     "lng": 10.86,
     "faqs": []
@@ -116658,8 +112663,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4355,
     "lat": -9.44203,
     "lng": 159.98877,
     "faqs": []
@@ -116699,8 +112702,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 1651,
     "lat": 49.14,
     "lng": 20.22,
     "faqs": []
@@ -116744,8 +112745,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 5174,
     "lat": 30.321,
     "lng": 35.479,
     "faqs": []
@@ -116785,8 +112784,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 4196,
     "lat": -0.4,
     "lng": 130.8,
     "faqs": []
@@ -116862,8 +112859,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2714,
     "lat": -22.9575,
     "lng": 14.50528,
     "faqs": []
@@ -116907,8 +112902,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.2,
-    "reviews": 412,
     "lat": -44.698,
     "lng": 169.137,
     "faqs": []
@@ -116952,8 +112945,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 6140,
     "lat": 6.97444,
     "lng": 45.34083,
     "faqs": []
@@ -117010,8 +113001,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 5314,
     "lat": 52.22977,
     "lng": 21.01178,
     "faqs": []
@@ -117055,8 +113044,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 6671,
     "lat": 38.9072,
     "lng": -77.0369,
     "faqs": []
@@ -117107,8 +113094,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1814,
     "lat": 8.3389,
     "lng": -13.07091,
     "faqs": []
@@ -117152,8 +113137,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 6124,
     "lat": 7.70111,
     "lng": 27.98972,
     "faqs": []
@@ -117197,8 +113180,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2160,
     "lat": -41.28664,
     "lng": 174.77557,
     "faqs": []
@@ -117331,8 +113312,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 5843,
     "lat": 31.78199,
     "lng": 35.21961,
     "faqs": []
@@ -117376,8 +113355,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 6875,
     "lat": 50.1163,
     "lng": -122.9574,
     "faqs": []
@@ -117421,8 +113398,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1864,
     "lat": 50.116,
     "lng": -122.957,
     "faqs": []
@@ -117467,8 +113442,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 6060,
     "lat": 48.411,
     "lng": -114.338,
     "faqs": []
@@ -117512,8 +113485,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 1920,
     "lat": 12.1224,
     "lng": -68.8824,
     "faqs": []
@@ -117618,8 +113589,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 806,
     "lat": -22.55941,
     "lng": 17.08323,
     "faqs": []
@@ -117657,8 +113626,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3672,
     "lat": 9.01222,
     "lng": 27.57081,
     "faqs": []
@@ -117819,8 +113786,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 816,
     "lat": 49.8844,
     "lng": -97.14704,
     "faqs": []
@@ -117890,8 +113855,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7813,
     "lat": 47.50564,
     "lng": 8.72413,
     "faqs": []
@@ -117933,8 +113896,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 3053,
     "lat": -7.36,
     "lng": 109.9,
     "faqs": []
@@ -117978,8 +113939,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 7358,
     "lat": 46.627,
     "lng": 14.15,
     "faqs": []
@@ -118131,8 +114090,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 2306,
     "lat": 51.10286,
     "lng": 17.03006,
     "faqs": []
@@ -118177,8 +114134,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 2420,
     "lat": 30.5928,
     "lng": 114.3055,
     "faqs": []
@@ -118221,8 +114176,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 8296,
     "lat": 20.4164,
     "lng": 104.045,
     "faqs": []
@@ -118267,8 +114220,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 5586,
     "lat": 34.3416,
     "lng": 108.9398,
     "faqs": []
@@ -118313,8 +114264,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 2009,
     "lat": 34.3416,
     "lng": 108.9398,
     "faqs": []
@@ -118358,8 +114307,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 2307,
     "lat": 24.4798,
     "lng": 118.0819,
     "faqs": []
@@ -118425,8 +114372,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4154,
     "lat": 6.82055,
     "lng": -5.27674,
     "faqs": []
@@ -118559,8 +114504,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4455,
     "lat": 16.80528,
     "lng": 96.15611,
     "faqs": []
@@ -118604,8 +114547,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 409,
     "lat": 24.778,
     "lng": 110.496,
     "faqs": []
@@ -118744,8 +114685,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 4796,
     "lat": 3.86667,
     "lng": 11.51667,
     "faqs": []
@@ -118848,8 +114787,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 4852,
     "lat": -0.55085,
     "lng": 166.9252,
     "faqs": []
@@ -118911,8 +114848,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 7370,
     "lat": 4.09444,
     "lng": 30.67639,
     "faqs": []
@@ -119031,8 +114966,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1949,
     "lat": 56.85733,
     "lng": 60.61529,
     "faqs": []
@@ -119185,8 +115118,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 487,
     "lat": 40.17765,
     "lng": 44.5126,
     "faqs": []
@@ -119233,8 +115164,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4943,
     "lat": 40.61832,
     "lng": 47.15014,
     "faqs": []
@@ -119279,8 +115208,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1617,
     "lat": -7.7956,
     "lng": 110.3695,
     "faqs": []
@@ -119418,8 +115345,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 3610,
     "lat": 35.43333,
     "lng": 139.65,
     "faqs": []
@@ -119464,8 +115389,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1894,
     "lat": 53.959,
     "lng": -1.0815,
     "faqs": []
@@ -119510,8 +115433,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 1023,
     "lat": 37.7459,
     "lng": -119.5936,
     "faqs": []
@@ -119553,8 +115474,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 1293,
     "lat": -25.2406,
     "lng": 130.9889,
     "faqs": []
@@ -119592,8 +115511,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 1113,
     "lat": 41.37139,
     "lng": 69.27944,
     "faqs": []
@@ -119636,8 +115553,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2505,
     "lat": 35.87687,
     "lng": 14.53592,
     "faqs": []
@@ -119741,8 +115656,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 5977,
     "lat": 44.11578,
     "lng": 15.22514,
     "faqs": []
@@ -119881,8 +115794,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 2118,
     "lat": 45.81444,
     "lng": 15.97798,
     "faqs": []
@@ -119927,8 +115838,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 1228,
     "lat": 49.2992,
     "lng": 19.9496,
     "faqs": []
@@ -119973,8 +115882,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 4992,
     "lat": 37.787,
     "lng": 20.8988,
     "faqs": []
@@ -120024,8 +115931,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 3116,
     "lat": -6.16394,
     "lng": 39.19793,
     "faqs": []
@@ -120140,8 +116045,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 7074,
     "lat": 41.65606,
     "lng": -0.87734,
     "faqs": []
@@ -120185,8 +116088,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.5,
-    "reviews": 7684,
     "lat": 32.07275,
     "lng": 36.08796,
     "faqs": []
@@ -120231,8 +116132,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 1055,
     "lat": 47.323,
     "lng": 12.798,
     "faqs": []
@@ -120276,8 +116175,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 8172,
     "lat": 44.8458,
     "lng": 20.40116,
     "faqs": []
@@ -120321,8 +116218,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6167,
     "lat": 44.20169,
     "lng": 17.90397,
     "faqs": []
@@ -120366,8 +116261,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 4828,
     "lat": 46.0207,
     "lng": 7.7491,
     "faqs": []
@@ -120411,8 +116304,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.3,
-    "reviews": 7931,
     "lat": 29.117,
     "lng": 110.479,
     "faqs": []
@@ -120566,8 +116457,6 @@ const raw: Gen[] = [
     ],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.6,
-    "reviews": 2758,
     "lat": 49.22315,
     "lng": 18.73941,
     "faqs": []
@@ -120621,8 +116510,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.7,
-    "reviews": 6779,
     "lat": 13.80716,
     "lng": 8.9881,
     "faqs": []
@@ -120665,8 +116552,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 1161,
     "lat": 15.66,
     "lng": -96.51,
     "faqs": []
@@ -120707,8 +116592,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.9,
-    "reviews": 1017,
     "lat": 32.46739,
     "lng": 14.56874,
     "faqs": []
@@ -120805,8 +116688,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 3812,
     "lat": -15.38596,
     "lng": 35.3188,
     "faqs": []
@@ -120850,8 +116731,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 7066,
     "lat": 47.3769,
     "lng": 8.5417,
     "faqs": []
@@ -120961,8 +116840,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.4,
-    "reviews": 4493,
     "lat": 47.36667,
     "lng": 8.55,
     "faqs": []
@@ -121002,8 +116879,6 @@ const raw: Gen[] = [
     "itinerary": [],
     "hiddenGems": [],
     "tips": [],
-    "rating": 4.8,
-    "reviews": 7746,
     "lat": 6.06846,
     "lng": -8.13559,
     "faqs": []

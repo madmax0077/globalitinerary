@@ -34,8 +34,8 @@ export interface Country {
   overview: string;
   history: string;
   culture: string;
-  rating: number;
-  reviews: number;
+  rating?: number;
+  reviews?: number;
   coordinates: Coordinates;
   tags: string[];
   topCitySlugs: string[];
@@ -107,8 +107,8 @@ export interface City {
   itinerary: ItineraryDay[];
   hiddenGems: string[];
   tips: string[];
-  rating: number;
-  reviews: number;
+  rating?: number;
+  reviews?: number;
   coordinates: Coordinates;
   attractionSlugs: string[];
   faqs: FAQ[];

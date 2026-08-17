@@ -2605,4 +2605,368 @@ export const cityEnrichments: Record<string, CityEnrichment> = {
       "Respect traditional village rules and marine protected areas",
     ],
   },
+  dubai: {
+    tagline: "Explore Dubai",
+    overview: "Dubai was also used as a smuggling town to smuggle gold from Africa and elsewhere and import it to India, this made Dubai a well-known point in the map for various traders. When oil companies looked for oil around the Trucial States, Dubai was shown to not have any significant oil reserves compared to Abu Dhabi. Sheikh Rashid Al Maktoum, then the leader and Sheikh of Dubai, continued on the booming expansion of trade in Dubai instead of relying on any oil income. He welcomed Indian traders, Iranian traders, and… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  tokyo: {
+    tagline: "Explore Tokyo",
+    overview: "Over 500 years old, the city of Tokyo was once the modest fishing village of Edo (江戸 - literally Gate of the River) due to its location at the mouth of Sumida-gawa. The city only truly began to grow when it became the seat of the Tokugawa Shogunate in 1603, who decided to set up a new seat of power far away from the intrigues of the imperial court in Kyoto. After the Tokugawa Shogunate collapsed in the Meiji Restoration of 1868, the emperor and his court moved here from Kyoto, and the city was renamed to its… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  seoul: {
+    tagline: "Explore Seoul",
+    overview: "With over 10 million people, a figure that doubles if you include neighboring cities and suburbs, Seoul is the largest city in South Korea and unquestionably the economic, political and cultural hub of the nation. By some measures it is the second largest urban agglomeration on the planet, after Greater Tokyo. Seoul is a favourite with tourists from China, Japan, Southeast Asia, and, increasingly, the West, encouraged by the success of Korean pop culture. Aside from the native Korean, travelers will frequently… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  barcelona: {
+    tagline: "Explore Barcelona",
+    overview: "thumbnail|right|It rarely snows in Barcelona, but when it does it highlights the closeness of the mountain range at one end of the city to the seaside on the other ===When to (Source: Wikivoyage, CC BY-SA.)",
+  },
+  amsterdam: {
+    tagline: "Explore Amsterdam",
+    overview: "With a population surpassing 934,000 in 2025 – and soaring well past a million when you account for the immediate surroundings – Amsterdam unquestionably holds the crown as the Netherlands' largest city. Numbers aside, Amsterdam is the financial, cultural, and creative heart of the nation. English is widely spoken and understood by almost everyone, so language barriers are rarely an issue for travellers. The semi-circle is on the south side of the IJ, which is often called a river but more exactly is an estuary.… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  milan: {
+    tagline: "Explore Milan",
+    overview: "thumb|right|The breathtaking views of Milan from the magnificent roof of the Duomo Milan is often described as representing \"modern\" Italy. The differences between Rome and Milan are evident from several proverbs, such as an Italian saying about the differences between the two cities which roughly translates, \"Rome is a voluptuous woman whose gifts are very apparent, while Milan is the shy, demure girl whose treasures are plentiful, but discovered in time.\" Milan is the most modern of all Italian cities, yet it… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  rome: {
+    tagline: "Explore Rome",
+    overview: "thumb|right|250px|The Pantheon Situated on the River Tiber, between the Apennine Mountains and the Tyrrhenian Sea, the \"Eternal City\" was once the administrative centre of the mighty Roman Empire, governing a vast region that stretched all the way from Britain to Mesopotamia. Today it remains the seat of the Italian government and home to numerous ministerial offices. Rome has 2.7 million inhabitants while the metropolitan area is home to around 4.5 million. Architecturally and culturally, Rome has some contrasts… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  vienna: {
+    tagline: "Explore Vienna",
+    overview: "Given its prestige, Vienna hosted the Habsburg court for several centuries, first as the Imperial seat of the Holy Roman Empire, then the capital of the Austrian Empire, and later of the Austro-Hungarian Empire, which finally fell in 1918 with the abdication of the last Emperor Karl I. The court tremendously influenced the culture that exists here even today: Vienna's residents are often overly formal, with small doses of courtliness, polite forms of address, and formal dress attire. One distinguishable paradox of… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  "los-angeles": {
+    tagline: "Explore Los Angeles",
+    overview: "Such is the nature of Los Angeles: because it is so spread out and its individual cities and neighborhoods are so distinct, the city is often thought of less as a cohesive whole than as a collection of disparate communities. Even some of the neighborhoods officially within the city of Los Angeles are so well-known that they are often thought to be distinct from the city, such as Hollywood, Van Nuys, Bel-Air, and Venice Beach, which sit astride officially independent municipalities such as West Hollywood, Santa… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  madrid: {
+    tagline: "Explore Madrid",
+    overview: "thumb|right|Palacio de Cibeles, Madrid's city hall, Cibeles Square Madrid has over 3.4 million residents within the city limits and 7 million people live in the autonomous Community of Madrid region (as of (Source: Wikivoyage, CC BY-SA.)",
+  },
+  shanghai: {
+    tagline: "Explore Shanghai",
+    overview: "Shanghai is one of four cities in China that are administered as municipalities (市), meaning that it is not part of any province, and its government instead reports directly to the central government in Beijing. There are several ways to rate the size of cities; based on UN numbers, Shanghai is the fifth-largest city in the world after Jakarta, Dhaka, Tokyo and Delhi. By any measure, it is in the top ten for the world and either the largest in China or second to (Source: Wikivoyage, CC BY-SA.)",
+  },
+  dublin: {
+    tagline: "Explore Dublin",
+    overview: "thumb | 300px | Ha'Penny Bridge === History === Dublin is in a low-lying, fertile area, not boggy by Irish standards, and with good sea access. It became the core of the Gaelic kingdom of Leinster, and the Vikings established a large settlement by what is now Dublin castle, until ejected by Brian Boru at the Battle of Clontarf in 1014. This set a pattern that Dublin was fought for, not fought in. The Normans colonised the southwest and Leinster from the 12th century, and further out they battled with the Gaels,… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  berlin: {
+    tagline: "Explore Berlin",
+    overview: "The city of Berlin is co-extensive with the Land of Berlin, one of the 16 federal states that make up the Federal Republic of Germany. It has a population of 3.8 million (2019) (and a million more in suburbs like Potsdam across the state line in Brandenburg). Berlin is and has been far less dominant as the capital of Germany than London, Paris or Madrid are in their respective countries, because of the federal nature of Germany and because the havoc war and partition wreaked on the city. In many ways, West Berlin… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  toronto: {
+    tagline: "Explore Toronto",
+    overview: "Toronto has an estimated population of over 3.2 million people as of 2024, and is the heart of the Greater Toronto Area (GTA) which has 7.1 million people. It also anchors the Golden Horseshoe region, which wraps around Lake Ontario from Toronto to Niagara Falls, home to over 11.1 million residents, approximately a quarter of Canada's entire population. Toronto is the fourth largest city and fifth largest urban agglomeration in North America. Distances between cities in the area can be great as it sprawls along,… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  lisbon: {
+    tagline: "Explore Lisbon",
+    overview: "thumb|right|Central Lisbon seen from a plane landing at Portela, looking south; the green strip is Parque Eduardo VII terminating at Praça Marquês de Pombal. Lisbon is built on seven hills, so getting around Lisbon can be a workout. Many slopes and few really flat areas is one of Lisbon's trademarks. This is also a city of enchanting contrasts: The elegant squares, broad avenues, monumental buildings and rectangular layout of the lower areas quickly gives way to the hilly, narrow, winding, unpredictable and… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  venice: {
+    tagline: "Explore Venice",
+    overview: "The comune (municipality) of Venice lies at the coast of northern Italy. It is made up of many islands in the Venetian Lagoon and a stretch of terraferma (mainland). The comune is divided into six boroughs, the most famous of which (known as Venezia Insulare) comprises the historic city of Venice as well as the islands of Giudecca, Murano, Burano, Torcello, Mazzorbo and Sant'Erasmo. Lido and Mestre are other popular areas of the comune. The historic city is divided into six sestieri (districts): Cannaregio,… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  delhi: {
+    tagline: "Explore Delhi",
+    overview: "Travellers with little experience of visiting developing megacities may find Delhi to be chaotic at its worst, crowded and for much of the year, polluted. Air pollution has been a major problem in Delhi since the 1980s, with much of the day dominated with a very unhealthy amount of particles. During the late spring and early summer months, the city is scorchingly hot. Dig a little deeper, however, and you will get a glimpse of order beneath the chaos, as well as India's traditional and modern cultural richness… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  mumbai: {
+    tagline: "Explore Mumbai",
+    overview: "thumb|Carvings at the Elephanta Island|Elephanta Caves right Mumbai (MOOM-bigh) is a bustling, diverse metropolis with a flair of its own. The entrepreneurial spirit and pulsing pace of life provide a sharp contrast to much of the rest of India. The name was officially changed from Bombay to Mumbai in 1995. Although both names are common, people who explicitly use \"Bombay\" are generally non-Marathi speakers, whereas \"Mumbai\" proponents primarily speak Marathi. In the West, \"Mumbai\" has become more commonly… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  budapest: {
+    tagline: "Explore Budapest",
+    overview: "In the following centuries, Buda emerged as the most important royal seat. In 1241/42 the Mongol Empire conquered the territory along with large parts of Europe - this short but devastating conquest of the country is still remembered as Tatárjárás - the name reflecting the erroneous confusion of Mongols and Tatars at the time. Medieval Hungary reached its zenith under King Matthias (Matthias Corvinus), the vividly remembered Renaissance ruler whose patronage of arts and sciences made Hungary, a notable power at… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  warsaw: {
+    tagline: "Explore Warsaw",
+    overview: "250px|thumb|Present-day Warsaw is a mixture of the new and old A city of 1.8 million inhabitants (2021), it sits on the Vistula River (Polish: Wisła) in the middle of the (Source: Wikivoyage, CC BY-SA.)",
+  },
+  porto: {
+    tagline: "Explore Porto",
+    overview: "thumb|right|View of Porto from south side. thumb|right|View of Porto houses The city is quite varied architecturally, with medieval and modern buildings side by side. Porto's geography is hard on the feet, but pleasant to the eye. The city's grounds are extremely uneven; the Romans strategically built their fortified settlement into a cliff face that overlooks the river, where the present cathedral stands today. Stairs cut into the stone run up and down the cliff face and offer a laborious but rewarding walking… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  valencia: {
+    tagline: "Explore Valencia",
+    overview: "thumbnail|Saló Columnari (Hall of Columns) in the Llotja de la Seda thumbnail|Jardí del Túria, the old Túria riverbed, with the Museum of Fine Arts in the background thumb|Museu de les Ciències Príncipe Felipe, in the City of Arts and Sciences, designed by Santiago Calatrava Valentia Edetanorum was established as a Roman colony in the second century BCE. In the early 8th century CE the Moors invaded, and Balansiyya became the capital of the Muslim Taifa of Valencia, thriving as a trading centre for paper, silk,… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  nice: {
+    tagline: "Explore Nice",
+    overview: "thumb|Nice Nice's origins can be found among the Gallo-Roman ruins of Cimiez, in the hills up the boulevard de Cimiez from downtown. Cimiez also contains a monastery and some museums, but nowadays, most of the city's inhabitants live closer to sea level. Nice was part of the Italian Duchy of Savoia and then the Kingdom of Sardinia until it was ceded to France in 1860. The ancient local language is Nissart, and some of the street signs are bilingual. However very few people speak Nissart, and even the elderly know… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  lyon: {
+    tagline: "Explore Lyon",
+    overview: "thumb|right|Fourvière basilica from the river Saône, illuminated at night Founded by the Romans, with many preserved historical areas, Lyon is the archetype of the heritage city, as recognised by UNESCO. Lyon is a vibrant metropolis which starts to make the most out of its unique architectural, cultural and gastronomic heritage, its dynamic demographics and economy and its strategic location between Northern and Southern Europe. It is more and more open to the world, with an increasing number of students and… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  "cape-town": {
+    tagline: "Explore Cape Town",
+    overview: "Cape Town is nicknamed the Mother City within South Africa. Compared to the more business oriented Johannesburg it is known for its relaxed and leisurely atmosphere. Compared to other parts of South Africa, Cape Town is also distinctly more \"western\". The metropolis of Cape Town is spread over a wide area, from Somerset West and Durbanville in the east to Atlantis in the north and Cape Point in the south. The city centre is situated in a fairly small area between Table Bay and Table (Source: Wikivoyage, CC BY-SA.)",
+  },
+  "rio-de-janeiro": {
+    tagline: "Explore Rio de Janeiro",
+    overview: "It is a common mistake to think of Rio as Brazil's capital, a distinction it lost on April 21, 1960 when the national government officially moved to Brasilia. Beaches such as Copacabana and Ipanema, the Christ The Redeemer (Cristo Redentor) statue, the stadium of Maracanã and Sugarloaf Mountain (Pão de Açúcar) are all well-known sights of what the inhabitants call the \"marvelous city\" (cidade maravilhosa), and are also among the first images to pop up in travelers´ minds, along with the Carnaval celebration. The… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  "buenos-aires": {
+    tagline: "Explore Buenos Aires",
+    overview: "thumb|300px|Aerial view of Buenos Aires Buenos Aires means fair winds, or literally good airs, in Spanish. The official name is Ciudad Autónoma de Buenos Aires (CABA; \"Autonomous City of Buenos Aires\"), and it's also called the Capital Federal (\"Federal Capital\"), to distinguish it from the neighboring Buenos Aires Province. It is one of the largest cities in Latin America, with many cultural offerings, and is the point of departure for traveling to the rest of the country. People from Buenos Aires are called… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  chicago: {
+    tagline: "Explore Chicago",
+    overview: "thumb|300px|Chicago's skyline viewed from Millennium Park Chicago tourist information. Chicago became a waypoint between the Great Lakes and the Wild West, where boats came to drop off settlers, and load crops and other goods from the Great Plains and the Rocky (Source: Wikivoyage, CC BY-SA.)",
+  },
+  montreal: {
+    tagline: "Explore Montréal",
+    overview: "Prohibition on sales of alcohol in the United States during the 1920s and 1930s made Montreal a destination for cross-border fun seekers from nearby New England and New York. The city built up a seedy, yet playful, industry in alcohol, burlesque, and other vices. In the 1960s, an urban renewal drive centred on Expo 67. The World's Fair in Montreal brought the Metro system and attractive urban parks and is considered to be one of the most successful World Fairs. Over 50 million visitors gathered in Montreal during… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  melbourne: {
+    tagline: "Explore Melbourne",
+    overview: "thumb|300px|Flinders Street Station, the Yarra River and central Melbourne skyline ===History=== thumb|St Michael's Uniting Church built in 1866 The British settlement of Melbourne commenced in 1835 when settlers from Tasmania led by John Batman \"purchased\" land on Port Phillip Bay and the Yarra River from the local Aboriginal people. The streets of central Melbourne were carefully laid out in 1837, with some streets 30 metres wide. Initially dubbed Batmania after its founder, the settlement was soon renamed… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  auckland: {
+    tagline: "Explore Auckland",
+    overview: "thumb|Auckland – City of Sails Auckland is New Zealand's largest city, home to 1.5 million people, nearly one-third of the country's population and more than that of the entire South Island. It is the main economic and travel hub and home to an international airport. It's lucky enough to have its own beautiful landscapes, waterways, and other attractions to draw tourists in. It is not New Zealand's political capital though – that honour goes to Wellington. Auckland is by some measures the most isolated city of… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  bali: {
+    tagline: "Explore Bali",
+    overview: "thumb|280px|Preparing for a colourful odalan temple anniversary procession Bali is one of more than 18,000 islands (based on a satellite view) in the Indonesian archipelago, and is just over 2 km (almost 1.5&nbsp;miles) from the eastern tip of the island of Java and west of the island of Lombok. The island, home to a little over 4 million people, is about long from east to west and north to south. The word \"paradise\" is used a lot when describing Bali. Friendly, hospitable people; a magnificently visual and… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  jakarta: {
+    tagline: "Explore Jakarta",
+    overview: "Jakarta's nickname among expats is the Big Durian, and like the fruit itself, it's a shock at first sight (and smell): a sweltering, steaming, heaving mass of some 30 million people packed into a vast urban sprawl. The metropolitan area is a magnet for Indonesians, both as a business and a government centre, and the most developed city in the country. But all of this comes at a cost: the city has been struggling very hard to keep up with the urban growth. Major roads are packed up during rush hours and weekends,… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  "ho-chi-minh-city": {
+    tagline: "Explore Ho Chi Minh City",
+    overview: "Following the fall of Saigon in 1975, Saigon was renamed Ho Chi Minh City. However the old name Saigon is still widely used by both Vietnamese and foreigners, especially when referring to the most central part of the city to which most tourists flock. Although the capital of a united Vietnam is Hanoi in the north, Ho Chi Minh City remains Vietnam's main economic and financial centre. While it does not have the long history that cities like Hanoi and Hue have, it is Vietnam's most modern and cosmopolitan city, with… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  hanoi: {
+    tagline: "Explore Hanoi",
+    overview: "thumb|300px|Hanoi Opera Housethumb|300px|Hanoi's Temple of Literature Invading forces from every direction agree: Hanoi makes a fine capital. It has held that title for more than a thousand years, through several invasions, occupations, restorations, and name changes. The Chinese conquered the imperial city of Đại La in 1408 and renamed it Tống Bình. Le Loi repelled the invaders in 1428 and applied the name of Lê Thái Tổ (黎太祖). For his efforts, he received the crown and a slew of legends about his heroic exploits,… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  "siem-reap": {
+    tagline: "Explore Siem Reap",
+    overview: "thumb|350px|French colonial architecture still dominates the streetscape. The name \"Siem Reap\" literally means \"Siam Defeated\", commemorating a (possibly apocryphal) victory over invading Thais in 1549. These days, however, the only rampaging hordes are the tourists heading to the Angkor Archaeological Park. This once quaint village has become a major tourist town, full of things to do, places to eat and drink. New high quality tarmac roads and beautiful wide paved sidewalks have replaced the red dirt pot holed… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  "phnom-penh": {
+    tagline: "Explore Phnom Penh",
+    overview: "Phnom Penh was largely depopulated during the Khmer Rouge regime, with most of its population deported to camps in the countryside. It was liberated from the Khmer Rouge by the Vietnamese in 1979, and has long remained a bit rough. Things have improved; however, some roads remain shabby, traffic is persistently chaotic, and electricity is occasionally strained (never mind your precious internet). But on the whole, the city is reasonably modern. thumb|The Silver Pagoda, in the grounds of the Royal Palace. The city… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  "abu-dhabi": {
+    tagline: "Explore Abu Dhabi",
+    overview: "The city was not intended to be the capital of the UAE. The capital of the UAE was supposed to be a planned city between Abu Dhabi and Dubai and was to be called 'Al Karama' (which means dignity in Arabic) as stated in the first version of the constitution. However, considering the earlier stage of the union was a volatile time, with multiple issues and various ordeals occurring, Abu Dhabi was made the temporary capital as it was the home of the UAE founding father Sheikh Zayed. Later, Abu Dhabi was declared to be… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  "tel-aviv": {
+    tagline: "Explore Tel Aviv",
+    overview: "thumb|300px|Tel Aviv Port in the Yarkon River Peninsula thumb|300px|Yarkon Park The smallish Gulf of Jaffa was the site of a fortified port town for at least 4,000 years. During the 19th century the town’s population grew from about 2,500 (1806) to 17,000 (1886). The old city walls could no longer contain the population, and they were destroyed in the 1870s. New, more spacious neighborhoods started to (Source: Wikivoyage, CC BY-SA.)",
+  },
+  kyoto: {
+    tagline: "Explore Kyoto",
+    overview: "Nestled among the mountains of the Kansai region of Western Honshu, Kyoto was the capital of Japan and the residence of the Emperor from 794 until the Meiji Restoration of 1868, when the capital was moved to Tokyo. During its millennium at the center of Japanese power, culture, tradition, and religion, it accumulated an unparalleled collection of palaces, temples and shrines, built for emperors, shoguns, and monks. Kyoto was among the few Japanese cities that escaped the allied bombings of World War II and so… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  santorini: {
+    tagline: "Explore Santorini",
+    overview: "thumb|View of Fira Santorini is between Ios and Anafi islands in the southern Cyclades. On a clear day, you may be able to see Crete, about 100 km to the south. The name is a contraction of Saint Irene, after an old church in Perissa. The Santorini archipelago used to be a single island, until a volcanic eruption around 1600 BCE tore it apart. The eruption was among the most massive in human history. There is a local legend that Santorini was once home to the Lost City of Atlantis, destroyed by the eruption. Most… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  reykjavik: {
+    tagline: "Explore Reykjavík",
+    overview: "Although the story of Ingólfur Arnarson is not widely believed to be true by modern historians, it's clear that Reykjavík was one of the first settlements in Iceland. Archaeological remains confirm that people were living there around the year 871, and for the first few centuries of Icelandic settlement, Reykjavík was a large manor farm. Its fortunes steadily waned as other centres of power increased in importance. By the 18th century, the farm of Reykjavík was owned by the king of Denmark (under whose domain… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  helsinki: {
+    tagline: "Explore Helsinki",
+    overview: "thumb|300px|Helsinki's symbol, the Lutheran Cathedral (Tuomiokirkko) Helsinki was established as a trading town by the Swedish Empire in 1550, but it wasn't until 1812, when the Russian Empire made it the capital of Finland, that it started growing. Today, this hustling and bustling city has 690,000 inhabitants and the capital area 1.36 million (2025). It is the northernmost capital of an EU member state. Helsinki metro is the northernmost subway in the (Source: Wikivoyage, CC BY-SA.)",
+  },
+  oslo: {
+    tagline: "Explore Oslo",
+    overview: "thumbnail|Stortinget, the Norwegian parliament is a monumental building on the main street of Oslo. Oslo is the demographic, economic and political centre of Norway. As the capital of Norway, Oslo hosts several national institutions within government, education, culture, sports and transport. The city has a good selection of cultural institutions and a good selection of restaurants, some world class but most ordinary, as well as night life in general. While it is an expensive city for some overseas visitors, many… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  krakow: {
+    tagline: "Explore Kraków",
+    overview: "thumb|Statue of Adam Mickiewicz and Sukiennice in the Main Market Square thumb|upright|Church of St. Mary seen from the Main Market In English the city's name used to be spelled \"Cracow\". But 21st-century visitors have discovered it via budget airlines and travel booking sites that always call it \"Krakow\" so the older spelling isn't used here. The diacritical mark over the \"o\" changes the pronunciation from \"o\" (IPA: [ɔ]), to \"u\" (IPA: [u]). Through trade with the various rulers of Europe, it grew from a small… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  split: {
+    tagline: "Explore Split",
+    overview: "Because of its ideal climate, with 2,800 hours of sunlight each year, local people have a few nicknames for Split: \"The most beautiful city in the world\" and \"Mediterranean flower\". Many famous Croatian sports people were born in Split, so locals often nicknamed their city \"The sportiest city in the world\". The most popular sport institution is the football club Hajduk. Large portions of the city are painted with the club's colors and logo. This is done by Torcida, the oldest supporters group in Europe,… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  havana: {
+    tagline: "Explore Havana",
+    overview: "thumb|400px|The Catedral de San Cristobal, La Habana Vieja (Old Havana). Before the Communist revolution, Havana was one of the vacation hot-spots of the Caribbean, and since Cuba reopened to tourism in the 1990s, it has become a popular destination once again, albeit with many fewer U.S. citizens, due to an almost total ban on travel maintained by the U.S. federal government. However, there will be lots of tourists at any time of year, so expect huge crowds and long lines in (Source: Wikivoyage, CC BY-SA.)",
+  },
+  santiago: {
+    tagline: "Explore Santiago",
+    overview: "thumb|350px|Santiago/Providencia#Q1542408|Gran Torre Santiago, the tallest building in Latin America Santiago is a fast-growing city in the Santiago Región Metropolitana, in the central valley of Chile between the Andes mountain range to the east and the Coastal Range to the west. The metropolitan area has about 7 million inhabitants. Founded in 1541 as Santiago de Nueva Extremadura by the Spaniard Pedro de Valdivia, it has been the heart of the country since colonial times and has evolved to the cosmopolitan city… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  johannesburg: {
+    tagline: "Explore Johannesburg",
+    overview: "Johannesburg has a population of about 5.6 million people in the urban area (2023), half of whom live in Soweto and adjacent suburbs. Three quarters of the population is formed by South Africa's black residents who mostly live in Soweto, while white residents amount to about 12% (2019). The remaining 11% are of other descent, including Africa's largest ethnic Chinese community. The city is home to two Chinatowns; the original one on Commissioner Street has shrunk dramatically since its heyday, but still has a few… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  nairobi: {
+    tagline: "Explore Nairobi",
+    overview: "The British presence led to the creation of big hotels primarily for the British hunters. After independence, some descendants of the British settlers remained in Nairobi and obtained Kenyan citizenship, and today form Kenya's white community. Nairobi also has an East Indian community, who are the descendants of the labourers who built the railway and the merchants who set up shop during colonial times. After independence, Nairobi airport became the principal entrance point to Kenya and it still is today, although… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  zanzibar: {
+    tagline: "Explore Zanzibar",
+    overview: "The island and the surrounding islets are divided into three regions. They are Zanzibar Central/South, Zanzibar North and Zanzibar Urban/West. Zanzibar City, on the central west coast, is the capital and largest city of Zanzibar and the region of Zanzibar Urban/West. The population of Zanzibar Island was about 900,000 in 2016, with the most concentrated populations in the Zanzibar Urban Region. The larger and more populated of the province's two larger islands, Zanzibar is separated from its northern neighbor… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  kathmandu: {
+    tagline: "Explore Kathmandu",
+    overview: "According to a census conducted in 2011, Kathmandu metropolis has 2.5 million inhabitants, and the agglomeration has a population of more than 3 million inhabitants. The metropolitan city area is 50.67 km² (19.56 sq mi) and has a population density of 3000 per km² and 17,000 per km square in the city proper. The city stands at an elevation of approximately 1,400 metres (4,600 ft) in the bowl-shaped Kathmandu Valley of central Nepal. It is surrounded by four major mountains: Shivapuri, Phulchoki, Nagarjun, and… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  colombo: {
+    tagline: "Explore Colombo",
+    overview: "Colombo is the commercial and financial capital of Sri Lanka after the administrative capital was moved to Sri Jayawardenapura Kotte, a suburb east of the city. \"Colombo\" could refer to either the city proper, or to Greater Colombo that includes the areas of Sri Jayawardenapura Kotte and Dehiwala-Mount Lavinia. Due to it being on a strategic route in the Indian Ocean, Colombo hosts one of the busiest ports in South Asia, and was known to traders 2,000 years ago. It was an important port on the Maritime Silk Road.… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  male: {
+    tagline: "Explore Male",
+    overview: "thumb|Malé refers to both the city and the island Malé is home to over 250,000 people, on island only long and wide. By some measures, it is the world's densest city. The new island of Hulhumalé, built (as the name says) between Malé and Hulhulé (the airport island), has been reclaimed from the sea to provide some much-needed extra space. The neighbouring islands Hulhumalé (artificial) and Villimalé are served by frequent and very cheap public ferries and provide much quieter get-aways from the capital city. To… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  houston: {
+    tagline: "Explore Houston",
+    overview: "300px|thumb|right|Main Street Houston Houston has a character that, while very \"Texan,\" is also a great melting pot of many cultures and socio-economic groups. You'll find well-to-do suburban mansions, LA-style shopping strips, Latin-American neighborhoods, towering skyscrapers, historic African-American neighborhoods fighting off gentrification, massive refinery complexes, large Asian communities, and pockets of artist communities. From October to May, the weather is relatively pleasant, and many restaurants and… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  "da-nang": {
+    tagline: "Explore Da Nang",
+    overview: "The regions surrounding Da Nang (My Son, Quang Nam) were founded by the Cham Hindus perhaps 3,000 years ago, serving as the capital city and centre of the Hindu Champa Dynasty. Vietnamese invasions into the region in the 17th century significantly halted Cham development. Given that Da Nang was the first point of colonial invasion, many vestiges of French architecture are present in the historic buildings. Da Nang was also where American combat troops first landed during the Vietnam War, and there are also many… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  vientiane: {
+    tagline: "Explore Vientiane",
+    overview: "Not too long ago, Vientiane was often described as sleepy and charming. However, the combination of exploding population &mdash; Vientiane has over doubled in size since 2000, reaching some 750,000 people in the 2020 census &mdash; and the frenetic Chinese-led investment boom and bust has led to considerable growing pains, with strip malls, traffic jams and abandoned construction sites throughout the city, and the French colonial villas of the old town now stand cheek to jowl with various concrete monstrosities,… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  busan: {
+    tagline: "Explore Busan",
+    overview: "Located at the southern tip of the Korean peninsula and with over 3.6 million people, Busan is South Korea's second largest city. It is known for its beaches, seafood, and events such as the city's international film festival and the yearly polar bear festival. It appeals to those seeking a more laid-back atmosphere than Seoul. It has an international flair, with sailors from around the world trooping through, and a growing number of tourists. The Haeundae area of Busan that contains a large amount of the city's… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  sapporo: {
+    tagline: "Explore Sapporo",
+    overview: "thumb|350px|right|Sapporo Skyline Sapporo's population has grown from seven in 1857 to nearly 2 million in 2021. Welcome to Sapporo is the city's official multilingual guide (Source: Wikivoyage, CC BY-SA.)",
+  },
+  nagoya: {
+    tagline: "Explore Nagoya",
+    overview: "The hub of Aichi prefecture, Nagoya is Japan's fourth-largest city after Tokyo, Yokohama, and Osaka and one of the nation's major economic centers. In terms of manufacturing, as home to auto-making giants Toyota, Honda, and Mitsubishi Motors, Nagoya is to Japan what Detroit is to the United States &mdash; and it was completely flattened during World War II. Three famous local figures later helped to put Nagoya firmly on the map of Japan. Oda Nobunaga, Toyotomi Hideyoshi and Tokugawa Ieyasu all hailed from around… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  guangzhou: {
+    tagline: "Explore Guangzhou",
+    overview: "thumb|right|230px|Zhujiang New Town (with 103-story West Tower) in the Tianhe district As a historic gateway for overseas culture, Guangzhou has long been accustomed to the presence of foreigners — unlike many other Chinese cities where visitors may still stand out. As a result, travelers often find greater personal freedom and space here. Beyond the central districts and their towering skyscrapers, traditional neighborhoods continue to thrive at a slower, more familiar pace, where locals gather outdoors to share… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  shenzhen: {
+    tagline: "Explore Shenzhen",
+    overview: "thumb|Deng Xiaoping, former leader of China and architect of Shenzhen's incredible growth, strides above the city in Lianhuashan Park In 1980, Shenzhen was a market town on the Hong Kong border with 30,000 people. (Contrary to the quite widespread myth, Shenzhen was not a fishing community.) Then Chinese leader Deng Xiaoping designated the city the first of China's Special Economic Zones (SEZs). This was part of the \"Reform and Opening Up\" policy to revitalize China's economy after its stagnation in the previous… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  pokhara: {
+    tagline: "Explore Pokhara",
+    overview: "Pokhara is the second largest city in Nepal with about 520,000 people in 2021. It is the starting point for most of the treks in the Annapurna area. It is a very popular location with most people staying around the beautiful Fewa Lake. Dozens of hotels and restaurants are sprouting like mushrooms everywhere, and today it is much easier to find modern amenities not common to other locations in Nepal, but Pokhara is losing its small town charm and the lakeside now feels more like Khao San Road (with all the usual:… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  tunis: {
+    tagline: "Explore Tunis",
+    overview: "350px|thumb|View along Avenue Habib Bourguiba Located on the Mediterranean coast but lacking much in the way of beaches, Tunis has been spared the onslaught of package tourism to the resorts to the north and south. The city center is located about 10 km from the sea, on the shores of Lake Tunis. Tunis started out as a modest village compared to cities like Carthage, Kairouan and Mahdia. It eventually became the capital of the Almohad Caliphate in 1159, and has been conquered by various Muslim and Christian empires… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  malaga: {
+    tagline: "Explore Málaga",
+    overview: "Málaga is capital of the Málaga Province. It has a typical Mediterranean climate, and was the birthplace of the artist Pablo (Source: Wikivoyage, CC BY-SA.)",
+  },
+  marseille: {
+    tagline: "Explore Marseille",
+    overview: "Marseille has a complex history. It was founded by the Phoceans (from the Greek city of Phocea) in 600 BC and is one of the oldest cities in Europe. The town is a far cry from the Cézanne paintings and Provençal clichés of sleepy villages, \"pétanque\" players and Marcel Pagnol novels. With around one million inhabitants, Marseille is the second largest city in France in terms of population and the largest in terms of area. Its population is a real melting pot of different cultures. It is also said that there are… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  bergen: {
+    tagline: "Explore Bergen",
+    overview: "thumb|350px|View from Mount Fløyen The character of Bergen is defined by its location, surrounded by steep mountains and sea (straits and fjords). The city has many lakes. It is a typical Norwegian wooden town, even downtown there are notable neighbourhoods of small wooden houses in various styles. Few towns if any have so many wooden houses in the centre. In some areas wooden houses have been replaced by taller masonry structures, giving the city a fascinating mix of old and new. Bergen is a sprawling city… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  tallinn: {
+    tagline: "Explore Tallinn",
+    overview: "On the shore of the Gulf of Finland, it is a city of over 450,000 inhabitants (2023). It is home to a third of the country's population, and is also the capital of Harju County in Northern Estonia. In a striking contrast to its Old Town, its immediate outskirts are filled with a cluster of modern office towers, with intermittent architectural monuments to the Soviet era. Further out, you will find a bewildering variety of historic and modern neighbourhoods, religious, civic, industrial and maritime heritage. This… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  vilnius: {
+    tagline: "Explore Vilnius",
+    overview: "thumb | Gediminas Tower Vilnius has been central to the country's life for as long as there has been Lithuania, but that has often been a tragic tale. Its Neolithic people traded in Baltic amber. In the early Middle Ages five petty kingdoms combined into two then one, when Mindaugas in 1253 became Lithuania's first king and noble Christian convert. The country splintered after his assassination but was re-united under Gediminas, who established Vilnius castle — in legend on the site where a wolf in a dream told… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  ljubljana: {
+    tagline: "Explore Ljubljana",
+    overview: "File:Sl-Ljubljana.ogg thumb | 300px | House on Stari Trg Ljubljana stands at the entrance to a plain in an otherwise mountainous region, the confluence of several river valleys, so it's been a focus for settlement, trade and transport since prehistory. The first known city was the Roman Colonia Iulia Aemona; in medieval times it became Laibach and this name is still used by some German-speakers (as well as modern Slovenia's most notable cultural export, the band of that name). It fell under the gravity of… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  belgrade: {
+    tagline: "Explore Belgrade",
+    overview: "thumb | 300px | National Assembly of Serbia The core of the city is on a bluff overlooking the confluence of the Sava and Danube. Both rivers are navigable by large vessels: the Sava up to Sisak in Croatia, and the Danube from the Black Sea all the way up to Kelheim in Bavaria. It's been inhabited at least since 6000 BC and the earliest recognisable town was the Celtic settlement of Singidūn. The bluff now called Kalmegdan was fortified and its environs grew into the White City, beo grad. Belgrade has, however,… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  bucharest: {
+    tagline: "Explore Bucharest",
+    overview: "thumb|right|Calea Victoriei thumb|right|Lipscani Street, the heart of historic Bucharest Bucharest is the primary entry point into Romania, and the most important industrial and commercial centre of the country. With more than 2.1 million inhabitants in its urban area, Bucharest is one of the largest cities in Southeastern (Source: Wikivoyage, CC BY-SA.)",
+  },
+  izmir: {
+    tagline: "Explore İzmir",
+    overview: "This Smyrna was 5 km north of the present centre, in what is now the suburb of Bayraklı, and founded about 3000 BC by the Trojans. In folklore it was the birthplace of Homer, the 8th century BC author of the Odyssey, which describes a war between Greeks and Trojans 500 years earlier. No-one really knows where Homer lived, but a major harbour city is as good a guess as any. By his day Smyrna was settled by the Aeolians from mainland Greece, who were superseded by another Greek tribe the Ionians. The Lydians… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  tbilisi: {
+    tagline: "Explore Tbilisi",
+    overview: "300px|right|Location of Tbilisi within Georgia Tbilisi (formerly called 'Tiflis' after its Russian name) lies in the centre of eastern Georgia, in the foothills of the Trialeti mountain range. According to Georgian legends, it was founded in the 5th century by King Vakhtang Gorgasali who, while hunting, shot a pheasant which fell into a warm spring and was either boiled or healed. Either way, the king was inspired to found a city on the site, and the name of the city derives from the Georgian word tbili meaning… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  yerevan: {
+    tagline: "Explore Yerevan",
+    overview: "thumb|350px|Yerevan's iconic Cascades complex Even though the history of Yerevan dates back to the Erebuni fortress, making it at least 2,800 years old, little remains of what was small settlement saving the excavations at Hrazdan river gorge, Erebuni, Karmir Berd and Avan. These sites have been excavated, and the artifacts found are in museums today. Being on a strategically important place Yerevan was a constant war stage for rival Ottoman, Persian and Russian Empires. It has been repeatedly ruined by those wars… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  baku: {
+    tagline: "Explore Baku",
+    overview: "Baku is on the coast of the Caspian Sea on the southern coast of the Absheron Peninsula. There are three major divisions in Baku: İçəri Şəhər (the Old Town), the Soviet-built city, and the newest part of the city. The population in 2020 was 2.3 million. The city of Baku is on the semi-arid and dusty Absheron peninsula. The center of Baku is a patch of green in a largely brown area because of the many liters of water that is piped daily to the city. The city has a metro, a well-developed bus and minibus network,… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  manama: {
+    tagline: "Explore Manama",
+    overview: "Manama emerged as the capital of independent Bahrain after periods of domination by Portugal and Persians. Today, it is a modern capital with an economy based on the sales promotion industry as crude oil takes a less pronounced role in the economy. (Source: Wikivoyage, CC BY-SA.)",
+  },
+  riyadh: {
+    tagline: "Explore Riyadh",
+    overview: "Known by local wags as the Dead Center of the Kingdom, Riyadh is considered the most straight-laced of the Kingdom's big three cities. With many forms of entertainment banned, few sights of interest and a brutal climate, Riyadh is a business-only destination if there ever was one, but it's also the best place in the kingdom to watch the continuing collision of tribal Wahhabi conservatism grappling with modern technology and Western influences, and things have loosened up slightly under Crown Prince MBS's watch.… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  jeddah: {
+    tagline: "Explore Jeddah",
+    overview: "thumb|300px|Traditional coral houses off Souq al-Alawi in al-Balad Jeddah has been a port and trading city for centuries, which is reflected in its cosmopolitan mix of inhabitants. Today, it is a major commercial center in Saudi Arabia. It also has many government offices. Jeddah is known in the kingdom for its shopping districts, restaurants and cafes. It also hosts the Jeddah Corniche (waterfront area), which is the largest in the Kingdom with a great bunch of hotels, beaches and resorts clustered around it. To… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  "sao-paulo": {
+    tagline: "Explore São Paulo",
+    overview: "São Paulo is the most visited city of Brazil, but mostly because of business and event tourism, with many of the visitors not taking much effort to explore the city. Those who do so may, however, discover one of the most complex and fascinating cities in the world, where even nearby areas may look and feel like a different city, due to São Paulo's staggering social inequality and variety of cultural influences, and its hard to understand urban planning. For instance, if you walk from one end to another of Rua… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  quito: {
+    tagline: "Explore Quito",
+    overview: "thumb|upright=1.5|Quito's Plaza Grande Quito stretches across valleys between two mountain ranges which are part of the Andes. At an altitude of 2,850 m (9,350 feet), it is one of the world's highest capital cities. The altitude is high enough that most individuals will experience some degree of altitude sickness for the first few days, so plan accordingly. Quito is roughly divided into three parts: the Old City at the center, with southern and northern districts to either side. It was the first city to be named a… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  montevideo: {
+    tagline: "Explore Montevideo",
+    overview: "Construction of the Cerro fort, at the time called Montevieu fort, was started by the Portuguese in 1723. The following year the Spanish started building the city of Montevideo on the opposite side of the bay where Ciudad Vieja is now, and occupied and colonized the rest of the region. During its almost 300 years of existence, Montevideo has been part of the Spanish and Portuguese empires, occupied by the British for a few months in 1807 and afterwards a part of Brazil and today's Argentina before finally becoming… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  nassau: {
+    tagline: "Explore Nassau",
+    overview: "thumb|300px|Welcome to Nassau. Founded around 1650 by the British as Charles Town, the town was renamed in 1695 to honor the ruling house in the Netherlands (and later England), which ultimately derives from Nassau Castle, Rhineland Palatinate. Due to the Bahamas' strategic location near trade routes and its multitude of islands, Nassau soon became a popular pirates' den, and British rule was soon challenged by the self-proclaimed \"Privateers Republic\" under the leadership of the infamous Edward Teach, better… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  bridgetown: {
+    tagline: "Explore Bridgetown",
+    overview: "thumb | 300px | The river bridge at Bridgetown The first English colony on the island was established in 1625 at St James Town seven miles north. The settlement here, from 1628, was initially called Indian Bridge for the structure found crossing the swamp at the river estuary. The colonists set about draining the swamp and found themselves with a better harbour, cultivation land and inland routes than St James Town, so the centre of island affairs shifted here. In 1667 Sir Tobias Bridge arrived as military… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  calgary: {
+    tagline: "Explore Calgary",
+    overview: "In 1883, the railway reached Calgary. It started to grow in every direction and became an agricultural and business hub. In 1884, Calgary was incorporated as a town in what was then the North West Territories. By 1894, Calgary's population had grown to 3900 people and it was incorporated as a city. Alberta's first major oil and natural gas field was discovered in 1914 at Turner Valley, 60&nbsp;km south of Calgary. Subsequent discoveries kept the oil and gas scene active in the Turner Valley area for the next 30… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  "gold-coast": {
+    tagline: "Explore Gold Coast",
+    overview: "The Gold Coast is a large urban area with a population of 720,000, the largest non-state capital in Australia. Most visitors perceive the Gold Coast as a long thin strip of modern high-rise buildings next to seemingly endless beaches, although the city itself extends far inland to the hills of the Scenic Rim. Surfers Paradise, towards the northern end, is the main hub of the leisure activity. There is a huge choice of hotels, restaurants, tourist shops and tourist experiences to be found. The city is developing… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  brisbane: {
+    tagline: "Explore Brisbane",
+    overview: "The Greater Brisbane region has a population of about 2.2 million people and is Australia's third-largest city. Brisbane, colloquially known as Brissie (pronounced Briz-ee), gained international exposure through multiple international sporting events and political summits, including the upcoming 2032 Summer Olympics. It is also known as the main setting of the animated kids TV series (Source: Wikivoyage, CC BY-SA.)",
+  },
+  perth: {
+    tagline: "Explore Perth",
+    overview: "British settlers established a free settler colony in 1829 as part of the Swan River Colony. The settlement was given the name \"Perth\" after the city of Perth, Scotland, the hometown of Sir George Murray, the British Colonial Secretary at that time. Lack of labour hampered its development until 1850, when convicts were brought in, at a time when transportation to other parts of Australia had ceased. This boosted the size of the colony and their labour helped shape the early architecture of the city, as well as… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  wellington: {
+    tagline: "Explore Wellington",
+    overview: "Wellington is home to 433,900 people, making it New Zealand's second-largest urban area, well behind Auckland and just ahead of Christchurch. Wellington became New Zealand's capital city in 1865, replacing Auckland; the government wanted a more centrally-located city as capital to quell the South Island nationalist movement. Wellington offers a blend of culture, heritage, fine food and coffee, together with lively arts and (Source: Wikivoyage, CC BY-SA.)",
+  },
+  medellin: {
+    tagline: "Explore Medellín",
+    overview: "Let's just get it out of the way up front: throughout the 1980s and 1990s, Medellín was considered one of the most dangerous cities in the world for its size, and had a highly disproportional homicide and kidnapping rate. It was the home of the drug lord Pablo Escobar and the so-called Medellín Cartel, who virtually took over the city during that time. Since his demise in the mid-1990s, the cartel was disbanded and the city rebounded tremendously. In 1991 there were 6,500 murders in the city, by 2009 the murder… (Source: Wikivoyage, CC BY-SA.)",
+  },
+  salvador: {
+    tagline: "Explore Salvador",
+    overview: "thumb|300px|Pelourinho, Salvador's historical city center It is the biggest city in the Northeast region, and was the first capital of Brazil. A 100-m cliff runs along the entire bayshore, dividing the city into Cidade Alta, up on the cliff, and the Cidade Baixa down by the bay. The former features Pelourinho, the old city center that packs historical sites, colonial architecture, museums, restaurants, bars, hostels, artisanal shops, and music/dance/capoeira academies into a convenient, albeit tourist-swarmed, set… (Source: Wikivoyage, CC BY-SA.)",
+  }
 };

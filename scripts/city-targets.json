@@ -3055,19 +3055,6 @@
     "isCapital": false
   },
   {
-    "slug": "brasov-center",
-    "name": "Brașov",
-    "wikiTitle": "Brașov",
-    "countrySlug": "romania",
-    "countryName": "Romania",
-    "countryCode": "RO",
-    "population": 250000,
-    "lat": 45.643,
-    "lng": 25.589,
-    "timezone": "Europe/Bucharest",
-    "isCapital": false
-  },
-  {
     "slug": "bratislava",
     "name": "Bratislava",
     "wikiTitle": "Bratislava",
@@ -4169,19 +4156,6 @@
     "population": 13000,
     "lat": 48.8127,
     "lng": 14.3175,
-    "timezone": "Europe/Prague",
-    "isCapital": false
-  },
-  {
-    "slug": "cesky-krumlov-old",
-    "name": "Český Krumlov",
-    "wikiTitle": "Český Krumlov",
-    "countrySlug": "czechia",
-    "countryName": "Czechia",
-    "countryCode": "CZ",
-    "population": 13000,
-    "lat": 48.811,
-    "lng": 14.315,
     "timezone": "Europe/Prague",
     "isCapital": false
   },
@@ -5811,19 +5785,6 @@
     "isCapital": false
   },
   {
-    "slug": "edinburgh-old",
-    "name": "Edinburgh Old Town",
-    "wikiTitle": "Edinburgh",
-    "countrySlug": "united-kingdom",
-    "countryName": "United Kingdom",
-    "countryCode": "GB",
-    "population": 20000,
-    "lat": 55.949,
-    "lng": -3.19,
-    "timezone": "Europe/London",
-    "isCapital": false
-  },
-  {
     "slug": "edmonton",
     "name": "Edmonton",
     "wikiTitle": "Edmonton",
@@ -5886,19 +5847,6 @@
     "lat": 11.1784,
     "lng": 119.3956,
     "timezone": "Asia/Manila",
-    "isCapital": false
-  },
-  {
-    "slug": "valencia-albufera",
-    "name": "El Palmar",
-    "wikiTitle": "El Palmar (Valencia)",
-    "countrySlug": "spain",
-    "countryName": "Spain",
-    "countryCode": "ES",
-    "population": 1000,
-    "lat": 39.317,
-    "lng": -0.318,
-    "timezone": "Europe/Madrid",
     "isCapital": false
   },
   {
@@ -10787,19 +10735,6 @@
     "lat": 31.558,
     "lng": 74.35071,
     "timezone": "Asia/Karachi",
-    "isCapital": false
-  },
-  {
-    "slug": "bled-lake",
-    "name": "Lake Bled",
-    "wikiTitle": "Bled",
-    "countrySlug": "slovenia",
-    "countryName": "Slovenia",
-    "countryCode": "SI",
-    "population": 5000,
-    "lat": 46.369,
-    "lng": 14.11,
-    "timezone": "Europe/Ljubljana",
     "isCapital": false
   },
   {
@@ -15834,19 +15769,6 @@
     "isCapital": false
   },
   {
-    "slug": "parikia",
-    "name": "Parikia",
-    "wikiTitle": "Parikia",
-    "countrySlug": "greece",
-    "countryName": "Greece",
-    "countryCode": "GR",
-    "population": 5000,
-    "lat": 37.085,
-    "lng": 25.148,
-    "timezone": "Europe/Athens",
-    "isCapital": false
-  },
-  {
     "slug": "paris",
     "name": "Paris",
     "wikiTitle": "Paris",
@@ -17077,19 +16999,6 @@
     "countryCode": "MX",
     "population": 45000,
     "lat": 15.87,
-    "lng": -97.07,
-    "timezone": "America/Mexico_City",
-    "isCapital": false
-  },
-  {
-    "slug": "zicatela",
-    "name": "Puerto Escondido",
-    "wikiTitle": "Puerto Escondido",
-    "countrySlug": "mexico",
-    "countryName": "Mexico",
-    "countryCode": "MX",
-    "population": 45000,
-    "lat": 15.85,
     "lng": -97.07,
     "timezone": "America/Mexico_City",
     "isCapital": false
@@ -20332,19 +20241,6 @@
     "isCapital": false
   },
   {
-    "slug": "stone-town-spice",
-    "name": "Stone Town",
-    "wikiTitle": "Stone Town, Zanzibar",
-    "countrySlug": "tanzania",
-    "countryName": "Tanzania",
-    "countryCode": "TZ",
-    "population": 200000,
-    "lat": -6.164,
-    "lng": 39.199,
-    "timezone": "Africa/Dar_es_Salaam",
-    "isCapital": false
-  },
-  {
     "slug": "strasbourg",
     "name": "Strasbourg",
     "wikiTitle": "Strasbourg",
@@ -20852,19 +20748,6 @@
     "isCapital": true
   },
   {
-    "slug": "tallinn-old",
-    "name": "Tallinn Old Town",
-    "wikiTitle": "Tallinn",
-    "countrySlug": "estonia",
-    "countryName": "Estonia",
-    "countryCode": "EE",
-    "population": 5000,
-    "lat": 59.437,
-    "lng": 24.754,
-    "timezone": "Europe/Tallinn",
-    "isCapital": false
-  },
-  {
     "slug": "tamale",
     "name": "Tamale",
     "wikiTitle": "Tamale",
@@ -21317,19 +21200,6 @@
     "lat": 46.84275,
     "lng": 29.6284,
     "timezone": "Europe/Chisinau",
-    "isCapital": false
-  },
-  {
-    "slug": "guadalajara-tlaquepaque",
-    "name": "Tlaquepaque",
-    "wikiTitle": "Tlaquepaque",
-    "countrySlug": "mexico",
-    "countryName": "Mexico",
-    "countryCode": "MX",
-    "population": 600000,
-    "lat": 20.64,
-    "lng": -103.31,
-    "timezone": "America/Mexico_City",
     "isCapital": false
   },
   {

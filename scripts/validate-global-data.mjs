@@ -109,7 +109,9 @@ const BOUNDS = {
 };
 
 const GENERIC_RE =
-  /local bistro|Central market stalls|Waterfront \/ plaza café|Destination tasting restaurant|Modern design hotel|Boutique historic stay|Main landmark \/ viewpoint|Day-trip highlight nearby|Top sights and local flavour|Check seasonal norms for the region|Main international gateway serving/i;
+  /local bistro|(?<!Grand )Central market stalls|Waterfront \/ plaza café|Destination tasting restaurant|Modern design hotel|Boutique historic stay|Main landmark \/ viewpoint|Day-trip highlight nearby|Top sights and local flavour|Check seasonal norms for the region|Main international gateway serving|historic center \/ Old Town|main square and landmark viewpoints|regional museum in |Signature day trip from |Sunset viewpoint overlooking |Scenic park, waterfront or hillside walk in /i;
+
+const GENERIC_TAGLINE_RE = /^(A city in |The capital of |Discover the wonders of )/i;
 
 // Known wrong-country collisions historically
 const EXPECTED_COUNTRY = {
@@ -185,9 +187,12 @@ for (const c of cities) {
   ].join(" | ");
 
   if (GENERIC_RE.test(blob)) {
-    // ignore real "Grand Hotel" names — only flag clear templates
-    if (/local bistro|Central market stalls|Waterfront \/ plaza café|Destination tasting restaurant|Boutique historic stay|Main landmark \/ viewpoint|Day-trip highlight nearby|Top sights and local flavour|Check seasonal norms for the region|Main international gateway serving/.test(blob)) {
-      err(2, "GENERIC_CONTENT", `Generic placeholder content`, { slug: c.slug, countrySlug: c.countrySlug });
+    err(2, "GENERIC_CONTENT", `Generic placeholder content`, { slug: c.slug, countrySlug: c.countrySlug });
+  }
+  if (c.tagline && GENERIC_TAGLINE_RE.test(c.tagline.trim())) {
+    // After honesty pass taglines should be country name or curated — flag leftover generics
+    if (/^(A city in |The capital of |Discover the wonders of )/i.test(c.tagline.trim())) {
+      err(2, "GENERIC_TAGLINE", `Generic tagline still present`, { slug: c.slug, tagline: c.tagline });
     }
   }
 

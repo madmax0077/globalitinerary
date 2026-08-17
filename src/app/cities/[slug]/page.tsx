@@ -210,7 +210,9 @@ export default async function CityPage({
                 {city.name} Travel Guide
               </h1>
               <p className="mt-3 max-w-xl text-lg text-white/85">
-                Things to do in {city.name} — {city.tagline}
+                {city.tagline === city.countryName
+                  ? `${city.name}, ${city.countryName}`
+                  : `Things to do in ${city.name} — ${city.tagline}`}
               </p>
             </div>
             <ShareButtons title={`${city.name} Travel Guide`} onDark />

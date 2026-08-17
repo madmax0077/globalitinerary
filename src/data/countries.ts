@@ -821,16 +821,33 @@ function withStandardTimezone(country: Country): Country {
   return iana ? { ...country, timezone: iana } : country;
 }
 
+function withHonestCountryCopy(country: Country): Country {
+  const tagline = /^Discover the wonders of /i.test(country.tagline || "")
+    ? `Visit ${country.name} — practical travel planning`
+    : country.tagline;
+  const overview = /distinctive slice of the world to explore/i.test(country.overview || "")
+    ? `${country.name} is in ${country.region}, ${country.continent}, with ${country.capital} as its capital. Use this guide for trip planning — best time, budget ranges, cities and practical tips.`
+    : country.overview;
+  const visa = /entry requirements vary by nationality/i.test(country.visa || "")
+    ? `Visa rules for ${country.name} depend on your passport — use the visa checker on this site for a nationality-specific answer.`
+    : country.visa;
+  const safety = /exercise normal precautions/i.test(country.safety || "")
+    ? `Check current travel advice for ${country.name} before you go.`
+    : country.safety;
+  return { ...country, tagline, overview, visa, safety };
+}
+
 export const countries: Country[] = [
   ...curatedCountries
     .filter((c) => !generatedCountries.some((g) => g.slug === c.slug))
-    .map(withStandardTimezone),
+    .map(withStandardTimezone)
+    .map(withHonestCountryCopy),
   ...generatedCountries.map((g) => {
     const curated = curatedBySlug.get(g.slug);
     const base = curated ?? g;
     const patch = countryPatches[g.slug];
     const merged = patch ? { ...base, ...patch } : base;
-    return withStandardTimezone(merged);
+    return withHonestCountryCopy(withStandardTimezone(merged));
   }),
 ].sort((a, b) => a.name.localeCompare(b.name));
 

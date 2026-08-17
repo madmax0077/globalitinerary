@@ -1,4 +1,12 @@
 {
-  "errors": [],
+  "errors": [
+    {
+      "code": "TZ_COUNTRY_MISMATCH",
+      "msg": "timezone Asia/Bangkok not expected for vietnam",
+      "slug": "mai-chau",
+      "tz": "Asia/Bangkok",
+      "countrySlug": "vietnam"
+    }
+  ],
   "warnings": []
 }

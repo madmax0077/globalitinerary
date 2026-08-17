@@ -170,12 +170,31 @@ export default async function CountryPage({
   ];
 
   const guide = [
-    { icon: Plane, label: "Visa", value: country.visa },
+    {
+      icon: Plane,
+      label: "Visa",
+      value: /entry requirements vary by nationality/i.test(country.visa)
+        ? `Check the visa tool for ${country.name} — rules depend on your passport`
+        : country.visa,
+    },
     { icon: CalendarDays, label: "Best time to visit", value: country.bestTime },
     { icon: Sparkles, label: "Weather", value: country.weather },
     { icon: TramFront, label: "Transportation", value: country.transportation },
     { icon: Wifi, label: "Internet", value: country.internet },
-    { icon: Shield, label: "Safety", value: country.safety },
+    {
+      icon: Shield,
+      label: "Safety",
+      value: (() => {
+        const wv = info?.staySafe?.replace(/\s+/g, " ").trim();
+        if (wv && wv.length > 40) {
+          return wv.length > 220 ? `${wv.slice(0, 217).trim()}…` : wv;
+        }
+        if (/exercise normal precautions/i.test(country.safety)) {
+          return `See current travel advice for ${country.name} before you go`;
+        }
+        return country.safety;
+      })(),
+    },
     { icon: Wallet, label: "Budget / day", value: country.budgetPerDay },
   ];
   const faqs = enrichCountryFaqs(country);

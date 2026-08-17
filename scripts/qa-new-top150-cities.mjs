@@ -115,7 +115,7 @@ for (const slug of added) {
     t: c.thingsToDo,
     tag: c.tagline,
   });
-  if (/local bistro|grand hotel|Main landmark \/ viewpoint|Top sights and local flavour/i.test(blob)) {
+  if (/local bistro|Main landmark \/ viewpoint|Top sights and local flavour|Boutique historic stay|Destination tasting restaurant/i.test(blob)) {
     problems.push("GENERIC placeholders");
   }
   if (/historic centre$|Day-trip highlight nearby/i.test((c.thingsToDo || []).join("|"))) {

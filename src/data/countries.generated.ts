@@ -60,8 +60,6 @@ const raw: Gen[] = [
     "overview": "Afghanistan is a Southern Asia nation in Asia, with Kabul as its capital and home to around 37,172,386 people. The currency is the Afghan afghani (AFN). The main languages are Dari, Pashto, Turkmen. From its landscapes and cities to its cuisine and traditions, Afghanistan offers travelers a distinctive slice of the world to explore.",
     "history": "Afghanistan has a rich history shaped by its position in Asia and the cultures of Southern Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Afghanistan is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 9183,
     "lat": 33,
     "lng": 65,
     "tags": [
@@ -124,8 +122,6 @@ const raw: Gen[] = [
     "overview": "Albania is a Southeast Europe nation in Europe, with Tirana as its capital and home to around 2,866,376 people. The currency is the Albanian lek (ALL). The main language is Albanian. From its landscapes and cities to its cuisine and traditions, Albania offers travelers a distinctive slice of the world to explore.",
     "history": "Albania has a rich history shaped by its position in Europe and the cultures of Southeast Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Albania is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 3093,
     "lat": 41,
     "lng": 20,
     "tags": [
@@ -186,8 +182,6 @@ const raw: Gen[] = [
     "overview": "Algeria is a Northern Africa nation in Africa, with Algiers as its capital and home to around 42,228,429 people. The currency is the Algerian dinar (DZD). The main language is Arabic. From its landscapes and cities to its cuisine and traditions, Algeria offers travelers a distinctive slice of the world to explore.",
     "history": "Algeria has a rich history shaped by its position in Africa and the cultures of Northern Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Algeria is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 7596,
     "lat": 28,
     "lng": 3,
     "tags": [
@@ -250,8 +244,6 @@ const raw: Gen[] = [
     "overview": "Andorra is a Southern Europe nation in Europe, with Andorra la Vella as its capital and home to around 77,006 people. The currency is the Euro (EUR). The main language is Catalan. From its landscapes and cities to its cuisine and traditions, Andorra offers travelers a distinctive slice of the world to explore.",
     "history": "Andorra has a rich history shaped by its position in Europe and the cultures of Southern Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Andorra is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 6718,
     "lat": 42.5,
     "lng": 1.5,
     "tags": [
@@ -314,8 +306,6 @@ const raw: Gen[] = [
     "overview": "Angola is a Middle Africa nation in Africa, with Luanda as its capital and home to around 30,809,762 people. The currency is the Angolan kwanza (AOA). The main language is Portuguese. From its landscapes and cities to its cuisine and traditions, Angola offers travelers a distinctive slice of the world to explore.",
     "history": "Angola has a rich history shaped by its position in Africa and the cultures of Middle Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Angola is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 8413,
     "lat": -12.5,
     "lng": 18.5,
     "tags": [
@@ -376,8 +366,6 @@ const raw: Gen[] = [
     "overview": "Antigua and Barbuda is a Caribbean nation in Americas, with Saint John's as its capital and home to around 96,286 people. The currency is the Eastern Caribbean dollar (XCD). The main language is English. From its landscapes and cities to its cuisine and traditions, Antigua and Barbuda offers travelers a distinctive slice of the world to explore.",
     "history": "Antigua and Barbuda has a rich history shaped by its position in Americas and the cultures of Caribbean, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Antigua and Barbuda is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 4926,
     "lat": 17.05,
     "lng": -61.8,
     "tags": [
@@ -440,8 +428,6 @@ const raw: Gen[] = [
     "overview": "Argentina is a South America nation in Americas, with Buenos Aires as its capital and home to around 44,494,502 people. The currency is the Argentine peso (ARS). The main languages are Guaraní, Spanish. From its landscapes and cities to its cuisine and traditions, Argentina offers travelers a distinctive slice of the world to explore.",
     "history": "Argentina has a rich history shaped by its position in Americas and the cultures of South America, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Argentina is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 8082,
     "lat": -34,
     "lng": -64,
     "tags": [
@@ -503,8 +489,6 @@ const raw: Gen[] = [
     "overview": "Armenia is a Western Asia nation in Asia, with Yerevan as its capital and home to around 2,951,776 people. The currency is the Armenian dram (AMD). The main language is Armenian. From its landscapes and cities to its cuisine and traditions, Armenia offers travelers a distinctive slice of the world to explore.",
     "history": "Armenia has a rich history shaped by its position in Asia and the cultures of Western Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Armenia is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.3,
-    "reviews": 2000,
     "lat": 40,
     "lng": 45,
     "tags": [
@@ -567,8 +551,6 @@ const raw: Gen[] = [
     "overview": "Australia is a Australia and New Zealand nation in Oceania, with Canberra as its capital and home to around 24,982,688 people. The currency is the Australian dollar (AUD). The main language is English. From its landscapes and cities to its cuisine and traditions, Australia offers travelers a distinctive slice of the world to explore.",
     "history": "Australia has a rich history shaped by its position in Oceania and the cultures of Australia and New Zealand, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Australia is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.9,
-    "reviews": 9017,
     "lat": -27,
     "lng": 133,
     "tags": [
@@ -631,8 +613,6 @@ const raw: Gen[] = [
     "overview": "Austria is a Central Europe nation in Europe, with Vienna as its capital and home to around 8,840,521 people. The currency is the Euro (EUR). The main language is Austro-Bavarian German. From its landscapes and cities to its cuisine and traditions, Austria offers travelers a distinctive slice of the world to explore.",
     "history": "Austria has a rich history shaped by its position in Europe and the cultures of Central Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Austria is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 1120,
     "lat": 47.33333333,
     "lng": 13.33333333,
     "tags": [
@@ -695,8 +675,6 @@ const raw: Gen[] = [
     "overview": "Azerbaijan is a Western Asia nation in Asia, with Baku as its capital and home to around 9,939,800 people. The currency is the Azerbaijani manat (AZN). The main languages are Azerbaijani, Russian. From its landscapes and cities to its cuisine and traditions, Azerbaijan offers travelers a distinctive slice of the world to explore.",
     "history": "Azerbaijan has a rich history shaped by its position in Asia and the cultures of Western Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Azerbaijan is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 1652,
     "lat": 40.5,
     "lng": 47.5,
     "tags": [
@@ -758,8 +736,6 @@ const raw: Gen[] = [
     "overview": "Bahamas is a Caribbean nation in Americas, with Nassau as its capital and home to around 385,640 people. The currency is the Bahamian dollar (BSD). The main language is English. From its landscapes and cities to its cuisine and traditions, Bahamas offers travelers a distinctive slice of the world to explore.",
     "history": "Bahamas has a rich history shaped by its position in Americas and the cultures of Caribbean, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Bahamas is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 7258,
     "lat": 24.25,
     "lng": -76,
     "tags": [
@@ -820,8 +796,6 @@ const raw: Gen[] = [
     "overview": "Bahrain is a Western Asia nation in Asia, with Manama as its capital and home to around 1,569,439 people. The currency is the Bahraini dinar (BHD). The main language is Arabic. From its landscapes and cities to its cuisine and traditions, Bahrain offers travelers a distinctive slice of the world to explore.",
     "history": "Bahrain has a rich history shaped by its position in Asia and the cultures of Western Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Bahrain is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 4770,
     "lat": 26,
     "lng": 50.55,
     "tags": [
@@ -883,8 +857,6 @@ const raw: Gen[] = [
     "overview": "Bangladesh is a Southern Asia nation in Asia, with Dhaka as its capital and home to around 161,356,039 people. The currency is the Bangladeshi taka (BDT). The main language is Bengali. From its landscapes and cities to its cuisine and traditions, Bangladesh offers travelers a distinctive slice of the world to explore.",
     "history": "Bangladesh has a rich history shaped by its position in Asia and the cultures of Southern Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Bangladesh is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 1892,
     "lat": 24,
     "lng": 90,
     "tags": [
@@ -947,8 +919,6 @@ const raw: Gen[] = [
     "overview": "Barbados is a Caribbean nation in Americas, with Bridgetown as its capital and home to around 286,641 people. The currency is the Barbadian dollar (BBD). The main language is English. From its landscapes and cities to its cuisine and traditions, Barbados offers travelers a distinctive slice of the world to explore.",
     "history": "Barbados has a rich history shaped by its position in Americas and the cultures of Caribbean, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Barbados is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 6961,
     "lat": 13.16666666,
     "lng": -59.53333333,
     "tags": [
@@ -1011,8 +981,6 @@ const raw: Gen[] = [
     "overview": "Belarus is a Eastern Europe nation in Europe, with Minsk as its capital and home to around 9,483,499 people. The currency is the Belarusian ruble (BYN). The main languages are Belarusian, Russian. From its landscapes and cities to its cuisine and traditions, Belarus offers travelers a distinctive slice of the world to explore.",
     "history": "Belarus has a rich history shaped by its position in Europe and the cultures of Eastern Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Belarus is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.3,
-    "reviews": 2361,
     "lat": 53,
     "lng": 28,
     "tags": [
@@ -1076,8 +1044,6 @@ const raw: Gen[] = [
     "overview": "Belgium is a Western Europe nation in Europe, with Brussels as its capital and home to around 11,433,256 people. The currency is the Euro (EUR). The main languages are German, French, Dutch. From its landscapes and cities to its cuisine and traditions, Belgium offers travelers a distinctive slice of the world to explore.",
     "history": "Belgium has a rich history shaped by its position in Europe and the cultures of Western Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Belgium is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.9,
-    "reviews": 8358,
     "lat": 50.83333333,
     "lng": 4,
     "tags": [
@@ -1140,8 +1106,6 @@ const raw: Gen[] = [
     "overview": "Belize is a Central America nation in Americas, with Belmopan as its capital and home to around 383,071 people. The currency is the Belize dollar (BZD). The main languages are Belizean Creole, English, Spanish. From its landscapes and cities to its cuisine and traditions, Belize offers travelers a distinctive slice of the world to explore.",
     "history": "Belize has a rich history shaped by its position in Americas and the cultures of Central America, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Belize is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 6778,
     "lat": 17.25,
     "lng": -88.75,
     "tags": [
@@ -1203,8 +1167,6 @@ const raw: Gen[] = [
     "overview": "Benin is a Western Africa nation in Africa, with Porto-Novo as its capital and home to around 11,485,048 people. The currency is the West African CFA franc (XOF). The main language is French. From its landscapes and cities to its cuisine and traditions, Benin offers travelers a distinctive slice of the world to explore.",
     "history": "Benin has a rich history shaped by its position in Africa and the cultures of Western Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Benin is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.6,
-    "reviews": 3835,
     "lat": 9.5,
     "lng": 2.25,
     "tags": [
@@ -1267,8 +1229,6 @@ const raw: Gen[] = [
     "overview": "Bhutan is a Southern Asia nation in Asia, with Thimphu as its capital and home to around 754,394 people. The currency is the Bhutanese ngultrum (BTN). The main language is Dzongkha. From its landscapes and cities to its cuisine and traditions, Bhutan offers travelers a distinctive slice of the world to explore.",
     "history": "Bhutan has a rich history shaped by its position in Asia and the cultures of Southern Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Bhutan is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 5345,
     "lat": 27.5,
     "lng": 90.5,
     "tags": [
@@ -1334,8 +1294,6 @@ const raw: Gen[] = [
     "overview": "Bolivia is a South America nation in Americas, with Sucre as its capital and home to around 11,353,142 people. The currency is the Bolivian boliviano (BOB). The main languages are Aymara, Guaraní, Quechua. From its landscapes and cities to its cuisine and traditions, Bolivia offers travelers a distinctive slice of the world to explore.",
     "history": "Bolivia has a rich history shaped by its position in Americas and the cultures of South America, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Bolivia is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 1835,
     "lat": -17,
     "lng": -65,
     "tags": [
@@ -1398,8 +1356,6 @@ const raw: Gen[] = [
     "overview": "Bosnia and Herzegovina is a Southeast Europe nation in Europe, with Sarajevo as its capital and home to around 3,323,929 people. The currency is the Bosnia and Herzegovina convertible mark (BAM). The main languages are Bosnian, Croatian, Serbian. From its landscapes and cities to its cuisine and traditions, Bosnia and Herzegovina offers travelers a distinctive slice of the world to explore.",
     "history": "Bosnia and Herzegovina has a rich history shaped by its position in Europe and the cultures of Southeast Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Bosnia and Herzegovina is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 2252,
     "lat": 44,
     "lng": 18,
     "tags": [
@@ -1462,8 +1418,6 @@ const raw: Gen[] = [
     "overview": "Botswana is a Southern Africa nation in Africa, with Gaborone as its capital and home to around 2,254,126 people. The currency is the Botswana pula (BWP). The main languages are English, Tswana. From its landscapes and cities to its cuisine and traditions, Botswana offers travelers a distinctive slice of the world to explore.",
     "history": "Botswana has a rich history shaped by its position in Africa and the cultures of Southern Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Botswana is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 3874,
     "lat": -22,
     "lng": 24,
     "tags": [
@@ -1526,8 +1480,6 @@ const raw: Gen[] = [
     "overview": "Brazil is a South America nation in Americas, with Brasília as its capital and home to around 209,469,333 people. The currency is the Brazilian real (BRL). The main language is Portuguese. From its landscapes and cities to its cuisine and traditions, Brazil offers travelers a distinctive slice of the world to explore.",
     "history": "Brazil has a rich history shaped by its position in Americas and the cultures of South America, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Brazil is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 8913,
     "lat": -10,
     "lng": -55,
     "tags": [
@@ -1588,8 +1540,6 @@ const raw: Gen[] = [
     "overview": "Brunei is a South-Eastern Asia nation in Asia, with Bandar Seri Begawan as its capital and home to around 428,962 people. The currency is the Brunei dollar (BND). The main language is Malay. From its landscapes and cities to its cuisine and traditions, Brunei offers travelers a distinctive slice of the world to explore.",
     "history": "Brunei has a rich history shaped by its position in Asia and the cultures of South-Eastern Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Brunei is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 1076,
     "lat": 4.5,
     "lng": 114.66666666,
     "tags": [
@@ -1649,8 +1599,6 @@ const raw: Gen[] = [
     "overview": "Bulgaria is a Southeast Europe nation in Europe, with Sofia as its capital and home to around 7,025,037 people. The currency is the Euro (EUR). The main language is Bulgarian. From its landscapes and cities to its cuisine and traditions, Bulgaria offers travelers a distinctive slice of the world to explore.",
     "history": "Bulgaria has a rich history shaped by its position in Europe and the cultures of Southeast Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Bulgaria is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 9276,
     "lat": 43,
     "lng": 25,
     "tags": [
@@ -1711,8 +1659,6 @@ const raw: Gen[] = [
     "overview": "Burkina Faso is a Western Africa nation in Africa, with Ouagadougou as its capital and home to around 19,751,535 people. The currency is the West African CFA franc (XOF). The main language is French. From its landscapes and cities to its cuisine and traditions, Burkina Faso offers travelers a distinctive slice of the world to explore.",
     "history": "Burkina Faso has a rich history shaped by its position in Africa and the cultures of Western Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Burkina Faso is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 1227,
     "lat": 13,
     "lng": -2,
     "tags": [
@@ -1776,8 +1722,6 @@ const raw: Gen[] = [
     "overview": "Burundi is a Eastern Africa nation in Africa, with Gitega as its capital and home to around 11,175,378 people. The currency is the Burundian franc (BIF). The main languages are French, Kirundi. From its landscapes and cities to its cuisine and traditions, Burundi offers travelers a distinctive slice of the world to explore.",
     "history": "Burundi has a rich history shaped by its position in Africa and the cultures of Eastern Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Burundi is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 4230,
     "lat": -3.5,
     "lng": 30,
     "tags": [
@@ -1838,8 +1782,6 @@ const raw: Gen[] = [
     "overview": "Cambodia is a South-Eastern Asia nation in Asia, with Phnom Penh as its capital and home to around 16,249,798 people. The currency is the Cambodian riel (KHR). The main language is Khmer. From its landscapes and cities to its cuisine and traditions, Cambodia offers travelers a distinctive slice of the world to explore.",
     "history": "Cambodia has a rich history shaped by its position in Asia and the cultures of South-Eastern Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Cambodia is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 1755,
     "lat": 13,
     "lng": 105,
     "tags": [
@@ -1903,8 +1845,6 @@ const raw: Gen[] = [
     "overview": "Cameroon is a Middle Africa nation in Africa, with Yaoundé as its capital and home to around 25,216,237 people. The currency is the Central African CFA franc (XAF). The main languages are English, French. From its landscapes and cities to its cuisine and traditions, Cameroon offers travelers a distinctive slice of the world to explore.",
     "history": "Cameroon has a rich history shaped by its position in Africa and the cultures of Middle Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Cameroon is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 3029,
     "lat": 6,
     "lng": 12,
     "tags": [
@@ -1968,8 +1908,6 @@ const raw: Gen[] = [
     "overview": "Canada is a North America nation in Americas, with Ottawa as its capital and home to around 37,057,765 people. The currency is the Canadian dollar (CAD). The main languages are English, French. From its landscapes and cities to its cuisine and traditions, Canada offers travelers a distinctive slice of the world to explore.",
     "history": "Canada has a rich history shaped by its position in Americas and the cultures of North America, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Canada is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 8651,
     "lat": 60,
     "lng": -95,
     "tags": [
@@ -2029,8 +1967,6 @@ const raw: Gen[] = [
     "overview": "Cape Verde is a Western Africa nation in Africa, with Praia as its capital and a captivating destination. The currency is the Cape Verdean escudo (CVE). The main language is Portuguese. From its landscapes and cities to its cuisine and traditions, Cape Verde offers travelers a distinctive slice of the world to explore.",
     "history": "Cape Verde has a rich history shaped by its position in Africa and the cultures of Western Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Cape Verde is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 8883,
     "lat": 16,
     "lng": -24,
     "tags": [
@@ -2090,8 +2026,6 @@ const raw: Gen[] = [
     "overview": "Central African Republic is a Middle Africa nation in Africa, with Bangui as its capital and home to around 4,666,377 people. The currency is the Central African CFA franc (XAF). The main languages are French, Sango. From its landscapes and cities to its cuisine and traditions, Central African Republic offers travelers a distinctive slice of the world to explore.",
     "history": "Central African Republic has a rich history shaped by its position in Africa and the cultures of Middle Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Central African Republic is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.3,
-    "reviews": 7042,
     "lat": 7,
     "lng": 21,
     "tags": [
@@ -2154,8 +2088,6 @@ const raw: Gen[] = [
     "overview": "Chad is a Middle Africa nation in Africa, with N'Djamena as its capital and home to around 15,477,751 people. The currency is the Central African CFA franc (XAF). The main languages are Arabic, French. From its landscapes and cities to its cuisine and traditions, Chad offers travelers a distinctive slice of the world to explore.",
     "history": "Chad has a rich history shaped by its position in Africa and the cultures of Middle Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Chad is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.3,
-    "reviews": 6085,
     "lat": 15,
     "lng": 19,
     "tags": [
@@ -2217,8 +2149,6 @@ const raw: Gen[] = [
     "overview": "Chile is a South America nation in Americas, with Santiago as its capital and home to around 18,729,160 people. The currency is the Chilean peso (CLP). The main language is Spanish. From its landscapes and cities to its cuisine and traditions, Chile offers travelers a distinctive slice of the world to explore.",
     "history": "Chile has a rich history shaped by its position in Americas and the cultures of South America, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Chile is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.6,
-    "reviews": 8206,
     "lat": -30,
     "lng": -71,
     "tags": [
@@ -2280,8 +2210,6 @@ const raw: Gen[] = [
     "overview": "China is a Eastern Asia nation in Asia, with Beijing as its capital and home to around 1,392,730,000 people. The currency is the Chinese yuan (CNY). The main language is Chinese. From its landscapes and cities to its cuisine and traditions, China offers travelers a distinctive slice of the world to explore.",
     "history": "China has a rich history shaped by its position in Asia and the cultures of Eastern Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in China is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 7064,
     "lat": 35,
     "lng": 105,
     "tags": [
@@ -2342,8 +2270,6 @@ const raw: Gen[] = [
     "overview": "Colombia is a South America nation in Americas, with Bogotá as its capital and home to around 49,648,685 people. The currency is the Colombian peso (COP). The main language is Spanish. From its landscapes and cities to its cuisine and traditions, Colombia offers travelers a distinctive slice of the world to explore.",
     "history": "Colombia has a rich history shaped by its position in Americas and the cultures of South America, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Colombia is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.6,
-    "reviews": 9111,
     "lat": 4,
     "lng": -72,
     "tags": [
@@ -2406,8 +2332,6 @@ const raw: Gen[] = [
     "overview": "Comoros is a Eastern Africa nation in Africa, with Moroni as its capital and home to around 832,322 people. The currency is the Comorian franc (KMF). The main languages are Arabic, French, Comorian. From its landscapes and cities to its cuisine and traditions, Comoros offers travelers a distinctive slice of the world to explore.",
     "history": "Comoros has a rich history shaped by its position in Africa and the cultures of Eastern Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Comoros is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 1779,
     "lat": -12.16666666,
     "lng": 44.25,
     "tags": [
@@ -2469,8 +2393,6 @@ const raw: Gen[] = [
     "overview": "Congo is a Middle Africa nation in Africa, with Brazzaville as its capital and home to around 5,244,363 people. The currency is the Central African CFA franc (XAF). The main languages are French, Kikongo, Lingala. From its landscapes and cities to its cuisine and traditions, Congo offers travelers a distinctive slice of the world to explore.",
     "history": "Congo has a rich history shaped by its position in Africa and the cultures of Middle Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Congo is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.9,
-    "reviews": 2417,
     "lat": -1,
     "lng": 15,
     "tags": [
@@ -2532,8 +2454,6 @@ const raw: Gen[] = [
     "overview": "Costa Rica is a Central America nation in Americas, with San José as its capital and home to around 4,999,441 people. The currency is the Costa Rican colón (CRC). The main language is Spanish. From its landscapes and cities to its cuisine and traditions, Costa Rica offers travelers a distinctive slice of the world to explore.",
     "history": "Costa Rica has a rich history shaped by its position in Americas and the cultures of Central America, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Costa Rica is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 6029,
     "lat": 10,
     "lng": -84,
     "tags": [
@@ -2594,8 +2514,6 @@ const raw: Gen[] = [
     "overview": "Croatia is a Southeast Europe nation in Europe, with Zagreb as its capital and home to around 4,087,843 people. The currency is the Euro (EUR). The main language is Croatian. From its landscapes and cities to its cuisine and traditions, Croatia offers travelers a distinctive slice of the world to explore.",
     "history": "Croatia has a rich history shaped by its position in Europe and the cultures of Southeast Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Croatia is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.6,
-    "reviews": 4194,
     "lat": 45.16666666,
     "lng": 15.5,
     "tags": [
@@ -2657,8 +2575,6 @@ const raw: Gen[] = [
     "overview": "Cuba is a Caribbean nation in Americas, with Havana as its capital and home to around 11,338,138 people. The currency is the Cuban convertible peso (CUC). The main language is Spanish. From its landscapes and cities to its cuisine and traditions, Cuba offers travelers a distinctive slice of the world to explore.",
     "history": "Cuba has a rich history shaped by its position in Americas and the cultures of Caribbean, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Cuba is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 9644,
     "lat": 21.5,
     "lng": -80,
     "tags": [
@@ -2721,8 +2637,6 @@ const raw: Gen[] = [
     "overview": "Cyprus is a Southern Europe nation in Europe, with Nicosia as its capital and home to around 1,189,265 people. The currency is the Euro (EUR). The main languages are Greek, Turkish. From its landscapes and cities to its cuisine and traditions, Cyprus offers travelers a distinctive slice of the world to explore.",
     "history": "Cyprus has a rich history shaped by its position in Europe and the cultures of Southern Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Cyprus is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.6,
-    "reviews": 3587,
     "lat": 35,
     "lng": 33,
     "tags": [
@@ -2784,8 +2698,6 @@ const raw: Gen[] = [
     "overview": "Czechia is a Central Europe nation in Europe, with Prague as its capital and home to around 10,629,928 people. The currency is the Czech koruna (CZK). The main languages are Czech, Slovak. From its landscapes and cities to its cuisine and traditions, Czechia offers travelers a distinctive slice of the world to explore.",
     "history": "Czechia has a rich history shaped by its position in Europe and the cultures of Central Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Czechia is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 9566,
     "lat": 49.75,
     "lng": 15.5,
     "tags": [
@@ -2848,8 +2760,6 @@ const raw: Gen[] = [
     "overview": "Denmark is a Northern Europe nation in Europe, with Copenhagen as its capital and home to around 5,793,636 people. The currency is the Danish krone (DKK). The main language is Danish. From its landscapes and cities to its cuisine and traditions, Denmark offers travelers a distinctive slice of the world to explore.",
     "history": "Denmark has a rich history shaped by its position in Europe and the cultures of Northern Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Denmark is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 4755,
     "lat": 56,
     "lng": 10,
     "tags": [
@@ -2913,8 +2823,6 @@ const raw: Gen[] = [
     "overview": "Djibouti is a Eastern Africa nation in Africa, with Djibouti as its capital and home to around 958,920 people. The currency is the Djiboutian franc (DJF). The main languages are Arabic, French. From its landscapes and cities to its cuisine and traditions, Djibouti offers travelers a distinctive slice of the world to explore.",
     "history": "Djibouti has a rich history shaped by its position in Africa and the cultures of Eastern Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Djibouti is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 9645,
     "lat": 11.5,
     "lng": 43,
     "tags": [
@@ -2976,8 +2884,6 @@ const raw: Gen[] = [
     "overview": "Dominica is a Caribbean nation in Americas, with Roseau as its capital and home to around 71,625 people. The currency is the Eastern Caribbean dollar (XCD). The main language is English. From its landscapes and cities to its cuisine and traditions, Dominica offers travelers a distinctive slice of the world to explore.",
     "history": "Dominica has a rich history shaped by its position in Americas and the cultures of Caribbean, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Dominica is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 1995,
     "lat": 15.41666666,
     "lng": -61.33333333,
     "tags": [
@@ -3038,8 +2944,6 @@ const raw: Gen[] = [
     "overview": "Dominican Republic is a Caribbean nation in Americas, with Santo Domingo as its capital and home to around 10,627,165 people. The currency is the Dominican peso (DOP). The main language is Spanish. From its landscapes and cities to its cuisine and traditions, Dominican Republic offers travelers a distinctive slice of the world to explore.",
     "history": "Dominican Republic has a rich history shaped by its position in Americas and the cultures of Caribbean, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Dominican Republic is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.3,
-    "reviews": 922,
     "lat": 19,
     "lng": -70.66666666,
     "tags": [
@@ -3106,8 +3010,6 @@ const raw: Gen[] = [
     "overview": "DR Congo is a Middle Africa nation in Africa, with Kinshasa as its capital and a captivating destination. The currency is the Congolese franc (CDF). The main languages are French, Kikongo, Lingala. From its landscapes and cities to its cuisine and traditions, DR Congo offers travelers a distinctive slice of the world to explore.",
     "history": "DR Congo has a rich history shaped by its position in Africa and the cultures of Middle Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in DR Congo is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 6388,
     "lat": 0,
     "lng": 25,
     "tags": [
@@ -3166,8 +3068,6 @@ const raw: Gen[] = [
     "overview": "Ecuador is a South America nation in Americas, with Quito as its capital and home to around 17,084,357 people. The currency is the United States dollar (USD). The main language is Spanish. From its landscapes and cities to its cuisine and traditions, Ecuador offers travelers a distinctive slice of the world to explore.",
     "history": "Ecuador has a rich history shaped by its position in Americas and the cultures of South America, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Ecuador is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.9,
-    "reviews": 5896,
     "lat": -2,
     "lng": -77.5,
     "tags": [
@@ -3229,8 +3129,6 @@ const raw: Gen[] = [
     "overview": "Egypt is a Northern Africa nation in Africa, with Cairo as its capital and home to around 98,423,595 people. The currency is the Egyptian pound (EGP). The main language is Arabic. From its landscapes and cities to its cuisine and traditions, Egypt offers travelers a distinctive slice of the world to explore.",
     "history": "Egypt has a rich history shaped by its position in Africa and the cultures of Northern Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Egypt is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 1064,
     "lat": 27,
     "lng": 30,
     "tags": [
@@ -3293,8 +3191,6 @@ const raw: Gen[] = [
     "overview": "El Salvador is a Central America nation in Americas, with San Salvador as its capital and home to around 6,420,744 people. The currency is the United States dollar (USD). The main language is Spanish. From its landscapes and cities to its cuisine and traditions, El Salvador offers travelers a distinctive slice of the world to explore.",
     "history": "El Salvador has a rich history shaped by its position in Americas and the cultures of Central America, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in El Salvador is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 8375,
     "lat": 13.83333333,
     "lng": -88.91666666,
     "tags": [
@@ -3359,8 +3255,6 @@ const raw: Gen[] = [
     "overview": "Equatorial Guinea is a Middle Africa nation in Africa, with Malabo as its capital and home to around 1,308,974 people. The currency is the Central African CFA franc (XAF). The main languages are French, Portuguese, Spanish. From its landscapes and cities to its cuisine and traditions, Equatorial Guinea offers travelers a distinctive slice of the world to explore.",
     "history": "Equatorial Guinea has a rich history shaped by its position in Africa and the cultures of Middle Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Equatorial Guinea is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.6,
-    "reviews": 5806,
     "lat": 2,
     "lng": 10,
     "tags": [
@@ -3423,8 +3317,6 @@ const raw: Gen[] = [
     "overview": "Eritrea is a Eastern Africa nation in Africa, with Asmara as its capital and home to around 6,213,972 people. The currency is the Eritrean nakfa (ERN). The main languages are Arabic, English, Tigrinya. From its landscapes and cities to its cuisine and traditions, Eritrea offers travelers a distinctive slice of the world to explore.",
     "history": "Eritrea has a rich history shaped by its position in Africa and the cultures of Eastern Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Eritrea is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 5775,
     "lat": 15,
     "lng": 39,
     "tags": [
@@ -3486,8 +3378,6 @@ const raw: Gen[] = [
     "overview": "Estonia is a Northern Europe nation in Europe, with Tallinn as its capital and home to around 1,321,977 people. The currency is the Euro (EUR). The main language is Estonian. From its landscapes and cities to its cuisine and traditions, Estonia offers travelers a distinctive slice of the world to explore.",
     "history": "Estonia has a rich history shaped by its position in Europe and the cultures of Northern Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Estonia is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 4928,
     "lat": 59,
     "lng": 26,
     "tags": [
@@ -3551,8 +3441,6 @@ const raw: Gen[] = [
     "overview": "Eswatini is a Southern Africa nation in Africa, with Lobamba as its capital and home to around 1,136,191 people. The currency is the Swazi lilangeni (SZL). The main languages are English, Swazi. From its landscapes and cities to its cuisine and traditions, Eswatini offers travelers a distinctive slice of the world to explore.",
     "history": "Eswatini has a rich history shaped by its position in Africa and the cultures of Southern Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Eswatini is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.6,
-    "reviews": 4073,
     "lat": -26.5,
     "lng": 31.5,
     "tags": [
@@ -3614,8 +3502,6 @@ const raw: Gen[] = [
     "overview": "Ethiopia is a Eastern Africa nation in Africa, with Addis Ababa as its capital and home to around 109,224,559 people. The currency is the Ethiopian birr (ETB). The main language is Amharic. From its landscapes and cities to its cuisine and traditions, Ethiopia offers travelers a distinctive slice of the world to explore.",
     "history": "Ethiopia has a rich history shaped by its position in Africa and the cultures of Eastern Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Ethiopia is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 1442,
     "lat": 8,
     "lng": 38,
     "tags": [
@@ -3679,8 +3565,6 @@ const raw: Gen[] = [
     "overview": "Fiji is a Melanesia nation in Oceania, with Suva as its capital and a captivating destination. The currency is the Fijian dollar (FJD). The main languages are English, Fijian, Fiji Hindi. From its landscapes and cities to its cuisine and traditions, Fiji offers travelers a distinctive slice of the world to explore.",
     "history": "Fiji has a rich history shaped by its position in Oceania and the cultures of Melanesia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Fiji is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 7707,
     "lat": -18,
     "lng": 175,
     "tags": [
@@ -3741,8 +3625,6 @@ const raw: Gen[] = [
     "overview": "Finland is a Northern Europe nation in Europe, with Helsinki as its capital and home to around 5,515,525 people. The currency is the Euro (EUR). The main languages are Finnish, Swedish. From its landscapes and cities to its cuisine and traditions, Finland offers travelers a distinctive slice of the world to explore.",
     "history": "Finland has a rich history shaped by its position in Europe and the cultures of Northern Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Finland is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 7659,
     "lat": 64,
     "lng": 26,
     "tags": [
@@ -3805,8 +3687,6 @@ const raw: Gen[] = [
     "overview": "France is a Western Europe nation in Europe, with Paris as its capital and home to around 66,977,107 people. The currency is the Euro (EUR). The main language is French. From its landscapes and cities to its cuisine and traditions, France offers travelers a distinctive slice of the world to explore.",
     "history": "France has a rich history shaped by its position in Europe and the cultures of Western Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in France is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 6514,
     "lat": 46,
     "lng": 2,
     "tags": [
@@ -3868,8 +3748,6 @@ const raw: Gen[] = [
     "overview": "Gabon is a Middle Africa nation in Africa, with Libreville as its capital and home to around 2,119,275 people. The currency is the Central African CFA franc (XAF). The main language is French. From its landscapes and cities to its cuisine and traditions, Gabon offers travelers a distinctive slice of the world to explore.",
     "history": "Gabon has a rich history shaped by its position in Africa and the cultures of Middle Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Gabon is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 4408,
     "lat": -1,
     "lng": 11.75,
     "tags": [
@@ -3930,8 +3808,6 @@ const raw: Gen[] = [
     "overview": "Gambia is a Western Africa nation in Africa, with Banjul as its capital and home to around 2,280,102 people. The currency is the dalasi (GMD). The main language is English. From its landscapes and cities to its cuisine and traditions, Gambia offers travelers a distinctive slice of the world to explore.",
     "history": "Gambia has a rich history shaped by its position in Africa and the cultures of Western Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Gambia is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.6,
-    "reviews": 5508,
     "lat": 13.46666666,
     "lng": -16.56666666,
     "tags": [
@@ -3992,8 +3868,6 @@ const raw: Gen[] = [
     "overview": "Georgia is a Western Asia nation in Asia, with Tbilisi as its capital and home to around 3,726,549 people. The currency is the lari (GEL). The main language is Georgian. From its landscapes and cities to its cuisine and traditions, Georgia offers travelers a distinctive slice of the world to explore.",
     "history": "Georgia has a rich history shaped by its position in Asia and the cultures of Western Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Georgia is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 1857,
     "lat": 42,
     "lng": 43.5,
     "tags": [
@@ -4056,8 +3930,6 @@ const raw: Gen[] = [
     "overview": "Germany is a Western Europe nation in Europe, with Berlin as its capital and home to around 82,905,782 people. The currency is the Euro (EUR). The main language is German. From its landscapes and cities to its cuisine and traditions, Germany offers travelers a distinctive slice of the world to explore.",
     "history": "Germany has a rich history shaped by its position in Europe and the cultures of Western Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Germany is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.3,
-    "reviews": 1042,
     "lat": 51,
     "lng": 9,
     "tags": [
@@ -4117,8 +3989,6 @@ const raw: Gen[] = [
     "overview": "Ghana is a Western Africa nation in Africa, with Accra as its capital and home to around 29,767,108 people. The currency is the Ghanaian cedi (GHS). The main language is English. From its landscapes and cities to its cuisine and traditions, Ghana offers travelers a distinctive slice of the world to explore.",
     "history": "Ghana has a rich history shaped by its position in Africa and the cultures of Western Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Ghana is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 6116,
     "lat": 8,
     "lng": -2,
     "tags": [
@@ -4179,8 +4049,6 @@ const raw: Gen[] = [
     "overview": "Greece is a Southern Europe nation in Europe, with Athens as its capital and home to around 10,731,726 people. The currency is the Euro (EUR). The main language is Greek. From its landscapes and cities to its cuisine and traditions, Greece offers travelers a distinctive slice of the world to explore.",
     "history": "Greece has a rich history shaped by its position in Europe and the cultures of Southern Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Greece is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.9,
-    "reviews": 9318,
     "lat": 39,
     "lng": 22,
     "tags": [
@@ -4242,8 +4110,6 @@ const raw: Gen[] = [
     "overview": "Grenada is a Caribbean nation in Americas, with St. George's as its capital and home to around 111,454 people. The currency is the Eastern Caribbean dollar (XCD). The main language is English. From its landscapes and cities to its cuisine and traditions, Grenada offers travelers a distinctive slice of the world to explore.",
     "history": "Grenada has a rich history shaped by its position in Americas and the cultures of Caribbean, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Grenada is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 5255,
     "lat": 12.11666666,
     "lng": -61.66666666,
     "tags": [
@@ -4303,8 +4169,6 @@ const raw: Gen[] = [
     "overview": "Guatemala is a Central America nation in Americas, with Guatemala City as its capital and home to around 17,247,807 people. The currency is the Guatemalan quetzal (GTQ). The main language is Spanish. From its landscapes and cities to its cuisine and traditions, Guatemala offers travelers a distinctive slice of the world to explore.",
     "history": "Guatemala has a rich history shaped by its position in Americas and the cultures of Central America, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Guatemala is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 3130,
     "lat": 15.5,
     "lng": -90.25,
     "tags": [
@@ -4367,8 +4231,6 @@ const raw: Gen[] = [
     "overview": "Guinea is a Western Africa nation in Africa, with Conakry as its capital and home to around 12,414,318 people. The currency is the Guinean franc (GNF). The main language is French. From its landscapes and cities to its cuisine and traditions, Guinea offers travelers a distinctive slice of the world to explore.",
     "history": "Guinea has a rich history shaped by its position in Africa and the cultures of Western Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Guinea is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 5972,
     "lat": 11,
     "lng": -10,
     "tags": [
@@ -4431,8 +4293,6 @@ const raw: Gen[] = [
     "overview": "Guinea-Bissau is a Western Africa nation in Africa, with Bissau as its capital and home to around 1,874,309 people. The currency is the West African CFA franc (XOF). The main languages are Portuguese, Upper Guinea Creole. From its landscapes and cities to its cuisine and traditions, Guinea-Bissau offers travelers a distinctive slice of the world to explore.",
     "history": "Guinea-Bissau has a rich history shaped by its position in Africa and the cultures of Western Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Guinea-Bissau is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 4926,
     "lat": 12,
     "lng": -15,
     "tags": [
@@ -4495,8 +4355,6 @@ const raw: Gen[] = [
     "overview": "Guyana is a South America nation in Americas, with Georgetown as its capital and home to around 779,004 people. The currency is the Guyanese dollar (GYD). The main language is English. From its landscapes and cities to its cuisine and traditions, Guyana offers travelers a distinctive slice of the world to explore.",
     "history": "Guyana has a rich history shaped by its position in Americas and the cultures of South America, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Guyana is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 7842,
     "lat": 5,
     "lng": -59,
     "tags": [
@@ -4556,8 +4414,6 @@ const raw: Gen[] = [
     "overview": "Haiti is a Caribbean nation in Americas, with Port-au-Prince as its capital and home to around 11,123,176 people. The currency is the Haitian gourde (HTG). The main languages are French, Haitian Creole. From its landscapes and cities to its cuisine and traditions, Haiti offers travelers a distinctive slice of the world to explore.",
     "history": "Haiti has a rich history shaped by its position in Americas and the cultures of Caribbean, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Haiti is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 2430,
     "lat": 19,
     "lng": -72.41666666,
     "tags": [
@@ -4618,8 +4474,6 @@ const raw: Gen[] = [
     "overview": "Honduras is a Central America nation in Americas, with Tegucigalpa as its capital and home to around 9,587,522 people. The currency is the Honduran lempira (HNL). The main language is Spanish. From its landscapes and cities to its cuisine and traditions, Honduras offers travelers a distinctive slice of the world to explore.",
     "history": "Honduras has a rich history shaped by its position in Americas and the cultures of Central America, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Honduras is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.3,
-    "reviews": 1885,
     "lat": 15,
     "lng": -86.5,
     "tags": [
@@ -4680,8 +4534,6 @@ const raw: Gen[] = [
     "overview": "Hungary is a Central Europe nation in Europe, with Budapest as its capital and home to around 9,775,564 people. The currency is the Hungarian forint (HUF). The main language is Hungarian. From its landscapes and cities to its cuisine and traditions, Hungary offers travelers a distinctive slice of the world to explore.",
     "history": "Hungary has a rich history shaped by its position in Europe and the cultures of Central Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Hungary is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 5647,
     "lat": 47,
     "lng": 20,
     "tags": [
@@ -4744,8 +4596,6 @@ const raw: Gen[] = [
     "overview": "Iceland is a Northern Europe nation in Europe, with Reykjavik as its capital and home to around 352,721 people. The currency is the Icelandic króna (ISK). The main language is Icelandic. From its landscapes and cities to its cuisine and traditions, Iceland offers travelers a distinctive slice of the world to explore.",
     "history": "Iceland has a rich history shaped by its position in Europe and the cultures of Northern Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Iceland is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.3,
-    "reviews": 6203,
     "lat": 65,
     "lng": -18,
     "tags": [
@@ -4810,8 +4660,6 @@ const raw: Gen[] = [
     "overview": "India is a Southern Asia nation in Asia, with New Delhi as its capital and home to around 1,352,617,328 people. The currency is the Indian rupee (INR). The main languages are English, Hindi, Tamil. From its landscapes and cities to its cuisine and traditions, India offers travelers a distinctive slice of the world to explore.",
     "history": "India has a rich history shaped by its position in Asia and the cultures of Southern Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in India is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.3,
-    "reviews": 5964,
     "lat": 20,
     "lng": 77,
     "tags": [
@@ -4874,8 +4722,6 @@ const raw: Gen[] = [
     "overview": "Indonesia is a South-Eastern Asia nation in Asia, with Jakarta as its capital and home to around 267,663,435 people. The currency is the Indonesian rupiah (IDR). The main language is Indonesian. From its landscapes and cities to its cuisine and traditions, Indonesia offers travelers a distinctive slice of the world to explore.",
     "history": "Indonesia has a rich history shaped by its position in Asia and the cultures of South-Eastern Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Indonesia is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.6,
-    "reviews": 6047,
     "lat": -5,
     "lng": 120,
     "tags": [
@@ -4938,8 +4784,6 @@ const raw: Gen[] = [
     "overview": "Iran is a Southern Asia nation in Asia, with Tehran as its capital and home to around 81,800,269 people. The currency is the Iranian rial (IRR). The main language is Persian (Farsi). From its landscapes and cities to its cuisine and traditions, Iran offers travelers a distinctive slice of the world to explore.",
     "history": "Iran has a rich history shaped by its position in Asia and the cultures of Southern Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Iran is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 6301,
     "lat": 32,
     "lng": 53,
     "tags": [
@@ -5002,8 +4846,6 @@ const raw: Gen[] = [
     "overview": "Iraq is a Western Asia nation in Asia, with Baghdad as its capital and home to around 38,433,600 people. The currency is the Iraqi dinar (IQD). The main languages are Arabic, Aramaic, Sorani. From its landscapes and cities to its cuisine and traditions, Iraq offers travelers a distinctive slice of the world to explore.",
     "history": "Iraq has a rich history shaped by its position in Asia and the cultures of Western Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Iraq is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.9,
-    "reviews": 9016,
     "lat": 33,
     "lng": 44,
     "tags": [
@@ -5066,8 +4908,6 @@ const raw: Gen[] = [
     "overview": "Ireland is a Northern Europe nation in Europe, with Dublin as its capital and home to around 4,867,309 people. The currency is the Euro (EUR). The main languages are English, Irish. From its landscapes and cities to its cuisine and traditions, Ireland offers travelers a distinctive slice of the world to explore.",
     "history": "Ireland has a rich history shaped by its position in Europe and the cultures of Northern Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Ireland is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.6,
-    "reviews": 7188,
     "lat": 53,
     "lng": -8,
     "tags": [
@@ -5130,8 +4970,6 @@ const raw: Gen[] = [
     "overview": "Israel is a Western Asia nation in Asia, with Jerusalem as its capital and home to around 8,882,800 people. The currency is the Israeli new shekel (ILS). The main languages are Arabic, Hebrew. From its landscapes and cities to its cuisine and traditions, Israel offers travelers a distinctive slice of the world to explore.",
     "history": "Israel has a rich history shaped by its position in Asia and the cultures of Western Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Israel is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 9781,
     "lat": 31.47,
     "lng": 35.13,
     "tags": [
@@ -5194,8 +5032,6 @@ const raw: Gen[] = [
     "overview": "Italy is a Southern Europe nation in Europe, with Rome as its capital and home to around 60,421,760 people. The currency is the Euro (EUR). The main language is Italian. From its landscapes and cities to its cuisine and traditions, Italy offers travelers a distinctive slice of the world to explore.",
     "history": "Italy has a rich history shaped by its position in Europe and the cultures of Southern Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Italy is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.3,
-    "reviews": 1524,
     "lat": 42.83333333,
     "lng": 12.83333333,
     "tags": [
@@ -5256,8 +5092,6 @@ const raw: Gen[] = [
     "overview": "Ivory Coast is a Western Africa nation in Africa, with Yamoussoukro as its capital and home to around 25,069,229 people. The currency is the West African CFA franc (XOF). The main language is French. From its landscapes and cities to its cuisine and traditions, Ivory Coast offers travelers a distinctive slice of the world to explore.",
     "history": "Ivory Coast has a rich history shaped by its position in Africa and the cultures of Western Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Ivory Coast is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 1751,
     "lat": 8,
     "lng": -5,
     "tags": [
@@ -5321,8 +5155,6 @@ const raw: Gen[] = [
     "overview": "Jamaica is a Caribbean nation in Americas, with Kingston as its capital and home to around 2,934,855 people. The currency is the Jamaican dollar (JMD). The main languages are English, Jamaican Patois. From its landscapes and cities to its cuisine and traditions, Jamaica offers travelers a distinctive slice of the world to explore.",
     "history": "Jamaica has a rich history shaped by its position in Americas and the cultures of Caribbean, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Jamaica is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 1201,
     "lat": 18.25,
     "lng": -77.5,
     "tags": [
@@ -5385,8 +5217,6 @@ const raw: Gen[] = [
     "overview": "Japan is a Eastern Asia nation in Asia, with Tokyo as its capital and home to around 126,529,100 people. The currency is the Japanese yen (JPY). The main language is Japanese. From its landscapes and cities to its cuisine and traditions, Japan offers travelers a distinctive slice of the world to explore.",
     "history": "Japan has a rich history shaped by its position in Asia and the cultures of Eastern Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Japan is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 3957,
     "lat": 36,
     "lng": 138,
     "tags": [
@@ -5448,8 +5278,6 @@ const raw: Gen[] = [
     "overview": "Jordan is a Western Asia nation in Asia, with Amman as its capital and home to around 9,956,011 people. The currency is the Jordanian dinar (JOD). The main language is Arabic. From its landscapes and cities to its cuisine and traditions, Jordan offers travelers a distinctive slice of the world to explore.",
     "history": "Jordan has a rich history shaped by its position in Asia and the cultures of Western Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Jordan is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 6455,
     "lat": 31,
     "lng": 36,
     "tags": [
@@ -5513,8 +5341,6 @@ const raw: Gen[] = [
     "overview": "Kazakhstan is a Central Asia nation in Asia, with Astana as its capital and home to around 18,272,430 people. The currency is the Kazakhstani tenge (KZT). The main languages are Kazakh, Russian. From its landscapes and cities to its cuisine and traditions, Kazakhstan offers travelers a distinctive slice of the world to explore.",
     "history": "Kazakhstan has a rich history shaped by its position in Asia and the cultures of Central Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Kazakhstan is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 9035,
     "lat": 48,
     "lng": 68,
     "tags": [
@@ -5578,8 +5404,6 @@ const raw: Gen[] = [
     "overview": "Kenya is a Eastern Africa nation in Africa, with Nairobi as its capital and home to around 51,393,010 people. The currency is the Kenyan shilling (KES). The main languages are English, Swahili. From its landscapes and cities to its cuisine and traditions, Kenya offers travelers a distinctive slice of the world to explore.",
     "history": "Kenya has a rich history shaped by its position in Africa and the cultures of Eastern Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Kenya is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 7085,
     "lat": 1,
     "lng": 38,
     "tags": [
@@ -5641,8 +5465,6 @@ const raw: Gen[] = [
     "overview": "Kiribati is a Micronesia nation in Oceania, with South Tarawa as its capital and home to around 115,847 people. The currency is the Australian dollar (AUD). The main languages are English, Gilbertese. From its landscapes and cities to its cuisine and traditions, Kiribati offers travelers a distinctive slice of the world to explore.",
     "history": "Kiribati has a rich history shaped by its position in Oceania and the cultures of Micronesia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Kiribati is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 4026,
     "lat": 1.41666666,
     "lng": 173,
     "tags": [
@@ -5705,8 +5527,6 @@ const raw: Gen[] = [
     "overview": "Kuwait is a Western Asia nation in Asia, with Kuwait City as its capital and home to around 4,137,309 people. The currency is the Kuwaiti dinar (KWD). The main language is Arabic. From its landscapes and cities to its cuisine and traditions, Kuwait offers travelers a distinctive slice of the world to explore.",
     "history": "Kuwait has a rich history shaped by its position in Asia and the cultures of Western Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Kuwait is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 6120,
     "lat": 29.5,
     "lng": 45.75,
     "tags": [
@@ -5769,8 +5589,6 @@ const raw: Gen[] = [
     "overview": "Kyrgyzstan is a Central Asia nation in Asia, with Bishkek as its capital and home to around 6,322,800 people. The currency is the Kyrgyzstani som (KGS). The main languages are Kyrgyz, Russian. From its landscapes and cities to its cuisine and traditions, Kyrgyzstan offers travelers a distinctive slice of the world to explore.",
     "history": "Kyrgyzstan has a rich history shaped by its position in Asia and the cultures of Central Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Kyrgyzstan is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 935,
     "lat": 41,
     "lng": 75,
     "tags": [
@@ -5831,8 +5649,6 @@ const raw: Gen[] = [
     "overview": "Laos is a South-Eastern Asia nation in Asia, with Vientiane as its capital and home to around 7,061,507 people. The currency is the Lao kip (LAK). The main language is Lao. From its landscapes and cities to its cuisine and traditions, Laos offers travelers a distinctive slice of the world to explore.",
     "history": "Laos has a rich history shaped by its position in Asia and the cultures of South-Eastern Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Laos is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 5320,
     "lat": 18,
     "lng": 105,
     "tags": [
@@ -5895,8 +5711,6 @@ const raw: Gen[] = [
     "overview": "Latvia is a Northern Europe nation in Europe, with Riga as its capital and home to around 1,927,174 people. The currency is the Euro (EUR). The main language is Latvian. From its landscapes and cities to its cuisine and traditions, Latvia offers travelers a distinctive slice of the world to explore.",
     "history": "Latvia has a rich history shaped by its position in Europe and the cultures of Northern Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Latvia is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 6310,
     "lat": 57,
     "lng": 25,
     "tags": [
@@ -5958,8 +5772,6 @@ const raw: Gen[] = [
     "overview": "Lebanon is a Western Asia nation in Asia, with Beirut as its capital and home to around 6,848,925 people. The currency is the Lebanese pound (LBP). The main languages are Arabic, French. From its landscapes and cities to its cuisine and traditions, Lebanon offers travelers a distinctive slice of the world to explore.",
     "history": "Lebanon has a rich history shaped by its position in Asia and the cultures of Western Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Lebanon is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 4958,
     "lat": 33.83333333,
     "lng": 35.83333333,
     "tags": [
@@ -6023,8 +5835,6 @@ const raw: Gen[] = [
     "overview": "Lesotho is a Southern Africa nation in Africa, with Maseru as its capital and home to around 2,108,132 people. The currency is the Lesotho loti (LSL). The main languages are English, Sotho. From its landscapes and cities to its cuisine and traditions, Lesotho offers travelers a distinctive slice of the world to explore.",
     "history": "Lesotho has a rich history shaped by its position in Africa and the cultures of Southern Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Lesotho is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 9091,
     "lat": -29.5,
     "lng": 28.5,
     "tags": [
@@ -6087,8 +5897,6 @@ const raw: Gen[] = [
     "overview": "Liberia is a Western Africa nation in Africa, with Monrovia as its capital and home to around 4,818,977 people. The currency is the Liberian dollar (LRD). The main language is English. From its landscapes and cities to its cuisine and traditions, Liberia offers travelers a distinctive slice of the world to explore.",
     "history": "Liberia has a rich history shaped by its position in Africa and the cultures of Western Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Liberia is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 5411,
     "lat": 6.5,
     "lng": -9.5,
     "tags": [
@@ -6150,8 +5958,6 @@ const raw: Gen[] = [
     "overview": "Libya is a Northern Africa nation in Africa, with Tripoli as its capital and home to around 6,678,567 people. The currency is the Libyan dinar (LYD). The main language is Arabic. From its landscapes and cities to its cuisine and traditions, Libya offers travelers a distinctive slice of the world to explore.",
     "history": "Libya has a rich history shaped by its position in Africa and the cultures of Northern Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Libya is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 1650,
     "lat": 25,
     "lng": 17,
     "tags": [
@@ -6214,8 +6020,6 @@ const raw: Gen[] = [
     "overview": "Liechtenstein is a Western Europe nation in Europe, with Vaduz as its capital and home to around 37,910 people. The currency is the Swiss franc (CHF). The main language is German. From its landscapes and cities to its cuisine and traditions, Liechtenstein offers travelers a distinctive slice of the world to explore.",
     "history": "Liechtenstein has a rich history shaped by its position in Europe and the cultures of Western Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Liechtenstein is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 8702,
     "lat": 47.26666666,
     "lng": 9.53333333,
     "tags": [
@@ -6278,8 +6082,6 @@ const raw: Gen[] = [
     "overview": "Lithuania is a Northern Europe nation in Europe, with Vilnius as its capital and home to around 2,801,543 people. The currency is the Euro (EUR). The main language is Lithuanian. From its landscapes and cities to its cuisine and traditions, Lithuania offers travelers a distinctive slice of the world to explore.",
     "history": "Lithuania has a rich history shaped by its position in Europe and the cultures of Northern Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Lithuania is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.6,
-    "reviews": 5932,
     "lat": 56,
     "lng": 24,
     "tags": [
@@ -6344,8 +6146,6 @@ const raw: Gen[] = [
     "overview": "Luxembourg is a Western Europe nation in Europe, with Luxembourg as its capital and home to around 607,950 people. The currency is the Euro (EUR). The main languages are German, French, Luxembourgish. From its landscapes and cities to its cuisine and traditions, Luxembourg offers travelers a distinctive slice of the world to explore.",
     "history": "Luxembourg has a rich history shaped by its position in Europe and the cultures of Western Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Luxembourg is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.3,
-    "reviews": 8425,
     "lat": 49.75,
     "lng": 6.16666666,
     "tags": [
@@ -6409,8 +6209,6 @@ const raw: Gen[] = [
     "overview": "Madagascar is a Eastern Africa nation in Africa, with Antananarivo as its capital and home to around 26,262,368 people. The currency is the Malagasy ariary (MGA). The main languages are French, Malagasy. From its landscapes and cities to its cuisine and traditions, Madagascar offers travelers a distinctive slice of the world to explore.",
     "history": "Madagascar has a rich history shaped by its position in Africa and the cultures of Eastern Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Madagascar is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 8133,
     "lat": -20,
     "lng": 47,
     "tags": [
@@ -6472,8 +6270,6 @@ const raw: Gen[] = [
     "overview": "Malawi is a Eastern Africa nation in Africa, with Lilongwe as its capital and home to around 18,143,315 people. The currency is the Malawian kwacha (MWK). The main languages are English, Chewa. From its landscapes and cities to its cuisine and traditions, Malawi offers travelers a distinctive slice of the world to explore.",
     "history": "Malawi has a rich history shaped by its position in Africa and the cultures of Eastern Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Malawi is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 7480,
     "lat": -13.5,
     "lng": 34,
     "tags": [
@@ -6536,8 +6332,6 @@ const raw: Gen[] = [
     "overview": "Malaysia is a South-Eastern Asia nation in Asia, with Kuala Lumpur as its capital and home to around 31,528,585 people. The currency is the Malaysian ringgit (MYR). The main languages are English, Malay. From its landscapes and cities to its cuisine and traditions, Malaysia offers travelers a distinctive slice of the world to explore.",
     "history": "Malaysia has a rich history shaped by its position in Asia and the cultures of South-Eastern Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Malaysia is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.6,
-    "reviews": 4374,
     "lat": 2.5,
     "lng": 112.5,
     "tags": [
@@ -6599,8 +6393,6 @@ const raw: Gen[] = [
     "overview": "Maldives is a Southern Asia nation in Asia, with Malé as its capital and home to around 515,696 people. The currency is the Maldivian rufiyaa (MVR). The main language is Maldivian. From its landscapes and cities to its cuisine and traditions, Maldives offers travelers a distinctive slice of the world to explore.",
     "history": "Maldives has a rich history shaped by its position in Asia and the cultures of Southern Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Maldives is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 2676,
     "lat": 3.25,
     "lng": 73,
     "tags": [
@@ -6663,8 +6455,6 @@ const raw: Gen[] = [
     "overview": "Mali is a Western Africa nation in Africa, with Bamako as its capital and home to around 19,077,690 people. The currency is the West African CFA franc (XOF). The main language is French. From its landscapes and cities to its cuisine and traditions, Mali offers travelers a distinctive slice of the world to explore.",
     "history": "Mali has a rich history shaped by its position in Africa and the cultures of Western Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Mali is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 3004,
     "lat": 17,
     "lng": -4,
     "tags": [
@@ -6726,8 +6516,6 @@ const raw: Gen[] = [
     "overview": "Malta is a Southern Europe nation in Europe, with Valletta as its capital and home to around 484,630 people. The currency is the Euro (EUR). The main languages are English, Maltese. From its landscapes and cities to its cuisine and traditions, Malta offers travelers a distinctive slice of the world to explore.",
     "history": "Malta has a rich history shaped by its position in Europe and the cultures of Southern Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Malta is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 8130,
     "lat": 35.83333333,
     "lng": 14.58333333,
     "tags": [
@@ -6790,8 +6578,6 @@ const raw: Gen[] = [
     "overview": "Marshall Islands is a Micronesia nation in Oceania, with Majuro as its capital and home to around 58,413 people. The currency is the United States dollar (USD). The main languages are English, Marshallese. From its landscapes and cities to its cuisine and traditions, Marshall Islands offers travelers a distinctive slice of the world to explore.",
     "history": "Marshall Islands has a rich history shaped by its position in Oceania and the cultures of Micronesia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Marshall Islands is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 5220,
     "lat": 9,
     "lng": 168,
     "tags": [
@@ -6852,8 +6638,6 @@ const raw: Gen[] = [
     "overview": "Mauritania is a Western Africa nation in Africa, with Nouakchott as its capital and home to around 4,403,319 people. The currency is the Mauritanian ouguiya (MRU). The main language is Arabic. From its landscapes and cities to its cuisine and traditions, Mauritania offers travelers a distinctive slice of the world to explore.",
     "history": "Mauritania has a rich history shaped by its position in Africa and the cultures of Western Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Mauritania is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 1684,
     "lat": 20,
     "lng": -12,
     "tags": [
@@ -6917,8 +6701,6 @@ const raw: Gen[] = [
     "overview": "Mauritius is a Eastern Africa nation in Africa, with Port Louis as its capital and home to around 1,265,303 people. The currency is the Mauritian rupee (MUR). The main languages are English, French, Mauritian Creole. From its landscapes and cities to its cuisine and traditions, Mauritius offers travelers a distinctive slice of the world to explore.",
     "history": "Mauritius has a rich history shaped by its position in Africa and the cultures of Eastern Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Mauritius is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 8232,
     "lat": -20.28333333,
     "lng": 57.55,
     "tags": [
@@ -6981,8 +6763,6 @@ const raw: Gen[] = [
     "overview": "Mexico is a North America nation in Americas, with Mexico City as its capital and home to around 126,190,788 people. The currency is the Mexican peso (MXN). The main language is Spanish. From its landscapes and cities to its cuisine and traditions, Mexico offers travelers a distinctive slice of the world to explore.",
     "history": "Mexico has a rich history shaped by its position in Americas and the cultures of North America, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Mexico is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 4446,
     "lat": 23,
     "lng": -102,
     "tags": [
@@ -7044,8 +6824,6 @@ const raw: Gen[] = [
     "overview": "Micronesia is a Micronesia nation in Oceania, with Palikir as its capital and a captivating destination. The main language is English. From its landscapes and cities to its cuisine and traditions, Micronesia offers travelers a distinctive slice of the world to explore.",
     "history": "Micronesia has a rich history shaped by its position in Oceania and the cultures of Micronesia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Micronesia is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 6999,
     "lat": 6.91666666,
     "lng": 158.25,
     "tags": [
@@ -7106,8 +6884,6 @@ const raw: Gen[] = [
     "overview": "Moldova is a Eastern Europe nation in Europe, with Chișinău as its capital and home to around 2,706,049 people. The currency is the Moldovan leu (MDL). The main language is Moldavian. From its landscapes and cities to its cuisine and traditions, Moldova offers travelers a distinctive slice of the world to explore.",
     "history": "Moldova has a rich history shaped by its position in Europe and the cultures of Eastern Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Moldova is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 2821,
     "lat": 47,
     "lng": 29,
     "tags": [
@@ -7170,8 +6946,6 @@ const raw: Gen[] = [
     "overview": "Monaco is a Western Europe nation in Europe, with Monaco as its capital and home to around 38,682 people. The currency is the Euro (EUR). The main language is French. From its landscapes and cities to its cuisine and traditions, Monaco offers travelers a distinctive slice of the world to explore.",
     "history": "Monaco has a rich history shaped by its position in Europe and the cultures of Western Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Monaco is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.6,
-    "reviews": 5034,
     "lat": 43.73333333,
     "lng": 7.4,
     "tags": [
@@ -7234,8 +7008,6 @@ const raw: Gen[] = [
     "overview": "Mongolia is a Eastern Asia nation in Asia, with Ulan Bator as its capital and home to around 3,170,208 people. The currency is the Mongolian tögrög (MNT). The main language is Mongolian. From its landscapes and cities to its cuisine and traditions, Mongolia offers travelers a distinctive slice of the world to explore.",
     "history": "Mongolia has a rich history shaped by its position in Asia and the cultures of Eastern Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Mongolia is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 2741,
     "lat": 46,
     "lng": 105,
     "tags": [
@@ -7297,8 +7069,6 @@ const raw: Gen[] = [
     "overview": "Montenegro is a Southeast Europe nation in Europe, with Podgorica as its capital and home to around 631,219 people. The currency is the Euro (EUR). The main language is Montenegrin. From its landscapes and cities to its cuisine and traditions, Montenegro offers travelers a distinctive slice of the world to explore.",
     "history": "Montenegro has a rich history shaped by its position in Europe and the cultures of Southeast Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Montenegro is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 4347,
     "lat": 42.5,
     "lng": 19.3,
     "tags": [
@@ -7361,8 +7131,6 @@ const raw: Gen[] = [
     "overview": "Morocco is a Northern Africa nation in Africa, with Rabat as its capital and home to around 36,029,138 people. The currency is the Moroccan dirham (MAD). The main languages are Arabic, Berber. From its landscapes and cities to its cuisine and traditions, Morocco offers travelers a distinctive slice of the world to explore.",
     "history": "Morocco has a rich history shaped by its position in Africa and the cultures of Northern Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Morocco is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 8529,
     "lat": 32,
     "lng": -5,
     "tags": [
@@ -7423,8 +7191,6 @@ const raw: Gen[] = [
     "overview": "Mozambique is a Eastern Africa nation in Africa, with Maputo as its capital and home to around 29,495,962 people. The currency is the Mozambican metical (MZN). The main language is Portuguese. From its landscapes and cities to its cuisine and traditions, Mozambique offers travelers a distinctive slice of the world to explore.",
     "history": "Mozambique has a rich history shaped by its position in Africa and the cultures of Eastern Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Mozambique is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.6,
-    "reviews": 2151,
     "lat": -18.25,
     "lng": 35,
     "tags": [
@@ -7487,8 +7253,6 @@ const raw: Gen[] = [
     "overview": "Myanmar is a South-Eastern Asia nation in Asia, with Naypyidaw as its capital and home to around 53,708,395 people. The currency is the Burmese kyat (MMK). The main language is Burmese. From its landscapes and cities to its cuisine and traditions, Myanmar offers travelers a distinctive slice of the world to explore.",
     "history": "Myanmar has a rich history shaped by its position in Asia and the cultures of South-Eastern Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Myanmar is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.3,
-    "reviews": 4464,
     "lat": 22,
     "lng": 98,
     "tags": [
@@ -7558,8 +7322,6 @@ const raw: Gen[] = [
     "overview": "Namibia is a Southern Africa nation in Africa, with Windhoek as its capital and home to around 2,448,255 people. The currency is the Namibian dollar (NAD). The main languages are Afrikaans, German, English. From its landscapes and cities to its cuisine and traditions, Namibia offers travelers a distinctive slice of the world to explore.",
     "history": "Namibia has a rich history shaped by its position in Africa and the cultures of Southern Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Namibia is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 3782,
     "lat": -22,
     "lng": 17,
     "tags": [
@@ -7623,8 +7385,6 @@ const raw: Gen[] = [
     "overview": "Nauru is a Micronesia nation in Oceania, with Yaren as its capital and home to around 12,704 people. The currency is the Australian dollar (AUD). The main languages are English, Nauru. From its landscapes and cities to its cuisine and traditions, Nauru offers travelers a distinctive slice of the world to explore.",
     "history": "Nauru has a rich history shaped by its position in Oceania and the cultures of Micronesia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Nauru is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 4450,
     "lat": -0.53333333,
     "lng": 166.91666666,
     "tags": [
@@ -7685,8 +7445,6 @@ const raw: Gen[] = [
     "overview": "Nepal is a Southern Asia nation in Asia, with Kathmandu as its capital and home to around 28,087,871 people. The currency is the Nepalese rupee (NPR). The main language is Nepali. From its landscapes and cities to its cuisine and traditions, Nepal offers travelers a distinctive slice of the world to explore.",
     "history": "Nepal has a rich history shaped by its position in Asia and the cultures of Southern Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Nepal is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 4409,
     "lat": 28,
     "lng": 84,
     "tags": [
@@ -7749,8 +7507,6 @@ const raw: Gen[] = [
     "overview": "Netherlands is a Western Europe nation in Europe, with Amsterdam as its capital and home to around 17,231,624 people. The currency is the Euro (EUR). The main language is Dutch. From its landscapes and cities to its cuisine and traditions, Netherlands offers travelers a distinctive slice of the world to explore.",
     "history": "Netherlands has a rich history shaped by its position in Europe and the cultures of Western Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Netherlands is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.6,
-    "reviews": 5989,
     "lat": 52.5,
     "lng": 5.75,
     "tags": [
@@ -7813,8 +7569,6 @@ const raw: Gen[] = [
     "overview": "New Zealand is a Australia and New Zealand nation in Oceania, with Wellington as its capital and home to around 4,841,000 people. The currency is the New Zealand dollar (NZD). The main languages are English, Māori, New Zealand Sign Language. From its landscapes and cities to its cuisine and traditions, New Zealand offers travelers a distinctive slice of the world to explore.",
     "history": "New Zealand has a rich history shaped by its position in Oceania and the cultures of Australia and New Zealand, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in New Zealand is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.3,
-    "reviews": 1521,
     "lat": -41,
     "lng": 174,
     "tags": [
@@ -7876,8 +7630,6 @@ const raw: Gen[] = [
     "overview": "Nicaragua is a Central America nation in Americas, with Managua as its capital and home to around 6,465,513 people. The currency is the Nicaraguan córdoba (NIO). The main language is Spanish. From its landscapes and cities to its cuisine and traditions, Nicaragua offers travelers a distinctive slice of the world to explore.",
     "history": "Nicaragua has a rich history shaped by its position in Americas and the cultures of Central America, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Nicaragua is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 8520,
     "lat": 13,
     "lng": -85,
     "tags": [
@@ -7939,8 +7691,6 @@ const raw: Gen[] = [
     "overview": "Niger is a Western Africa nation in Africa, with Niamey as its capital and home to around 22,442,948 people. The currency is the West African CFA franc (XOF). The main language is French. From its landscapes and cities to its cuisine and traditions, Niger offers travelers a distinctive slice of the world to explore.",
     "history": "Niger has a rich history shaped by its position in Africa and the cultures of Western Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Niger is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 4122,
     "lat": 16,
     "lng": 8,
     "tags": [
@@ -8002,8 +7752,6 @@ const raw: Gen[] = [
     "overview": "Nigeria is a Western Africa nation in Africa, with Abuja as its capital and home to around 195,874,740 people. The currency is the Nigerian naira (NGN). The main language is English. From its landscapes and cities to its cuisine and traditions, Nigeria offers travelers a distinctive slice of the world to explore.",
     "history": "Nigeria has a rich history shaped by its position in Africa and the cultures of Western Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Nigeria is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 7812,
     "lat": 10,
     "lng": 8,
     "tags": [
@@ -8065,8 +7813,6 @@ const raw: Gen[] = [
     "overview": "North Korea is a Eastern Asia nation in Asia, with Pyongyang as its capital and home to around 25,549,819 people. The currency is the North Korean won (KPW). The main language is Korean. From its landscapes and cities to its cuisine and traditions, North Korea offers travelers a distinctive slice of the world to explore.",
     "history": "North Korea has a rich history shaped by its position in Asia and the cultures of Eastern Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in North Korea is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 3627,
     "lat": 40,
     "lng": 127,
     "tags": [
@@ -8128,8 +7874,6 @@ const raw: Gen[] = [
     "overview": "North Macedonia is a Southeast Europe nation in Europe, with Skopje as its capital and home to around 2,084,367 people. The currency is the denar (MKD). The main language is Macedonian. From its landscapes and cities to its cuisine and traditions, North Macedonia offers travelers a distinctive slice of the world to explore.",
     "history": "North Macedonia has a rich history shaped by its position in Europe and the cultures of Southeast Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in North Macedonia is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.3,
-    "reviews": 7040,
     "lat": 41.83333333,
     "lng": 22,
     "tags": [
@@ -8194,8 +7938,6 @@ const raw: Gen[] = [
     "overview": "Norway is a Northern Europe nation in Europe, with Oslo as its capital and home to around 5,311,916 people. The currency is the Norwegian krone (NOK). The main languages are Norwegian Nynorsk, Norwegian Bokmål, Sami. From its landscapes and cities to its cuisine and traditions, Norway offers travelers a distinctive slice of the world to explore.",
     "history": "Norway has a rich history shaped by its position in Europe and the cultures of Northern Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Norway is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.6,
-    "reviews": 1015,
     "lat": 62,
     "lng": 10,
     "tags": [
@@ -8258,8 +8000,6 @@ const raw: Gen[] = [
     "overview": "Oman is a Western Asia nation in Asia, with Muscat as its capital and home to around 4,829,483 people. The currency is the Omani rial (OMR). The main language is Arabic. From its landscapes and cities to its cuisine and traditions, Oman offers travelers a distinctive slice of the world to explore.",
     "history": "Oman has a rich history shaped by its position in Asia and the cultures of Western Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Oman is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 1510,
     "lat": 21,
     "lng": 57,
     "tags": [
@@ -8323,8 +8063,6 @@ const raw: Gen[] = [
     "overview": "Pakistan is a Southern Asia nation in Asia, with Islamabad as its capital and home to around 212,215,030 people. The currency is the Pakistani rupee (PKR). The main languages are English, Urdu. From its landscapes and cities to its cuisine and traditions, Pakistan offers travelers a distinctive slice of the world to explore.",
     "history": "Pakistan has a rich history shaped by its position in Asia and the cultures of Southern Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Pakistan is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.3,
-    "reviews": 2662,
     "lat": 30,
     "lng": 70,
     "tags": [
@@ -8388,8 +8126,6 @@ const raw: Gen[] = [
     "overview": "Palau is a Micronesia nation in Oceania, with Ngerulmud as its capital and home to around 17,907 people. The currency is the United States dollar (USD). The main languages are English, Palauan. From its landscapes and cities to its cuisine and traditions, Palau offers travelers a distinctive slice of the world to explore.",
     "history": "Palau has a rich history shaped by its position in Oceania and the cultures of Micronesia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Palau is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 5316,
     "lat": 7.5,
     "lng": 134.5,
     "tags": [
@@ -8452,8 +8188,6 @@ const raw: Gen[] = [
     "overview": "Panama is a Central America nation in Americas, with Panama City as its capital and home to around 4,176,873 people. The currency is the Panamanian balboa (PAB). The main language is Spanish. From its landscapes and cities to its cuisine and traditions, Panama offers travelers a distinctive slice of the world to explore.",
     "history": "Panama has a rich history shaped by its position in Americas and the cultures of Central America, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Panama is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.6,
-    "reviews": 1251,
     "lat": 9,
     "lng": -80,
     "tags": [
@@ -8517,8 +8251,6 @@ const raw: Gen[] = [
     "overview": "Papua New Guinea is a Melanesia nation in Oceania, with Port Moresby as its capital and home to around 8,606,316 people. The currency is the Papua New Guinean kina (PGK). The main languages are English, Hiri Motu, Tok Pisin. From its landscapes and cities to its cuisine and traditions, Papua New Guinea offers travelers a distinctive slice of the world to explore.",
     "history": "Papua New Guinea has a rich history shaped by its position in Oceania and the cultures of Melanesia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Papua New Guinea is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.9,
-    "reviews": 2357,
     "lat": -6,
     "lng": 147,
     "tags": [
@@ -8580,8 +8312,6 @@ const raw: Gen[] = [
     "overview": "Paraguay is a South America nation in Americas, with Asunción as its capital and home to around 6,956,071 people. The currency is the Paraguayan guaraní (PYG). The main languages are Guaraní, Spanish. From its landscapes and cities to its cuisine and traditions, Paraguay offers travelers a distinctive slice of the world to explore.",
     "history": "Paraguay has a rich history shaped by its position in Americas and the cultures of South America, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Paraguay is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 4843,
     "lat": -23,
     "lng": -58,
     "tags": [
@@ -8644,8 +8374,6 @@ const raw: Gen[] = [
     "overview": "Peru is a South America nation in Americas, with Lima as its capital and home to around 31,989,256 people. The currency is the Peruvian sol (PEN). The main languages are Aymara, Quechua, Spanish. From its landscapes and cities to its cuisine and traditions, Peru offers travelers a distinctive slice of the world to explore.",
     "history": "Peru has a rich history shaped by its position in Americas and the cultures of South America, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Peru is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.3,
-    "reviews": 3325,
     "lat": -10,
     "lng": -76,
     "tags": [
@@ -8706,8 +8434,6 @@ const raw: Gen[] = [
     "overview": "Philippines is a South-Eastern Asia nation in Asia, with Manila as its capital and home to around 106,651,922 people. The currency is the Philippine peso (PHP). The main languages are English, Filipino. From its landscapes and cities to its cuisine and traditions, Philippines offers travelers a distinctive slice of the world to explore.",
     "history": "Philippines has a rich history shaped by its position in Asia and the cultures of South-Eastern Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Philippines is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 7228,
     "lat": 13,
     "lng": 122,
     "tags": [
@@ -8770,8 +8496,6 @@ const raw: Gen[] = [
     "overview": "Poland is a Central Europe nation in Europe, with Warsaw as its capital and home to around 37,974,750 people. The currency is the Polish złoty (PLN). The main language is Polish. From its landscapes and cities to its cuisine and traditions, Poland offers travelers a distinctive slice of the world to explore.",
     "history": "Poland has a rich history shaped by its position in Europe and the cultures of Central Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Poland is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.6,
-    "reviews": 9469,
     "lat": 52,
     "lng": 20,
     "tags": [
@@ -8834,8 +8558,6 @@ const raw: Gen[] = [
     "overview": "Portugal is a Southern Europe nation in Europe, with Lisbon as its capital and home to around 10,283,822 people. The currency is the Euro (EUR). The main language is Portuguese. From its landscapes and cities to its cuisine and traditions, Portugal offers travelers a distinctive slice of the world to explore.",
     "history": "Portugal has a rich history shaped by its position in Europe and the cultures of Southern Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Portugal is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 6135,
     "lat": 39.5,
     "lng": -8,
     "tags": [
@@ -8896,8 +8618,6 @@ const raw: Gen[] = [
     "overview": "Qatar is a Western Asia nation in Asia, with Doha as its capital and home to around 2,781,677 people. The currency is the Qatari riyal (QAR). The main language is Arabic. From its landscapes and cities to its cuisine and traditions, Qatar offers travelers a distinctive slice of the world to explore.",
     "history": "Qatar has a rich history shaped by its position in Asia and the cultures of Western Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Qatar is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.6,
-    "reviews": 2926,
     "lat": 25.5,
     "lng": 51.25,
     "tags": [
@@ -8959,8 +8679,6 @@ const raw: Gen[] = [
     "overview": "Romania is a Southeast Europe nation in Europe, with Bucharest as its capital and home to around 19,466,145 people. The currency is the Romanian leu (RON). The main language is Romanian. From its landscapes and cities to its cuisine and traditions, Romania offers travelers a distinctive slice of the world to explore.",
     "history": "Romania has a rich history shaped by its position in Europe and the cultures of Southeast Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Romania is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 3208,
     "lat": 46,
     "lng": 25,
     "tags": [
@@ -9023,8 +8741,6 @@ const raw: Gen[] = [
     "overview": "Russia is a Eastern Europe nation in Europe, with Moscow as its capital and home to around 144,478,050 people. The currency is the Russian ruble (RUB). The main language is Russian. From its landscapes and cities to its cuisine and traditions, Russia offers travelers a distinctive slice of the world to explore.",
     "history": "Russia has a rich history shaped by its position in Europe and the cultures of Eastern Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Russia is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 8372,
     "lat": 60,
     "lng": 100,
     "tags": [
@@ -9089,8 +8805,6 @@ const raw: Gen[] = [
     "overview": "Rwanda is a Eastern Africa nation in Africa, with Kigali as its capital and home to around 12,301,939 people. The currency is the Rwandan franc (RWF). The main languages are English, French, Kinyarwanda. From its landscapes and cities to its cuisine and traditions, Rwanda offers travelers a distinctive slice of the world to explore.",
     "history": "Rwanda has a rich history shaped by its position in Africa and the cultures of Eastern Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Rwanda is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 1958,
     "lat": -2,
     "lng": 30,
     "tags": [
@@ -9153,8 +8867,6 @@ const raw: Gen[] = [
     "overview": "Saint Kitts and Nevis is a Caribbean nation in Americas, with Basseterre as its capital and home to around 52,441 people. The currency is the Eastern Caribbean dollar (XCD). The main language is English. From its landscapes and cities to its cuisine and traditions, Saint Kitts and Nevis offers travelers a distinctive slice of the world to explore.",
     "history": "Saint Kitts and Nevis has a rich history shaped by its position in Americas and the cultures of Caribbean, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Saint Kitts and Nevis is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.6,
-    "reviews": 7070,
     "lat": 17.33333333,
     "lng": -62.75,
     "tags": [
@@ -9216,8 +8928,6 @@ const raw: Gen[] = [
     "overview": "Saint Lucia is a Caribbean nation in Americas, with Castries as its capital and home to around 181,889 people. The currency is the Eastern Caribbean dollar (XCD). The main language is English. From its landscapes and cities to its cuisine and traditions, Saint Lucia offers travelers a distinctive slice of the world to explore.",
     "history": "Saint Lucia has a rich history shaped by its position in Americas and the cultures of Caribbean, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Saint Lucia is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 5315,
     "lat": 13.88333333,
     "lng": -60.96666666,
     "tags": [
@@ -9280,8 +8990,6 @@ const raw: Gen[] = [
     "overview": "Saint Vincent and the Grenadines is a Caribbean nation in Americas, with Kingstown as its capital and home to around 110,210 people. The currency is the Eastern Caribbean dollar (XCD). The main language is English. From its landscapes and cities to its cuisine and traditions, Saint Vincent and the Grenadines offers travelers a distinctive slice of the world to explore.",
     "history": "Saint Vincent and the Grenadines has a rich history shaped by its position in Americas and the cultures of Caribbean, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Saint Vincent and the Grenadines is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 5079,
     "lat": 13.25,
     "lng": -61.2,
     "tags": [
@@ -9345,8 +9053,6 @@ const raw: Gen[] = [
     "overview": "Samoa is a Polynesia nation in Oceania, with Apia as its capital and home to around 196,130 people. The currency is the Samoan tālā (WST). The main languages are English, Samoan. From its landscapes and cities to its cuisine and traditions, Samoa offers travelers a distinctive slice of the world to explore.",
     "history": "Samoa has a rich history shaped by its position in Oceania and the cultures of Polynesia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Samoa is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 3248,
     "lat": -13.58333333,
     "lng": -172.33333333,
     "tags": [
@@ -9408,8 +9114,6 @@ const raw: Gen[] = [
     "overview": "San Marino is a Southern Europe nation in Europe, with City of San Marino as its capital and home to around 33,785 people. The currency is the Euro (EUR). The main language is Italian. From its landscapes and cities to its cuisine and traditions, San Marino offers travelers a distinctive slice of the world to explore.",
     "history": "San Marino has a rich history shaped by its position in Europe and the cultures of Southern Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in San Marino is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 1472,
     "lat": 43.76666666,
     "lng": 12.41666666,
     "tags": [
@@ -9471,8 +9175,6 @@ const raw: Gen[] = [
     "overview": "São Tomé and Príncipe is a Middle Africa nation in Africa, with São Tomé as its capital and a captivating destination. The currency is the São Tomé and Príncipe dobra (STN). The main language is Portuguese. From its landscapes and cities to its cuisine and traditions, São Tomé and Príncipe offers travelers a distinctive slice of the world to explore.",
     "history": "São Tomé and Príncipe has a rich history shaped by its position in Africa and the cultures of Middle Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in São Tomé and Príncipe is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 6705,
     "lat": 1,
     "lng": 7,
     "tags": [
@@ -9534,8 +9236,6 @@ const raw: Gen[] = [
     "overview": "Saudi Arabia is a Western Asia nation in Asia, with Riyadh as its capital and home to around 33,699,947 people. The currency is the Saudi riyal (SAR). The main language is Arabic. From its landscapes and cities to its cuisine and traditions, Saudi Arabia offers travelers a distinctive slice of the world to explore.",
     "history": "Saudi Arabia has a rich history shaped by its position in Asia and the cultures of Western Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Saudi Arabia is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.9,
-    "reviews": 2476,
     "lat": 25,
     "lng": 45,
     "tags": [
@@ -9595,8 +9295,6 @@ const raw: Gen[] = [
     "overview": "Senegal is a Western Africa nation in Africa, with Dakar as its capital and home to around 15,854,360 people. The currency is the West African CFA franc (XOF). The main language is French. From its landscapes and cities to its cuisine and traditions, Senegal offers travelers a distinctive slice of the world to explore.",
     "history": "Senegal has a rich history shaped by its position in Africa and the cultures of Western Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Senegal is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 4924,
     "lat": 14,
     "lng": -14,
     "tags": [
@@ -9658,8 +9356,6 @@ const raw: Gen[] = [
     "overview": "Serbia is a Southeast Europe nation in Europe, with Belgrade as its capital and home to around 6,963,764 people. The currency is the Serbian dinar (RSD). The main language is Serbian. From its landscapes and cities to its cuisine and traditions, Serbia offers travelers a distinctive slice of the world to explore.",
     "history": "Serbia has a rich history shaped by its position in Europe and the cultures of Southeast Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Serbia is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 5561,
     "lat": 44,
     "lng": 21,
     "tags": [
@@ -9721,8 +9417,6 @@ const raw: Gen[] = [
     "overview": "Seychelles is a Eastern Africa nation in Africa, with Victoria as its capital and home to around 96,762 people. The currency is the Seychellois rupee (SCR). The main languages are Seychellois Creole, English, French. From its landscapes and cities to its cuisine and traditions, Seychelles offers travelers a distinctive slice of the world to explore.",
     "history": "Seychelles has a rich history shaped by its position in Africa and the cultures of Eastern Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Seychelles is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 8042,
     "lat": -4.58333333,
     "lng": 55.66666666,
     "tags": [
@@ -9785,8 +9479,6 @@ const raw: Gen[] = [
     "overview": "Sierra Leone is a Western Africa nation in Africa, with Freetown as its capital and home to around 7,650,154 people. The currency is the Sierra Leonean leone (SLE). The main language is English. From its landscapes and cities to its cuisine and traditions, Sierra Leone offers travelers a distinctive slice of the world to explore.",
     "history": "Sierra Leone has a rich history shaped by its position in Africa and the cultures of Western Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Sierra Leone is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 2551,
     "lat": 8.5,
     "lng": -11.5,
     "tags": [
@@ -9852,8 +9544,6 @@ const raw: Gen[] = [
     "overview": "Singapore is a South-Eastern Asia nation in Asia, with Singapore as its capital and home to around 5,638,676 people. The currency is the Singapore dollar (SGD). The main languages are English, Malay, Tamil. From its landscapes and cities to its cuisine and traditions, Singapore offers travelers a distinctive slice of the world to explore.",
     "history": "Singapore has a rich history shaped by its position in Asia and the cultures of South-Eastern Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Singapore is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.6,
-    "reviews": 5273,
     "lat": 1.36666666,
     "lng": 103.8,
     "tags": [
@@ -9916,8 +9606,6 @@ const raw: Gen[] = [
     "overview": "Slovakia is a Central Europe nation in Europe, with Bratislava as its capital and home to around 5,446,771 people. The currency is the Euro (EUR). The main language is Slovak. From its landscapes and cities to its cuisine and traditions, Slovakia offers travelers a distinctive slice of the world to explore.",
     "history": "Slovakia has a rich history shaped by its position in Europe and the cultures of Central Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Slovakia is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 4319,
     "lat": 48.66666666,
     "lng": 19.5,
     "tags": [
@@ -9980,8 +9668,6 @@ const raw: Gen[] = [
     "overview": "Slovenia is a Central Europe nation in Europe, with Ljubljana as its capital and home to around 2,073,894 people. The currency is the Euro (EUR). The main language is Slovene. From its landscapes and cities to its cuisine and traditions, Slovenia offers travelers a distinctive slice of the world to explore.",
     "history": "Slovenia has a rich history shaped by its position in Europe and the cultures of Central Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Slovenia is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 5186,
     "lat": 46.11666666,
     "lng": 14.81666666,
     "tags": [
@@ -10043,8 +9729,6 @@ const raw: Gen[] = [
     "overview": "Solomon Islands is a Melanesia nation in Oceania, with Honiara as its capital and home to around 652,858 people. The currency is the Solomon Islands dollar (SBD). The main language is English. From its landscapes and cities to its cuisine and traditions, Solomon Islands offers travelers a distinctive slice of the world to explore.",
     "history": "Solomon Islands has a rich history shaped by its position in Oceania and the cultures of Melanesia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Solomon Islands is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 6665,
     "lat": -8,
     "lng": 159,
     "tags": [
@@ -10107,8 +9791,6 @@ const raw: Gen[] = [
     "overview": "Somalia is a Eastern Africa nation in Africa, with Mogadishu as its capital and home to around 15,008,154 people. The currency is the Somali shilling (SOS). The main languages are Arabic, Somali. From its landscapes and cities to its cuisine and traditions, Somalia offers travelers a distinctive slice of the world to explore.",
     "history": "Somalia has a rich history shaped by its position in Africa and the cultures of Eastern Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Somalia is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 9573,
     "lat": 10,
     "lng": 49,
     "tags": [
@@ -10181,8 +9863,6 @@ const raw: Gen[] = [
     "overview": "South Africa is a Southern Africa nation in Africa, with Pretoria as its capital and home to around 57,779,622 people. The currency is the South African rand (ZAR). The main languages are Afrikaans, English, Southern Ndebele. From its landscapes and cities to its cuisine and traditions, South Africa offers travelers a distinctive slice of the world to explore.",
     "history": "South Africa has a rich history shaped by its position in Africa and the cultures of Southern Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in South Africa is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 967,
     "lat": -29,
     "lng": 24,
     "tags": [
@@ -10244,8 +9924,6 @@ const raw: Gen[] = [
     "overview": "South Korea is a Eastern Asia nation in Asia, with Seoul as its capital and home to around 51,606,633 people. The currency is the South Korean won (KRW). The main language is Korean. From its landscapes and cities to its cuisine and traditions, South Korea offers travelers a distinctive slice of the world to explore.",
     "history": "South Korea has a rich history shaped by its position in Asia and the cultures of Eastern Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in South Korea is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 7083,
     "lat": 37,
     "lng": 127.5,
     "tags": [
@@ -10308,8 +9986,6 @@ const raw: Gen[] = [
     "overview": "South Sudan is a Middle Africa nation in Africa, with Juba as its capital and home to around 10,975,920 people. The currency is the South Sudanese pound (SSP). The main language is English. From its landscapes and cities to its cuisine and traditions, South Sudan offers travelers a distinctive slice of the world to explore.",
     "history": "South Sudan has a rich history shaped by its position in Africa and the cultures of Middle Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in South Sudan is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 6840,
     "lat": 7,
     "lng": 30,
     "tags": [
@@ -10372,8 +10048,6 @@ const raw: Gen[] = [
     "overview": "Spain is a Southern Europe nation in Europe, with Madrid as its capital and home to around 46,796,540 people. The currency is the Euro (EUR). The main language is Spanish. From its landscapes and cities to its cuisine and traditions, Spain offers travelers a distinctive slice of the world to explore.",
     "history": "Spain has a rich history shaped by its position in Europe and the cultures of Southern Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Spain is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 2366,
     "lat": 40,
     "lng": -4,
     "tags": [
@@ -10436,8 +10110,6 @@ const raw: Gen[] = [
     "overview": "Sri Lanka is a Southern Asia nation in Asia, with Colombo as its capital and home to around 21,670,000 people. The currency is the Sri Lankan rupee (LKR). The main languages are Sinhala, Tamil. From its landscapes and cities to its cuisine and traditions, Sri Lanka offers travelers a distinctive slice of the world to explore.",
     "history": "Sri Lanka has a rich history shaped by its position in Asia and the cultures of Southern Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Sri Lanka is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.9,
-    "reviews": 2417,
     "lat": 7,
     "lng": 81,
     "tags": [
@@ -10500,8 +10172,6 @@ const raw: Gen[] = [
     "overview": "Sudan is a Northern Africa nation in Africa, with Khartoum as its capital and home to around 41,801,533 people. The currency is the Sudanese pound (SDG). The main languages are Arabic, English. From its landscapes and cities to its cuisine and traditions, Sudan offers travelers a distinctive slice of the world to explore.",
     "history": "Sudan has a rich history shaped by its position in Africa and the cultures of Northern Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Sudan is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.6,
-    "reviews": 4968,
     "lat": 15,
     "lng": 30,
     "tags": [
@@ -10561,8 +10231,6 @@ const raw: Gen[] = [
     "overview": "Suriname is a South America nation in Americas, with Paramaribo as its capital and home to around 575,991 people. The currency is the Surinamese dollar (SRD). The main language is Dutch. From its landscapes and cities to its cuisine and traditions, Suriname offers travelers a distinctive slice of the world to explore.",
     "history": "Suriname has a rich history shaped by its position in Americas and the cultures of South America, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Suriname is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 6281,
     "lat": 4,
     "lng": -56,
     "tags": [
@@ -10623,8 +10291,6 @@ const raw: Gen[] = [
     "overview": "Sweden is a Northern Europe nation in Europe, with Stockholm as its capital and home to around 10,175,214 people. The currency is the Swedish krona (SEK). The main language is Swedish. From its landscapes and cities to its cuisine and traditions, Sweden offers travelers a distinctive slice of the world to explore.",
     "history": "Sweden has a rich history shaped by its position in Europe and the cultures of Northern Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Sweden is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 2851,
     "lat": 62,
     "lng": 15,
     "tags": [
@@ -10690,8 +10356,6 @@ const raw: Gen[] = [
     "overview": "Switzerland is a Western Europe nation in Europe, with Bern as its capital and home to around 8,513,227 people. The currency is the Swiss franc (CHF). The main languages are French, Swiss German, Italian. From its landscapes and cities to its cuisine and traditions, Switzerland offers travelers a distinctive slice of the world to explore.",
     "history": "Switzerland has a rich history shaped by its position in Europe and the cultures of Western Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Switzerland is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.3,
-    "reviews": 7942,
     "lat": 47,
     "lng": 8,
     "tags": [
@@ -10754,8 +10418,6 @@ const raw: Gen[] = [
     "overview": "Syria is a Western Asia nation in Asia, with Damascus as its capital and home to around 16,906,283 people. The currency is the Syrian pound (SYP). The main language is Arabic. From its landscapes and cities to its cuisine and traditions, Syria offers travelers a distinctive slice of the world to explore.",
     "history": "Syria has a rich history shaped by its position in Asia and the cultures of Western Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Syria is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.9,
-    "reviews": 6619,
     "lat": 35,
     "lng": 38,
     "tags": [
@@ -10819,8 +10481,6 @@ const raw: Gen[] = [
     "overview": "Tajikistan is a Central Asia nation in Asia, with Dushanbe as its capital and home to around 9,100,837 people. The currency is the Tajikistani somoni (TJS). The main languages are Russian, Tajik. From its landscapes and cities to its cuisine and traditions, Tajikistan offers travelers a distinctive slice of the world to explore.",
     "history": "Tajikistan has a rich history shaped by its position in Asia and the cultures of Central Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Tajikistan is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 6631,
     "lat": 39,
     "lng": 71,
     "tags": [
@@ -10883,8 +10543,6 @@ const raw: Gen[] = [
     "overview": "Tanzania is a Eastern Africa nation in Africa, with Dodoma as its capital and home to around 56,318,348 people. The currency is the Tanzanian shilling (TZS). The main languages are English, Swahili. From its landscapes and cities to its cuisine and traditions, Tanzania offers travelers a distinctive slice of the world to explore.",
     "history": "Tanzania has a rich history shaped by its position in Africa and the cultures of Eastern Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Tanzania is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.6,
-    "reviews": 2755,
     "lat": -6,
     "lng": 35,
     "tags": [
@@ -10945,8 +10603,6 @@ const raw: Gen[] = [
     "overview": "Thailand is a South-Eastern Asia nation in Asia, with Bangkok as its capital and home to around 69,428,524 people. The currency is the Thai baht (THB). The main language is Thai. From its landscapes and cities to its cuisine and traditions, Thailand offers travelers a distinctive slice of the world to explore.",
     "history": "Thailand has a rich history shaped by its position in Asia and the cultures of South-Eastern Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Thailand is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.6,
-    "reviews": 7674,
     "lat": 15,
     "lng": 100,
     "tags": [
@@ -11010,8 +10666,6 @@ const raw: Gen[] = [
     "overview": "Timor-Leste is a South-Eastern Asia nation in Asia, with Dili as its capital and a captivating destination. The currency is the United States dollar (USD). The main languages are Portuguese, Tetum. From its landscapes and cities to its cuisine and traditions, Timor-Leste offers travelers a distinctive slice of the world to explore.",
     "history": "Timor-Leste has a rich history shaped by its position in Asia and the cultures of South-Eastern Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Timor-Leste is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 2498,
     "lat": -8.83333333,
     "lng": 125.91666666,
     "tags": [
@@ -11073,8 +10727,6 @@ const raw: Gen[] = [
     "overview": "Togo is a Western Africa nation in Africa, with Lomé as its capital and home to around 7,889,094 people. The currency is the West African CFA franc (XOF). The main language is French. From its landscapes and cities to its cuisine and traditions, Togo offers travelers a distinctive slice of the world to explore.",
     "history": "Togo has a rich history shaped by its position in Africa and the cultures of Western Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Togo is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 8314,
     "lat": 8,
     "lng": 1.16666666,
     "tags": [
@@ -11137,8 +10789,6 @@ const raw: Gen[] = [
     "overview": "Tonga is a Polynesia nation in Oceania, with Nuku'alofa as its capital and home to around 103,197 people. The currency is the Tongan paʻanga (TOP). The main languages are English, Tongan. From its landscapes and cities to its cuisine and traditions, Tonga offers travelers a distinctive slice of the world to explore.",
     "history": "Tonga has a rich history shaped by its position in Oceania and the cultures of Polynesia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Tonga is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 6402,
     "lat": -20,
     "lng": -175,
     "tags": [
@@ -11200,8 +10850,6 @@ const raw: Gen[] = [
     "overview": "Trinidad and Tobago is a Caribbean nation in Americas, with Port of Spain as its capital and home to around 1,389,858 people. The currency is the Trinidad and Tobago dollar (TTD). The main language is English. From its landscapes and cities to its cuisine and traditions, Trinidad and Tobago offers travelers a distinctive slice of the world to explore.",
     "history": "Trinidad and Tobago has a rich history shaped by its position in Americas and the cultures of Caribbean, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Trinidad and Tobago is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 1271,
     "lat": 11,
     "lng": -61,
     "tags": [
@@ -11262,8 +10910,6 @@ const raw: Gen[] = [
     "overview": "Tunisia is a Northern Africa nation in Africa, with Tunis as its capital and home to around 11,565,204 people. The currency is the Tunisian dinar (TND). The main language is Arabic. From its landscapes and cities to its cuisine and traditions, Tunisia offers travelers a distinctive slice of the world to explore.",
     "history": "Tunisia has a rich history shaped by its position in Africa and the cultures of Northern Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Tunisia is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.6,
-    "reviews": 7494,
     "lat": 34,
     "lng": 9,
     "tags": [
@@ -11326,8 +10972,6 @@ const raw: Gen[] = [
     "overview": "Türkiye is a Western Asia nation in Asia, with Ankara as its capital and a captivating destination. The currency is the Turkish lira (TRY). The main language is Turkish. From its landscapes and cities to its cuisine and traditions, Türkiye offers travelers a distinctive slice of the world to explore.",
     "history": "Türkiye has a rich history shaped by its position in Asia and the cultures of Western Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Türkiye is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.3,
-    "reviews": 4582,
     "lat": 39,
     "lng": 35,
     "tags": [
@@ -11389,8 +11033,6 @@ const raw: Gen[] = [
     "overview": "Turkmenistan is a Central Asia nation in Asia, with Ashgabat as its capital and home to around 5,850,908 people. The currency is the Turkmenistan manat (TMT). The main languages are Russian, Turkmen. From its landscapes and cities to its cuisine and traditions, Turkmenistan offers travelers a distinctive slice of the world to explore.",
     "history": "Turkmenistan has a rich history shaped by its position in Asia and the cultures of Central Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Turkmenistan is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 8862,
     "lat": 40,
     "lng": 60,
     "tags": [
@@ -11453,8 +11095,6 @@ const raw: Gen[] = [
     "overview": "Tuvalu is a Polynesia nation in Oceania, with Funafuti as its capital and home to around 11,508 people. The currency is the Australian dollar (AUD). The main languages are English, Tuvaluan. From its landscapes and cities to its cuisine and traditions, Tuvalu offers travelers a distinctive slice of the world to explore.",
     "history": "Tuvalu has a rich history shaped by its position in Oceania and the cultures of Polynesia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Tuvalu is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.3,
-    "reviews": 3620,
     "lat": -8,
     "lng": 178,
     "tags": [
@@ -11518,8 +11158,6 @@ const raw: Gen[] = [
     "overview": "Uganda is a Eastern Africa nation in Africa, with Kampala as its capital and home to around 42,723,139 people. The currency is the Ugandan shilling (UGX). The main languages are English, Swahili. From its landscapes and cities to its cuisine and traditions, Uganda offers travelers a distinctive slice of the world to explore.",
     "history": "Uganda has a rich history shaped by its position in Africa and the cultures of Eastern Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Uganda is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 8517,
     "lat": 1,
     "lng": 32,
     "tags": [
@@ -11582,8 +11220,6 @@ const raw: Gen[] = [
     "overview": "Ukraine is a Eastern Europe nation in Europe, with Kyiv as its capital and home to around 44,622,516 people. The currency is the Ukrainian hryvnia (UAH). The main language is Ukrainian. From its landscapes and cities to its cuisine and traditions, Ukraine offers travelers a distinctive slice of the world to explore.",
     "history": "Ukraine has a rich history shaped by its position in Europe and the cultures of Eastern Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Ukraine is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.6,
-    "reviews": 3594,
     "lat": 49,
     "lng": 32,
     "tags": [
@@ -11645,8 +11281,6 @@ const raw: Gen[] = [
     "overview": "United Arab Emirates is a Western Asia nation in Asia, with Abu Dhabi as its capital and home to around 9,630,959 people. The currency is the United Arab Emirates dirham (AED). The main language is Arabic. From its landscapes and cities to its cuisine and traditions, United Arab Emirates offers travelers a distinctive slice of the world to explore.",
     "history": "United Arab Emirates has a rich history shaped by its position in Asia and the cultures of Western Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in United Arab Emirates is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 4556,
     "lat": 24,
     "lng": 54,
     "tags": [
@@ -11709,8 +11343,6 @@ const raw: Gen[] = [
     "overview": "United Kingdom is a Northern Europe nation in Europe, with London as its capital and home to around 66,460,344 people. The currency is the British pound (GBP). The main language is English. From its landscapes and cities to its cuisine and traditions, United Kingdom offers travelers a distinctive slice of the world to explore.",
     "history": "United Kingdom has a rich history shaped by its position in Europe and the cultures of Northern Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in United Kingdom is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 3026,
     "lat": 54,
     "lng": -2,
     "tags": [
@@ -11773,8 +11405,6 @@ const raw: Gen[] = [
     "overview": "United States is a North America nation in Americas, with Washington D.C. as its capital and home to around 326,687,501 people. The currency is the United States dollar (USD). The main language is English. From its landscapes and cities to its cuisine and traditions, United States offers travelers a distinctive slice of the world to explore.",
     "history": "United States has a rich history shaped by its position in Americas and the cultures of North America, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in United States is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.9,
-    "reviews": 917,
     "lat": 38,
     "lng": -97,
     "tags": [
@@ -11836,8 +11466,6 @@ const raw: Gen[] = [
     "overview": "Uruguay is a South America nation in Americas, with Montevideo as its capital and home to around 3,449,299 people. The currency is the Uruguayan peso (UYU). The main language is Spanish. From its landscapes and cities to its cuisine and traditions, Uruguay offers travelers a distinctive slice of the world to explore.",
     "history": "Uruguay has a rich history shaped by its position in Americas and the cultures of South America, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Uruguay is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.4,
-    "reviews": 6753,
     "lat": -33,
     "lng": -56,
     "tags": [
@@ -11900,8 +11528,6 @@ const raw: Gen[] = [
     "overview": "Uzbekistan is a Central Asia nation in Asia, with Tashkent as its capital and home to around 32,955,400 people. The currency is the Uzbekistani soʻm (UZS). The main languages are Russian, Uzbek. From its landscapes and cities to its cuisine and traditions, Uzbekistan offers travelers a distinctive slice of the world to explore.",
     "history": "Uzbekistan has a rich history shaped by its position in Asia and the cultures of Central Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Uzbekistan is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.6,
-    "reviews": 4075,
     "lat": 41,
     "lng": 64,
     "tags": [
@@ -11966,8 +11592,6 @@ const raw: Gen[] = [
     "overview": "Vanuatu is a Melanesia nation in Oceania, with Port Vila as its capital and home to around 292,680 people. The currency is the Vanuatu vatu (VUV). The main languages are Bislama, English, French. From its landscapes and cities to its cuisine and traditions, Vanuatu offers travelers a distinctive slice of the world to explore.",
     "history": "Vanuatu has a rich history shaped by its position in Oceania and the cultures of Melanesia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Vanuatu is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.6,
-    "reviews": 6113,
     "lat": -16,
     "lng": 167,
     "tags": [
@@ -12029,8 +11653,6 @@ const raw: Gen[] = [
     "overview": "Vatican City is a Southern Europe nation in Europe, with Vatican City as its capital and a captivating destination. The currency is the Euro (EUR). The main languages are Italian, Latin. From its landscapes and cities to its cuisine and traditions, Vatican City offers travelers a distinctive slice of the world to explore.",
     "history": "Vatican City has a rich history shaped by its position in Europe and the cultures of Southern Europe, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Vatican City is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.9,
-    "reviews": 7939,
     "lat": 41.9,
     "lng": 12.45,
     "tags": [
@@ -12092,8 +11714,6 @@ const raw: Gen[] = [
     "overview": "Venezuela is a South America nation in Americas, with Caracas as its capital and home to around 28,870,195 people. The currency is the Venezuelan bolívar soberano (VES). The main language is Spanish. From its landscapes and cities to its cuisine and traditions, Venezuela offers travelers a distinctive slice of the world to explore.",
     "history": "Venezuela has a rich history shaped by its position in Americas and the cultures of South America, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Venezuela is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 4244,
     "lat": 8,
     "lng": -66,
     "tags": [
@@ -12155,8 +11775,6 @@ const raw: Gen[] = [
     "overview": "Vietnam is a South-Eastern Asia nation in Asia, with Hanoi as its capital and home to around 95,540,395 people. The currency is the Vietnamese đồng (VND). The main language is Vietnamese. From its landscapes and cities to its cuisine and traditions, Vietnam offers travelers a distinctive slice of the world to explore.",
     "history": "Vietnam has a rich history shaped by its position in Asia and the cultures of South-Eastern Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Vietnam is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.5,
-    "reviews": 1365,
     "lat": 16.16666666,
     "lng": 107.83333333,
     "tags": [
@@ -12219,8 +11837,6 @@ const raw: Gen[] = [
     "overview": "Yemen is a Western Asia nation in Asia, with Sana'a as its capital and home to around 28,498,687 people. The currency is the Yemeni rial (YER). The main language is Arabic. From its landscapes and cities to its cuisine and traditions, Yemen offers travelers a distinctive slice of the world to explore.",
     "history": "Yemen has a rich history shaped by its position in Asia and the cultures of Western Asia, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Yemen is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.7,
-    "reviews": 5097,
     "lat": 15,
     "lng": 48,
     "tags": [
@@ -12282,8 +11898,6 @@ const raw: Gen[] = [
     "overview": "Zambia is a Eastern Africa nation in Africa, with Lusaka as its capital and home to around 17,351,822 people. The currency is the Zambian kwacha (ZMW). The main language is English. From its landscapes and cities to its cuisine and traditions, Zambia offers travelers a distinctive slice of the world to explore.",
     "history": "Zambia has a rich history shaped by its position in Africa and the cultures of Eastern Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Zambia is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 9075,
     "lat": -15,
     "lng": 30,
     "tags": [
@@ -12359,8 +11973,6 @@ const raw: Gen[] = [
     "overview": "Zimbabwe is a Eastern Africa nation in Africa, with Harare as its capital and home to around 14,439,018 people. The currency is the Botswana pula (BWP). The main languages are Chibarwe, English, Kalanga. From its landscapes and cities to its cuisine and traditions, Zimbabwe offers travelers a distinctive slice of the world to explore.",
     "history": "Zimbabwe has a rich history shaped by its position in Africa and the cultures of Eastern Africa, leaving a legacy visible in its landmarks, cities and traditions today.",
     "culture": "Culture in Zimbabwe is expressed through its food, festivals, music and daily rhythms — a warm invitation to experience local life first-hand.",
-    "rating": 4.8,
-    "reviews": 6372,
     "lat": -20,
     "lng": 30,
     "tags": [
