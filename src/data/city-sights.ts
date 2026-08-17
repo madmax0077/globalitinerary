@@ -3266,5 +3266,6215 @@ export const citySights: Record<string, string[]> = {
     "Condado Beach",
     "Bacardi Distillery tour (Cataño)",
     "El Yunque National Forest day trip"
+  ],
+  lugano: [
+    "Lugano historic center / Old Town",
+    "Lugano main square and landmark viewpoints",
+    "Lugano cathedral / historic church",
+    "Lugano central market or bazaar",
+    "Switzerland regional museum in Lugano",
+    "Scenic park, waterfront or hillside walk in Lugano",
+    "Signature day trip from Lugano",
+    "Sunset viewpoint overlooking Lugano"
+  ],
+  grindelwald: [
+    "Grindelwald historic center / Old Town",
+    "Grindelwald main square and landmark viewpoints",
+    "Grindelwald cathedral / historic church",
+    "Grindelwald central market or bazaar",
+    "Switzerland regional museum in Grindelwald",
+    "Scenic park, waterfront or hillside walk in Grindelwald",
+    "Signature day trip from Grindelwald",
+    "Sunset viewpoint overlooking Grindelwald"
+  ],
+  lausanne: [
+    "Lausanne historic center / Old Town",
+    "Lausanne main square and landmark viewpoints",
+    "Lausanne cathedral / historic church",
+    "Lausanne central market or bazaar",
+    "Switzerland regional museum in Lausanne",
+    "Scenic park, waterfront or hillside walk in Lausanne",
+    "Signature day trip from Lausanne",
+    "Sunset viewpoint overlooking Lausanne"
+  ],
+  graz: [
+    "Graz historic center / Old Town",
+    "Graz main square and landmark viewpoints",
+    "Graz cathedral / historic church",
+    "Graz central market or bazaar",
+    "Austria regional museum in Graz",
+    "Scenic park, waterfront or hillside walk in Graz",
+    "Signature day trip from Graz",
+    "Sunset viewpoint overlooking Graz"
+  ],
+  antwerp: [
+    "Antwerp historic center / Old Town",
+    "Antwerp main square and landmark viewpoints",
+    "Antwerp cathedral / historic church",
+    "Antwerp central market or bazaar",
+    "Belgium regional museum in Antwerp",
+    "Scenic park, waterfront or hillside walk in Antwerp",
+    "Signature day trip from Antwerp",
+    "Sunset viewpoint overlooking Antwerp"
+  ],
+  "luxembourg-city": [
+    "Luxembourg City historic center / Old Town",
+    "Luxembourg City main square and landmark viewpoints",
+    "Luxembourg City cathedral / historic church",
+    "Luxembourg City central market or bazaar",
+    "Luxembourg regional museum in Luxembourg City",
+    "Scenic park, waterfront or hillside walk in Luxembourg City",
+    "Signature day trip from Luxembourg City",
+    "Sunset viewpoint overlooking Luxembourg City"
+  ],
+  monaco: [
+    "Monaco historic center / Old Town",
+    "Monaco main square and landmark viewpoints",
+    "Monaco cathedral / historic church",
+    "Monaco central market or bazaar",
+    "Monaco regional museum in Monaco",
+    "Scenic park, waterfront or hillside walk in Monaco",
+    "Signature day trip from Monaco",
+    "Sunset viewpoint overlooking Monaco"
+  ],
+  alesund: [
+    "Ålesund historic center / Old Town",
+    "Ålesund main square and landmark viewpoints",
+    "Ålesund cathedral / historic church",
+    "Ålesund central market or bazaar",
+    "Norway regional museum in Ålesund",
+    "Scenic park, waterfront or hillside walk in Ålesund",
+    "Signature day trip from Ålesund",
+    "Sunset viewpoint overlooking Ålesund"
+  ],
+  gothenburg: [
+    "Gothenburg historic center / Old Town",
+    "Gothenburg main square and landmark viewpoints",
+    "Gothenburg cathedral / historic church",
+    "Gothenburg central market or bazaar",
+    "Sweden regional museum in Gothenburg",
+    "Scenic park, waterfront or hillside walk in Gothenburg",
+    "Signature day trip from Gothenburg",
+    "Sunset viewpoint overlooking Gothenburg"
+  ],
+  malmo: [
+    "Malmö historic center / Old Town",
+    "Malmö main square and landmark viewpoints",
+    "Malmö cathedral / historic church",
+    "Malmö central market or bazaar",
+    "Sweden regional museum in Malmö",
+    "Scenic park, waterfront or hillside walk in Malmö",
+    "Signature day trip from Malmö",
+    "Sunset viewpoint overlooking Malmö"
+  ],
+  aarhus: [
+    "Aarhus historic center / Old Town",
+    "Aarhus main square and landmark viewpoints",
+    "Aarhus cathedral / historic church",
+    "Aarhus central market or bazaar",
+    "Denmark regional museum in Aarhus",
+    "Scenic park, waterfront or hillside walk in Aarhus",
+    "Signature day trip from Aarhus",
+    "Sunset viewpoint overlooking Aarhus"
+  ],
+  zakopane: [
+    "Zakopane historic center / Old Town",
+    "Zakopane main square and landmark viewpoints",
+    "Zakopane cathedral / historic church",
+    "Zakopane central market or bazaar",
+    "Poland regional museum in Zakopane",
+    "Scenic park, waterfront or hillside walk in Zakopane",
+    "Signature day trip from Zakopane",
+    "Sunset viewpoint overlooking Zakopane"
+  ],
+  bled: [
+    "Bled historic center / Old Town",
+    "Bled main square and landmark viewpoints",
+    "Bled cathedral / historic church",
+    "Bled central market or bazaar",
+    "Slovenia regional museum in Bled",
+    "Scenic park, waterfront or hillside walk in Bled",
+    "Signature day trip from Bled",
+    "Sunset viewpoint overlooking Bled"
+  ],
+  zadar: [
+    "Zadar historic center / Old Town",
+    "Zadar main square and landmark viewpoints",
+    "Zadar cathedral / historic church",
+    "Zadar central market or bazaar",
+    "Croatia regional museum in Zadar",
+    "Scenic park, waterfront or hillside walk in Zadar",
+    "Signature day trip from Zadar",
+    "Sunset viewpoint overlooking Zadar"
+  ],
+  hvar: [
+    "Hvar historic center / Old Town",
+    "Hvar main square and landmark viewpoints",
+    "Hvar cathedral / historic church",
+    "Hvar central market or bazaar",
+    "Croatia regional museum in Hvar",
+    "Scenic park, waterfront or hillside walk in Hvar",
+    "Signature day trip from Hvar",
+    "Sunset viewpoint overlooking Hvar"
+  ],
+  rovinj: [
+    "Rovinj historic center / Old Town",
+    "Rovinj main square and landmark viewpoints",
+    "Rovinj cathedral / historic church",
+    "Rovinj central market or bazaar",
+    "Croatia regional museum in Rovinj",
+    "Scenic park, waterfront or hillside walk in Rovinj",
+    "Signature day trip from Rovinj",
+    "Sunset viewpoint overlooking Rovinj"
+  ],
+  kotor: [
+    "Kotor historic center / Old Town",
+    "Kotor main square and landmark viewpoints",
+    "Kotor cathedral / historic church",
+    "Kotor central market or bazaar",
+    "Montenegro regional museum in Kotor",
+    "Scenic park, waterfront or hillside walk in Kotor",
+    "Signature day trip from Kotor",
+    "Sunset viewpoint overlooking Kotor"
+  ],
+  skopje: [
+    "Skopje historic center / Old Town",
+    "Skopje main square and landmark viewpoints",
+    "Skopje cathedral / historic church",
+    "Skopje central market or bazaar",
+    "North Macedonia regional museum in Skopje",
+    "Scenic park, waterfront or hillside walk in Skopje",
+    "Signature day trip from Skopje",
+    "Sunset viewpoint overlooking Skopje"
+  ],
+  brasov: [
+    "Brașov historic center / Old Town",
+    "Brașov main square and landmark viewpoints",
+    "Brașov historic mosque / medina walk",
+    "Brașov central market or bazaar",
+    "Romania regional museum in Brașov",
+    "Scenic park, waterfront or hillside walk in Brașov",
+    "Signature day trip from Brașov",
+    "Sunset viewpoint overlooking Brașov"
+  ],
+  sibiu: [
+    "Sibiu historic center / Old Town",
+    "Sibiu main square and landmark viewpoints",
+    "Sibiu historic mosque / medina walk",
+    "Sibiu central market or bazaar",
+    "Romania regional museum in Sibiu",
+    "Scenic park, waterfront or hillside walk in Sibiu",
+    "Signature day trip from Sibiu",
+    "Sunset viewpoint overlooking Sibiu"
+  ],
+  "lagos-portugal": [
+    "Lagos historic center / Old Town",
+    "Lagos main square and landmark viewpoints",
+    "Lagos cathedral / historic church",
+    "Lagos central market or bazaar",
+    "Portugal regional museum in Lagos",
+    "Scenic park, waterfront or hillside walk in Lagos",
+    "Signature day trip from Lagos",
+    "Sunset viewpoint overlooking Lagos"
+  ],
+  funchal: [
+    "Funchal historic center / Old Town",
+    "Funchal main square and landmark viewpoints",
+    "Funchal cathedral / historic church",
+    "Funchal central market or bazaar",
+    "Portugal regional museum in Funchal",
+    "Scenic park, waterfront or hillside walk in Funchal",
+    "Signature day trip from Funchal",
+    "Sunset viewpoint overlooking Funchal"
+  ],
+  sintra: [
+    "Sintra historic center / Old Town",
+    "Sintra main square and landmark viewpoints",
+    "Sintra cathedral / historic church",
+    "Sintra central market or bazaar",
+    "Portugal regional museum in Sintra",
+    "Scenic park, waterfront or hillside walk in Sintra",
+    "Signature day trip from Sintra",
+    "Sunset viewpoint overlooking Sintra"
+  ],
+  evora: [
+    "Évora historic center / Old Town",
+    "Évora main square and landmark viewpoints",
+    "Évora cathedral / historic church",
+    "Évora central market or bazaar",
+    "Portugal regional museum in Évora",
+    "Scenic park, waterfront or hillside walk in Évora",
+    "Signature day trip from Évora",
+    "Sunset viewpoint overlooking Évora"
+  ],
+  "cordoba-es": [
+    "Córdoba historic center / Old Town",
+    "Córdoba main square and landmark viewpoints",
+    "Córdoba cathedral / historic church",
+    "Córdoba central market or bazaar",
+    "Spain regional museum in Córdoba",
+    "Scenic park, waterfront or hillside walk in Córdoba",
+    "Signature day trip from Córdoba",
+    "Sunset viewpoint overlooking Córdoba"
+  ],
+  "ibiza-town": [
+    "Ibiza Town historic center / Old Town",
+    "Ibiza Town main square and landmark viewpoints",
+    "Ibiza Town cathedral / historic church",
+    "Ibiza Town central market or bazaar",
+    "Spain regional museum in Ibiza Town",
+    "Scenic park, waterfront or hillside walk in Ibiza Town",
+    "Signature day trip from Ibiza Town",
+    "Sunset viewpoint overlooking Ibiza Town"
+  ],
+  palma: [
+    "Palma historic center / Old Town",
+    "Palma main square and landmark viewpoints",
+    "Palma cathedral / historic church",
+    "Palma central market or bazaar",
+    "Spain regional museum in Palma",
+    "Scenic park, waterfront or hillside walk in Palma",
+    "Signature day trip from Palma",
+    "Sunset viewpoint overlooking Palma"
+  ],
+  "tenerife-santa-cruz": [
+    "Santa Cruz de Tenerife historic center / Old Town",
+    "Santa Cruz de Tenerife main square and landmark viewpoints",
+    "Santa Cruz de Tenerife cathedral / historic church",
+    "Santa Cruz de Tenerife central market or bazaar",
+    "Spain regional museum in Santa Cruz de Tenerife",
+    "Scenic park, waterfront or hillside walk in Santa Cruz de Tenerife",
+    "Signature day trip from Santa Cruz de Tenerife",
+    "Sunset viewpoint overlooking Santa Cruz de Tenerife"
+  ],
+  "las-palmas": [
+    "Las Palmas historic center / Old Town",
+    "Las Palmas main square and landmark viewpoints",
+    "Las Palmas cathedral / historic church",
+    "Las Palmas central market or bazaar",
+    "Spain regional museum in Las Palmas",
+    "Scenic park, waterfront or hillside walk in Las Palmas",
+    "Signature day trip from Las Palmas",
+    "Sunset viewpoint overlooking Las Palmas"
+  ],
+  marbella: [
+    "Marbella historic center / Old Town",
+    "Marbella main square and landmark viewpoints",
+    "Marbella cathedral / historic church",
+    "Marbella central market or bazaar",
+    "Spain regional museum in Marbella",
+    "Scenic park, waterfront or hillside walk in Marbella",
+    "Signature day trip from Marbella",
+    "Sunset viewpoint overlooking Marbella"
+  ],
+  ronda: [
+    "Ronda historic center / Old Town",
+    "Ronda main square and landmark viewpoints",
+    "Ronda cathedral / historic church",
+    "Ronda central market or bazaar",
+    "Spain regional museum in Ronda",
+    "Scenic park, waterfront or hillside walk in Ronda",
+    "Signature day trip from Ronda",
+    "Sunset viewpoint overlooking Ronda"
+  ],
+  segovia: [
+    "Segovia historic center / Old Town",
+    "Segovia main square and landmark viewpoints",
+    "Segovia cathedral / historic church",
+    "Segovia central market or bazaar",
+    "Spain regional museum in Segovia",
+    "Scenic park, waterfront or hillside walk in Segovia",
+    "Signature day trip from Segovia",
+    "Sunset viewpoint overlooking Segovia"
+  ],
+  avignon: [
+    "Avignon historic center / Old Town",
+    "Avignon main square and landmark viewpoints",
+    "Avignon cathedral / historic church",
+    "Avignon central market or bazaar",
+    "France regional museum in Avignon",
+    "Scenic park, waterfront or hillside walk in Avignon",
+    "Signature day trip from Avignon",
+    "Sunset viewpoint overlooking Avignon"
+  ],
+  "aix-en-provence": [
+    "Aix-en-Provence historic center / Old Town",
+    "Aix-en-Provence main square and landmark viewpoints",
+    "Aix-en-Provence cathedral / historic church",
+    "Aix-en-Provence central market or bazaar",
+    "France regional museum in Aix-en-Provence",
+    "Scenic park, waterfront or hillside walk in Aix-en-Provence",
+    "Signature day trip from Aix-en-Provence",
+    "Sunset viewpoint overlooking Aix-en-Provence"
+  ],
+  cannes: [
+    "Cannes historic center / Old Town",
+    "Cannes main square and landmark viewpoints",
+    "Cannes cathedral / historic church",
+    "Cannes central market or bazaar",
+    "France regional museum in Cannes",
+    "Scenic park, waterfront or hillside walk in Cannes",
+    "Signature day trip from Cannes",
+    "Sunset viewpoint overlooking Cannes"
+  ],
+  toulouse: [
+    "Toulouse historic center / Old Town",
+    "Toulouse main square and landmark viewpoints",
+    "Toulouse cathedral / historic church",
+    "Toulouse central market or bazaar",
+    "France regional museum in Toulouse",
+    "Scenic park, waterfront or hillside walk in Toulouse",
+    "Signature day trip from Toulouse",
+    "Sunset viewpoint overlooking Toulouse"
+  ],
+  biarritz: [
+    "Biarritz historic center / Old Town",
+    "Biarritz main square and landmark viewpoints",
+    "Biarritz cathedral / historic church",
+    "Biarritz central market or bazaar",
+    "France regional museum in Biarritz",
+    "Scenic park, waterfront or hillside walk in Biarritz",
+    "Signature day trip from Biarritz",
+    "Sunset viewpoint overlooking Biarritz"
+  ],
+  chamonix: [
+    "Chamonix historic center / Old Town",
+    "Chamonix main square and landmark viewpoints",
+    "Chamonix cathedral / historic church",
+    "Chamonix central market or bazaar",
+    "France regional museum in Chamonix",
+    "Scenic park, waterfront or hillside walk in Chamonix",
+    "Signature day trip from Chamonix",
+    "Sunset viewpoint overlooking Chamonix"
+  ],
+  colmar: [
+    "Colmar historic center / Old Town",
+    "Colmar main square and landmark viewpoints",
+    "Colmar cathedral / historic church",
+    "Colmar central market or bazaar",
+    "France regional museum in Colmar",
+    "Scenic park, waterfront or hillside walk in Colmar",
+    "Signature day trip from Colmar",
+    "Sunset viewpoint overlooking Colmar"
+  ],
+  carcassonne: [
+    "Carcassonne historic center / Old Town",
+    "Carcassonne main square and landmark viewpoints",
+    "Carcassonne cathedral / historic church",
+    "Carcassonne central market or bazaar",
+    "France regional museum in Carcassonne",
+    "Scenic park, waterfront or hillside walk in Carcassonne",
+    "Signature day trip from Carcassonne",
+    "Sunset viewpoint overlooking Carcassonne"
+  ],
+  dijon: [
+    "Dijon historic center / Old Town",
+    "Dijon main square and landmark viewpoints",
+    "Dijon cathedral / historic church",
+    "Dijon central market or bazaar",
+    "France regional museum in Dijon",
+    "Scenic park, waterfront or hillside walk in Dijon",
+    "Signature day trip from Dijon",
+    "Sunset viewpoint overlooking Dijon"
+  ],
+  rouen: [
+    "Rouen historic center / Old Town",
+    "Rouen main square and landmark viewpoints",
+    "Rouen cathedral / historic church",
+    "Rouen central market or bazaar",
+    "France regional museum in Rouen",
+    "Scenic park, waterfront or hillside walk in Rouen",
+    "Signature day trip from Rouen",
+    "Sunset viewpoint overlooking Rouen"
+  ],
+  reims: [
+    "Reims historic center / Old Town",
+    "Reims main square and landmark viewpoints",
+    "Reims cathedral / historic church",
+    "Reims central market or bazaar",
+    "France regional museum in Reims",
+    "Scenic park, waterfront or hillside walk in Reims",
+    "Signature day trip from Reims",
+    "Sunset viewpoint overlooking Reims"
+  ],
+  amiens: [
+    "Amiens historic center / Old Town",
+    "Amiens main square and landmark viewpoints",
+    "Amiens cathedral / historic church",
+    "Amiens central market or bazaar",
+    "France regional museum in Amiens",
+    "Scenic park, waterfront or hillside walk in Amiens",
+    "Signature day trip from Amiens",
+    "Sunset viewpoint overlooking Amiens"
+  ],
+  nantes: [
+    "Nantes historic center / Old Town",
+    "Nantes main square and landmark viewpoints",
+    "Nantes cathedral / historic church",
+    "Nantes central market or bazaar",
+    "France regional museum in Nantes",
+    "Scenic park, waterfront or hillside walk in Nantes",
+    "Signature day trip from Nantes",
+    "Sunset viewpoint overlooking Nantes"
+  ],
+  lille: [
+    "Lille historic center / Old Town",
+    "Lille main square and landmark viewpoints",
+    "Lille cathedral / historic church",
+    "Lille central market or bazaar",
+    "France regional museum in Lille",
+    "Scenic park, waterfront or hillside walk in Lille",
+    "Signature day trip from Lille",
+    "Sunset viewpoint overlooking Lille"
+  ],
+  palermo: [
+    "Palermo historic center / Old Town",
+    "Palermo main square and landmark viewpoints",
+    "Palermo cathedral / historic church",
+    "Palermo central market or bazaar",
+    "Italy regional museum in Palermo",
+    "Scenic park, waterfront or hillside walk in Palermo",
+    "Signature day trip from Palermo",
+    "Sunset viewpoint overlooking Palermo"
+  ],
+  genoa: [
+    "Genoa historic center / Old Town",
+    "Genoa main square and landmark viewpoints",
+    "Genoa cathedral / historic church",
+    "Genoa central market or bazaar",
+    "Italy regional museum in Genoa",
+    "Scenic park, waterfront or hillside walk in Genoa",
+    "Signature day trip from Genoa",
+    "Sunset viewpoint overlooking Genoa"
+  ],
+  turin: [
+    "Turin historic center / Old Town",
+    "Turin main square and landmark viewpoints",
+    "Turin cathedral / historic church",
+    "Turin central market or bazaar",
+    "Italy regional museum in Turin",
+    "Scenic park, waterfront or hillside walk in Turin",
+    "Signature day trip from Turin",
+    "Sunset viewpoint overlooking Turin"
+  ],
+  amalfi: [
+    "Amalfi historic center / Old Town",
+    "Amalfi main square and landmark viewpoints",
+    "Amalfi cathedral / historic church",
+    "Amalfi central market or bazaar",
+    "Italy regional museum in Amalfi",
+    "Scenic park, waterfront or hillside walk in Amalfi",
+    "Signature day trip from Amalfi",
+    "Sunset viewpoint overlooking Amalfi"
+  ],
+  positano: [
+    "Positano historic center / Old Town",
+    "Positano main square and landmark viewpoints",
+    "Positano cathedral / historic church",
+    "Positano central market or bazaar",
+    "Italy regional museum in Positano",
+    "Scenic park, waterfront or hillside walk in Positano",
+    "Signature day trip from Positano",
+    "Sunset viewpoint overlooking Positano"
+  ],
+  capri: [
+    "Capri historic center / Old Town",
+    "Capri main square and landmark viewpoints",
+    "Capri cathedral / historic church",
+    "Capri central market or bazaar",
+    "Italy regional museum in Capri",
+    "Scenic park, waterfront or hillside walk in Capri",
+    "Signature day trip from Capri",
+    "Sunset viewpoint overlooking Capri"
+  ],
+  taormina: [
+    "Taormina historic center / Old Town",
+    "Taormina main square and landmark viewpoints",
+    "Taormina cathedral / historic church",
+    "Taormina central market or bazaar",
+    "Italy regional museum in Taormina",
+    "Scenic park, waterfront or hillside walk in Taormina",
+    "Signature day trip from Taormina",
+    "Sunset viewpoint overlooking Taormina"
+  ],
+  "cinque-terre": [
+    "Cinque Terre historic center / Old Town",
+    "Cinque Terre main square and landmark viewpoints",
+    "Cinque Terre cathedral / historic church",
+    "Cinque Terre central market or bazaar",
+    "Italy regional museum in Cinque Terre",
+    "Scenic park, waterfront or hillside walk in Cinque Terre",
+    "Signature day trip from Cinque Terre",
+    "Sunset viewpoint overlooking Cinque Terre"
+  ],
+  "lake-como": [
+    "Como historic center / Old Town",
+    "Como main square and landmark viewpoints",
+    "Como cathedral / historic church",
+    "Como central market or bazaar",
+    "Italy regional museum in Como",
+    "Scenic park, waterfront or hillside walk in Como",
+    "Signature day trip from Como",
+    "Sunset viewpoint overlooking Como"
+  ],
+  ravenna: [
+    "Ravenna historic center / Old Town",
+    "Ravenna main square and landmark viewpoints",
+    "Ravenna cathedral / historic church",
+    "Ravenna central market or bazaar",
+    "Italy regional museum in Ravenna",
+    "Scenic park, waterfront or hillside walk in Ravenna",
+    "Signature day trip from Ravenna",
+    "Sunset viewpoint overlooking Ravenna"
+  ],
+  assisi: [
+    "Assisi historic center / Old Town",
+    "Assisi main square and landmark viewpoints",
+    "Assisi cathedral / historic church",
+    "Assisi central market or bazaar",
+    "Italy regional museum in Assisi",
+    "Scenic park, waterfront or hillside walk in Assisi",
+    "Signature day trip from Assisi",
+    "Sunset viewpoint overlooking Assisi"
+  ],
+  perugia: [
+    "Perugia historic center / Old Town",
+    "Perugia main square and landmark viewpoints",
+    "Perugia cathedral / historic church",
+    "Perugia central market or bazaar",
+    "Italy regional museum in Perugia",
+    "Scenic park, waterfront or hillside walk in Perugia",
+    "Signature day trip from Perugia",
+    "Sunset viewpoint overlooking Perugia"
+  ],
+  lecce: [
+    "Lecce historic center / Old Town",
+    "Lecce main square and landmark viewpoints",
+    "Lecce cathedral / historic church",
+    "Lecce central market or bazaar",
+    "Italy regional museum in Lecce",
+    "Scenic park, waterfront or hillside walk in Lecce",
+    "Signature day trip from Lecce",
+    "Sunset viewpoint overlooking Lecce"
+  ],
+  materas: [
+    "Matera historic center / Old Town",
+    "Matera main square and landmark viewpoints",
+    "Matera cathedral / historic church",
+    "Matera central market or bazaar",
+    "Italy regional museum in Matera",
+    "Scenic park, waterfront or hillside walk in Matera",
+    "Signature day trip from Matera",
+    "Sunset viewpoint overlooking Matera"
+  ],
+  lucca: [
+    "Lucca historic center / Old Town",
+    "Lucca main square and landmark viewpoints",
+    "Lucca cathedral / historic church",
+    "Lucca central market or bazaar",
+    "Italy regional museum in Lucca",
+    "Scenic park, waterfront or hillside walk in Lucca",
+    "Signature day trip from Lucca",
+    "Sunset viewpoint overlooking Lucca"
+  ],
+  "san-gimignano": [
+    "San Gimignano historic center / Old Town",
+    "San Gimignano main square and landmark viewpoints",
+    "San Gimignano cathedral / historic church",
+    "San Gimignano central market or bazaar",
+    "Italy regional museum in San Gimignano",
+    "Scenic park, waterfront or hillside walk in San Gimignano",
+    "Signature day trip from San Gimignano",
+    "Sunset viewpoint overlooking San Gimignano"
+  ],
+  thessaloniki: [
+    "Thessaloníki historic center / Old Town",
+    "Thessaloníki main square and landmark viewpoints",
+    "Thessaloníki cathedral / historic church",
+    "Thessaloníki central market or bazaar",
+    "Greece regional museum in Thessaloníki",
+    "Scenic park, waterfront or hillside walk in Thessaloníki",
+    "Signature day trip from Thessaloníki",
+    "Sunset viewpoint overlooking Thessaloníki"
+  ],
+  heraklion: [
+    "Heraklion historic center / Old Town",
+    "Heraklion main square and landmark viewpoints",
+    "Heraklion cathedral / historic church",
+    "Heraklion central market or bazaar",
+    "Greece regional museum in Heraklion",
+    "Scenic park, waterfront or hillside walk in Heraklion",
+    "Signature day trip from Heraklion",
+    "Sunset viewpoint overlooking Heraklion"
+  ],
+  chania: [
+    "Chania historic center / Old Town",
+    "Chania main square and landmark viewpoints",
+    "Chania cathedral / historic church",
+    "Chania central market or bazaar",
+    "Greece regional museum in Chania",
+    "Scenic park, waterfront or hillside walk in Chania",
+    "Signature day trip from Chania",
+    "Sunset viewpoint overlooking Chania"
+  ],
+  "santorini-fira": [
+    "Fira historic center / Old Town",
+    "Fira main square and landmark viewpoints",
+    "Fira cathedral / historic church",
+    "Fira central market or bazaar",
+    "Greece regional museum in Fira",
+    "Scenic park, waterfront or hillside walk in Fira",
+    "Signature day trip from Fira",
+    "Sunset viewpoint overlooking Fira"
+  ],
+  "mykonos-town": [
+    "Mykonos Town historic center / Old Town",
+    "Mykonos Town main square and landmark viewpoints",
+    "Mykonos Town cathedral / historic church",
+    "Mykonos Town central market or bazaar",
+    "Greece regional museum in Mykonos Town",
+    "Scenic park, waterfront or hillside walk in Mykonos Town",
+    "Signature day trip from Mykonos Town",
+    "Sunset viewpoint overlooking Mykonos Town"
+  ],
+  paros: [
+    "Parikia historic center / Old Town",
+    "Parikia main square and landmark viewpoints",
+    "Parikia cathedral / historic church",
+    "Parikia central market or bazaar",
+    "Greece regional museum in Parikia",
+    "Scenic park, waterfront or hillside walk in Parikia",
+    "Signature day trip from Parikia",
+    "Sunset viewpoint overlooking Parikia"
+  ],
+  nafplio: [
+    "Nafplio historic center / Old Town",
+    "Nafplio main square and landmark viewpoints",
+    "Nafplio cathedral / historic church",
+    "Nafplio central market or bazaar",
+    "Greece regional museum in Nafplio",
+    "Scenic park, waterfront or hillside walk in Nafplio",
+    "Signature day trip from Nafplio",
+    "Sunset viewpoint overlooking Nafplio"
+  ],
+  delphi: [
+    "Delphi historic center / Old Town",
+    "Delphi main square and landmark viewpoints",
+    "Delphi cathedral / historic church",
+    "Delphi central market or bazaar",
+    "Greece regional museum in Delphi",
+    "Scenic park, waterfront or hillside walk in Delphi",
+    "Signature day trip from Delphi",
+    "Sunset viewpoint overlooking Delphi"
+  ],
+  "meteora-kalambaka": [
+    "Kalabaka historic center / Old Town",
+    "Kalabaka main square and landmark viewpoints",
+    "Kalabaka cathedral / historic church",
+    "Kalabaka central market or bazaar",
+    "Greece regional museum in Kalabaka",
+    "Scenic park, waterfront or hillside walk in Kalabaka",
+    "Signature day trip from Kalabaka",
+    "Sunset viewpoint overlooking Kalabaka"
+  ],
+  "cappadocia-goreme": [
+    "Göreme historic center / Old Town",
+    "Göreme main square and landmark viewpoints",
+    "Göreme historic mosque / medina walk",
+    "Göreme central market or bazaar",
+    "Turkey regional museum in Göreme",
+    "Scenic park, waterfront or hillside walk in Göreme",
+    "Signature day trip from Göreme",
+    "Sunset viewpoint overlooking Göreme"
+  ],
+  pamukkale: [
+    "Pamukkale historic center / Old Town",
+    "Pamukkale main square and landmark viewpoints",
+    "Pamukkale historic mosque / medina walk",
+    "Pamukkale central market or bazaar",
+    "Turkey regional museum in Pamukkale",
+    "Scenic park, waterfront or hillside walk in Pamukkale",
+    "Signature day trip from Pamukkale",
+    "Sunset viewpoint overlooking Pamukkale"
+  ],
+  "ephesus-selcuk": [
+    "Selçuk historic center / Old Town",
+    "Selçuk main square and landmark viewpoints",
+    "Selçuk historic mosque / medina walk",
+    "Selçuk central market or bazaar",
+    "Turkey regional museum in Selçuk",
+    "Scenic park, waterfront or hillside walk in Selçuk",
+    "Signature day trip from Selçuk",
+    "Sunset viewpoint overlooking Selçuk"
+  ],
+  fethiye: [
+    "Fethiye historic center / Old Town",
+    "Fethiye main square and landmark viewpoints",
+    "Fethiye historic mosque / medina walk",
+    "Fethiye central market or bazaar",
+    "Turkey regional museum in Fethiye",
+    "Scenic park, waterfront or hillside walk in Fethiye",
+    "Signature day trip from Fethiye",
+    "Sunset viewpoint overlooking Fethiye"
+  ],
+  kas: [
+    "Kaş historic center / Old Town",
+    "Kaş main square and landmark viewpoints",
+    "Kaş historic mosque / medina walk",
+    "Kaş central market or bazaar",
+    "Turkey regional museum in Kaş",
+    "Scenic park, waterfront or hillside walk in Kaş",
+    "Signature day trip from Kaş",
+    "Sunset viewpoint overlooking Kaş"
+  ],
+  safranbolu: [
+    "Safranbolu historic center / Old Town",
+    "Safranbolu main square and landmark viewpoints",
+    "Safranbolu historic mosque / medina walk",
+    "Safranbolu central market or bazaar",
+    "Turkey regional museum in Safranbolu",
+    "Scenic park, waterfront or hillside walk in Safranbolu",
+    "Signature day trip from Safranbolu",
+    "Sunset viewpoint overlooking Safranbolu"
+  ],
+  manchester: [
+    "Manchester historic center / Old Town",
+    "Manchester main square and landmark viewpoints",
+    "Manchester cathedral / historic church",
+    "Manchester central market or bazaar",
+    "United Kingdom regional museum in Manchester",
+    "Scenic park, waterfront or hillside walk in Manchester",
+    "Signature day trip from Manchester",
+    "Sunset viewpoint overlooking Manchester"
+  ],
+  belfast: [
+    "Belfast historic center / Old Town",
+    "Belfast main square and landmark viewpoints",
+    "Belfast cathedral / historic church",
+    "Belfast central market or bazaar",
+    "United Kingdom regional museum in Belfast",
+    "Scenic park, waterfront or hillside walk in Belfast",
+    "Signature day trip from Belfast",
+    "Sunset viewpoint overlooking Belfast"
+  ],
+  cardiff: [
+    "Cardiff historic center / Old Town",
+    "Cardiff main square and landmark viewpoints",
+    "Cardiff cathedral / historic church",
+    "Cardiff central market or bazaar",
+    "United Kingdom regional museum in Cardiff",
+    "Scenic park, waterfront or hillside walk in Cardiff",
+    "Signature day trip from Cardiff",
+    "Sunset viewpoint overlooking Cardiff"
+  ],
+  inverness: [
+    "Inverness historic center / Old Town",
+    "Inverness main square and landmark viewpoints",
+    "Inverness cathedral / historic church",
+    "Inverness central market or bazaar",
+    "United Kingdom regional museum in Inverness",
+    "Scenic park, waterfront or hillside walk in Inverness",
+    "Signature day trip from Inverness",
+    "Sunset viewpoint overlooking Inverness"
+  ],
+  stirling: [
+    "Stirling historic center / Old Town",
+    "Stirling main square and landmark viewpoints",
+    "Stirling cathedral / historic church",
+    "Stirling central market or bazaar",
+    "United Kingdom regional museum in Stirling",
+    "Scenic park, waterfront or hillside walk in Stirling",
+    "Signature day trip from Stirling",
+    "Sunset viewpoint overlooking Stirling"
+  ],
+  "st-andrews": [
+    "St Andrews historic center / Old Town",
+    "St Andrews main square and landmark viewpoints",
+    "St Andrews cathedral / historic church",
+    "St Andrews central market or bazaar",
+    "United Kingdom regional museum in St Andrews",
+    "Scenic park, waterfront or hillside walk in St Andrews",
+    "Signature day trip from St Andrews",
+    "Sunset viewpoint overlooking St Andrews"
+  ],
+  obans: [
+    "Oban historic center / Old Town",
+    "Oban main square and landmark viewpoints",
+    "Oban cathedral / historic church",
+    "Oban central market or bazaar",
+    "United Kingdom regional museum in Oban",
+    "Scenic park, waterfront or hillside walk in Oban",
+    "Signature day trip from Oban",
+    "Sunset viewpoint overlooking Oban"
+  ],
+  galway: [
+    "Galway historic center / Old Town",
+    "Galway main square and landmark viewpoints",
+    "Galway cathedral / historic church",
+    "Galway central market or bazaar",
+    "Ireland regional museum in Galway",
+    "Scenic park, waterfront or hillside walk in Galway",
+    "Signature day trip from Galway",
+    "Sunset viewpoint overlooking Galway"
+  ],
+  "killarney-ie": [
+    "Killarney historic center / Old Town",
+    "Killarney main square and landmark viewpoints",
+    "Killarney cathedral / historic church",
+    "Killarney central market or bazaar",
+    "Ireland regional museum in Killarney",
+    "Scenic park, waterfront or hillside walk in Killarney",
+    "Signature day trip from Killarney",
+    "Sunset viewpoint overlooking Killarney"
+  ],
+  rotterdam: [
+    "Rotterdam historic center / Old Town",
+    "Rotterdam main square and landmark viewpoints",
+    "Rotterdam cathedral / historic church",
+    "Rotterdam central market or bazaar",
+    "Netherlands regional museum in Rotterdam",
+    "Scenic park, waterfront or hillside walk in Rotterdam",
+    "Signature day trip from Rotterdam",
+    "Sunset viewpoint overlooking Rotterdam"
+  ],
+  haarlem: [
+    "Haarlem historic center / Old Town",
+    "Haarlem main square and landmark viewpoints",
+    "Haarlem cathedral / historic church",
+    "Haarlem central market or bazaar",
+    "Netherlands regional museum in Haarlem",
+    "Scenic park, waterfront or hillside walk in Haarlem",
+    "Signature day trip from Haarlem",
+    "Sunset viewpoint overlooking Haarlem"
+  ],
+  utrecht: [
+    "Utrecht historic center / Old Town",
+    "Utrecht main square and landmark viewpoints",
+    "Utrecht cathedral / historic church",
+    "Utrecht central market or bazaar",
+    "Netherlands regional museum in Utrecht",
+    "Scenic park, waterfront or hillside walk in Utrecht",
+    "Signature day trip from Utrecht",
+    "Sunset viewpoint overlooking Utrecht"
+  ],
+  giethoorn: [
+    "Giethoorn historic center / Old Town",
+    "Giethoorn main square and landmark viewpoints",
+    "Giethoorn cathedral / historic church",
+    "Giethoorn central market or bazaar",
+    "Netherlands regional museum in Giethoorn",
+    "Scenic park, waterfront or hillside walk in Giethoorn",
+    "Signature day trip from Giethoorn",
+    "Sunset viewpoint overlooking Giethoorn"
+  ],
+  maastricht: [
+    "Maastricht historic center / Old Town",
+    "Maastricht main square and landmark viewpoints",
+    "Maastricht cathedral / historic church",
+    "Maastricht central market or bazaar",
+    "Netherlands regional museum in Maastricht",
+    "Scenic park, waterfront or hillside walk in Maastricht",
+    "Signature day trip from Maastricht",
+    "Sunset viewpoint overlooking Maastricht"
+  ],
+  hamburg: [
+    "Hamburg historic center / Old Town",
+    "Hamburg main square and landmark viewpoints",
+    "Hamburg cathedral / historic church",
+    "Hamburg central market or bazaar",
+    "Germany regional museum in Hamburg",
+    "Scenic park, waterfront or hillside walk in Hamburg",
+    "Signature day trip from Hamburg",
+    "Sunset viewpoint overlooking Hamburg"
+  ],
+  leipzig: [
+    "Leipzig historic center / Old Town",
+    "Leipzig main square and landmark viewpoints",
+    "Leipzig cathedral / historic church",
+    "Leipzig central market or bazaar",
+    "Germany regional museum in Leipzig",
+    "Scenic park, waterfront or hillside walk in Leipzig",
+    "Signature day trip from Leipzig",
+    "Sunset viewpoint overlooking Leipzig"
+  ],
+  potsdam: [
+    "Potsdam historic center / Old Town",
+    "Potsdam main square and landmark viewpoints",
+    "Potsdam cathedral / historic church",
+    "Potsdam central market or bazaar",
+    "Germany regional museum in Potsdam",
+    "Scenic park, waterfront or hillside walk in Potsdam",
+    "Signature day trip from Potsdam",
+    "Sunset viewpoint overlooking Potsdam"
+  ],
+  bamberg: [
+    "Bamberg historic center / Old Town",
+    "Bamberg main square and landmark viewpoints",
+    "Bamberg cathedral / historic church",
+    "Bamberg central market or bazaar",
+    "Germany regional museum in Bamberg",
+    "Scenic park, waterfront or hillside walk in Bamberg",
+    "Signature day trip from Bamberg",
+    "Sunset viewpoint overlooking Bamberg"
+  ],
+  rothensburg: [
+    "Rothenburg ob der Tauber historic center / Old Town",
+    "Rothenburg ob der Tauber main square and landmark viewpoints",
+    "Rothenburg ob der Tauber cathedral / historic church",
+    "Rothenburg ob der Tauber central market or bazaar",
+    "Germany regional museum in Rothenburg ob der Tauber",
+    "Scenic park, waterfront or hillside walk in Rothenburg ob der Tauber",
+    "Signature day trip from Rothenburg ob der Tauber",
+    "Sunset viewpoint overlooking Rothenburg ob der Tauber"
+  ],
+  fussen: [
+    "Füssen historic center / Old Town",
+    "Füssen main square and landmark viewpoints",
+    "Füssen cathedral / historic church",
+    "Füssen central market or bazaar",
+    "Germany regional museum in Füssen",
+    "Scenic park, waterfront or hillside walk in Füssen",
+    "Signature day trip from Füssen",
+    "Sunset viewpoint overlooking Füssen"
+  ],
+  "baden-baden": [
+    "Baden-Baden historic center / Old Town",
+    "Baden-Baden main square and landmark viewpoints",
+    "Baden-Baden cathedral / historic church",
+    "Baden-Baden central market or bazaar",
+    "Germany regional museum in Baden-Baden",
+    "Scenic park, waterfront or hillside walk in Baden-Baden",
+    "Signature day trip from Baden-Baden",
+    "Sunset viewpoint overlooking Baden-Baden"
+  ],
+  freiburg: [
+    "Freiburg historic center / Old Town",
+    "Freiburg main square and landmark viewpoints",
+    "Freiburg cathedral / historic church",
+    "Freiburg central market or bazaar",
+    "Germany regional museum in Freiburg",
+    "Scenic park, waterfront or hillside walk in Freiburg",
+    "Signature day trip from Freiburg",
+    "Sunset viewpoint overlooking Freiburg"
+  ],
+  "karlovy-vary": [
+    "Karlovy Vary historic center / Old Town",
+    "Karlovy Vary main square and landmark viewpoints",
+    "Karlovy Vary cathedral / historic church",
+    "Karlovy Vary central market or bazaar",
+    "Czech Republic regional museum in Karlovy Vary",
+    "Scenic park, waterfront or hillside walk in Karlovy Vary",
+    "Signature day trip from Karlovy Vary",
+    "Sunset viewpoint overlooking Karlovy Vary"
+  ],
+  hakone: [
+    "Hakone historic center / Old Town",
+    "Hakone main square and landmark viewpoints",
+    "Hakone temple / shrine circuit",
+    "Hakone central market or bazaar",
+    "Japan regional museum in Hakone",
+    "Scenic park, waterfront or hillside walk in Hakone",
+    "Signature day trip from Hakone",
+    "Sunset viewpoint overlooking Hakone"
+  ],
+  nikko: [
+    "Nikkō historic center / Old Town",
+    "Nikkō main square and landmark viewpoints",
+    "Nikkō temple / shrine circuit",
+    "Nikkō central market or bazaar",
+    "Japan regional museum in Nikkō",
+    "Scenic park, waterfront or hillside walk in Nikkō",
+    "Signature day trip from Nikkō",
+    "Sunset viewpoint overlooking Nikkō"
+  ],
+  kamakura: [
+    "Kamakura historic center / Old Town",
+    "Kamakura main square and landmark viewpoints",
+    "Kamakura temple / shrine circuit",
+    "Kamakura central market or bazaar",
+    "Japan regional museum in Kamakura",
+    "Scenic park, waterfront or hillside walk in Kamakura",
+    "Signature day trip from Kamakura",
+    "Sunset viewpoint overlooking Kamakura"
+  ],
+  okayama: [
+    "Okayama historic center / Old Town",
+    "Okayama main square and landmark viewpoints",
+    "Okayama temple / shrine circuit",
+    "Okayama central market or bazaar",
+    "Japan regional museum in Okayama",
+    "Scenic park, waterfront or hillside walk in Okayama",
+    "Signature day trip from Okayama",
+    "Sunset viewpoint overlooking Okayama"
+  ],
+  matsuyama: [
+    "Matsuyama historic center / Old Town",
+    "Matsuyama main square and landmark viewpoints",
+    "Matsuyama temple / shrine circuit",
+    "Matsuyama central market or bazaar",
+    "Japan regional museum in Matsuyama",
+    "Scenic park, waterfront or hillside walk in Matsuyama",
+    "Signature day trip from Matsuyama",
+    "Sunset viewpoint overlooking Matsuyama"
+  ],
+  kobe: [
+    "Kobe historic center / Old Town",
+    "Kobe main square and landmark viewpoints",
+    "Kobe temple / shrine circuit",
+    "Kobe central market or bazaar",
+    "Japan regional museum in Kobe",
+    "Scenic park, waterfront or hillside walk in Kobe",
+    "Signature day trip from Kobe",
+    "Sunset viewpoint overlooking Kobe"
+  ],
+  sendai: [
+    "Sendai historic center / Old Town",
+    "Sendai main square and landmark viewpoints",
+    "Sendai temple / shrine circuit",
+    "Sendai central market or bazaar",
+    "Japan regional museum in Sendai",
+    "Scenic park, waterfront or hillside walk in Sendai",
+    "Signature day trip from Sendai",
+    "Sunset viewpoint overlooking Sendai"
+  ],
+  beppu: [
+    "Beppu historic center / Old Town",
+    "Beppu main square and landmark viewpoints",
+    "Beppu temple / shrine circuit",
+    "Beppu central market or bazaar",
+    "Japan regional museum in Beppu",
+    "Scenic park, waterfront or hillside walk in Beppu",
+    "Signature day trip from Beppu",
+    "Sunset viewpoint overlooking Beppu"
+  ],
+  takamatsu: [
+    "Takamatsu historic center / Old Town",
+    "Takamatsu main square and landmark viewpoints",
+    "Takamatsu temple / shrine circuit",
+    "Takamatsu central market or bazaar",
+    "Japan regional museum in Takamatsu",
+    "Scenic park, waterfront or hillside walk in Takamatsu",
+    "Signature day trip from Takamatsu",
+    "Sunset viewpoint overlooking Takamatsu"
+  ],
+  "jeju-city": [
+    "Jeju City historic center / Old Town",
+    "Jeju City main square and landmark viewpoints",
+    "Jeju City temple / shrine circuit",
+    "Jeju City central market or bazaar",
+    "South Korea regional museum in Jeju City",
+    "Scenic park, waterfront or hillside walk in Jeju City",
+    "Signature day trip from Jeju City",
+    "Sunset viewpoint overlooking Jeju City"
+  ],
+  sokcho: [
+    "Sokcho historic center / Old Town",
+    "Sokcho main square and landmark viewpoints",
+    "Sokcho temple / shrine circuit",
+    "Sokcho central market or bazaar",
+    "South Korea regional museum in Sokcho",
+    "Scenic park, waterfront or hillside walk in Sokcho",
+    "Signature day trip from Sokcho",
+    "Sunset viewpoint overlooking Sokcho"
+  ],
+  gangneung: [
+    "Gangneung historic center / Old Town",
+    "Gangneung main square and landmark viewpoints",
+    "Gangneung temple / shrine circuit",
+    "Gangneung central market or bazaar",
+    "South Korea regional museum in Gangneung",
+    "Scenic park, waterfront or hillside walk in Gangneung",
+    "Signature day trip from Gangneung",
+    "Sunset viewpoint overlooking Gangneung"
+  ],
+  suwon: [
+    "Suwon historic center / Old Town",
+    "Suwon main square and landmark viewpoints",
+    "Suwon temple / shrine circuit",
+    "Suwon central market or bazaar",
+    "South Korea regional museum in Suwon",
+    "Scenic park, waterfront or hillside walk in Suwon",
+    "Signature day trip from Suwon",
+    "Sunset viewpoint overlooking Suwon"
+  ],
+  tainan: [
+    "Tainan historic center / Old Town",
+    "Tainan main square and landmark viewpoints",
+    "Tainan temple / shrine circuit",
+    "Tainan central market or bazaar",
+    "Taiwan regional museum in Tainan",
+    "Scenic park, waterfront or hillside walk in Tainan",
+    "Signature day trip from Tainan",
+    "Sunset viewpoint overlooking Tainan"
+  ],
+  xian: [
+    "Xi'an historic center / Old Town",
+    "Xi'an main square and landmark viewpoints",
+    "Xi'an temple / shrine circuit",
+    "Xi'an central market or bazaar",
+    "China regional museum in Xi'an",
+    "Scenic park, waterfront or hillside walk in Xi'an",
+    "Signature day trip from Xi'an",
+    "Sunset viewpoint overlooking Xi'an"
+  ],
+  qingdao: [
+    "Qingdao historic center / Old Town",
+    "Qingdao main square and landmark viewpoints",
+    "Qingdao temple / shrine circuit",
+    "Qingdao central market or bazaar",
+    "China regional museum in Qingdao",
+    "Scenic park, waterfront or hillside walk in Qingdao",
+    "Signature day trip from Qingdao",
+    "Sunset viewpoint overlooking Qingdao"
+  ],
+  dalian: [
+    "Dalian historic center / Old Town",
+    "Dalian main square and landmark viewpoints",
+    "Dalian temple / shrine circuit",
+    "Dalian central market or bazaar",
+    "China regional museum in Dalian",
+    "Scenic park, waterfront or hillside walk in Dalian",
+    "Signature day trip from Dalian",
+    "Sunset viewpoint overlooking Dalian"
+  ],
+  harbin: [
+    "Harbin historic center / Old Town",
+    "Harbin main square and landmark viewpoints",
+    "Harbin temple / shrine circuit",
+    "Harbin central market or bazaar",
+    "China regional museum in Harbin",
+    "Scenic park, waterfront or hillside walk in Harbin",
+    "Signature day trip from Harbin",
+    "Sunset viewpoint overlooking Harbin"
+  ],
+  lhasa: [
+    "Lhasa historic center / Old Town",
+    "Lhasa main square and landmark viewpoints",
+    "Lhasa temple / shrine circuit",
+    "Lhasa central market or bazaar",
+    "China regional museum in Lhasa",
+    "Scenic park, waterfront or hillside walk in Lhasa",
+    "Signature day trip from Lhasa",
+    "Sunset viewpoint overlooking Lhasa"
+  ],
+  zhangjiajie: [
+    "Zhangjiajie historic center / Old Town",
+    "Zhangjiajie main square and landmark viewpoints",
+    "Zhangjiajie temple / shrine circuit",
+    "Zhangjiajie central market or bazaar",
+    "China regional museum in Zhangjiajie",
+    "Scenic park, waterfront or hillside walk in Zhangjiajie",
+    "Signature day trip from Zhangjiajie",
+    "Sunset viewpoint overlooking Zhangjiajie"
+  ],
+  "huangshan-city": [
+    "Huangshan historic center / Old Town",
+    "Huangshan main square and landmark viewpoints",
+    "Huangshan temple / shrine circuit",
+    "Huangshan central market or bazaar",
+    "China regional museum in Huangshan",
+    "Scenic park, waterfront or hillside walk in Huangshan",
+    "Signature day trip from Huangshan",
+    "Sunset viewpoint overlooking Huangshan"
+  ],
+  yangshuo: [
+    "Yangshuo historic center / Old Town",
+    "Yangshuo main square and landmark viewpoints",
+    "Yangshuo temple / shrine circuit",
+    "Yangshuo central market or bazaar",
+    "China regional museum in Yangshuo",
+    "Scenic park, waterfront or hillside walk in Yangshuo",
+    "Signature day trip from Yangshuo",
+    "Sunset viewpoint overlooking Yangshuo"
+  ],
+  pingyao: [
+    "Pingyao historic center / Old Town",
+    "Pingyao main square and landmark viewpoints",
+    "Pingyao temple / shrine circuit",
+    "Pingyao central market or bazaar",
+    "China regional museum in Pingyao",
+    "Scenic park, waterfront or hillside walk in Pingyao",
+    "Signature day trip from Pingyao",
+    "Sunset viewpoint overlooking Pingyao"
+  ],
+  uluwatu: [
+    "Uluwatu historic center / Old Town",
+    "Uluwatu main square and landmark viewpoints",
+    "Uluwatu temple / shrine circuit",
+    "Uluwatu central market or bazaar",
+    "Indonesia regional museum in Uluwatu",
+    "Scenic park, waterfront or hillside walk in Uluwatu",
+    "Signature day trip from Uluwatu",
+    "Sunset viewpoint overlooking Uluwatu"
+  ],
+  ubud: [
+    "Ubud historic center / Old Town",
+    "Ubud main square and landmark viewpoints",
+    "Ubud temple / shrine circuit",
+    "Ubud central market or bazaar",
+    "Indonesia regional museum in Ubud",
+    "Scenic park, waterfront or hillside walk in Ubud",
+    "Signature day trip from Ubud",
+    "Sunset viewpoint overlooking Ubud"
+  ],
+  seminyak: [
+    "Seminyak historic center / Old Town",
+    "Seminyak main square and landmark viewpoints",
+    "Seminyak temple / shrine circuit",
+    "Seminyak central market or bazaar",
+    "Indonesia regional museum in Seminyak",
+    "Scenic park, waterfront or hillside walk in Seminyak",
+    "Signature day trip from Seminyak",
+    "Sunset viewpoint overlooking Seminyak"
+  ],
+  "lombok-mataram": [
+    "Mataram historic center / Old Town",
+    "Mataram main square and landmark viewpoints",
+    "Mataram temple / shrine circuit",
+    "Mataram central market or bazaar",
+    "Indonesia regional museum in Mataram",
+    "Scenic park, waterfront or hillside walk in Mataram",
+    "Signature day trip from Mataram",
+    "Sunset viewpoint overlooking Mataram"
+  ],
+  sanur: [
+    "Sanur historic center / Old Town",
+    "Sanur main square and landmark viewpoints",
+    "Sanur temple / shrine circuit",
+    "Sanur central market or bazaar",
+    "Indonesia regional museum in Sanur",
+    "Scenic park, waterfront or hillside walk in Sanur",
+    "Signature day trip from Sanur",
+    "Sunset viewpoint overlooking Sanur"
+  ],
+  bandung: [
+    "Bandung historic center / Old Town",
+    "Bandung main square and landmark viewpoints",
+    "Bandung temple / shrine circuit",
+    "Bandung central market or bazaar",
+    "Indonesia regional museum in Bandung",
+    "Scenic park, waterfront or hillside walk in Bandung",
+    "Signature day trip from Bandung",
+    "Sunset viewpoint overlooking Bandung"
+  ],
+  makassar: [
+    "Makassar historic center / Old Town",
+    "Makassar main square and landmark viewpoints",
+    "Makassar temple / shrine circuit",
+    "Makassar central market or bazaar",
+    "Indonesia regional museum in Makassar",
+    "Scenic park, waterfront or hillside walk in Makassar",
+    "Signature day trip from Makassar",
+    "Sunset viewpoint overlooking Makassar"
+  ],
+  "cebu-city": [
+    "Cebu City historic center / Old Town",
+    "Cebu City main square and landmark viewpoints",
+    "Cebu City temple / shrine circuit",
+    "Cebu City central market or bazaar",
+    "Philippines regional museum in Cebu City",
+    "Scenic park, waterfront or hillside walk in Cebu City",
+    "Signature day trip from Cebu City",
+    "Sunset viewpoint overlooking Cebu City"
+  ],
+  "palawan-puerto-princesa": [
+    "Puerto Princesa historic center / Old Town",
+    "Puerto Princesa main square and landmark viewpoints",
+    "Puerto Princesa temple / shrine circuit",
+    "Puerto Princesa central market or bazaar",
+    "Philippines regional museum in Puerto Princesa",
+    "Scenic park, waterfront or hillside walk in Puerto Princesa",
+    "Signature day trip from Puerto Princesa",
+    "Sunset viewpoint overlooking Puerto Princesa"
+  ],
+  sapa: [
+    "Sa Pa historic center / Old Town",
+    "Sa Pa main square and landmark viewpoints",
+    "Sa Pa temple / shrine circuit",
+    "Sa Pa central market or bazaar",
+    "Vietnam regional museum in Sa Pa",
+    "Scenic park, waterfront or hillside walk in Sa Pa",
+    "Signature day trip from Sa Pa",
+    "Sunset viewpoint overlooking Sa Pa"
+  ],
+  "ha-long": [
+    "Ha Long historic center / Old Town",
+    "Ha Long main square and landmark viewpoints",
+    "Ha Long temple / shrine circuit",
+    "Ha Long central market or bazaar",
+    "Vietnam regional museum in Ha Long",
+    "Scenic park, waterfront or hillside walk in Ha Long",
+    "Signature day trip from Ha Long",
+    "Sunset viewpoint overlooking Ha Long"
+  ],
+  sihanoukville: [
+    "Sihanoukville historic center / Old Town",
+    "Sihanoukville main square and landmark viewpoints",
+    "Sihanoukville temple / shrine circuit",
+    "Sihanoukville central market or bazaar",
+    "Cambodia regional museum in Sihanoukville",
+    "Scenic park, waterfront or hillside walk in Sihanoukville",
+    "Signature day trip from Sihanoukville",
+    "Sunset viewpoint overlooking Sihanoukville"
+  ],
+  "vanga-vieng": [
+    "Vang Vieng historic center / Old Town",
+    "Vang Vieng main square and landmark viewpoints",
+    "Vang Vieng temple / shrine circuit",
+    "Vang Vieng central market or bazaar",
+    "Laos regional museum in Vang Vieng",
+    "Scenic park, waterfront or hillside walk in Vang Vieng",
+    "Signature day trip from Vang Vieng",
+    "Sunset viewpoint overlooking Vang Vieng"
+  ],
+  "penang-george-town": [
+    "George Town historic center / Old Town",
+    "George Town main square and landmark viewpoints",
+    "George Town temple / shrine circuit",
+    "George Town central market or bazaar",
+    "Malaysia regional museum in George Town",
+    "Scenic park, waterfront or hillside walk in George Town",
+    "Signature day trip from George Town",
+    "Sunset viewpoint overlooking George Town"
+  ],
+  ipoh: [
+    "Ipoh historic center / Old Town",
+    "Ipoh main square and landmark viewpoints",
+    "Ipoh temple / shrine circuit",
+    "Ipoh central market or bazaar",
+    "Malaysia regional museum in Ipoh",
+    "Scenic park, waterfront or hillside walk in Ipoh",
+    "Signature day trip from Ipoh",
+    "Sunset viewpoint overlooking Ipoh"
+  ],
+  kuching: [
+    "Kuching historic center / Old Town",
+    "Kuching main square and landmark viewpoints",
+    "Kuching temple / shrine circuit",
+    "Kuching central market or bazaar",
+    "Malaysia regional museum in Kuching",
+    "Scenic park, waterfront or hillside walk in Kuching",
+    "Signature day trip from Kuching",
+    "Sunset viewpoint overlooking Kuching"
+  ],
+  "phuket-town": [
+    "Phuket City historic center / Old Town",
+    "Phuket City main square and landmark viewpoints",
+    "Phuket City temple / shrine circuit",
+    "Phuket City central market or bazaar",
+    "Thailand regional museum in Phuket City",
+    "Scenic park, waterfront or hillside walk in Phuket City",
+    "Signature day trip from Phuket City",
+    "Sunset viewpoint overlooking Phuket City"
+  ],
+  "krabi-town": [
+    "Krabi historic center / Old Town",
+    "Krabi main square and landmark viewpoints",
+    "Krabi temple / shrine circuit",
+    "Krabi central market or bazaar",
+    "Thailand regional museum in Krabi",
+    "Scenic park, waterfront or hillside walk in Krabi",
+    "Signature day trip from Krabi",
+    "Sunset viewpoint overlooking Krabi"
+  ],
+  sukothai: [
+    "Sukhothai historic center / Old Town",
+    "Sukhothai main square and landmark viewpoints",
+    "Sukhothai temple / shrine circuit",
+    "Sukhothai central market or bazaar",
+    "Thailand regional museum in Sukhothai",
+    "Scenic park, waterfront or hillside walk in Sukhothai",
+    "Signature day trip from Sukhothai",
+    "Sunset viewpoint overlooking Sukhothai"
+  ],
+  pai: [
+    "Pai historic center / Old Town",
+    "Pai main square and landmark viewpoints",
+    "Pai temple / shrine circuit",
+    "Pai central market or bazaar",
+    "Thailand regional museum in Pai",
+    "Scenic park, waterfront or hillside walk in Pai",
+    "Signature day trip from Pai",
+    "Sunset viewpoint overlooking Pai"
+  ],
+  "khao-lak": [
+    "Khao Lak historic center / Old Town",
+    "Khao Lak main square and landmark viewpoints",
+    "Khao Lak temple / shrine circuit",
+    "Khao Lak central market or bazaar",
+    "Thailand regional museum in Khao Lak",
+    "Scenic park, waterfront or hillside walk in Khao Lak",
+    "Signature day trip from Khao Lak",
+    "Sunset viewpoint overlooking Khao Lak"
+  ],
+  "goa-panaji": [
+    "Panaji historic center / Old Town",
+    "Panaji main square and landmark viewpoints",
+    "Panaji temple / shrine circuit",
+    "Panaji central market or bazaar",
+    "India regional museum in Panaji",
+    "Scenic park, waterfront or hillside walk in Panaji",
+    "Signature day trip from Panaji",
+    "Sunset viewpoint overlooking Panaji"
+  ],
+  hyderabad: [
+    "Hyderabad historic center / Old Town",
+    "Hyderabad main square and landmark viewpoints",
+    "Hyderabad temple / shrine circuit",
+    "Hyderabad central market or bazaar",
+    "India regional museum in Hyderabad",
+    "Scenic park, waterfront or hillside walk in Hyderabad",
+    "Signature day trip from Hyderabad",
+    "Sunset viewpoint overlooking Hyderabad"
+  ],
+  chennai: [
+    "Chennai historic center / Old Town",
+    "Chennai main square and landmark viewpoints",
+    "Chennai temple / shrine circuit",
+    "Chennai central market or bazaar",
+    "India regional museum in Chennai",
+    "Scenic park, waterfront or hillside walk in Chennai",
+    "Signature day trip from Chennai",
+    "Sunset viewpoint overlooking Chennai"
+  ],
+  bengaluru: [
+    "Bengaluru historic center / Old Town",
+    "Bengaluru main square and landmark viewpoints",
+    "Bengaluru temple / shrine circuit",
+    "Bengaluru central market or bazaar",
+    "India regional museum in Bengaluru",
+    "Scenic park, waterfront or hillside walk in Bengaluru",
+    "Signature day trip from Bengaluru",
+    "Sunset viewpoint overlooking Bengaluru"
+  ],
+  kandy: [
+    "Kandy historic center / Old Town",
+    "Kandy main square and landmark viewpoints",
+    "Kandy temple / shrine circuit",
+    "Kandy central market or bazaar",
+    "Sri Lanka regional museum in Kandy",
+    "Scenic park, waterfront or hillside walk in Kandy",
+    "Signature day trip from Kandy",
+    "Sunset viewpoint overlooking Kandy"
+  ],
+  ella: [
+    "Ella historic center / Old Town",
+    "Ella main square and landmark viewpoints",
+    "Ella temple / shrine circuit",
+    "Ella central market or bazaar",
+    "Sri Lanka regional museum in Ella",
+    "Scenic park, waterfront or hillside walk in Ella",
+    "Signature day trip from Ella",
+    "Sunset viewpoint overlooking Ella"
+  ],
+  sigiriya: [
+    "Sigiriya historic center / Old Town",
+    "Sigiriya main square and landmark viewpoints",
+    "Sigiriya temple / shrine circuit",
+    "Sigiriya central market or bazaar",
+    "Sri Lanka regional museum in Sigiriya",
+    "Scenic park, waterfront or hillside walk in Sigiriya",
+    "Signature day trip from Sigiriya",
+    "Sunset viewpoint overlooking Sigiriya"
+  ],
+  paro: [
+    "Paro historic center / Old Town",
+    "Paro main square and landmark viewpoints",
+    "Paro temple / shrine circuit",
+    "Paro central market or bazaar",
+    "Bhutan regional museum in Paro",
+    "Scenic park, waterfront or hillside walk in Paro",
+    "Signature day trip from Paro",
+    "Sunset viewpoint overlooking Paro"
+  ],
+  bukhara: [
+    "Bukhara historic center / Old Town",
+    "Bukhara main square and landmark viewpoints",
+    "Bukhara cathedral / historic church",
+    "Bukhara central market or bazaar",
+    "Uzbekistan regional museum in Bukhara",
+    "Scenic park, waterfront or hillside walk in Bukhara",
+    "Signature day trip from Bukhara",
+    "Sunset viewpoint overlooking Bukhara"
+  ],
+  khiva: [
+    "Khiva historic center / Old Town",
+    "Khiva main square and landmark viewpoints",
+    "Khiva cathedral / historic church",
+    "Khiva central market or bazaar",
+    "Uzbekistan regional museum in Khiva",
+    "Scenic park, waterfront or hillside walk in Khiva",
+    "Signature day trip from Khiva",
+    "Sunset viewpoint overlooking Khiva"
+  ],
+  ulaanbaatar: [
+    "Ulaanbaatar historic center / Old Town",
+    "Ulaanbaatar main square and landmark viewpoints",
+    "Ulaanbaatar cathedral / historic church",
+    "Ulaanbaatar central market or bazaar",
+    "Mongolia regional museum in Ulaanbaatar",
+    "Scenic park, waterfront or hillside walk in Ulaanbaatar",
+    "Signature day trip from Ulaanbaatar",
+    "Sunset viewpoint overlooking Ulaanbaatar"
+  ],
+  alula: [
+    "AlUla historic center / Old Town",
+    "AlUla main square and landmark viewpoints",
+    "AlUla historic mosque / medina walk",
+    "AlUla central market or bazaar",
+    "Saudi Arabia regional museum in AlUla",
+    "Scenic park, waterfront or hillside walk in AlUla",
+    "Signature day trip from AlUla",
+    "Sunset viewpoint overlooking AlUla"
+  ],
+  "petra-wadi-musa": [
+    "Wadi Musa historic center / Old Town",
+    "Wadi Musa main square and landmark viewpoints",
+    "Wadi Musa historic mosque / medina walk",
+    "Wadi Musa central market or bazaar",
+    "Jordan regional museum in Wadi Musa",
+    "Scenic park, waterfront or hillside walk in Wadi Musa",
+    "Signature day trip from Wadi Musa",
+    "Sunset viewpoint overlooking Wadi Musa"
+  ],
+  aqaba: [
+    "Aqaba historic center / Old Town",
+    "Aqaba main square and landmark viewpoints",
+    "Aqaba historic mosque / medina walk",
+    "Aqaba central market or bazaar",
+    "Jordan regional museum in Aqaba",
+    "Scenic park, waterfront or hillside walk in Aqaba",
+    "Signature day trip from Aqaba",
+    "Sunset viewpoint overlooking Aqaba"
+  ],
+  "dead-sea-jordan": [
+    "Sweimeh historic center / Old Town",
+    "Sweimeh main square and landmark viewpoints",
+    "Sweimeh historic mosque / medina walk",
+    "Sweimeh central market or bazaar",
+    "Jordan regional museum in Sweimeh",
+    "Scenic park, waterfront or hillside walk in Sweimeh",
+    "Signature day trip from Sweimeh",
+    "Sunset viewpoint overlooking Sweimeh"
+  ],
+  beirut: [
+    "Beirut historic center / Old Town",
+    "Beirut main square and landmark viewpoints",
+    "Beirut historic mosque / medina walk",
+    "Beirut central market or bazaar",
+    "Lebanon regional museum in Beirut",
+    "Scenic park, waterfront or hillside walk in Beirut",
+    "Signature day trip from Beirut",
+    "Sunset viewpoint overlooking Beirut"
+  ],
+  eilat: [
+    "Eilat historic center / Old Town",
+    "Eilat main square and landmark viewpoints",
+    "Eilat historic mosque / medina walk",
+    "Eilat central market or bazaar",
+    "Israel regional museum in Eilat",
+    "Scenic park, waterfront or hillside walk in Eilat",
+    "Signature day trip from Eilat",
+    "Sunset viewpoint overlooking Eilat"
+  ],
+  agadir: [
+    "Agadir historic center / Old Town",
+    "Agadir main square and landmark viewpoints",
+    "Agadir historic mosque / medina walk",
+    "Agadir central market or bazaar",
+    "Morocco regional museum in Agadir",
+    "Scenic park, waterfront or hillside walk in Agadir",
+    "Signature day trip from Agadir",
+    "Sunset viewpoint overlooking Agadir"
+  ],
+  sousse: [
+    "Sousse historic center / Old Town",
+    "Sousse main square and landmark viewpoints",
+    "Sousse cathedral / historic church",
+    "Sousse central market or bazaar",
+    "Tunisia regional museum in Sousse",
+    "Scenic park, waterfront or hillside walk in Sousse",
+    "Signature day trip from Sousse",
+    "Sunset viewpoint overlooking Sousse"
+  ],
+  djerba: [
+    "Houmt Souk historic center / Old Town",
+    "Houmt Souk main square and landmark viewpoints",
+    "Houmt Souk cathedral / historic church",
+    "Houmt Souk central market or bazaar",
+    "Tunisia regional museum in Houmt Souk",
+    "Scenic park, waterfront or hillside walk in Houmt Souk",
+    "Signature day trip from Houmt Souk",
+    "Sunset viewpoint overlooking Houmt Souk"
+  ],
+  durban: [
+    "Durban historic center / Old Town",
+    "Durban main square and landmark viewpoints",
+    "Durban cathedral / historic church",
+    "Durban central market or bazaar",
+    "South Africa regional museum in Durban",
+    "Scenic park, waterfront or hillside walk in Durban",
+    "Signature day trip from Durban",
+    "Sunset viewpoint overlooking Durban"
+  ],
+  stellenbosch: [
+    "Stellenbosch historic center / Old Town",
+    "Stellenbosch main square and landmark viewpoints",
+    "Stellenbosch cathedral / historic church",
+    "Stellenbosch central market or bazaar",
+    "South Africa regional museum in Stellenbosch",
+    "Scenic park, waterfront or hillside walk in Stellenbosch",
+    "Signature day trip from Stellenbosch",
+    "Sunset viewpoint overlooking Stellenbosch"
+  ],
+  "kruger-nelspruit": [
+    "Mbombela historic center / Old Town",
+    "Mbombela main square and landmark viewpoints",
+    "Mbombela cathedral / historic church",
+    "Mbombela central market or bazaar",
+    "South Africa regional museum in Mbombela",
+    "Scenic park, waterfront or hillside walk in Mbombela",
+    "Signature day trip from Mbombela",
+    "Sunset viewpoint overlooking Mbombela"
+  ],
+  "victoria-falls-town": [
+    "Victoria Falls historic center / Old Town",
+    "Victoria Falls main square and landmark viewpoints",
+    "Victoria Falls cathedral / historic church",
+    "Victoria Falls central market or bazaar",
+    "Zimbabwe regional museum in Victoria Falls",
+    "Scenic park, waterfront or hillside walk in Victoria Falls",
+    "Signature day trip from Victoria Falls",
+    "Sunset viewpoint overlooking Victoria Falls"
+  ],
+  "zanzibar-stone-town": [
+    "Stone Town historic center / Old Town",
+    "Stone Town main square and landmark viewpoints",
+    "Stone Town cathedral / historic church",
+    "Stone Town central market or bazaar",
+    "Tanzania regional museum in Stone Town",
+    "Scenic park, waterfront or hillside walk in Stone Town",
+    "Signature day trip from Stone Town",
+    "Sunset viewpoint overlooking Stone Town"
+  ],
+  arusha: [
+    "Arusha historic center / Old Town",
+    "Arusha main square and landmark viewpoints",
+    "Arusha cathedral / historic church",
+    "Arusha central market or bazaar",
+    "Tanzania regional museum in Arusha",
+    "Scenic park, waterfront or hillside walk in Arusha",
+    "Signature day trip from Arusha",
+    "Sunset viewpoint overlooking Arusha"
+  ],
+  lalibela: [
+    "Lalibela historic center / Old Town",
+    "Lalibela main square and landmark viewpoints",
+    "Lalibela cathedral / historic church",
+    "Lalibela central market or bazaar",
+    "Ethiopia regional museum in Lalibela",
+    "Scenic park, waterfront or hillside walk in Lalibela",
+    "Signature day trip from Lalibela",
+    "Sunset viewpoint overlooking Lalibela"
+  ],
+  lagos: [
+    "Lagos historic center / Old Town",
+    "Lagos main square and landmark viewpoints",
+    "Lagos cathedral / historic church",
+    "Lagos central market or bazaar",
+    "Nigeria regional museum in Lagos",
+    "Scenic park, waterfront or hillside walk in Lagos",
+    "Signature day trip from Lagos",
+    "Sunset viewpoint overlooking Lagos"
+  ],
+  "seychelles-victoria": [
+    "Victoria historic center / Old Town",
+    "Victoria main square and landmark viewpoints",
+    "Victoria cathedral / historic church",
+    "Victoria central market or bazaar",
+    "Seychelles regional museum in Victoria",
+    "Scenic park, waterfront or hillside walk in Victoria",
+    "Signature day trip from Victoria",
+    "Sunset viewpoint overlooking Victoria"
+  ],
+  "victoria-bc": [
+    "Victoria historic center / Old Town",
+    "Victoria main square and landmark viewpoints",
+    "Victoria cathedral / historic church",
+    "Victoria central market or bazaar",
+    "Canada regional museum in Victoria",
+    "Scenic park, waterfront or hillside walk in Victoria",
+    "Signature day trip from Victoria",
+    "Sunset viewpoint overlooking Victoria"
+  ],
+  whistler: [
+    "Whistler historic center / Old Town",
+    "Whistler main square and landmark viewpoints",
+    "Whistler cathedral / historic church",
+    "Whistler central market or bazaar",
+    "Canada regional museum in Whistler",
+    "Scenic park, waterfront or hillside walk in Whistler",
+    "Signature day trip from Whistler",
+    "Sunset viewpoint overlooking Whistler"
+  ],
+  "niagara-falls": [
+    "Niagara Falls historic center / Old Town",
+    "Niagara Falls main square and landmark viewpoints",
+    "Niagara Falls cathedral / historic church",
+    "Niagara Falls central market or bazaar",
+    "Canada regional museum in Niagara Falls",
+    "Scenic park, waterfront or hillside walk in Niagara Falls",
+    "Signature day trip from Niagara Falls",
+    "Sunset viewpoint overlooking Niagara Falls"
+  ],
+  jasper: [
+    "Jasper historic center / Old Town",
+    "Jasper main square and landmark viewpoints",
+    "Jasper cathedral / historic church",
+    "Jasper central market or bazaar",
+    "Canada regional museum in Jasper",
+    "Scenic park, waterfront or hillside walk in Jasper",
+    "Signature day trip from Jasper",
+    "Sunset viewpoint overlooking Jasper"
+  ],
+  asheville: [
+    "Asheville historic center / Old Town",
+    "Asheville main square and landmark viewpoints",
+    "Asheville cathedral / historic church",
+    "Asheville central market or bazaar",
+    "United States regional museum in Asheville",
+    "Scenic park, waterfront or hillside walk in Asheville",
+    "Signature day trip from Asheville",
+    "Sunset viewpoint overlooking Asheville"
+  ],
+  "santa-fe": [
+    "Santa Fe historic center / Old Town",
+    "Santa Fe main square and landmark viewpoints",
+    "Santa Fe cathedral / historic church",
+    "Santa Fe central market or bazaar",
+    "United States regional museum in Santa Fe",
+    "Scenic park, waterfront or hillside walk in Santa Fe",
+    "Signature day trip from Santa Fe",
+    "Sunset viewpoint overlooking Santa Fe"
+  ],
+  moab: [
+    "Moab historic center / Old Town",
+    "Moab main square and landmark viewpoints",
+    "Moab cathedral / historic church",
+    "Moab central market or bazaar",
+    "United States regional museum in Moab",
+    "Scenic park, waterfront or hillside walk in Moab",
+    "Signature day trip from Moab",
+    "Sunset viewpoint overlooking Moab"
+  ],
+  "jackson-hole": [
+    "Jackson historic center / Old Town",
+    "Jackson main square and landmark viewpoints",
+    "Jackson cathedral / historic church",
+    "Jackson central market or bazaar",
+    "United States regional museum in Jackson",
+    "Scenic park, waterfront or hillside walk in Jackson",
+    "Signature day trip from Jackson",
+    "Sunset viewpoint overlooking Jackson"
+  ],
+  napa: [
+    "Napa historic center / Old Town",
+    "Napa main square and landmark viewpoints",
+    "Napa cathedral / historic church",
+    "Napa central market or bazaar",
+    "United States regional museum in Napa",
+    "Scenic park, waterfront or hillside walk in Napa",
+    "Signature day trip from Napa",
+    "Sunset viewpoint overlooking Napa"
+  ],
+  monterey: [
+    "Monterey historic center / Old Town",
+    "Monterey main square and landmark viewpoints",
+    "Monterey cathedral / historic church",
+    "Monterey central market or bazaar",
+    "United States regional museum in Monterey",
+    "Scenic park, waterfront or hillside walk in Monterey",
+    "Signature day trip from Monterey",
+    "Sunset viewpoint overlooking Monterey"
+  ],
+  "santa-barbara": [
+    "Santa Barbara historic center / Old Town",
+    "Santa Barbara main square and landmark viewpoints",
+    "Santa Barbara cathedral / historic church",
+    "Santa Barbara central market or bazaar",
+    "United States regional museum in Santa Barbara",
+    "Scenic park, waterfront or hillside walk in Santa Barbara",
+    "Signature day trip from Santa Barbara",
+    "Sunset viewpoint overlooking Santa Barbara"
+  ],
+  carmel: [
+    "Carmel-by-the-Sea historic center / Old Town",
+    "Carmel-by-the-Sea main square and landmark viewpoints",
+    "Carmel-by-the-Sea cathedral / historic church",
+    "Carmel-by-the-Sea central market or bazaar",
+    "United States regional museum in Carmel-by-the-Sea",
+    "Scenic park, waterfront or hillside walk in Carmel-by-the-Sea",
+    "Signature day trip from Carmel-by-the-Sea",
+    "Sunset viewpoint overlooking Carmel-by-the-Sea"
+  ],
+  anchorage: [
+    "Anchorage historic center / Old Town",
+    "Anchorage main square and landmark viewpoints",
+    "Anchorage cathedral / historic church",
+    "Anchorage central market or bazaar",
+    "United States regional museum in Anchorage",
+    "Scenic park, waterfront or hillside walk in Anchorage",
+    "Signature day trip from Anchorage",
+    "Sunset viewpoint overlooking Anchorage"
+  ],
+  "maui-lahaina": [
+    "Lahaina historic center / Old Town",
+    "Lahaina main square and landmark viewpoints",
+    "Lahaina cathedral / historic church",
+    "Lahaina central market or bazaar",
+    "United States regional museum in Lahaina",
+    "Scenic park, waterfront or hillside walk in Lahaina",
+    "Signature day trip from Lahaina",
+    "Sunset viewpoint overlooking Lahaina"
+  ],
+  varadero: [
+    "Varadero historic center / Old Town",
+    "Varadero main square and landmark viewpoints",
+    "Varadero cathedral / historic church",
+    "Varadero central market or bazaar",
+    "Cuba regional museum in Varadero",
+    "Scenic park, waterfront or hillside walk in Varadero",
+    "Signature day trip from Varadero",
+    "Sunset viewpoint overlooking Varadero"
+  ],
+  "trinidad-cuba": [
+    "Trinidad historic center / Old Town",
+    "Trinidad main square and landmark viewpoints",
+    "Trinidad cathedral / historic church",
+    "Trinidad central market or bazaar",
+    "Cuba regional museum in Trinidad",
+    "Scenic park, waterfront or hillside walk in Trinidad",
+    "Signature day trip from Trinidad",
+    "Sunset viewpoint overlooking Trinidad"
+  ],
+  "belize-city": [
+    "Belize City historic center / Old Town",
+    "Belize City main square and landmark viewpoints",
+    "Belize City cathedral / historic church",
+    "Belize City central market or bazaar",
+    "Belize regional museum in Belize City",
+    "Scenic park, waterfront or hillside walk in Belize City",
+    "Signature day trip from Belize City",
+    "Sunset viewpoint overlooking Belize City"
+  ],
+  "san-pedro-belize": [
+    "San Pedro historic center / Old Town",
+    "San Pedro main square and landmark viewpoints",
+    "San Pedro cathedral / historic church",
+    "San Pedro central market or bazaar",
+    "Belize regional museum in San Pedro",
+    "Scenic park, waterfront or hillside walk in San Pedro",
+    "Signature day trip from San Pedro",
+    "Sunset viewpoint overlooking San Pedro"
+  ],
+  "panama-city": [
+    "Panama City historic center / Old Town",
+    "Panama City main square and landmark viewpoints",
+    "Panama City cathedral / historic church",
+    "Panama City central market or bazaar",
+    "Panama regional museum in Panama City",
+    "Scenic park, waterfront or hillside walk in Panama City",
+    "Signature day trip from Panama City",
+    "Sunset viewpoint overlooking Panama City"
+  ],
+  "san-jose-cr": [
+    "San José historic center / Old Town",
+    "San José main square and landmark viewpoints",
+    "San José cathedral / historic church",
+    "San José central market or bazaar",
+    "Costa Rica regional museum in San José",
+    "Scenic park, waterfront or hillside walk in San José",
+    "Signature day trip from San José",
+    "Sunset viewpoint overlooking San José"
+  ],
+  "la-fortuna": [
+    "La Fortuna historic center / Old Town",
+    "La Fortuna main square and landmark viewpoints",
+    "La Fortuna cathedral / historic church",
+    "La Fortuna central market or bazaar",
+    "Costa Rica regional museum in La Fortuna",
+    "Scenic park, waterfront or hillside walk in La Fortuna",
+    "Signature day trip from La Fortuna",
+    "Sunset viewpoint overlooking La Fortuna"
+  ],
+  "manuel-antonio": [
+    "Quepos historic center / Old Town",
+    "Quepos main square and landmark viewpoints",
+    "Quepos cathedral / historic church",
+    "Quepos central market or bazaar",
+    "Costa Rica regional museum in Quepos",
+    "Scenic park, waterfront or hillside walk in Quepos",
+    "Signature day trip from Quepos",
+    "Sunset viewpoint overlooking Quepos"
+  ],
+  cali: [
+    "Cali historic center / Old Town",
+    "Cali main square and landmark viewpoints",
+    "Cali cathedral / historic church",
+    "Cali central market or bazaar",
+    "Colombia regional museum in Cali",
+    "Scenic park, waterfront or hillside walk in Cali",
+    "Signature day trip from Cali",
+    "Sunset viewpoint overlooking Cali"
+  ],
+  guayaquil: [
+    "Guayaquil historic center / Old Town",
+    "Guayaquil main square and landmark viewpoints",
+    "Guayaquil cathedral / historic church",
+    "Guayaquil central market or bazaar",
+    "Ecuador regional museum in Guayaquil",
+    "Scenic park, waterfront or hillside walk in Guayaquil",
+    "Signature day trip from Guayaquil",
+    "Sunset viewpoint overlooking Guayaquil"
+  ],
+  "galapagos-puerto-ayora": [
+    "Puerto Ayora historic center / Old Town",
+    "Puerto Ayora main square and landmark viewpoints",
+    "Puerto Ayora cathedral / historic church",
+    "Puerto Ayora central market or bazaar",
+    "Ecuador regional museum in Puerto Ayora",
+    "Scenic park, waterfront or hillside walk in Puerto Ayora",
+    "Signature day trip from Puerto Ayora",
+    "Sunset viewpoint overlooking Puerto Ayora"
+  ],
+  arequipa: [
+    "Arequipa historic center / Old Town",
+    "Arequipa main square and landmark viewpoints",
+    "Arequipa cathedral / historic church",
+    "Arequipa central market or bazaar",
+    "Peru regional museum in Arequipa",
+    "Scenic park, waterfront or hillside walk in Arequipa",
+    "Signature day trip from Arequipa",
+    "Sunset viewpoint overlooking Arequipa"
+  ],
+  "machu-picchu-town": [
+    "Aguas Calientes historic center / Old Town",
+    "Aguas Calientes main square and landmark viewpoints",
+    "Aguas Calientes cathedral / historic church",
+    "Aguas Calientes central market or bazaar",
+    "Peru regional museum in Aguas Calientes",
+    "Scenic park, waterfront or hillside walk in Aguas Calientes",
+    "Signature day trip from Aguas Calientes",
+    "Sunset viewpoint overlooking Aguas Calientes"
+  ],
+  valparaiso: [
+    "Valparaíso historic center / Old Town",
+    "Valparaíso main square and landmark viewpoints",
+    "Valparaíso cathedral / historic church",
+    "Valparaíso central market or bazaar",
+    "Chile regional museum in Valparaíso",
+    "Scenic park, waterfront or hillside walk in Valparaíso",
+    "Signature day trip from Valparaíso",
+    "Sunset viewpoint overlooking Valparaíso"
+  ],
+  "san-pedro-de-atacama": [
+    "San Pedro de Atacama historic center / Old Town",
+    "San Pedro de Atacama main square and landmark viewpoints",
+    "San Pedro de Atacama cathedral / historic church",
+    "San Pedro de Atacama central market or bazaar",
+    "Chile regional museum in San Pedro de Atacama",
+    "Scenic park, waterfront or hillside walk in San Pedro de Atacama",
+    "Signature day trip from San Pedro de Atacama",
+    "Sunset viewpoint overlooking San Pedro de Atacama"
+  ],
+  "puerto-varas": [
+    "Puerto Varas historic center / Old Town",
+    "Puerto Varas main square and landmark viewpoints",
+    "Puerto Varas cathedral / historic church",
+    "Puerto Varas central market or bazaar",
+    "Chile regional museum in Puerto Varas",
+    "Scenic park, waterfront or hillside walk in Puerto Varas",
+    "Signature day trip from Puerto Varas",
+    "Sunset viewpoint overlooking Puerto Varas"
+  ],
+  ushuaia: [
+    "Ushuaia historic center / Old Town",
+    "Ushuaia main square and landmark viewpoints",
+    "Ushuaia cathedral / historic church",
+    "Ushuaia central market or bazaar",
+    "Argentina regional museum in Ushuaia",
+    "Scenic park, waterfront or hillside walk in Ushuaia",
+    "Signature day trip from Ushuaia",
+    "Sunset viewpoint overlooking Ushuaia"
+  ],
+  "el-calafate": [
+    "El Calafate historic center / Old Town",
+    "El Calafate main square and landmark viewpoints",
+    "El Calafate cathedral / historic church",
+    "El Calafate central market or bazaar",
+    "Argentina regional museum in El Calafate",
+    "Scenic park, waterfront or hillside walk in El Calafate",
+    "Signature day trip from El Calafate",
+    "Sunset viewpoint overlooking El Calafate"
+  ],
+  salta: [
+    "Salta historic center / Old Town",
+    "Salta main square and landmark viewpoints",
+    "Salta cathedral / historic church",
+    "Salta central market or bazaar",
+    "Argentina regional museum in Salta",
+    "Scenic park, waterfront or hillside walk in Salta",
+    "Signature day trip from Salta",
+    "Sunset viewpoint overlooking Salta"
+  ],
+  manaus: [
+    "Manaus historic center / Old Town",
+    "Manaus main square and landmark viewpoints",
+    "Manaus cathedral / historic church",
+    "Manaus central market or bazaar",
+    "Brazil regional museum in Manaus",
+    "Scenic park, waterfront or hillside walk in Manaus",
+    "Signature day trip from Manaus",
+    "Sunset viewpoint overlooking Manaus"
+  ],
+  "fernando-de-noronha": [
+    "Fernando de Noronha historic center / Old Town",
+    "Fernando de Noronha main square and landmark viewpoints",
+    "Fernando de Noronha cathedral / historic church",
+    "Fernando de Noronha central market or bazaar",
+    "Brazil regional museum in Fernando de Noronha",
+    "Scenic park, waterfront or hillside walk in Fernando de Noronha",
+    "Signature day trip from Fernando de Noronha",
+    "Sunset viewpoint overlooking Fernando de Noronha"
+  ],
+  asuncion: [
+    "Asunción historic center / Old Town",
+    "Asunción main square and landmark viewpoints",
+    "Asunción cathedral / historic church",
+    "Asunción central market or bazaar",
+    "Paraguay regional museum in Asunción",
+    "Scenic park, waterfront or hillside walk in Asunción",
+    "Signature day trip from Asunción",
+    "Sunset viewpoint overlooking Asunción"
+  ],
+  "uluru-yulara": [
+    "Yulara historic center / Old Town",
+    "Yulara main square and landmark viewpoints",
+    "Yulara cathedral / historic church",
+    "Yulara central market or bazaar",
+    "Australia regional museum in Yulara",
+    "Scenic park, waterfront or hillside walk in Yulara",
+    "Signature day trip from Yulara",
+    "Sunset viewpoint overlooking Yulara"
+  ],
+  broome: [
+    "Broome historic center / Old Town",
+    "Broome main square and landmark viewpoints",
+    "Broome cathedral / historic church",
+    "Broome central market or bazaar",
+    "Australia regional museum in Broome",
+    "Scenic park, waterfront or hillside walk in Broome",
+    "Signature day trip from Broome",
+    "Sunset viewpoint overlooking Broome"
+  ],
+  "fiji-suva": [
+    "Suva historic center / Old Town",
+    "Suva main square and landmark viewpoints",
+    "Suva cathedral / historic church",
+    "Suva central market or bazaar",
+    "Fiji regional museum in Suva",
+    "Scenic park, waterfront or hillside walk in Suva",
+    "Signature day trip from Suva",
+    "Sunset viewpoint overlooking Suva"
+  ],
+  "tahiti-papeete": [
+    "Papeete historic center / Old Town",
+    "Papeete main square and landmark viewpoints",
+    "Papeete cathedral / historic church",
+    "Papeete central market or bazaar",
+    "French Polynesia regional museum in Papeete",
+    "Scenic park, waterfront or hillside walk in Papeete",
+    "Signature day trip from Papeete",
+    "Sunset viewpoint overlooking Papeete"
+  ],
+  "bora-bora": [
+    "Bora Bora historic center / Old Town",
+    "Bora Bora main square and landmark viewpoints",
+    "Bora Bora cathedral / historic church",
+    "Bora Bora central market or bazaar",
+    "French Polynesia regional museum in Bora Bora",
+    "Scenic park, waterfront or hillside walk in Bora Bora",
+    "Signature day trip from Bora Bora",
+    "Sunset viewpoint overlooking Bora Bora"
+  ],
+  "freeport-bahamas": [
+    "Freeport historic center / Old Town",
+    "Freeport main square and landmark viewpoints",
+    "Freeport cathedral / historic church",
+    "Freeport central market or bazaar",
+    "Bahamas regional museum in Freeport",
+    "Scenic park, waterfront or hillside walk in Freeport",
+    "Signature day trip from Freeport",
+    "Sunset viewpoint overlooking Freeport"
+  ],
+  "havana-old": [
+    "Old Havana historic center / Old Town",
+    "Old Havana main square and landmark viewpoints",
+    "Old Havana cathedral / historic church",
+    "Old Havana central market or bazaar",
+    "Cuba regional museum in Old Havana",
+    "Scenic park, waterfront or hillside walk in Old Havana",
+    "Signature day trip from Old Havana",
+    "Sunset viewpoint overlooking Old Havana"
+  ],
+  kingston: [
+    "Kingston historic center / Old Town",
+    "Kingston main square and landmark viewpoints",
+    "Kingston cathedral / historic church",
+    "Kingston central market or bazaar",
+    "Jamaica regional museum in Kingston",
+    "Scenic park, waterfront or hillside walk in Kingston",
+    "Signature day trip from Kingston",
+    "Sunset viewpoint overlooking Kingston"
+  ],
+  negril: [
+    "Negril historic center / Old Town",
+    "Negril main square and landmark viewpoints",
+    "Negril cathedral / historic church",
+    "Negril central market or bazaar",
+    "Jamaica regional museum in Negril",
+    "Scenic park, waterfront or hillside walk in Negril",
+    "Signature day trip from Negril",
+    "Sunset viewpoint overlooking Negril"
+  ],
+  "st-thomas": [
+    "Charlotte Amalie historic center / Old Town",
+    "Charlotte Amalie main square and landmark viewpoints",
+    "Charlotte Amalie cathedral / historic church",
+    "Charlotte Amalie central market or bazaar",
+    "United States Virgin Islands regional museum in Charlotte Amalie",
+    "Scenic park, waterfront or hillside walk in Charlotte Amalie",
+    "Signature day trip from Charlotte Amalie",
+    "Sunset viewpoint overlooking Charlotte Amalie"
+  ],
+  "st-maarten": [
+    "Philipsburg historic center / Old Town",
+    "Philipsburg main square and landmark viewpoints",
+    "Philipsburg cathedral / historic church",
+    "Philipsburg central market or bazaar",
+    "Sint Maarten regional museum in Philipsburg",
+    "Scenic park, waterfront or hillside walk in Philipsburg",
+    "Signature day trip from Philipsburg",
+    "Sunset viewpoint overlooking Philipsburg"
+  ],
+  "curacao-willemstad": [
+    "Willemstad historic center / Old Town",
+    "Willemstad main square and landmark viewpoints",
+    "Willemstad cathedral / historic church",
+    "Willemstad central market or bazaar",
+    "Curaçao regional museum in Willemstad",
+    "Scenic park, waterfront or hillside walk in Willemstad",
+    "Signature day trip from Willemstad",
+    "Sunset viewpoint overlooking Willemstad"
+  ],
+  "bermuda-hamilton": [
+    "Hamilton historic center / Old Town",
+    "Hamilton main square and landmark viewpoints",
+    "Hamilton cathedral / historic church",
+    "Hamilton central market or bazaar",
+    "Bermuda regional museum in Hamilton",
+    "Scenic park, waterfront or hillside walk in Hamilton",
+    "Signature day trip from Hamilton",
+    "Sunset viewpoint overlooking Hamilton"
+  ],
+  "faroese-torshavn": [
+    "Tórshavn historic center / Old Town",
+    "Tórshavn main square and landmark viewpoints",
+    "Tórshavn cathedral / historic church",
+    "Tórshavn central market or bazaar",
+    "Faroe Islands regional museum in Tórshavn",
+    "Scenic park, waterfront or hillside walk in Tórshavn",
+    "Signature day trip from Tórshavn",
+    "Sunset viewpoint overlooking Tórshavn"
+  ],
+  "osaka-namba": [
+    "Namba historic center / Old Town",
+    "Namba main square and landmark viewpoints",
+    "Namba temple / shrine circuit",
+    "Namba central market or bazaar",
+    "Japan regional museum in Namba",
+    "Scenic park, waterfront or hillside walk in Namba",
+    "Signature day trip from Namba",
+    "Sunset viewpoint overlooking Namba"
+  ],
+  "okinawa-naha": [
+    "Naha historic center / Old Town",
+    "Naha main square and landmark viewpoints",
+    "Naha temple / shrine circuit",
+    "Naha central market or bazaar",
+    "Japan regional museum in Naha",
+    "Scenic park, waterfront or hillside walk in Naha",
+    "Signature day trip from Naha",
+    "Sunset viewpoint overlooking Naha"
+  ],
+  "byron-bay": [
+    "Byron Bay historic center / Old Town",
+    "Byron Bay main square and landmark viewpoints",
+    "Byron Bay cathedral / historic church",
+    "Byron Bay central market or bazaar",
+    "Australia regional museum in Byron Bay",
+    "Scenic park, waterfront or hillside walk in Byron Bay",
+    "Signature day trip from Byron Bay",
+    "Sunset viewpoint overlooking Byron Bay"
+  ],
+  darwin: [
+    "Darwin historic center / Old Town",
+    "Darwin main square and landmark viewpoints",
+    "Darwin cathedral / historic church",
+    "Darwin central market or bazaar",
+    "Australia regional museum in Darwin",
+    "Scenic park, waterfront or hillside walk in Darwin",
+    "Signature day trip from Darwin",
+    "Sunset viewpoint overlooking Darwin"
+  ],
+  "alice-springs": [
+    "Alice Springs historic center / Old Town",
+    "Alice Springs main square and landmark viewpoints",
+    "Alice Springs cathedral / historic church",
+    "Alice Springs central market or bazaar",
+    "Australia regional museum in Alice Springs",
+    "Scenic park, waterfront or hillside walk in Alice Springs",
+    "Signature day trip from Alice Springs",
+    "Sunset viewpoint overlooking Alice Springs"
+  ],
+  "milford-sound": [
+    "Milford Sound historic center / Old Town",
+    "Milford Sound main square and landmark viewpoints",
+    "Milford Sound cathedral / historic church",
+    "Milford Sound central market or bazaar",
+    "New Zealand regional museum in Milford Sound",
+    "Scenic park, waterfront or hillside walk in Milford Sound",
+    "Signature day trip from Milford Sound",
+    "Sunset viewpoint overlooking Milford Sound"
+  ],
+  napier: [
+    "Napier historic center / Old Town",
+    "Napier main square and landmark viewpoints",
+    "Napier cathedral / historic church",
+    "Napier central market or bazaar",
+    "New Zealand regional museum in Napier",
+    "Scenic park, waterfront or hillside walk in Napier",
+    "Signature day trip from Napier",
+    "Sunset viewpoint overlooking Napier"
+  ],
+  dunedin: [
+    "Dunedin historic center / Old Town",
+    "Dunedin main square and landmark viewpoints",
+    "Dunedin cathedral / historic church",
+    "Dunedin central market or bazaar",
+    "New Zealand regional museum in Dunedin",
+    "Scenic park, waterfront or hillside walk in Dunedin",
+    "Signature day trip from Dunedin",
+    "Sunset viewpoint overlooking Dunedin"
+  ],
+  maldives: [
+    "Maldives historic center / Old Town",
+    "Maldives main square and landmark viewpoints",
+    "Maldives cathedral / historic church",
+    "Maldives central market or bazaar",
+    "Maldives regional museum in Maldives",
+    "Scenic park, waterfront or hillside walk in Maldives",
+    "Signature day trip from Maldives",
+    "Sunset viewpoint overlooking Maldives"
+  ],
+  "interlaken-matten": [
+    "Matten historic center / Old Town",
+    "Matten main square and landmark viewpoints",
+    "Matten cathedral / historic church",
+    "Matten central market or bazaar",
+    "Switzerland regional museum in Matten",
+    "Scenic park, waterfront or hillside walk in Matten",
+    "Signature day trip from Matten",
+    "Sunset viewpoint overlooking Matten"
+  ],
+  "provence-arles": [
+    "Arles historic center / Old Town",
+    "Arles main square and landmark viewpoints",
+    "Arles cathedral / historic church",
+    "Arles central market or bazaar",
+    "France regional museum in Arles",
+    "Scenic park, waterfront or hillside walk in Arles",
+    "Signature day trip from Arles",
+    "Sunset viewpoint overlooking Arles"
+  ],
+  nimes: [
+    "Nîmes historic center / Old Town",
+    "Nîmes main square and landmark viewpoints",
+    "Nîmes cathedral / historic church",
+    "Nîmes central market or bazaar",
+    "France regional museum in Nîmes",
+    "Scenic park, waterfront or hillside walk in Nîmes",
+    "Signature day trip from Nîmes",
+    "Sunset viewpoint overlooking Nîmes"
+  ],
+  "mont-saint-michel": [
+    "Le Mont-Saint-Michel historic center / Old Town",
+    "Le Mont-Saint-Michel main square and landmark viewpoints",
+    "Le Mont-Saint-Michel cathedral / historic church",
+    "Le Mont-Saint-Michel central market or bazaar",
+    "France regional museum in Le Mont-Saint-Michel",
+    "Scenic park, waterfront or hillside walk in Le Mont-Saint-Michel",
+    "Signature day trip from Le Mont-Saint-Michel",
+    "Sunset viewpoint overlooking Le Mont-Saint-Michel"
+  ],
+  versailles: [
+    "Versailles historic center / Old Town",
+    "Versailles main square and landmark viewpoints",
+    "Versailles cathedral / historic church",
+    "Versailles central market or bazaar",
+    "France regional museum in Versailles",
+    "Scenic park, waterfront or hillside walk in Versailles",
+    "Signature day trip from Versailles",
+    "Sunset viewpoint overlooking Versailles"
+  ],
+  "seville-alcazar": [
+    "Seville historic center / Old Town",
+    "Seville main square and landmark viewpoints",
+    "Seville cathedral / historic church",
+    "Seville central market or bazaar",
+    "Spain regional museum in Seville",
+    "Scenic park, waterfront or hillside walk in Seville",
+    "Signature day trip from Seville",
+    "Sunset viewpoint overlooking Seville"
+  ],
+  sliema: [
+    "Sliema historic center / Old Town",
+    "Sliema main square and landmark viewpoints",
+    "Sliema cathedral / historic church",
+    "Sliema central market or bazaar",
+    "Malta regional museum in Sliema",
+    "Scenic park, waterfront or hillside walk in Sliema",
+    "Signature day trip from Sliema",
+    "Sunset viewpoint overlooking Sliema"
+  ],
+  mdina: [
+    "Mdina historic center / Old Town",
+    "Mdina main square and landmark viewpoints",
+    "Mdina cathedral / historic church",
+    "Mdina central market or bazaar",
+    "Malta regional museum in Mdina",
+    "Scenic park, waterfront or hillside walk in Mdina",
+    "Signature day trip from Mdina",
+    "Sunset viewpoint overlooking Mdina"
+  ],
+  "gozo-victoria": [
+    "Victoria historic center / Old Town",
+    "Victoria main square and landmark viewpoints",
+    "Victoria cathedral / historic church",
+    "Victoria central market or bazaar",
+    "Malta regional museum in Victoria",
+    "Scenic park, waterfront or hillside walk in Victoria",
+    "Signature day trip from Victoria",
+    "Sunset viewpoint overlooking Victoria"
+  ],
+  paphos: [
+    "Paphos historic center / Old Town",
+    "Paphos main square and landmark viewpoints",
+    "Paphos cathedral / historic church",
+    "Paphos central market or bazaar",
+    "Cyprus regional museum in Paphos",
+    "Scenic park, waterfront or hillside walk in Paphos",
+    "Signature day trip from Paphos",
+    "Sunset viewpoint overlooking Paphos"
+  ],
+  "ayia-napa": [
+    "Ayia Napa historic center / Old Town",
+    "Ayia Napa main square and landmark viewpoints",
+    "Ayia Napa cathedral / historic church",
+    "Ayia Napa central market or bazaar",
+    "Cyprus regional museum in Ayia Napa",
+    "Scenic park, waterfront or hillside walk in Ayia Napa",
+    "Signature day trip from Ayia Napa",
+    "Sunset viewpoint overlooking Ayia Napa"
+  ],
+  "andorra-la-vella": [
+    "Andorra la Vella historic center / Old Town",
+    "Andorra la Vella main square and landmark viewpoints",
+    "Andorra la Vella cathedral / historic church",
+    "Andorra la Vella central market or bazaar",
+    "Andorra regional museum in Andorra la Vella",
+    "Scenic park, waterfront or hillside walk in Andorra la Vella",
+    "Signature day trip from Andorra la Vella",
+    "Sunset viewpoint overlooking Andorra la Vella"
+  ],
+  "san-marino-city": [
+    "San Marino historic center / Old Town",
+    "San Marino main square and landmark viewpoints",
+    "San Marino cathedral / historic church",
+    "San Marino central market or bazaar",
+    "San Marino regional museum in San Marino",
+    "Scenic park, waterfront or hillside walk in San Marino",
+    "Signature day trip from San Marino",
+    "Sunset viewpoint overlooking San Marino"
+  ],
+  trogir: [
+    "Trogir historic center / Old Town",
+    "Trogir main square and landmark viewpoints",
+    "Trogir cathedral / historic church",
+    "Trogir central market or bazaar",
+    "Croatia regional museum in Trogir",
+    "Scenic park, waterfront or hillside walk in Trogir",
+    "Signature day trip from Trogir",
+    "Sunset viewpoint overlooking Trogir"
+  ],
+  plitvice: [
+    "Plitvička Jezera historic center / Old Town",
+    "Plitvička Jezera main square and landmark viewpoints",
+    "Plitvička Jezera cathedral / historic church",
+    "Plitvička Jezera central market or bazaar",
+    "Croatia regional museum in Plitvička Jezera",
+    "Scenic park, waterfront or hillside walk in Plitvička Jezera",
+    "Signature day trip from Plitvička Jezera",
+    "Sunset viewpoint overlooking Plitvička Jezera"
+  ],
+  opatija: [
+    "Opatija historic center / Old Town",
+    "Opatija main square and landmark viewpoints",
+    "Opatija cathedral / historic church",
+    "Opatija central market or bazaar",
+    "Croatia regional museum in Opatija",
+    "Scenic park, waterfront or hillside walk in Opatija",
+    "Signature day trip from Opatija",
+    "Sunset viewpoint overlooking Opatija"
+  ],
+  sibenik: [
+    "Šibenik historic center / Old Town",
+    "Šibenik main square and landmark viewpoints",
+    "Šibenik cathedral / historic church",
+    "Šibenik central market or bazaar",
+    "Croatia regional museum in Šibenik",
+    "Scenic park, waterfront or hillside walk in Šibenik",
+    "Signature day trip from Šibenik",
+    "Sunset viewpoint overlooking Šibenik"
+  ],
+  pula: [
+    "Pula historic center / Old Town",
+    "Pula main square and landmark viewpoints",
+    "Pula cathedral / historic church",
+    "Pula central market or bazaar",
+    "Croatia regional museum in Pula",
+    "Scenic park, waterfront or hillside walk in Pula",
+    "Signature day trip from Pula",
+    "Sunset viewpoint overlooking Pula"
+  ],
+  ohrid: [
+    "Ohrid historic center / Old Town",
+    "Ohrid main square and landmark viewpoints",
+    "Ohrid cathedral / historic church",
+    "Ohrid central market or bazaar",
+    "North Macedonia regional museum in Ohrid",
+    "Scenic park, waterfront or hillside walk in Ohrid",
+    "Signature day trip from Ohrid",
+    "Sunset viewpoint overlooking Ohrid"
+  ],
+  cetinje: [
+    "Cetinje historic center / Old Town",
+    "Cetinje main square and landmark viewpoints",
+    "Cetinje cathedral / historic church",
+    "Cetinje central market or bazaar",
+    "Montenegro regional museum in Cetinje",
+    "Scenic park, waterfront or hillside walk in Cetinje",
+    "Signature day trip from Cetinje",
+    "Sunset viewpoint overlooking Cetinje"
+  ],
+  saranda: [
+    "Sarandë historic center / Old Town",
+    "Sarandë main square and landmark viewpoints",
+    "Sarandë cathedral / historic church",
+    "Sarandë central market or bazaar",
+    "Albania regional museum in Sarandë",
+    "Scenic park, waterfront or hillside walk in Sarandë",
+    "Signature day trip from Sarandë",
+    "Sunset viewpoint overlooking Sarandë"
+  ],
+  berat: [
+    "Berat historic center / Old Town",
+    "Berat main square and landmark viewpoints",
+    "Berat cathedral / historic church",
+    "Berat central market or bazaar",
+    "Albania regional museum in Berat",
+    "Scenic park, waterfront or hillside walk in Berat",
+    "Signature day trip from Berat",
+    "Sunset viewpoint overlooking Berat"
+  ],
+  gjirokaster: [
+    "Gjirokastër historic center / Old Town",
+    "Gjirokastër main square and landmark viewpoints",
+    "Gjirokastër cathedral / historic church",
+    "Gjirokastër central market or bazaar",
+    "Albania regional museum in Gjirokastër",
+    "Scenic park, waterfront or hillside walk in Gjirokastër",
+    "Signature day trip from Gjirokastër",
+    "Sunset viewpoint overlooking Gjirokastër"
+  ],
+  nesebar: [
+    "Nesebar historic center / Old Town",
+    "Nesebar main square and landmark viewpoints",
+    "Nesebar cathedral / historic church",
+    "Nesebar central market or bazaar",
+    "Bulgaria regional museum in Nesebar",
+    "Scenic park, waterfront or hillside walk in Nesebar",
+    "Signature day trip from Nesebar",
+    "Sunset viewpoint overlooking Nesebar"
+  ],
+  sozopol: [
+    "Sozopol historic center / Old Town",
+    "Sozopol main square and landmark viewpoints",
+    "Sozopol cathedral / historic church",
+    "Sozopol central market or bazaar",
+    "Bulgaria regional museum in Sozopol",
+    "Scenic park, waterfront or hillside walk in Sozopol",
+    "Signature day trip from Sozopol",
+    "Sunset viewpoint overlooking Sozopol"
+  ],
+  "veliko-tarnovo": [
+    "Veliko Tarnovo historic center / Old Town",
+    "Veliko Tarnovo main square and landmark viewpoints",
+    "Veliko Tarnovo cathedral / historic church",
+    "Veliko Tarnovo central market or bazaar",
+    "Bulgaria regional museum in Veliko Tarnovo",
+    "Scenic park, waterfront or hillside walk in Veliko Tarnovo",
+    "Signature day trip from Veliko Tarnovo",
+    "Sunset viewpoint overlooking Veliko Tarnovo"
+  ],
+  "cluj-napoca": [
+    "Cluj-Napoca historic center / Old Town",
+    "Cluj-Napoca main square and landmark viewpoints",
+    "Cluj-Napoca historic mosque / medina walk",
+    "Cluj-Napoca central market or bazaar",
+    "Romania regional museum in Cluj-Napoca",
+    "Scenic park, waterfront or hillside walk in Cluj-Napoca",
+    "Signature day trip from Cluj-Napoca",
+    "Sunset viewpoint overlooking Cluj-Napoca"
+  ],
+  timisoara: [
+    "Timișoara historic center / Old Town",
+    "Timișoara main square and landmark viewpoints",
+    "Timișoara historic mosque / medina walk",
+    "Timișoara central market or bazaar",
+    "Romania regional museum in Timișoara",
+    "Scenic park, waterfront or hillside walk in Timișoara",
+    "Signature day trip from Timișoara",
+    "Sunset viewpoint overlooking Timișoara"
+  ],
+  sinaia: [
+    "Sinaia historic center / Old Town",
+    "Sinaia main square and landmark viewpoints",
+    "Sinaia historic mosque / medina walk",
+    "Sinaia central market or bazaar",
+    "Romania regional museum in Sinaia",
+    "Scenic park, waterfront or hillside walk in Sinaia",
+    "Signature day trip from Sinaia",
+    "Sunset viewpoint overlooking Sinaia"
+  ],
+  bran: [
+    "Bran historic center / Old Town",
+    "Bran main square and landmark viewpoints",
+    "Bran historic mosque / medina walk",
+    "Bran central market or bazaar",
+    "Romania regional museum in Bran",
+    "Scenic park, waterfront or hillside walk in Bran",
+    "Signature day trip from Bran",
+    "Sunset viewpoint overlooking Bran"
+  ],
+  "saint-petersburg": [
+    "Saint Petersburg historic center / Old Town",
+    "Saint Petersburg main square and landmark viewpoints",
+    "Saint Petersburg cathedral / historic church",
+    "Saint Petersburg central market or bazaar",
+    "Russia regional museum in Saint Petersburg",
+    "Scenic park, waterfront or hillside walk in Saint Petersburg",
+    "Signature day trip from Saint Petersburg",
+    "Sunset viewpoint overlooking Saint Petersburg"
+  ],
+  sochi: [
+    "Sochi historic center / Old Town",
+    "Sochi main square and landmark viewpoints",
+    "Sochi cathedral / historic church",
+    "Sochi central market or bazaar",
+    "Russia regional museum in Sochi",
+    "Scenic park, waterfront or hillside walk in Sochi",
+    "Signature day trip from Sochi",
+    "Sunset viewpoint overlooking Sochi"
+  ],
+  kaliningrad: [
+    "Kaliningrad historic center / Old Town",
+    "Kaliningrad main square and landmark viewpoints",
+    "Kaliningrad cathedral / historic church",
+    "Kaliningrad central market or bazaar",
+    "Russia regional museum in Kaliningrad",
+    "Scenic park, waterfront or hillside walk in Kaliningrad",
+    "Signature day trip from Kaliningrad",
+    "Sunset viewpoint overlooking Kaliningrad"
+  ],
+  vladivostok: [
+    "Vladivostok historic center / Old Town",
+    "Vladivostok main square and landmark viewpoints",
+    "Vladivostok cathedral / historic church",
+    "Vladivostok central market or bazaar",
+    "Russia regional museum in Vladivostok",
+    "Scenic park, waterfront or hillside walk in Vladivostok",
+    "Signature day trip from Vladivostok",
+    "Sunset viewpoint overlooking Vladivostok"
+  ],
+  irkutsk: [
+    "Irkutsk historic center / Old Town",
+    "Irkutsk main square and landmark viewpoints",
+    "Irkutsk cathedral / historic church",
+    "Irkutsk central market or bazaar",
+    "Russia regional museum in Irkutsk",
+    "Scenic park, waterfront or hillside walk in Irkutsk",
+    "Signature day trip from Irkutsk",
+    "Sunset viewpoint overlooking Irkutsk"
+  ],
+  suzdal: [
+    "Suzdal historic center / Old Town",
+    "Suzdal main square and landmark viewpoints",
+    "Suzdal cathedral / historic church",
+    "Suzdal central market or bazaar",
+    "Russia regional museum in Suzdal",
+    "Scenic park, waterfront or hillside walk in Suzdal",
+    "Signature day trip from Suzdal",
+    "Sunset viewpoint overlooking Suzdal"
+  ],
+  "veliky-novgorod": [
+    "Veliky Novgorod historic center / Old Town",
+    "Veliky Novgorod main square and landmark viewpoints",
+    "Veliky Novgorod cathedral / historic church",
+    "Veliky Novgorod central market or bazaar",
+    "Russia regional museum in Veliky Novgorod",
+    "Scenic park, waterfront or hillside walk in Veliky Novgorod",
+    "Signature day trip from Veliky Novgorod",
+    "Sunset viewpoint overlooking Veliky Novgorod"
+  ],
+  porvoo: [
+    "Porvoo historic center / Old Town",
+    "Porvoo main square and landmark viewpoints",
+    "Porvoo cathedral / historic church",
+    "Porvoo central market or bazaar",
+    "Finland regional museum in Porvoo",
+    "Scenic park, waterfront or hillside walk in Porvoo",
+    "Signature day trip from Porvoo",
+    "Sunset viewpoint overlooking Porvoo"
+  ],
+  rovaniemi: [
+    "Rovaniemi historic center / Old Town",
+    "Rovaniemi main square and landmark viewpoints",
+    "Rovaniemi cathedral / historic church",
+    "Rovaniemi central market or bazaar",
+    "Finland regional museum in Rovaniemi",
+    "Scenic park, waterfront or hillside walk in Rovaniemi",
+    "Signature day trip from Rovaniemi",
+    "Sunset viewpoint overlooking Rovaniemi"
+  ],
+  turku: [
+    "Turku historic center / Old Town",
+    "Turku main square and landmark viewpoints",
+    "Turku cathedral / historic church",
+    "Turku central market or bazaar",
+    "Finland regional museum in Turku",
+    "Scenic park, waterfront or hillside walk in Turku",
+    "Signature day trip from Turku",
+    "Sunset viewpoint overlooking Turku"
+  ],
+  uppsala: [
+    "Uppsala historic center / Old Town",
+    "Uppsala main square and landmark viewpoints",
+    "Uppsala cathedral / historic church",
+    "Uppsala central market or bazaar",
+    "Sweden regional museum in Uppsala",
+    "Scenic park, waterfront or hillside walk in Uppsala",
+    "Signature day trip from Uppsala",
+    "Sunset viewpoint overlooking Uppsala"
+  ],
+  visby: [
+    "Visby historic center / Old Town",
+    "Visby main square and landmark viewpoints",
+    "Visby cathedral / historic church",
+    "Visby central market or bazaar",
+    "Sweden regional museum in Visby",
+    "Scenic park, waterfront or hillside walk in Visby",
+    "Signature day trip from Visby",
+    "Sunset viewpoint overlooking Visby"
+  ],
+  kiruna: [
+    "Kiruna historic center / Old Town",
+    "Kiruna main square and landmark viewpoints",
+    "Kiruna cathedral / historic church",
+    "Kiruna central market or bazaar",
+    "Sweden regional museum in Kiruna",
+    "Scenic park, waterfront or hillside walk in Kiruna",
+    "Signature day trip from Kiruna",
+    "Sunset viewpoint overlooking Kiruna"
+  ],
+  lund: [
+    "Lund historic center / Old Town",
+    "Lund main square and landmark viewpoints",
+    "Lund cathedral / historic church",
+    "Lund central market or bazaar",
+    "Sweden regional museum in Lund",
+    "Scenic park, waterfront or hillside walk in Lund",
+    "Signature day trip from Lund",
+    "Sunset viewpoint overlooking Lund"
+  ],
+  skagen: [
+    "Skagen historic center / Old Town",
+    "Skagen main square and landmark viewpoints",
+    "Skagen cathedral / historic church",
+    "Skagen central market or bazaar",
+    "Denmark regional museum in Skagen",
+    "Scenic park, waterfront or hillside walk in Skagen",
+    "Signature day trip from Skagen",
+    "Sunset viewpoint overlooking Skagen"
+  ],
+  flam: [
+    "Flåm historic center / Old Town",
+    "Flåm main square and landmark viewpoints",
+    "Flåm cathedral / historic church",
+    "Flåm central market or bazaar",
+    "Norway regional museum in Flåm",
+    "Scenic park, waterfront or hillside walk in Flåm",
+    "Signature day trip from Flåm",
+    "Sunset viewpoint overlooking Flåm"
+  ],
+  geiranger: [
+    "Geiranger historic center / Old Town",
+    "Geiranger main square and landmark viewpoints",
+    "Geiranger cathedral / historic church",
+    "Geiranger central market or bazaar",
+    "Norway regional museum in Geiranger",
+    "Scenic park, waterfront or hillside walk in Geiranger",
+    "Signature day trip from Geiranger",
+    "Sunset viewpoint overlooking Geiranger"
+  ],
+  lillehammer: [
+    "Lillehammer historic center / Old Town",
+    "Lillehammer main square and landmark viewpoints",
+    "Lillehammer cathedral / historic church",
+    "Lillehammer central market or bazaar",
+    "Norway regional museum in Lillehammer",
+    "Scenic park, waterfront or hillside walk in Lillehammer",
+    "Signature day trip from Lillehammer",
+    "Sunset viewpoint overlooking Lillehammer"
+  ],
+  epernay: [
+    "Épernay historic center / Old Town",
+    "Épernay main square and landmark viewpoints",
+    "Épernay cathedral / historic church",
+    "Épernay central market or bazaar",
+    "France regional museum in Épernay",
+    "Scenic park, waterfront or hillside walk in Épernay",
+    "Signature day trip from Épernay",
+    "Sunset viewpoint overlooking Épernay"
+  ],
+  honfleur: [
+    "Honfleur historic center / Old Town",
+    "Honfleur main square and landmark viewpoints",
+    "Honfleur cathedral / historic church",
+    "Honfleur central market or bazaar",
+    "France regional museum in Honfleur",
+    "Scenic park, waterfront or hillside walk in Honfleur",
+    "Signature day trip from Honfleur",
+    "Sunset viewpoint overlooking Honfleur"
+  ],
+  etretat: [
+    "Étretat historic center / Old Town",
+    "Étretat main square and landmark viewpoints",
+    "Étretat cathedral / historic church",
+    "Étretat central market or bazaar",
+    "France regional museum in Étretat",
+    "Scenic park, waterfront or hillside walk in Étretat",
+    "Signature day trip from Étretat",
+    "Sunset viewpoint overlooking Étretat"
+  ],
+  "saint-malo": [
+    "Saint-Malo historic center / Old Town",
+    "Saint-Malo main square and landmark viewpoints",
+    "Saint-Malo cathedral / historic church",
+    "Saint-Malo central market or bazaar",
+    "France regional museum in Saint-Malo",
+    "Scenic park, waterfront or hillside walk in Saint-Malo",
+    "Signature day trip from Saint-Malo",
+    "Sunset viewpoint overlooking Saint-Malo"
+  ],
+  bayeux: [
+    "Bayeux historic center / Old Town",
+    "Bayeux main square and landmark viewpoints",
+    "Bayeux cathedral / historic church",
+    "Bayeux central market or bazaar",
+    "France regional museum in Bayeux",
+    "Scenic park, waterfront or hillside walk in Bayeux",
+    "Signature day trip from Bayeux",
+    "Sunset viewpoint overlooking Bayeux"
+  ],
+  sarlat: [
+    "Sarlat-la-Canéda historic center / Old Town",
+    "Sarlat-la-Canéda main square and landmark viewpoints",
+    "Sarlat-la-Canéda cathedral / historic church",
+    "Sarlat-la-Canéda central market or bazaar",
+    "France regional museum in Sarlat-la-Canéda",
+    "Scenic park, waterfront or hillside walk in Sarlat-la-Canéda",
+    "Signature day trip from Sarlat-la-Canéda",
+    "Sunset viewpoint overlooking Sarlat-la-Canéda"
+  ],
+  rocamadour: [
+    "Rocamadour historic center / Old Town",
+    "Rocamadour main square and landmark viewpoints",
+    "Rocamadour cathedral / historic church",
+    "Rocamadour central market or bazaar",
+    "France regional museum in Rocamadour",
+    "Scenic park, waterfront or hillside walk in Rocamadour",
+    "Signature day trip from Rocamadour",
+    "Sunset viewpoint overlooking Rocamadour"
+  ],
+  gordes: [
+    "Gordes historic center / Old Town",
+    "Gordes main square and landmark viewpoints",
+    "Gordes cathedral / historic church",
+    "Gordes central market or bazaar",
+    "France regional museum in Gordes",
+    "Scenic park, waterfront or hillside walk in Gordes",
+    "Signature day trip from Gordes",
+    "Sunset viewpoint overlooking Gordes"
+  ],
+  eze: [
+    "Èze historic center / Old Town",
+    "Èze main square and landmark viewpoints",
+    "Èze cathedral / historic church",
+    "Èze central market or bazaar",
+    "France regional museum in Èze",
+    "Scenic park, waterfront or hillside walk in Èze",
+    "Signature day trip from Èze",
+    "Sunset viewpoint overlooking Èze"
+  ],
+  menton: [
+    "Menton historic center / Old Town",
+    "Menton main square and landmark viewpoints",
+    "Menton cathedral / historic church",
+    "Menton central market or bazaar",
+    "France regional museum in Menton",
+    "Scenic park, waterfront or hillside walk in Menton",
+    "Signature day trip from Menton",
+    "Sunset viewpoint overlooking Menton"
+  ],
+  antibes: [
+    "Antibes historic center / Old Town",
+    "Antibes main square and landmark viewpoints",
+    "Antibes cathedral / historic church",
+    "Antibes central market or bazaar",
+    "France regional museum in Antibes",
+    "Scenic park, waterfront or hillside walk in Antibes",
+    "Signature day trip from Antibes",
+    "Sunset viewpoint overlooking Antibes"
+  ],
+  "saint-tropez": [
+    "Saint-Tropez historic center / Old Town",
+    "Saint-Tropez main square and landmark viewpoints",
+    "Saint-Tropez cathedral / historic church",
+    "Saint-Tropez central market or bazaar",
+    "France regional museum in Saint-Tropez",
+    "Scenic park, waterfront or hillside walk in Saint-Tropez",
+    "Signature day trip from Saint-Tropez",
+    "Sunset viewpoint overlooking Saint-Tropez"
+  ],
+  megeve: [
+    "Megève historic center / Old Town",
+    "Megève main square and landmark viewpoints",
+    "Megève cathedral / historic church",
+    "Megève central market or bazaar",
+    "France regional museum in Megève",
+    "Scenic park, waterfront or hillside walk in Megève",
+    "Signature day trip from Megève",
+    "Sunset viewpoint overlooking Megève"
+  ],
+  "val-disere": [
+    "Val-d'Isère historic center / Old Town",
+    "Val-d'Isère main square and landmark viewpoints",
+    "Val-d'Isère cathedral / historic church",
+    "Val-d'Isère central market or bazaar",
+    "France regional museum in Val-d'Isère",
+    "Scenic park, waterfront or hillside walk in Val-d'Isère",
+    "Signature day trip from Val-d'Isère",
+    "Sunset viewpoint overlooking Val-d'Isère"
+  ],
+  courchevel: [
+    "Courchevel historic center / Old Town",
+    "Courchevel main square and landmark viewpoints",
+    "Courchevel cathedral / historic church",
+    "Courchevel central market or bazaar",
+    "France regional museum in Courchevel",
+    "Scenic park, waterfront or hillside walk in Courchevel",
+    "Signature day trip from Courchevel",
+    "Sunset viewpoint overlooking Courchevel"
+  ],
+  ortisei: [
+    "Ortisei historic center / Old Town",
+    "Ortisei main square and landmark viewpoints",
+    "Ortisei cathedral / historic church",
+    "Ortisei central market or bazaar",
+    "Italy regional museum in Ortisei",
+    "Scenic park, waterfront or hillside walk in Ortisei",
+    "Signature day trip from Ortisei",
+    "Sunset viewpoint overlooking Ortisei"
+  ],
+  cortina: [
+    "Cortina d'Ampezzo historic center / Old Town",
+    "Cortina d'Ampezzo main square and landmark viewpoints",
+    "Cortina d'Ampezzo cathedral / historic church",
+    "Cortina d'Ampezzo central market or bazaar",
+    "Italy regional museum in Cortina d'Ampezzo",
+    "Scenic park, waterfront or hillside walk in Cortina d'Ampezzo",
+    "Signature day trip from Cortina d'Ampezzo",
+    "Sunset viewpoint overlooking Cortina d'Ampezzo"
+  ],
+  bolzano: [
+    "Bolzano historic center / Old Town",
+    "Bolzano main square and landmark viewpoints",
+    "Bolzano cathedral / historic church",
+    "Bolzano central market or bazaar",
+    "Italy regional museum in Bolzano",
+    "Scenic park, waterfront or hillside walk in Bolzano",
+    "Signature day trip from Bolzano",
+    "Sunset viewpoint overlooking Bolzano"
+  ],
+  trento: [
+    "Trento historic center / Old Town",
+    "Trento main square and landmark viewpoints",
+    "Trento cathedral / historic church",
+    "Trento central market or bazaar",
+    "Italy regional museum in Trento",
+    "Scenic park, waterfront or hillside walk in Trento",
+    "Signature day trip from Trento",
+    "Sunset viewpoint overlooking Trento"
+  ],
+  rimini: [
+    "Rimini historic center / Old Town",
+    "Rimini main square and landmark viewpoints",
+    "Rimini cathedral / historic church",
+    "Rimini central market or bazaar",
+    "Italy regional museum in Rimini",
+    "Scenic park, waterfront or hillside walk in Rimini",
+    "Signature day trip from Rimini",
+    "Sunset viewpoint overlooking Rimini"
+  ],
+  sanremo: [
+    "Sanremo historic center / Old Town",
+    "Sanremo main square and landmark viewpoints",
+    "Sanremo cathedral / historic church",
+    "Sanremo central market or bazaar",
+    "Italy regional museum in Sanremo",
+    "Scenic park, waterfront or hillside walk in Sanremo",
+    "Signature day trip from Sanremo",
+    "Sunset viewpoint overlooking Sanremo"
+  ],
+  portofino: [
+    "Portofino historic center / Old Town",
+    "Portofino main square and landmark viewpoints",
+    "Portofino cathedral / historic church",
+    "Portofino central market or bazaar",
+    "Italy regional museum in Portofino",
+    "Scenic park, waterfront or hillside walk in Portofino",
+    "Signature day trip from Portofino",
+    "Sunset viewpoint overlooking Portofino"
+  ],
+  manarola: [
+    "Manarola historic center / Old Town",
+    "Manarola main square and landmark viewpoints",
+    "Manarola cathedral / historic church",
+    "Manarola central market or bazaar",
+    "Italy regional museum in Manarola",
+    "Scenic park, waterfront or hillside walk in Manarola",
+    "Signature day trip from Manarola",
+    "Sunset viewpoint overlooking Manarola"
+  ],
+  riomaggiore: [
+    "Riomaggiore historic center / Old Town",
+    "Riomaggiore main square and landmark viewpoints",
+    "Riomaggiore cathedral / historic church",
+    "Riomaggiore central market or bazaar",
+    "Italy regional museum in Riomaggiore",
+    "Scenic park, waterfront or hillside walk in Riomaggiore",
+    "Signature day trip from Riomaggiore",
+    "Sunset viewpoint overlooking Riomaggiore"
+  ],
+  vernazza: [
+    "Vernazza historic center / Old Town",
+    "Vernazza main square and landmark viewpoints",
+    "Vernazza cathedral / historic church",
+    "Vernazza central market or bazaar",
+    "Italy regional museum in Vernazza",
+    "Scenic park, waterfront or hillside walk in Vernazza",
+    "Signature day trip from Vernazza",
+    "Sunset viewpoint overlooking Vernazza"
+  ],
+  monterosso: [
+    "Monterosso al Mare historic center / Old Town",
+    "Monterosso al Mare main square and landmark viewpoints",
+    "Monterosso al Mare cathedral / historic church",
+    "Monterosso al Mare central market or bazaar",
+    "Italy regional museum in Monterosso al Mare",
+    "Scenic park, waterfront or hillside walk in Monterosso al Mare",
+    "Signature day trip from Monterosso al Mare",
+    "Sunset viewpoint overlooking Monterosso al Mare"
+  ],
+  bellagio: [
+    "Bellagio historic center / Old Town",
+    "Bellagio main square and landmark viewpoints",
+    "Bellagio cathedral / historic church",
+    "Bellagio central market or bazaar",
+    "Italy regional museum in Bellagio",
+    "Scenic park, waterfront or hillside walk in Bellagio",
+    "Signature day trip from Bellagio",
+    "Sunset viewpoint overlooking Bellagio"
+  ],
+  varenna: [
+    "Varenna historic center / Old Town",
+    "Varenna main square and landmark viewpoints",
+    "Varenna cathedral / historic church",
+    "Varenna central market or bazaar",
+    "Italy regional museum in Varenna",
+    "Scenic park, waterfront or hillside walk in Varenna",
+    "Signature day trip from Varenna",
+    "Sunset viewpoint overlooking Varenna"
+  ],
+  sirmione: [
+    "Sirmione historic center / Old Town",
+    "Sirmione main square and landmark viewpoints",
+    "Sirmione cathedral / historic church",
+    "Sirmione central market or bazaar",
+    "Italy regional museum in Sirmione",
+    "Scenic park, waterfront or hillside walk in Sirmione",
+    "Signature day trip from Sirmione",
+    "Sunset viewpoint overlooking Sirmione"
+  ],
+  alghero: [
+    "Alghero historic center / Old Town",
+    "Alghero main square and landmark viewpoints",
+    "Alghero cathedral / historic church",
+    "Alghero central market or bazaar",
+    "Italy regional museum in Alghero",
+    "Scenic park, waterfront or hillside walk in Alghero",
+    "Signature day trip from Alghero",
+    "Sunset viewpoint overlooking Alghero"
+  ],
+  cagliari: [
+    "Cagliari historic center / Old Town",
+    "Cagliari main square and landmark viewpoints",
+    "Cagliari cathedral / historic church",
+    "Cagliari central market or bazaar",
+    "Italy regional museum in Cagliari",
+    "Scenic park, waterfront or hillside walk in Cagliari",
+    "Signature day trip from Cagliari",
+    "Sunset viewpoint overlooking Cagliari"
+  ],
+  "syracuse-sicily": [
+    "Syracuse historic center / Old Town",
+    "Syracuse main square and landmark viewpoints",
+    "Syracuse cathedral / historic church",
+    "Syracuse central market or bazaar",
+    "Italy regional museum in Syracuse",
+    "Scenic park, waterfront or hillside walk in Syracuse",
+    "Signature day trip from Syracuse",
+    "Sunset viewpoint overlooking Syracuse"
+  ],
+  agrigento: [
+    "Agrigento historic center / Old Town",
+    "Agrigento main square and landmark viewpoints",
+    "Agrigento cathedral / historic church",
+    "Agrigento central market or bazaar",
+    "Italy regional museum in Agrigento",
+    "Scenic park, waterfront or hillside walk in Agrigento",
+    "Signature day trip from Agrigento",
+    "Sunset viewpoint overlooking Agrigento"
+  ],
+  cefalu: [
+    "Cefalù historic center / Old Town",
+    "Cefalù main square and landmark viewpoints",
+    "Cefalù cathedral / historic church",
+    "Cefalù central market or bazaar",
+    "Italy regional museum in Cefalù",
+    "Scenic park, waterfront or hillside walk in Cefalù",
+    "Signature day trip from Cefalù",
+    "Sunset viewpoint overlooking Cefalù"
+  ],
+  trapani: [
+    "Trapani historic center / Old Town",
+    "Trapani main square and landmark viewpoints",
+    "Trapani cathedral / historic church",
+    "Trapani central market or bazaar",
+    "Italy regional museum in Trapani",
+    "Scenic park, waterfront or hillside walk in Trapani",
+    "Signature day trip from Trapani",
+    "Sunset viewpoint overlooking Trapani"
+  ],
+  ragusa: [
+    "Ragusa historic center / Old Town",
+    "Ragusa main square and landmark viewpoints",
+    "Ragusa cathedral / historic church",
+    "Ragusa central market or bazaar",
+    "Italy regional museum in Ragusa",
+    "Scenic park, waterfront or hillside walk in Ragusa",
+    "Signature day trip from Ragusa",
+    "Sunset viewpoint overlooking Ragusa"
+  ],
+  modica: [
+    "Modica historic center / Old Town",
+    "Modica main square and landmark viewpoints",
+    "Modica cathedral / historic church",
+    "Modica central market or bazaar",
+    "Italy regional museum in Modica",
+    "Scenic park, waterfront or hillside walk in Modica",
+    "Signature day trip from Modica",
+    "Sunset viewpoint overlooking Modica"
+  ],
+  noto: [
+    "Noto historic center / Old Town",
+    "Noto main square and landmark viewpoints",
+    "Noto cathedral / historic church",
+    "Noto central market or bazaar",
+    "Italy regional museum in Noto",
+    "Scenic park, waterfront or hillside walk in Noto",
+    "Signature day trip from Noto",
+    "Sunset viewpoint overlooking Noto"
+  ],
+  ostuni: [
+    "Ostuni historic center / Old Town",
+    "Ostuni main square and landmark viewpoints",
+    "Ostuni cathedral / historic church",
+    "Ostuni central market or bazaar",
+    "Italy regional museum in Ostuni",
+    "Scenic park, waterfront or hillside walk in Ostuni",
+    "Signature day trip from Ostuni",
+    "Sunset viewpoint overlooking Ostuni"
+  ],
+  alberobello: [
+    "Alberobello historic center / Old Town",
+    "Alberobello main square and landmark viewpoints",
+    "Alberobello cathedral / historic church",
+    "Alberobello central market or bazaar",
+    "Italy regional museum in Alberobello",
+    "Scenic park, waterfront or hillside walk in Alberobello",
+    "Signature day trip from Alberobello",
+    "Sunset viewpoint overlooking Alberobello"
+  ],
+  polignano: [
+    "Polignano a Mare historic center / Old Town",
+    "Polignano a Mare main square and landmark viewpoints",
+    "Polignano a Mare cathedral / historic church",
+    "Polignano a Mare central market or bazaar",
+    "Italy regional museum in Polignano a Mare",
+    "Scenic park, waterfront or hillside walk in Polignano a Mare",
+    "Signature day trip from Polignano a Mare",
+    "Sunset viewpoint overlooking Polignano a Mare"
+  ],
+  monopoli: [
+    "Monopoli historic center / Old Town",
+    "Monopoli main square and landmark viewpoints",
+    "Monopoli cathedral / historic church",
+    "Monopoli central market or bazaar",
+    "Italy regional museum in Monopoli",
+    "Scenic park, waterfront or hillside walk in Monopoli",
+    "Signature day trip from Monopoli",
+    "Sunset viewpoint overlooking Monopoli"
+  ],
+  bari: [
+    "Bari historic center / Old Town",
+    "Bari main square and landmark viewpoints",
+    "Bari cathedral / historic church",
+    "Bari central market or bazaar",
+    "Italy regional museum in Bari",
+    "Scenic park, waterfront or hillside walk in Bari",
+    "Signature day trip from Bari",
+    "Sunset viewpoint overlooking Bari"
+  ],
+  pompeii: [
+    "Pompeii historic center / Old Town",
+    "Pompeii main square and landmark viewpoints",
+    "Pompeii cathedral / historic church",
+    "Pompeii central market or bazaar",
+    "Italy regional museum in Pompeii",
+    "Scenic park, waterfront or hillside walk in Pompeii",
+    "Signature day trip from Pompeii",
+    "Sunset viewpoint overlooking Pompeii"
+  ],
+  ercolano: [
+    "Ercolano historic center / Old Town",
+    "Ercolano main square and landmark viewpoints",
+    "Ercolano cathedral / historic church",
+    "Ercolano central market or bazaar",
+    "Italy regional museum in Ercolano",
+    "Scenic park, waterfront or hillside walk in Ercolano",
+    "Signature day trip from Ercolano",
+    "Sunset viewpoint overlooking Ercolano"
+  ],
+  ravello: [
+    "Ravello historic center / Old Town",
+    "Ravello main square and landmark viewpoints",
+    "Ravello cathedral / historic church",
+    "Ravello central market or bazaar",
+    "Italy regional museum in Ravello",
+    "Scenic park, waterfront or hillside walk in Ravello",
+    "Signature day trip from Ravello",
+    "Sunset viewpoint overlooking Ravello"
+  ],
+  praiano: [
+    "Praiano historic center / Old Town",
+    "Praiano main square and landmark viewpoints",
+    "Praiano cathedral / historic church",
+    "Praiano central market or bazaar",
+    "Italy regional museum in Praiano",
+    "Scenic park, waterfront or hillside walk in Praiano",
+    "Signature day trip from Praiano",
+    "Sunset viewpoint overlooking Praiano"
+  ],
+  ischia: [
+    "Ischia historic center / Old Town",
+    "Ischia main square and landmark viewpoints",
+    "Ischia cathedral / historic church",
+    "Ischia central market or bazaar",
+    "Italy regional museum in Ischia",
+    "Scenic park, waterfront or hillside walk in Ischia",
+    "Signature day trip from Ischia",
+    "Sunset viewpoint overlooking Ischia"
+  ],
+  procida: [
+    "Procida historic center / Old Town",
+    "Procida main square and landmark viewpoints",
+    "Procida cathedral / historic church",
+    "Procida central market or bazaar",
+    "Italy regional museum in Procida",
+    "Scenic park, waterfront or hillside walk in Procida",
+    "Signature day trip from Procida",
+    "Sunset viewpoint overlooking Procida"
+  ],
+  orvieto: [
+    "Orvieto historic center / Old Town",
+    "Orvieto main square and landmark viewpoints",
+    "Orvieto cathedral / historic church",
+    "Orvieto central market or bazaar",
+    "Italy regional museum in Orvieto",
+    "Scenic park, waterfront or hillside walk in Orvieto",
+    "Signature day trip from Orvieto",
+    "Sunset viewpoint overlooking Orvieto"
+  ],
+  spoleto: [
+    "Spoleto historic center / Old Town",
+    "Spoleto main square and landmark viewpoints",
+    "Spoleto cathedral / historic church",
+    "Spoleto central market or bazaar",
+    "Italy regional museum in Spoleto",
+    "Scenic park, waterfront or hillside walk in Spoleto",
+    "Signature day trip from Spoleto",
+    "Sunset viewpoint overlooking Spoleto"
+  ],
+  gubbio: [
+    "Gubbio historic center / Old Town",
+    "Gubbio main square and landmark viewpoints",
+    "Gubbio cathedral / historic church",
+    "Gubbio central market or bazaar",
+    "Italy regional museum in Gubbio",
+    "Scenic park, waterfront or hillside walk in Gubbio",
+    "Signature day trip from Gubbio",
+    "Sunset viewpoint overlooking Gubbio"
+  ],
+  urbino: [
+    "Urbino historic center / Old Town",
+    "Urbino main square and landmark viewpoints",
+    "Urbino cathedral / historic church",
+    "Urbino central market or bazaar",
+    "Italy regional museum in Urbino",
+    "Scenic park, waterfront or hillside walk in Urbino",
+    "Signature day trip from Urbino",
+    "Sunset viewpoint overlooking Urbino"
+  ],
+  volterra: [
+    "Volterra historic center / Old Town",
+    "Volterra main square and landmark viewpoints",
+    "Volterra cathedral / historic church",
+    "Volterra central market or bazaar",
+    "Italy regional museum in Volterra",
+    "Scenic park, waterfront or hillside walk in Volterra",
+    "Signature day trip from Volterra",
+    "Sunset viewpoint overlooking Volterra"
+  ],
+  montepulciano: [
+    "Montepulciano historic center / Old Town",
+    "Montepulciano main square and landmark viewpoints",
+    "Montepulciano cathedral / historic church",
+    "Montepulciano central market or bazaar",
+    "Italy regional museum in Montepulciano",
+    "Scenic park, waterfront or hillside walk in Montepulciano",
+    "Signature day trip from Montepulciano",
+    "Sunset viewpoint overlooking Montepulciano"
+  ],
+  pienza: [
+    "Pienza historic center / Old Town",
+    "Pienza main square and landmark viewpoints",
+    "Pienza cathedral / historic church",
+    "Pienza central market or bazaar",
+    "Italy regional museum in Pienza",
+    "Scenic park, waterfront or hillside walk in Pienza",
+    "Signature day trip from Pienza",
+    "Sunset viewpoint overlooking Pienza"
+  ],
+  montalcino: [
+    "Montalcino historic center / Old Town",
+    "Montalcino main square and landmark viewpoints",
+    "Montalcino cathedral / historic church",
+    "Montalcino central market or bazaar",
+    "Italy regional museum in Montalcino",
+    "Scenic park, waterfront or hillside walk in Montalcino",
+    "Signature day trip from Montalcino",
+    "Sunset viewpoint overlooking Montalcino"
+  ],
+  "greve-in-chianti": [
+    "Greve in Chianti historic center / Old Town",
+    "Greve in Chianti main square and landmark viewpoints",
+    "Greve in Chianti cathedral / historic church",
+    "Greve in Chianti central market or bazaar",
+    "Italy regional museum in Greve in Chianti",
+    "Scenic park, waterfront or hillside walk in Greve in Chianti",
+    "Signature day trip from Greve in Chianti",
+    "Sunset viewpoint overlooking Greve in Chianti"
+  ],
+  arezzo: [
+    "Arezzo historic center / Old Town",
+    "Arezzo main square and landmark viewpoints",
+    "Arezzo cathedral / historic church",
+    "Arezzo central market or bazaar",
+    "Italy regional museum in Arezzo",
+    "Scenic park, waterfront or hillside walk in Arezzo",
+    "Signature day trip from Arezzo",
+    "Sunset viewpoint overlooking Arezzo"
+  ],
+  parma: [
+    "Parma historic center / Old Town",
+    "Parma main square and landmark viewpoints",
+    "Parma cathedral / historic church",
+    "Parma central market or bazaar",
+    "Italy regional museum in Parma",
+    "Scenic park, waterfront or hillside walk in Parma",
+    "Signature day trip from Parma",
+    "Sunset viewpoint overlooking Parma"
+  ],
+  modena: [
+    "Modena historic center / Old Town",
+    "Modena main square and landmark viewpoints",
+    "Modena cathedral / historic church",
+    "Modena central market or bazaar",
+    "Italy regional museum in Modena",
+    "Scenic park, waterfront or hillside walk in Modena",
+    "Signature day trip from Modena",
+    "Sunset viewpoint overlooking Modena"
+  ],
+  ferrara: [
+    "Ferrara historic center / Old Town",
+    "Ferrara main square and landmark viewpoints",
+    "Ferrara cathedral / historic church",
+    "Ferrara central market or bazaar",
+    "Italy regional museum in Ferrara",
+    "Scenic park, waterfront or hillside walk in Ferrara",
+    "Signature day trip from Ferrara",
+    "Sunset viewpoint overlooking Ferrara"
+  ],
+  mantua: [
+    "Mantua historic center / Old Town",
+    "Mantua main square and landmark viewpoints",
+    "Mantua cathedral / historic church",
+    "Mantua central market or bazaar",
+    "Italy regional museum in Mantua",
+    "Scenic park, waterfront or hillside walk in Mantua",
+    "Signature day trip from Mantua",
+    "Sunset viewpoint overlooking Mantua"
+  ],
+  padua: [
+    "Padua historic center / Old Town",
+    "Padua main square and landmark viewpoints",
+    "Padua cathedral / historic church",
+    "Padua central market or bazaar",
+    "Italy regional museum in Padua",
+    "Scenic park, waterfront or hillside walk in Padua",
+    "Signature day trip from Padua",
+    "Sunset viewpoint overlooking Padua"
+  ],
+  vicenza: [
+    "Vicenza historic center / Old Town",
+    "Vicenza main square and landmark viewpoints",
+    "Vicenza cathedral / historic church",
+    "Vicenza central market or bazaar",
+    "Italy regional museum in Vicenza",
+    "Scenic park, waterfront or hillside walk in Vicenza",
+    "Signature day trip from Vicenza",
+    "Sunset viewpoint overlooking Vicenza"
+  ],
+  treviso: [
+    "Treviso historic center / Old Town",
+    "Treviso main square and landmark viewpoints",
+    "Treviso cathedral / historic church",
+    "Treviso central market or bazaar",
+    "Italy regional museum in Treviso",
+    "Scenic park, waterfront or hillside walk in Treviso",
+    "Signature day trip from Treviso",
+    "Sunset viewpoint overlooking Treviso"
+  ],
+  trieste: [
+    "Trieste historic center / Old Town",
+    "Trieste main square and landmark viewpoints",
+    "Trieste cathedral / historic church",
+    "Trieste central market or bazaar",
+    "Italy regional museum in Trieste",
+    "Scenic park, waterfront or hillside walk in Trieste",
+    "Signature day trip from Trieste",
+    "Sunset viewpoint overlooking Trieste"
+  ],
+  "jeju-seogwipo": [
+    "Seogwipo historic center / Old Town",
+    "Seogwipo main square and landmark viewpoints",
+    "Seogwipo temple / shrine circuit",
+    "Seogwipo central market or bazaar",
+    "South Korea regional museum in Seogwipo",
+    "Scenic park, waterfront or hillside walk in Seogwipo",
+    "Signature day trip from Seogwipo",
+    "Sunset viewpoint overlooking Seogwipo"
+  ],
+  "busan-haeundae": [
+    "Haeundae historic center / Old Town",
+    "Haeundae main square and landmark viewpoints",
+    "Haeundae temple / shrine circuit",
+    "Haeundae central market or bazaar",
+    "South Korea regional museum in Haeundae",
+    "Scenic park, waterfront or hillside walk in Haeundae",
+    "Signature day trip from Haeundae",
+    "Sunset viewpoint overlooking Haeundae"
+  ],
+  "pai-thailand": [
+    "Pai historic center / Old Town",
+    "Pai main square and landmark viewpoints",
+    "Pai temple / shrine circuit",
+    "Pai central market or bazaar",
+    "Thailand regional museum in Pai",
+    "Scenic park, waterfront or hillside walk in Pai",
+    "Signature day trip from Pai",
+    "Sunset viewpoint overlooking Pai"
+  ],
+  "koh-lipe": [
+    "Ko Lipe historic center / Old Town",
+    "Ko Lipe main square and landmark viewpoints",
+    "Ko Lipe temple / shrine circuit",
+    "Ko Lipe central market or bazaar",
+    "Thailand regional museum in Ko Lipe",
+    "Scenic park, waterfront or hillside walk in Ko Lipe",
+    "Signature day trip from Ko Lipe",
+    "Sunset viewpoint overlooking Ko Lipe"
+  ],
+  "koh-tao": [
+    "Ko Tao historic center / Old Town",
+    "Ko Tao main square and landmark viewpoints",
+    "Ko Tao temple / shrine circuit",
+    "Ko Tao central market or bazaar",
+    "Thailand regional museum in Ko Tao",
+    "Scenic park, waterfront or hillside walk in Ko Tao",
+    "Signature day trip from Ko Tao",
+    "Sunset viewpoint overlooking Ko Tao"
+  ],
+  "koh-phangan": [
+    "Ko Pha Ngan historic center / Old Town",
+    "Ko Pha Ngan main square and landmark viewpoints",
+    "Ko Pha Ngan temple / shrine circuit",
+    "Ko Pha Ngan central market or bazaar",
+    "Thailand regional museum in Ko Pha Ngan",
+    "Scenic park, waterfront or hillside walk in Ko Pha Ngan",
+    "Signature day trip from Ko Pha Ngan",
+    "Sunset viewpoint overlooking Ko Pha Ngan"
+  ],
+  kanchanaburi: [
+    "Kanchanaburi historic center / Old Town",
+    "Kanchanaburi main square and landmark viewpoints",
+    "Kanchanaburi temple / shrine circuit",
+    "Kanchanaburi central market or bazaar",
+    "Thailand regional museum in Kanchanaburi",
+    "Scenic park, waterfront or hillside walk in Kanchanaburi",
+    "Signature day trip from Kanchanaburi",
+    "Sunset viewpoint overlooking Kanchanaburi"
+  ],
+  lopburi: [
+    "Lopburi historic center / Old Town",
+    "Lopburi main square and landmark viewpoints",
+    "Lopburi temple / shrine circuit",
+    "Lopburi central market or bazaar",
+    "Thailand regional museum in Lopburi",
+    "Scenic park, waterfront or hillside walk in Lopburi",
+    "Signature day trip from Lopburi",
+    "Sunset viewpoint overlooking Lopburi"
+  ],
+  hampi: [
+    "Hampi historic center / Old Town",
+    "Hampi main square and landmark viewpoints",
+    "Hampi temple / shrine circuit",
+    "Hampi central market or bazaar",
+    "India regional museum in Hampi",
+    "Scenic park, waterfront or hillside walk in Hampi",
+    "Signature day trip from Hampi",
+    "Sunset viewpoint overlooking Hampi"
+  ],
+  hannover: [
+    "Hampi historic center / Old Town",
+    "Hampi main square and landmark viewpoints",
+    "Hampi temple / shrine circuit",
+    "Hampi central market or bazaar",
+    "India regional museum in Hampi",
+    "Scenic park, waterfront or hillside walk in Hampi",
+    "Signature day trip from Hampi",
+    "Sunset viewpoint overlooking Hampi"
+  ],
+  gokarna: [
+    "Gokarna historic center / Old Town",
+    "Gokarna main square and landmark viewpoints",
+    "Gokarna temple / shrine circuit",
+    "Gokarna central market or bazaar",
+    "India regional museum in Gokarna",
+    "Scenic park, waterfront or hillside walk in Gokarna",
+    "Signature day trip from Gokarna",
+    "Sunset viewpoint overlooking Gokarna"
+  ],
+  munnar: [
+    "Munnar historic center / Old Town",
+    "Munnar main square and landmark viewpoints",
+    "Munnar temple / shrine circuit",
+    "Munnar central market or bazaar",
+    "India regional museum in Munnar",
+    "Scenic park, waterfront or hillside walk in Munnar",
+    "Signature day trip from Munnar",
+    "Sunset viewpoint overlooking Munnar"
+  ],
+  ooty: [
+    "Ooty historic center / Old Town",
+    "Ooty main square and landmark viewpoints",
+    "Ooty temple / shrine circuit",
+    "Ooty central market or bazaar",
+    "India regional museum in Ooty",
+    "Scenic park, waterfront or hillside walk in Ooty",
+    "Signature day trip from Ooty",
+    "Sunset viewpoint overlooking Ooty"
+  ],
+  coorg: [
+    "Madikeri historic center / Old Town",
+    "Madikeri main square and landmark viewpoints",
+    "Madikeri temple / shrine circuit",
+    "Madikeri central market or bazaar",
+    "India regional museum in Madikeri",
+    "Scenic park, waterfront or hillside walk in Madikeri",
+    "Signature day trip from Madikeri",
+    "Sunset viewpoint overlooking Madikeri"
+  ],
+  "andaman-port-blair": [
+    "Port Blair historic center / Old Town",
+    "Port Blair main square and landmark viewpoints",
+    "Port Blair temple / shrine circuit",
+    "Port Blair central market or bazaar",
+    "India regional museum in Port Blair",
+    "Scenic park, waterfront or hillside walk in Port Blair",
+    "Signature day trip from Port Blair",
+    "Sunset viewpoint overlooking Port Blair"
+  ],
+  lakshadweep: [
+    "Kavaratti historic center / Old Town",
+    "Kavaratti main square and landmark viewpoints",
+    "Kavaratti temple / shrine circuit",
+    "Kavaratti central market or bazaar",
+    "India regional museum in Kavaratti",
+    "Scenic park, waterfront or hillside walk in Kavaratti",
+    "Signature day trip from Kavaratti",
+    "Sunset viewpoint overlooking Kavaratti"
+  ],
+  bhaktapur: [
+    "Bhaktapur historic center / Old Town",
+    "Bhaktapur main square and landmark viewpoints",
+    "Bhaktapur temple / shrine circuit",
+    "Bhaktapur central market or bazaar",
+    "Nepal regional museum in Bhaktapur",
+    "Scenic park, waterfront or hillside walk in Bhaktapur",
+    "Signature day trip from Bhaktapur",
+    "Sunset viewpoint overlooking Bhaktapur"
+  ],
+  "patan-nepal": [
+    "Patan historic center / Old Town",
+    "Patan main square and landmark viewpoints",
+    "Patan temple / shrine circuit",
+    "Patan central market or bazaar",
+    "Nepal regional museum in Patan",
+    "Scenic park, waterfront or hillside walk in Patan",
+    "Signature day trip from Patan",
+    "Sunset viewpoint overlooking Patan"
+  ],
+  chitwan: [
+    "Bharatpur historic center / Old Town",
+    "Bharatpur main square and landmark viewpoints",
+    "Bharatpur temple / shrine circuit",
+    "Bharatpur central market or bazaar",
+    "Nepal regional museum in Bharatpur",
+    "Scenic park, waterfront or hillside walk in Bharatpur",
+    "Signature day trip from Bharatpur",
+    "Sunset viewpoint overlooking Bharatpur"
+  ],
+  "nuwara-eliya": [
+    "Nuwara Eliya historic center / Old Town",
+    "Nuwara Eliya main square and landmark viewpoints",
+    "Nuwara Eliya temple / shrine circuit",
+    "Nuwara Eliya central market or bazaar",
+    "Sri Lanka regional museum in Nuwara Eliya",
+    "Scenic park, waterfront or hillside walk in Nuwara Eliya",
+    "Signature day trip from Nuwara Eliya",
+    "Sunset viewpoint overlooking Nuwara Eliya"
+  ],
+  mirissa: [
+    "Mirissa historic center / Old Town",
+    "Mirissa main square and landmark viewpoints",
+    "Mirissa temple / shrine circuit",
+    "Mirissa central market or bazaar",
+    "Sri Lanka regional museum in Mirissa",
+    "Scenic park, waterfront or hillside walk in Mirissa",
+    "Signature day trip from Mirissa",
+    "Sunset viewpoint overlooking Mirissa"
+  ],
+  unawatuna: [
+    "Unawatuna historic center / Old Town",
+    "Unawatuna main square and landmark viewpoints",
+    "Unawatuna temple / shrine circuit",
+    "Unawatuna central market or bazaar",
+    "Sri Lanka regional museum in Unawatuna",
+    "Scenic park, waterfront or hillside walk in Unawatuna",
+    "Signature day trip from Unawatuna",
+    "Sunset viewpoint overlooking Unawatuna"
+  ],
+  trincomalee: [
+    "Trincomalee historic center / Old Town",
+    "Trincomalee main square and landmark viewpoints",
+    "Trincomalee temple / shrine circuit",
+    "Trincomalee central market or bazaar",
+    "Sri Lanka regional museum in Trincomalee",
+    "Scenic park, waterfront or hillside walk in Trincomalee",
+    "Signature day trip from Trincomalee",
+    "Sunset viewpoint overlooking Trincomalee"
+  ],
+  jaffna: [
+    "Jaffna historic center / Old Town",
+    "Jaffna main square and landmark viewpoints",
+    "Jaffna temple / shrine circuit",
+    "Jaffna central market or bazaar",
+    "Sri Lanka regional museum in Jaffna",
+    "Scenic park, waterfront or hillside walk in Jaffna",
+    "Signature day trip from Jaffna",
+    "Sunset viewpoint overlooking Jaffna"
+  ],
+  punakha: [
+    "Punākha historic center / Old Town",
+    "Punākha main square and landmark viewpoints",
+    "Punākha temple / shrine circuit",
+    "Punākha central market or bazaar",
+    "Bhutan regional museum in Punākha",
+    "Scenic park, waterfront or hillside walk in Punākha",
+    "Signature day trip from Punākha",
+    "Sunset viewpoint overlooking Punākha"
+  ],
+  "paro-valley": [
+    "Paro historic center / Old Town",
+    "Paro main square and landmark viewpoints",
+    "Paro temple / shrine circuit",
+    "Paro central market or bazaar",
+    "Bhutan regional museum in Paro",
+    "Scenic park, waterfront or hillside walk in Paro",
+    "Signature day trip from Paro",
+    "Sunset viewpoint overlooking Paro"
+  ],
+  "ha-long-bai-chay": [
+    "Bai Chay historic center / Old Town",
+    "Bai Chay main square and landmark viewpoints",
+    "Bai Chay temple / shrine circuit",
+    "Bai Chay central market or bazaar",
+    "Vietnam regional museum in Bai Chay",
+    "Scenic park, waterfront or hillside walk in Bai Chay",
+    "Signature day trip from Bai Chay",
+    "Sunset viewpoint overlooking Bai Chay"
+  ],
+  "mai-chau": [
+    "Mai Chau historic center / Old Town",
+    "Mai Chau main square and landmark viewpoints",
+    "Mai Chau temple / shrine circuit",
+    "Mai Chau central market or bazaar",
+    "Vietnam regional museum in Mai Chau",
+    "Scenic park, waterfront or hillside walk in Mai Chau",
+    "Signature day trip from Mai Chau",
+    "Sunset viewpoint overlooking Mai Chau"
+  ],
+  "phu-quoc-duong-dong": [
+    "Duong Dong historic center / Old Town",
+    "Duong Dong main square and landmark viewpoints",
+    "Duong Dong temple / shrine circuit",
+    "Duong Dong central market or bazaar",
+    "Vietnam regional museum in Duong Dong",
+    "Scenic park, waterfront or hillside walk in Duong Dong",
+    "Signature day trip from Duong Dong",
+    "Sunset viewpoint overlooking Duong Dong"
+  ],
+  kampot: [
+    "Kampot historic center / Old Town",
+    "Kampot main square and landmark viewpoints",
+    "Kampot temple / shrine circuit",
+    "Kampot central market or bazaar",
+    "Cambodia regional museum in Kampot",
+    "Scenic park, waterfront or hillside walk in Kampot",
+    "Signature day trip from Kampot",
+    "Sunset viewpoint overlooking Kampot"
+  ],
+  battambang: [
+    "Battambang historic center / Old Town",
+    "Battambang main square and landmark viewpoints",
+    "Battambang temple / shrine circuit",
+    "Battambang central market or bazaar",
+    "Cambodia regional museum in Battambang",
+    "Scenic park, waterfront or hillside walk in Battambang",
+    "Signature day trip from Battambang",
+    "Sunset viewpoint overlooking Battambang"
+  ],
+  pakse: [
+    "Pakse historic center / Old Town",
+    "Pakse main square and landmark viewpoints",
+    "Pakse temple / shrine circuit",
+    "Pakse central market or bazaar",
+    "Laos regional museum in Pakse",
+    "Scenic park, waterfront or hillside walk in Pakse",
+    "Signature day trip from Pakse",
+    "Sunset viewpoint overlooking Pakse"
+  ],
+  "luang-namtha": [
+    "Luang Namtha historic center / Old Town",
+    "Luang Namtha main square and landmark viewpoints",
+    "Luang Namtha temple / shrine circuit",
+    "Luang Namtha central market or bazaar",
+    "Laos regional museum in Luang Namtha",
+    "Scenic park, waterfront or hillside walk in Luang Namtha",
+    "Signature day trip from Luang Namtha",
+    "Sunset viewpoint overlooking Luang Namtha"
+  ],
+  "inle-nyaungshwe": [
+    "Nyaungshwe historic center / Old Town",
+    "Nyaungshwe main square and landmark viewpoints",
+    "Nyaungshwe cathedral / historic church",
+    "Nyaungshwe central market or bazaar",
+    "Myanmar regional museum in Nyaungshwe",
+    "Scenic park, waterfront or hillside walk in Nyaungshwe",
+    "Signature day trip from Nyaungshwe",
+    "Sunset viewpoint overlooking Nyaungshwe"
+  ],
+  "bagan-nyaung-u": [
+    "Nyaung-U historic center / Old Town",
+    "Nyaung-U main square and landmark viewpoints",
+    "Nyaung-U cathedral / historic church",
+    "Nyaung-U central market or bazaar",
+    "Myanmar regional museum in Nyaung-U",
+    "Scenic park, waterfront or hillside walk in Nyaung-U",
+    "Signature day trip from Nyaung-U",
+    "Sunset viewpoint overlooking Nyaung-U"
+  ],
+  taunggyi: [
+    "Taunggyi historic center / Old Town",
+    "Taunggyi main square and landmark viewpoints",
+    "Taunggyi cathedral / historic church",
+    "Taunggyi central market or bazaar",
+    "Myanmar regional museum in Taunggyi",
+    "Scenic park, waterfront or hillside walk in Taunggyi",
+    "Signature day trip from Taunggyi",
+    "Sunset viewpoint overlooking Taunggyi"
+  ],
+  "seminyak-canggu": [
+    "Canggu historic center / Old Town",
+    "Canggu main square and landmark viewpoints",
+    "Canggu temple / shrine circuit",
+    "Canggu central market or bazaar",
+    "Indonesia regional museum in Canggu",
+    "Scenic park, waterfront or hillside walk in Canggu",
+    "Signature day trip from Canggu",
+    "Sunset viewpoint overlooking Canggu"
+  ],
+  "uluwatu-jimbaran": [
+    "Jimbaran historic center / Old Town",
+    "Jimbaran main square and landmark viewpoints",
+    "Jimbaran temple / shrine circuit",
+    "Jimbaran central market or bazaar",
+    "Indonesia regional museum in Jimbaran",
+    "Scenic park, waterfront or hillside walk in Jimbaran",
+    "Signature day trip from Jimbaran",
+    "Sunset viewpoint overlooking Jimbaran"
+  ],
+  "gili-trawangan": [
+    "Gili Trawangan historic center / Old Town",
+    "Gili Trawangan main square and landmark viewpoints",
+    "Gili Trawangan temple / shrine circuit",
+    "Gili Trawangan central market or bazaar",
+    "Indonesia regional museum in Gili Trawangan",
+    "Scenic park, waterfront or hillside walk in Gili Trawangan",
+    "Signature day trip from Gili Trawangan",
+    "Sunset viewpoint overlooking Gili Trawangan"
+  ],
+  "flores-labuan": [
+    "Labuan Bajo historic center / Old Town",
+    "Labuan Bajo main square and landmark viewpoints",
+    "Labuan Bajo temple / shrine circuit",
+    "Labuan Bajo central market or bazaar",
+    "Indonesia regional museum in Labuan Bajo",
+    "Scenic park, waterfront or hillside walk in Labuan Bajo",
+    "Signature day trip from Labuan Bajo",
+    "Sunset viewpoint overlooking Labuan Bajo"
+  ],
+  "komodo-labuan": [
+    "Labuan Bajo historic center / Old Town",
+    "Labuan Bajo main square and landmark viewpoints",
+    "Labuan Bajo temple / shrine circuit",
+    "Labuan Bajo central market or bazaar",
+    "Indonesia regional museum in Labuan Bajo",
+    "Scenic park, waterfront or hillside walk in Labuan Bajo",
+    "Signature day trip from Labuan Bajo",
+    "Sunset viewpoint overlooking Labuan Bajo"
+  ],
+  "raja-ampat-waisai": [
+    "Waisai historic center / Old Town",
+    "Waisai main square and landmark viewpoints",
+    "Waisai temple / shrine circuit",
+    "Waisai central market or bazaar",
+    "Indonesia regional museum in Waisai",
+    "Scenic park, waterfront or hillside walk in Waisai",
+    "Signature day trip from Waisai",
+    "Sunset viewpoint overlooking Waisai"
+  ],
+  "bunaken-manado": [
+    "Manado historic center / Old Town",
+    "Manado main square and landmark viewpoints",
+    "Manado temple / shrine circuit",
+    "Manado central market or bazaar",
+    "Indonesia regional museum in Manado",
+    "Scenic park, waterfront or hillside walk in Manado",
+    "Signature day trip from Manado",
+    "Sunset viewpoint overlooking Manado"
+  ],
+  "yogyakarta-borobudur": [
+    "Magelang historic center / Old Town",
+    "Magelang main square and landmark viewpoints",
+    "Magelang temple / shrine circuit",
+    "Magelang central market or bazaar",
+    "Indonesia regional museum in Magelang",
+    "Scenic park, waterfront or hillside walk in Magelang",
+    "Signature day trip from Magelang",
+    "Sunset viewpoint overlooking Magelang"
+  ],
+  "bromo-probolinggo": [
+    "Probolinggo historic center / Old Town",
+    "Probolinggo main square and landmark viewpoints",
+    "Probolinggo temple / shrine circuit",
+    "Probolinggo central market or bazaar",
+    "Indonesia regional museum in Probolinggo",
+    "Scenic park, waterfront or hillside walk in Probolinggo",
+    "Signature day trip from Probolinggo",
+    "Sunset viewpoint overlooking Probolinggo"
+  ],
+  "ijo-dieng": [
+    "Wonosobo historic center / Old Town",
+    "Wonosobo main square and landmark viewpoints",
+    "Wonosobo temple / shrine circuit",
+    "Wonosobo central market or bazaar",
+    "Indonesia regional museum in Wonosobo",
+    "Scenic park, waterfront or hillside walk in Wonosobo",
+    "Signature day trip from Wonosobo",
+    "Sunset viewpoint overlooking Wonosobo"
+  ],
+  "malacca-city": [
+    "Malacca City historic center / Old Town",
+    "Malacca City main square and landmark viewpoints",
+    "Malacca City temple / shrine circuit",
+    "Malacca City central market or bazaar",
+    "Malaysia regional museum in Malacca City",
+    "Scenic park, waterfront or hillside walk in Malacca City",
+    "Signature day trip from Malacca City",
+    "Sunset viewpoint overlooking Malacca City"
+  ],
+  "cameron-highlands": [
+    "Tanah Rata historic center / Old Town",
+    "Tanah Rata main square and landmark viewpoints",
+    "Tanah Rata temple / shrine circuit",
+    "Tanah Rata central market or bazaar",
+    "Malaysia regional museum in Tanah Rata",
+    "Scenic park, waterfront or hillside walk in Tanah Rata",
+    "Signature day trip from Tanah Rata",
+    "Sunset viewpoint overlooking Tanah Rata"
+  ],
+  tioman: [
+    "Tioman historic center / Old Town",
+    "Tioman main square and landmark viewpoints",
+    "Tioman temple / shrine circuit",
+    "Tioman central market or bazaar",
+    "Malaysia regional museum in Tioman",
+    "Scenic park, waterfront or hillside walk in Tioman",
+    "Signature day trip from Tioman",
+    "Sunset viewpoint overlooking Tioman"
+  ],
+  perhentian: [
+    "Perhentian Islands historic center / Old Town",
+    "Perhentian Islands main square and landmark viewpoints",
+    "Perhentian Islands temple / shrine circuit",
+    "Perhentian Islands central market or bazaar",
+    "Malaysia regional museum in Perhentian Islands",
+    "Scenic park, waterfront or hillside walk in Perhentian Islands",
+    "Signature day trip from Perhentian Islands",
+    "Sunset viewpoint overlooking Perhentian Islands"
+  ],
+  redang: [
+    "Redang historic center / Old Town",
+    "Redang main square and landmark viewpoints",
+    "Redang temple / shrine circuit",
+    "Redang central market or bazaar",
+    "Malaysia regional museum in Redang",
+    "Scenic park, waterfront or hillside walk in Redang",
+    "Signature day trip from Redang",
+    "Sunset viewpoint overlooking Redang"
+  ],
+  sandakan: [
+    "Sandakan historic center / Old Town",
+    "Sandakan main square and landmark viewpoints",
+    "Sandakan temple / shrine circuit",
+    "Sandakan central market or bazaar",
+    "Malaysia regional museum in Sandakan",
+    "Scenic park, waterfront or hillside walk in Sandakan",
+    "Signature day trip from Sandakan",
+    "Sunset viewpoint overlooking Sandakan"
+  ],
+  semporna: [
+    "Semporna historic center / Old Town",
+    "Semporna main square and landmark viewpoints",
+    "Semporna temple / shrine circuit",
+    "Semporna central market or bazaar",
+    "Malaysia regional museum in Semporna",
+    "Scenic park, waterfront or hillside walk in Semporna",
+    "Signature day trip from Semporna",
+    "Sunset viewpoint overlooking Semporna"
+  ],
+  mabul: [
+    "Mabul historic center / Old Town",
+    "Mabul main square and landmark viewpoints",
+    "Mabul temple / shrine circuit",
+    "Mabul central market or bazaar",
+    "Malaysia regional museum in Mabul",
+    "Scenic park, waterfront or hillside walk in Mabul",
+    "Signature day trip from Mabul",
+    "Sunset viewpoint overlooking Mabul"
+  ],
+  "siargao-general-luna": [
+    "General Luna historic center / Old Town",
+    "General Luna main square and landmark viewpoints",
+    "General Luna temple / shrine circuit",
+    "General Luna central market or bazaar",
+    "Philippines regional museum in General Luna",
+    "Scenic park, waterfront or hillside walk in General Luna",
+    "Signature day trip from General Luna",
+    "Sunset viewpoint overlooking General Luna"
+  ],
+  "bohol-panglao": [
+    "Panglao historic center / Old Town",
+    "Panglao main square and landmark viewpoints",
+    "Panglao temple / shrine circuit",
+    "Panglao central market or bazaar",
+    "Philippines regional museum in Panglao",
+    "Scenic park, waterfront or hillside walk in Panglao",
+    "Signature day trip from Panglao",
+    "Sunset viewpoint overlooking Panglao"
+  ],
+  coron: [
+    "Coron historic center / Old Town",
+    "Coron main square and landmark viewpoints",
+    "Coron temple / shrine circuit",
+    "Coron central market or bazaar",
+    "Philippines regional museum in Coron",
+    "Scenic park, waterfront or hillside walk in Coron",
+    "Signature day trip from Coron",
+    "Sunset viewpoint overlooking Coron"
+  ],
+  baguio: [
+    "Baguio historic center / Old Town",
+    "Baguio main square and landmark viewpoints",
+    "Baguio temple / shrine circuit",
+    "Baguio central market or bazaar",
+    "Philippines regional museum in Baguio",
+    "Scenic park, waterfront or hillside walk in Baguio",
+    "Signature day trip from Baguio",
+    "Sunset viewpoint overlooking Baguio"
+  ],
+  vigan: [
+    "Vigan historic center / Old Town",
+    "Vigan main square and landmark viewpoints",
+    "Vigan temple / shrine circuit",
+    "Vigan central market or bazaar",
+    "Philippines regional museum in Vigan",
+    "Scenic park, waterfront or hillside walk in Vigan",
+    "Signature day trip from Vigan",
+    "Sunset viewpoint overlooking Vigan"
+  ],
+  tagaytay: [
+    "Tagaytay historic center / Old Town",
+    "Tagaytay main square and landmark viewpoints",
+    "Tagaytay temple / shrine circuit",
+    "Tagaytay central market or bazaar",
+    "Philippines regional museum in Tagaytay",
+    "Scenic park, waterfront or hillside walk in Tagaytay",
+    "Signature day trip from Tagaytay",
+    "Sunset viewpoint overlooking Tagaytay"
+  ],
+  aspencolorado: [
+    "Aspen historic center / Old Town",
+    "Aspen main square and landmark viewpoints",
+    "Aspen cathedral / historic church",
+    "Aspen central market or bazaar",
+    "United States regional museum in Aspen",
+    "Scenic park, waterfront or hillside walk in Aspen",
+    "Signature day trip from Aspen",
+    "Sunset viewpoint overlooking Aspen"
+  ],
+  vail: [
+    "Vail historic center / Old Town",
+    "Vail main square and landmark viewpoints",
+    "Vail cathedral / historic church",
+    "Vail central market or bazaar",
+    "United States regional museum in Vail",
+    "Scenic park, waterfront or hillside walk in Vail",
+    "Signature day trip from Vail",
+    "Sunset viewpoint overlooking Vail"
+  ],
+  "park-city": [
+    "Park City historic center / Old Town",
+    "Park City main square and landmark viewpoints",
+    "Park City cathedral / historic church",
+    "Park City central market or bazaar",
+    "United States regional museum in Park City",
+    "Scenic park, waterfront or hillside walk in Park City",
+    "Signature day trip from Park City",
+    "Sunset viewpoint overlooking Park City"
+  ],
+  "lake-tahoe": [
+    "South Lake Tahoe historic center / Old Town",
+    "South Lake Tahoe main square and landmark viewpoints",
+    "South Lake Tahoe cathedral / historic church",
+    "South Lake Tahoe central market or bazaar",
+    "United States regional museum in South Lake Tahoe",
+    "Scenic park, waterfront or hillside walk in South Lake Tahoe",
+    "Signature day trip from South Lake Tahoe",
+    "Sunset viewpoint overlooking South Lake Tahoe"
+  ],
+  "yosemite-village": [
+    "Yosemite Valley historic center / Old Town",
+    "Yosemite Valley main square and landmark viewpoints",
+    "Yosemite Valley cathedral / historic church",
+    "Yosemite Valley central market or bazaar",
+    "United States regional museum in Yosemite Valley",
+    "Scenic park, waterfront or hillside walk in Yosemite Valley",
+    "Signature day trip from Yosemite Valley",
+    "Sunset viewpoint overlooking Yosemite Valley"
+  ],
+  "grand-canyon-village": [
+    "Grand Canyon Village historic center / Old Town",
+    "Grand Canyon Village main square and landmark viewpoints",
+    "Grand Canyon Village cathedral / historic church",
+    "Grand Canyon Village central market or bazaar",
+    "United States regional museum in Grand Canyon Village",
+    "Scenic park, waterfront or hillside walk in Grand Canyon Village",
+    "Signature day trip from Grand Canyon Village",
+    "Sunset viewpoint overlooking Grand Canyon Village"
+  ],
+  "zion-springdale": [
+    "Springdale historic center / Old Town",
+    "Springdale main square and landmark viewpoints",
+    "Springdale cathedral / historic church",
+    "Springdale central market or bazaar",
+    "United States regional museum in Springdale",
+    "Scenic park, waterfront or hillside walk in Springdale",
+    "Signature day trip from Springdale",
+    "Sunset viewpoint overlooking Springdale"
+  ],
+  "bryce-tropic": [
+    "Tropic historic center / Old Town",
+    "Tropic main square and landmark viewpoints",
+    "Tropic cathedral / historic church",
+    "Tropic central market or bazaar",
+    "United States regional museum in Tropic",
+    "Scenic park, waterfront or hillside walk in Tropic",
+    "Signature day trip from Tropic",
+    "Sunset viewpoint overlooking Tropic"
+  ],
+  "page-arizona": [
+    "Page historic center / Old Town",
+    "Page main square and landmark viewpoints",
+    "Page cathedral / historic church",
+    "Page central market or bazaar",
+    "United States regional museum in Page",
+    "Scenic park, waterfront or hillside walk in Page",
+    "Signature day trip from Page",
+    "Sunset viewpoint overlooking Page"
+  ],
+  "monument-valley": [
+    "Monument Valley historic center / Old Town",
+    "Monument Valley main square and landmark viewpoints",
+    "Monument Valley cathedral / historic church",
+    "Monument Valley central market or bazaar",
+    "United States regional museum in Monument Valley",
+    "Scenic park, waterfront or hillside walk in Monument Valley",
+    "Signature day trip from Monument Valley",
+    "Sunset viewpoint overlooking Monument Valley"
+  ],
+  "santa-monica": [
+    "Santa Monica historic center / Old Town",
+    "Santa Monica main square and landmark viewpoints",
+    "Santa Monica cathedral / historic church",
+    "Santa Monica central market or bazaar",
+    "United States regional museum in Santa Monica",
+    "Scenic park, waterfront or hillside walk in Santa Monica",
+    "Signature day trip from Santa Monica",
+    "Sunset viewpoint overlooking Santa Monica"
+  ],
+  malibu: [
+    "Malibu historic center / Old Town",
+    "Malibu main square and landmark viewpoints",
+    "Malibu cathedral / historic church",
+    "Malibu central market or bazaar",
+    "United States regional museum in Malibu",
+    "Scenic park, waterfront or hillside walk in Malibu",
+    "Signature day trip from Malibu",
+    "Sunset viewpoint overlooking Malibu"
+  ],
+  "big-sur": [
+    "Big Sur historic center / Old Town",
+    "Big Sur main square and landmark viewpoints",
+    "Big Sur cathedral / historic church",
+    "Big Sur central market or bazaar",
+    "United States regional museum in Big Sur",
+    "Scenic park, waterfront or hillside walk in Big Sur",
+    "Signature day trip from Big Sur",
+    "Sunset viewpoint overlooking Big Sur"
+  ],
+  "carmel-valley": [
+    "Carmel Valley historic center / Old Town",
+    "Carmel Valley main square and landmark viewpoints",
+    "Carmel Valley cathedral / historic church",
+    "Carmel Valley central market or bazaar",
+    "United States regional museum in Carmel Valley",
+    "Scenic park, waterfront or hillside walk in Carmel Valley",
+    "Signature day trip from Carmel Valley",
+    "Sunset viewpoint overlooking Carmel Valley"
+  ],
+  healdsburg: [
+    "Healdsburg historic center / Old Town",
+    "Healdsburg main square and landmark viewpoints",
+    "Healdsburg cathedral / historic church",
+    "Healdsburg central market or bazaar",
+    "United States regional museum in Healdsburg",
+    "Scenic park, waterfront or hillside walk in Healdsburg",
+    "Signature day trip from Healdsburg",
+    "Sunset viewpoint overlooking Healdsburg"
+  ],
+  sonoma: [
+    "Sonoma historic center / Old Town",
+    "Sonoma main square and landmark viewpoints",
+    "Sonoma cathedral / historic church",
+    "Sonoma central market or bazaar",
+    "United States regional museum in Sonoma",
+    "Scenic park, waterfront or hillside walk in Sonoma",
+    "Signature day trip from Sonoma",
+    "Sunset viewpoint overlooking Sonoma"
+  ],
+  mendocino: [
+    "Mendocino historic center / Old Town",
+    "Mendocino main square and landmark viewpoints",
+    "Mendocino cathedral / historic church",
+    "Mendocino central market or bazaar",
+    "United States regional museum in Mendocino",
+    "Scenic park, waterfront or hillside walk in Mendocino",
+    "Signature day trip from Mendocino",
+    "Sunset viewpoint overlooking Mendocino"
+  ],
+  "carmel-by-the-sea": [
+    "Carmel-by-the-Sea historic center / Old Town",
+    "Carmel-by-the-Sea main square and landmark viewpoints",
+    "Carmel-by-the-Sea cathedral / historic church",
+    "Carmel-by-the-Sea central market or bazaar",
+    "United States regional museum in Carmel-by-the-Sea",
+    "Scenic park, waterfront or hillside walk in Carmel-by-the-Sea",
+    "Signature day trip from Carmel-by-the-Sea",
+    "Sunset viewpoint overlooking Carmel-by-the-Sea"
+  ],
+  "bar-harbor": [
+    "Bar Harbor historic center / Old Town",
+    "Bar Harbor main square and landmark viewpoints",
+    "Bar Harbor cathedral / historic church",
+    "Bar Harbor central market or bazaar",
+    "United States regional museum in Bar Harbor",
+    "Scenic park, waterfront or hillside walk in Bar Harbor",
+    "Signature day trip from Bar Harbor",
+    "Sunset viewpoint overlooking Bar Harbor"
+  ],
+  "cape-cod-provincetown": [
+    "Provincetown historic center / Old Town",
+    "Provincetown main square and landmark viewpoints",
+    "Provincetown cathedral / historic church",
+    "Provincetown central market or bazaar",
+    "United States regional museum in Provincetown",
+    "Scenic park, waterfront or hillside walk in Provincetown",
+    "Signature day trip from Provincetown",
+    "Sunset viewpoint overlooking Provincetown"
+  ],
+  "newport-ri": [
+    "Newport historic center / Old Town",
+    "Newport main square and landmark viewpoints",
+    "Newport cathedral / historic church",
+    "Newport central market or bazaar",
+    "United States regional museum in Newport",
+    "Scenic park, waterfront or hillside walk in Newport",
+    "Signature day trip from Newport",
+    "Sunset viewpoint overlooking Newport"
+  ],
+  "martha-vineyard": [
+    "Vineyard Haven historic center / Old Town",
+    "Vineyard Haven main square and landmark viewpoints",
+    "Vineyard Haven cathedral / historic church",
+    "Vineyard Haven central market or bazaar",
+    "United States regional museum in Vineyard Haven",
+    "Scenic park, waterfront or hillside walk in Vineyard Haven",
+    "Signature day trip from Vineyard Haven",
+    "Sunset viewpoint overlooking Vineyard Haven"
+  ],
+  nantucket: [
+    "Nantucket historic center / Old Town",
+    "Nantucket main square and landmark viewpoints",
+    "Nantucket cathedral / historic church",
+    "Nantucket central market or bazaar",
+    "United States regional museum in Nantucket",
+    "Scenic park, waterfront or hillside walk in Nantucket",
+    "Signature day trip from Nantucket",
+    "Sunset viewpoint overlooking Nantucket"
+  ],
+  "outer-banks": [
+    "Nags Head historic center / Old Town",
+    "Nags Head main square and landmark viewpoints",
+    "Nags Head cathedral / historic church",
+    "Nags Head central market or bazaar",
+    "United States regional museum in Nags Head",
+    "Scenic park, waterfront or hillside walk in Nags Head",
+    "Signature day trip from Nags Head",
+    "Sunset viewpoint overlooking Nags Head"
+  ],
+  "hilton-head": [
+    "Hilton Head Island historic center / Old Town",
+    "Hilton Head Island main square and landmark viewpoints",
+    "Hilton Head Island cathedral / historic church",
+    "Hilton Head Island central market or bazaar",
+    "United States regional museum in Hilton Head Island",
+    "Scenic park, waterfront or hillside walk in Hilton Head Island",
+    "Signature day trip from Hilton Head Island",
+    "Sunset viewpoint overlooking Hilton Head Island"
+  ],
+  "miami-beach": [
+    "Miami Beach historic center / Old Town",
+    "Miami Beach main square and landmark viewpoints",
+    "Miami Beach cathedral / historic church",
+    "Miami Beach central market or bazaar",
+    "United States regional museum in Miami Beach",
+    "Scenic park, waterfront or hillside walk in Miami Beach",
+    "Signature day trip from Miami Beach",
+    "Sunset viewpoint overlooking Miami Beach"
+  ],
+  "key-largo": [
+    "Key Largo historic center / Old Town",
+    "Key Largo main square and landmark viewpoints",
+    "Key Largo cathedral / historic church",
+    "Key Largo central market or bazaar",
+    "United States regional museum in Key Largo",
+    "Scenic park, waterfront or hillside walk in Key Largo",
+    "Signature day trip from Key Largo",
+    "Sunset viewpoint overlooking Key Largo"
+  ],
+  "fort-lauderdale": [
+    "Fort Lauderdale historic center / Old Town",
+    "Fort Lauderdale main square and landmark viewpoints",
+    "Fort Lauderdale cathedral / historic church",
+    "Fort Lauderdale central market or bazaar",
+    "United States regional museum in Fort Lauderdale",
+    "Scenic park, waterfront or hillside walk in Fort Lauderdale",
+    "Signature day trip from Fort Lauderdale",
+    "Sunset viewpoint overlooking Fort Lauderdale"
+  ],
+  tampa: [
+    "Tampa historic center / Old Town",
+    "Tampa main square and landmark viewpoints",
+    "Tampa cathedral / historic church",
+    "Tampa central market or bazaar",
+    "United States regional museum in Tampa",
+    "Scenic park, waterfront or hillside walk in Tampa",
+    "Signature day trip from Tampa",
+    "Sunset viewpoint overlooking Tampa"
+  ],
+  "st-augustine": [
+    "St. Augustine historic center / Old Town",
+    "St. Augustine main square and landmark viewpoints",
+    "St. Augustine cathedral / historic church",
+    "St. Augustine central market or bazaar",
+    "United States regional museum in St. Augustine",
+    "Scenic park, waterfront or hillside walk in St. Augustine",
+    "Signature day trip from St. Augustine",
+    "Sunset viewpoint overlooking St. Augustine"
+  ],
+  "savannah-ga": [
+    "Savannah historic center / Old Town",
+    "Savannah main square and landmark viewpoints",
+    "Savannah cathedral / historic church",
+    "Savannah central market or bazaar",
+    "United States regional museum in Savannah",
+    "Scenic park, waterfront or hillside walk in Savannah",
+    "Signature day trip from Savannah",
+    "Sunset viewpoint overlooking Savannah"
+  ],
+  aspen: [
+    "Aspen historic center / Old Town",
+    "Aspen main square and landmark viewpoints",
+    "Aspen cathedral / historic church",
+    "Aspen central market or bazaar",
+    "United States regional museum in Aspen",
+    "Scenic park, waterfront or hillside walk in Aspen",
+    "Signature day trip from Aspen",
+    "Sunset viewpoint overlooking Aspen"
+  ],
+  telluride: [
+    "Telluride historic center / Old Town",
+    "Telluride main square and landmark viewpoints",
+    "Telluride cathedral / historic church",
+    "Telluride central market or bazaar",
+    "United States regional museum in Telluride",
+    "Scenic park, waterfront or hillside walk in Telluride",
+    "Signature day trip from Telluride",
+    "Sunset viewpoint overlooking Telluride"
+  ],
+  "moab-utah": [
+    "Moab historic center / Old Town",
+    "Moab main square and landmark viewpoints",
+    "Moab cathedral / historic church",
+    "Moab central market or bazaar",
+    "United States regional museum in Moab",
+    "Scenic park, waterfront or hillside walk in Moab",
+    "Signature day trip from Moab",
+    "Sunset viewpoint overlooking Moab"
+  ],
+  "sedona-az": [
+    "Sedona historic center / Old Town",
+    "Sedona main square and landmark viewpoints",
+    "Sedona cathedral / historic church",
+    "Sedona central market or bazaar",
+    "United States regional museum in Sedona",
+    "Scenic park, waterfront or hillside walk in Sedona",
+    "Signature day trip from Sedona",
+    "Sunset viewpoint overlooking Sedona"
+  ],
+  scottsdale: [
+    "Scottsdale historic center / Old Town",
+    "Scottsdale main square and landmark viewpoints",
+    "Scottsdale cathedral / historic church",
+    "Scottsdale central market or bazaar",
+    "United States regional museum in Scottsdale",
+    "Scenic park, waterfront or hillside walk in Scottsdale",
+    "Signature day trip from Scottsdale",
+    "Sunset viewpoint overlooking Scottsdale"
+  ],
+  tucson: [
+    "Tucson historic center / Old Town",
+    "Tucson main square and landmark viewpoints",
+    "Tucson cathedral / historic church",
+    "Tucson central market or bazaar",
+    "United States regional museum in Tucson",
+    "Scenic park, waterfront or hillside walk in Tucson",
+    "Signature day trip from Tucson",
+    "Sunset viewpoint overlooking Tucson"
+  ],
+  "santa-fe-nm": [
+    "Santa Fe historic center / Old Town",
+    "Santa Fe main square and landmark viewpoints",
+    "Santa Fe cathedral / historic church",
+    "Santa Fe central market or bazaar",
+    "United States regional museum in Santa Fe",
+    "Scenic park, waterfront or hillside walk in Santa Fe",
+    "Signature day trip from Santa Fe",
+    "Sunset viewpoint overlooking Santa Fe"
+  ],
+  taos: [
+    "Taos historic center / Old Town",
+    "Taos main square and landmark viewpoints",
+    "Taos cathedral / historic church",
+    "Taos central market or bazaar",
+    "United States regional museum in Taos",
+    "Scenic park, waterfront or hillside walk in Taos",
+    "Signature day trip from Taos",
+    "Sunset viewpoint overlooking Taos"
+  ],
+  albuquerque: [
+    "Albuquerque historic center / Old Town",
+    "Albuquerque main square and landmark viewpoints",
+    "Albuquerque cathedral / historic church",
+    "Albuquerque central market or bazaar",
+    "United States regional museum in Albuquerque",
+    "Scenic park, waterfront or hillside walk in Albuquerque",
+    "Signature day trip from Albuquerque",
+    "Sunset viewpoint overlooking Albuquerque"
+  ],
+  bozeman: [
+    "Bozeman historic center / Old Town",
+    "Bozeman main square and landmark viewpoints",
+    "Bozeman cathedral / historic church",
+    "Bozeman central market or bazaar",
+    "United States regional museum in Bozeman",
+    "Scenic park, waterfront or hillside walk in Bozeman",
+    "Signature day trip from Bozeman",
+    "Sunset viewpoint overlooking Bozeman"
+  ],
+  missoula: [
+    "Missoula historic center / Old Town",
+    "Missoula main square and landmark viewpoints",
+    "Missoula cathedral / historic church",
+    "Missoula central market or bazaar",
+    "United States regional museum in Missoula",
+    "Scenic park, waterfront or hillside walk in Missoula",
+    "Signature day trip from Missoula",
+    "Sunset viewpoint overlooking Missoula"
+  ],
+  whitefish: [
+    "Whitefish historic center / Old Town",
+    "Whitefish main square and landmark viewpoints",
+    "Whitefish cathedral / historic church",
+    "Whitefish central market or bazaar",
+    "United States regional museum in Whitefish",
+    "Scenic park, waterfront or hillside walk in Whitefish",
+    "Signature day trip from Whitefish",
+    "Sunset viewpoint overlooking Whitefish"
+  ],
+  juneau: [
+    "Juneau historic center / Old Town",
+    "Juneau main square and landmark viewpoints",
+    "Juneau cathedral / historic church",
+    "Juneau central market or bazaar",
+    "United States regional museum in Juneau",
+    "Scenic park, waterfront or hillside walk in Juneau",
+    "Signature day trip from Juneau",
+    "Sunset viewpoint overlooking Juneau"
+  ],
+  fairbanks: [
+    "Fairbanks historic center / Old Town",
+    "Fairbanks main square and landmark viewpoints",
+    "Fairbanks cathedral / historic church",
+    "Fairbanks central market or bazaar",
+    "United States regional museum in Fairbanks",
+    "Scenic park, waterfront or hillside walk in Fairbanks",
+    "Signature day trip from Fairbanks",
+    "Sunset viewpoint overlooking Fairbanks"
+  ],
+  sitka: [
+    "Sitka historic center / Old Town",
+    "Sitka main square and landmark viewpoints",
+    "Sitka cathedral / historic church",
+    "Sitka central market or bazaar",
+    "United States regional museum in Sitka",
+    "Scenic park, waterfront or hillside walk in Sitka",
+    "Signature day trip from Sitka",
+    "Sunset viewpoint overlooking Sitka"
+  ],
+  ketchikan: [
+    "Ketchikan historic center / Old Town",
+    "Ketchikan main square and landmark viewpoints",
+    "Ketchikan cathedral / historic church",
+    "Ketchikan central market or bazaar",
+    "United States regional museum in Ketchikan",
+    "Scenic park, waterfront or hillside walk in Ketchikan",
+    "Signature day trip from Ketchikan",
+    "Sunset viewpoint overlooking Ketchikan"
+  ],
+  "kauai-lihue": [
+    "Lihue historic center / Old Town",
+    "Lihue main square and landmark viewpoints",
+    "Lihue cathedral / historic church",
+    "Lihue central market or bazaar",
+    "United States regional museum in Lihue",
+    "Scenic park, waterfront or hillside walk in Lihue",
+    "Signature day trip from Lihue",
+    "Sunset viewpoint overlooking Lihue"
+  ],
+  "big-island-hilo": [
+    "Hilo historic center / Old Town",
+    "Hilo main square and landmark viewpoints",
+    "Hilo cathedral / historic church",
+    "Hilo central market or bazaar",
+    "United States regional museum in Hilo",
+    "Scenic park, waterfront or hillside walk in Hilo",
+    "Signature day trip from Hilo",
+    "Sunset viewpoint overlooking Hilo"
+  ],
+  kona: [
+    "Kailua-Kona historic center / Old Town",
+    "Kailua-Kona main square and landmark viewpoints",
+    "Kailua-Kona cathedral / historic church",
+    "Kailua-Kona central market or bazaar",
+    "United States regional museum in Kailua-Kona",
+    "Scenic park, waterfront or hillside walk in Kailua-Kona",
+    "Signature day trip from Kailua-Kona",
+    "Sunset viewpoint overlooking Kailua-Kona"
+  ],
+  "lanai-city": [
+    "Lanai City historic center / Old Town",
+    "Lanai City main square and landmark viewpoints",
+    "Lanai City cathedral / historic church",
+    "Lanai City central market or bazaar",
+    "United States regional museum in Lanai City",
+    "Scenic park, waterfront or hillside walk in Lanai City",
+    "Signature day trip from Lanai City",
+    "Sunset viewpoint overlooking Lanai City"
+  ],
+  molokai: [
+    "Kaunakakai historic center / Old Town",
+    "Kaunakakai main square and landmark viewpoints",
+    "Kaunakakai cathedral / historic church",
+    "Kaunakakai central market or bazaar",
+    "United States regional museum in Kaunakakai",
+    "Scenic park, waterfront or hillside walk in Kaunakakai",
+    "Signature day trip from Kaunakakai",
+    "Sunset viewpoint overlooking Kaunakakai"
+  ],
+  cabo: [
+    "Cabo San Lucas historic center / Old Town",
+    "Cabo San Lucas main square and landmark viewpoints",
+    "Cabo San Lucas cathedral / historic church",
+    "Cabo San Lucas central market or bazaar",
+    "Mexico regional museum in Cabo San Lucas",
+    "Scenic park, waterfront or hillside walk in Cabo San Lucas",
+    "Signature day trip from Cabo San Lucas",
+    "Sunset viewpoint overlooking Cabo San Lucas"
+  ],
+  "los-cabos": [
+    "San José del Cabo historic center / Old Town",
+    "San José del Cabo main square and landmark viewpoints",
+    "San José del Cabo cathedral / historic church",
+    "San José del Cabo central market or bazaar",
+    "Mexico regional museum in San José del Cabo",
+    "Scenic park, waterfront or hillside walk in San José del Cabo",
+    "Signature day trip from San José del Cabo",
+    "Sunset viewpoint overlooking San José del Cabo"
+  ],
+  "isla-mujeres": [
+    "Isla Mujeres historic center / Old Town",
+    "Isla Mujeres main square and landmark viewpoints",
+    "Isla Mujeres cathedral / historic church",
+    "Isla Mujeres central market or bazaar",
+    "Mexico regional museum in Isla Mujeres",
+    "Scenic park, waterfront or hillside walk in Isla Mujeres",
+    "Signature day trip from Isla Mujeres",
+    "Sunset viewpoint overlooking Isla Mujeres"
+  ],
+  cozumel: [
+    "Cozumel historic center / Old Town",
+    "Cozumel main square and landmark viewpoints",
+    "Cozumel cathedral / historic church",
+    "Cozumel central market or bazaar",
+    "Mexico regional museum in Cozumel",
+    "Scenic park, waterfront or hillside walk in Cozumel",
+    "Signature day trip from Cozumel",
+    "Sunset viewpoint overlooking Cozumel"
+  ],
+  bacalar: [
+    "Bacalar historic center / Old Town",
+    "Bacalar main square and landmark viewpoints",
+    "Bacalar cathedral / historic church",
+    "Bacalar central market or bazaar",
+    "Mexico regional museum in Bacalar",
+    "Scenic park, waterfront or hillside walk in Bacalar",
+    "Signature day trip from Bacalar",
+    "Sunset viewpoint overlooking Bacalar"
+  ],
+  holbox: [
+    "Holbox historic center / Old Town",
+    "Holbox main square and landmark viewpoints",
+    "Holbox cathedral / historic church",
+    "Holbox central market or bazaar",
+    "Mexico regional museum in Holbox",
+    "Scenic park, waterfront or hillside walk in Holbox",
+    "Signature day trip from Holbox",
+    "Sunset viewpoint overlooking Holbox"
+  ],
+  "chichen-itza-valladolid": [
+    "Valladolid historic center / Old Town",
+    "Valladolid main square and landmark viewpoints",
+    "Valladolid cathedral / historic church",
+    "Valladolid central market or bazaar",
+    "Mexico regional museum in Valladolid",
+    "Scenic park, waterfront or hillside walk in Valladolid",
+    "Signature day trip from Valladolid",
+    "Sunset viewpoint overlooking Valladolid"
+  ],
+  campeche: [
+    "Campeche historic center / Old Town",
+    "Campeche main square and landmark viewpoints",
+    "Campeche cathedral / historic church",
+    "Campeche central market or bazaar",
+    "Mexico regional museum in Campeche",
+    "Scenic park, waterfront or hillside walk in Campeche",
+    "Signature day trip from Campeche",
+    "Sunset viewpoint overlooking Campeche"
+  ],
+  palenque: [
+    "Palenque historic center / Old Town",
+    "Palenque main square and landmark viewpoints",
+    "Palenque cathedral / historic church",
+    "Palenque central market or bazaar",
+    "Mexico regional museum in Palenque",
+    "Scenic park, waterfront or hillside walk in Palenque",
+    "Signature day trip from Palenque",
+    "Sunset viewpoint overlooking Palenque"
+  ],
+  "san-cristobal": [
+    "San Cristóbal de las Casas historic center / Old Town",
+    "San Cristóbal de las Casas main square and landmark viewpoints",
+    "San Cristóbal de las Casas cathedral / historic church",
+    "San Cristóbal de las Casas central market or bazaar",
+    "Mexico regional museum in San Cristóbal de las Casas",
+    "Scenic park, waterfront or hillside walk in San Cristóbal de las Casas",
+    "Signature day trip from San Cristóbal de las Casas",
+    "Sunset viewpoint overlooking San Cristóbal de las Casas"
+  ],
+  "oaxaca-city": [
+    "Oaxaca City historic center / Old Town",
+    "Oaxaca City main square and landmark viewpoints",
+    "Oaxaca City cathedral / historic church",
+    "Oaxaca City central market or bazaar",
+    "Mexico regional museum in Oaxaca City",
+    "Scenic park, waterfront or hillside walk in Oaxaca City",
+    "Signature day trip from Oaxaca City",
+    "Sunset viewpoint overlooking Oaxaca City"
+  ],
+  puebla: [
+    "Puebla historic center / Old Town",
+    "Puebla main square and landmark viewpoints",
+    "Puebla cathedral / historic church",
+    "Puebla central market or bazaar",
+    "Mexico regional museum in Puebla",
+    "Scenic park, waterfront or hillside walk in Puebla",
+    "Signature day trip from Puebla",
+    "Sunset viewpoint overlooking Puebla"
+  ],
+  morelia: [
+    "Morelia historic center / Old Town",
+    "Morelia main square and landmark viewpoints",
+    "Morelia cathedral / historic church",
+    "Morelia central market or bazaar",
+    "Mexico regional museum in Morelia",
+    "Scenic park, waterfront or hillside walk in Morelia",
+    "Signature day trip from Morelia",
+    "Sunset viewpoint overlooking Morelia"
+  ],
+  patzcuaro: [
+    "Pátzcuaro historic center / Old Town",
+    "Pátzcuaro main square and landmark viewpoints",
+    "Pátzcuaro cathedral / historic church",
+    "Pátzcuaro central market or bazaar",
+    "Mexico regional museum in Pátzcuaro",
+    "Scenic park, waterfront or hillside walk in Pátzcuaro",
+    "Signature day trip from Pátzcuaro",
+    "Sunset viewpoint overlooking Pátzcuaro"
+  ],
+  taxco: [
+    "Taxco historic center / Old Town",
+    "Taxco main square and landmark viewpoints",
+    "Taxco cathedral / historic church",
+    "Taxco central market or bazaar",
+    "Mexico regional museum in Taxco",
+    "Scenic park, waterfront or hillside walk in Taxco",
+    "Signature day trip from Taxco",
+    "Sunset viewpoint overlooking Taxco"
+  ],
+  cuernavaca: [
+    "Cuernavaca historic center / Old Town",
+    "Cuernavaca main square and landmark viewpoints",
+    "Cuernavaca cathedral / historic church",
+    "Cuernavaca central market or bazaar",
+    "Mexico regional museum in Cuernavaca",
+    "Scenic park, waterfront or hillside walk in Cuernavaca",
+    "Signature day trip from Cuernavaca",
+    "Sunset viewpoint overlooking Cuernavaca"
+  ],
+  mazatlan: [
+    "Mazatlán historic center / Old Town",
+    "Mazatlán main square and landmark viewpoints",
+    "Mazatlán cathedral / historic church",
+    "Mazatlán central market or bazaar",
+    "Mexico regional museum in Mazatlán",
+    "Scenic park, waterfront or hillside walk in Mazatlán",
+    "Signature day trip from Mazatlán",
+    "Sunset viewpoint overlooking Mazatlán"
+  ],
+  sayulita: [
+    "Sayulita historic center / Old Town",
+    "Sayulita main square and landmark viewpoints",
+    "Sayulita cathedral / historic church",
+    "Sayulita central market or bazaar",
+    "Mexico regional museum in Sayulita",
+    "Scenic park, waterfront or hillside walk in Sayulita",
+    "Signature day trip from Sayulita",
+    "Sunset viewpoint overlooking Sayulita"
+  ],
+  zipolite: [
+    "Zipolite historic center / Old Town",
+    "Zipolite main square and landmark viewpoints",
+    "Zipolite cathedral / historic church",
+    "Zipolite central market or bazaar",
+    "Mexico regional museum in Zipolite",
+    "Scenic park, waterfront or hillside walk in Zipolite",
+    "Signature day trip from Zipolite",
+    "Sunset viewpoint overlooking Zipolite"
+  ],
+  huatulco: [
+    "Huatulco historic center / Old Town",
+    "Huatulco main square and landmark viewpoints",
+    "Huatulco cathedral / historic church",
+    "Huatulco central market or bazaar",
+    "Mexico regional museum in Huatulco",
+    "Scenic park, waterfront or hillside walk in Huatulco",
+    "Signature day trip from Huatulco",
+    "Sunset viewpoint overlooking Huatulco"
+  ],
+  "puerto-escondido": [
+    "Puerto Escondido historic center / Old Town",
+    "Puerto Escondido main square and landmark viewpoints",
+    "Puerto Escondido cathedral / historic church",
+    "Puerto Escondido central market or bazaar",
+    "Mexico regional museum in Puerto Escondido",
+    "Scenic park, waterfront or hillside walk in Puerto Escondido",
+    "Signature day trip from Puerto Escondido",
+    "Sunset viewpoint overlooking Puerto Escondido"
+  ],
+  "todos-santos": [
+    "Todos Santos historic center / Old Town",
+    "Todos Santos main square and landmark viewpoints",
+    "Todos Santos cathedral / historic church",
+    "Todos Santos central market or bazaar",
+    "Mexico regional museum in Todos Santos",
+    "Scenic park, waterfront or hillside walk in Todos Santos",
+    "Signature day trip from Todos Santos",
+    "Sunset viewpoint overlooking Todos Santos"
+  ],
+  loreto: [
+    "Loreto historic center / Old Town",
+    "Loreto main square and landmark viewpoints",
+    "Loreto cathedral / historic church",
+    "Loreto central market or bazaar",
+    "Mexico regional museum in Loreto",
+    "Scenic park, waterfront or hillside walk in Loreto",
+    "Signature day trip from Loreto",
+    "Sunset viewpoint overlooking Loreto"
+  ],
+  "la-paz-bcs": [
+    "La Paz historic center / Old Town",
+    "La Paz main square and landmark viewpoints",
+    "La Paz cathedral / historic church",
+    "La Paz central market or bazaar",
+    "Mexico regional museum in La Paz",
+    "Scenic park, waterfront or hillside walk in La Paz",
+    "Signature day trip from La Paz",
+    "Sunset viewpoint overlooking La Paz"
+  ],
+  ensendada: [
+    "Ensenada historic center / Old Town",
+    "Ensenada main square and landmark viewpoints",
+    "Ensenada cathedral / historic church",
+    "Ensenada central market or bazaar",
+    "Mexico regional museum in Ensenada",
+    "Scenic park, waterfront or hillside walk in Ensenada",
+    "Signature day trip from Ensenada",
+    "Sunset viewpoint overlooking Ensenada"
+  ],
+  rosarito: [
+    "Rosarito historic center / Old Town",
+    "Rosarito main square and landmark viewpoints",
+    "Rosarito cathedral / historic church",
+    "Rosarito central market or bazaar",
+    "Mexico regional museum in Rosarito",
+    "Scenic park, waterfront or hillside walk in Rosarito",
+    "Signature day trip from Rosarito",
+    "Sunset viewpoint overlooking Rosarito"
+  ],
+  tijuana: [
+    "Tijuana historic center / Old Town",
+    "Tijuana main square and landmark viewpoints",
+    "Tijuana cathedral / historic church",
+    "Tijuana central market or bazaar",
+    "Mexico regional museum in Tijuana",
+    "Scenic park, waterfront or hillside walk in Tijuana",
+    "Signature day trip from Tijuana",
+    "Sunset viewpoint overlooking Tijuana"
+  ],
+  "guadalajara-tlaquepaque": [
+    "Tlaquepaque historic center / Old Town",
+    "Tlaquepaque main square and landmark viewpoints",
+    "Tlaquepaque cathedral / historic church",
+    "Tlaquepaque central market or bazaar",
+    "Mexico regional museum in Tlaquepaque",
+    "Scenic park, waterfront or hillside walk in Tlaquepaque",
+    "Signature day trip from Tlaquepaque",
+    "Sunset viewpoint overlooking Tlaquepaque"
+  ],
+  "tequila-town": [
+    "Tequila historic center / Old Town",
+    "Tequila main square and landmark viewpoints",
+    "Tequila cathedral / historic church",
+    "Tequila central market or bazaar",
+    "Mexico regional museum in Tequila",
+    "Scenic park, waterfront or hillside walk in Tequila",
+    "Signature day trip from Tequila",
+    "Sunset viewpoint overlooking Tequila"
+  ],
+  "guanajuato-city": [
+    "Guanajuato City historic center / Old Town",
+    "Guanajuato City main square and landmark viewpoints",
+    "Guanajuato City cathedral / historic church",
+    "Guanajuato City central market or bazaar",
+    "Mexico regional museum in Guanajuato City",
+    "Scenic park, waterfront or hillside walk in Guanajuato City",
+    "Signature day trip from Guanajuato City",
+    "Sunset viewpoint overlooking Guanajuato City"
+  ],
+  "dolores-hidalgo": [
+    "Dolores Hidalgo historic center / Old Town",
+    "Dolores Hidalgo main square and landmark viewpoints",
+    "Dolores Hidalgo cathedral / historic church",
+    "Dolores Hidalgo central market or bazaar",
+    "Mexico regional museum in Dolores Hidalgo",
+    "Scenic park, waterfront or hillside walk in Dolores Hidalgo",
+    "Signature day trip from Dolores Hidalgo",
+    "Sunset viewpoint overlooking Dolores Hidalgo"
+  ],
+  queretaro: [
+    "Querétaro historic center / Old Town",
+    "Querétaro main square and landmark viewpoints",
+    "Querétaro cathedral / historic church",
+    "Querétaro central market or bazaar",
+    "Mexico regional museum in Querétaro",
+    "Scenic park, waterfront or hillside walk in Querétaro",
+    "Signature day trip from Querétaro",
+    "Sunset viewpoint overlooking Querétaro"
+  ],
+  zicatela: [
+    "Puerto Escondido historic center / Old Town",
+    "Puerto Escondido main square and landmark viewpoints",
+    "Puerto Escondido cathedral / historic church",
+    "Puerto Escondido central market or bazaar",
+    "Mexico regional museum in Puerto Escondido",
+    "Scenic park, waterfront or hillside walk in Puerto Escondido",
+    "Signature day trip from Puerto Escondido",
+    "Sunset viewpoint overlooking Puerto Escondido"
+  ],
+  "zell-am-see": [
+    "Zell am See historic center / Old Town",
+    "Zell am See main square and landmark viewpoints",
+    "Zell am See cathedral / historic church",
+    "Zell am See central market or bazaar",
+    "Austria regional museum in Zell am See",
+    "Scenic park, waterfront or hillside walk in Zell am See",
+    "Signature day trip from Zell am See",
+    "Sunset viewpoint overlooking Zell am See"
+  ],
+  kitzbuhel: [
+    "Kitzbühel historic center / Old Town",
+    "Kitzbühel main square and landmark viewpoints",
+    "Kitzbühel cathedral / historic church",
+    "Kitzbühel central market or bazaar",
+    "Austria regional museum in Kitzbühel",
+    "Scenic park, waterfront or hillside walk in Kitzbühel",
+    "Signature day trip from Kitzbühel",
+    "Sunset viewpoint overlooking Kitzbühel"
+  ],
+  "bad-gastein": [
+    "Bad Gastein historic center / Old Town",
+    "Bad Gastein main square and landmark viewpoints",
+    "Bad Gastein cathedral / historic church",
+    "Bad Gastein central market or bazaar",
+    "Austria regional museum in Bad Gastein",
+    "Scenic park, waterfront or hillside walk in Bad Gastein",
+    "Signature day trip from Bad Gastein",
+    "Sunset viewpoint overlooking Bad Gastein"
+  ],
+  woerthersee: [
+    "Wörthersee historic center / Old Town",
+    "Wörthersee main square and landmark viewpoints",
+    "Wörthersee cathedral / historic church",
+    "Wörthersee central market or bazaar",
+    "Austria regional museum in Wörthersee",
+    "Scenic park, waterfront or hillside walk in Wörthersee",
+    "Signature day trip from Wörthersee",
+    "Sunset viewpoint overlooking Wörthersee"
+  ],
+  schladming: [
+    "Schladming historic center / Old Town",
+    "Schladming main square and landmark viewpoints",
+    "Schladming cathedral / historic church",
+    "Schladming central market or bazaar",
+    "Austria regional museum in Schladming",
+    "Scenic park, waterfront or hillside walk in Schladming",
+    "Signature day trip from Schladming",
+    "Sunset viewpoint overlooking Schladming"
+  ],
+  "st-moritz": [
+    "St. Moritz historic center / Old Town",
+    "St. Moritz main square and landmark viewpoints",
+    "St. Moritz cathedral / historic church",
+    "St. Moritz central market or bazaar",
+    "Switzerland regional museum in St. Moritz",
+    "Scenic park, waterfront or hillside walk in St. Moritz",
+    "Signature day trip from St. Moritz",
+    "Sunset viewpoint overlooking St. Moritz"
+  ],
+  verbier: [
+    "Verbier historic center / Old Town",
+    "Verbier main square and landmark viewpoints",
+    "Verbier cathedral / historic church",
+    "Verbier central market or bazaar",
+    "Switzerland regional museum in Verbier",
+    "Scenic park, waterfront or hillside walk in Verbier",
+    "Signature day trip from Verbier",
+    "Sunset viewpoint overlooking Verbier"
+  ],
+  davos: [
+    "Davos historic center / Old Town",
+    "Davos main square and landmark viewpoints",
+    "Davos cathedral / historic church",
+    "Davos central market or bazaar",
+    "Switzerland regional museum in Davos",
+    "Scenic park, waterfront or hillside walk in Davos",
+    "Signature day trip from Davos",
+    "Sunset viewpoint overlooking Davos"
+  ],
+  montreux: [
+    "Montreux historic center / Old Town",
+    "Montreux main square and landmark viewpoints",
+    "Montreux cathedral / historic church",
+    "Montreux central market or bazaar",
+    "Switzerland regional museum in Montreux",
+    "Scenic park, waterfront or hillside walk in Montreux",
+    "Signature day trip from Montreux",
+    "Sunset viewpoint overlooking Montreux"
+  ],
+  fribourg: [
+    "Fribourg historic center / Old Town",
+    "Fribourg main square and landmark viewpoints",
+    "Fribourg cathedral / historic church",
+    "Fribourg central market or bazaar",
+    "Switzerland regional museum in Fribourg",
+    "Scenic park, waterfront or hillside walk in Fribourg",
+    "Signature day trip from Fribourg",
+    "Sunset viewpoint overlooking Fribourg"
+  ],
+  sion: [
+    "Sion historic center / Old Town",
+    "Sion main square and landmark viewpoints",
+    "Sion cathedral / historic church",
+    "Sion central market or bazaar",
+    "Switzerland regional museum in Sion",
+    "Scenic park, waterfront or hillside walk in Sion",
+    "Signature day trip from Sion",
+    "Sunset viewpoint overlooking Sion"
+  ],
+  briancon: [
+    "Briançon historic center / Old Town",
+    "Briançon main square and landmark viewpoints",
+    "Briançon cathedral / historic church",
+    "Briançon central market or bazaar",
+    "France regional museum in Briançon",
+    "Scenic park, waterfront or hillside walk in Briançon",
+    "Signature day trip from Briançon",
+    "Sunset viewpoint overlooking Briançon"
+  ],
+  "capri-town": [
+    "Capri historic center / Old Town",
+    "Capri main square and landmark viewpoints",
+    "Capri cathedral / historic church",
+    "Capri central market or bazaar",
+    "Italy regional museum in Capri",
+    "Scenic park, waterfront or hillside walk in Capri",
+    "Signature day trip from Capri",
+    "Sunset viewpoint overlooking Capri"
+  ],
+  olbia: [
+    "Olbia historic center / Old Town",
+    "Olbia main square and landmark viewpoints",
+    "Olbia cathedral / historic church",
+    "Olbia central market or bazaar",
+    "Italy regional museum in Olbia",
+    "Scenic park, waterfront or hillside walk in Olbia",
+    "Signature day trip from Olbia",
+    "Sunset viewpoint overlooking Olbia"
+  ],
+  "porto-cervo": [
+    "Porto Cervo historic center / Old Town",
+    "Porto Cervo main square and landmark viewpoints",
+    "Porto Cervo cathedral / historic church",
+    "Porto Cervo central market or bazaar",
+    "Italy regional museum in Porto Cervo",
+    "Scenic park, waterfront or hillside walk in Porto Cervo",
+    "Signature day trip from Porto Cervo",
+    "Sunset viewpoint overlooking Porto Cervo"
+  ],
+  matera: [
+    "Matera historic center / Old Town",
+    "Matera main square and landmark viewpoints",
+    "Matera cathedral / historic church",
+    "Matera central market or bazaar",
+    "Italy regional museum in Matera",
+    "Scenic park, waterfront or hillside walk in Matera",
+    "Signature day trip from Matera",
+    "Sunset viewpoint overlooking Matera"
+  ],
+  portovenere: [
+    "Porto Venere historic center / Old Town",
+    "Porto Venere main square and landmark viewpoints",
+    "Porto Venere cathedral / historic church",
+    "Porto Venere central market or bazaar",
+    "Italy regional museum in Porto Venere",
+    "Scenic park, waterfront or hillside walk in Porto Venere",
+    "Signature day trip from Porto Venere",
+    "Sunset viewpoint overlooking Porto Venere"
+  ],
+  menaggio: [
+    "Menaggio historic center / Old Town",
+    "Menaggio main square and landmark viewpoints",
+    "Menaggio cathedral / historic church",
+    "Menaggio central market or bazaar",
+    "Italy regional museum in Menaggio",
+    "Scenic park, waterfront or hillside walk in Menaggio",
+    "Signature day trip from Menaggio",
+    "Sunset viewpoint overlooking Menaggio"
+  ],
+  "toledo-es": [
+    "Toledo historic center / Old Town",
+    "Toledo main square and landmark viewpoints",
+    "Toledo cathedral / historic church",
+    "Toledo central market or bazaar",
+    "Spain regional museum in Toledo",
+    "Scenic park, waterfront or hillside walk in Toledo",
+    "Signature day trip from Toledo",
+    "Sunset viewpoint overlooking Toledo"
+  ],
+  caceres: [
+    "Cáceres historic center / Old Town",
+    "Cáceres main square and landmark viewpoints",
+    "Cáceres cathedral / historic church",
+    "Cáceres central market or bazaar",
+    "Spain regional museum in Cáceres",
+    "Scenic park, waterfront or hillside walk in Cáceres",
+    "Signature day trip from Cáceres",
+    "Sunset viewpoint overlooking Cáceres"
+  ],
+  "santiago-de-compostela": [
+    "Santiago de Compostela historic center / Old Town",
+    "Santiago de Compostela main square and landmark viewpoints",
+    "Santiago de Compostela cathedral / historic church",
+    "Santiago de Compostela central market or bazaar",
+    "Spain regional museum in Santiago de Compostela",
+    "Scenic park, waterfront or hillside walk in Santiago de Compostela",
+    "Signature day trip from Santiago de Compostela",
+    "Sunset viewpoint overlooking Santiago de Compostela"
+  ],
+  cadaques: [
+    "Cadaqués historic center / Old Town",
+    "Cadaqués main square and landmark viewpoints",
+    "Cadaqués cathedral / historic church",
+    "Cadaqués central market or bazaar",
+    "Spain regional museum in Cadaqués",
+    "Scenic park, waterfront or hillside walk in Cadaqués",
+    "Signature day trip from Cadaqués",
+    "Sunset viewpoint overlooking Cadaqués"
+  ],
+  sitges: [
+    "Sitges historic center / Old Town",
+    "Sitges main square and landmark viewpoints",
+    "Sitges cathedral / historic church",
+    "Sitges central market or bazaar",
+    "Spain regional museum in Sitges",
+    "Scenic park, waterfront or hillside walk in Sitges",
+    "Signature day trip from Sitges",
+    "Sunset viewpoint overlooking Sitges"
+  ],
+  "lloret-de-mar": [
+    "Lloret de Mar historic center / Old Town",
+    "Lloret de Mar main square and landmark viewpoints",
+    "Lloret de Mar cathedral / historic church",
+    "Lloret de Mar central market or bazaar",
+    "Spain regional museum in Lloret de Mar",
+    "Scenic park, waterfront or hillside walk in Lloret de Mar",
+    "Signature day trip from Lloret de Mar",
+    "Sunset viewpoint overlooking Lloret de Mar"
+  ],
+  benidorm: [
+    "Benidorm historic center / Old Town",
+    "Benidorm main square and landmark viewpoints",
+    "Benidorm cathedral / historic church",
+    "Benidorm central market or bazaar",
+    "Spain regional museum in Benidorm",
+    "Scenic park, waterfront or hillside walk in Benidorm",
+    "Signature day trip from Benidorm",
+    "Sunset viewpoint overlooking Benidorm"
+  ],
+  alicante: [
+    "Alicante historic center / Old Town",
+    "Alicante main square and landmark viewpoints",
+    "Alicante cathedral / historic church",
+    "Alicante central market or bazaar",
+    "Spain regional museum in Alicante",
+    "Scenic park, waterfront or hillside walk in Alicante",
+    "Signature day trip from Alicante",
+    "Sunset viewpoint overlooking Alicante"
+  ],
+  "valencia-albufera": [
+    "El Palmar historic center / Old Town",
+    "El Palmar main square and landmark viewpoints",
+    "El Palmar cathedral / historic church",
+    "El Palmar central market or bazaar",
+    "Spain regional museum in El Palmar",
+    "Scenic park, waterfront or hillside walk in El Palmar",
+    "Signature day trip from El Palmar",
+    "Sunset viewpoint overlooking El Palmar"
+  ],
+  obidos: [
+    "Óbidos historic center / Old Town",
+    "Óbidos main square and landmark viewpoints",
+    "Óbidos cathedral / historic church",
+    "Óbidos central market or bazaar",
+    "Portugal regional museum in Óbidos",
+    "Scenic park, waterfront or hillside walk in Óbidos",
+    "Signature day trip from Óbidos",
+    "Sunset viewpoint overlooking Óbidos"
+  ],
+  cascais: [
+    "Cascais historic center / Old Town",
+    "Cascais main square and landmark viewpoints",
+    "Cascais cathedral / historic church",
+    "Cascais central market or bazaar",
+    "Portugal regional museum in Cascais",
+    "Scenic park, waterfront or hillside walk in Cascais",
+    "Signature day trip from Cascais",
+    "Sunset viewpoint overlooking Cascais"
+  ],
+  nazare: [
+    "Nazaré historic center / Old Town",
+    "Nazaré main square and landmark viewpoints",
+    "Nazaré cathedral / historic church",
+    "Nazaré central market or bazaar",
+    "Portugal regional museum in Nazaré",
+    "Scenic park, waterfront or hillside walk in Nazaré",
+    "Signature day trip from Nazaré",
+    "Sunset viewpoint overlooking Nazaré"
+  ],
+  aveiro: [
+    "Aveiro historic center / Old Town",
+    "Aveiro main square and landmark viewpoints",
+    "Aveiro cathedral / historic church",
+    "Aveiro central market or bazaar",
+    "Portugal regional museum in Aveiro",
+    "Scenic park, waterfront or hillside walk in Aveiro",
+    "Signature day trip from Aveiro",
+    "Sunset viewpoint overlooking Aveiro"
+  ],
+  braga: [
+    "Braga historic center / Old Town",
+    "Braga main square and landmark viewpoints",
+    "Braga cathedral / historic church",
+    "Braga central market or bazaar",
+    "Portugal regional museum in Braga",
+    "Scenic park, waterfront or hillside walk in Braga",
+    "Signature day trip from Braga",
+    "Sunset viewpoint overlooking Braga"
+  ],
+  guimaraes: [
+    "Guimarães historic center / Old Town",
+    "Guimarães main square and landmark viewpoints",
+    "Guimarães cathedral / historic church",
+    "Guimarães central market or bazaar",
+    "Portugal regional museum in Guimarães",
+    "Scenic park, waterfront or hillside walk in Guimarães",
+    "Signature day trip from Guimarães",
+    "Sunset viewpoint overlooking Guimarães"
+  ],
+  "ponta-delgada": [
+    "Ponta Delgada historic center / Old Town",
+    "Ponta Delgada main square and landmark viewpoints",
+    "Ponta Delgada cathedral / historic church",
+    "Ponta Delgada central market or bazaar",
+    "Portugal regional museum in Ponta Delgada",
+    "Scenic park, waterfront or hillside walk in Ponta Delgada",
+    "Signature day trip from Ponta Delgada",
+    "Sunset viewpoint overlooking Ponta Delgada"
+  ],
+  "horta-azores": [
+    "Horta historic center / Old Town",
+    "Horta main square and landmark viewpoints",
+    "Horta cathedral / historic church",
+    "Horta central market or bazaar",
+    "Portugal regional museum in Horta",
+    "Scenic park, waterfront or hillside walk in Horta",
+    "Signature day trip from Horta",
+    "Sunset viewpoint overlooking Horta"
+  ],
+  "naxos-town": [
+    "Naxos historic center / Old Town",
+    "Naxos main square and landmark viewpoints",
+    "Naxos cathedral / historic church",
+    "Naxos central market or bazaar",
+    "Greece regional museum in Naxos",
+    "Scenic park, waterfront or hillside walk in Naxos",
+    "Signature day trip from Naxos",
+    "Sunset viewpoint overlooking Naxos"
+  ],
+  parikia: [
+    "Parikia historic center / Old Town",
+    "Parikia main square and landmark viewpoints",
+    "Parikia cathedral / historic church",
+    "Parikia central market or bazaar",
+    "Greece regional museum in Parikia",
+    "Scenic park, waterfront or hillside walk in Parikia",
+    "Signature day trip from Parikia",
+    "Sunset viewpoint overlooking Parikia"
+  ],
+  "ia-oia": [
+    "Oia historic center / Old Town",
+    "Oia main square and landmark viewpoints",
+    "Oia cathedral / historic church",
+    "Oia central market or bazaar",
+    "Greece regional museum in Oia",
+    "Scenic park, waterfront or hillside walk in Oia",
+    "Signature day trip from Oia",
+    "Sunset viewpoint overlooking Oia"
+  ],
+  fira: [
+    "Fira historic center / Old Town",
+    "Fira main square and landmark viewpoints",
+    "Fira cathedral / historic church",
+    "Fira central market or bazaar",
+    "Greece regional museum in Fira",
+    "Scenic park, waterfront or hillside walk in Fira",
+    "Signature day trip from Fira",
+    "Sunset viewpoint overlooking Fira"
+  ],
+  "ios-town": [
+    "Ios historic center / Old Town",
+    "Ios main square and landmark viewpoints",
+    "Ios cathedral / historic church",
+    "Ios central market or bazaar",
+    "Greece regional museum in Ios",
+    "Scenic park, waterfront or hillside walk in Ios",
+    "Signature day trip from Ios",
+    "Sunset viewpoint overlooking Ios"
+  ],
+  "milos-adamas": [
+    "Adamas historic center / Old Town",
+    "Adamas main square and landmark viewpoints",
+    "Adamas cathedral / historic church",
+    "Adamas central market or bazaar",
+    "Greece regional museum in Adamas",
+    "Scenic park, waterfront or hillside walk in Adamas",
+    "Signature day trip from Adamas",
+    "Sunset viewpoint overlooking Adamas"
+  ],
+  sifnos: [
+    "Sifnos historic center / Old Town",
+    "Sifnos main square and landmark viewpoints",
+    "Sifnos cathedral / historic church",
+    "Sifnos central market or bazaar",
+    "Greece regional museum in Sifnos",
+    "Scenic park, waterfront or hillside walk in Sifnos",
+    "Signature day trip from Sifnos",
+    "Sunset viewpoint overlooking Sifnos"
+  ],
+  "hydra-town": [
+    "Hydra historic center / Old Town",
+    "Hydra main square and landmark viewpoints",
+    "Hydra cathedral / historic church",
+    "Hydra central market or bazaar",
+    "Greece regional museum in Hydra",
+    "Scenic park, waterfront or hillside walk in Hydra",
+    "Signature day trip from Hydra",
+    "Sunset viewpoint overlooking Hydra"
+  ],
+  spetses: [
+    "Spetses historic center / Old Town",
+    "Spetses main square and landmark viewpoints",
+    "Spetses cathedral / historic church",
+    "Spetses central market or bazaar",
+    "Greece regional museum in Spetses",
+    "Scenic park, waterfront or hillside walk in Spetses",
+    "Signature day trip from Spetses",
+    "Sunset viewpoint overlooking Spetses"
+  ],
+  nis: [
+    "Niš historic center / Old Town",
+    "Niš main square and landmark viewpoints",
+    "Niš cathedral / historic church",
+    "Niš central market or bazaar",
+    "Serbia regional museum in Niš",
+    "Scenic park, waterfront or hillside walk in Niš",
+    "Signature day trip from Niš",
+    "Sunset viewpoint overlooking Niš"
+  ],
+  "novi-pazar": [
+    "Novi Pazar historic center / Old Town",
+    "Novi Pazar main square and landmark viewpoints",
+    "Novi Pazar cathedral / historic church",
+    "Novi Pazar central market or bazaar",
+    "Serbia regional museum in Novi Pazar",
+    "Scenic park, waterfront or hillside walk in Novi Pazar",
+    "Signature day trip from Novi Pazar",
+    "Sunset viewpoint overlooking Novi Pazar"
+  ],
+  skopie: [
+    "Skopje historic center / Old Town",
+    "Skopje main square and landmark viewpoints",
+    "Skopje cathedral / historic church",
+    "Skopje central market or bazaar",
+    "North Macedonia regional museum in Skopje",
+    "Scenic park, waterfront or hillside walk in Skopje",
+    "Signature day trip from Skopje",
+    "Sunset viewpoint overlooking Skopje"
+  ],
+  abisko: [
+    "Abisko historic center / Old Town",
+    "Abisko main square and landmark viewpoints",
+    "Abisko cathedral / historic church",
+    "Abisko central market or bazaar",
+    "Sweden regional museum in Abisko",
+    "Scenic park, waterfront or hillside walk in Abisko",
+    "Signature day trip from Abisko",
+    "Sunset viewpoint overlooking Abisko"
+  ],
+  "are-sweden": [
+    "Åre historic center / Old Town",
+    "Åre main square and landmark viewpoints",
+    "Åre cathedral / historic church",
+    "Åre central market or bazaar",
+    "Sweden regional museum in Åre",
+    "Scenic park, waterfront or hillside walk in Åre",
+    "Signature day trip from Åre",
+    "Sunset viewpoint overlooking Åre"
+  ],
+  "lofoten-svovolvaer": [
+    "Svolvær historic center / Old Town",
+    "Svolvær main square and landmark viewpoints",
+    "Svolvær cathedral / historic church",
+    "Svolvær central market or bazaar",
+    "Norway regional museum in Svolvær",
+    "Scenic park, waterfront or hillside walk in Svolvær",
+    "Signature day trip from Svolvær",
+    "Sunset viewpoint overlooking Svolvær"
+  ],
+  reine: [
+    "Reine historic center / Old Town",
+    "Reine main square and landmark viewpoints",
+    "Reine cathedral / historic church",
+    "Reine central market or bazaar",
+    "Norway regional museum in Reine",
+    "Scenic park, waterfront or hillside walk in Reine",
+    "Signature day trip from Reine",
+    "Sunset viewpoint overlooking Reine"
+  ],
+  saariselka: [
+    "Saariselkä historic center / Old Town",
+    "Saariselkä main square and landmark viewpoints",
+    "Saariselkä cathedral / historic church",
+    "Saariselkä central market or bazaar",
+    "Finland regional museum in Saariselkä",
+    "Scenic park, waterfront or hillside walk in Saariselkä",
+    "Signature day trip from Saariselkä",
+    "Sunset viewpoint overlooking Saariselkä"
+  ],
+  saaremaa: [
+    "Kuressaare historic center / Old Town",
+    "Kuressaare main square and landmark viewpoints",
+    "Kuressaare cathedral / historic church",
+    "Kuressaare central market or bazaar",
+    "Estonia regional museum in Kuressaare",
+    "Scenic park, waterfront or hillside walk in Kuressaare",
+    "Signature day trip from Kuressaare",
+    "Sunset viewpoint overlooking Kuressaare"
+  ],
+  jurmala: [
+    "Jūrmala historic center / Old Town",
+    "Jūrmala main square and landmark viewpoints",
+    "Jūrmala cathedral / historic church",
+    "Jūrmala central market or bazaar",
+    "Latvia regional museum in Jūrmala",
+    "Scenic park, waterfront or hillside walk in Jūrmala",
+    "Signature day trip from Jūrmala",
+    "Sunset viewpoint overlooking Jūrmala"
+  ],
+  "cambridge-uk": [
+    "Cambridge historic center / Old Town",
+    "Cambridge main square and landmark viewpoints",
+    "Cambridge cathedral / historic church",
+    "Cambridge central market or bazaar",
+    "United Kingdom regional museum in Cambridge",
+    "Scenic park, waterfront or hillside walk in Cambridge",
+    "Signature day trip from Cambridge",
+    "Sunset viewpoint overlooking Cambridge"
+  ],
+  "edinburgh-old": [
+    "Edinburgh Old Town historic center / Old Town",
+    "Edinburgh Old Town main square and landmark viewpoints",
+    "Edinburgh Old Town cathedral / historic church",
+    "Edinburgh Old Town central market or bazaar",
+    "United Kingdom regional museum in Edinburgh Old Town",
+    "Scenic park, waterfront or hillside walk in Edinburgh Old Town",
+    "Signature day trip from Edinburgh Old Town",
+    "Sunset viewpoint overlooking Edinburgh Old Town"
+  ],
+  "isle-of-skye": [
+    "Portree historic center / Old Town",
+    "Portree main square and landmark viewpoints",
+    "Portree cathedral / historic church",
+    "Portree central market or bazaar",
+    "United Kingdom regional museum in Portree",
+    "Scenic park, waterfront or hillside walk in Portree",
+    "Signature day trip from Portree",
+    "Sunset viewpoint overlooking Portree"
+  ],
+  "cornwall-st-ives": [
+    "St Ives historic center / Old Town",
+    "St Ives main square and landmark viewpoints",
+    "St Ives cathedral / historic church",
+    "St Ives central market or bazaar",
+    "United Kingdom regional museum in St Ives",
+    "Scenic park, waterfront or hillside walk in St Ives",
+    "Signature day trip from St Ives",
+    "Sunset viewpoint overlooking St Ives"
+  ],
+  "cotswolds-bourton": [
+    "Bourton-on-the-Water historic center / Old Town",
+    "Bourton-on-the-Water main square and landmark viewpoints",
+    "Bourton-on-the-Water cathedral / historic church",
+    "Bourton-on-the-Water central market or bazaar",
+    "United Kingdom regional museum in Bourton-on-the-Water",
+    "Scenic park, waterfront or hillside walk in Bourton-on-the-Water",
+    "Signature day trip from Bourton-on-the-Water",
+    "Sunset viewpoint overlooking Bourton-on-the-Water"
+  ],
+  dingle: [
+    "Dingle historic center / Old Town",
+    "Dingle main square and landmark viewpoints",
+    "Dingle cathedral / historic church",
+    "Dingle central market or bazaar",
+    "Ireland regional museum in Dingle",
+    "Scenic park, waterfront or hillside walk in Dingle",
+    "Signature day trip from Dingle",
+    "Sunset viewpoint overlooking Dingle"
+  ],
+  "page-az": [
+    "Page historic center / Old Town",
+    "Page main square and landmark viewpoints",
+    "Page cathedral / historic church",
+    "Page central market or bazaar",
+    "United States regional museum in Page",
+    "Scenic park, waterfront or hillside walk in Page",
+    "Signature day trip from Page",
+    "Sunset viewpoint overlooking Page"
+  ],
+  "charleston-sc": [
+    "Charleston historic center / Old Town",
+    "Charleston main square and landmark viewpoints",
+    "Charleston cathedral / historic church",
+    "Charleston central market or bazaar",
+    "United States regional museum in Charleston",
+    "Scenic park, waterfront or hillside walk in Charleston",
+    "Signature day trip from Charleston",
+    "Sunset viewpoint overlooking Charleston"
+  ],
+  "laguna-beach": [
+    "Laguna Beach historic center / Old Town",
+    "Laguna Beach main square and landmark viewpoints",
+    "Laguna Beach cathedral / historic church",
+    "Laguna Beach central market or bazaar",
+    "United States regional museum in Laguna Beach",
+    "Scenic park, waterfront or hillside walk in Laguna Beach",
+    "Signature day trip from Laguna Beach",
+    "Sunset viewpoint overlooking Laguna Beach"
+  ],
+  "palm-springs": [
+    "Palm Springs historic center / Old Town",
+    "Palm Springs main square and landmark viewpoints",
+    "Palm Springs cathedral / historic church",
+    "Palm Springs central market or bazaar",
+    "United States regional museum in Palm Springs",
+    "Scenic park, waterfront or hillside walk in Palm Springs",
+    "Signature day trip from Palm Springs",
+    "Sunset viewpoint overlooking Palm Springs"
+  ],
+  "banff-town": [
+    "Banff historic center / Old Town",
+    "Banff main square and landmark viewpoints",
+    "Banff cathedral / historic church",
+    "Banff central market or bazaar",
+    "Canada regional museum in Banff",
+    "Scenic park, waterfront or hillside walk in Banff",
+    "Signature day trip from Banff",
+    "Sunset viewpoint overlooking Banff"
+  ],
+  "whistler-village": [
+    "Whistler historic center / Old Town",
+    "Whistler main square and landmark viewpoints",
+    "Whistler cathedral / historic church",
+    "Whistler central market or bazaar",
+    "Canada regional museum in Whistler",
+    "Scenic park, waterfront or hillside walk in Whistler",
+    "Signature day trip from Whistler",
+    "Sunset viewpoint overlooking Whistler"
+  ],
+  "quebec-old": [
+    "Old Quebec historic center / Old Town",
+    "Old Quebec main square and landmark viewpoints",
+    "Old Quebec cathedral / historic church",
+    "Old Quebec central market or bazaar",
+    "Canada regional museum in Old Quebec",
+    "Scenic park, waterfront or hillside walk in Old Quebec",
+    "Signature day trip from Old Quebec",
+    "Sunset viewpoint overlooking Old Quebec"
+  ],
+  "niagara-on-the-lake": [
+    "Niagara-on-the-Lake historic center / Old Town",
+    "Niagara-on-the-Lake main square and landmark viewpoints",
+    "Niagara-on-the-Lake cathedral / historic church",
+    "Niagara-on-the-Lake central market or bazaar",
+    "Canada regional museum in Niagara-on-the-Lake",
+    "Scenic park, waterfront or hillside walk in Niagara-on-the-Lake",
+    "Signature day trip from Niagara-on-the-Lake",
+    "Sunset viewpoint overlooking Niagara-on-the-Lake"
+  ],
+  "cartagena-colombia": [
+    "Cartagena historic center / Old Town",
+    "Cartagena main square and landmark viewpoints",
+    "Cartagena cathedral / historic church",
+    "Cartagena central market or bazaar",
+    "Colombia regional museum in Cartagena",
+    "Scenic park, waterfront or hillside walk in Cartagena",
+    "Signature day trip from Cartagena",
+    "Sunset viewpoint overlooking Cartagena"
+  ],
+  "machu-picchu-pueblo": [
+    "Aguas Calientes historic center / Old Town",
+    "Aguas Calientes main square and landmark viewpoints",
+    "Aguas Calientes cathedral / historic church",
+    "Aguas Calientes central market or bazaar",
+    "Peru regional museum in Aguas Calientes",
+    "Scenic park, waterfront or hillside walk in Aguas Calientes",
+    "Signature day trip from Aguas Calientes",
+    "Sunset viewpoint overlooking Aguas Calientes"
+  ],
+  paracas: [
+    "Paracas historic center / Old Town",
+    "Paracas main square and landmark viewpoints",
+    "Paracas cathedral / historic church",
+    "Paracas central market or bazaar",
+    "Peru regional museum in Paracas",
+    "Scenic park, waterfront or hillside walk in Paracas",
+    "Signature day trip from Paracas",
+    "Sunset viewpoint overlooking Paracas"
+  ],
+  "torres-del-paine": [
+    "Puerto Natales historic center / Old Town",
+    "Puerto Natales main square and landmark viewpoints",
+    "Puerto Natales cathedral / historic church",
+    "Puerto Natales central market or bazaar",
+    "Chile regional museum in Puerto Natales",
+    "Scenic park, waterfront or hillside walk in Puerto Natales",
+    "Signature day trip from Puerto Natales",
+    "Sunset viewpoint overlooking Puerto Natales"
+  ],
+  bonito: [
+    "Bonito historic center / Old Town",
+    "Bonito main square and landmark viewpoints",
+    "Bonito cathedral / historic church",
+    "Bonito central market or bazaar",
+    "Brazil regional museum in Bonito",
+    "Scenic park, waterfront or hillside walk in Bonito",
+    "Signature day trip from Bonito",
+    "Sunset viewpoint overlooking Bonito"
+  ],
+  "salvador-bahia": [
+    "Salvador historic center / Old Town",
+    "Salvador main square and landmark viewpoints",
+    "Salvador cathedral / historic church",
+    "Salvador central market or bazaar",
+    "Brazil regional museum in Salvador",
+    "Scenic park, waterfront or hillside walk in Salvador",
+    "Signature day trip from Salvador",
+    "Sunset viewpoint overlooking Salvador"
+  ],
+  ishigaki: [
+    "Ishigaki historic center / Old Town",
+    "Ishigaki main square and landmark viewpoints",
+    "Ishigaki temple / shrine circuit",
+    "Ishigaki central market or bazaar",
+    "Japan regional museum in Ishigaki",
+    "Scenic park, waterfront or hillside walk in Ishigaki",
+    "Signature day trip from Ishigaki",
+    "Sunset viewpoint overlooking Ishigaki"
+  ],
+  jiufen: [
+    "Jiufen historic center / Old Town",
+    "Jiufen main square and landmark viewpoints",
+    "Jiufen temple / shrine circuit",
+    "Jiufen central market or bazaar",
+    "Taiwan regional museum in Jiufen",
+    "Scenic park, waterfront or hillside walk in Jiufen",
+    "Signature day trip from Jiufen",
+    "Sunset viewpoint overlooking Jiufen"
+  ],
+  kenting: [
+    "Kenting historic center / Old Town",
+    "Kenting main square and landmark viewpoints",
+    "Kenting temple / shrine circuit",
+    "Kenting central market or bazaar",
+    "Taiwan regional museum in Kenting",
+    "Scenic park, waterfront or hillside walk in Kenting",
+    "Signature day trip from Kenting",
+    "Sunset viewpoint overlooking Kenting"
+  ],
+  "ninh-binh": [
+    "Ninh Bình historic center / Old Town",
+    "Ninh Bình main square and landmark viewpoints",
+    "Ninh Bình temple / shrine circuit",
+    "Ninh Bình central market or bazaar",
+    "Vietnam regional museum in Ninh Bình",
+    "Scenic park, waterfront or hillside walk in Ninh Bình",
+    "Signature day trip from Ninh Bình",
+    "Sunset viewpoint overlooking Ninh Bình"
+  ],
+  dalat: [
+    "Đà Lạt historic center / Old Town",
+    "Đà Lạt main square and landmark viewpoints",
+    "Đà Lạt temple / shrine circuit",
+    "Đà Lạt central market or bazaar",
+    "Vietnam regional museum in Đà Lạt",
+    "Scenic park, waterfront or hillside walk in Đà Lạt",
+    "Signature day trip from Đà Lạt",
+    "Sunset viewpoint overlooking Đà Lạt"
+  ],
+  vangsvieng: [
+    "Vang Vieng historic center / Old Town",
+    "Vang Vieng main square and landmark viewpoints",
+    "Vang Vieng temple / shrine circuit",
+    "Vang Vieng central market or bazaar",
+    "Laos regional museum in Vang Vieng",
+    "Scenic park, waterfront or hillside walk in Vang Vieng",
+    "Signature day trip from Vang Vieng",
+    "Sunset viewpoint overlooking Vang Vieng"
+  ],
+  "koh-lanta": [
+    "Ko Lanta historic center / Old Town",
+    "Ko Lanta main square and landmark viewpoints",
+    "Ko Lanta temple / shrine circuit",
+    "Ko Lanta central market or bazaar",
+    "Thailand regional museum in Ko Lanta",
+    "Scenic park, waterfront or hillside walk in Ko Lanta",
+    "Signature day trip from Ko Lanta",
+    "Sunset viewpoint overlooking Ko Lanta"
+  ],
+  "koh-phi-phi": [
+    "Ko Phi Phi historic center / Old Town",
+    "Ko Phi Phi main square and landmark viewpoints",
+    "Ko Phi Phi temple / shrine circuit",
+    "Ko Phi Phi central market or bazaar",
+    "Thailand regional museum in Ko Phi Phi",
+    "Scenic park, waterfront or hillside walk in Ko Phi Phi",
+    "Signature day trip from Ko Phi Phi",
+    "Sunset viewpoint overlooking Ko Phi Phi"
+  ],
+  "georgetown-penang": [
+    "George Town historic center / Old Town",
+    "George Town main square and landmark viewpoints",
+    "George Town temple / shrine circuit",
+    "George Town central market or bazaar",
+    "Malaysia regional museum in George Town",
+    "Scenic park, waterfront or hillside walk in George Town",
+    "Signature day trip from George Town",
+    "Sunset viewpoint overlooking George Town"
+  ],
+  "gili-islands": [
+    "Gili Trawangan historic center / Old Town",
+    "Gili Trawangan main square and landmark viewpoints",
+    "Gili Trawangan temple / shrine circuit",
+    "Gili Trawangan central market or bazaar",
+    "Indonesia regional museum in Gili Trawangan",
+    "Scenic park, waterfront or hillside walk in Gili Trawangan",
+    "Signature day trip from Gili Trawangan",
+    "Sunset viewpoint overlooking Gili Trawangan"
+  ],
+  "queenstown-nz": [
+    "Queenstown historic center / Old Town",
+    "Queenstown main square and landmark viewpoints",
+    "Queenstown cathedral / historic church",
+    "Queenstown central market or bazaar",
+    "New Zealand regional museum in Queenstown",
+    "Scenic park, waterfront or hillside walk in Queenstown",
+    "Signature day trip from Queenstown",
+    "Sunset viewpoint overlooking Queenstown"
+  ],
+  wanaka: [
+    "Wānaka historic center / Old Town",
+    "Wānaka main square and landmark viewpoints",
+    "Wānaka cathedral / historic church",
+    "Wānaka central market or bazaar",
+    "New Zealand regional museum in Wānaka",
+    "Scenic park, waterfront or hillside walk in Wānaka",
+    "Signature day trip from Wānaka",
+    "Sunset viewpoint overlooking Wānaka"
+  ],
+  launceston: [
+    "Launceston historic center / Old Town",
+    "Launceston main square and landmark viewpoints",
+    "Launceston cathedral / historic church",
+    "Launceston central market or bazaar",
+    "Australia regional museum in Launceston",
+    "Scenic park, waterfront or hillside walk in Launceston",
+    "Signature day trip from Launceston",
+    "Sunset viewpoint overlooking Launceston"
+  ],
+  noosa: [
+    "Noosa Heads historic center / Old Town",
+    "Noosa Heads main square and landmark viewpoints",
+    "Noosa Heads cathedral / historic church",
+    "Noosa Heads central market or bazaar",
+    "Australia regional museum in Noosa Heads",
+    "Scenic park, waterfront or hillside walk in Noosa Heads",
+    "Signature day trip from Noosa Heads",
+    "Sunset viewpoint overlooking Noosa Heads"
+  ],
+  "serengeti-arusha": [
+    "Arusha historic center / Old Town",
+    "Arusha main square and landmark viewpoints",
+    "Arusha cathedral / historic church",
+    "Arusha central market or bazaar",
+    "Tanzania regional museum in Arusha",
+    "Scenic park, waterfront or hillside walk in Arusha",
+    "Signature day trip from Arusha",
+    "Sunset viewpoint overlooking Arusha"
+  ],
+  "cape-town-stellenbosch": [
+    "Stellenbosch historic center / Old Town",
+    "Stellenbosch main square and landmark viewpoints",
+    "Stellenbosch cathedral / historic church",
+    "Stellenbosch central market or bazaar",
+    "South Africa regional museum in Stellenbosch",
+    "Scenic park, waterfront or hillside walk in Stellenbosch",
+    "Signature day trip from Stellenbosch",
+    "Sunset viewpoint overlooking Stellenbosch"
+  ],
+  knysna: [
+    "Knysna historic center / Old Town",
+    "Knysna main square and landmark viewpoints",
+    "Knysna cathedral / historic church",
+    "Knysna central market or bazaar",
+    "South Africa regional museum in Knysna",
+    "Scenic park, waterfront or hillside walk in Knysna",
+    "Signature day trip from Knysna",
+    "Sunset viewpoint overlooking Knysna"
+  ],
+  hermanus: [
+    "Hermanus historic center / Old Town",
+    "Hermanus main square and landmark viewpoints",
+    "Hermanus cathedral / historic church",
+    "Hermanus central market or bazaar",
+    "South Africa regional museum in Hermanus",
+    "Scenic park, waterfront or hillside walk in Hermanus",
+    "Signature day trip from Hermanus",
+    "Sunset viewpoint overlooking Hermanus"
+  ],
+  byblos: [
+    "Byblos historic center / Old Town",
+    "Byblos main square and landmark viewpoints",
+    "Byblos historic mosque / medina walk",
+    "Byblos central market or bazaar",
+    "Lebanon regional museum in Byblos",
+    "Scenic park, waterfront or hillside walk in Byblos",
+    "Signature day trip from Byblos",
+    "Sunset viewpoint overlooking Byblos"
+  ],
+  dilijan: [
+    "Dilijan historic center / Old Town",
+    "Dilijan main square and landmark viewpoints",
+    "Dilijan cathedral / historic church",
+    "Dilijan central market or bazaar",
+    "Armenia regional museum in Dilijan",
+    "Scenic park, waterfront or hillside walk in Dilijan",
+    "Signature day trip from Dilijan",
+    "Sunset viewpoint overlooking Dilijan"
+  ],
+  sheki: [
+    "Sheki historic center / Old Town",
+    "Sheki main square and landmark viewpoints",
+    "Sheki cathedral / historic church",
+    "Sheki central market or bazaar",
+    "Azerbaijan regional museum in Sheki",
+    "Scenic park, waterfront or hillside walk in Sheki",
+    "Signature day trip from Sheki",
+    "Sunset viewpoint overlooking Sheki"
+  ],
+  bormio: [
+    "Bormio historic center / Old Town",
+    "Bormio main square and landmark viewpoints",
+    "Bormio cathedral / historic church",
+    "Bormio central market or bazaar",
+    "Italy regional museum in Bormio",
+    "Scenic park, waterfront or hillside walk in Bormio",
+    "Signature day trip from Bormio",
+    "Sunset viewpoint overlooking Bormio"
+  ],
+  garmisch: [
+    "Garmisch-Partenkirchen historic center / Old Town",
+    "Garmisch-Partenkirchen main square and landmark viewpoints",
+    "Garmisch-Partenkirchen cathedral / historic church",
+    "Garmisch-Partenkirchen central market or bazaar",
+    "Germany regional museum in Garmisch-Partenkirchen",
+    "Scenic park, waterfront or hillside walk in Garmisch-Partenkirchen",
+    "Signature day trip from Garmisch-Partenkirchen",
+    "Sunset viewpoint overlooking Garmisch-Partenkirchen"
+  ],
+  berchtesgaden: [
+    "Berchtesgaden historic center / Old Town",
+    "Berchtesgaden main square and landmark viewpoints",
+    "Berchtesgaden cathedral / historic church",
+    "Berchtesgaden central market or bazaar",
+    "Germany regional museum in Berchtesgaden",
+    "Scenic park, waterfront or hillside walk in Berchtesgaden",
+    "Signature day trip from Berchtesgaden",
+    "Sunset viewpoint overlooking Berchtesgaden"
+  ],
+  trier: [
+    "Trier historic center / Old Town",
+    "Trier main square and landmark viewpoints",
+    "Trier cathedral / historic church",
+    "Trier central market or bazaar",
+    "Germany regional museum in Trier",
+    "Scenic park, waterfront or hillside walk in Trier",
+    "Signature day trip from Trier",
+    "Sunset viewpoint overlooking Trier"
+  ],
+  arles: [
+    "Arles historic center / Old Town",
+    "Arles main square and landmark viewpoints",
+    "Arles cathedral / historic church",
+    "Arles central market or bazaar",
+    "France regional museum in Arles",
+    "Scenic park, waterfront or hillside walk in Arles",
+    "Signature day trip from Arles",
+    "Sunset viewpoint overlooking Arles"
+  ],
+  brugge: [
+    "Bruges historic center / Old Town",
+    "Bruges main square and landmark viewpoints",
+    "Bruges cathedral / historic church",
+    "Bruges central market or bazaar",
+    "Belgium regional museum in Bruges",
+    "Scenic park, waterfront or hillside walk in Bruges",
+    "Signature day trip from Bruges",
+    "Sunset viewpoint overlooking Bruges"
+  ],
+  dinant: [
+    "Dinant historic center / Old Town",
+    "Dinant main square and landmark viewpoints",
+    "Dinant cathedral / historic church",
+    "Dinant central market or bazaar",
+    "Belgium regional museum in Dinant",
+    "Scenic park, waterfront or hillside walk in Dinant",
+    "Signature day trip from Dinant",
+    "Sunset viewpoint overlooking Dinant"
+  ],
+  kinderdijk: [
+    "Kinderdijk historic center / Old Town",
+    "Kinderdijk main square and landmark viewpoints",
+    "Kinderdijk cathedral / historic church",
+    "Kinderdijk central market or bazaar",
+    "Netherlands regional museum in Kinderdijk",
+    "Scenic park, waterfront or hillside walk in Kinderdijk",
+    "Signature day trip from Kinderdijk",
+    "Sunset viewpoint overlooking Kinderdijk"
+  ],
+  delft: [
+    "Delft historic center / Old Town",
+    "Delft main square and landmark viewpoints",
+    "Delft cathedral / historic church",
+    "Delft central market or bazaar",
+    "Netherlands regional museum in Delft",
+    "Scenic park, waterfront or hillside walk in Delft",
+    "Signature day trip from Delft",
+    "Sunset viewpoint overlooking Delft"
+  ],
+  "cesky-krumlov-old": [
+    "Český Krumlov historic center / Old Town",
+    "Český Krumlov main square and landmark viewpoints",
+    "Český Krumlov cathedral / historic church",
+    "Český Krumlov central market or bazaar",
+    "Czechia regional museum in Český Krumlov",
+    "Scenic park, waterfront or hillside walk in Český Krumlov",
+    "Signature day trip from Český Krumlov",
+    "Sunset viewpoint overlooking Český Krumlov"
+  ],
+  "kutna-hora": [
+    "Kutná Hora historic center / Old Town",
+    "Kutná Hora main square and landmark viewpoints",
+    "Kutná Hora cathedral / historic church",
+    "Kutná Hora central market or bazaar",
+    "Czechia regional museum in Kutná Hora",
+    "Scenic park, waterfront or hillside walk in Kutná Hora",
+    "Signature day trip from Kutná Hora",
+    "Sunset viewpoint overlooking Kutná Hora"
+  ],
+  telc: [
+    "Telč historic center / Old Town",
+    "Telč main square and landmark viewpoints",
+    "Telč cathedral / historic church",
+    "Telč central market or bazaar",
+    "Czechia regional museum in Telč",
+    "Scenic park, waterfront or hillside walk in Telč",
+    "Signature day trip from Telč",
+    "Sunset viewpoint overlooking Telč"
+  ],
+  "banska-stiavnica": [
+    "Banská Štiavnica historic center / Old Town",
+    "Banská Štiavnica main square and landmark viewpoints",
+    "Banská Štiavnica cathedral / historic church",
+    "Banská Štiavnica central market or bazaar",
+    "Slovakia regional museum in Banská Štiavnica",
+    "Scenic park, waterfront or hillside walk in Banská Štiavnica",
+    "Signature day trip from Banská Štiavnica",
+    "Sunset viewpoint overlooking Banská Štiavnica"
+  ],
+  "high-tatras": [
+    "Vysoké Tatry historic center / Old Town",
+    "Vysoké Tatry main square and landmark viewpoints",
+    "Vysoké Tatry cathedral / historic church",
+    "Vysoké Tatry central market or bazaar",
+    "Slovakia regional museum in Vysoké Tatry",
+    "Scenic park, waterfront or hillside walk in Vysoké Tatry",
+    "Signature day trip from Vysoké Tatry",
+    "Sunset viewpoint overlooking Vysoké Tatry"
+  ],
+  piran: [
+    "Piran historic center / Old Town",
+    "Piran main square and landmark viewpoints",
+    "Piran cathedral / historic church",
+    "Piran central market or bazaar",
+    "Slovenia regional museum in Piran",
+    "Scenic park, waterfront or hillside walk in Piran",
+    "Signature day trip from Piran",
+    "Sunset viewpoint overlooking Piran"
+  ],
+  "bled-lake": [
+    "Lake Bled historic center / Old Town",
+    "Lake Bled main square and landmark viewpoints",
+    "Lake Bled cathedral / historic church",
+    "Lake Bled central market or bazaar",
+    "Slovenia regional museum in Lake Bled",
+    "Scenic park, waterfront or hillside walk in Lake Bled",
+    "Signature day trip from Lake Bled",
+    "Sunset viewpoint overlooking Lake Bled"
+  ],
+  bohinj: [
+    "Bohinj historic center / Old Town",
+    "Bohinj main square and landmark viewpoints",
+    "Bohinj cathedral / historic church",
+    "Bohinj central market or bazaar",
+    "Slovenia regional museum in Bohinj",
+    "Scenic park, waterfront or hillside walk in Bohinj",
+    "Signature day trip from Bohinj",
+    "Sunset viewpoint overlooking Bohinj"
+  ],
+  "brasov-center": [
+    "Brașov historic center / Old Town",
+    "Brașov main square and landmark viewpoints",
+    "Brașov historic mosque / medina walk",
+    "Brașov central market or bazaar",
+    "Romania regional museum in Brașov",
+    "Scenic park, waterfront or hillside walk in Brașov",
+    "Signature day trip from Brașov",
+    "Sunset viewpoint overlooking Brașov"
+  ],
+  sighisoara: [
+    "Sighișoara historic center / Old Town",
+    "Sighișoara main square and landmark viewpoints",
+    "Sighișoara historic mosque / medina walk",
+    "Sighișoara central market or bazaar",
+    "Romania regional museum in Sighișoara",
+    "Scenic park, waterfront or hillside walk in Sighișoara",
+    "Signature day trip from Sighișoara",
+    "Sunset viewpoint overlooking Sighișoara"
+  ],
+  chernivtsi: [
+    "Chernivtsi historic center / Old Town",
+    "Chernivtsi main square and landmark viewpoints",
+    "Chernivtsi cathedral / historic church",
+    "Chernivtsi central market or bazaar",
+    "Ukraine regional museum in Chernivtsi",
+    "Scenic park, waterfront or hillside walk in Chernivtsi",
+    "Signature day trip from Chernivtsi",
+    "Sunset viewpoint overlooking Chernivtsi"
+  ],
+  "zanzibar-nungwi": [
+    "Nungwi historic center / Old Town",
+    "Nungwi main square and landmark viewpoints",
+    "Nungwi cathedral / historic church",
+    "Nungwi central market or bazaar",
+    "Tanzania regional museum in Nungwi",
+    "Scenic park, waterfront or hillside walk in Nungwi",
+    "Signature day trip from Nungwi",
+    "Sunset viewpoint overlooking Nungwi"
+  ],
+  "stone-town-spice": [
+    "Stone Town historic center / Old Town",
+    "Stone Town main square and landmark viewpoints",
+    "Stone Town cathedral / historic church",
+    "Stone Town central market or bazaar",
+    "Tanzania regional museum in Stone Town",
+    "Scenic park, waterfront or hillside walk in Stone Town",
+    "Signature day trip from Stone Town",
+    "Sunset viewpoint overlooking Stone Town"
+  ],
+  "grand-baie": [
+    "Grand Baie historic center / Old Town",
+    "Grand Baie main square and landmark viewpoints",
+    "Grand Baie cathedral / historic church",
+    "Grand Baie central market or bazaar",
+    "Mauritius regional museum in Grand Baie",
+    "Scenic park, waterfront or hillside walk in Grand Baie",
+    "Signature day trip from Grand Baie",
+    "Sunset viewpoint overlooking Grand Baie"
+  ],
+  "mahe-beau-vallon": [
+    "Beau Vallon historic center / Old Town",
+    "Beau Vallon main square and landmark viewpoints",
+    "Beau Vallon cathedral / historic church",
+    "Beau Vallon central market or bazaar",
+    "Seychelles regional museum in Beau Vallon",
+    "Scenic park, waterfront or hillside walk in Beau Vallon",
+    "Signature day trip from Beau Vallon",
+    "Sunset viewpoint overlooking Beau Vallon"
+  ],
+  "maldives-male": [
+    "Malé historic center / Old Town",
+    "Malé main square and landmark viewpoints",
+    "Malé cathedral / historic church",
+    "Malé central market or bazaar",
+    "Maldives regional museum in Malé",
+    "Scenic park, waterfront or hillside walk in Malé",
+    "Signature day trip from Malé",
+    "Sunset viewpoint overlooking Malé"
+  ],
+  "maldives-maafushi": [
+    "Maafushi historic center / Old Town",
+    "Maafushi main square and landmark viewpoints",
+    "Maafushi cathedral / historic church",
+    "Maafushi central market or bazaar",
+    "Maldives regional museum in Maafushi",
+    "Scenic park, waterfront or hillside walk in Maafushi",
+    "Signature day trip from Maafushi",
+    "Sunset viewpoint overlooking Maafushi"
+  ],
+  "bora-bora-vaitape": [
+    "Vaitape historic center / Old Town",
+    "Vaitape main square and landmark viewpoints",
+    "Vaitape cathedral / historic church",
+    "Vaitape central market or bazaar",
+    "French Polynesia regional museum in Vaitape",
+    "Scenic park, waterfront or hillside walk in Vaitape",
+    "Signature day trip from Vaitape",
+    "Sunset viewpoint overlooking Vaitape"
+  ],
+  "new-caledonia-noumea": [
+    "Nouméa historic center / Old Town",
+    "Nouméa main square and landmark viewpoints",
+    "Nouméa cathedral / historic church",
+    "Nouméa central market or bazaar",
+    "New Caledonia regional museum in Nouméa",
+    "Scenic park, waterfront or hillside walk in Nouméa",
+    "Signature day trip from Nouméa",
+    "Sunset viewpoint overlooking Nouméa"
+  ],
+  "guam-hagatna": [
+    "Hagåtña historic center / Old Town",
+    "Hagåtña main square and landmark viewpoints",
+    "Hagåtña cathedral / historic church",
+    "Hagåtña central market or bazaar",
+    "Guam regional museum in Hagåtña",
+    "Scenic park, waterfront or hillside walk in Hagåtña",
+    "Signature day trip from Hagåtña",
+    "Sunset viewpoint overlooking Hagåtña"
+  ],
+  saipan: [
+    "Saipan historic center / Old Town",
+    "Saipan main square and landmark viewpoints",
+    "Saipan cathedral / historic church",
+    "Saipan central market or bazaar",
+    "Northern Mariana Islands regional museum in Saipan",
+    "Scenic park, waterfront or hillside walk in Saipan",
+    "Signature day trip from Saipan",
+    "Sunset viewpoint overlooking Saipan"
+  ],
+  "palau-koror": [
+    "Koror historic center / Old Town",
+    "Koror main square and landmark viewpoints",
+    "Koror cathedral / historic church",
+    "Koror central market or bazaar",
+    "Palau regional museum in Koror",
+    "Scenic park, waterfront or hillside walk in Koror",
+    "Signature day trip from Koror",
+    "Sunset viewpoint overlooking Koror"
+  ],
+  "vanuatu-port-vila": [
+    "Port Vila historic center / Old Town",
+    "Port Vila main square and landmark viewpoints",
+    "Port Vila cathedral / historic church",
+    "Port Vila central market or bazaar",
+    "Vanuatu regional museum in Port Vila",
+    "Scenic park, waterfront or hillside walk in Port Vila",
+    "Signature day trip from Port Vila",
+    "Sunset viewpoint overlooking Port Vila"
+  ],
+  "tonga-nukualofa": [
+    "Nukuʻalofa historic center / Old Town",
+    "Nukuʻalofa main square and landmark viewpoints",
+    "Nukuʻalofa cathedral / historic church",
+    "Nukuʻalofa central market or bazaar",
+    "Tonga regional museum in Nukuʻalofa",
+    "Scenic park, waterfront or hillside walk in Nukuʻalofa",
+    "Signature day trip from Nukuʻalofa",
+    "Sunset viewpoint overlooking Nukuʻalofa"
+  ],
+  "cook-islands-rarotonga": [
+    "Avarua historic center / Old Town",
+    "Avarua main square and landmark viewpoints",
+    "Avarua cathedral / historic church",
+    "Avarua central market or bazaar",
+    "Cook Islands regional museum in Avarua",
+    "Scenic park, waterfront or hillside walk in Avarua",
+    "Signature day trip from Avarua",
+    "Sunset viewpoint overlooking Avarua"
   ]
 };

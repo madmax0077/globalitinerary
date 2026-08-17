@@ -1,0 +1,69 @@
+# Wave 4 — final pad to ~1000 unique
+# slug|name|countrySlug|CC|countryName|lat|lng|timezone|population|isCapital|wikiTitle?
+bormio|Bormio|italy|IT|Italy|46.469|10.372|Europe/Rome|4000|0
+cortina|Cortina d'Ampezzo|italy|IT|Italy|46.537|12.136|Europe/Rome|6000|0|Cortina d'Ampezzo
+ortisei|Ortisei|italy|IT|Italy|46.576|11.672|Europe/Rome|5000|0
+garmisch|Garmisch-Partenkirchen|germany|DE|Germany|47.492|11.095|Europe/Berlin|27000|0|Garmisch-Partenkirchen
+berchtesgaden|Berchtesgaden|germany|DE|Germany|47.633|13.002|Europe/Berlin|8000|0
+rothensburg|Rothenburg ob der Tauber|germany|DE|Germany|49.377|10.179|Europe/Berlin|11000|0|Rothenburg ob der Tauber
+heidelberg|Heidelberg|germany|DE|Germany|49.398|8.672|Europe/Berlin|160000|0
+trier|Trier|germany|DE|Germany|49.75|6.637|Europe/Berlin|110000|0
+baden-baden|Baden-Baden|germany|DE|Germany|48.761|8.24|Europe/Berlin|55000|0
+colmar|Colmar|france|FR|France|48.079|7.358|Europe/Paris|70000|0
+strasbourg|Strasbourg|france|FR|France|48.573|7.752|Europe/Paris|280000|0
+nimes|Nîmes|france|FR|France|43.837|4.36|Europe/Paris|150000|0|Nîmes
+arles|Arles|france|FR|France|43.677|4.628|Europe/Paris|53000|0
+carcassonne|Carcassonne|france|FR|France|43.213|2.349|Europe/Paris|47000|0
+saint-malo|Saint-Malo|france|FR|France|48.649|-2.026|Europe/Paris|46000|0
+honfleur|Honfleur|france|FR|France|49.419|0.233|Europe/Paris|7000|0
+etretat|Étretat|france|FR|France|49.707|0.208|Europe/Paris|1400|0|Étretat
+brugge|Bruges|belgium|BE|Belgium|51.209|3.225|Europe/Brussels|120000|0|Bruges
+ghent|Ghent|belgium|BE|Belgium|51.054|3.725|Europe/Brussels|260000|0
+antwerp|Antwerp|belgium|BE|Belgium|51.22|4.4|Europe/Brussels|530000|0
+dinant|Dinant|belgium|BE|Belgium|50.261|4.912|Europe/Brussels|14000|0
+giethoorn|Giethoorn|netherlands|NL|Netherlands|52.74|6.078|Europe/Amsterdam|2600|0
+kinderdijk|Kinderdijk|netherlands|NL|Netherlands|51.884|4.633|Europe/Amsterdam|1000|0
+maastricht|Maastricht|netherlands|NL|Netherlands|50.851|5.691|Europe/Amsterdam|122000|0
+delft|Delft|netherlands|NL|Netherlands|52.011|4.357|Europe/Amsterdam|105000|0
+haarlem|Haarlem|netherlands|NL|Netherlands|52.387|4.646|Europe/Amsterdam|160000|0
+cesky-krumlov-old|Český Krumlov|czechia|CZ|Czechia|48.811|14.315|Europe/Prague|13000|0|Český Krumlov
+kutna-hora|Kutná Hora|czechia|CZ|Czechia|49.948|15.268|Europe/Prague|21000|0|Kutná Hora
+karlovy-vary|Karlovy Vary|czechia|CZ|Czechia|50.232|12.871|Europe/Prague|48000|0
+telc|Telč|czechia|CZ|Czechia|49.184|15.453|Europe/Prague|5000|0|Telč
+banska-stiavnica|Banská Štiavnica|slovakia|SK|Slovakia|48.459|18.893|Europe/Bratislava|10000|0|Banská Štiavnica
+kosice|Košice|slovakia|SK|Slovakia|48.716|21.261|Europe/Bratislava|240000|0|Košice
+high-tatras|Vysoké Tatry|slovakia|SK|Slovakia|49.14|20.22|Europe/Bratislava|4000|0|Vysoké Tatry
+piran|Piran|slovenia|SI|Slovenia|45.528|13.568|Europe/Ljubljana|4000|0
+bled-lake|Lake Bled|slovenia|SI|Slovenia|46.369|14.11|Europe/Ljubljana|5000|0|Bled
+bohinj|Bohinj|slovenia|SI|Slovenia|46.275|13.888|Europe/Ljubljana|5000|0
+plovdiv|Plovdiv|bulgaria|BG|Bulgaria|42.136|24.745|Europe/Sofia|340000|0
+sofia|Sofia|bulgaria|BG|Bulgaria|42.698|23.322|Europe/Sofia|1300000|1
+brasov-center|Brașov|romania|RO|Romania|45.643|25.589|Europe/Bucharest|250000|0|Brașov
+sighisoara|Sighișoara|romania|RO|Romania|46.22|24.791|Europe/Bucharest|28000|0|Sighișoara
+constanta|Constanța|romania|RO|Romania|44.16|28.635|Europe/Bucharest|280000|0|Constanța
+lviv|Lviv|ukraine|UA|Ukraine|49.84|24.03|Europe/Kyiv|720000|0
+kyiv|Kyiv|ukraine|UA|Ukraine|50.45|30.523|Europe/Kyiv|2950000|1
+odesa|Odesa|ukraine|UA|Ukraine|46.483|30.723|Europe/Kyiv|1000000|0
+chernivtsi|Chernivtsi|ukraine|UA|Ukraine|48.292|25.935|Europe/Kyiv|265000|0
+chisinau|Chișinău|moldova|MD|Moldova|47.01|28.864|Europe/Chisinau|700000|1|Chișinău
+# Africa / island pad
+zanzibar-nungwi|Nungwi|tanzania|TZ|Tanzania|-5.726|39.294|Africa/Dar_es_Salaam|5000|0
+stone-town-spice|Stone Town|tanzania|TZ|Tanzania|-6.164|39.199|Africa/Dar_es_Salaam|200000|0|Stone Town, Zanzibar
+mauritius-port-louis|Port Louis|mauritius|MU|Mauritius|-20.161|57.501|Indian/Mauritius|150000|1
+grand-baie|Grand Baie|mauritius|MU|Mauritius|-20.013|57.581|Indian/Mauritius|15000|0
+seychelles-victoria|Victoria|seychelles|SC|Seychelles|-4.62|55.452|Indian/Mahe|27000|1|Victoria, Seychelles
+mahe-beau-vallon|Beau Vallon|seychelles|SC|Seychelles|-4.614|55.428|Indian/Mahe|5000|0|Beau Vallon
+maldives-male|Malé|maldives|MV|Maldives|4.175|73.509|Indian/Maldives|250000|1|Malé
+maldives-maafushi|Maafushi|maldives|MV|Maldives|3.941|73.49|Indian/Maldives|3000|0
+fiji-nadi|Nadi|fiji|FJ|Fiji|-17.777|177.436|Pacific/Fiji|71000|0
+fiji-suva|Suva|fiji|FJ|Fiji|-18.142|178.442|Pacific/Fiji|95000|1
+tahiti-papeete|Papeete|french-polynesia|PF|French Polynesia|-17.552|-149.57|Pacific/Tahiti|27000|1
+bora-bora-vaitape|Vaitape|french-polynesia|PF|French Polynesia|-16.508|-151.751|Pacific/Tahiti|5000|0|Vaitape
+new-caledonia-noumea|Nouméa|new-caledonia|NC|New Caledonia|-22.276|166.458|Pacific/Noumea|100000|1|Nouméa
+guam-hagatna|Hagåtña|guam|GU|Guam|13.476|144.75|Pacific/Guam|1000|1|Hagåtña
+saipan|Saipan|northern-mariana-islands|MP|Northern Mariana Islands|15.179|145.751|Pacific/Saipan|48000|0
+palau-koror|Koror|palau|PW|Palau|7.342|134.479|Pacific/Palau|11000|0
+vanuatu-port-vila|Port Vila|vanuatu|VU|Vanuatu|-17.733|168.327|Pacific/Efate|52000|1
+samoa-apia|Apia|samoa|WS|Samoa|-13.833|-171.767|Pacific/Apia|37000|1
+tonga-nukualofa|Nukuʻalofa|tonga|TO|Tonga|-21.139|-175.201|Pacific/Tongatapu|25000|1|Nukuʻalofa
+cook-islands-rarotonga|Avarua|cook-islands|CK|Cook Islands|-21.208|-159.775|Pacific/Rarotonga|5000|1|Avarua

@@ -1,0 +1,257 @@
+# Wave 3 — pad uniqueTop1000 toward ~1000. Format:
+# slug|name|countrySlug|CC|countryName|lat|lng|timezone|population|isCapital|wikiTitle?
+# Alps / Central Europe
+zell-am-see|Zell am See|austria|AT|Austria|47.323|12.798|Europe/Vienna|10000|0
+kitzbuhel|Kitzbühel|austria|AT|Austria|47.446|12.392|Europe/Vienna|8000|0|Kitzbühel
+bad-gastein|Bad Gastein|austria|AT|Austria|47.115|13.134|Europe/Vienna|4000|0
+woerthersee|Wörthersee|austria|AT|Austria|46.627|14.15|Europe/Vienna|5000|0|Wörthersee
+schladming|Schladming|austria|AT|Austria|47.393|13.687|Europe/Vienna|6000|0
+st-moritz|St. Moritz|switzerland|CH|Switzerland|46.491|9.836|Europe/Zurich|5000|0
+zermatt|Zermatt|switzerland|CH|Switzerland|46.02|7.749|Europe/Zurich|5800|0
+verbier|Verbier|switzerland|CH|Switzerland|46.096|7.229|Europe/Zurich|3000|0
+davos|Davos|switzerland|CH|Switzerland|46.803|9.837|Europe/Zurich|11000|0
+montreux|Montreux|switzerland|CH|Switzerland|46.431|6.911|Europe/Zurich|26000|0
+lausanne|Lausanne|switzerland|CH|Switzerland|46.52|6.633|Europe/Zurich|140000|0
+fribourg|Fribourg|switzerland|CH|Switzerland|46.806|7.162|Europe/Zurich|38000|0
+sion|Sion|switzerland|CH|Switzerland|46.233|7.359|Europe/Zurich|35000|0
+chamonix|Chamonix|france|FR|France|45.924|6.869|Europe/Paris|9000|0|Chamonix-Mont-Blanc
+annecy|Annecy|france|FR|France|45.899|6.129|Europe/Paris|130000|0
+courchevel|Courchevel|france|FR|France|45.415|6.634|Europe/Paris|2000|0
+val-disere|Val-d'Isère|france|FR|France|45.448|6.977|Europe/Paris|1600|0|Val-d'Isère
+megeve|Megève|france|FR|France|45.857|6.618|Europe/Paris|3000|0|Megève
+briancon|Briançon|france|FR|France|44.899|6.635|Europe/Paris|12000|0|Briançon
+# Italy extras
+sorrento|Sorrento|italy|IT|Italy|40.626|14.376|Europe/Rome|16000|0
+positano|Positano|italy|IT|Italy|40.628|14.485|Europe/Rome|4000|0
+amalfi|Amalfi|italy|IT|Italy|40.634|14.603|Europe/Rome|5000|0
+ravello|Ravello|italy|IT|Italy|40.65|14.612|Europe/Rome|2500|0
+capri-town|Capri|italy|IT|Italy|40.551|14.243|Europe/Rome|7000|0|Capri
+taormina|Taormina|italy|IT|Italy|37.854|15.288|Europe/Rome|11000|0
+cefalu|Cefalù|italy|IT|Italy|38.039|14.023|Europe/Rome|14000|0|Cefalù
+alghero|Alghero|italy|IT|Italy|40.558|8.318|Europe/Rome|44000|0
+cagliari|Cagliari|italy|IT|Italy|39.224|9.122|Europe/Rome|150000|0
+olbia|Olbia|italy|IT|Italy|40.923|9.499|Europe/Rome|60000|0
+porto-cervo|Porto Cervo|italy|IT|Italy|41.134|9.536|Europe/Rome|500|0
+matera|Matera|italy|IT|Italy|40.666|16.604|Europe/Rome|60000|0
+lecce|Lecce|italy|IT|Italy|40.352|18.175|Europe/Rome|95000|0
+perugia|Perugia|italy|IT|Italy|43.111|12.389|Europe/Rome|165000|0
+assisi|Assisi|italy|IT|Italy|43.07|12.617|Europe/Rome|28000|0
+orvieto|Orvieto|italy|IT|Italy|42.719|12.111|Europe/Rome|20000|0
+lucca|Lucca|italy|IT|Italy|43.843|10.503|Europe/Rome|89000|0
+siena|Siena|italy|IT|Italy|43.319|11.331|Europe/Rome|54000|0
+san-gimignano|San Gimignano|italy|IT|Italy|43.468|11.043|Europe/Rome|8000|0
+cinque-terre|Cinque Terre|italy|IT|Italy|44.127|9.71|Europe/Rome|4000|0|Cinque Terre
+portovenere|Porto Venere|italy|IT|Italy|44.048|9.835|Europe/Rome|3500|0|Porto Venere
+bellagio|Bellagio|italy|IT|Italy|45.987|9.262|Europe/Rome|4000|0
+varenna|Varenna|italy|IT|Italy|46.01|9.284|Europe/Rome|800|0
+menaggio|Menaggio|italy|IT|Italy|46.021|9.239|Europe/Rome|3000|0
+# Spain / Portugal
+toledo-es|Toledo|spain|ES|Spain|39.863|-4.027|Europe/Madrid|85000|0|Toledo, Spain
+caceres|Cáceres|spain|ES|Spain|39.475|-6.372|Europe/Madrid|96000|0|Cáceres
+salamanca|Salamanca|spain|ES|Spain|40.97|-5.663|Europe/Madrid|144000|0
+santiago-de-compostela|Santiago de Compostela|spain|ES|Spain|42.88|-8.546|Europe/Madrid|98000|0
+san-sebastian|San Sebastián|spain|ES|Spain|43.318|-1.981|Europe/Madrid|188000|0|San Sebastián
+cadaques|Cadaqués|spain|ES|Spain|42.289|3.277|Europe/Madrid|3000|0|Cadaqués
+sitges|Sitges|spain|ES|Spain|41.237|1.805|Europe/Madrid|29000|0
+lloret-de-mar|Lloret de Mar|spain|ES|Spain|41.7|2.846|Europe/Madrid|39000|0
+benidorm|Benidorm|spain|ES|Spain|38.541|-0.123|Europe/Madrid|70000|0
+alicante|Alicante|spain|ES|Spain|38.346|-0.491|Europe/Madrid|337000|0
+valencia-albufera|El Palmar|spain|ES|Spain|39.317|-0.318|Europe/Madrid|1000|0|El Palmar (Valencia)
+obidos|Óbidos|portugal|PT|Portugal|39.362|-9.157|Europe/Lisbon|3000|0|Óbidos
+cascais|Cascais|portugal|PT|Portugal|38.697|-9.422|Europe/Lisbon|210000|0
+nazare|Nazaré|portugal|PT|Portugal|39.603|-9.071|Europe/Lisbon|15000|0|Nazaré
+aveiro|Aveiro|portugal|PT|Portugal|40.641|-8.654|Europe/Lisbon|80000|0
+braga|Braga|portugal|PT|Portugal|41.545|-8.426|Europe/Lisbon|193000|0
+guimaraes|Guimarães|portugal|PT|Portugal|41.443|-8.292|Europe/Lisbon|158000|0|Guimarães
+ponta-delgada|Ponta Delgada|portugal|PT|Portugal|37.739|-25.669|Atlantic/Azores|69000|0
+horta-azores|Horta|portugal|PT|Portugal|38.539|-28.63|Atlantic/Azores|15000|0|Horta, Azores
+# Greece islands / towns
+naxos-town|Naxos|greece|GR|Greece|37.105|25.377|Europe/Athens|20000|0|Naxos (city)
+parikia|Parikia|greece|GR|Greece|37.085|25.148|Europe/Athens|5000|0|Parikia
+ia-oia|Oia|greece|GR|Greece|36.461|25.375|Europe/Athens|1500|0|Oia, Greece
+fira|Fira|greece|GR|Greece|36.417|25.433|Europe/Athens|2000|0|Fira
+ios-town|Ios|greece|GR|Greece|36.723|25.282|Europe/Athens|2000|0|Ios (island)
+milos-adamas|Adamas|greece|GR|Greece|36.725|24.446|Europe/Athens|1500|0|Adamas (Milos)
+sifnos|Sifnos|greece|GR|Greece|36.974|24.703|Europe/Athens|2600|0
+hydra-town|Hydra|greece|GR|Greece|37.349|23.465|Europe/Athens|2000|0|Hydra (island)
+spetses|Spetses|greece|GR|Greece|37.262|23.159|Europe/Athens|4000|0
+nafplio|Nafplio|greece|GR|Greece|37.567|22.805|Europe/Athens|14000|0
+delphi|Delphi|greece|GR|Greece|38.482|22.501|Europe/Athens|2000|0|Delphi (modern town)
+meteora-kalambaka|Kalambaka|greece|GR|Greece|39.704|21.627|Europe/Athens|22000|0|Kalabaka
+# Balkans / Eastern Europe
+mostar|Mostar|bosnia-and-herzegovina|BA|Bosnia and Herzegovina|43.343|17.808|Europe/Sarajevo|105000|0
+sarajevo|Sarajevo|bosnia-and-herzegovina|BA|Bosnia and Herzegovina|43.856|18.413|Europe/Sarajevo|275000|1
+banja-luka|Banja Luka|bosnia-and-herzegovina|BA|Bosnia and Herzegovina|44.772|17.192|Europe/Sarajevo|185000|0
+novi-sad|Novi Sad|serbia|RS|Serbia|45.267|19.834|Europe/Belgrade|340000|0
+belgrade|Belgrade|serbia|RS|Serbia|44.817|20.457|Europe/Belgrade|1400000|1
+nis|Niš|serbia|RS|Serbia|43.321|21.896|Europe/Belgrade|260000|0|Niš
+novi-pazar|Novi Pazar|serbia|RS|Serbia|43.137|20.512|Europe/Belgrade|100000|0
+skopie|Skopje|north-macedonia|MK|North Macedonia|41.998|21.425|Europe/Skopje|540000|1|Skopje
+bitola|Bitola|north-macedonia|MK|North Macedonia|41.031|21.341|Europe/Skopje|74000|0
+podgorica|Podgorica|montenegro|ME|Montenegro|42.441|19.263|Europe/Podgorica|190000|1
+budva|Budva|montenegro|ME|Montenegro|42.286|18.84|Europe/Podgorica|19000|0
+herceg-novi|Herceg Novi|montenegro|ME|Montenegro|42.453|18.531|Europe/Podgorica|20000|0
+tirana|Tirana|albania|AL|Albania|41.328|19.819|Europe/Tirane|420000|1
+vlore|Vlorë|albania|AL|Albania|40.467|19.49|Europe/Tirane|130000|0|Vlorë
+# Nordics / Baltics extras
+visby|Visby|sweden|SE|Sweden|57.635|18.295|Europe/Stockholm|24000|0
+kiruna|Kiruna|sweden|SE|Sweden|67.856|20.225|Europe/Stockholm|23000|0
+abisko|Abisko|sweden|SE|Sweden|68.349|18.831|Europe/Stockholm|100|0
+are-sweden|Åre|sweden|SE|Sweden|63.398|13.082|Europe/Stockholm|3000|0|Åre
+flam|Flåm|norway|NO|Norway|60.863|7.122|Europe/Oslo|350|0|Flåm
+geiranger|Geiranger|norway|NO|Norway|62.099|7.207|Europe/Oslo|250|0
+lofoten-svovolvaer|Svolvær|norway|NO|Norway|68.234|14.568|Europe/Oslo|5000|0|Svolvær
+reine|Reine|norway|NO|Norway|67.932|13.089|Europe/Oslo|300|0
+trondheim|Trondheim|norway|NO|Norway|63.43|10.395|Europe/Oslo|210000|0
+stavanger|Stavanger|norway|NO|Norway|58.97|5.733|Europe/Oslo|145000|0
+rovaniemi|Rovaniemi|finland|FI|Finland|66.504|25.729|Europe/Helsinki|65000|0
+turku|Turku|finland|FI|Finland|60.451|22.267|Europe/Helsinki|195000|0
+tampere|Tampere|finland|FI|Finland|61.498|23.761|Europe/Helsinki|250000|0
+saariselka|Saariselkä|finland|FI|Finland|68.42|27.4|Europe/Helsinki|350|0|Saariselkä
+tallinn-old|Tallinn Old Town|estonia|EE|Estonia|59.437|24.754|Europe/Tallinn|5000|0|Tallinn
+saaremaa|Kuressaare|estonia|EE|Estonia|58.248|22.492|Europe/Tallinn|13000|0|Kuressaare
+jurmala|Jūrmala|latvia|LV|Latvia|56.968|23.77|Europe/Riga|50000|0|Jūrmala
+kaunas|Kaunas|lithuania|LT|Lithuania|54.898|23.904|Europe/Vilnius|300000|0
+klaipeda|Klaipėda|lithuania|LT|Lithuania|55.704|21.145|Europe/Vilnius|150000|0|Klaipėda
+# UK / Ireland extras
+bath|Bath|united-kingdom|GB|United Kingdom|51.381|-2.359|Europe/London|95000|0|Bath, Somerset
+oxford|Oxford|united-kingdom|GB|United Kingdom|51.752|-1.258|Europe/London|160000|0|Oxford
+cambridge-uk|Cambridge|united-kingdom|GB|United Kingdom|52.205|0.122|Europe/London|145000|0|Cambridge
+york|York|united-kingdom|GB|United Kingdom|53.96|-1.087|Europe/London|210000|0|York
+edinburgh-old|Edinburgh Old Town|united-kingdom|GB|United Kingdom|55.949|-3.19|Europe/London|20000|0|Edinburgh
+stirling|Stirling|united-kingdom|GB|United Kingdom|56.117|-3.937|Europe/London|48000|0
+inverness|Inverness|united-kingdom|GB|United Kingdom|57.478|-4.224|Europe/London|48000|0
+isle-of-skye|Portree|united-kingdom|GB|United Kingdom|57.413|-6.196|Europe/London|2500|0|Portree
+cardiff|Cardiff|united-kingdom|GB|United Kingdom|51.482|-3.179|Europe/London|480000|0
+brighton|Brighton|united-kingdom|GB|United Kingdom|50.823|-0.137|Europe/London|290000|0
+cornwall-st-ives|St Ives|united-kingdom|GB|United Kingdom|50.211|-5.48|Europe/London|11000|0|St Ives, Cornwall
+cotswolds-bourton|Bourton-on-the-Water|united-kingdom|GB|United Kingdom|51.884|-1.758|Europe/London|3500|0|Bourton-on-the-Water
+galway|Galway|ireland|IE|Ireland|53.271|-9.057|Europe/Dublin|86000|0
+cork|Cork|ireland|IE|Ireland|51.899|-8.476|Europe/Dublin|220000|0
+killarney|Killarney|ireland|IE|Ireland|52.06|-9.507|Europe/Dublin|15000|0
+dingle|Dingle|ireland|IE|Ireland|52.141|-10.269|Europe/Dublin|2000|0
+# Americas extras
+jackson-hole|Jackson|united-states|US|United States|43.48|-110.762|America/Denver|11000|0|Jackson, Wyoming
+park-city|Park City|united-states|US|United States|40.646|-111.498|America/Denver|8500|0
+sedona|Sedona|united-states|US|United States|34.87|-111.761|America/Phoenix|10000|0
+moab|Moab|united-states|US|United States|38.573|-109.55|America/Denver|5500|0
+page-az|Page|united-states|US|United States|36.915|-111.456|America/Phoenix|7500|0|Page, Arizona
+bar-harbor|Bar Harbor|united-states|US|United States|44.387|-68.204|America/New_York|5500|0
+cape-cod-provincetown|Provincetown|united-states|US|United States|42.058|-70.179|America/New_York|3000|0
+key-west|Key West|united-states|US|United States|24.555|-81.782|America/New_York|25000|0
+savannah-ga|Savannah|united-states|US|United States|32.081|-81.091|America/New_York|150000|0|Savannah, Georgia
+charleston-sc|Charleston|united-states|US|United States|32.776|-79.931|America/New_York|150000|0|Charleston, South Carolina
+asheville|Asheville|united-states|US|United States|35.595|-82.552|America/New_York|95000|0
+napa|Napa|united-states|US|United States|38.297|-122.287|America/Los_Angeles|80000|0|Napa, California
+sonoma|Sonoma|united-states|US|United States|38.292|-122.458|America/Los_Angeles|11000|0
+carmel-by-the-sea|Carmel-by-the-Sea|united-states|US|United States|36.555|-121.923|America/Los_Angeles|4000|0
+monterey|Monterey|united-states|US|United States|36.6|-121.895|America/Los_Angeles|30000|0|Monterey, California
+santa-barbara|Santa Barbara|united-states|US|United States|34.421|-119.698|America/Los_Angeles|95000|0
+laguna-beach|Laguna Beach|united-states|US|United States|33.542|-117.783|America/Los_Angeles|23000|0
+palm-springs|Palm Springs|united-states|US|United States|33.83|-116.545|America/Los_Angeles|45000|0
+lake-tahoe|South Lake Tahoe|united-states|US|United States|38.94|-119.977|America/Los_Angeles|22000|0|South Lake Tahoe
+banff-town|Banff|canada|CA|Canada|51.178|-115.571|America/Edmonton|8000|0|Banff, Alberta
+jasper|Jasper|canada|CA|Canada|52.874|-118.081|America/Edmonton|5000|0|Jasper, Alberta
+whistler-village|Whistler|canada|CA|Canada|50.116|-122.957|America/Vancouver|14000|0|Whistler, British Columbia
+victoria-bc|Victoria|canada|CA|Canada|48.428|-123.366|America/Vancouver|95000|0|Victoria, British Columbia
+quebec-old|Old Quebec|canada|CA|Canada|46.813|-71.208|America/Toronto|5000|0|Old Quebec
+niagara-on-the-lake|Niagara-on-the-Lake|canada|CA|Canada|43.255|-79.072|America/Toronto|18000|0
+# LatAm / Caribbean
+cartagena-colombia|Cartagena|colombia|CO|Colombia|10.391|-75.479|America/Bogota|1000000|0|Cartagena, Colombia
+medellin|Medellín|colombia|CO|Colombia|6.247|-75.566|America/Bogota|2500000|0|Medellín
+bogota|Bogotá|colombia|CO|Colombia|4.711|-74.072|America/Bogota|7400000|1|Bogotá
+cusco|Cusco|peru|PE|Peru|-13.532|-71.967|America/Lima|430000|0
+machu-picchu-pueblo|Aguas Calientes|peru|PE|Peru|-13.155|-72.525|America/Lima|5000|0|Aguas Calientes
+arequipa|Arequipa|peru|PE|Peru|-16.409|-71.537|America/Lima|1000000|0
+paracas|Paracas|peru|PE|Peru|-13.833|-76.25|America/Lima|5000|0
+ushuaia|Ushuaia|argentina|AR|Argentina|-54.802|-68.303|America/Argentina/Ushuaia|80000|0
+bariloche|Bariloche|argentina|AR|Argentina|-41.133|-71.31|America/Argentina/Buenos_Aires|140000|0|San Carlos de Bariloche
+mendoza|Mendoza|argentina|AR|Argentina|-32.89|-68.845|America/Argentina/Buenos_Aires|115000|0|Mendoza, Argentina
+el-calafate|El Calafate|argentina|AR|Argentina|-50.338|-72.264|America/Argentina/Rio_Gallegos|25000|0
+puerto-varas|Puerto Varas|chile|CL|Chile|-41.32|-72.986|America/Santiago|45000|0
+san-pedro-de-atacama|San Pedro de Atacama|chile|CL|Chile|-22.909|-68.2|America/Santiago|5000|0
+valparaiso|Valparaíso|chile|CL|Chile|-33.047|-71.613|America/Santiago|300000|0|Valparaíso
+torres-del-paine|Puerto Natales|chile|CL|Chile|-51.723|-72.487|America/Santiago|20000|0|Puerto Natales
+florianopolis|Florianópolis|brazil|BR|Brazil|-27.595|-48.548|America/Sao_Paulo|500000|0|Florianópolis
+fernando-de-noronha|Fernando de Noronha|brazil|BR|Brazil|-3.854|-32.423|America/Noronha|3000|0
+bonito|Bonito|brazil|BR|Brazil|-21.126|-56.484|America/Campo_Grande|22000|0|Bonito, Mato Grosso do Sul
+salvador-bahia|Salvador|brazil|BR|Brazil|-12.977|-38.507|America/Bahia|2900000|0|Salvador, Bahia
+# Asia extras
+jeju-city|Jeju City|south-korea|KR|South Korea|33.5|126.532|Asia/Seoul|490000|0
+busan-haeundae|Haeundae|south-korea|KR|South Korea|35.158|129.16|Asia/Seoul|300000|0|Haeundae District
+gyeongju|Gyeongju|south-korea|KR|South Korea|35.856|129.225|Asia/Seoul|250000|0
+kanazawa|Kanazawa|japan|JP|Japan|36.561|136.656|Asia/Tokyo|460000|0
+takayama|Takayama|japan|JP|Japan|36.146|137.252|Asia/Tokyo|88000|0|Takayama, Gifu
+nikko|Nikkō|japan|JP|Japan|36.72|139.698|Asia/Tokyo|80000|0|Nikkō
+hakone|Hakone|japan|JP|Japan|35.232|139.107|Asia/Tokyo|11000|0
+kamakura|Kamakura|japan|JP|Japan|35.319|139.547|Asia/Tokyo|170000|0
+nara|Nara|japan|JP|Japan|34.685|135.805|Asia/Tokyo|350000|0|Nara, Nara
+hiroshima|Hiroshima|japan|JP|Japan|34.385|132.455|Asia/Tokyo|1200000|0
+okinawa-naha|Naha|japan|JP|Japan|26.212|127.679|Asia/Tokyo|320000|0
+ishigaki|Ishigaki|japan|JP|Japan|24.344|124.157|Asia/Tokyo|48000|0
+hualien|Hualien|taiwan|TW|Taiwan|23.987|121.601|Asia/Taipei|100000|0
+jiufen|Jiufen|taiwan|TW|Taiwan|25.109|121.844|Asia/Taipei|3000|0
+kenting|Kenting|taiwan|TW|Taiwan|21.948|120.779|Asia/Taipei|5000|0|Hengchun
+sapa|Sa Pa|vietnam|VN|Vietnam|22.336|103.844|Asia/Ho_Chi_Minh|60000|0|Sa Pa
+ninh-binh|Ninh Bình|vietnam|VN|Vietnam|20.251|105.975|Asia/Ho_Chi_Minh|160000|0|Ninh Bình
+phu-quoc|Phú Quốc|vietnam|VN|Vietnam|10.228|103.967|Asia/Ho_Chi_Minh|180000|0|Phú Quốc
+dalat|Đà Lạt|vietnam|VN|Vietnam|11.94|108.458|Asia/Ho_Chi_Minh|400000|0|Da Lat
+siem-reap|Siem Reap|cambodia|KH|Cambodia|13.364|103.86|Asia/Phnom_Penh|250000|0
+phnom-penh|Phnom Penh|cambodia|KH|Cambodia|11.556|104.928|Asia/Phnom_Penh|2300000|1
+luang-prabang|Luang Prabang|laos|LA|Laos|19.886|102.135|Asia/Vientiane|90000|0
+vangsvieng|Vang Vieng|laos|LA|Laos|18.922|102.448|Asia/Vientiane|25000|0|Vang Vieng
+chiang-rai|Chiang Rai|thailand|TH|Thailand|19.91|99.841|Asia/Bangkok|70000|0
+pai|Pai|thailand|TH|Thailand|19.358|98.44|Asia/Bangkok|3000|0|Pai, Thailand
+koh-lanta|Ko Lanta|thailand|TH|Thailand|7.62|99.05|Asia/Bangkok|30000|0|Ko Lanta
+koh-phi-phi|Ko Phi Phi|thailand|TH|Thailand|7.74|98.778|Asia/Bangkok|3000|0|Ko Phi Phi
+hua-hin|Hua Hin|thailand|TH|Thailand|12.57|99.957|Asia/Bangkok|60000|0
+georgetown-penang|George Town|malaysia|MY|Malaysia|5.414|100.329|Asia/Kuala_Lumpur|160000|0|George Town, Penang
+langkawi|Langkawi|malaysia|MY|Malaysia|6.35|99.8|Asia/Kuala_Lumpur|100000|0
+kota-kinabalu|Kota Kinabalu|malaysia|MY|Malaysia|5.978|116.075|Asia/Kuala_Lumpur|500000|0
+ubud|Ubud|indonesia|ID|Indonesia|-8.507|115.262|Asia/Makassar|75000|0
+gili-islands|Gili Trawangan|indonesia|ID|Indonesia|-8.35|116.037|Asia/Makassar|2000|0|Gili Trawangan
+labuan-bajo|Labuan Bajo|indonesia|ID|Indonesia|-8.496|119.888|Asia/Makassar|6000|0
+yogyakarta|Yogyakarta|indonesia|ID|Indonesia|-7.796|110.37|Asia/Jakarta|420000|0
+boracay|Boracay|philippines|PH|Philippines|11.967|121.925|Asia/Manila|35000|0
+el-nido|El Nido|philippines|PH|Philippines|11.179|119.391|Asia/Manila|45000|0
+coron|Coron|philippines|PH|Philippines|12.0|120.2|Asia/Manila|50000|0|Coron, Palawan
+cebu-city|Cebu City|philippines|PH|Philippines|10.315|123.885|Asia/Manila|960000|0
+# Oceania / Africa / Middle East extras
+queenstown-nz|Queenstown|new-zealand|NZ|New Zealand|-45.031|168.663|Pacific/Auckland|16000|0|Queenstown, New Zealand
+rotorua|Rotorua|new-zealand|NZ|New Zealand|-38.137|176.251|Pacific/Auckland|78000|0
+wanaka|Wānaka|new-zealand|NZ|New Zealand|-44.698|169.137|Pacific/Auckland|12000|0|Wānaka
+milford-sound|Milford Sound|new-zealand|NZ|New Zealand|-44.672|167.926|Pacific/Auckland|100|0
+cairns|Cairns|australia|AU|Australia|-16.92|145.771|Australia/Brisbane|160000|0
+uluru-yulara|Yulara|australia|AU|Australia|-25.241|130.988|Australia/Darwin|1000|0|Yulara
+broome|Broome|australia|AU|Australia|-17.962|122.236|Australia/Perth|16000|0
+hobart|Hobart|australia|AU|Australia|-42.882|147.327|Australia/Hobart|240000|0
+launceston|Launceston|australia|AU|Australia|-41.433|147.144|Australia/Hobart|90000|0
+byron-bay|Byron Bay|australia|AU|Australia|-28.647|153.612|Australia/Sydney|10000|0
+noosa|Noosa Heads|australia|AU|Australia|-26.386|153.091|Australia/Brisbane|15000|0|Noosa Heads
+marrakech|Marrakesh|morocco|MA|Morocco|31.63|-8.009|Africa/Casablanca|930000|0|Marrakesh
+fez|Fez|morocco|MA|Morocco|34.018|-5.008|Africa/Casablanca|1100000|0|Fez, Morocco
+chefchaouen|Chefchaouen|morocco|MA|Morocco|35.169|-5.27|Africa/Casablanca|43000|0
+essaouira|Essaouira|morocco|MA|Morocco|31.508|-9.76|Africa/Casablanca|78000|0
+casablanca|Casablanca|morocco|MA|Morocco|33.573|-7.59|Africa/Casablanca|3400000|0
+zanzibar-stone-town|Stone Town|tanzania|TZ|Tanzania|-6.164|39.199|Africa/Dar_es_Salaam|200000|0|Stone Town
+serengeti-arusha|Arusha|tanzania|TZ|Tanzania|-3.387|36.683|Africa/Dar_es_Salaam|600000|0
+victoria-falls-town|Victoria Falls|zimbabwe|ZW|Zimbabwe|-17.924|25.857|Africa/Harare|35000|0|Victoria Falls, Zimbabwe
+cape-town-stellenbosch|Stellenbosch|south-africa|ZA|South Africa|-33.932|18.86|Africa/Johannesburg|180000|0
+knysna|Knysna|south-africa|ZA|South Africa|-34.036|23.049|Africa/Johannesburg|70000|0
+hermanus|Hermanus|south-africa|ZA|South Africa|-34.419|19.235|Africa/Johannesburg|70000|0
+petra-wadi-musa|Wadi Musa|jordan|JO|Jordan|30.322|35.479|Asia/Amman|17000|0
+aqaba|Aqaba|jordan|JO|Jordan|29.532|35.006|Asia/Amman|190000|0
+dead-sea-jordan|Sweimeh|jordan|JO|Jordan|31.717|35.585|Asia/Amman|5000|0|Dead Sea (Jordan)
+muscat|Muscat|oman|OM|Oman|23.588|58.383|Asia/Muscat|1500000|1
+salalah|Salalah|oman|OM|Oman|17.015|54.092|Asia/Muscat|330000|0
+doha|Doha|qatar|QA|Qatar|25.286|51.535|Asia/Qatar|2400000|1
+manama|Manama|bahrain|BH|Bahrain|26.228|50.586|Asia/Bahrain|200000|1
+kuwait-city|Kuwait City|kuwait|KW|Kuwait|29.376|47.978|Asia/Kuwait|3000000|1
+beirut|Beirut|lebanon|LB|Lebanon|33.894|35.502|Asia/Beirut|2400000|1
+byblos|Byblos|lebanon|LB|Lebanon|34.121|35.651|Asia/Beirut|40000|0
+tbilisi|Tbilisi|georgia|GE|Georgia|41.715|44.827|Asia/Tbilisi|1200000|1
+batumi|Batumi|georgia|GE|Georgia|41.616|41.637|Asia/Tbilisi|180000|0
+yerevan|Yerevan|armenia|AM|Armenia|40.179|44.499|Asia/Yerevan|1100000|1
+dilijan|Dilijan|armenia|AM|Armenia|40.741|44.863|Asia/Yerevan|18000|0
+baku|Baku|azerbaijan|AZ|Azerbaijan|40.41|49.867|Asia/Baku|2300000|1
+sheki|Sheki|azerbaijan|AZ|Azerbaijan|41.192|47.171|Asia/Baku|65000|0|Shaki, Azerbaijan

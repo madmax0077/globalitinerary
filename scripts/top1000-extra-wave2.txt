@@ -1,0 +1,265 @@
+# Wave 2 — more tourist destinations
+sliema|Sliema|malta|MT|Malta|35.9122|14.5042|Europe/Malta|17000|0
+valletta|Valletta|malta|MT|Malta|35.8989|14.5146|Europe/Malta|6000|1
+mdina|Mdina|malta|MT|Malta|35.8869|14.4025|Europe/Malta|300|0
+gozo-victoria|Victoria|malta|MT|Malta|36.044|14.239|Europe/Malta|7000|0|Victoria, Gozo
+nicosia|Nicosia|cyprus|CY|Cyprus|35.1856|33.3823|Asia/Nicosia|330000|1
+limassol|Limassol|cyprus|CY|Cyprus|34.7071|33.0226|Asia/Nicosia|235000|0
+paphos|Paphos|cyprus|CY|Cyprus|34.772|32.4297|Asia/Nicosia|36000|0
+ayia-napa|Ayia Napa|cyprus|CY|Cyprus|34.982|34.002|Asia/Nicosia|3000|0
+andorra-la-vella|Andorra la Vella|andorra|AD|Andorra|42.5063|1.5218|Europe/Andorra|22000|1
+san-marino-city|San Marino|san-marino|SM|San Marino|43.9424|12.4578|Europe/San_Marino|4000|1|City of San Marino
+trogir|Trogir|croatia|HR|Croatia|43.5167|16.25|Europe/Zagreb|10000|0
+plitvice|Plitvička Jezera|croatia|HR|Croatia|44.882|15.616|Europe/Zagreb|4000|0|Plitvička Jezera
+opatija|Opatija|croatia|HR|Croatia|45.337|14.305|Europe/Zagreb|11000|0
+sibenik|Šibenik|croatia|HR|Croatia|43.735|15.895|Europe/Zagreb|34000|0|Šibenik
+pula|Pula|croatia|HR|Croatia|44.8666|13.8496|Europe/Zagreb|57000|0
+ohrid|Ohrid|north-macedonia|MK|North Macedonia|41.1231|20.8016|Europe/Skopje|42000|0
+podgorica|Podgorica|montenegro|ME|Montenegro|42.4304|19.2594|Europe/Podgorica|190000|1
+cetinje|Cetinje|montenegro|ME|Montenegro|42.3906|18.9142|Europe/Podgorica|14000|0
+saranda|Sarandë|albania|AL|Albania|39.875|20.005|Europe/Tirane|40000|0|Sarandë
+berat|Berat|albania|AL|Albania|40.7058|19.9522|Europe/Tirane|36000|0
+gjirokaster|Gjirokastër|albania|AL|Albania|40.0758|20.1389|Europe/Tirane|25000|0|Gjirokastër
+nesebar|Nesebar|bulgaria|BG|Bulgaria|42.659|27.735|Europe/Sofia|13000|0
+sozopol|Sozopol|bulgaria|BG|Bulgaria|42.4167|27.7|Europe/Sofia|5000|0
+veliko-tarnovo|Veliko Tarnovo|bulgaria|BG|Bulgaria|43.0757|25.6172|Europe/Sofia|69000|0
+constanta|Constanța|romania|RO|Romania|44.1598|28.6348|Europe/Bucharest|280000|0|Constanța
+cluj-napoca|Cluj-Napoca|romania|RO|Romania|46.7712|23.6236|Europe/Bucharest|320000|0
+timisoara|Timișoara|romania|RO|Romania|45.7489|21.2087|Europe/Bucharest|320000|0|Timișoara
+sinaia|Sinaia|romania|RO|Romania|45.35|25.55|Europe/Bucharest|10000|0
+bran|Bran|romania|RO|Romania|45.515|25.367|Europe/Bucharest|5000|0
+kazan|Kazan|russia|RU|Russia|55.8304|49.0661|Europe/Moscow|1300000|0
+saint-petersburg|Saint Petersburg|russia|RU|Russia|59.9311|30.3609|Europe/Moscow|5400000|0
+sochi|Sochi|russia|RU|Russia|43.6028|39.7342|Europe/Moscow|440000|0
+kaliningrad|Kaliningrad|russia|RU|Russia|54.7104|20.4522|Europe/Kaliningrad|490000|0
+vladivostok|Vladivostok|russia|RU|Russia|43.1332|131.9113|Asia/Vladivostok|600000|0
+irkutsk|Irkutsk|russia|RU|Russia|52.287|104.305|Asia/Irkutsk|620000|0
+suzdal|Suzdal|russia|RU|Russia|56.422|40.448|Europe/Moscow|10000|0
+veliky-novgorod|Veliky Novgorod|russia|RU|Russia|58.521|31.275|Europe/Moscow|220000|0
+porvoo|Porvoo|finland|FI|Finland|60.3925|25.665|Europe/Helsinki|51000|0
+rovaniemi|Rovaniemi|finland|FI|Finland|66.5039|25.7294|Europe/Helsinki|64000|0
+turku|Turku|finland|FI|Finland|60.4518|22.2666|Europe/Helsinki|195000|0
+tampere|Tampere|finland|FI|Finland|61.4978|23.761|Europe/Helsinki|240000|0
+uppsala|Uppsala|sweden|SE|Sweden|59.8586|17.6389|Europe/Stockholm|230000|0
+visby|Visby|sweden|SE|Sweden|57.6348|18.2948|Europe/Stockholm|24000|0
+kiruna|Kiruna|sweden|SE|Sweden|67.8558|20.2253|Europe/Stockholm|23000|0
+lund|Lund|sweden|SE|Sweden|55.7047|13.191|Europe/Stockholm|92000|0
+odense|Odense|denmark|DK|Denmark|55.4038|10.4024|Europe/Copenhagen|180000|0
+skagen|Skagen|denmark|DK|Denmark|57.72|10.58|Europe/Copenhagen|8000|0
+flam|Flåm|norway|NO|Norway|60.863|7.113|Europe/Oslo|350|0|Flåm
+geiranger|Geiranger|norway|NO|Norway|62.1|7.2|Europe/Oslo|250|0
+lillehammer|Lillehammer|norway|NO|Norway|61.115|10.466|Europe/Oslo|28000|0
+epernay|Épernay|france|FR|France|49.04|3.959|Europe/Paris|23000|0|Épernay
+honfleur|Honfleur|france|FR|France|49.419|0.233|Europe/Paris|7500|0
+etretat|Étretat|france|FR|France|49.707|0.207|Europe/Paris|1400|0|Étretat
+saint-malo|Saint-Malo|france|FR|France|48.649|-2.025|Europe/Paris|47000|0
+bayeux|Bayeux|france|FR|France|49.276|-0.703|Europe/Paris|13000|0
+sarlat|Sarlat-la-Canéda|france|FR|France|44.89|1.217|Europe/Paris|9000|0
+rocamadour|Rocamadour|france|FR|France|44.8|1.617|Europe/Paris|600|0
+gordes|Gordes|france|FR|France|43.911|5.2|Europe/Paris|2000|0
+eze|Èze|france|FR|France|43.728|7.362|Europe/Paris|2200|0|Èze
+menton|Menton|france|FR|France|43.776|7.504|Europe/Paris|29000|0
+antibes|Antibes|france|FR|France|43.58|7.125|Europe/Paris|75000|0
+saint-tropez|Saint-Tropez|france|FR|France|43.267|6.64|Europe/Paris|4500|0
+megeve|Megève|france|FR|France|45.857|6.619|Europe/Paris|3000|0|Megève
+val-disere|Val-d'Isère|france|FR|France|45.448|6.978|Europe/Paris|1600|0
+courchevel|Courchevel|france|FR|France|45.415|6.634|Europe/Paris|2000|0
+ortisei|Ortisei|italy|IT|Italy|46.576|11.672|Europe/Rome|5000|0
+cortina|Cortina d'Ampezzo|italy|IT|Italy|46.54|12.14|Europe/Rome|6000|0
+bolzano|Bolzano|italy|IT|Italy|46.498|11.354|Europe/Rome|110000|0
+trento|Trento|italy|IT|Italy|46.074|11.121|Europe/Rome|120000|0
+rimini|Rimini|italy|IT|Italy|44.067|12.568|Europe/Rome|150000|0
+sanremo|Sanremo|italy|IT|Italy|43.816|7.777|Europe/Rome|54000|0
+portofino|Portofino|italy|IT|Italy|44.303|9.21|Europe/Rome|400|0
+manarola|Manarola|italy|IT|Italy|44.108|9.728|Europe/Rome|400|0
+riomaggiore|Riomaggiore|italy|IT|Italy|44.099|9.738|Europe/Rome|1500|0
+vernazza|Vernazza|italy|IT|Italy|44.135|9.684|Europe/Rome|800|0
+monterosso|Monterosso al Mare|italy|IT|Italy|44.146|9.655|Europe/Rome|1400|0
+bellagio|Bellagio|italy|IT|Italy|45.987|9.262|Europe/Rome|3700|0
+varenna|Varenna|italy|IT|Italy|46.01|9.284|Europe/Rome|800|0
+sirmione|Sirmione|italy|IT|Italy|45.497|10.608|Europe/Rome|8000|0
+alghero|Alghero|italy|IT|Italy|40.558|8.319|Europe/Rome|44000|0
+cagliari|Cagliari|italy|IT|Italy|39.223|9.122|Europe/Rome|150000|0
+syracuse-sicily|Syracuse|italy|IT|Italy|37.075|15.287|Europe/Rome|120000|0|Syracuse, Sicily
+agrigento|Agrigento|italy|IT|Italy|37.311|13.576|Europe/Rome|58000|0
+cefalu|Cefalù|italy|IT|Italy|38.036|14.022|Europe/Rome|14000|0|Cefalù
+trapani|Trapani|italy|IT|Italy|38.017|12.516|Europe/Rome|68000|0
+ragusa|Ragusa|italy|IT|Italy|36.927|14.732|Europe/Rome|73000|0
+modica|Modica|italy|IT|Italy|36.859|14.761|Europe/Rome|54000|0
+noto|Noto|italy|IT|Italy|36.891|15.071|Europe/Rome|24000|0
+ostuni|Ostuni|italy|IT|Italy|40.729|17.577|Europe/Rome|31000|0
+alberobello|Alberobello|italy|IT|Italy|40.787|17.237|Europe/Rome|11000|0
+polignano|Polignano a Mare|italy|IT|Italy|40.996|17.22|Europe/Rome|18000|0
+monopoli|Monopoli|italy|IT|Italy|40.956|17.29|Europe/Rome|49000|0
+bari|Bari|italy|IT|Italy|41.117|16.871|Europe/Rome|320000|0
+pompeii|Pompeii|italy|IT|Italy|40.749|14.501|Europe/Rome|25000|0
+ercolano|Ercolano|italy|IT|Italy|40.806|14.353|Europe/Rome|50000|0
+ravello|Ravello|italy|IT|Italy|40.649|14.612|Europe/Rome|2500|0
+praiano|Praiano|italy|IT|Italy|40.612|14.53|Europe/Rome|2000|0
+ischia|Ischia|italy|IT|Italy|40.735|13.946|Europe/Rome|60000|0
+procida|Procida|italy|IT|Italy|40.757|14.015|Europe/Rome|10000|0
+orvieto|Orvieto|italy|IT|Italy|42.718|12.11|Europe/Rome|20000|0
+spoleto|Spoleto|italy|IT|Italy|42.739|12.738|Europe/Rome|38000|0
+gubbio|Gubbio|italy|IT|Italy|43.355|12.573|Europe/Rome|32000|0
+urbino|Urbino|italy|IT|Italy|43.726|12.636|Europe/Rome|14000|0
+volterra|Volterra|italy|IT|Italy|43.4|10.86|Europe/Rome|10000|0
+montepulciano|Montepulciano|italy|IT|Italy|43.092|11.787|Europe/Rome|14000|0
+pienza|Pienza|italy|IT|Italy|43.078|11.677|Europe/Rome|2000|0
+montalcino|Montalcino|italy|IT|Italy|43.055|11.49|Europe/Rome|5000|0
+greve-in-chianti|Greve in Chianti|italy|IT|Italy|43.585|11.318|Europe/Rome|14000|0
+arezzo|Arezzo|italy|IT|Italy|43.463|11.879|Europe/Rome|100000|0
+parma|Parma|italy|IT|Italy|44.801|10.328|Europe/Rome|200000|0
+modena|Modena|italy|IT|Italy|44.647|10.925|Europe/Rome|185000|0
+ferrara|Ferrara|italy|IT|Italy|44.838|11.62|Europe/Rome|130000|0
+mantua|Mantua|italy|IT|Italy|45.156|10.791|Europe/Rome|49000|0
+padua|Padua|italy|IT|Italy|45.406|11.876|Europe/Rome|210000|0
+vicenza|Vicenza|italy|IT|Italy|45.546|11.549|Europe/Rome|110000|0
+treviso|Treviso|italy|IT|Italy|45.667|12.242|Europe/Rome|85000|0
+trieste|Trieste|italy|IT|Italy|45.649|13.776|Europe/Rome|200000|0
+# Asia / Americas / more
+jeju-seogwipo|Seogwipo|south-korea|KR|South Korea|33.2541|126.5601|Asia/Seoul|180000|0
+busan-haeundae|Haeundae|south-korea|KR|South Korea|35.1587|129.1604|Asia/Seoul|400000|0
+pai-thailand|Pai|thailand|TH|Thailand|19.358|98.44|Asia/Bangkok|2300|0
+koh-lipe|Ko Lipe|thailand|TH|Thailand|6.489|99.301|Asia/Bangkok|2000|0|Ko Lipe
+koh-tao|Ko Tao|thailand|TH|Thailand|10.098|99.838|Asia/Bangkok|10000|0|Ko Tao
+koh-phangan|Ko Pha Ngan|thailand|TH|Thailand|9.74|100.01|Asia/Bangkok|20000|0|Ko Pha Ngan
+kanchanaburi|Kanchanaburi|thailand|TH|Thailand|14.004|99.548|Asia/Bangkok|53000|0
+lopburi|Lopburi|thailand|TH|Thailand|14.799|100.653|Asia/Bangkok|58000|0
+hampi|Hampi|india|IN|India|15.335|76.46|Asia/Kolkata|3000|0
+hannover|Hampi|india|IN|India|15.335|76.46|Asia/Kolkata|3000|0
+gokarna|Gokarna|india|IN|India|14.55|74.32|Asia/Kolkata|25000|0
+munnar|Munnar|india|IN|India|10.089|77.06|Asia/Kolkata|30000|0
+ooty|Ooty|india|IN|India|11.41|76.7|Asia/Kolkata|90000|0
+coorg|Madikeri|india|IN|India|12.42|75.74|Asia/Kolkata|33000|0
+andaman-port-blair|Port Blair|india|IN|India|11.623|92.726|Asia/Kolkata|140000|0
+lakshadweep|Kavaratti|india|IN|India|10.57|72.64|Asia/Kolkata|11000|0
+bhaktapur|Bhaktapur|nepal|NP|Nepal|27.672|85.428|Asia/Kathmandu|80000|0
+patan-nepal|Patan|nepal|NP|Nepal|27.676|85.325|Asia/Kathmandu|200000|0|Patan, Nepal
+chitwan|Bharatpur|nepal|NP|Nepal|27.683|84.433|Asia/Kathmandu|280000|0|Bharatpur, Nepal
+nuwara-eliya|Nuwara Eliya|sri-lanka|LK|Sri Lanka|6.949|80.789|Asia/Colombo|27000|0
+mirissa|Mirissa|sri-lanka|LK|Sri Lanka|5.948|80.459|Asia/Colombo|5000|0
+unawatuna|Unawatuna|sri-lanka|LK|Sri Lanka|6.01|80.25|Asia/Colombo|5000|0
+trincomalee|Trincomalee|sri-lanka|LK|Sri Lanka|8.587|81.215|Asia/Colombo|100000|0
+jaffna|Jaffna|sri-lanka|LK|Sri Lanka|9.661|80.025|Asia/Colombo|90000|0
+punakha|Punakha|bhutan|BT|Bhutan|27.592|89.877|Asia/Thimphu|10000|0
+paro-valley|Paro|bhutan|BT|Bhutan|27.43|89.413|Asia/Thimphu|11000|0
+ha-long-bai-chay|Bai Chay|vietnam|VN|Vietnam|20.96|107.04|Asia/Ho_Chi_Minh|50000|0
+mai-chau|Mai Chau|vietnam|VN|Vietnam|20.66|105.08|Asia/Bangkok|10000|0
+phu-quoc-duong-dong|Duong Dong|vietnam|VN|Vietnam|10.22|103.96|Asia/Ho_Chi_Minh|50000|0
+kampot|Kampot|cambodia|KH|Cambodia|10.61|104.18|Asia/Phnom_Penh|40000|0
+battambang|Battambang|cambodia|KH|Cambodia|13.1|103.2|Asia/Phnom_Penh|150000|0
+pakse|Pakse|laos|LA|Laos|15.12|105.78|Asia/Vientiane|80000|0
+luang-namtha|Luang Namtha|laos|LA|Laos|20.95|101.4|Asia/Vientiane|30000|0
+inle-nyaungshwe|Nyaungshwe|myanmar|MM|Myanmar|20.66|96.93|Asia/Yangon|15000|0
+bagan-nyaung-u|Nyaung-U|myanmar|MM|Myanmar|21.18|94.91|Asia/Yangon|50000|0
+taunggyi|Taunggyi|myanmar|MM|Myanmar|20.79|97.03|Asia/Yangon|380000|0
+seminyak-canggu|Canggu|indonesia|ID|Indonesia|-8.65|115.13|Asia/Makassar|15000|0
+uluwatu-jimbaran|Jimbaran|indonesia|ID|Indonesia|-8.77|115.16|Asia/Makassar|30000|0
+gili-trawangan|Gili Trawangan|indonesia|ID|Indonesia|-8.35|116.04|Asia/Makassar|2000|0
+flores-labuan|Labuan Bajo|indonesia|ID|Indonesia|-8.5|119.89|Asia/Makassar|50000|0
+komodo-labuan|Labuan Bajo|indonesia|ID|Indonesia|-8.5|119.89|Asia/Makassar|50000|0
+raja-ampat-waisai|Waisai|indonesia|ID|Indonesia|-0.4|130.8|Asia/Jayapura|20000|0
+bunaken-manado|Manado|indonesia|ID|Indonesia|1.475|124.842|Asia/Makassar|430000|0
+yogyakarta-borobudur|Magelang|indonesia|ID|Indonesia|-7.48|110.22|Asia/Jakarta|120000|0
+bromo-probolinggo|Probolinggo|indonesia|ID|Indonesia|-7.75|113.22|Asia/Jakarta|230000|0
+ijo-dieng|Wonosobo|indonesia|ID|Indonesia|-7.36|109.9|Asia/Jakarta|90000|0
+malacca-city|Malacca City|malaysia|MY|Malaysia|2.19|102.25|Asia/Kuala_Lumpur|580000|0
+cameron-highlands|Tanah Rata|malaysia|MY|Malaysia|4.47|101.38|Asia/Kuala_Lumpur|10000|0
+tioman|Tioman|malaysia|MY|Malaysia|2.8|104.17|Asia/Kuala_Lumpur|3000|0
+perhentian|Perhentian Islands|malaysia|MY|Malaysia|5.9|102.75|Asia/Kuala_Lumpur|2000|0
+redang|Redang|malaysia|MY|Malaysia|5.78|103.01|Asia/Kuala_Lumpur|2000|0
+sandakan|Sandakan|malaysia|MY|Malaysia|5.84|118.12|Asia/Kuching|400000|0
+semporna|Semporna|malaysia|MY|Malaysia|4.48|118.61|Asia/Kuching|140000|0
+mabul|Mabul|malaysia|MY|Malaysia|4.25|118.63|Asia/Kuching|2000|0
+siargao-general-luna|General Luna|philippines|PH|Philippines|9.86|126.05|Asia/Manila|20000|0|General Luna, Surigao del Norte
+bohol-panglao|Panglao|philippines|PH|Philippines|9.58|123.75|Asia/Manila|40000|0
+coron|Coron|philippines|PH|Philippines|12.0|120.2|Asia/Manila|50000|0
+baguio|Baguio|philippines|PH|Philippines|16.4|120.6|Asia/Manila|350000|0
+vigan|Vigan|philippines|PH|Philippines|17.57|120.39|Asia/Manila|55000|0
+tagaytay|Tagaytay|philippines|PH|Philippines|14.1|120.93|Asia/Manila|85000|0
+aspencolorado|Aspen|united-states|US|United States|39.1911|-106.8175|America/Denver|7000|0
+vail|Vail|united-states|US|United States|39.6403|-106.3742|America/Denver|5500|0
+park-city|Park City|united-states|US|United States|40.6461|-111.498|America/Denver|8500|0
+lake-tahoe|South Lake Tahoe|united-states|US|United States|38.9399|-119.9772|America/Los_Angeles|22000|0
+yosemite-village|Yosemite Valley|united-states|US|United States|37.7459|-119.5936|America/Los_Angeles|1000|0
+grand-canyon-village|Grand Canyon Village|united-states|US|United States|36.0544|-112.1401|America/Phoenix|2000|0
+zion-springdale|Springdale|united-states|US|United States|37.1889|-112.9986|America/Denver|600|0|Springdale, Utah
+bryce-tropic|Tropic|united-states|US|United States|37.623|-112.082|America/Denver|500|0
+page-arizona|Page|united-states|US|United States|36.9147|-111.4558|America/Phoenix|7500|0
+monument-valley|Monument Valley|united-states|US|United States|36.998|-110.112|America/Denver|500|0
+santa-monica|Santa Monica|united-states|US|United States|34.0195|-118.4912|America/Los_Angeles|92000|0
+malibu|Malibu|united-states|US|United States|34.0259|-118.7798|America/Los_Angeles|12000|0
+big-sur|Big Sur|united-states|US|United States|36.2704|-121.8081|America/Los_Angeles|1000|0
+carmel-valley|Carmel Valley|united-states|US|United States|36.48|-121.73|America/Los_Angeles|4000|0
+healdsburg|Healdsburg|united-states|US|United States|38.61|-122.87|America/Los_Angeles|12000|0
+sonoma|Sonoma|united-states|US|United States|38.29|-122.46|America/Los_Angeles|11000|0
+mendocino|Mendocino|united-states|US|United States|39.31|-123.8|America/Los_Angeles|900|0
+carmel-by-the-sea|Carmel-by-the-Sea|united-states|US|United States|36.555|-121.923|America/Los_Angeles|3200|0
+bar-harbor|Bar Harbor|united-states|US|United States|44.387|-68.204|America/New_York|5500|0
+cape-cod-provincetown|Provincetown|united-states|US|United States|42.058|-70.179|America/New_York|3000|0
+newport-ri|Newport|united-states|US|United States|41.49|-71.31|America/New_York|25000|0|Newport, Rhode Island
+martha-vineyard|Vineyard Haven|united-states|US|United States|41.45|-70.6|America/New_York|2000|0
+nantucket|Nantucket|united-states|US|United States|41.28|-70.1|America/New_York|14000|0
+outer-banks|Nags Head|united-states|US|United States|35.94|-75.63|America/New_York|3000|0
+hilton-head|Hilton Head Island|united-states|US|United States|32.22|-80.75|America/New_York|40000|0
+miami-beach|Miami Beach|united-states|US|United States|25.7907|-80.13|America/New_York|92000|0
+key-largo|Key Largo|united-states|US|United States|25.09|-80.45|America/New_York|10000|0
+fort-lauderdale|Fort Lauderdale|united-states|US|United States|26.1224|-80.1373|America/New_York|180000|0
+tampa|Tampa|united-states|US|United States|27.9506|-82.4572|America/New_York|400000|0
+st-augustine|St. Augustine|united-states|US|United States|29.9012|-81.3124|America/New_York|15000|0
+savannah-ga|Savannah|united-states|US|United States|32.08|-81.09|America/New_York|150000|0|Savannah, Georgia
+aspen|Aspen|united-states|US|United States|39.191|-106.818|America/Denver|7000|0
+telluride|Telluride|united-states|US|United States|37.937|-107.812|America/Denver|2500|0
+moab-utah|Moab|united-states|US|United States|38.573|-109.55|America/Denver|5400|0
+sedona-az|Sedona|united-states|US|United States|34.87|-111.76|America/Phoenix|10000|0
+scottsdale|Scottsdale|united-states|US|United States|33.494|-111.926|America/Phoenix|250000|0
+tucson|Tucson|united-states|US|United States|32.2226|-110.9747|America/Phoenix|540000|0
+santa-fe-nm|Santa Fe|united-states|US|United States|35.687|-105.938|America/Denver|88000|0|Santa Fe, New Mexico
+taos|Taos|united-states|US|United States|36.407|-105.573|America/Denver|6000|0
+albuquerque|Albuquerque|united-states|US|United States|35.0844|-106.6504|America/Denver|560000|0
+bozeman|Bozeman|united-states|US|United States|45.677|-111.043|America/Denver|55000|0
+missoula|Missoula|united-states|US|United States|46.872|-113.994|America/Denver|75000|0
+whitefish|Whitefish|united-states|US|United States|48.411|-114.338|America/Denver|8000|0
+juneau|Juneau|united-states|US|United States|58.3019|-134.4197|America/Juneau|32000|0
+fairbanks|Fairbanks|united-states|US|United States|64.8378|-147.7164|America/Anchorage|32000|0
+sitka|Sitka|united-states|US|United States|57.053|-135.33|America/Sitka|8500|0
+ketchikan|Ketchikan|united-states|US|United States|55.342|-131.647|America/Sitka|8000|0
+kauai-lihue|Lihue|united-states|US|United States|21.981|-159.367|Pacific/Honolulu|8000|0
+big-island-hilo|Hilo|united-states|US|United States|19.707|-155.09|Pacific/Honolulu|45000|0
+kona|Kailua-Kona|united-states|US|United States|19.64|-155.997|Pacific/Honolulu|20000|0
+lanai-city|Lanai City|united-states|US|United States|20.828|-156.92|Pacific/Honolulu|3000|0
+molokai|Kaunakakai|united-states|US|United States|21.09|-157.02|Pacific/Honolulu|3000|0
+cabo|Cabo San Lucas|mexico|MX|Mexico|22.89|-109.92|America/Mazatlan|80000|0
+los-cabos|San José del Cabo|mexico|MX|Mexico|23.06|-109.7|America/Mazatlan|90000|0|San José del Cabo
+isla-mujeres|Isla Mujeres|mexico|MX|Mexico|21.23|-86.73|America/Cancun|13000|0
+cozumel|Cozumel|mexico|MX|Mexico|20.51|-86.95|America/Cancun|100000|0
+bacalar|Bacalar|mexico|MX|Mexico|18.68|-88.39|America/Cancun|12000|0
+holbox|Holbox|mexico|MX|Mexico|21.52|-87.38|America/Cancun|2000|0
+chichen-itza-valladolid|Valladolid|mexico|MX|Mexico|20.69|-88.2|America/Merida|50000|0|Valladolid, Yucatán
+campeche|Campeche|mexico|MX|Mexico|19.83|-90.53|America/Merida|250000|0
+palenque|Palenque|mexico|MX|Mexico|17.51|-91.98|America/Mexico_City|50000|0
+san-cristobal|San Cristóbal de las Casas|mexico|MX|Mexico|16.74|-92.64|America/Mexico_City|210000|0
+oaxaca-city|Oaxaca City|mexico|MX|Mexico|17.07|-96.72|America/Mexico_City|300000|0
+puebla|Puebla|mexico|MX|Mexico|19.04|-98.2|America/Mexico_City|1500000|0
+morelia|Morelia|mexico|MX|Mexico|19.7|-101.19|America/Mexico_City|850000|0
+patzcuaro|Pátzcuaro|mexico|MX|Mexico|19.51|-101.61|America/Mexico_City|60000|0|Pátzcuaro
+taxco|Taxco|mexico|MX|Mexico|18.56|-99.6|America/Mexico_City|50000|0
+cuernavaca|Cuernavaca|mexico|MX|Mexico|18.92|-99.23|America/Mexico_City|360000|0
+mazatlan|Mazatlán|mexico|MX|Mexico|23.25|-106.41|America/Mazatlan|500000|0|Mazatlán
+sayulita|Sayulita|mexico|MX|Mexico|20.87|-105.44|America/Mexico_City|5000|0
+zipolite|Zipolite|mexico|MX|Mexico|15.66|-96.51|America/Mexico_City|1000|0
+huatulco|Huatulco|mexico|MX|Mexico|15.77|-96.13|America/Mexico_City|50000|0
+puerto-escondido|Puerto Escondido|mexico|MX|Mexico|15.87|-97.07|America/Mexico_City|45000|0
+todos-santos|Todos Santos|mexico|MX|Mexico|23.45|-110.23|America/Mazatlan|6000|0
+loreto|Loreto|mexico|MX|Mexico|26.01|-111.35|America/Mazatlan|20000|0|Loreto, Baja California Sur
+la-paz-bcs|La Paz|mexico|MX|Mexico|24.14|-110.31|America/Mazatlan|300000|0|La Paz, Baja California Sur
+ensendada|Ensenada|mexico|MX|Mexico|31.87|-116.6|America/Tijuana|300000|0
+rosarito|Rosarito|mexico|MX|Mexico|32.33|-117.05|America/Tijuana|100000|0
+tijuana|Tijuana|mexico|MX|Mexico|32.51|-117.04|America/Tijuana|1900000|0
+guadalajara-tlaquepaque|Tlaquepaque|mexico|MX|Mexico|20.64|-103.31|America/Mexico_City|600000|0
+tequila-town|Tequila|mexico|MX|Mexico|20.88|-103.84|America/Mexico_City|40000|0
+guanajuato-city|Guanajuato City|mexico|MX|Mexico|21.02|-101.26|America/Mexico_City|190000|0
+dolores-hidalgo|Dolores Hidalgo|mexico|MX|Mexico|21.16|-100.93|America/Mexico_City|160000|0
+queretaro|Querétaro|mexico|MX|Mexico|20.59|-100.39|America/Mexico_City|1000000|0|Querétaro
+san-miguel|San Miguel de Allende|mexico|MX|Mexico|20.91|-100.74|America/Mexico_City|72000|0
+zicatela|Puerto Escondido|mexico|MX|Mexico|15.85|-97.07|America/Mexico_City|45000|0
