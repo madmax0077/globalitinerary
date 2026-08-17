@@ -3,24 +3,64 @@
 import * as React from "react";
 import { Wallet } from "lucide-react";
 
+export type BudgetDefaults = {
+  accommodation?: number;
+  food?: number;
+  transport?: number;
+  activities?: number;
+  flights?: number;
+  days?: number;
+  travelers?: number;
+};
+
+type Props = {
+  /** Destination label shown above the estimate */
+  destinationLabel?: string;
+  /** Pre-fill from real place budgets (country/city mid-range split) */
+  defaults?: BudgetDefaults;
+  /** Optional note under the total (e.g. source of the defaults) */
+  sourceNote?: string;
+};
+
 /**
- * A simple, honest trip-cost estimator: it multiplies the traveller's own
- * inputs. It does not invent local prices — you enter your daily spend.
+ * Trip-cost estimator. When destination defaults are passed, inputs start from
+ * that place's typical mid-range ground costs — users can still edit freely.
  */
-export function BudgetCalculator() {
-  const [days, setDays] = React.useState(7);
-  const [travelers, setTravelers] = React.useState(2);
-  const [accommodation, setAccommodation] = React.useState(120);
-  const [food, setFood] = React.useState(40);
-  const [transport, setTransport] = React.useState(15);
-  const [activities, setActivities] = React.useState(25);
-  const [flights, setFlights] = React.useState(600);
+export function BudgetCalculator({ destinationLabel, defaults, sourceNote }: Props = {}) {
+  const [days, setDays] = React.useState(defaults?.days ?? 7);
+  const [travelers, setTravelers] = React.useState(defaults?.travelers ?? 2);
+  const [accommodation, setAccommodation] = React.useState(defaults?.accommodation ?? 120);
+  const [food, setFood] = React.useState(defaults?.food ?? 40);
+  const [transport, setTransport] = React.useState(defaults?.transport ?? 15);
+  const [activities, setActivities] = React.useState(defaults?.activities ?? 25);
+  const [flights, setFlights] = React.useState(defaults?.flights ?? 600);
+
+  // When navigating between country/city pages, refresh defaults.
+  React.useEffect(() => {
+    if (!defaults) return;
+    if (defaults.accommodation != null) setAccommodation(defaults.accommodation);
+    if (defaults.food != null) setFood(defaults.food);
+    if (defaults.transport != null) setTransport(defaults.transport);
+    if (defaults.activities != null) setActivities(defaults.activities);
+    if (defaults.flights != null) setFlights(defaults.flights);
+    if (defaults.days != null) setDays(defaults.days);
+    if (defaults.travelers != null) setTravelers(defaults.travelers);
+  }, [
+    defaults?.accommodation,
+    defaults?.food,
+    defaults?.transport,
+    defaults?.activities,
+    defaults?.flights,
+    defaults?.days,
+    defaults?.travelers,
+  ]);
 
   const dailyPerPerson = food + transport + activities;
-  const lodgingTotal = accommodation * days; // per room/stay
+  const lodgingTotal = accommodation * days;
   const perPersonOnGround = dailyPerPerson * days;
   const flightsTotal = flights * travelers;
   const total = flightsTotal + lodgingTotal + perPersonOnGround * travelers;
+  const groundDaily = accommodation + dailyPerPerson;
 
   const rows: [string, string, (v: number) => void, number][] = [
     ["Flights (per person, round trip)", "flights", setFlights, flights],
@@ -36,7 +76,12 @@ export function BudgetCalculator() {
         <span className="grid size-9 place-items-center rounded-xl bg-emerald/10 text-emerald">
           <Wallet className="size-4" />
         </span>
-        <h3 className="font-display text-lg font-bold">Trip budget estimator</h3>
+        <div>
+          <h3 className="font-display text-lg font-bold">Trip budget estimator</h3>
+          {destinationLabel && (
+            <p className="text-xs text-muted-foreground">Typical mid-range for {destinationLabel}</p>
+          )}
+        </div>
       </div>
 
       <div className="mt-4 grid grid-cols-2 gap-3">
@@ -81,17 +126,21 @@ export function BudgetCalculator() {
       </div>
 
       <div className="mt-4 rounded-2xl bg-muted/50 p-4">
-        <p className="text-sm text-muted-foreground">Estimated total (your figures)</p>
+        <p className="text-sm text-muted-foreground">Estimated total (USD)</p>
         <p className="font-display text-3xl font-extrabold">
           ${total.toLocaleString(undefined, { maximumFractionDigits: 0 })}
         </p>
         <p className="mt-1 text-xs text-muted-foreground">
           ≈ ${Math.round(total / travelers).toLocaleString()} per person · $
-          {Math.round(total / days).toLocaleString()} per day
+          {Math.round(total / days).toLocaleString()} per day group total
+        </p>
+        <p className="mt-1 text-xs text-muted-foreground">
+          Ground costs ≈ ${groundDaily}/person/day (lodging + food + transport + activities)
         </p>
       </div>
       <p className="mt-2 text-[11px] text-muted-foreground">
-        This tool only multiplies the numbers you enter — no prices are assumed.
+        {sourceNote ||
+          "Defaults reflect typical mid-range ground costs for this destination. Edit any figure — flights are a separate estimate and vary by origin."}
       </p>
     </div>
   );

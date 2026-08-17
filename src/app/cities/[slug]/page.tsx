@@ -36,6 +36,8 @@ import { SectionHeading } from "@/components/shared/section-heading";
 import { LocalTime } from "@/components/tools/local-time";
 import { WeatherNow } from "@/components/tools/weather-now";
 import { ClimateChart } from "@/components/tools/climate-chart";
+import { BudgetCalculator } from "@/components/tools/budget-calculator";
+import { calculatorDefaultsForCity } from "@/lib/travel-budgets";
 import { Badge } from "@/components/ui/badge";
 import { Reveal } from "@/components/ui/reveal";
 import {
@@ -341,6 +343,18 @@ export default async function CityPage({
               <p className="mt-4 text-sm leading-relaxed text-muted-foreground">
                 {city.tripCost.note} Figures exclude international flights.
               </p>
+              <div className="mt-8">
+                <BudgetCalculator
+                  destinationLabel={city.name}
+                  defaults={calculatorDefaultsForCity({
+                    slug: city.slug,
+                    countrySlug: city.countrySlug,
+                    continent: getCountry(city.countrySlug)?.continent,
+                    region: getCountry(city.countrySlug)?.region,
+                  })}
+                  sourceNote={`Defaults match ${city.name} mid-range ground costs (budget ${city.tripCost.budget} · mid ${city.tripCost.mid} · luxury ${city.tripCost.luxury} ${city.tripCost.currency}/day). Edit freely — flights vary by origin.`}
+                />
+              </div>
             </div>
           )}
 

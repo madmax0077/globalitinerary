@@ -39,6 +39,7 @@ import { CurrencyConverter } from "@/components/tools/currency-converter";
 import { LocalTime } from "@/components/tools/local-time";
 import { WeatherNow } from "@/components/tools/weather-now";
 import { BudgetCalculator } from "@/components/tools/budget-calculator";
+import { calculatorDefaultsForCountry, parseBudgetPerDay, calculatorDefaultsFromMid } from "@/lib/travel-budgets";
 import {
   buildMetadata,
   breadcrumbJsonLd,
@@ -147,6 +148,14 @@ export default async function CountryPage({
     : countries.filter((c) => c.slug !== country.slug).slice(0, 4);
 
   const timezone = resolveCountryTimezone(country.slug, country.timezone);
+  const parsedBudget = parseBudgetPerDay(country.budgetPerDay);
+  const budgetDefaults = parsedBudget
+    ? calculatorDefaultsFromMid(parsedBudget)
+    : calculatorDefaultsForCountry({
+        slug: country.slug,
+        continent: country.continent,
+        region: country.region,
+      });
   const facts = [
     { icon: MapPin, label: "Capital", value: country.capital },
     { icon: Users, label: "Population", value: formatNumber(country.population) },
@@ -405,7 +414,11 @@ export default async function CountryPage({
               title={`Travel cost for ${country.name}`}
             />
             <div className="mt-8">
-              <BudgetCalculator />
+              <BudgetCalculator
+                destinationLabel={country.name}
+                defaults={budgetDefaults}
+                sourceNote={`Defaults match ${country.name}'s mid-range daily budget (${country.budgetPerDay} per person on the ground). Flights are a separate estimate and vary by origin.`}
+              />
             </div>
           </div>
 

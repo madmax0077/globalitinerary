@@ -6,6 +6,8 @@ import { cityPicks } from "@/data/city-picks";
 import { citySights } from "@/data/city-sights";
 import { cityEnrichments } from "@/data/city-enrichments";
 import { cityGuideDepth } from "@/data/city-guide-depth";
+import { tripCostForPlace } from "@/lib/travel-budgets";
+import { countries } from "@/data/countries";
 
 function hasWikimediaPhoto(city: City): boolean {
   const urls = [city.heroImage, city.thumbnail, ...(city.gallery || [])];
@@ -66,6 +68,27 @@ function applyCitySights(city: City): City {
     ...city,
     thingsToDo: sights,
     itinerary: handWritten ? city.itinerary! : itineraryFromSights(sights),
+  };
+}
+
+const countryMeta = new Map(
+  countries.map((c) => [c.slug, { continent: c.continent, region: c.region }]),
+);
+
+/** Fill missing tripCost from real country/city budget bands (never invent a flat default). */
+function applyTripCost(city: City): City {
+  if (city.tripCost?.budget && city.tripCost?.mid) return city;
+  const meta = countryMeta.get(city.countrySlug);
+  return {
+    ...city,
+    tripCost: tripCostForPlace({
+      slug: city.slug,
+      name: city.name,
+      countrySlug: city.countrySlug,
+      countryName: city.countryName,
+      continent: meta?.continent,
+      region: meta?.region,
+    }),
   };
 }
 
@@ -482,6 +505,7 @@ export const cities: City[] = [
   .map(applyCityPicks)
   .map(applyCitySights)
   .map(applyCityEnrichment)
+  .map(applyTripCost)
   .map((c) => sanitizeCityImages(c))
   .sort((a, b) => a.name.localeCompare(b.name));
 

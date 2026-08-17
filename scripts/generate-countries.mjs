@@ -5,12 +5,13 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { isScenic } from "./lib/bad-image.mjs";
 import { poolFor, hash } from "./lib/stock-pools.mjs";
-const countryTimezones = JSON.parse(
-  fs.readFileSync(path.join(__dirname, "country-timezones.json"), "utf8"),
-);
+import { budgetPerDayForCountry } from "./lib/travel-budgets.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.join(__dirname, "..");
+const countryTimezones = JSON.parse(
+  fs.readFileSync(path.join(__dirname, "country-timezones.json"), "utf8"),
+);
 
 const mledoze = JSON.parse(fs.readFileSync(path.join(__dirname, "mledoze.json"), "utf8"));
 const populations = JSON.parse(fs.readFileSync(path.join(__dirname, "population.json"), "utf8"));
@@ -178,7 +179,7 @@ for (const c of mledoze) {
     internet: "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     transportation: "A mix of flights, trains, buses and taxis connect the main destinations.",
     safety: "Exercise normal precautions and check the latest local travel advice.",
-    budgetPerDay: "$60–200",
+    budgetPerDay: budgetPerDayForCountry({ slug, continent, region: subregion }),
     tagline: `Discover the wonders of ${name}`,
     heroKey: hero,
     galleryKeys: gallery,

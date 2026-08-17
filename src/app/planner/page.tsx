@@ -13,6 +13,7 @@ import { DistanceCalculator, type DistanceCity } from "@/components/tools/distan
 import { countries } from "@/data/countries";
 import { cities } from "@/data/cities";
 import { buildMetadata } from "@/lib/seo";
+import { calculatorDefaultsForCountry } from "@/lib/travel-budgets";
 
 export const metadata = buildMetadata({
   title: "Plan Your Trip",
@@ -94,7 +95,11 @@ export default function PlannerPage() {
         <div className="mt-16">
           <SectionHeading eyebrow="Trip tools" title="Plan the practical details" />
           <div className="mt-8 grid gap-6 lg:grid-cols-3">
-            <BudgetCalculator />
+            <BudgetCalculator
+              destinationLabel="a typical mid-range trip"
+              defaults={calculatorDefaultsForCountry({ slug: "portugal", continent: "Europe", region: "Southern Europe" })}
+              sourceNote="Starts from a mid-range Southern Europe baseline — open any country or city page for that place’s real budget defaults."
+            />
             <PreTripChecklist />
             <PackingChecklist />
           </div>

@@ -40,7 +40,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$25–80",
     "tagline": "Discover the wonders of Afghanistan",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -104,7 +104,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$40–95",
     "tagline": "Discover the wonders of Albania",
     "heroKey": "temple",
     "galleryKeys": [
@@ -168,7 +168,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–100",
     "tagline": "Discover the wonders of Algeria",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -230,7 +230,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$100–200",
     "tagline": "Discover the wonders of Andorra",
     "heroKey": "cityNight",
     "galleryKeys": [
@@ -294,7 +294,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$40–100",
     "tagline": "Discover the wonders of Angola",
     "heroKey": "temple",
     "galleryKeys": [
@@ -358,7 +358,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$90–220",
     "tagline": "Discover the wonders of Antigua and Barbuda",
     "heroKey": "beach",
     "galleryKeys": [
@@ -421,7 +421,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$40–110",
     "tagline": "Discover the wonders of Argentina",
     "heroKey": "beach",
     "galleryKeys": [
@@ -483,7 +483,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–90",
     "tagline": "Discover the wonders of Armenia",
     "heroKey": "coast",
     "galleryKeys": [
@@ -547,7 +547,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$120–260",
     "tagline": "Discover the wonders of Australia",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -611,7 +611,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$110–230",
     "tagline": "Discover the wonders of Austria",
     "heroKey": "coast",
     "galleryKeys": [
@@ -676,7 +676,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$40–100",
     "tagline": "Discover the wonders of Azerbaijan",
     "heroKey": "food",
     "galleryKeys": [
@@ -739,7 +739,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$140–300",
     "tagline": "Discover the wonders of Bahamas",
     "heroKey": "coast",
     "galleryKeys": [
@@ -802,7 +802,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$90–200",
     "tagline": "Discover the wonders of Bahrain",
     "heroKey": "beach",
     "galleryKeys": [
@@ -864,7 +864,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$20–60",
     "tagline": "Discover the wonders of Bangladesh",
     "heroKey": "food",
     "galleryKeys": [
@@ -927,7 +927,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$120–260",
     "tagline": "Discover the wonders of Barbados",
     "heroKey": "beach",
     "galleryKeys": [
@@ -992,7 +992,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$40–95",
     "tagline": "Discover the wonders of Belarus",
     "heroKey": "beach",
     "galleryKeys": [
@@ -1057,7 +1057,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$110–230",
     "tagline": "Discover the wonders of Belgium",
     "heroKey": "temple",
     "galleryKeys": [
@@ -1122,7 +1122,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$55–140",
     "tagline": "Discover the wonders of Belize",
     "heroKey": "coast",
     "galleryKeys": [
@@ -1184,7 +1184,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–95",
     "tagline": "Discover the wonders of Benin",
     "heroKey": "temple",
     "galleryKeys": [
@@ -1247,7 +1247,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$80–200",
     "tagline": "Discover the wonders of Bhutan",
     "heroKey": "temple",
     "galleryKeys": [
@@ -1314,7 +1314,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$30–80",
     "tagline": "Discover the wonders of Bolivia",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -1379,7 +1379,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$40–95",
     "tagline": "Discover the wonders of Bosnia and Herzegovina",
     "heroKey": "cityNight",
     "galleryKeys": [
@@ -1443,7 +1443,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$55–140",
     "tagline": "Discover the wonders of Botswana",
     "heroKey": "coast",
     "galleryKeys": [
@@ -1506,7 +1506,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$45–120",
     "tagline": "Discover the wonders of Brazil",
     "heroKey": "temple",
     "galleryKeys": [
@@ -1569,7 +1569,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$30–95",
     "tagline": "Discover the wonders of Brunei",
     "heroKey": "coast",
     "galleryKeys": [
@@ -1632,7 +1632,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$40–100",
     "tagline": "Discover the wonders of Bulgaria",
     "heroKey": "alps",
     "galleryKeys": [
@@ -1693,7 +1693,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–95",
     "tagline": "Discover the wonders of Burkina Faso",
     "heroKey": "sahara",
     "galleryKeys": [
@@ -1756,7 +1756,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–110",
     "tagline": "Discover the wonders of Burundi",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -1820,7 +1820,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$25–80",
     "tagline": "Discover the wonders of Cambodia",
     "heroKey": "beach",
     "galleryKeys": [
@@ -1883,7 +1883,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$40–100",
     "tagline": "Discover the wonders of Cameroon",
     "heroKey": "beach",
     "galleryKeys": [
@@ -1948,7 +1948,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$110–240",
     "tagline": "Discover the wonders of Canada",
     "heroKey": "beach",
     "galleryKeys": [
@@ -2011,7 +2011,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–95",
     "tagline": "Discover the wonders of Cape Verde",
     "heroKey": "sahara",
     "galleryKeys": [
@@ -2074,7 +2074,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$40–100",
     "tagline": "Discover the wonders of Central African Republic",
     "heroKey": "coast",
     "galleryKeys": [
@@ -2135,7 +2135,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$40–100",
     "tagline": "Discover the wonders of Chad",
     "heroKey": "temple",
     "galleryKeys": [
@@ -2198,7 +2198,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$55–140",
     "tagline": "Discover the wonders of Chile",
     "heroKey": "coast",
     "galleryKeys": [
@@ -2260,7 +2260,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$50–130",
     "tagline": "Discover the wonders of China",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -2324,7 +2324,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–100",
     "tagline": "Discover the wonders of Colombia",
     "heroKey": "coast",
     "galleryKeys": [
@@ -2387,7 +2387,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–110",
     "tagline": "Discover the wonders of Comoros",
     "heroKey": "sahara",
     "galleryKeys": [
@@ -2452,7 +2452,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$40–100",
     "tagline": "Discover the wonders of Congo",
     "heroKey": "beach",
     "galleryKeys": [
@@ -2513,7 +2513,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$60–150",
     "tagline": "Discover the wonders of Costa Rica",
     "heroKey": "food",
     "galleryKeys": [
@@ -2576,7 +2576,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$70–160",
     "tagline": "Discover the wonders of Croatia",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -2638,7 +2638,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$50–130",
     "tagline": "Discover the wonders of Cuba",
     "heroKey": "food",
     "galleryKeys": [
@@ -2702,7 +2702,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$75–160",
     "tagline": "Discover the wonders of Cyprus",
     "heroKey": "coast",
     "galleryKeys": [
@@ -2766,7 +2766,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$60–140",
     "tagline": "Discover the wonders of Czechia",
     "heroKey": "temple",
     "galleryKeys": [
@@ -2828,7 +2828,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$140–280",
     "tagline": "Discover the wonders of Denmark",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -2893,7 +2893,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–110",
     "tagline": "Discover the wonders of Djibouti",
     "heroKey": "sahara",
     "galleryKeys": [
@@ -2957,7 +2957,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$90–220",
     "tagline": "Discover the wonders of Dominica",
     "heroKey": "cityNight",
     "galleryKeys": [
@@ -3020,7 +3020,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$50–130",
     "tagline": "Discover the wonders of Dominican Republic",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -3086,7 +3086,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$40–100",
     "tagline": "Discover the wonders of DR Congo",
     "heroKey": "coast",
     "galleryKeys": [
@@ -3150,7 +3150,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–95",
     "tagline": "Discover the wonders of Ecuador",
     "heroKey": "coast",
     "galleryKeys": [
@@ -3209,7 +3209,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$30–90",
     "tagline": "Discover the wonders of Egypt",
     "heroKey": "desertCamp",
     "galleryKeys": [
@@ -3273,7 +3273,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–90",
     "tagline": "Discover the wonders of El Salvador",
     "heroKey": "cityNight",
     "galleryKeys": [
@@ -3339,7 +3339,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$40–100",
     "tagline": "Discover the wonders of Equatorial Guinea",
     "heroKey": "coast",
     "galleryKeys": [
@@ -3405,7 +3405,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–110",
     "tagline": "Discover the wonders of Eritrea",
     "heroKey": "sahara",
     "galleryKeys": [
@@ -3467,7 +3467,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$65–140",
     "tagline": "Discover the wonders of Estonia",
     "heroKey": "alps",
     "galleryKeys": [
@@ -3531,7 +3531,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$45–120",
     "tagline": "Discover the wonders of Eswatini",
     "heroKey": "beach",
     "galleryKeys": [
@@ -3595,7 +3595,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$25–80",
     "tagline": "Discover the wonders of Ethiopia",
     "heroKey": "desertCamp",
     "galleryKeys": [
@@ -3660,7 +3660,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$80–180",
     "tagline": "Discover the wonders of Fiji",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -3724,7 +3724,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$120–240",
     "tagline": "Discover the wonders of Finland",
     "heroKey": "temple",
     "galleryKeys": [
@@ -3785,7 +3785,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$110–240",
     "tagline": "Discover the wonders of France",
     "heroKey": "cityNight",
     "galleryKeys": [
@@ -3849,7 +3849,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$40–100",
     "tagline": "Discover the wonders of Gabon",
     "heroKey": "coast",
     "galleryKeys": [
@@ -3912,7 +3912,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–95",
     "tagline": "Discover the wonders of Gambia",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -3974,7 +3974,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$40–100",
     "tagline": "Discover the wonders of Georgia",
     "heroKey": "beach",
     "galleryKeys": [
@@ -4036,7 +4036,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$100–220",
     "tagline": "Discover the wonders of Germany",
     "heroKey": "cityNight",
     "galleryKeys": [
@@ -4100,7 +4100,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–95",
     "tagline": "Discover the wonders of Ghana",
     "heroKey": "desertCamp",
     "galleryKeys": [
@@ -4161,7 +4161,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$70–160",
     "tagline": "Discover the wonders of Greece",
     "heroKey": "beach",
     "galleryKeys": [
@@ -4223,7 +4223,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$90–220",
     "tagline": "Discover the wonders of Grenada",
     "heroKey": "cityNight",
     "galleryKeys": [
@@ -4286,7 +4286,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–90",
     "tagline": "Discover the wonders of Guatemala",
     "heroKey": "cityNight",
     "galleryKeys": [
@@ -4347,7 +4347,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–95",
     "tagline": "Discover the wonders of Guinea",
     "heroKey": "desertCamp",
     "galleryKeys": [
@@ -4412,7 +4412,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–95",
     "tagline": "Discover the wonders of Guinea-Bissau",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -4475,7 +4475,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$40–110",
     "tagline": "Discover the wonders of Guyana",
     "heroKey": "beach",
     "galleryKeys": [
@@ -4539,7 +4539,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$90–220",
     "tagline": "Discover the wonders of Haiti",
     "heroKey": "cityNight",
     "galleryKeys": [
@@ -4600,7 +4600,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–90",
     "tagline": "Discover the wonders of Honduras",
     "heroKey": "cityNight",
     "galleryKeys": [
@@ -4662,7 +4662,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$55–130",
     "tagline": "Discover the wonders of Hungary",
     "heroKey": "food",
     "galleryKeys": [
@@ -4724,7 +4724,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$170–340",
     "tagline": "Discover the wonders of Iceland",
     "heroKey": "coast",
     "galleryKeys": [
@@ -4790,7 +4790,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$25–80",
     "tagline": "Discover the wonders of India",
     "heroKey": "coast",
     "galleryKeys": [
@@ -4854,7 +4854,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$30–95",
     "tagline": "Discover the wonders of Indonesia",
     "heroKey": "food",
     "galleryKeys": [
@@ -4918,7 +4918,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$30–85",
     "tagline": "Discover the wonders of Iran",
     "heroKey": "lantern",
     "galleryKeys": [
@@ -4984,7 +4984,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$55–150",
     "tagline": "Discover the wonders of Iraq",
     "heroKey": "cityNight",
     "galleryKeys": [
@@ -5047,7 +5047,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$120–250",
     "tagline": "Discover the wonders of Ireland",
     "heroKey": "coast",
     "galleryKeys": [
@@ -5111,7 +5111,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$110–230",
     "tagline": "Discover the wonders of Israel",
     "heroKey": "beach",
     "galleryKeys": [
@@ -5174,7 +5174,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$100–220",
     "tagline": "Discover the wonders of Italy",
     "heroKey": "cityNight",
     "galleryKeys": [
@@ -5238,7 +5238,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–95",
     "tagline": "Discover the wonders of Ivory Coast",
     "heroKey": "beach",
     "galleryKeys": [
@@ -5301,7 +5301,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$60–150",
     "tagline": "Discover the wonders of Jamaica",
     "heroKey": "beach",
     "galleryKeys": [
@@ -5365,7 +5365,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$100–220",
     "tagline": "Discover the wonders of Japan",
     "heroKey": "cityNight",
     "galleryKeys": [
@@ -5429,7 +5429,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$55–140",
     "tagline": "Discover the wonders of Jordan",
     "heroKey": "temple",
     "galleryKeys": [
@@ -5493,7 +5493,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–95",
     "tagline": "Discover the wonders of Kazakhstan",
     "heroKey": "lantern",
     "galleryKeys": [
@@ -5558,7 +5558,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$40–120",
     "tagline": "Discover the wonders of Kenya",
     "heroKey": "beach",
     "galleryKeys": [
@@ -5623,7 +5623,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$90–210",
     "tagline": "Discover the wonders of Kiribati",
     "heroKey": "coast",
     "galleryKeys": [
@@ -5685,7 +5685,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$100–220",
     "tagline": "Discover the wonders of Kuwait",
     "heroKey": "beach",
     "galleryKeys": [
@@ -5750,7 +5750,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–95",
     "tagline": "Discover the wonders of Kyrgyzstan",
     "heroKey": "lantern",
     "galleryKeys": [
@@ -5813,7 +5813,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$25–75",
     "tagline": "Discover the wonders of Laos",
     "heroKey": "temple",
     "galleryKeys": [
@@ -5875,7 +5875,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$55–120",
     "tagline": "Discover the wonders of Latvia",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -5940,7 +5940,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$50–140",
     "tagline": "Discover the wonders of Lebanon",
     "heroKey": "coast",
     "galleryKeys": [
@@ -6003,7 +6003,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$45–120",
     "tagline": "Discover the wonders of Lesotho",
     "heroKey": "temple",
     "galleryKeys": [
@@ -6067,7 +6067,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–95",
     "tagline": "Discover the wonders of Liberia",
     "heroKey": "beach",
     "galleryKeys": [
@@ -6131,7 +6131,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–100",
     "tagline": "Discover the wonders of Libya",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -6194,7 +6194,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$160–320",
     "tagline": "Discover the wonders of Liechtenstein",
     "heroKey": "food",
     "galleryKeys": [
@@ -6258,7 +6258,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$55–120",
     "tagline": "Discover the wonders of Lithuania",
     "heroKey": "food",
     "galleryKeys": [
@@ -6324,7 +6324,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$140–280",
     "tagline": "Discover the wonders of Luxembourg",
     "heroKey": "coast",
     "galleryKeys": [
@@ -6389,7 +6389,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$30–85",
     "tagline": "Discover the wonders of Madagascar",
     "heroKey": "sahara",
     "galleryKeys": [
@@ -6454,7 +6454,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–110",
     "tagline": "Discover the wonders of Malawi",
     "heroKey": "coast",
     "galleryKeys": [
@@ -6517,7 +6517,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–100",
     "tagline": "Discover the wonders of Malaysia",
     "heroKey": "lantern",
     "galleryKeys": [
@@ -6580,7 +6580,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$150–400",
     "tagline": "Discover the wonders of Maldives",
     "heroKey": "temple",
     "galleryKeys": [
@@ -6643,7 +6643,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–95",
     "tagline": "Discover the wonders of Mali",
     "heroKey": "coast",
     "galleryKeys": [
@@ -6708,7 +6708,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$80–170",
     "tagline": "Discover the wonders of Malta",
     "heroKey": "temple",
     "galleryKeys": [
@@ -6771,7 +6771,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$90–210",
     "tagline": "Discover the wonders of Marshall Islands",
     "heroKey": "beach",
     "galleryKeys": [
@@ -6834,7 +6834,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–95",
     "tagline": "Discover the wonders of Mauritania",
     "heroKey": "coast",
     "galleryKeys": [
@@ -6898,7 +6898,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$80–180",
     "tagline": "Discover the wonders of Mauritius",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -6961,7 +6961,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$45–120",
     "tagline": "Discover the wonders of Mexico",
     "heroKey": "beach",
     "galleryKeys": [
@@ -7024,7 +7024,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$90–210",
     "tagline": "Discover the wonders of Micronesia",
     "heroKey": "cityNight",
     "galleryKeys": [
@@ -7088,7 +7088,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–85",
     "tagline": "Discover the wonders of Moldova",
     "heroKey": "coast",
     "galleryKeys": [
@@ -7150,7 +7150,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$250–500",
     "tagline": "Discover the wonders of Monaco",
     "heroKey": "food",
     "galleryKeys": [
@@ -7214,7 +7214,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$70–170",
     "tagline": "Discover the wonders of Mongolia",
     "heroKey": "food",
     "galleryKeys": [
@@ -7278,7 +7278,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$50–120",
     "tagline": "Discover the wonders of Montenegro",
     "heroKey": "temple",
     "galleryKeys": [
@@ -7342,7 +7342,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–100",
     "tagline": "Discover the wonders of Morocco",
     "heroKey": "sahara",
     "galleryKeys": [
@@ -7405,7 +7405,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–110",
     "tagline": "Discover the wonders of Mozambique",
     "heroKey": "sahara",
     "galleryKeys": [
@@ -7467,7 +7467,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$25–70",
     "tagline": "Discover the wonders of Myanmar",
     "heroKey": "cityNight",
     "galleryKeys": [
@@ -7539,7 +7539,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$50–130",
     "tagline": "Discover the wonders of Namibia",
     "heroKey": "desertCamp",
     "galleryKeys": [
@@ -7603,7 +7603,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$90–210",
     "tagline": "Discover the wonders of Nauru",
     "heroKey": "beach",
     "galleryKeys": [
@@ -7667,7 +7667,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$20–60",
     "tagline": "Discover the wonders of Nepal",
     "heroKey": "food",
     "galleryKeys": [
@@ -7729,7 +7729,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$120–250",
     "tagline": "Discover the wonders of Netherlands",
     "heroKey": "cityNight",
     "galleryKeys": [
@@ -7795,7 +7795,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$110–240",
     "tagline": "Discover the wonders of New Zealand",
     "heroKey": "coast",
     "galleryKeys": [
@@ -7857,7 +7857,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$30–85",
     "tagline": "Discover the wonders of Nicaragua",
     "heroKey": "cityNight",
     "galleryKeys": [
@@ -7920,7 +7920,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–95",
     "tagline": "Discover the wonders of Niger",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -7983,7 +7983,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–95",
     "tagline": "Discover the wonders of Nigeria",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -8046,7 +8046,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$70–170",
     "tagline": "Discover the wonders of North Korea",
     "heroKey": "coast",
     "galleryKeys": [
@@ -8109,7 +8109,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–90",
     "tagline": "Discover the wonders of North Macedonia",
     "heroKey": "coast",
     "galleryKeys": [
@@ -8174,7 +8174,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$160–320",
     "tagline": "Discover the wonders of Norway",
     "heroKey": "alps",
     "galleryKeys": [
@@ -8238,7 +8238,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$80–180",
     "tagline": "Discover the wonders of Oman",
     "heroKey": "lantern",
     "galleryKeys": [
@@ -8303,7 +8303,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$25–70",
     "tagline": "Discover the wonders of Pakistan",
     "heroKey": "beach",
     "galleryKeys": [
@@ -8368,7 +8368,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$120–260",
     "tagline": "Discover the wonders of Palau",
     "heroKey": "coast",
     "galleryKeys": [
@@ -8432,7 +8432,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$55–140",
     "tagline": "Discover the wonders of Panama",
     "heroKey": "beach",
     "galleryKeys": [
@@ -8498,7 +8498,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$60–150",
     "tagline": "Discover the wonders of Papua New Guinea",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -8562,7 +8562,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–90",
     "tagline": "Discover the wonders of Paraguay",
     "heroKey": "temple",
     "galleryKeys": [
@@ -8625,7 +8625,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–100",
     "tagline": "Discover the wonders of Peru",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -8688,7 +8688,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$30–90",
     "tagline": "Discover the wonders of Philippines",
     "heroKey": "coast",
     "galleryKeys": [
@@ -8750,7 +8750,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$55–130",
     "tagline": "Discover the wonders of Poland",
     "heroKey": "temple",
     "galleryKeys": [
@@ -8814,7 +8814,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$70–160",
     "tagline": "Discover the wonders of Portugal",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -8878,7 +8878,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$110–250",
     "tagline": "Discover the wonders of Qatar",
     "heroKey": "temple",
     "galleryKeys": [
@@ -8940,7 +8940,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$45–110",
     "tagline": "Discover the wonders of Romania",
     "heroKey": "coast",
     "galleryKeys": [
@@ -9003,7 +9003,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$50–130",
     "tagline": "Discover the wonders of Russia",
     "heroKey": "food",
     "galleryKeys": [
@@ -9069,7 +9069,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$40–110",
     "tagline": "Discover the wonders of Rwanda",
     "heroKey": "desertCamp",
     "galleryKeys": [
@@ -9133,7 +9133,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$90–220",
     "tagline": "Discover the wonders of Saint Kitts and Nevis",
     "heroKey": "cityNight",
     "galleryKeys": [
@@ -9197,7 +9197,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$90–220",
     "tagline": "Discover the wonders of Saint Lucia",
     "heroKey": "cityNight",
     "galleryKeys": [
@@ -9260,7 +9260,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$90–220",
     "tagline": "Discover the wonders of Saint Vincent and the Grenadines",
     "heroKey": "food",
     "galleryKeys": [
@@ -9325,7 +9325,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$70–160",
     "tagline": "Discover the wonders of Samoa",
     "heroKey": "food",
     "galleryKeys": [
@@ -9389,7 +9389,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$100–200",
     "tagline": "Discover the wonders of San Marino",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -9452,7 +9452,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$40–100",
     "tagline": "Discover the wonders of São Tomé and Príncipe",
     "heroKey": "sahara",
     "galleryKeys": [
@@ -9515,7 +9515,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$80–180",
     "tagline": "Discover the wonders of Saudi Arabia",
     "heroKey": "beach",
     "galleryKeys": [
@@ -9578,7 +9578,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$40–100",
     "tagline": "Discover the wonders of Senegal",
     "heroKey": "coast",
     "galleryKeys": [
@@ -9639,7 +9639,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$40–100",
     "tagline": "Discover the wonders of Serbia",
     "heroKey": "cityNight",
     "galleryKeys": [
@@ -9704,7 +9704,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$150–350",
     "tagline": "Discover the wonders of Seychelles",
     "heroKey": "desertCamp",
     "galleryKeys": [
@@ -9765,7 +9765,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–95",
     "tagline": "Discover the wonders of Sierra Leone",
     "heroKey": "temple",
     "galleryKeys": [
@@ -9832,7 +9832,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$100–220",
     "tagline": "Discover the wonders of Singapore",
     "heroKey": "temple",
     "galleryKeys": [
@@ -9896,7 +9896,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$55–120",
     "tagline": "Discover the wonders of Slovakia",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -9960,7 +9960,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$70–150",
     "tagline": "Discover the wonders of Slovenia",
     "heroKey": "cityNight",
     "galleryKeys": [
@@ -10024,7 +10024,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$70–170",
     "tagline": "Discover the wonders of Solomon Islands",
     "heroKey": "beach",
     "galleryKeys": [
@@ -10088,7 +10088,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–110",
     "tagline": "Discover the wonders of Somalia",
     "heroKey": "sahara",
     "galleryKeys": [
@@ -10161,7 +10161,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$45–120",
     "tagline": "Discover the wonders of South Africa",
     "heroKey": "temple",
     "galleryKeys": [
@@ -10225,7 +10225,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$80–180",
     "tagline": "Discover the wonders of South Korea",
     "heroKey": "temple",
     "galleryKeys": [
@@ -10288,7 +10288,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$40–100",
     "tagline": "Discover the wonders of South Sudan",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -10352,7 +10352,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$80–180",
     "tagline": "Discover the wonders of Spain",
     "heroKey": "beach",
     "galleryKeys": [
@@ -10417,7 +10417,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$25–80",
     "tagline": "Discover the wonders of Sri Lanka",
     "heroKey": "temple",
     "galleryKeys": [
@@ -10481,7 +10481,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–100",
     "tagline": "Discover the wonders of Sudan",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -10544,7 +10544,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$40–110",
     "tagline": "Discover the wonders of Suriname",
     "heroKey": "coast",
     "galleryKeys": [
@@ -10604,7 +10604,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$130–260",
     "tagline": "Discover the wonders of Sweden",
     "heroKey": "beach",
     "galleryKeys": [
@@ -10670,7 +10670,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$180–350",
     "tagline": "Discover the wonders of Switzerland",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -10734,7 +10734,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$55–150",
     "tagline": "Discover the wonders of Syria",
     "heroKey": "food",
     "galleryKeys": [
@@ -10799,7 +10799,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–95",
     "tagline": "Discover the wonders of Tajikistan",
     "heroKey": "temple",
     "galleryKeys": [
@@ -10864,7 +10864,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$40–120",
     "tagline": "Discover the wonders of Tanzania",
     "heroKey": "temple",
     "galleryKeys": [
@@ -10927,7 +10927,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–100",
     "tagline": "Discover the wonders of Thailand",
     "heroKey": "cityNight",
     "galleryKeys": [
@@ -10990,7 +10990,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$30–95",
     "tagline": "Discover the wonders of Timor-Leste",
     "heroKey": "beach",
     "galleryKeys": [
@@ -11054,7 +11054,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–95",
     "tagline": "Discover the wonders of Togo",
     "heroKey": "coast",
     "galleryKeys": [
@@ -11118,7 +11118,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$70–160",
     "tagline": "Discover the wonders of Tonga",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -11181,7 +11181,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$90–220",
     "tagline": "Discover the wonders of Trinidad and Tobago",
     "heroKey": "beach",
     "galleryKeys": [
@@ -11244,7 +11244,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–95",
     "tagline": "Discover the wonders of Tunisia",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -11306,7 +11306,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$45–110",
     "tagline": "Discover the wonders of Türkiye",
     "heroKey": "coast",
     "galleryKeys": [
@@ -11371,7 +11371,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–95",
     "tagline": "Discover the wonders of Turkmenistan",
     "heroKey": "lantern",
     "galleryKeys": [
@@ -11434,7 +11434,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$120–280",
     "tagline": "Discover the wonders of Tuvalu",
     "heroKey": "beach",
     "galleryKeys": [
@@ -11498,7 +11498,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$30–90",
     "tagline": "Discover the wonders of Uganda",
     "heroKey": "sahara",
     "galleryKeys": [
@@ -11562,7 +11562,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–90",
     "tagline": "Discover the wonders of Ukraine",
     "heroKey": "temple",
     "galleryKeys": [
@@ -11626,7 +11626,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$120–280",
     "tagline": "Discover the wonders of United Arab Emirates",
     "heroKey": "temple",
     "galleryKeys": [
@@ -11689,7 +11689,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$120–260",
     "tagline": "Discover the wonders of United Kingdom",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -11753,7 +11753,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$120–280",
     "tagline": "Discover the wonders of United States",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -11816,7 +11816,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$55–140",
     "tagline": "Discover the wonders of Uruguay",
     "heroKey": "temple",
     "galleryKeys": [
@@ -11880,7 +11880,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–95",
     "tagline": "Discover the wonders of Uzbekistan",
     "heroKey": "beach",
     "galleryKeys": [
@@ -11946,7 +11946,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$90–200",
     "tagline": "Discover the wonders of Vanuatu",
     "heroKey": "food",
     "galleryKeys": [
@@ -12011,7 +12011,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$75–170",
     "tagline": "Discover the wonders of Vatican City",
     "heroKey": "coast",
     "galleryKeys": [
@@ -12073,7 +12073,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$30–80",
     "tagline": "Discover the wonders of Venezuela",
     "heroKey": "food",
     "galleryKeys": [
@@ -12135,7 +12135,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$30–90",
     "tagline": "Discover the wonders of Vietnam",
     "heroKey": "mountains",
     "galleryKeys": [
@@ -12199,7 +12199,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$55–150",
     "tagline": "Discover the wonders of Yemen",
     "heroKey": "beach",
     "galleryKeys": [
@@ -12263,7 +12263,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–110",
     "tagline": "Discover the wonders of Zambia",
     "heroKey": "sahara",
     "galleryKeys": [
@@ -12340,7 +12340,7 @@ const raw: Gen[] = [
     "internet": "Mobile data and Wi-Fi are widely available in cities and tourist areas.",
     "transportation": "A mix of flights, trains, buses and taxis connect the main destinations.",
     "safety": "Exercise normal precautions and check the latest local travel advice.",
-    "budgetPerDay": "$60–200",
+    "budgetPerDay": "$35–110",
     "tagline": "Discover the wonders of Zimbabwe",
     "heroKey": "mountains",
     "galleryKeys": [
