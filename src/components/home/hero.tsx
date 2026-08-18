@@ -16,8 +16,8 @@ const trending = [
 ];
 
 const stats = [
-  { value: "194", label: "Countries" },
-  { value: "1,000+", label: "Cities" },
+  { value: "195", label: "Countries" },
+  { value: "1,700+", label: "City guides" },
   { value: "6", label: "Continents" },
   { value: "Free", label: "To explore" },
 ];
@@ -60,11 +60,11 @@ export function Hero() {
             transition={{ duration: 0.7, delay: 0.08, ease }}
             className="font-display text-5xl font-extrabold leading-[1.05] tracking-tight text-white sm:text-6xl md:text-7xl"
           >
-            Explore every corner
+            Travel guides & itineraries
             <br />
-            of our{" "}
+            for every{" "}
             <span className="bg-[linear-gradient(100deg,#7dd3fc,#34d399)] bg-clip-text text-transparent">
-              beautiful planet
+              destination
             </span>
           </motion.h1>
 
@@ -74,9 +74,9 @@ export function Hero() {
             transition={{ duration: 0.7, delay: 0.16, ease }}
             className="mt-6 max-w-xl text-lg leading-relaxed text-white/85"
           >
-            Curated guides to every country, city, island and landmark on earth —
-            with stunning photography, insider tips and itineraries crafted for the
-            modern explorer.
+            Plan trips with country and city guides — best time to visit, things to do,
+            budgets, visas and day-by-day itineraries for travellers who want clarity,
+            not fluff.
           </motion.p>
 
           {/* Search */}

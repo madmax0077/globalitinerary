@@ -6,6 +6,7 @@ import { cityPicks } from "@/data/city-picks";
 import { citySights } from "@/data/city-sights";
 import { cityEnrichments } from "@/data/city-enrichments";
 import { cityGuideDepth } from "@/data/city-guide-depth";
+import { cityCategories } from "@/data/city-categories";
 import { tripCostForPlace } from "@/lib/travel-budgets";
 import { countries } from "@/data/countries";
 import {
@@ -114,6 +115,18 @@ function applyHonesty(city: City): City {
 const countryMeta = new Map(
   countries.map((c) => [c.slug, { continent: c.continent, region: c.region }]),
 );
+
+/** Attach continent/region from country + curated travel categories. */
+function applyCityTaxonomy(city: City): City {
+  const meta = countryMeta.get(city.countrySlug);
+  const curated = cityCategories[city.slug];
+  return {
+    ...city,
+    continent: meta?.continent ?? city.continent,
+    region: meta?.region ?? city.region,
+    categories: curated?.length ? curated : city.categories,
+  };
+}
 
 /** Fill missing tripCost from real country/city budget bands (never invent a flat default). */
 function applyTripCost(city: City): City {
@@ -547,6 +560,7 @@ export const cities: City[] = [
   .map(applyCityEnrichment)
   .map(applyTripCost)
   .map(applyHonesty)
+  .map(applyCityTaxonomy)
   .map((c) => sanitizeCityImages(c))
   .sort((a, b) => a.name.localeCompare(b.name));
 

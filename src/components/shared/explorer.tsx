@@ -16,10 +16,12 @@ export function Explorer({
   items,
   filters,
   aspect = "portrait",
+  filterHint,
 }: {
   items: ExplorerItem[];
   filters: string[];
   aspect?: "portrait" | "landscape" | "square";
+  filterHint?: string;
 }) {
   const [active, setActive] = React.useState("All");
   const [query, setQuery] = React.useState("");
@@ -31,7 +33,9 @@ export function Explorer({
     const matchesQuery =
       !q ||
       i.title.toLowerCase().includes(q) ||
-      (i.location ?? "").toLowerCase().includes(q);
+      (i.location ?? "").toLowerCase().includes(q) ||
+      (i.badge ?? "").toLowerCase().includes(q) ||
+      i.filters.some((f) => f.toLowerCase().includes(q));
     return matchesFilter && matchesQuery;
   });
 
@@ -49,9 +53,12 @@ export function Explorer({
           type="search"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
-          placeholder="Search by name or country…"
+          placeholder="Search by name, country or category…"
           className="w-full rounded-full border border-border bg-card px-5 py-3 text-sm outline-none transition-colors focus:border-primary sm:max-w-sm"
         />
+        {filterHint ? (
+          <p className="text-xs text-muted-foreground">{filterHint}</p>
+        ) : null}
         <div className="no-scrollbar -mx-1 flex gap-2 overflow-x-auto px-1 pb-2">
           {["All", ...filters].map((f) => (
             <button

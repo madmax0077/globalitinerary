@@ -1,5 +1,7 @@
 /** Detect invented/template destination copy so we never show it as facts. */
 
+import type { City } from "@/lib/types";
+
 const TEMPLATE_SIGHT_RE =
   /historic center \/ Old Town|main square and landmark viewpoints|cathedral \/ historic church|temple \/ shrine circuit|historic mosque \/ medina walk|central market or bazaar|regional museum in |Scenic park, waterfront or hillside walk in |Signature day trip from |Sunset viewpoint overlooking /i;
 
@@ -40,4 +42,35 @@ export function honestCityOverview(overview: string | undefined, name: string, c
     return `Travel guide for ${name}, ${countryName} — practical tips, places to visit, and planning help.`;
   }
   return overview;
+}
+
+/**
+ * Whether a city page is strong enough to index in Google.
+ * Thin/generated stubs stay crawlable for users but should not compete
+ * for rankings or dilute the sitemap.
+ */
+export function isCityIndexable(
+  city: Pick<
+    City,
+    "featured" | "categories" | "thingsToDo" | "overview" | "tagline" | "countryName" | "itinerary"
+  >,
+): boolean {
+  if (city.featured) return true;
+  if (city.categories && city.categories.length > 0) return true;
+
+  const sights = city.thingsToDo?.length ?? 0;
+  const hasItinerary = (city.itinerary?.length ?? 0) > 0;
+  const overview = city.overview ?? "";
+  const thinOverview =
+    overview.length < 140 ||
+    /^Travel guide for /i.test(overview) ||
+    isGenericCityOverview(overview);
+  const thinTagline =
+    !city.tagline ||
+    city.tagline === city.countryName ||
+    isGenericCityTagline(city.tagline);
+
+  if (sights >= 3 && !thinOverview) return true;
+  if (sights >= 3 && hasItinerary && !thinTagline) return true;
+  return false;
 }

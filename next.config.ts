@@ -17,10 +17,9 @@ const nextConfig: NextConfig = {
     ],
   },
   experimental: {
-    optimizePackageImports: ["lucide-react", "framer-motion"],
+    optimizePackageImports: ["lucide-react", "framer-motion", "recharts"],
   },
-  // Production security headers. HSTS tells browsers to always use HTTPS
-  // (the SSL certificate itself is provisioned automatically by the host).
+  // Production security + caching headers.
   async headers() {
     return [
       {
@@ -36,6 +35,16 @@ const nextConfig: NextConfig = {
           {
             key: "Permissions-Policy",
             value: "camera=(), microphone=(), geolocation=(self)",
+          },
+        ],
+      },
+      {
+        // Long-cache static Next assets (hashed filenames).
+        source: "/_next/static/:path*",
+        headers: [
+          {
+            key: "Cache-Control",
+            value: "public, max-age=31536000, immutable",
           },
         ],
       },

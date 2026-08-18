@@ -10,6 +10,37 @@ const authors = {
 /** Full destination guides published under /blog — itinerary, best time, trip cost, FAQs. */
 export const destinationGuides: Article[] = [
   {
+    id: "dg-top100-2026",
+    slug: "top-100-cities-to-visit-2026",
+    title: "Top 100 Cities to Visit in 2026: A Practical Traveller’s Ranking",
+    excerpt:
+      "Our honest Top 100 cities list for 2026 — ranked from major destination-city travel data, with a one-line reason to go and a link to each city guide on Global Itinerary.",
+    cover: unsplash(PHOTOS.cityNight, 1600),
+    category: "Guides",
+    tags: ["Top 100", "Cities", "2026", "Travel Planning", "City Guides", "Best Destinations"],
+    author: authors.amelia,
+    date: "2026-08-17",
+    readingTime: 18,
+    featured: true,
+    sections: [
+      {
+        body: "Travellers keep asking which cities are worth the flight in 2026. This Global Itinerary ranking is grounded in destination-city travel patterns (aligned with widely cited city-arrival research) plus essential leisure hubs — every city links to a live guide on this site. Open the full interactive list at /blog/top-100-cities-to-visit-2026.",
+      },
+      {
+        heading: "How we ranked these cities",
+        body: "Order follows major destination-city visitor patterns, then adds places travellers deliberately plan entire trips around (Kyoto, Santorini, Queenstown, Cusco, Petra). It is an editorial planning tool, not a government statistic. Always check visas and current travel advice for your passport.",
+      },
+      {
+        heading: "The Top 10 at a glance",
+        body: "1 Bangkok · 2 Paris · 3 London · 4 Dubai · 5 Singapore · 6 New York City · 7 Kuala Lumpur · 8 Tokyo · 9 Istanbul · 10 Seoul. See the full Top 100 with regional notes and city-guide links on the complete article page.",
+      },
+      {
+        heading: "How to use this list",
+        body: "Choose one primary city, add one complementary stop in the same region, and open each city guide for budgets and itineraries. Use Compare for country-level decisions and the Trip Cost Estimator for daily spend.",
+      },
+    ],
+  },
+  {
     id: "dg-bali",
     slug: "7-day-bali-itinerary-trip-cost-2026",
     title: "7-Day Bali Itinerary & Trip Cost Guide (2026)",

@@ -47,6 +47,7 @@ export function buildMetadata({
       description,
       images: [ogImage],
       creator: siteConfig.twitter,
+      site: siteConfig.twitter,
     },
   };
 }
@@ -124,7 +125,7 @@ export function organizationJsonLd() {
     url: siteConfig.url,
     email: siteConfig.email,
     logo: `${siteConfig.url}/icon.svg`,
-    sameAs: [],
+    sameAs: siteConfig.sameAs,
     description: siteConfig.description,
   };
 }
@@ -138,6 +139,14 @@ export function websiteJsonLd() {
     description: siteConfig.description,
     inLanguage: "en",
     publisher: { "@type": "Organization", name: siteConfig.name, url: siteConfig.url },
+    potentialAction: {
+      "@type": "SearchAction",
+      target: {
+        "@type": "EntryPoint",
+        urlTemplate: `${siteConfig.url}/cities?q={search_term_string}`,
+      },
+      "query-input": "required name=search_term_string",
+    },
   };
 }
 
@@ -146,6 +155,7 @@ export function articleJsonLd(a: {
   description: string;
   image: string;
   datePublished: string;
+  dateModified?: string;
   author: string;
   url: string;
 }) {
@@ -156,6 +166,7 @@ export function articleJsonLd(a: {
     description: a.description,
     image: a.image,
     datePublished: a.datePublished,
+    dateModified: a.dateModified ?? a.datePublished,
     author: { "@type": "Person", name: a.author },
     publisher: {
       "@type": "Organization",
@@ -163,6 +174,21 @@ export function articleJsonLd(a: {
       logo: { "@type": "ImageObject", url: `${siteConfig.url}/icon.svg` },
     },
     mainEntityOfPage: a.url,
+  };
+}
+
+export function itemListJsonLd(items: { name: string; url: string }[], name: string) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    name,
+    numberOfItems: items.length,
+    itemListElement: items.map((item, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      name: item.name,
+      url: item.url.startsWith("http") ? item.url : `${siteConfig.url}${item.url}`,
+    })),
   };
 }
 

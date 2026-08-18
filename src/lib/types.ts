@@ -86,6 +86,12 @@ export interface City {
   name: string;
   countrySlug: string;
   countryName: string;
+  /** Derived from parent country — used for /cities filters & badges. */
+  continent?: string;
+  /** Derived from parent country (e.g. "Southeast Asia"). */
+  region?: string;
+  /** Editorial travel themes for discovery (tourist hubs). */
+  categories?: string[];
   tagline: string;
   heroImage: string;
   thumbnail: string;

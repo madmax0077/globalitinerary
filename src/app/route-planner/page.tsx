@@ -21,13 +21,17 @@ export const metadata = buildMetadata({
 export const revalidate = 86400;
 
 export default function RoutePlannerPage() {
-  const list: RouteCity[] = cities.map((c) => ({
-    slug: c.slug,
-    name: c.name,
-    country: c.countryName,
-    lat: c.coordinates.lat,
-    lng: c.coordinates.lng,
-  }));
+  // Cap client payload — full catalog is ~8k cities and freezes the page.
+  const list: RouteCity[] = cities
+    .filter((c) => c.featured || (c.categories && c.categories.length > 0))
+    .slice(0, 400)
+    .map((c) => ({
+      slug: c.slug,
+      name: c.name,
+      country: c.countryName,
+      lat: c.coordinates.lat,
+      lng: c.coordinates.lng,
+    }));
 
   return (
     <>

@@ -22,7 +22,7 @@ import { buildMetadata, JsonLd, organizationJsonLd, websiteJsonLd } from "@/lib/
 export const metadata = buildMetadata({
   title: "Travel Guides, Itineraries & Things to Do Worldwide",
   description:
-    "Free travel guides to every country and city: things to do, the best time to visit, day-by-day itineraries, where to stay, budgets, maps and trip-planning tools.",
+    "Free travel guides for countries and cities: things to do, best time to visit, day-by-day itineraries, budgets, visas and trip-planning tools.",
   path: "/",
 });
 
@@ -46,14 +46,14 @@ function Section({
 
 const worldStats = [
   { value: 195, suffix: "", label: "Countries covered" },
-  { value: 8400, suffix: "+", label: "Cities & towns" },
-  { value: 50, suffix: "k+", label: "Attractions mapped" },
-  { value: 2, suffix: "M+", label: "Happy travelers" },
+  { value: 1700, suffix: "+", label: "City guides" },
+  { value: 20, suffix: "+", label: "Travel guides & itineraries" },
+  { value: 6, suffix: "", label: "Continents" },
 ];
 
 export default function Home() {
   const trendingCountries = countries.filter((c) => c.trending);
-  const featuredCities = cities.filter((c) => c.featured);
+  const featuredCities = cities.filter((c) => c.featured).slice(0, 8);
   const featuredAttractions = attractions.filter((a) => a.featured);
   const latestArticles = articles.slice(0, 3);
 

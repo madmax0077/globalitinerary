@@ -7,7 +7,13 @@ export default function robots(): MetadataRoute.Robots {
       {
         userAgent: "*",
         allow: "/",
-        disallow: ["/admin", "/api/"],
+        disallow: ["/admin", "/api/", "/favorites"],
+      },
+      {
+        // Keep AI crawlers that respect robots on public guides.
+        userAgent: "GPTBot",
+        allow: "/",
+        disallow: ["/admin", "/api/", "/favorites"],
       },
     ],
     sitemap: `${siteConfig.url}/sitemap.xml`,

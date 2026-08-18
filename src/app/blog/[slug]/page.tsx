@@ -1,7 +1,11 @@
 import { notFound } from "next/navigation";
 import Image from "next/image";
+import Link from "next/link";
 import { Clock, CalendarDays } from "lucide-react";
 import { getArticle, getAllArticleSlugs, articles } from "@/data/content";
+import { countries } from "@/data/countries";
+import { cities } from "@/data/cities";
+import { isCityIndexable } from "@/lib/content-legitimacy";
 import { Breadcrumbs } from "@/components/shared/breadcrumbs";
 import { ArticleCard } from "@/components/shared/article-card";
 import { ShareButtons } from "@/components/shared/share-buttons";
@@ -16,7 +20,11 @@ export const revalidate = 3600;
 export const dynamicParams = true;
 
 export function generateStaticParams() {
-  return getAllArticleSlugs().map((slug) => ({ slug }));
+  // Dedicated article routes (App Router static folders) are excluded here.
+  const dedicated = new Set(["top-100-cities-to-visit-2026"]);
+  return getAllArticleSlugs()
+    .filter((slug) => !dedicated.has(slug))
+    .map((slug) => ({ slug }));
 }
 
 export async function generateMetadata({
@@ -49,6 +57,13 @@ export default async function ArticlePage({
   if (!article) notFound();
 
   const related = articles.filter((a) => a.slug !== article.slug).slice(0, 3);
+  const tagSet = new Set(article.tags.map((t) => t.toLowerCase()));
+  const relatedCountries = countries
+    .filter((c) => tagSet.has(c.name.toLowerCase()) || tagSet.has(c.continent.toLowerCase()))
+    .slice(0, 4);
+  const relatedCities = cities
+    .filter((c) => isCityIndexable(c) && (tagSet.has(c.name.toLowerCase()) || tagSet.has(c.countryName.toLowerCase())))
+    .slice(0, 6);
   const formattedDate = new Date(article.date).toLocaleDateString("en-US", {
     year: "numeric",
     month: "long",
@@ -150,6 +165,31 @@ export default async function ArticlePage({
           </div>
           <ShareButtons title={article.title} />
         </div>
+
+        {(relatedCountries.length > 0 || relatedCities.length > 0) && (
+          <div className="mt-10 rounded-3xl border border-border bg-card p-6 shadow-soft">
+            <h2 className="font-display text-xl font-bold tracking-tight">Explore related destinations</h2>
+            <p className="mt-2 text-sm text-muted-foreground">
+              Continue planning with our destination guides linked from this article.
+            </p>
+            <ul className="mt-4 flex flex-col gap-2 text-sm">
+              {relatedCountries.map((c) => (
+                <li key={c.slug}>
+                  <Link href={`/countries/${c.slug}`} className="font-semibold text-primary hover:underline">
+                    {c.flag} {c.name} travel guide
+                  </Link>
+                </li>
+              ))}
+              {relatedCities.map((c) => (
+                <li key={c.slug}>
+                  <Link href={`/cities/${c.slug}`} className="font-semibold text-primary hover:underline">
+                    {c.name}, {c.countryName}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
 
         <div className="mt-10">
           <AdSlot slot="article-footer" className="min-h-[140px]" />

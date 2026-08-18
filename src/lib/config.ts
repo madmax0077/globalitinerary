@@ -2,13 +2,15 @@ export const siteConfig = {
   name: "Global Itinerary",
   tagline: "Plan Every Journey, Beautifully",
   description:
-    "Global Itinerary is a free travel guide to every country, city and landmark on earth — real itineraries, know-before-you-go essentials, budgets, maps and insider tips for the modern explorer.",
+    "Free travel guides to countries and cities worldwide — itineraries, best time to visit, budgets, visas, maps and practical tips for planning your next trip.",
   url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://globalitinerary.in",
   domain: "globalitinerary.in",
   email: "globalitinerary0104@gmail.com",
   ogImage: "/opengraph-image",
   locale: "en_US",
   twitter: "@globalitinerary",
+  /** Public profiles for Organization sameAs (add real URLs when accounts exist). */
+  sameAs: [] as readonly string[],
   keywords: [
     "travel guide",
     "travel itinerary",
@@ -25,8 +27,10 @@ export const siteConfig = {
     "budget travel",
     "travel tips",
     "7 day itinerary",
+    "country travel guide",
+    "city travel guide",
   ],
-} as const;
+};
 
 export type SiteConfig = typeof siteConfig;
 

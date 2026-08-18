@@ -23,10 +23,10 @@ export function getSearchIndex(): SearchItem[] {
       kind: "city",
       slug: c.slug,
       title: c.name,
-      subtitle: `City • ${c.countryName}`,
+      subtitle: `City • ${c.countryName}${c.continent ? ` • ${c.continent}` : ""}`,
       image: c.thumbnail,
       href: `/cities/${c.slug}`,
-      keywords: `${c.name} ${c.countryName} city ${c.tagline}`.toLowerCase(),
+      keywords: `${c.name} ${c.countryName} city ${c.tagline} ${c.continent ?? ""} ${c.region ?? ""} ${(c.categories ?? []).join(" ")}`.toLowerCase(),
     })),
     ...attractions.map<SearchItem>((a) => ({
       kind: "attraction",

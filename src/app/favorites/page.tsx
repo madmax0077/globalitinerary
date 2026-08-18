@@ -1,8 +1,5 @@
 import { PageHero } from "@/components/shared/page-hero";
-import { FavoritesClient, type FavoriteItem } from "@/components/shared/favorites-client";
-import { countries } from "@/data/countries";
-import { cities } from "@/data/cities";
-import { attractions } from "@/data/attractions";
+import { FavoritesClient } from "@/components/shared/favorites-client";
 import { buildMetadata } from "@/lib/seo";
 
 export const metadata = {
@@ -15,47 +12,7 @@ export const metadata = {
   robots: { index: false, follow: true },
 };
 
-// Lightweight lookup so the client can resolve saved bookmark ids to cards.
-function buildLookup(): Record<string, FavoriteItem> {
-  const map: Record<string, FavoriteItem> = {};
-  for (const c of countries) {
-    map[`country:${c.slug}`] = {
-      bookmarkId: `country:${c.slug}`,
-      href: `/countries/${c.slug}`,
-      image: c.thumbnail || c.heroImage,
-      title: c.name,
-      subtitle: c.tagline,
-      badge: "Country",
-      location: c.continent,
-    };
-  }
-  for (const c of cities) {
-    map[`city:${c.slug}`] = {
-      bookmarkId: `city:${c.slug}`,
-      href: `/cities/${c.slug}`,
-      image: c.thumbnail || c.heroImage,
-      title: c.name,
-      subtitle: c.tagline,
-      badge: "City",
-      location: c.countryName,
-    };
-  }
-  for (const a of attractions) {
-    map[`attraction:${a.slug}`] = {
-      bookmarkId: `attraction:${a.slug}`,
-      href: `/attractions/${a.slug}`,
-      image: a.thumbnail || a.heroImage,
-      title: a.name,
-      subtitle: a.tagline,
-      badge: a.category,
-      location: a.cityName,
-    };
-  }
-  return map;
-}
-
 export default function FavoritesPage() {
-  const lookup = buildLookup();
   return (
     <>
       <PageHero
@@ -68,7 +25,7 @@ export default function FavoritesPage() {
         ]}
       />
       <div className="container-lux py-12">
-        <FavoritesClient lookup={lookup} />
+        <FavoritesClient />
       </div>
     </>
   );

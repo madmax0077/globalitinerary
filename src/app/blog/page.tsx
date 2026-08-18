@@ -4,15 +4,24 @@ import { AdSlot } from "@/components/shared/ad-slot";
 import { Stagger, StaggerItem } from "@/components/ui/reveal";
 import { articles } from "@/data/content";
 import { buildMetadata } from "@/lib/seo";
+import { siteConfig } from "@/lib/config";
 
 export const revalidate = 3600;
 
-export const metadata = buildMetadata({
-  title: "Travel Guides & Stories",
-  description:
-    "Inspiration, itineraries, tips and deep dives from the Global Itinerary editorial team — everything you need to plan your next journey.",
-  path: "/blog",
-});
+export const metadata = {
+  ...buildMetadata({
+    title: "Travel Guides & Stories",
+    description:
+      "Inspiration, itineraries, tips and deep dives from the Global Itinerary editorial team — everything you need to plan your next journey.",
+    path: "/blog",
+  }),
+  alternates: {
+    canonical: `${siteConfig.url}/blog`,
+    types: {
+      "application/rss+xml": `${siteConfig.url}/blog/rss.xml`,
+    },
+  },
+};
 
 export default function BlogPage() {
   const [featured, ...rest] = articles;

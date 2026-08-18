@@ -2,7 +2,7 @@
 
 import * as React from "react";
 import Link from "next/link";
-import { Heart, Compass } from "lucide-react";
+import { Heart, Compass, Loader2 } from "lucide-react";
 import { DestinationCard } from "@/components/shared/destination-card";
 import { Button } from "@/components/ui/button";
 
@@ -18,8 +18,10 @@ export type FavoriteItem = {
 
 const STORAGE_KEY = "voyara:bookmarks";
 
-export function FavoritesClient({ lookup }: { lookup: Record<string, FavoriteItem> }) {
+export function FavoritesClient() {
   const [ids, setIds] = React.useState<string[] | null>(null);
+  const [items, setItems] = React.useState<FavoriteItem[]>([]);
+  const [loading, setLoading] = React.useState(false);
 
   const read = React.useCallback(() => {
     try {
@@ -32,7 +34,6 @@ export function FavoritesClient({ lookup }: { lookup: Record<string, FavoriteIte
 
   React.useEffect(() => {
     read();
-    // Keep in sync if bookmarks change in another tab or elsewhere.
     const onStorage = (e: StorageEvent) => {
       if (e.key === STORAGE_KEY) read();
     };
@@ -40,10 +41,29 @@ export function FavoritesClient({ lookup }: { lookup: Record<string, FavoriteIte
     return () => window.removeEventListener("storage", onStorage);
   }, [read]);
 
-  const items = React.useMemo(
-    () => (ids ?? []).map((id) => lookup[id]).filter(Boolean) as FavoriteItem[],
-    [ids, lookup]
-  );
+  React.useEffect(() => {
+    if (!ids) return;
+    if (ids.length === 0) {
+      setItems([]);
+      return;
+    }
+    let cancelled = false;
+    setLoading(true);
+    fetch(`/api/favorites?ids=${encodeURIComponent(ids.join(","))}`)
+      .then((r) => r.json())
+      .then((data) => {
+        if (!cancelled) setItems(Array.isArray(data.items) ? data.items : []);
+      })
+      .catch(() => {
+        if (!cancelled) setItems([]);
+      })
+      .finally(() => {
+        if (!cancelled) setLoading(false);
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, [ids]);
 
   const clearAll = () => {
     try {
@@ -54,9 +74,17 @@ export function FavoritesClient({ lookup }: { lookup: Record<string, FavoriteIte
     setIds([]);
   };
 
-  // Initial (pre-hydration) render: nothing to avoid flicker.
   if (ids === null) {
     return <div className="min-h-[40vh]" aria-hidden />;
+  }
+
+  if (loading) {
+    return (
+      <div className="flex min-h-[40vh] items-center justify-center text-muted-foreground">
+        <Loader2 className="size-5 animate-spin" />
+        <span className="ml-2 text-sm">Loading saved places…</span>
+      </div>
+    );
   }
 
   if (items.length === 0) {
@@ -81,14 +109,14 @@ export function FavoritesClient({ lookup }: { lookup: Record<string, FavoriteIte
 
   return (
     <div>
-      <div className="mb-6 flex items-center justify-between gap-3">
+      <div className="mb-6 flex flex-wrap items-center justify-between gap-3">
         <p className="text-sm text-muted-foreground">
           {items.length} saved {items.length === 1 ? "place" : "places"}
         </p>
         <button
           type="button"
           onClick={clearAll}
-          className="text-sm font-medium text-muted-foreground underline-offset-4 transition-colors hover:text-foreground hover:underline"
+          className="text-sm font-medium text-muted-foreground underline-offset-4 hover:text-foreground hover:underline"
         >
           Clear all
         </button>
@@ -104,7 +132,7 @@ export function FavoritesClient({ lookup }: { lookup: Record<string, FavoriteIte
             badge={item.badge}
             location={item.location}
             bookmarkId={item.bookmarkId}
-            aspect="portrait"
+            aspect="landscape"
           />
         ))}
       </div>

@@ -39,9 +39,40 @@ export default function imageLoader({
       return `https://i.pravatar.cc/${size}${img ? `?img=${img}` : ""}`;
     }
 
+    // Wikimedia Commons — request a thumb width so city heroes are not 5–15MB originals.
+    if (url.hostname === "upload.wikimedia.org") {
+      return wikimediaThumb(url, width);
+    }
+
     // Other trusted CDNs (flags) are already small — serve directly.
     return url.toString();
   } catch {
     return src;
   }
+}
+
+/** Pick a Commons thumb size bucket (must be a known thumbnail width). */
+function wikimediaThumb(url: URL, width: number): string {
+  const buckets = [320, 640, 800, 1024, 1280, 1600, 1920];
+  const target = buckets.find((b) => b >= width) ?? 1920;
+  const path = url.pathname;
+
+  // Already a thumb URL: …/thumb/.../1280px-File.jpg → swap width
+  const thumbMatch = path.match(/^(.*\/thumb\/.+\/)\d+px-(.+)$/);
+  if (thumbMatch) {
+    url.pathname = `${thumbMatch[1]}${target}px-${thumbMatch[2]}`;
+    return url.toString();
+  }
+
+  // Original file URL: /wikipedia/commons/a/ab/File.jpg → thumb path
+  const original = path.match(/^(\/wikipedia\/commons\/)([0-9a-f])\/([0-9a-f]{2})\/(.+)$/i);
+  if (original) {
+    const [, prefix, a, ab, file] = original;
+    // Skip non-raster (SVG etc.) — thumbs for SVG use png conversion; leave as-is.
+    if (/\.svg$/i.test(file)) return url.toString();
+    url.pathname = `${prefix}thumb/${a}/${ab}/${file}/${target}px-${file}`;
+    return url.toString();
+  }
+
+  return url.toString();
 }

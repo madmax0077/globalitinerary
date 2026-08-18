@@ -24,6 +24,7 @@ import { getAttractionsByCity } from "@/data/attractions";
 import { getFreeThings } from "@/lib/free-things";
 import { getCountry } from "@/data/countries";
 import type { Stay } from "@/lib/types";
+import { isCityIndexable } from "@/lib/content-legitimacy";
 import { Breadcrumbs } from "@/components/shared/breadcrumbs";
 import { DestinationCard } from "@/components/shared/destination-card";
 import { Gallery } from "@/components/shared/gallery";
@@ -75,22 +76,32 @@ export async function generateMetadata({
   const { slug } = await params;
   const city = getCity(slug);
   if (!city) return {};
-  return buildMetadata({
-    title: `${city.name}, ${city.countryName} Travel Guide — Things to Do & Itinerary`,
-    description: `Things to do in ${city.name}, ${city.countryName}: top attractions, itinerary ideas, where to stay, best time to visit, local food and travel tips.`,
-    path: `/cities/${city.slug}`,
-    image: city.heroImage,
-    keywords: [
-      `things to do in ${city.name}`,
-      `${city.name} travel guide`,
-      `${city.name} itinerary`,
-      `best time to visit ${city.name}`,
-      `where to stay in ${city.name}`,
-      `free things to do in ${city.name}`,
-      `visit ${city.name}`,
-      `${city.name} ${city.countryName}`,
-    ],
-  });
+  const indexable = isCityIndexable(city);
+  return {
+    ...buildMetadata({
+      title: `${city.name}, ${city.countryName} Travel Guide — Things to Do & Itinerary`,
+      description: indexable
+        ? `Things to do in ${city.name}, ${city.countryName}: top attractions, itinerary ideas, where to stay, best time to visit, local food and travel tips.`
+        : `Overview of ${city.name}, ${city.countryName}. Browse nearby destinations and country guides on Global Itinerary.`,
+      path: `/cities/${city.slug}`,
+      image: city.heroImage,
+      keywords: [
+        `things to do in ${city.name}`,
+        `${city.name} travel guide`,
+        `${city.name} itinerary`,
+        `best time to visit ${city.name}`,
+        `where to stay in ${city.name}`,
+        `free things to do in ${city.name}`,
+        `visit ${city.name}`,
+        `${city.name} ${city.countryName}`,
+        ...(city.continent ? [city.continent] : []),
+        ...(city.categories ?? []),
+      ],
+    }),
+    robots: indexable
+      ? { index: true, follow: true }
+      : { index: false, follow: true },
+  };
 }
 
 function ListCard({
@@ -144,10 +155,21 @@ export default async function CityPage({
     .slice(0, 4)
     .map((x) => x.city);
 
+  // Prefer same-country, then same-continent indexable hubs — never random A–Z fillers.
   const related =
     dayTrips.length > 0
       ? dayTrips
-      : cities.filter((c) => c.slug !== city.slug).slice(0, 4);
+      : cities
+          .filter(
+            (c) =>
+              c.slug !== city.slug &&
+              isCityIndexable(c) &&
+              (c.continent === city.continent || c.countrySlug === city.countrySlug),
+          )
+          .map((c) => ({ city: c, dist: haversine(city.coordinates, c.coordinates) }))
+          .sort((a, b) => a.dist - b.dist)
+          .slice(0, 4)
+          .map((x) => x.city);
 
   const facts = [
     { icon: CalendarDays, label: "Best time", value: city.bestTime },
@@ -156,27 +178,27 @@ export default async function CityPage({
     { icon: TramFront, label: "Getting around", value: city.transport },
   ].filter((f) => f.value);
   const faqs = enrichCityFaqs(city);
+  const indexable = isCityIndexable(city);
+  const schema = [
+    breadcrumbJsonLd([
+      { name: "Home", url: "/" },
+      { name: "Countries", url: "/countries" },
+      { name: city.countryName, url: `/countries/${city.countrySlug}` },
+      { name: city.name, url: `/cities/${city.slug}` },
+    ]),
+    touristDestinationJsonLd({
+      name: `${city.name}, ${city.countryName}`,
+      description: city.overview,
+      image: city.heroImage,
+      lat: city.coordinates.lat,
+      lng: city.coordinates.lng,
+    }),
+    ...(indexable ? [faqJsonLd(faqs)] : []),
+  ];
 
   return (
     <>
-      <JsonLd
-        data={[
-          breadcrumbJsonLd([
-            { name: "Home", url: "/" },
-            { name: "Countries", url: "/countries" },
-            { name: city.countryName, url: `/countries/${city.countrySlug}` },
-            { name: city.name, url: `/cities/${city.slug}` },
-          ]),
-          touristDestinationJsonLd({
-            name: `${city.name}, ${city.countryName}`,
-            description: city.overview,
-            image: city.heroImage,
-            lat: city.coordinates.lat,
-            lng: city.coordinates.lng,
-          }),
-          faqJsonLd(faqs),
-        ]}
-      />
+      <JsonLd data={schema} />
 
       {/* Hero */}
       <section className="relative flex min-h-[70vh] items-end overflow-hidden">
@@ -206,6 +228,21 @@ export default async function CityPage({
                   {country?.flag} {city.countryName} travel guide
                 </Badge>
               </Link>
+              {(city.continent || (city.categories && city.categories.length > 0)) && (
+                <div className="mt-3 flex flex-wrap gap-2">
+                  {city.continent ? (
+                    <Badge variant="glass" className="text-white/90">
+                      {city.continent}
+                      {city.region ? ` · ${city.region}` : ""}
+                    </Badge>
+                  ) : null}
+                  {(city.categories ?? []).slice(0, 4).map((cat) => (
+                    <Badge key={cat} variant="glass" className="text-white/90">
+                      {cat}
+                    </Badge>
+                  ))}
+                </div>
+              )}
               <h1 className="mt-4 font-display text-5xl font-extrabold tracking-tight sm:text-6xl">
                 {city.name} Travel Guide
               </h1>

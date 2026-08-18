@@ -43,13 +43,17 @@ export default function PlannerPage() {
     tagline: c.tagline,
   }));
 
-  const distanceCities: DistanceCity[] = cities.map((c) => ({
-    slug: c.slug,
-    name: c.name,
-    country: c.countryName,
-    lat: c.coordinates.lat,
-    lng: c.coordinates.lng,
-  }));
+  // Keep distance tool light — full catalog would ship thousands of coords to the client.
+  const distanceCities: DistanceCity[] = cities
+    .filter((c) => c.featured || (c.categories && c.categories.length > 0))
+    .slice(0, 250)
+    .map((c) => ({
+      slug: c.slug,
+      name: c.name,
+      country: c.countryName,
+      lat: c.coordinates.lat,
+      lng: c.coordinates.lng,
+    }));
 
   return (
     <>
