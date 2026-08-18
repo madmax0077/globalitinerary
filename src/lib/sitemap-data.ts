@@ -43,8 +43,8 @@ ${body}
 }
 
 /**
- * Indexable URLs only. City pages with real visitor listings are included;
- * empty shells stay out so Google is not asked to rank thin duplicates.
+ * Public URLs for Google. Every city, country, visa page, blog post,
+ * collection and attraction is listed so crawlers can discover the full site.
  */
 export function buildFullSitemapEntries(): SitemapEntry[] {
   const base = siteConfig.url;
@@ -74,7 +74,7 @@ export function buildFullSitemapEntries(): SitemapEntry[] {
     url: `${base}${path}`,
     lastModified: now,
     changeFrequency: "weekly" as const,
-    priority: path === "" ? 1 : path === "/blog" || path === "/countries" ? 0.9 : 0.8,
+    priority: path === "" ? 1 : path === "/blog" || path === "/countries" || path === "/cities" ? 0.9 : 0.8,
   }));
 
   const collectionRoutes = collections.map((c) => ({
@@ -84,14 +84,13 @@ export function buildFullSitemapEntries(): SitemapEntry[] {
     priority: 0.65,
   }));
 
-    const articleRoutes = articles.map((a) => ({
+  const articleRoutes = articles.map((a) => ({
     url: `${base}/blog/${a.slug}`,
     lastModified: new Date(a.date),
     changeFrequency: "weekly" as const,
-    priority: a.featured ? 0.9 : 0.75,
+    priority: a.featured ? 0.9 : 0.8,
   }));
 
-  // Blog RSS for discovery
   const rssRoute = {
     url: `${base}/blog/rss.xml`,
     lastModified: now,
@@ -125,14 +124,14 @@ export function buildFullSitemapEntries(): SitemapEntry[] {
       priority: 0.7,
     }));
 
-  const indexableCities = cities.filter(isCityIndexable);
-  const cityRoutes = indexableCities.map((c) => ({
+  const cityRoutes = cities.map((c) => ({
     url: `${base}/cities/${c.slug}`,
     lastModified: now,
     changeFrequency: "weekly" as const,
-    priority: c.featured ? 0.85 : 0.7,
+    priority: c.featured ? 0.85 : isCityIndexable(c) ? 0.7 : 0.55,
   }));
 
+  const seen = new Set<string>();
   return [
     ...staticRoutes,
     rssRoute,
@@ -142,7 +141,11 @@ export function buildFullSitemapEntries(): SitemapEntry[] {
     ...countryRoutes,
     ...visaRoutes,
     ...cityRoutes,
-  ];
+  ].filter((entry) => {
+    if (seen.has(entry.url)) return false;
+    seen.add(entry.url);
+    return true;
+  });
 }
 
 export function buildFullSitemapXml(): string {

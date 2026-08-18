@@ -2,8 +2,7 @@ import { NextResponse } from "next/server";
 import { buildFullSitemapXml, sitemapXmlHeaders } from "@/lib/sitemap-data";
 
 /**
- * Single flat sitemap at /sitemap.xml.
- * Only indexable URLs are included (thin city stubs excluded).
+ * Single flat sitemap at /sitemap.xml — cities, countries, visa pages, blog posts, tools.
  */
 export const dynamic = "force-static";
 export const revalidate = 3600;

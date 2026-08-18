@@ -98,9 +98,7 @@ export async function generateMetadata({
         ...(city.categories ?? []),
       ],
     }),
-    robots: indexable
-      ? { index: true, follow: true }
-      : { index: false, follow: true },
+    robots: { index: true, follow: true },
   };
 }
 
