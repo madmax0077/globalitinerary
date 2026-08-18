@@ -428,7 +428,7 @@ export default async function CityPage({
             </div>
           )}
 
-          <AdSlot slot="city-mid" className="min-h-[120px]" />
+          {indexable ? <AdSlot slot="city-mid" className="min-h-[120px]" /> : null}
 
           {/* Eat / stay / shop grids */}
           <div className="columns-1 gap-5 sm:columns-2 [&>*]:mb-5">
@@ -578,7 +578,7 @@ export default async function CityPage({
               </div>
             </Link>
           )}
-          <AdSlot slot="city-sidebar" className="min-h-[280px]" />
+          {indexable ? <AdSlot slot="city-sidebar" className="min-h-[280px]" /> : null}
         </aside>
       </div>
 
