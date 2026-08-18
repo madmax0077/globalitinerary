@@ -21,11 +21,14 @@ const DROP = new Set([
   "parikia", // district-ish when paros exists — keep if unique; actually keep
 ]);
 
-/** Pattern-based: "X Old Town" as standalone city, lake-only stubs */
+/** Pattern-based: "X Old Town" as standalone city — keep named lakes that are real resorts */
 function isPseudo(t) {
   if (DROP.has(t.slug)) return true;
   if (/-old$/.test(t.slug) && /old town/i.test(t.name)) return true;
-  if (/^Lake /.test(t.name) && (t.population || 0) < 1000) return true;
+  // Tiny unnamed lake stubs only — not Banff/Louise-style resort towns
+  if (/^Lake /.test(t.name) && (t.population || 0) < 100 && !/louise|como|bled|atitlan|naivasha/i.test(t.slug)) {
+    return true;
+  }
   return false;
 }
 
