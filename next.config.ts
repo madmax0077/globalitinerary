@@ -1,25 +1,39 @@
 import type { NextConfig } from "next";
 
+/**
+ * Default: Next.js image optimizer → AVIF (preferred) + WebP fallback.
+ * Opt into the custom CDN loader only when needed locally:
+ *   USE_CUSTOM_IMAGE_LOADER=1 npm run dev
+ * (e.g. corporate SSL inspection that breaks Node fetches to remotes).
+ */
+const useCustomImageLoader = process.env.USE_CUSTOM_IMAGE_LOADER === "1";
+
 const nextConfig: NextConfig = {
   images: {
-    // Use a custom loader so remote images are served directly from their CDN
-    // to the browser. This avoids the Node-side optimizer, which fails behind
-    // corporate SSL-inspecting proxies (SELF_SIGNED_CERT_IN_CHAIN), and lets
-    // each CDN handle resizing. Works identically in local and cloud deploys.
-    loader: "custom",
-    loaderFile: "./src/lib/image-loader.ts",
+    ...(useCustomImageLoader
+      ? {
+          loader: "custom" as const,
+          loaderFile: "./src/lib/image-loader.ts",
+        }
+      : {}),
+    // Negotiated by Accept header when using the default `/_next/image` optimizer.
     formats: ["image/avif", "image/webp"],
+    // Prefer modern formats aggressively; keep originals only as last resort.
+    dangerouslyAllowSVG: false,
     remotePatterns: [
       { protocol: "https", hostname: "images.unsplash.com" },
       { protocol: "https", hostname: "i.pravatar.cc" },
       { protocol: "https", hostname: "flagcdn.com" },
       { protocol: "https", hostname: "upload.wikimedia.org" },
+      { protocol: "https", hostname: "commons.wikimedia.org" },
+      { protocol: "https", hostname: "**.wikipedia.org" },
     ],
+    // Cache optimized images for a day (Vercel CDN still immutable-hashes).
+    minimumCacheTTL: 60 * 60 * 24,
   },
   experimental: {
     optimizePackageImports: ["lucide-react", "framer-motion", "recharts"],
   },
-  // Production security + caching headers.
   async headers() {
     return [
       {
@@ -39,7 +53,6 @@ const nextConfig: NextConfig = {
         ],
       },
       {
-        // Long-cache static Next assets (hashed filenames).
         source: "/_next/static/:path*",
         headers: [
           {

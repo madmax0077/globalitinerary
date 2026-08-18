@@ -1,4 +1,5 @@
 import { PHOTOS, unsplash } from "@/lib/images";
+import { normalizeRemoteImageUrl } from "@/lib/wikimedia";
 
 /** Unsplash keys that depict a specific named place. */
 export const PLACE_SPECIFIC_KEYS = new Set<keyof typeof PHOTOS>([
@@ -99,7 +100,7 @@ export function sanitizeCityImages<T extends { slug: string; heroImage: string; 
   city: T,
   continentHint?: string,
 ): T {
-  const fix = (url: string): string => {
+  const fixStock = (url: string): string => {
     if (!url || !url.includes("images.unsplash.com")) return url;
     const key = keyFromUnsplashUrl(url);
     if (!key || allowedKey(city.slug, key)) return url;
@@ -107,10 +108,14 @@ export function sanitizeCityImages<T extends { slug: string; heroImage: string; 
     return unsplash(PHOTOS[genericKey(city.slug, continentHint)], w);
   };
 
+  // Cap Wikimedia originals via Special:FilePath; leave working thumbs alone.
+  // Next.js then converts to AVIF/WebP via `/_next/image`.
   return {
     ...city,
-    heroImage: fix(city.heroImage),
-    thumbnail: fix(city.thumbnail),
-    gallery: (city.gallery || []).map(fix),
+    heroImage: normalizeRemoteImageUrl(fixStock(city.heroImage), 1600),
+    thumbnail: normalizeRemoteImageUrl(fixStock(city.thumbnail), 900),
+    gallery: (city.gallery || []).map((u) =>
+      normalizeRemoteImageUrl(fixStock(u), 1400),
+    ),
   };
 }

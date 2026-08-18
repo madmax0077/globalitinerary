@@ -2,6 +2,16 @@ import type { Country } from "@/lib/types";
 import { PHOTOS, unsplash } from "@/lib/images";
 import { generatedCountries } from "@/data/countries.generated";
 import { countryTimezones } from "@/data/country-timezones.generated";
+import { normalizeRemoteImageUrl } from "@/lib/wikimedia";
+
+function normalizeCountryImages(country: Country): Country {
+  return {
+    ...country,
+    heroImage: normalizeRemoteImageUrl(country.heroImage, 1600),
+    thumbnail: normalizeRemoteImageUrl(country.thumbnail, 900),
+    gallery: (country.gallery || []).map((u) => normalizeRemoteImageUrl(u, 1400)),
+  };
+}
 
 /**
  * Hand-curated countries with rich overviews, galleries, cities and
@@ -841,13 +851,14 @@ export const countries: Country[] = [
   ...curatedCountries
     .filter((c) => !generatedCountries.some((g) => g.slug === c.slug))
     .map(withStandardTimezone)
-    .map(withHonestCountryCopy),
+    .map(withHonestCountryCopy)
+    .map(normalizeCountryImages),
   ...generatedCountries.map((g) => {
     const curated = curatedBySlug.get(g.slug);
     const base = curated ?? g;
     const patch = countryPatches[g.slug];
     const merged = patch ? { ...base, ...patch } : base;
-    return withHonestCountryCopy(withStandardTimezone(merged));
+    return normalizeCountryImages(withHonestCountryCopy(withStandardTimezone(merged)));
   }),
 ].sort((a, b) => a.name.localeCompare(b.name));
 

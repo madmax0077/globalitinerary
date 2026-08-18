@@ -237,6 +237,8 @@ export const generatedCities: City[] = raw.map((c) => {
   const hero = realPhoto ?? realGallery[0] ?? null;
   // Prefer real, subject-relevant photos; only fall back to stock when we have
   // no real imagery at all (so galleries never show unrelated pictures).
+  // Wikimedia originals are normalized at runtime (sanitizeCityImages) so we
+  // keep raw Commons URLs here for regenerate stability.
   const realImages = Array.from(new Set([...(hero ? [hero] : []), ...realGallery]));
   const gallery = realImages.length > 0 ? realImages.slice(0, 6) : pool;
   return {
