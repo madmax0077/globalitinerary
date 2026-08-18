@@ -126,7 +126,6 @@ koh-phangan|Ko Pha Ngan|thailand|TH|Thailand|9.74|100.01|Asia/Bangkok|20000|0|Ko
 kanchanaburi|Kanchanaburi|thailand|TH|Thailand|14.004|99.548|Asia/Bangkok|53000|0
 lopburi|Lopburi|thailand|TH|Thailand|14.799|100.653|Asia/Bangkok|58000|0
 hampi|Hampi|india|IN|India|15.335|76.46|Asia/Kolkata|3000|0
-hannover|Hampi|india|IN|India|15.335|76.46|Asia/Kolkata|3000|0
 gokarna|Gokarna|india|IN|India|14.55|74.32|Asia/Kolkata|25000|0
 munnar|Munnar|india|IN|India|10.089|77.06|Asia/Kolkata|30000|0
 ooty|Ooty|india|IN|India|11.41|76.7|Asia/Kolkata|90000|0

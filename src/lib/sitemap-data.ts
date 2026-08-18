@@ -42,7 +42,10 @@ ${body}
 `;
 }
 
-/** Indexable URLs only — thin city stubs are excluded to protect rankings. */
+/**
+ * Indexable URLs only. City pages with real visitor listings are included;
+ * empty shells stay out so Google is not asked to rank thin duplicates.
+ */
 export function buildFullSitemapEntries(): SitemapEntry[] {
   const base = siteConfig.url;
   const now = new Date();

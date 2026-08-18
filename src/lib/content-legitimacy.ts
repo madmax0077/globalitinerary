@@ -46,31 +46,43 @@ export function honestCityOverview(overview: string | undefined, name: string, c
 
 /**
  * Whether a city page is strong enough to index in Google.
- * Thin/generated stubs stay crawlable for users but should not compete
- * for rankings or dilute the sitemap.
+ * Pages with real visitor listings (sights, eats, stays) should be indexed
+ * even when the intro copy is a short honest stub. Empty shells stay out of
+ * the sitemap so they cannot dilute rankings.
  */
 export function isCityIndexable(
   city: Pick<
     City,
-    "featured" | "categories" | "thingsToDo" | "overview" | "tagline" | "countryName" | "itinerary"
+    | "featured"
+    | "categories"
+    | "thingsToDo"
+    | "overview"
+    | "tagline"
+    | "countryName"
+    | "itinerary"
+    | "restaurants"
+    | "hotels"
+    | "stays"
   >,
 ): boolean {
   if (city.featured) return true;
   if (city.categories && city.categories.length > 0) return true;
 
-  const sights = city.thingsToDo?.length ?? 0;
+  const sights = filterRealSights(city.thingsToDo).length;
+  const restaurants = city.restaurants?.length ?? 0;
+  const stays = (city.stays?.length ?? 0) || (city.hotels?.length ?? 0);
   const hasItinerary = (city.itinerary?.length ?? 0) > 0;
+
+  // Real places to visit — this is a usable guide even without unique prose.
+  if (sights >= 3) return true;
+  if (sights >= 2 && (hasItinerary || restaurants >= 2 || stays >= 2)) return true;
+
   const overview = city.overview ?? "";
   const thinOverview =
     overview.length < 140 ||
     /^Travel guide for /i.test(overview) ||
     isGenericCityOverview(overview);
-  const thinTagline =
-    !city.tagline ||
-    city.tagline === city.countryName ||
-    isGenericCityTagline(city.tagline);
+  if (!thinOverview && (sights >= 1 || restaurants >= 2 || stays >= 2)) return true;
 
-  if (sights >= 3 && !thinOverview) return true;
-  if (sights >= 3 && hasItinerary && !thinTagline) return true;
   return false;
 }

@@ -3,10 +3,15 @@ import { PHOTOS, unsplash } from "@/lib/images";
 import { generatedCountries } from "@/data/countries.generated";
 import { countryTimezones } from "@/data/country-timezones.generated";
 import { normalizeRemoteImageUrl } from "@/lib/wikimedia";
+import { canonicalCitySlug } from "@/data/city-slug-redirects";
 
 function normalizeCountryImages(country: Country): Country {
+  const topCitySlugs = Array.from(
+    new Set((country.topCitySlugs || []).map(canonicalCitySlug)),
+  );
   return {
     ...country,
+    topCitySlugs,
     heroImage: normalizeRemoteImageUrl(country.heroImage, 1600),
     thumbnail: normalizeRemoteImageUrl(country.thumbnail, 900),
     gallery: (country.gallery || []).map((u) => normalizeRemoteImageUrl(u, 1400)),

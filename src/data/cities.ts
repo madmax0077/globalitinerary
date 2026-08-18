@@ -2,6 +2,7 @@ import type { City, Stay } from "@/lib/types";
 import { PHOTOS, unsplash } from "@/lib/images";
 import { sanitizeCityImages } from "@/lib/place-images";
 import { generatedCities } from "@/data/cities.generated";
+import { CITY_SLUG_REDIRECTS, canonicalCitySlug } from "@/data/city-slug-redirects";
 import { cityPicks } from "@/data/city-picks";
 import { citySights } from "@/data/city-sights";
 import { cityEnrichments } from "@/data/city-enrichments";
@@ -553,7 +554,7 @@ const curatedSlugs = new Set(curatedCities.map((c) => c.slug));
 // picks → sights → enrichment (hand guide wins) → sanitize images
 export const cities: City[] = [
   ...curatedCities,
-  ...generatedCities.filter((c) => !curatedSlugs.has(c.slug)),
+  ...generatedCities.filter((c) => !curatedSlugs.has(c.slug) && !CITY_SLUG_REDIRECTS[c.slug]),
 ]
   .map(applyCityPicks)
   .map(applyCitySights)
@@ -565,7 +566,8 @@ export const cities: City[] = [
   .sort((a, b) => a.name.localeCompare(b.name));
 
 export function getCity(slug: string) {
-  return cities.find((c) => c.slug === slug);
+  const canonical = canonicalCitySlug(slug);
+  return cities.find((c) => c.slug === canonical);
 }
 
 export function getCitiesByCountry(countrySlug: string) {

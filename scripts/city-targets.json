@@ -286,19 +286,6 @@
     "isCapital": false
   },
   {
-    "slug": "machu-picchu-town",
-    "name": "Aguas Calientes",
-    "wikiTitle": "Machupicchu Pueblo",
-    "countrySlug": "peru",
-    "countryName": "Peru",
-    "countryCode": "PE",
-    "population": 5000,
-    "lat": -13.1547,
-    "lng": -72.5255,
-    "timezone": "America/Lima",
-    "isCapital": false
-  },
-  {
     "slug": "machu-picchu-pueblo",
     "name": "Aguas Calientes",
     "wikiTitle": "Aguas Calientes",
@@ -399,19 +386,6 @@
     "population": 19219,
     "lat": 65.68353,
     "lng": -18.0878,
-    "timezone": "Atlantic/Reykjavik",
-    "isCapital": false
-  },
-  {
-    "slug": "iceland-akureyri",
-    "name": "Akureyri",
-    "wikiTitle": "Akureyri",
-    "countrySlug": "iceland",
-    "countryName": "Iceland",
-    "countryCode": "IS",
-    "population": 19000,
-    "lat": 65.6835,
-    "lng": -18.1262,
     "timezone": "Atlantic/Reykjavik",
     "isCapital": false
   },
@@ -1118,19 +1092,6 @@
     "isCapital": false
   },
   {
-    "slug": "antigua-guatemala",
-    "name": "Antigua Guatemala",
-    "wikiTitle": "Antigua Guatemala",
-    "countrySlug": "guatemala",
-    "countryName": "Guatemala",
-    "countryCode": "GT",
-    "population": 0,
-    "lat": 14.5575,
-    "lng": -90.7333,
-    "timezone": "America/Guatemala",
-    "isCapital": false
-  },
-  {
     "slug": "antofagasta",
     "name": "Antofagasta",
     "wikiTitle": "Antofagasta",
@@ -1179,19 +1140,6 @@
     "population": 40407,
     "lat": -13.83333,
     "lng": -171.76666,
-    "timezone": "Pacific/Apia",
-    "isCapital": true
-  },
-  {
-    "slug": "samoa-apia",
-    "name": "Apia",
-    "wikiTitle": "Apia",
-    "countrySlug": "samoa",
-    "countryName": "Samoa",
-    "countryCode": "WS",
-    "population": 37000,
-    "lat": -13.833,
-    "lng": -171.767,
     "timezone": "Pacific/Apia",
     "isCapital": true
   },
@@ -1352,19 +1300,6 @@
     "isCapital": false
   },
   {
-    "slug": "provence-arles",
-    "name": "Arles",
-    "wikiTitle": "Arles",
-    "countrySlug": "france",
-    "countryName": "France",
-    "countryCode": "FR",
-    "population": 52000,
-    "lat": 43.6767,
-    "lng": 4.6278,
-    "timezone": "Europe/Paris",
-    "isCapital": false
-  },
-  {
     "slug": "arles",
     "name": "Arles",
     "wikiTitle": "Arles",
@@ -1426,19 +1361,6 @@
     "population": 617631,
     "lat": -3.36667,
     "lng": 36.68333,
-    "timezone": "Africa/Dar_es_Salaam",
-    "isCapital": false
-  },
-  {
-    "slug": "serengeti-arusha",
-    "name": "Arusha",
-    "wikiTitle": "Arusha",
-    "countrySlug": "tanzania",
-    "countryName": "Tanzania",
-    "countryCode": "TZ",
-    "population": 600000,
-    "lat": -3.387,
-    "lng": 36.683,
     "timezone": "Africa/Dar_es_Salaam",
     "isCapital": false
   },
@@ -1506,19 +1428,6 @@
     "lng": 38.93184,
     "timezone": "Africa/Asmara",
     "isCapital": true
-  },
-  {
-    "slug": "aspencolorado",
-    "name": "Aspen",
-    "wikiTitle": "Aspen",
-    "countrySlug": "united-states",
-    "countryName": "United States",
-    "countryCode": "US",
-    "population": 7000,
-    "lat": 39.1911,
-    "lng": -106.8175,
-    "timezone": "America/Denver",
-    "isCapital": false
   },
   {
     "slug": "aspen",
@@ -2171,19 +2080,6 @@
     "isCapital": false
   },
   {
-    "slug": "banff-town",
-    "name": "Banff",
-    "wikiTitle": "Banff, Alberta",
-    "countrySlug": "canada",
-    "countryName": "Canada",
-    "countryCode": "CA",
-    "population": 8000,
-    "lat": 51.178,
-    "lng": -115.571,
-    "timezone": "America/Edmonton",
-    "isCapital": false
-  },
-  {
     "slug": "banff-scotland",
     "name": "Banff",
     "wikiTitle": "Banff, Aberdeenshire",
@@ -2194,19 +2090,6 @@
     "lat": 57.667,
     "lng": -2.524,
     "timezone": "Europe/London",
-    "isCapital": false
-  },
-  {
-    "slug": "banff-canada",
-    "name": "Banff",
-    "wikiTitle": "Banff, Alberta",
-    "countrySlug": "canada",
-    "countryName": "Canada",
-    "countryCode": "CA",
-    "population": 0,
-    "lat": 51.1778,
-    "lng": -115.5736,
-    "timezone": "America/Toronto",
     "isCapital": false
   },
   {
@@ -2481,19 +2364,6 @@
     "lng": -62.72499,
     "timezone": "America/St_Kitts",
     "isCapital": true
-  },
-  {
-    "slug": "st-kitts-basseterre",
-    "name": "Basseterre",
-    "wikiTitle": "Basseterre",
-    "countrySlug": "saint-kitts-and-nevis",
-    "countryName": "Saint Kitts and Nevis",
-    "countryCode": "KN",
-    "population": 0,
-    "lat": 17.3,
-    "lng": -62.7333,
-    "timezone": "UTC",
-    "isCapital": false
   },
   {
     "slug": "bata",
@@ -3051,19 +2921,6 @@
     "population": 369377,
     "lat": 27.68027,
     "lng": 84.43647,
-    "timezone": "Asia/Kathmandu",
-    "isCapital": false
-  },
-  {
-    "slug": "chitwan",
-    "name": "Bharatpur",
-    "wikiTitle": "Bharatpur, Nepal",
-    "countrySlug": "nepal",
-    "countryName": "Nepal",
-    "countryCode": "NP",
-    "population": 280000,
-    "lat": 27.683,
-    "lng": 84.433,
     "timezone": "Asia/Kathmandu",
     "isCapital": false
   },
@@ -3809,19 +3666,6 @@
     "isCapital": true
   },
   {
-    "slug": "barbados-bridgetown",
-    "name": "Bridgetown",
-    "wikiTitle": "Bridgetown",
-    "countrySlug": "barbados",
-    "countryName": "Barbados",
-    "countryCode": "BB",
-    "population": 110000,
-    "lat": 13.0975,
-    "lng": -59.6105,
-    "timezone": "America/Barbados",
-    "isCapital": true
-  },
-  {
     "slug": "brighton",
     "name": "Brighton",
     "wikiTitle": "Brighton",
@@ -3935,19 +3779,6 @@
     "population": 118509,
     "lat": 51.2093,
     "lng": 3.2247,
-    "timezone": "Europe/Brussels",
-    "isCapital": false
-  },
-  {
-    "slug": "brugge",
-    "name": "Bruges",
-    "wikiTitle": "Bruges",
-    "countrySlug": "belgium",
-    "countryName": "Belgium",
-    "countryCode": "BE",
-    "population": 120000,
-    "lat": 51.209,
-    "lng": 3.225,
     "timezone": "Europe/Brussels",
     "isCapital": false
   },
@@ -4277,19 +4108,6 @@
     "isCapital": false
   },
   {
-    "slug": "cabo",
-    "name": "Cabo San Lucas",
-    "wikiTitle": "Cabo San Lucas",
-    "countrySlug": "mexico",
-    "countryName": "Mexico",
-    "countryCode": "MX",
-    "population": 80000,
-    "lat": 22.89,
-    "lng": -109.92,
-    "timezone": "America/Mazatlan",
-    "isCapital": false
-  },
-  {
     "slug": "cacak",
     "name": "Čačak",
     "wikiTitle": "Cacak",
@@ -4537,19 +4355,6 @@
     "isCapital": false
   },
   {
-    "slug": "cambridge-uk",
-    "name": "Cambridge",
-    "wikiTitle": "Cambridge",
-    "countrySlug": "united-kingdom",
-    "countryName": "United Kingdom",
-    "countryCode": "GB",
-    "population": 145000,
-    "lat": 52.205,
-    "lng": 0.122,
-    "timezone": "Europe/London",
-    "isCapital": false
-  },
-  {
     "slug": "campeche",
     "name": "Campeche",
     "wikiTitle": "Campeche",
@@ -4719,19 +4524,6 @@
     "isCapital": false
   },
   {
-    "slug": "capri-town",
-    "name": "Capri",
-    "wikiTitle": "Capri",
-    "countrySlug": "italy",
-    "countryName": "Italy",
-    "countryCode": "IT",
-    "population": 7000,
-    "lat": 40.551,
-    "lng": 14.243,
-    "timezone": "Europe/Rome",
-    "isCapital": false
-  },
-  {
     "slug": "caracas",
     "name": "Caracas",
     "wikiTitle": "Caracas",
@@ -4780,19 +4572,6 @@
     "population": 4000,
     "lat": 36.48,
     "lng": -121.73,
-    "timezone": "America/Los_Angeles",
-    "isCapital": false
-  },
-  {
-    "slug": "carmel",
-    "name": "Carmel-by-the-Sea",
-    "wikiTitle": "Carmel-by-the-Sea",
-    "countrySlug": "united-states",
-    "countryName": "United States",
-    "countryCode": "US",
-    "population": 3200,
-    "lat": 36.5552,
-    "lng": -121.9233,
     "timezone": "America/Los_Angeles",
     "isCapital": false
   },
@@ -4849,19 +4628,6 @@
     "isCapital": false
   },
   {
-    "slug": "cartagena-colombia",
-    "name": "Cartagena",
-    "wikiTitle": "Cartagena, Colombia",
-    "countrySlug": "colombia",
-    "countryName": "Colombia",
-    "countryCode": "CO",
-    "population": 1000000,
-    "lat": 10.391,
-    "lng": -75.479,
-    "timezone": "America/Bogota",
-    "isCapital": false
-  },
-  {
     "slug": "casablanca",
     "name": "Casablanca",
     "wikiTitle": "Casablanca",
@@ -4914,19 +4680,6 @@
     "isCapital": true
   },
   {
-    "slug": "saint-lucia-castries",
-    "name": "Castries",
-    "wikiTitle": "Castries",
-    "countrySlug": "saint-lucia",
-    "countryName": "Saint Lucia",
-    "countryCode": "LC",
-    "population": 0,
-    "lat": 14.0108,
-    "lng": -60.9894,
-    "timezone": "UTC",
-    "isCapital": false
-  },
-  {
     "slug": "catania",
     "name": "Catania",
     "wikiTitle": "Catania",
@@ -4973,19 +4726,6 @@
     "countryName": "Philippines",
     "countryCode": "PH",
     "population": 964169,
-    "lat": 10.3157,
-    "lng": 123.8854,
-    "timezone": "Asia/Manila",
-    "isCapital": false
-  },
-  {
-    "slug": "cebu-city",
-    "name": "Cebu City",
-    "wikiTitle": "Cebu City",
-    "countrySlug": "philippines",
-    "countryName": "Philippines",
-    "countryCode": "PH",
-    "population": 960000,
     "lat": 10.3157,
     "lng": 123.8854,
     "timezone": "Asia/Manila",
@@ -5118,19 +4858,6 @@
     "population": 150227,
     "lat": 32.7765,
     "lng": -79.9311,
-    "timezone": "America/New_York",
-    "isCapital": false
-  },
-  {
-    "slug": "charleston-sc",
-    "name": "Charleston",
-    "wikiTitle": "Charleston, South Carolina",
-    "countrySlug": "united-states",
-    "countryName": "United States",
-    "countryCode": "US",
-    "population": 150000,
-    "lat": 32.776,
-    "lng": -79.931,
     "timezone": "America/New_York",
     "isCapital": false
   },
@@ -5746,19 +5473,6 @@
     "isCapital": false
   },
   {
-    "slug": "lake-como",
-    "name": "Como",
-    "wikiTitle": "Como",
-    "countrySlug": "italy",
-    "countryName": "Italy",
-    "countryCode": "IT",
-    "population": 85000,
-    "lat": 45.8081,
-    "lng": 9.0852,
-    "timezone": "Europe/Rome",
-    "isCapital": false
-  },
-  {
     "slug": "como",
     "name": "Como",
     "wikiTitle": "Como",
@@ -5912,19 +5626,6 @@
     "lat": 37.8882,
     "lng": -4.7794,
     "timezone": "Europe/Madrid",
-    "isCapital": false
-  },
-  {
-    "slug": "cordoba-argentina",
-    "name": "Córdoba",
-    "wikiTitle": "Córdoba, Argentina",
-    "countrySlug": "argentina",
-    "countryName": "Argentina",
-    "countryCode": "AR",
-    "population": 0,
-    "lat": -31.4167,
-    "lng": -64.1833,
-    "timezone": "America/Argentina/Buenos_Aires",
     "isCapital": false
   },
   {
@@ -6136,19 +5837,6 @@
     "isCapital": false
   },
   {
-    "slug": "cuzco",
-    "name": "Cusco",
-    "wikiTitle": "Cusco",
-    "countrySlug": "peru",
-    "countryName": "Peru",
-    "countryCode": "PE",
-    "population": 0,
-    "lat": -13.5169,
-    "lng": -71.9786,
-    "timezone": "America/Lima",
-    "isCapital": false
-  },
-  {
     "slug": "da-lat",
     "name": "Da Lat",
     "wikiTitle": "Da Lat",
@@ -6184,19 +5872,6 @@
     "population": 1276000,
     "lat": 16.06778,
     "lng": 108.22083,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isCapital": false
-  },
-  {
-    "slug": "danang",
-    "name": "Da Nang",
-    "wikiTitle": "Da Nang",
-    "countrySlug": "vietnam",
-    "countryName": "Vietnam",
-    "countryCode": "VN",
-    "population": 1200000,
-    "lat": 16.0544,
-    "lng": 108.2022,
     "timezone": "Asia/Ho_Chi_Minh",
     "isCapital": false
   },
@@ -7852,19 +7527,6 @@
     "isCapital": false
   },
   {
-    "slug": "santorini-fira",
-    "name": "Fira",
-    "wikiTitle": "Fira",
-    "countrySlug": "greece",
-    "countryName": "Greece",
-    "countryCode": "GR",
-    "population": 1600,
-    "lat": 36.4166,
-    "lng": 25.4324,
-    "timezone": "Europe/Athens",
-    "isCapital": false
-  },
-  {
     "slug": "fira",
     "name": "Fira",
     "wikiTitle": "Fira",
@@ -8146,19 +7808,6 @@
     "countryCode": "BS",
     "population": 26910,
     "lat": 26.53333,
-    "lng": -78.7,
-    "timezone": "America/Nassau",
-    "isCapital": false
-  },
-  {
-    "slug": "freeport-bahamas",
-    "name": "Freeport",
-    "wikiTitle": "Freeport, Bahamas",
-    "countrySlug": "bahamas",
-    "countryName": "Bahamas",
-    "countryCode": "BS",
-    "population": 47000,
-    "lat": 26.5333,
     "lng": -78.7,
     "timezone": "America/Nassau",
     "isCapital": false
@@ -8580,19 +8229,6 @@
     "isCapital": false
   },
   {
-    "slug": "georgetown-penang",
-    "name": "George Town",
-    "wikiTitle": "George Town, Penang",
-    "countrySlug": "malaysia",
-    "countryName": "Malaysia",
-    "countryCode": "MY",
-    "population": 160000,
-    "lat": 5.414,
-    "lng": 100.329,
-    "timezone": "Asia/Kuala_Lumpur",
-    "isCapital": false
-  },
-  {
     "slug": "exuma",
     "name": "George Town",
     "wikiTitle": "Exuma",
@@ -8667,19 +8303,6 @@
     "population": 2000,
     "lat": -8.35,
     "lng": 116.04,
-    "timezone": "Asia/Makassar",
-    "isCapital": false
-  },
-  {
-    "slug": "gili-islands",
-    "name": "Gili Trawangan",
-    "wikiTitle": "Gili Trawangan",
-    "countrySlug": "indonesia",
-    "countryName": "Indonesia",
-    "countryCode": "ID",
-    "population": 2000,
-    "lat": -8.35,
-    "lng": 116.037,
     "timezone": "Asia/Makassar",
     "isCapital": false
   },
@@ -9620,19 +9243,6 @@
     "isCapital": false
   },
   {
-    "slug": "hannover",
-    "name": "Hampi",
-    "wikiTitle": "Hampi",
-    "countrySlug": "india",
-    "countryName": "India",
-    "countryCode": "IN",
-    "population": 3000,
-    "lat": 15.335,
-    "lng": 76.46,
-    "timezone": "Asia/Kolkata",
-    "isCapital": false
-  },
-  {
     "slug": "easter-island",
     "name": "Hanga Roa",
     "wikiTitle": "Easter Island",
@@ -9670,6 +9280,19 @@
     "lng": 105.84117,
     "timezone": "Asia/Ho_Chi_Minh",
     "isCapital": true
+  },
+  {
+    "slug": "hanover",
+    "name": "Hanover",
+    "wikiTitle": "Hanover",
+    "countrySlug": "germany",
+    "countryName": "Germany",
+    "countryCode": "DE",
+    "population": 543000,
+    "lat": 52.3759,
+    "lng": 9.732,
+    "timezone": "Europe/Berlin",
+    "isCapital": false
   },
   {
     "slug": "harare",
@@ -10491,19 +10114,6 @@
     "isCapital": false
   },
   {
-    "slug": "ibiza-town",
-    "name": "Ibiza Town",
-    "wikiTitle": "Ibiza (town)",
-    "countrySlug": "spain",
-    "countryName": "Spain",
-    "countryCode": "ES",
-    "population": 50000,
-    "lat": 38.9067,
-    "lng": 1.4206,
-    "timezone": "Europe/Madrid",
-    "isCapital": false
-  },
-  {
     "slug": "impfondo",
     "name": "Impfondo",
     "wikiTitle": "Impfondo",
@@ -10816,19 +10426,6 @@
     "isCapital": false
   },
   {
-    "slug": "jackson-wy",
-    "name": "Jackson",
-    "wikiTitle": "Jackson, Wyoming",
-    "countrySlug": "united-states",
-    "countryName": "United States",
-    "countryCode": "US",
-    "population": 0,
-    "lat": 43.4719,
-    "lng": -110.7753,
-    "timezone": "America/New_York",
-    "isCapital": false
-  },
-  {
     "slug": "jaen",
     "name": "Jaén",
     "wikiTitle": "Jaén, Spain",
@@ -10943,19 +10540,6 @@
     "lat": 52.8737,
     "lng": -118.0814,
     "timezone": "America/Edmonton",
-    "isCapital": false
-  },
-  {
-    "slug": "jasper-canada",
-    "name": "Jasper",
-    "wikiTitle": "Jasper, Alberta",
-    "countrySlug": "canada",
-    "countryName": "Canada",
-    "countryCode": "CA",
-    "population": 0,
-    "lat": 52.8731,
-    "lng": -118.0822,
-    "timezone": "America/Toronto",
     "isCapital": false
   },
   {
@@ -13000,19 +12584,6 @@
     "isCapital": false
   },
   {
-    "slug": "krabi-town",
-    "name": "Krabi",
-    "wikiTitle": "Krabi",
-    "countrySlug": "thailand",
-    "countryName": "Thailand",
-    "countryCode": "TH",
-    "population": 30000,
-    "lat": 8.0863,
-    "lng": 98.9063,
-    "timezone": "Asia/Bangkok",
-    "isCapital": false
-  },
-  {
     "slug": "kragujevac",
     "name": "Kragujevac",
     "wikiTitle": "Kragujevac",
@@ -13286,19 +12857,6 @@
     "isCapital": false
   },
   {
-    "slug": "saaremaa",
-    "name": "Kuressaare",
-    "wikiTitle": "Kuressaare",
-    "countrySlug": "estonia",
-    "countryName": "Estonia",
-    "countryCode": "EE",
-    "population": 13000,
-    "lat": 58.248,
-    "lng": 22.492,
-    "timezone": "Europe/Tallinn",
-    "isCapital": false
-  },
-  {
     "slug": "kuressaare",
     "name": "Kuressaare",
     "wikiTitle": "Kuressaare",
@@ -13416,19 +12974,6 @@
     "isCapital": false
   },
   {
-    "slug": "la-ceiba-hn",
-    "name": "La Ceiba",
-    "wikiTitle": "La Ceiba",
-    "countrySlug": "honduras",
-    "countryName": "Honduras",
-    "countryCode": "HN",
-    "population": 215973,
-    "lat": 15.76667,
-    "lng": -86.83333,
-    "timezone": "America/Tegucigalpa",
-    "isCapital": false
-  },
-  {
     "slug": "la-fortuna",
     "name": "La Fortuna",
     "wikiTitle": "La Fortuna, San Carlos",
@@ -13520,34 +13065,8 @@
     "isCapital": false
   },
   {
-    "slug": "flores-labuan",
-    "name": "Labuan Bajo",
-    "wikiTitle": "Labuan Bajo",
-    "countrySlug": "indonesia",
-    "countryName": "Indonesia",
-    "countryCode": "ID",
-    "population": 50000,
-    "lat": -8.5,
-    "lng": 119.89,
-    "timezone": "Asia/Makassar",
-    "isCapital": false
-  },
-  {
-    "slug": "komodo-labuan",
-    "name": "Labuan Bajo",
-    "wikiTitle": "Labuan Bajo",
-    "countrySlug": "indonesia",
-    "countryName": "Indonesia",
-    "countryCode": "ID",
-    "population": 50000,
-    "lat": -8.5,
-    "lng": 119.89,
-    "timezone": "Asia/Makassar",
-    "isCapital": false
-  },
-  {
     "slug": "komodo",
-    "name": "Labuan Bajo",
+    "name": "Komodo",
     "wikiTitle": "Komodo National Park",
     "countrySlug": "indonesia",
     "countryName": "Indonesia",
@@ -14050,19 +13569,6 @@
     "lat": 12.43527,
     "lng": -86.87862,
     "timezone": "America/Managua",
-    "isCapital": false
-  },
-  {
-    "slug": "leon-nicaragua",
-    "name": "León",
-    "wikiTitle": "León, Nicaragua",
-    "countrySlug": "nicaragua",
-    "countryName": "Nicaragua",
-    "countryCode": "NI",
-    "population": 0,
-    "lat": 12.4333,
-    "lng": -86.8867,
-    "timezone": "UTC",
     "isCapital": false
   },
   {
@@ -15223,19 +14729,6 @@
     "isCapital": false
   },
   {
-    "slug": "malacca-city",
-    "name": "Malacca City",
-    "wikiTitle": "Malacca City",
-    "countrySlug": "malaysia",
-    "countryName": "Malaysia",
-    "countryCode": "MY",
-    "population": 580000,
-    "lat": 2.19,
-    "lng": 102.25,
-    "timezone": "Asia/Kuala_Lumpur",
-    "isCapital": false
-  },
-  {
     "slug": "malacca",
     "name": "Malacca City",
     "wikiTitle": "Malacca City",
@@ -15376,19 +14869,6 @@
     "lat": 34.0259,
     "lng": -118.7798,
     "timezone": "America/Los_Angeles",
-    "isCapital": false
-  },
-  {
-    "slug": "malmoe",
-    "name": "Malmö",
-    "wikiTitle": "Malmoe",
-    "countrySlug": "sweden",
-    "countryName": "Sweden",
-    "countryCode": "SE",
-    "population": 362133,
-    "lat": 55.60587,
-    "lng": 13.00073,
-    "timezone": "Europe/Stockholm",
     "isCapital": false
   },
   {
@@ -15886,19 +15366,6 @@
     "isCapital": false
   },
   {
-    "slug": "materas",
-    "name": "Matera",
-    "wikiTitle": "Matera",
-    "countrySlug": "italy",
-    "countryName": "Italy",
-    "countryCode": "IT",
-    "population": 60000,
-    "lat": 40.6663,
-    "lng": 16.6043,
-    "timezone": "Europe/Rome",
-    "isCapital": false
-  },
-  {
     "slug": "matera",
     "name": "Matera",
     "wikiTitle": "Matera",
@@ -16393,19 +15860,6 @@
     "isCapital": false
   },
   {
-    "slug": "mexico-merida",
-    "name": "Mérida",
-    "wikiTitle": "Mérida, Yucatán",
-    "countrySlug": "mexico",
-    "countryName": "Mexico",
-    "countryCode": "MX",
-    "population": 0,
-    "lat": 20.9672,
-    "lng": -89.6236,
-    "timezone": "America/Mexico_City",
-    "isCapital": false
-  },
-  {
     "slug": "merzouga",
     "name": "Merzouga",
     "wikiTitle": "Merzouga",
@@ -16714,19 +16168,6 @@
     "population": 5400,
     "lat": 38.5733,
     "lng": -109.5498,
-    "timezone": "America/Denver",
-    "isCapital": false
-  },
-  {
-    "slug": "moab-utah",
-    "name": "Moab",
-    "wikiTitle": "Moab",
-    "countrySlug": "united-states",
-    "countryName": "United States",
-    "countryCode": "US",
-    "population": 5400,
-    "lat": 38.573,
-    "lng": -109.55,
     "timezone": "America/Denver",
     "isCapital": false
   },
@@ -17420,19 +16861,6 @@
     "isCapital": false
   },
   {
-    "slug": "volcanoes-rwanda",
-    "name": "Musanze",
-    "wikiTitle": "Volcanoes National Park",
-    "countrySlug": "rwanda",
-    "countryName": "Rwanda",
-    "countryCode": "RW",
-    "population": 0,
-    "lat": -1.4675,
-    "lng": 29.4925,
-    "timezone": "Africa/Kigali",
-    "isCapital": false
-  },
-  {
     "slug": "muscat",
     "name": "Muscat",
     "wikiTitle": "Muscat",
@@ -17589,19 +17017,6 @@
     "isCapital": false
   },
   {
-    "slug": "fiji-nadi",
-    "name": "Nadi",
-    "wikiTitle": "Nadi",
-    "countrySlug": "fiji",
-    "countryName": "Fiji",
-    "countryCode": "FJ",
-    "population": 71000,
-    "lat": -17.7765,
-    "lng": 177.4356,
-    "timezone": "Pacific/Fiji",
-    "isCapital": false
-  },
-  {
     "slug": "fiji",
     "name": "Nadi (Fiji)",
     "wikiTitle": "Nadi",
@@ -17667,19 +17082,6 @@
     "isCapital": false
   },
   {
-    "slug": "outer-banks",
-    "name": "Nags Head",
-    "wikiTitle": "Nags Head",
-    "countrySlug": "united-states",
-    "countryName": "United States",
-    "countryCode": "US",
-    "population": 3000,
-    "lat": 35.94,
-    "lng": -75.63,
-    "timezone": "America/New_York",
-    "isCapital": false
-  },
-  {
     "slug": "nags-head",
     "name": "Nags Head",
     "wikiTitle": "Nags Head, North Carolina",
@@ -17700,19 +17102,6 @@
     "countryName": "Japan",
     "countryCode": "JP",
     "population": 317000,
-    "lat": 26.2124,
-    "lng": 127.6809,
-    "timezone": "Asia/Tokyo",
-    "isCapital": false
-  },
-  {
-    "slug": "okinawa-naha",
-    "name": "Naha",
-    "wikiTitle": "Naha",
-    "countrySlug": "japan",
-    "countryName": "Japan",
-    "countryCode": "JP",
-    "population": 320000,
     "lat": 26.2124,
     "lng": 127.6809,
     "timezone": "Asia/Tokyo",
@@ -18054,19 +17443,6 @@
     "lat": 31.5544,
     "lng": -91.3875,
     "timezone": "America/New_York",
-    "isCapital": false
-  },
-  {
-    "slug": "naxos-town",
-    "name": "Naxos",
-    "wikiTitle": "Naxos (city)",
-    "countrySlug": "greece",
-    "countryName": "Greece",
-    "countryCode": "GR",
-    "population": 20000,
-    "lat": 37.105,
-    "lng": 25.377,
-    "timezone": "Europe/Athens",
     "isCapital": false
   },
   {
@@ -19071,19 +18447,6 @@
     "isCapital": false
   },
   {
-    "slug": "obans",
-    "name": "Oban",
-    "wikiTitle": "Oban",
-    "countrySlug": "united-kingdom",
-    "countryName": "United Kingdom",
-    "countryCode": "GB",
-    "population": 8500,
-    "lat": 56.4154,
-    "lng": -5.471,
-    "timezone": "Europe/London",
-    "isCapital": false
-  },
-  {
     "slug": "oban",
     "name": "Oban",
     "wikiTitle": "Oban",
@@ -19786,33 +19149,7 @@
     "isCapital": false
   },
   {
-    "slug": "page-az",
-    "name": "Page",
-    "wikiTitle": "Page, Arizona",
-    "countrySlug": "united-states",
-    "countryName": "United States",
-    "countryCode": "US",
-    "population": 7500,
-    "lat": 36.915,
-    "lng": -111.456,
-    "timezone": "America/Phoenix",
-    "isCapital": false
-  },
-  {
     "slug": "pai",
-    "name": "Pai",
-    "wikiTitle": "Pai",
-    "countrySlug": "thailand",
-    "countryName": "Thailand",
-    "countryCode": "TH",
-    "population": 2300,
-    "lat": 19.358,
-    "lng": 98.44,
-    "timezone": "Asia/Bangkok",
-    "isCapital": false
-  },
-  {
-    "slug": "pai-thailand",
     "name": "Pai",
     "wikiTitle": "Pai",
     "countrySlug": "thailand",
@@ -20150,19 +19487,6 @@
     "isCapital": false
   },
   {
-    "slug": "parikia",
-    "name": "Parikia",
-    "wikiTitle": "Parikia",
-    "countrySlug": "greece",
-    "countryName": "Greece",
-    "countryCode": "GR",
-    "population": 5000,
-    "lat": 37.085,
-    "lng": 25.148,
-    "timezone": "Europe/Athens",
-    "isCapital": false
-  },
-  {
     "slug": "paris",
     "name": "Paris",
     "wikiTitle": "Paris",
@@ -20223,19 +19547,6 @@
     "countryCode": "BT",
     "population": 11000,
     "lat": 27.4305,
-    "lng": 89.413,
-    "timezone": "Asia/Thimphu",
-    "isCapital": false
-  },
-  {
-    "slug": "paro-valley",
-    "name": "Paro",
-    "wikiTitle": "Paro",
-    "countrySlug": "bhutan",
-    "countryName": "Bhutan",
-    "countryCode": "BT",
-    "population": 11000,
-    "lat": 27.43,
     "lng": 89.413,
     "timezone": "Asia/Thimphu",
     "isCapital": false
@@ -21086,32 +20397,6 @@
     "isCapital": true
   },
   {
-    "slug": "mauritius-port-louis",
-    "name": "Port Louis",
-    "wikiTitle": "Port Louis",
-    "countrySlug": "mauritius",
-    "countryName": "Mauritius",
-    "countryCode": "MU",
-    "population": 150000,
-    "lat": -20.1609,
-    "lng": 57.5012,
-    "timezone": "Indian/Mauritius",
-    "isCapital": true
-  },
-  {
-    "slug": "mauritius",
-    "name": "Port Louis",
-    "wikiTitle": "Port Louis",
-    "countrySlug": "mauritius",
-    "countryName": "Mauritius",
-    "countryCode": "MU",
-    "population": 0,
-    "lat": -20.1644,
-    "lng": 57.5042,
-    "timezone": "Indian/Mauritius",
-    "isCapital": false
-  },
-  {
     "slug": "port-moresby",
     "name": "Port Moresby",
     "wikiTitle": "Port Moresby",
@@ -21134,19 +20419,6 @@
     "population": 49031,
     "lat": 10.66668,
     "lng": -61.51889,
-    "timezone": "America/Port_of_Spain",
-    "isCapital": true
-  },
-  {
-    "slug": "trinidad-port-of-spain",
-    "name": "Port of Spain",
-    "wikiTitle": "Port of Spain",
-    "countrySlug": "trinidad-and-tobago",
-    "countryName": "Trinidad and Tobago",
-    "countryCode": "TT",
-    "population": 37000,
-    "lat": 10.6549,
-    "lng": -61.5019,
     "timezone": "America/Port_of_Spain",
     "isCapital": true
   },
@@ -21580,19 +20852,6 @@
     "isCapital": false
   },
   {
-    "slug": "bromo",
-    "name": "Probolinggo",
-    "wikiTitle": "Mount Bromo",
-    "countrySlug": "indonesia",
-    "countryName": "Indonesia",
-    "countryCode": "ID",
-    "population": 0,
-    "lat": -7.9417,
-    "lng": 112.95,
-    "timezone": "Asia/Jakarta",
-    "isCapital": false
-  },
-  {
     "slug": "procida",
     "name": "Procida",
     "wikiTitle": "Procida",
@@ -21992,19 +21251,6 @@
     "population": 16000,
     "lat": -45.0312,
     "lng": 168.6626,
-    "timezone": "Pacific/Auckland",
-    "isCapital": false
-  },
-  {
-    "slug": "queenstown-nz",
-    "name": "Queenstown",
-    "wikiTitle": "Queenstown, New Zealand",
-    "countrySlug": "new-zealand",
-    "countryName": "New Zealand",
-    "countryCode": "NZ",
-    "population": 16000,
-    "lat": -45.031,
-    "lng": 168.663,
     "timezone": "Pacific/Auckland",
     "isCapital": false
   },
@@ -22646,19 +21892,6 @@
     "isCapital": true
   },
   {
-    "slug": "dominica-roseau",
-    "name": "Roseau",
-    "wikiTitle": "Roseau",
-    "countrySlug": "dominica",
-    "countryName": "Dominica",
-    "countryCode": "DM",
-    "population": 0,
-    "lat": 15.3014,
-    "lng": -61.3883,
-    "timezone": "UTC",
-    "isCapital": false
-  },
-  {
     "slug": "rothensburg",
     "name": "Rothenburg ob der Tauber",
     "wikiTitle": "Rothenburg ob der Tauber",
@@ -23166,19 +22399,6 @@
     "isCapital": false
   },
   {
-    "slug": "salvador-bahia",
-    "name": "Salvador",
-    "wikiTitle": "Salvador, Bahia",
-    "countrySlug": "brazil",
-    "countryName": "Brazil",
-    "countryCode": "BR",
-    "population": 2900000,
-    "lat": -12.977,
-    "lng": -38.507,
-    "timezone": "America/Bahia",
-    "isCapital": false
-  },
-  {
     "slug": "salzburg",
     "name": "Salzburg",
     "wikiTitle": "Salzburg",
@@ -23348,19 +22568,6 @@
     "isCapital": true
   },
   {
-    "slug": "san-jose-cr",
-    "name": "San José",
-    "wikiTitle": "San José, Costa Rica",
-    "countrySlug": "costa-rica",
-    "countryName": "Costa Rica",
-    "countryCode": "CR",
-    "population": 340000,
-    "lat": 9.9281,
-    "lng": -84.0907,
-    "timezone": "America/Costa_Rica",
-    "isCapital": true
-  },
-  {
     "slug": "los-cabos",
     "name": "San José del Cabo",
     "wikiTitle": "San José del Cabo",
@@ -23426,19 +22633,6 @@
     "isCapital": false
   },
   {
-    "slug": "san-marino-city",
-    "name": "San Marino",
-    "wikiTitle": "City of San Marino",
-    "countrySlug": "san-marino",
-    "countryName": "San Marino",
-    "countryCode": "SM",
-    "population": 4000,
-    "lat": 43.9424,
-    "lng": 12.4578,
-    "timezone": "Europe/San_Marino",
-    "isCapital": true
-  },
-  {
     "slug": "san-miguel",
     "name": "San Miguel",
     "wikiTitle": "San Miguel",
@@ -23461,19 +22655,6 @@
     "population": 72000,
     "lat": 20.9144,
     "lng": -100.7452,
-    "timezone": "America/Mexico_City",
-    "isCapital": false
-  },
-  {
-    "slug": "san-miguel-mx",
-    "name": "San Miguel de Allende",
-    "wikiTitle": "San Miguel de Allende",
-    "countrySlug": "mexico",
-    "countryName": "Mexico",
-    "countryCode": "MX",
-    "population": 72000,
-    "lat": 20.91,
-    "lng": -100.74,
     "timezone": "America/Mexico_City",
     "isCapital": false
   },
@@ -23526,19 +22707,6 @@
     "population": 17429,
     "lat": 17.91598,
     "lng": -87.9659,
-    "timezone": "America/Belize",
-    "isCapital": false
-  },
-  {
-    "slug": "san-pedro-belize",
-    "name": "San Pedro",
-    "wikiTitle": "San Pedro Town",
-    "countrySlug": "belize",
-    "countryName": "Belize",
-    "countryCode": "BZ",
-    "population": 15000,
-    "lat": 17.9214,
-    "lng": -87.9611,
     "timezone": "America/Belize",
     "isCapital": false
   },
@@ -23751,19 +22919,6 @@
     "isCapital": false
   },
   {
-    "slug": "tenerife",
-    "name": "Santa Cruz de Tenerife",
-    "wikiTitle": "Santa Cruz de Tenerife",
-    "countrySlug": "spain",
-    "countryName": "Spain",
-    "countryCode": "ES",
-    "population": 0,
-    "lat": 28.4667,
-    "lng": -16.25,
-    "timezone": "Europe/Madrid",
-    "isCapital": false
-  },
-  {
     "slug": "santa-fe",
     "name": "Santa Fe",
     "wikiTitle": "Santa Fe, New Mexico",
@@ -23773,19 +22928,6 @@
     "population": 88000,
     "lat": 35.687,
     "lng": -105.9378,
-    "timezone": "America/Denver",
-    "isCapital": false
-  },
-  {
-    "slug": "santa-fe-nm",
-    "name": "Santa Fe",
-    "wikiTitle": "Santa Fe, New Mexico",
-    "countrySlug": "united-states",
-    "countryName": "United States",
-    "countryCode": "US",
-    "population": 88000,
-    "lat": 35.687,
-    "lng": -105.938,
     "timezone": "America/Denver",
     "isCapital": false
   },
@@ -24115,19 +23257,6 @@
     "isCapital": false
   },
   {
-    "slug": "savannah-ga",
-    "name": "Savannah",
-    "wikiTitle": "Savannah, Georgia",
-    "countrySlug": "united-states",
-    "countryName": "United States",
-    "countryCode": "US",
-    "population": 150000,
-    "lat": 32.08,
-    "lng": -81.09,
-    "timezone": "America/New_York",
-    "isCapital": false
-  },
-  {
     "slug": "savannakhet",
     "name": "Savannakhet",
     "wikiTitle": "Savannakhet",
@@ -24293,19 +23422,6 @@
     "population": 10000,
     "lat": 34.8697,
     "lng": -111.761,
-    "timezone": "America/Phoenix",
-    "isCapital": false
-  },
-  {
-    "slug": "sedona-az",
-    "name": "Sedona",
-    "wikiTitle": "Sedona",
-    "countrySlug": "united-states",
-    "countryName": "United States",
-    "countryCode": "US",
-    "population": 10000,
-    "lat": 34.87,
-    "lng": -111.76,
     "timezone": "America/Phoenix",
     "isCapital": false
   },
@@ -24564,19 +23680,6 @@
     "countryName": "Spain",
     "countryCode": "ES",
     "population": 688711,
-    "lat": 37.3891,
-    "lng": -5.9845,
-    "timezone": "Europe/Madrid",
-    "isCapital": false
-  },
-  {
-    "slug": "seville-alcazar",
-    "name": "Seville",
-    "wikiTitle": "Seville",
-    "countrySlug": "spain",
-    "countryName": "Spain",
-    "countryCode": "ES",
-    "population": 690000,
     "lat": 37.3891,
     "lng": -5.9845,
     "timezone": "Europe/Madrid",
@@ -25103,19 +24206,6 @@
     "isCapital": true
   },
   {
-    "slug": "skopie",
-    "name": "Skopje",
-    "wikiTitle": "Skopje",
-    "countrySlug": "north-macedonia",
-    "countryName": "North Macedonia",
-    "countryCode": "MK",
-    "population": 540000,
-    "lat": 41.998,
-    "lng": 21.425,
-    "timezone": "Europe/Skopje",
-    "isCapital": true
-  },
-  {
     "slug": "sliema",
     "name": "Sliema",
     "wikiTitle": "Sliema",
@@ -25321,19 +24411,6 @@
     "lat": 53.29026,
     "lng": -6.34151,
     "timezone": "Europe/Dublin",
-    "isCapital": false
-  },
-  {
-    "slug": "lake-tahoe",
-    "name": "South Lake Tahoe",
-    "wikiTitle": "South Lake Tahoe",
-    "countrySlug": "united-states",
-    "countryName": "United States",
-    "countryCode": "US",
-    "population": 22000,
-    "lat": 38.9399,
-    "lng": -119.9772,
-    "timezone": "America/Los_Angeles",
     "isCapital": false
   },
   {
@@ -25636,19 +24713,6 @@
     "isCapital": false
   },
   {
-    "slug": "cape-town-stellenbosch",
-    "name": "Stellenbosch",
-    "wikiTitle": "Stellenbosch",
-    "countrySlug": "south-africa",
-    "countryName": "South Africa",
-    "countryCode": "ZA",
-    "population": 180000,
-    "lat": -33.932,
-    "lng": 18.86,
-    "timezone": "Africa/Johannesburg",
-    "isCapital": false
-  },
-  {
     "slug": "kazbegi",
     "name": "Stepantsminda",
     "wikiTitle": "Stepantsminda",
@@ -25697,19 +24761,6 @@
     "population": 220000,
     "lat": -6.163,
     "lng": 39.188,
-    "timezone": "Africa/Dar_es_Salaam",
-    "isCapital": false
-  },
-  {
-    "slug": "stone-town",
-    "name": "Stone Town",
-    "wikiTitle": "Stone Town",
-    "countrySlug": "tanzania",
-    "countryName": "Tanzania",
-    "countryCode": "TZ",
-    "population": 0,
-    "lat": -6.1624,
-    "lng": 39.1913,
     "timezone": "Africa/Dar_es_Salaam",
     "isCapital": false
   },
@@ -25957,19 +25008,6 @@
     "population": 77366,
     "lat": -18.13683,
     "lng": 178.42531,
-    "timezone": "Pacific/Fiji",
-    "isCapital": true
-  },
-  {
-    "slug": "fiji-suva",
-    "name": "Suva",
-    "wikiTitle": "Suva",
-    "countrySlug": "fiji",
-    "countryName": "Fiji",
-    "countryCode": "FJ",
-    "population": 94000,
-    "lat": -18.1416,
-    "lng": 178.4419,
     "timezone": "Pacific/Fiji",
     "isCapital": true
   },
@@ -26728,19 +25766,6 @@
     "isCapital": false
   },
   {
-    "slug": "tequila-town",
-    "name": "Tequila",
-    "wikiTitle": "Tequila",
-    "countrySlug": "mexico",
-    "countryName": "Mexico",
-    "countryCode": "MX",
-    "population": 40000,
-    "lat": 20.88,
-    "lng": -103.84,
-    "timezone": "America/Mexico_City",
-    "isCapital": false
-  },
-  {
     "slug": "tequila",
     "name": "Tequila",
     "wikiTitle": "Tequila, Jalisco",
@@ -27075,19 +26100,6 @@
     "population": 84000,
     "lat": 39.8628,
     "lng": -4.0273,
-    "timezone": "Europe/Madrid",
-    "isCapital": false
-  },
-  {
-    "slug": "toledo-es",
-    "name": "Toledo",
-    "wikiTitle": "Toledo, Spain",
-    "countrySlug": "spain",
-    "countryName": "Spain",
-    "countryCode": "ES",
-    "population": 85000,
-    "lat": 39.863,
-    "lng": -4.027,
     "timezone": "Europe/Madrid",
     "isCapital": false
   },
@@ -28015,32 +27027,6 @@
     "isCapital": false
   },
   {
-    "slug": "vanga-vieng",
-    "name": "Vang Vieng",
-    "wikiTitle": "Vang Vieng",
-    "countrySlug": "laos",
-    "countryName": "Laos",
-    "countryCode": "LA",
-    "population": 25000,
-    "lat": 18.923,
-    "lng": 102.448,
-    "timezone": "Asia/Vientiane",
-    "isCapital": false
-  },
-  {
-    "slug": "vangsvieng",
-    "name": "Vang Vieng",
-    "wikiTitle": "Vang Vieng",
-    "countrySlug": "laos",
-    "countryName": "Laos",
-    "countryCode": "LA",
-    "population": 25000,
-    "lat": 18.922,
-    "lng": 102.448,
-    "timezone": "Asia/Vientiane",
-    "isCapital": false
-  },
-  {
     "slug": "vang-vieng",
     "name": "Vang Vieng",
     "wikiTitle": "Vang Vieng",
@@ -28314,19 +27300,6 @@
     "isCapital": true
   },
   {
-    "slug": "seychelles-victoria",
-    "name": "Victoria",
-    "wikiTitle": "Victoria, Seychelles",
-    "countrySlug": "seychelles",
-    "countryName": "Seychelles",
-    "countryCode": "SC",
-    "population": 27000,
-    "lat": -4.6191,
-    "lng": 55.4513,
-    "timezone": "Indian/Mahe",
-    "isCapital": true
-  },
-  {
     "slug": "victoria-bc",
     "name": "Victoria",
     "wikiTitle": "Victoria, British Columbia",
@@ -28353,19 +27326,6 @@
     "isCapital": false
   },
   {
-    "slug": "seychelles",
-    "name": "Victoria",
-    "wikiTitle": "Victoria, Seychelles",
-    "countrySlug": "seychelles",
-    "countryName": "Seychelles",
-    "countryCode": "SC",
-    "population": 0,
-    "lat": -4.6231,
-    "lng": 55.4525,
-    "timezone": "Indian/Mahe",
-    "isCapital": false
-  },
-  {
     "slug": "victoria-falls",
     "name": "Victoria Falls",
     "wikiTitle": "Victoria Falls",
@@ -28376,32 +27336,6 @@
     "lat": -17.9243,
     "lng": 25.8572,
     "timezone": "Africa/Harare",
-    "isCapital": false
-  },
-  {
-    "slug": "victoria-falls-town",
-    "name": "Victoria Falls",
-    "wikiTitle": "Victoria Falls, Zimbabwe",
-    "countrySlug": "zimbabwe",
-    "countryName": "Zimbabwe",
-    "countryCode": "ZW",
-    "population": 35000,
-    "lat": -17.9318,
-    "lng": 25.8307,
-    "timezone": "Africa/Harare",
-    "isCapital": false
-  },
-  {
-    "slug": "victoria-falls-zimbabwe",
-    "name": "Victoria Falls",
-    "wikiTitle": "Victoria Falls",
-    "countrySlug": "zimbabwe",
-    "countryName": "Zimbabwe",
-    "countryCode": "ZW",
-    "population": 0,
-    "lat": -17.9244,
-    "lng": 25.8567,
-    "timezone": "UTC",
     "isCapital": false
   },
   {
@@ -28704,19 +27638,6 @@
     "isCapital": false
   },
   {
-    "slug": "raja-ampat",
-    "name": "Waisai",
-    "wikiTitle": "Raja Ampat Islands",
-    "countrySlug": "indonesia",
-    "countryName": "Indonesia",
-    "countryCode": "ID",
-    "population": 0,
-    "lat": -0.2333,
-    "lng": 130.5079,
-    "timezone": "Asia/Jakarta",
-    "isCapital": false
-  },
-  {
     "slug": "wakayama",
     "name": "Wakayama",
     "wikiTitle": "Wakayama (city)",
@@ -28869,19 +27790,6 @@
     "population": 14000,
     "lat": 50.1163,
     "lng": -122.9574,
-    "timezone": "America/Vancouver",
-    "isCapital": false
-  },
-  {
-    "slug": "whistler-village",
-    "name": "Whistler",
-    "wikiTitle": "Whistler, British Columbia",
-    "countrySlug": "canada",
-    "countryName": "Canada",
-    "countryCode": "CA",
-    "population": 14000,
-    "lat": 50.116,
-    "lng": -122.957,
     "timezone": "America/Vancouver",
     "isCapital": false
   },
@@ -29075,19 +27983,6 @@
     "countryName": "China",
     "countryCode": "CN",
     "population": 12953000,
-    "lat": 34.3416,
-    "lng": 108.9398,
-    "timezone": "Asia/Shanghai",
-    "isCapital": false
-  },
-  {
-    "slug": "xian",
-    "name": "Xi'an",
-    "wikiTitle": "Xi'an",
-    "countrySlug": "china",
-    "countryName": "China",
-    "countryCode": "CN",
-    "population": 12000000,
     "lat": 34.3416,
     "lng": 108.9398,
     "timezone": "Asia/Shanghai",
@@ -29325,19 +28220,6 @@
     "lat": 33.2632,
     "lng": 131.3563,
     "timezone": "Asia/Tokyo",
-    "isCapital": false
-  },
-  {
-    "slug": "uluru-yulara",
-    "name": "Yulara",
-    "wikiTitle": "Yulara",
-    "countrySlug": "australia",
-    "countryName": "Australia",
-    "countryCode": "AU",
-    "population": 1000,
-    "lat": -25.2406,
-    "lng": 130.9889,
-    "timezone": "Australia/Darwin",
     "isCapital": false
   },
   {

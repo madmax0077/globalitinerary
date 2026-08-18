@@ -23,11 +23,31 @@ function countryMatch(a, b) {
   return norm(a) === norm(b);
 }
 
+function haversine(a, b) {
+  if (a?.lat == null || b?.lat == null) return Infinity;
+  const R = 6371;
+  const dLat = ((b.lat - a.lat) * Math.PI) / 180;
+  const dLng = ((b.lng - a.lng) * Math.PI) / 180;
+  const la1 = (a.lat * Math.PI) / 180;
+  const la2 = (b.lat * Math.PI) / 180;
+  const h = Math.sin(dLat / 2) ** 2 + Math.cos(la1) * Math.cos(la2) * Math.sin(dLng / 2) ** 2;
+  return 2 * R * Math.asin(Math.sqrt(h));
+}
+
 let targets = JSON.parse(fs.readFileSync(targetsPath, "utf8"));
 
 function exists(entry) {
   const slugs = new Set([entry.slug, ...(entry.alts || [])]);
-  return targets.some((t) => slugs.has(t.slug) && countryMatch(t.countrySlug, entry.countrySlug));
+  if (targets.some((t) => slugs.has(t.slug) && countryMatch(t.countrySlug, entry.countrySlug))) {
+    return true;
+  }
+  const name = String(entry.name || "").toLowerCase();
+  return targets.some((t) => {
+    if (!countryMatch(t.countrySlug, entry.countrySlug)) return false;
+    if (String(t.name).toLowerCase() !== name) return false;
+    if (entry.lat == null || t.lat == null) return true;
+    return haversine(t, entry) < 40;
+  });
 }
 
 const ALLOW_WITHOUT_COUNTRY = new Set([

@@ -1,4 +1,5 @@
 import type { NextConfig } from "next";
+import { CITY_SLUG_REDIRECTS } from "./src/data/city-slug-redirects";
 
 /**
  * Default: Next.js image optimizer → AVIF (preferred) + WebP fallback.
@@ -33,6 +34,13 @@ const nextConfig: NextConfig = {
   },
   experimental: {
     optimizePackageImports: ["lucide-react", "framer-motion", "recharts"],
+  },
+  async redirects() {
+    return Object.entries(CITY_SLUG_REDIRECTS).map(([from, to]) => ({
+      source: `/cities/${from}`,
+      destination: `/cities/${to}`,
+      permanent: true,
+    }));
   },
   async headers() {
     return [
