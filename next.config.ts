@@ -2,22 +2,28 @@ import type { NextConfig } from "next";
 import { CITY_SLUG_REDIRECTS } from "./src/data/city-slug-redirects";
 
 /**
- * Default: Next.js image optimizer → AVIF (preferred) + WebP fallback.
- * Opt into the custom CDN loader only when needed locally:
- *   USE_CUSTOM_IMAGE_LOADER=1 npm run dev
- * (e.g. corporate SSL inspection that breaks Node fetches to remotes).
+ * Custom CDN loader is the default so production does not burn Vercel
+ * Image Optimization cache writes (Hobby cap 100K/month).
+ *
+ * Opt back into `/_next/image` only if you explicitly want Vercel to transform:
+ *   USE_VERCEL_IMAGE_OPTIMIZATION=1
+ *
+ * Cloudflare AVIF/WebP: set NEXT_PUBLIC_CLOUDFLARE_IMAGE_RESIZE=1 after the
+ * domain is orange-clouded and Image Resizing is enabled on the zone.
  */
-const useCustomImageLoader = process.env.USE_CUSTOM_IMAGE_LOADER === "1";
+const useVercelImageOptimization =
+  process.env.USE_VERCEL_IMAGE_OPTIMIZATION === "1";
 
 const nextConfig: NextConfig = {
   images: {
-    ...(useCustomImageLoader
+    ...(useVercelImageOptimization
       ? {
+          formats: ["image/avif", "image/webp"] as const,
+        }
+      : {
           loader: "custom" as const,
           loaderFile: "./src/lib/image-loader.ts",
-        }
-      : {}),
-    // Negotiated by Accept header when using the default `/_next/image` optimizer.
+        }),
     formats: ["image/avif", "image/webp"],
     // Prefer modern formats aggressively; keep originals only as last resort.
     dangerouslyAllowSVG: false,

@@ -1,14 +1,24 @@
 /**
- * Custom Next.js image loader (opt-in via USE_CUSTOM_IMAGE_LOADER=1).
+ * Custom Next.js image loader — browsers talk to CDNs directly.
  *
- * Used when the Node-side `/_next/image` optimizer cannot fetch remotes
- * (e.g. corporate SSL-inspecting proxies). Otherwise prefer the default
- * optimizer so Next can serve AVIF/WebP.
+ * This avoids Vercel `/_next/image` (Image Optimization cache writes).
  *
- * Hands the browser a CDN URL directly, with on-the-fly resize where the CDN
- * supports it (Unsplash, Wikimedia Special:FilePath).
+ * Optional: set NEXT_PUBLIC_CLOUDFLARE_IMAGE_RESIZE=1 after the domain is
+ * proxied through Cloudflare with Image Resizing enabled. Wikimedia/local
+ * assets then get AVIF/WebP via `/cdn-cgi/image/...`.
  */
 import { wikimediaSizedUrl } from "@/lib/wikimedia";
+
+const useCloudflareResize =
+  process.env.NEXT_PUBLIC_CLOUDFLARE_IMAGE_RESIZE === "1";
+
+function cloudflareResize(src: string, width: number, quality?: number): string {
+  if (src.includes("/cdn-cgi/image/")) return src;
+  const q = quality ?? 75;
+  const options = `width=${width},quality=${q},format=auto,fit=scale-down`;
+  const path = src.startsWith("/") ? src : src;
+  return `/cdn-cgi/image/${options}/${path}`;
+}
 
 export default function imageLoader({
   src,
@@ -19,12 +29,14 @@ export default function imageLoader({
   width: number;
   quality?: number;
 }): string {
-  if (src.startsWith("/")) return src;
+  if (src.startsWith("/")) {
+    return useCloudflareResize ? cloudflareResize(src, width, quality) : src;
+  }
 
   try {
     const url = new URL(src);
 
-    // Unsplash — auto negotiates WebP/AVIF via `auto=format`.
+    // Unsplash already negotiates WebP/AVIF and resizes — do not proxy.
     if (url.hostname === "images.unsplash.com") {
       url.searchParams.set("auto", "format");
       url.searchParams.set("fit", "crop");
@@ -39,12 +51,18 @@ export default function imageLoader({
       return `https://i.pravatar.cc/${size}${img ? `?img=${img}` : ""}`;
     }
 
-    // Wikimedia — Special:FilePath (or leave existing thumbs alone).
+    if (url.hostname === "flagcdn.com") {
+      return url.toString();
+    }
+
+    if (useCloudflareResize) {
+      return cloudflareResize(url.toString(), width, quality);
+    }
+
     if (url.hostname === "upload.wikimedia.org") {
       return wikimediaSizedUrl(url.toString(), width);
     }
 
-    // Already a Special:FilePath URL — refresh width.
     if (
       (url.hostname === "commons.wikimedia.org" ||
         url.hostname.endsWith(".wikipedia.org")) &&
