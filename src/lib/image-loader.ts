@@ -1,24 +1,9 @@
 /**
- * Custom Next.js image loader — browsers talk to CDNs directly.
- *
- * This avoids Vercel `/_next/image` (Image Optimization cache writes).
- *
- * Optional: set NEXT_PUBLIC_CLOUDFLARE_IMAGE_RESIZE=1 after the domain is
- * proxied through Cloudflare with Image Resizing enabled. Wikimedia/local
- * assets then get AVIF/WebP via `/cdn-cgi/image/...`.
+ * Custom Next.js image loader — browsers fetch Unsplash / Wikimedia / flags
+ * directly. This avoids Vercel `/_next/image` Image Optimization cache writes
+ * (Hobby cap 100K/month).
  */
 import { wikimediaSizedUrl } from "@/lib/wikimedia";
-
-const useCloudflareResize =
-  process.env.NEXT_PUBLIC_CLOUDFLARE_IMAGE_RESIZE === "1";
-
-function cloudflareResize(src: string, width: number, quality?: number): string {
-  if (src.includes("/cdn-cgi/image/")) return src;
-  const q = quality ?? 75;
-  const options = `width=${width},quality=${q},format=auto,fit=scale-down`;
-  const path = src.startsWith("/") ? src : src;
-  return `/cdn-cgi/image/${options}/${path}`;
-}
 
 export default function imageLoader({
   src,
@@ -29,14 +14,12 @@ export default function imageLoader({
   width: number;
   quality?: number;
 }): string {
-  if (src.startsWith("/")) {
-    return useCloudflareResize ? cloudflareResize(src, width, quality) : src;
-  }
+  if (src.startsWith("/")) return src;
 
   try {
     const url = new URL(src);
 
-    // Unsplash already negotiates WebP/AVIF and resizes — do not proxy.
+    // Unsplash negotiates WebP/AVIF via auto=format and resizes with `w`.
     if (url.hostname === "images.unsplash.com") {
       url.searchParams.set("auto", "format");
       url.searchParams.set("fit", "crop");
@@ -49,14 +32,6 @@ export default function imageLoader({
       const img = url.searchParams.get("img");
       const size = Math.min(width, 512);
       return `https://i.pravatar.cc/${size}${img ? `?img=${img}` : ""}`;
-    }
-
-    if (url.hostname === "flagcdn.com") {
-      return url.toString();
-    }
-
-    if (useCloudflareResize) {
-      return cloudflareResize(url.toString(), width, quality);
     }
 
     if (url.hostname === "upload.wikimedia.org") {

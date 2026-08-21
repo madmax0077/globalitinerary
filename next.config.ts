@@ -7,9 +7,6 @@ import { CITY_SLUG_REDIRECTS } from "./src/data/city-slug-redirects";
  *
  * Opt back into `/_next/image` only if you explicitly want Vercel to transform:
  *   USE_VERCEL_IMAGE_OPTIMIZATION=1
- *
- * Cloudflare AVIF/WebP: set NEXT_PUBLIC_CLOUDFLARE_IMAGE_RESIZE=1 after the
- * domain is orange-clouded and Image Resizing is enabled on the zone.
  */
 const useVercelImageOptimization =
   process.env.USE_VERCEL_IMAGE_OPTIMIZATION === "1";
@@ -17,9 +14,7 @@ const useVercelImageOptimization =
 const nextConfig: NextConfig = {
   images: {
     ...(useVercelImageOptimization
-      ? {
-          formats: ["image/avif", "image/webp"] as const,
-        }
+      ? {}
       : {
           loader: "custom" as const,
           loaderFile: "./src/lib/image-loader.ts",
