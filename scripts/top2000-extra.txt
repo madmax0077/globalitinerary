@@ -1,0 +1,507 @@
+# Top tourism cities beyond uniqueTop1500. Format:
+# slug|name|countrySlug|CC|countryName|lat|lng|timezone|population|isCapital|wikiTitle?
+cortona|Cortona|italy|IT|Italy|43.2756|11.9881|Europe/Rome|0|0
+todi|Todi|italy|IT|Italy|42.7820|12.4069|Europe/Rome|0|0
+madonna-di-campiglio|Madonna di Campiglio|italy|IT|Italy|46.2319|10.8261|Europe/Rome|0|0
+courmayeur|Courmayeur|italy|IT|Italy|45.7833|6.9667|Europe/Rome|0|0
+aosta|Aosta|italy|IT|Italy|45.7333|7.3167|Europe/Rome|0|0
+tropea|Tropea|italy|IT|Italy|38.6754|15.8948|Europe/Rome|0|0
+herculaneum|Herculaneum|italy|IT|Italy|40.8060|14.3482|Europe/Rome|0|0
+deauville|Deauville|france|FR|France|49.3600|0.0800|Europe/Paris|0|0
+dinan|Dinan|france|FR|France|48.4564|-2.0489|Europe/Paris|0|0
+quimper|Quimper|france|FR|France|47.9967|-4.0964|Europe/Paris|0|0
+carnac|Carnac|france|FR|France|47.5847|-3.0794|Europe/Paris|0|0
+la-baule|La Baule-Escoublac|france|FR|France|47.2867|-2.3908|Europe/Paris|0|0
+beaune|Beaune|france|FR|France|47.0250|4.8397|Europe/Paris|0|0
+auxerre|Auxerre|france|FR|France|47.7986|3.5672|Europe/Paris|0|0
+vezelay|Vézelay|france|FR|France|47.4667|3.7467|Europe/Paris|0|0
+ribeauville|Ribeauvillé|france|FR|France|48.2000|7.3200|Europe/Paris|0|0
+riquewihr|Riquewihr|france|FR|France|48.1672|7.2978|Europe/Paris|0|0
+cassis|Cassis|france|FR|France|43.2167|5.5389|Europe/Paris|0|0
+les-baux|Les Baux-de-Provence|france|FR|France|43.7439|4.7953|Europe/Paris|0|0
+rousillon-provence|Roussillon|france|FR|France|43.9031|5.2936|Europe/Paris|0|0|Roussillon, Vaucluse
+lourmarin|Lourmarin|france|FR|France|43.7696|5.3630|Europe/Paris|0|0
+beynac|Beynac-et-Cazenac|france|FR|France|44.8411|1.1447|Europe/Paris|0|0
+la-roque-gageac|La Roque-Gageac|france|FR|France|44.8272|1.1833|Europe/Paris|0|0
+saint-jean-de-luz|Saint-Jean-de-Luz|france|FR|France|43.3900|-1.6600|Europe/Paris|0|0
+aigues-mortes|Aigues-Mortes|france|FR|France|43.5675|4.1933|Europe/Paris|0|0
+sete|Sète|france|FR|France|43.4053|3.6975|Europe/Paris|0|0
+collioure|Collioure|france|FR|France|42.5267|3.0814|Europe/Paris|0|0
+burgos|Burgos|spain|ES|Spain|42.3500|-3.7067|Europe/Madrid|0|0
+gijon|Gijón|spain|ES|Spain|43.5333|-5.7000|Europe/Madrid|0|0
+alcudia|Alcúdia|spain|ES|Spain|39.8525|3.1192|Europe/Madrid|0|0
+soller|Sóller|spain|ES|Spain|39.7675|2.7140|Europe/Madrid|0|0
+formentera|Formentera|spain|ES|Spain|38.7000|1.4500|Europe/Madrid|0|0
+mao|Mahón|spain|ES|Spain|39.8875|4.2611|Europe/Madrid|0|0
+puerto-de-la-cruz|Puerto de la Cruz|spain|ES|Spain|28.4167|-16.5333|Europe/Madrid|0|0
+albufeira|Albufeira|portugal|PT|Portugal|37.0897|-8.2458|Europe/Lisbon|0|0
+fatima|Fátima|portugal|PT|Portugal|39.6256|-8.6658|Europe/Lisbon|0|0|Fátima, Portugal
+setubal|Setúbal|portugal|PT|Portugal|38.5243|-8.8926|Europe/Lisbon|0|0
+lauterbrunnen|Lauterbrunnen|switzerland|CH|Switzerland|46.5950|7.9074|Europe/Zurich|0|0
+wengen|Wengen|switzerland|CH|Switzerland|46.6056|7.9214|Europe/Zurich|0|0
+murren|Mürren|switzerland|CH|Switzerland|46.5594|7.8922|Europe/Zurich|0|0
+klosters|Klosters|switzerland|CH|Switzerland|46.8833|9.8833|Europe/Zurich|0|0
+ascona|Ascona|switzerland|CH|Switzerland|46.1550|8.7680|Europe/Zurich|0|0
+gruyeres|Gruyères|switzerland|CH|Switzerland|46.5833|7.0833|Europe/Zurich|0|0
+appenzell|Appenzell|switzerland|CH|Switzerland|47.3461|9.3419|Europe/Zurich|0|0
+mayrhofen|Mayrhofen|austria|AT|Austria|47.1667|11.8667|Europe/Vienna|0|0
+st-anton|St. Anton am Arlberg|austria|AT|Austria|47.1167|10.2667|Europe/Vienna|0|0
+hall-in-tirol|Hall in Tirol|austria|AT|Austria|47.2833|11.5000|Europe/Vienna|0|0
+gmunden|Gmunden|austria|AT|Austria|47.9181|13.7994|Europe/Vienna|0|0
+bad-ischl|Bad Ischl|austria|AT|Austria|47.7203|13.6333|Europe/Vienna|0|0
+villach|Villach|austria|AT|Austria|46.6167|13.8500|Europe/Vienna|0|0
+klagenfurt|Klagenfurt|austria|AT|Austria|46.6167|14.3000|Europe/Vienna|0|0
+regensburg|Regensburg|germany|DE|Germany|49.0167|12.0833|Europe/Berlin|0|0
+wiesbaden|Wiesbaden|germany|DE|Germany|50.0825|8.2400|Europe/Berlin|0|0
+mainz|Mainz|germany|DE|Germany|49.9994|8.2736|Europe/Berlin|0|0
+koblenz|Koblenz|germany|DE|Germany|50.3597|7.5978|Europe/Berlin|0|0
+cochem|Cochem|germany|DE|Germany|50.1469|7.1667|Europe/Berlin|0|0
+bacharach|Bacharach|germany|DE|Germany|50.0667|7.7667|Europe/Berlin|0|0
+lindau|Lindau|germany|DE|Germany|47.5458|9.6833|Europe/Berlin|0|0
+konstanz|Konstanz|germany|DE|Germany|47.6667|9.1833|Europe/Berlin|0|0
+schwerin|Schwerin|germany|DE|Germany|53.6333|11.4167|Europe/Berlin|0|0
+weimar|Weimar|germany|DE|Germany|50.9811|11.3294|Europe/Berlin|0|0
+erfurt|Erfurt|germany|DE|Germany|50.9781|11.0289|Europe/Berlin|0|0
+quedlinburg|Quedlinburg|germany|DE|Germany|51.7917|11.1472|Europe/Berlin|0|0
+goslar|Goslar|germany|DE|Germany|51.9072|10.4300|Europe/Berlin|0|0
+wernigerode|Wernigerode|germany|DE|Germany|51.8350|10.7853|Europe/Berlin|0|0
+ceske-budejovice|České Budějovice|czechia|CZ|Czech Republic|48.9747|14.4747|Europe/Prague|0|0
+perast|Perast|montenegro|ME|Montenegro|42.4869|18.6992|Europe/Podgorica|0|0
+tivat|Tivat|montenegro|ME|Montenegro|42.4300|18.7000|Europe/Podgorica|0|0
+bodo|Bodø|norway|NO|Norway|67.2827|14.3751|Europe/Oslo|0|0|Bodø Municipality
+savonlinna|Savonlinna|finland|FI|Finland|61.8681|28.8861|Europe/Helsinki|0|0
+levi|Levi|finland|FI|Finland|67.8050|24.8020|Europe/Helsinki|0|0|Levi, Finland
+husavik|Húsavík|iceland|IS|Iceland|66.0500|-17.3167|Atlantic/Reykjavik|0|0
+vik-iceland|Vík í Mýrdal|iceland|IS|Iceland|63.4194|-19.0097|Atlantic/Reykjavik|0|0
+selfoss|Selfoss|iceland|IS|Iceland|63.9333|-21.0000|Atlantic/Reykjavik|0|0|Selfoss (town)
+kilkenny|Kilkenny|ireland|IE|Ireland|52.6506|-7.2514|Europe/Dublin|0|0
+kinsale|Kinsale|ireland|IE|Ireland|51.7056|-8.5222|Europe/Dublin|0|0
+westport-ie|Westport|ireland|IE|Ireland|53.8000|-9.5333|Europe/Dublin|0|0|Westport, County Mayo
+derry|Derry|united-kingdom|GB|United Kingdom|54.9975|-7.3200|Europe/London|0|0
+stratford-upon-avon|Stratford-upon-Avon|united-kingdom|GB|United Kingdom|52.1928|-1.7064|Europe/London|0|0
+chester|Chester|united-kingdom|GB|United Kingdom|53.1914|-2.8903|Europe/London|0|0
+penzance|Penzance|united-kingdom|GB|United Kingdom|50.1190|-5.5370|Europe/London|0|0
+salisbury|Salisbury|united-kingdom|GB|United Kingdom|51.0697|-1.7950|Europe/London|0|0
+stonehenge-amesbury|Amesbury|united-kingdom|GB|United Kingdom|51.1730|-1.7800|Europe/London|0|0
+bibury|Bibury|united-kingdom|GB|United Kingdom|51.7582|-1.8324|Europe/London|0|0
+castle-combe|Castle Combe|united-kingdom|GB|United Kingdom|51.4930|-2.2290|Europe/London|0|0
+fort-william|Fort William|united-kingdom|GB|United Kingdom|56.8198|-5.1052|Europe/London|0|0|Fort William, Scotland
+tenby|Tenby|united-kingdom|GB|United Kingdom|51.6745|-4.7044|Europe/London|0|0
+snowdonia-betws|Betws-y-Coed|united-kingdom|GB|United Kingdom|53.0920|-3.8010|Europe/London|0|0
+milos|Milos|greece|GR|Greece|36.6875|24.4325|Europe/Athens|0|0
+rethymno|Rethymno|greece|GR|Greece|35.3689|24.4739|Europe/Athens|0|0
+kos|Kos|greece|GR|Greece|36.8500|27.2333|Europe/Athens|0|0
+lefkada|Lefkada|greece|GR|Greece|38.7167|20.6500|Europe/Athens|0|0
+kurokawa|Minamioguni|japan|JP|Japan|33.0986|131.0706|Asia/Tokyo|0|0|Minamioguni, Kumamoto
+shirakawa-go|Shirakawa|japan|JP|Japan|36.2709|136.8986|Asia/Tokyo|0|0|Shirakawa, Gifu (village)
+hagi|Hagi|japan|JP|Japan|34.4081|131.3992|Asia/Tokyo|0|0|Hagi, Yamaguchi
+luoyang|Luoyang|china|CN|China|34.6197|112.4539|Asia/Shanghai|0|0
+ha-giang|Hà Giang|vietnam|VN|Vietnam|22.8333|104.9833|Asia/Ho_Chi_Minh|0|0
+nusa-dua|Nusa Dua|indonesia|ID|Indonesia|-8.8025|115.2275|Asia/Jakarta|0|0
+calangute|Calangute|india|IN|India|15.5417|73.7619|Asia/Kolkata|0|0
+madurai|Madurai|india|IN|India|9.9252|78.1198|Asia/Kolkata|0|0
+anuradhapura|Anuradhapura|sri-lanka|LK|Sri Lanka|8.3350|80.4108|Asia/Colombo|0|0
+jerash|Jerash|jordan|JO|Jordan|32.2806|35.8972|Asia/Amman|0|0
+acre|Acre|israel|IL|Israel|32.9278|35.0817|Asia/Jerusalem|0|0|Acre, Israel
+meknes|Meknes|morocco|MA|Morocco|33.8950|-5.5547|Africa/Casablanca|0|0
+sidi-bou-said|Sidi Bou Said|tunisia|TN|Tunisia|36.8717|10.3472|Africa/Tunis|0|0
+moshi|Moshi|tanzania|TZ|Tanzania|-3.3349|37.3404|Africa/Dar_es_Salaam|0|0|Moshi, Tanzania
+diani|Ukunda|kenya|KE|Kenya|-4.3222|39.5750|Africa/Nairobi|0|0|Diani Beach
+sesriem|Sesriem|namibia|NA|Namibia|-24.5186|15.1000|Africa/Windhoek|0|0
+la-digue|La Digue|seychelles|SC|Seychelles|-4.3800|55.8467|Indian/Mahe|0|0
+praslin|Praslin|seychelles|SC|Seychelles|-4.3300|55.7467|Indian/Mahe|0|0
+flic-en-flac|Flic-en-Flac|mauritius|MU|Mauritius|-20.2798|57.3665|Indian/Mauritius|0|0
+axum|Axum|ethiopia|ET|Ethiopia|14.1208|38.7278|Africa/Addis_Ababa|0|0
+bryce-canyon|Bryce Canyon City|united-states|US|United States|37.6739|-112.1569|America/New_York|0|0|Bryce Canyon City, Utah
+placencia|Placencia|belize|BZ|Belize|16.5139|-88.3667|America/Belize|0|0
+puerto-viejo|Puerto Viejo de Talamanca|costa-rica|CR|Costa Rica|9.6583|-82.7528|America/Costa_Rica|0|0
+santa-marta|Santa Marta|colombia|CO|Colombia|11.2419|-74.2053|America/Bogota|0|0
+ica|Ica|peru|PE|Peru|-14.0667|-75.7333|America/Lima|0|0|Ica, Peru
+banos|Baños de Agua Santa|ecuador|EC|Ecuador|-1.3964|-78.4247|America/Guayaquil|0|0
+punta-arenas|Punta Arenas|chile|CL|Chile|-53.1667|-70.9333|America/Santiago|0|0
+paraty|Paraty|brazil|BR|Brazil|-23.2194|-44.7147|America/Sao_Paulo|0|0
+buzios|Armação dos Búzios|brazil|BR|Brazil|-22.7469|-41.8819|America/Sao_Paulo|0|0
+ouro-preto|Ouro Preto|brazil|BR|Brazil|-20.3853|-43.5036|America/Sao_Paulo|0|0
+harbour-island|Dunmore Town|bahamas|BS|Bahamas|25.5019|-76.6358|America/Nassau|0|0
+hobbiton-matamata|Matamata|new-zealand|NZ|New Zealand|-37.8167|175.7667|Pacific/Auckland|0|0
+te-anau|Te Anau|new-zealand|NZ|New Zealand|-45.4167|167.7167|Pacific/Auckland|0|0
+franz-josef|Franz Josef / Waiau|new-zealand|NZ|New Zealand|-43.3881|170.1819|Pacific/Auckland|0|0
+airlie-beach|Airlie Beach|australia|AU|Australia|-20.2744|148.7150|Australia/Sydney|0|0|Airlie Beach, Queensland
+barossa|Tanunda|australia|AU|Australia|-34.5167|138.9667|Australia/Sydney|0|0|Tanunda, South Australia
+trabzon|Trabzon|turkiye|TR|Turkey|41.0050|39.7225|Europe/Istanbul|0|0
+pecs|Pécs|hungary|HU|Hungary|46.0708|18.2331|Europe/Budapest|0|0
+christiansted|Christiansted|us-virgin-islands|VI|United States Virgin Islands|17.7500|-64.7500|America/St_Thomas|0|0|Christiansted, U.S. Virgin Islands
+road-town|Road Town|british-virgin-islands|VG|British Virgin Islands|18.4314|-64.6231|America/Tortola|0|0
+george-town-cayman|George Town|cayman-islands|KY|Cayman Islands|19.2964|-81.3817|America/Cayman|0|0|George Town, Cayman Islands
+nuuk|Nuuk|greenland|GL|Greenland|64.1767|-51.7361|America/Nuuk|0|0
+longyearbyen|Longyearbyen|svalbard-and-jan-mayen|SJ|Svalbard|78.2200|15.6500|Arctic/Longyearbyen|0|0
+stanley-falklands|Stanley|falkland-islands|FK|Falkland Islands|-51.6950|-57.8506|Atlantic/Stanley|0|0|Stanley, Falkland Islands
+pago-pago|Pago Pago|american-samoa|AS|American Samoa|-14.2739|-170.7044|Pacific/Pago_Pago|0|0|Pago Pago, American Samoa
+saint-denis-reunion|Saint-Denis|reunion|RE|Réunion|-20.8789|55.4481|Indian/Reunion|0|0|Saint-Denis, Réunion
+fort-de-france|Fort-de-France|martinique|MQ|Martinique|14.6000|-61.0667|America/Martinique|0|0
+pointe-a-pitre|Pointe-à-Pitre|guadeloupe|GP|Guadeloupe|16.2411|-61.5331|America/Guadeloupe|0|0
+cayenne|Cayenne|french-guiana|GF|French Guiana|4.9372|-52.3260|America/Cayenne|0|0
+pristina|Pristina|kosovo|XK|Kosovo|42.6667|21.1667|Europe/Belgrade|0|0
+gibraltar|Gibraltar|gibraltar|GI|Gibraltar|36.1400|-5.3500|Europe/Gibraltar|0|0
+douglas-iom|Douglas|isle-of-man|IM|Isle of Man|54.1500|-4.4775|Europe/Isle_of_Man|0|0|Douglas, Isle of Man
+st-helier|Saint Helier|jersey|JE|Jersey|49.1858|-2.1100|Europe/Jersey|0|0|St Helier
+st-peter-port|Saint Peter Port|guernsey|GG|Guernsey|49.4555|-2.5368|Europe/Guernsey|0|0
+maiori|Maiori|italy|IT|Italy|40.6500|14.6500|Europe/Rome|0|0
+civita-di-bagnoregio|Civita di Bagnoregio|italy|IT|Italy|42.6278|12.1139|Europe/Rome|0|0
+pitigliano|Pitigliano|italy|IT|Italy|42.6333|11.6667|Europe/Rome|0|0
+lipari|Lipari|italy|IT|Italy|38.4667|14.9500|Europe/Rome|0|0
+stromboli|Stromboli|italy|IT|Italy|38.7939|15.2111|Europe/Rome|0|0
+panarea|Panarea|italy|IT|Italy|38.6375|15.0667|Europe/Rome|0|0
+vulcano-island|Vulcano|italy|IT|Italy|38.3994|14.9640|Europe/Rome|0|0
+pantelleria|Pantelleria|italy|IT|Italy|36.7875|11.9925|Europe/Rome|0|0
+lampedusa|Lampedusa|italy|IT|Italy|35.5150|12.5800|Europe/Rome|0|0
+viareggio|Viareggio|italy|IT|Italy|43.8667|10.2333|Europe/Rome|0|0
+pietrasanta|Pietrasanta|italy|IT|Italy|43.9667|10.2333|Europe/Rome|0|0
+lerici|Lerici|italy|IT|Italy|44.0764|9.9111|Europe/Rome|0|0
+rapallo|Rapallo|italy|IT|Italy|44.3500|9.2333|Europe/Rome|0|0
+santa-margherita-ligure|Santa Margherita Ligure|italy|IT|Italy|44.3333|9.2167|Europe/Rome|0|0
+asolo|Asolo|italy|IT|Italy|45.8000|11.9167|Europe/Rome|0|0
+bassano-del-grappa|Bassano del Grappa|italy|IT|Italy|45.7667|11.7342|Europe/Rome|0|0
+gallipoli-italy|Gallipoli|italy|IT|Italy|40.0556|17.9917|Europe/Rome|0|0|Gallipoli, Apulia
+scilla|Scilla|italy|IT|Italy|38.2507|15.7190|Europe/Rome|0|0|Scilla, Calabria
+san-vito-lo-capo|San Vito Lo Capo|italy|IT|Italy|38.1667|12.7500|Europe/Rome|0|0
+castellammare-del-golfo|Castellammare del Golfo|italy|IT|Italy|38.0264|12.8806|Europe/Rome|0|0
+livigno|Livigno|italy|IT|Italy|46.5333|10.1333|Europe/Rome|0|0
+canazei|Canazei|italy|IT|Italy|46.4750|11.7733|Europe/Rome|0|0
+selva-gardena|Selva di Val Gardena|italy|IT|Italy|46.5500|11.7667|Europe/Rome|0|0|Sëlva
+corvara|Corvara in Badia|italy|IT|Italy|46.5500|11.8667|Europe/Rome|0|0|Corvara, South Tyrol
+malcesine|Malcesine|italy|IT|Italy|45.7667|10.8167|Europe/Rome|0|0
+limone-sul-garda|Limone sul Garda|italy|IT|Italy|45.8083|10.7875|Europe/Rome|0|0
+riva-del-garda|Riva del Garda|italy|IT|Italy|45.8833|10.8500|Europe/Rome|0|0
+desenzano|Desenzano del Garda|italy|IT|Italy|45.4667|10.5333|Europe/Rome|0|0
+tremezzo|Tremezzo|italy|IT|Italy|45.9833|9.2333|Europe/Rome|0|0
+chioggia|Chioggia|italy|IT|Italy|45.2196|12.2789|Europe/Rome|0|0
+ortona|Ortona|italy|IT|Italy|42.3500|14.4000|Europe/Rome|0|0
+trouville|Trouville-sur-Mer|france|FR|France|49.3683|0.0825|Europe/Paris|0|0
+cabourg|Cabourg|france|FR|France|49.2880|-0.1163|Europe/Paris|0|0
+granville|Granville|france|FR|France|48.8374|-1.5939|Europe/Paris|0|0|Granville, Manche
+cancale|Cancale|france|FR|France|48.6769|-1.8506|Europe/Paris|0|0
+dinard|Dinard|france|FR|France|48.6300|-2.0600|Europe/Paris|0|0
+concarneau|Concarneau|france|FR|France|47.8761|-3.9178|Europe/Paris|0|0
+pont-aven|Pont-Aven|france|FR|France|47.8564|-3.7458|Europe/Paris|0|0
+locronan|Locronan|france|FR|France|48.1000|-4.2067|Europe/Paris|0|0
+villefranche-sur-mer|Villefranche-sur-Mer|france|FR|France|43.7050|7.3125|Europe/Paris|0|0
+hyeres|Hyères|france|FR|France|43.1199|6.1316|Europe/Paris|0|0
+bandol|Bandol|france|FR|France|43.1371|5.7316|Europe/Paris|0|0
+uzes|Uzès|france|FR|France|44.0130|4.4205|Europe/Paris|0|0
+vaison-la-romaine|Vaison-la-Romaine|france|FR|France|44.2422|5.0724|Europe/Paris|0|0
+l-isle-sur-la-sorgue|L'Isle-sur-la-Sorgue|france|FR|France|43.9199|5.0549|Europe/Paris|0|0
+bonnieux|Bonnieux|france|FR|France|43.8239|5.3075|Europe/Paris|0|0
+menerbes|Ménerbes|france|FR|France|43.8333|5.2072|Europe/Paris|0|0
+saint-remy-de-provence|Saint-Rémy-de-Provence|france|FR|France|43.7900|4.8325|Europe/Paris|0|0
+saint-cirq-lapopie|Saint-Cirq-Lapopie|france|FR|France|44.4653|1.6706|Europe/Paris|0|0
+conques|Conques|france|FR|France|44.6003|2.3972|Europe/Paris|0|0
+collonges-la-rouge|Collonges-la-Rouge|france|FR|France|45.0610|1.6550|Europe/Paris|0|0
+eguisheim|Eguisheim|france|FR|France|48.0436|7.3067|Europe/Paris|0|0
+kaysersberg|Kaysersberg|france|FR|France|48.1400|7.2600|Europe/Paris|0|0
+chinon|Chinon|france|FR|France|47.1678|0.2436|Europe/Paris|0|0
+saumur|Saumur|france|FR|France|47.2600|-0.0769|Europe/Paris|0|0
+amboise|Amboise|france|FR|France|47.4042|0.9800|Europe/Paris|0|0
+blois|Blois|france|FR|France|47.5939|1.3281|Europe/Paris|0|0
+loches|Loches|france|FR|France|47.1292|0.9961|Europe/Paris|0|0
+saint-martin-de-re|Saint-Martin-de-Ré|france|FR|France|46.2031|-1.3672|Europe/Paris|0|0
+saint-jean-pied-de-port|Saint-Jean-Pied-de-Port|france|FR|France|43.1650|-1.2356|Europe/Paris|0|0
+esplette|Espelette|france|FR|France|43.3414|-1.4464|Europe/Paris|0|0
+talloires|Talloires|france|FR|France|45.8411|6.2144|Europe/Paris|0|0
+orange-france|Orange|france|FR|France|44.1383|4.8097|Europe/Paris|0|0|Orange, Vaucluse
+apt|Apt|france|FR|France|43.8769|5.3969|Europe/Paris|0|0|Apt, Vaucluse
+nuyts|Nuits-Saint-Georges|france|FR|France|47.1383|4.9511|Europe/Paris|0|0
+gevrey|Gevrey-Chambertin|france|FR|France|47.2272|4.9681|Europe/Paris|0|0
+arromanches|Arromanches-les-Bains|france|FR|France|49.3400|-0.6211|Europe/Paris|0|0
+barfleur|Barfleur|france|FR|France|49.6711|-1.2633|Europe/Paris|0|0
+perros-guirec|Perros-Guirec|france|FR|France|48.8142|-3.4422|Europe/Paris|0|0
+auray|Auray|france|FR|France|47.6686|-2.9814|Europe/Paris|0|0
+sanary|Sanary-sur-Mer|france|FR|France|43.1180|5.8014|Europe/Paris|0|0
+fontaine-de-vaucluse|Fontaine-de-Vaucluse|france|FR|France|43.9231|5.1270|Europe/Paris|0|0
+minerve|Minerve|france|FR|France|43.3547|2.7472|Europe/Paris|0|0|Minerve, Hérault
+nerja|Nerja|spain|ES|Spain|36.7469|-3.8789|Europe/Madrid|0|0
+frigiliana|Frigiliana|spain|ES|Spain|36.7833|-3.9000|Europe/Madrid|0|0
+mijas|Mijas|spain|ES|Spain|36.6000|-4.6333|Europe/Madrid|0|0
+antequera|Antequera|spain|ES|Spain|37.0183|-4.5597|Europe/Madrid|0|0
+setenil|Setenil de las Bodegas|spain|ES|Spain|36.8625|-5.1814|Europe/Madrid|0|0
+vejer|Vejer de la Frontera|spain|ES|Spain|36.2500|-5.9667|Europe/Madrid|0|0
+tarifa|Tarifa|spain|ES|Spain|36.0140|-5.6060|Europe/Madrid|0|0
+roses-spain|Roses|spain|ES|Spain|42.2631|3.1831|Europe/Madrid|0|0|Roses, Spain
+peniscola|Peñíscola|spain|ES|Spain|40.3592|0.4075|Europe/Madrid|0|0|Peniscola
+calpe|Calp|spain|ES|Spain|38.6444|0.0461|Europe/Madrid|0|0|Calpe
+elche|Elche|spain|ES|Spain|38.2669|-0.6983|Europe/Madrid|0|0
+albarracin|Albarracín|spain|ES|Spain|40.4083|-1.4394|Europe/Madrid|0|0
+teruel|Teruel|spain|ES|Spain|40.3436|-1.1072|Europe/Madrid|0|0
+santillana-del-mar|Santillana del Mar|spain|ES|Spain|43.3933|-4.1047|Europe/Madrid|0|0
+comillas|Comillas|spain|ES|Spain|43.3869|-4.2894|Europe/Madrid|0|0
+llanes|Llanes|spain|ES|Spain|43.4214|-4.7564|Europe/Madrid|0|0
+cudillero|Cudillero|spain|ES|Spain|43.5600|-6.1500|Europe/Madrid|0|0
+cambados|Cambados|spain|ES|Spain|42.5147|-8.8136|Europe/Madrid|0|0
+pontevedra|Pontevedra|spain|ES|Spain|42.4333|-8.6333|Europe/Madrid|0|0
+lugo|Lugo|spain|ES|Spain|43.0167|-7.5500|Europe/Madrid|0|0
+morella|Morella|spain|ES|Spain|40.6196|-0.1017|Europe/Madrid|0|0|Morella, Spain
+olhao|Olhão|portugal|PT|Portugal|37.0250|-7.8417|Europe/Lisbon|0|0
+sesimbra|Sesimbra|portugal|PT|Portugal|38.4437|-9.0996|Europe/Lisbon|0|0
+estoril|Estoril|portugal|PT|Portugal|38.7042|-9.3983|Europe/Lisbon|0|0
+viseu|Viseu|portugal|PT|Portugal|40.6667|-7.9167|Europe/Lisbon|0|0
+lamego|Lamego|portugal|PT|Portugal|41.1008|-7.8100|Europe/Lisbon|0|0
+peso-da-regua|Peso da Régua|portugal|PT|Portugal|41.1653|-7.7764|Europe/Lisbon|0|0
+pinhao|Pinhão|portugal|PT|Portugal|41.2761|-7.4750|Europe/Lisbon|0|0|Alijó
+batalha|Batalha|portugal|PT|Portugal|39.6581|-8.8244|Europe/Lisbon|0|0|Batalha, Portugal
+tomar|Tomar|portugal|PT|Portugal|39.6000|-8.4167|Europe/Lisbon|0|0
+alcobaca|Alcobaça|portugal|PT|Portugal|39.5528|-8.9778|Europe/Lisbon|0|0|Alcobaça, Portugal
+porto-moniz|Porto Moniz|portugal|PT|Portugal|32.8125|-17.1458|Europe/Lisbon|0|0
+santana-madeira|Santana|portugal|PT|Portugal|32.8037|-16.8798|Europe/Lisbon|0|0|Santana, Madeira
+angra-do-heroismo|Angra do Heroísmo|portugal|PT|Portugal|38.6556|-27.2194|Europe/Lisbon|0|0
+furnas|Furnas|portugal|PT|Portugal|37.7722|-25.3131|Europe/Lisbon|0|0
+chaves|Chaves|portugal|PT|Portugal|41.7406|-7.4714|Europe/Lisbon|0|0|Chaves, Portugal
+braganca-pt|Bragança|portugal|PT|Portugal|41.8067|-6.7589|Europe/Lisbon|0|0|Bragança, Portugal
+saint-emilion|Saint-Émilion|france|FR|France|44.8936|-0.1547|Europe/Paris|0|0
+arcachon|Arcachon|france|FR|France|44.6500|-1.1700|Europe/Paris|0|0
+cap-ferret|Lège-Cap-Ferret|france|FR|France|44.7939|-1.1453|Europe/Paris|0|0
+biarritz-anglet|Anglet|france|FR|France|43.4850|-1.5183|Europe/Paris|0|0
+hossegor|Soorts-Hossegor|france|FR|France|43.6594|-1.4267|Europe/Paris|0|0
+dax|Dax|france|FR|France|43.7100|-1.0500|Europe/Paris|0|0|Dax, Landes
+alpe-dhuez|Alpe d'Huez|france|FR|France|45.0603|6.0714|Europe/Paris|0|0
+tignes|Tignes|france|FR|France|45.4683|6.9056|Europe/Paris|0|0
+les-arcs|Bourg-Saint-Maurice|france|FR|France|45.6175|6.7694|Europe/Paris|0|0
+morzine|Morzine|france|FR|France|46.1789|6.7089|Europe/Paris|0|0
+avoriaz|Avoriaz|france|FR|France|46.1908|6.7750|Europe/Paris|0|0
+la-clusaz|La Clusaz|france|FR|France|45.9050|6.4239|Europe/Paris|0|0
+sestriere|Sestriere|italy|IT|Italy|44.9500|6.8833|Europe/Rome|0|0
+limone-piemonte|Limone Piemonte|italy|IT|Italy|44.2000|7.5667|Europe/Rome|0|0
+corniglia|Corniglia|italy|IT|Italy|44.1197|9.7086|Europe/Rome|0|0
+san-cassiano|San Cassiano|italy|IT|Italy|40.0500|18.3333|Europe/Rome|0|0
+arabba|Arabba|italy|IT|Italy|46.4833|11.9500|Europe/Rome|0|0|Livinallongo del Col di Lana
+san-candido|Innichen|italy|IT|Italy|46.7333|12.2833|Europe/Rome|0|0
+dobbiaco|Toblach|italy|IT|Italy|46.7333|12.2167|Europe/Rome|0|0
+brunico|Bruneck|italy|IT|Italy|46.8000|11.9333|Europe/Rome|0|0
+peschiera|Peschiera del Garda|italy|IT|Italy|45.4333|10.6833|Europe/Rome|0|0
+bardolino|Bardolino|italy|IT|Italy|45.5333|10.7167|Europe/Rome|0|0
+garda-town|Garda|italy|IT|Italy|45.5667|10.7167|Europe/Rome|0|0|Garda, Veneto
+saad-fee|Saas-Fee|switzerland|CH|Switzerland|46.1097|7.9292|Europe/Zurich|0|0
+crans-montana|Crans-Montana|switzerland|CH|Switzerland|46.3119|7.4825|Europe/Zurich|0|0
+gstaad|Gstaad|switzerland|CH|Switzerland|46.4667|7.2833|Europe/Zurich|0|0
+adelboden|Adelboden|switzerland|CH|Switzerland|46.5000|7.5667|Europe/Zurich|0|0
+kandersteg|Kandersteg|switzerland|CH|Switzerland|46.5000|7.6667|Europe/Zurich|0|0
+thun|Thun|switzerland|CH|Switzerland|46.7667|7.6333|Europe/Zurich|0|0
+spiez|Spiez|switzerland|CH|Switzerland|46.6833|7.6667|Europe/Zurich|0|0
+brienz|Brienz|switzerland|CH|Switzerland|46.7500|8.0333|Europe/Zurich|0|0
+andermatt|Andermatt|switzerland|CH|Switzerland|46.6167|8.5833|Europe/Zurich|0|0
+flims|Flims|switzerland|CH|Switzerland|46.8333|9.2833|Europe/Zurich|0|0
+laax|Laax|switzerland|CH|Switzerland|46.8000|9.2500|Europe/Zurich|0|0
+arosa|Arosa|switzerland|CH|Switzerland|46.7833|9.6833|Europe/Zurich|0|0
+lenzerheide|Lenzerheide|switzerland|CH|Switzerland|46.7500|9.5500|Europe/Zurich|0|0
+pontresina|Pontresina|switzerland|CH|Switzerland|46.5000|9.9000|Europe/Zurich|0|0
+sils-maria|Sils im Engadin/Segl|switzerland|CH|Switzerland|46.4333|9.7667|Europe/Zurich|0|0
+stein-am-rhein|Stein am Rhein|switzerland|CH|Switzerland|47.6667|8.8500|Europe/Zurich|0|0
+schaffhausen|Schaffhausen|switzerland|CH|Switzerland|47.7000|8.6333|Europe/Zurich|0|0
+rheinfelden|Rheinfelden|switzerland|CH|Switzerland|47.5500|7.8000|Europe/Zurich|0|0|Rheinfelden (Aargau)
+solothurn|Solothurn|switzerland|CH|Switzerland|47.2083|7.5372|Europe/Zurich|0|0
+sierre|Sierre|switzerland|CH|Switzerland|46.3000|7.5333|Europe/Zurich|0|0
+martigny|Martigny|switzerland|CH|Switzerland|46.1000|7.0667|Europe/Zurich|0|0
+vevey|Vevey|switzerland|CH|Switzerland|46.4667|6.8500|Europe/Zurich|0|0
+nyon|Nyon|switzerland|CH|Switzerland|46.3833|6.2333|Europe/Zurich|0|0
+morges|Morges|switzerland|CH|Switzerland|46.5167|6.5000|Europe/Zurich|0|0
+yvoire|Yvoire|france|FR|France|46.3703|6.3262|Europe/Paris|0|0
+evian|Évian-les-Bains|france|FR|France|46.3833|6.5833|Europe/Paris|0|0
+thonon|Thonon-les-Bains|france|FR|France|46.3627|6.4750|Europe/Paris|0|0
+chambery|Chambéry|france|FR|France|45.5700|5.9118|Europe/Paris|0|0
+serre-chevalier|Serre Chevalier|france|FR|France|44.9444|6.5667|Europe/Paris|0|0
+les-deux-alpes|Les Deux Alpes|france|FR|France|45.0072|6.1217|Europe/Paris|0|0
+val-thorens|Val Thorens|france|FR|France|45.2981|6.5800|Europe/Paris|0|0
+meribel|Méribel|france|FR|France|45.3967|6.5663|Europe/Paris|0|0
+la-plagne|La Plagne|france|FR|France|45.5064|6.6772|Europe/Paris|0|0
+les-menuires|Les Menuires|france|FR|France|45.3236|6.5375|Europe/Paris|0|0
+ischgl|Ischgl|austria|AT|Austria|47.0131|10.2881|Europe/Vienna|0|0
+solden|Sölden|austria|AT|Austria|46.9667|11.0000|Europe/Vienna|0|0
+lech|Lech|austria|AT|Austria|47.2000|10.1500|Europe/Vienna|0|0|Lech (Vorarlberg)
+zurs|Zürs|austria|AT|Austria|47.1667|10.1667|Europe/Vienna|0|0
+kaprun|Kaprun|austria|AT|Austria|47.2725|12.7594|Europe/Vienna|0|0
+saalbach|Saalbach-Hinterglemm|austria|AT|Austria|47.3904|12.6370|Europe/Vienna|0|0
+obertauern|Obertauern|austria|AT|Austria|47.2505|13.5552|Europe/Vienna|0|0
+bad-hofgastein|Bad Hofgastein|austria|AT|Austria|47.1667|13.2000|Europe/Vienna|0|0
+seefeld|Seefeld in Tirol|austria|AT|Austria|47.3294|11.1892|Europe/Vienna|0|0
+alpbach|Alpbach|austria|AT|Austria|47.3985|11.9439|Europe/Vienna|0|0
+kufstein|Kufstein|austria|AT|Austria|47.5833|12.1667|Europe/Vienna|0|0
+hallstatt-obertraun|Obertraun|austria|AT|Austria|47.5586|13.6836|Europe/Vienna|0|0
+st-wolfgang|Sankt Wolfgang im Salzkammergut|austria|AT|Austria|47.7383|13.4481|Europe/Vienna|0|0|St. Wolfgang im Salzkammergut
+st-gilgen|Sankt Gilgen|austria|AT|Austria|47.7667|13.3667|Europe/Vienna|0|0|St. Gilgen
+traunkirchen|Traunkirchen|austria|AT|Austria|47.8458|13.7942|Europe/Vienna|0|0
+dornbirn|Dornbirn|austria|AT|Austria|47.4139|9.7444|Europe/Vienna|0|0
+bludenz|Bludenz|austria|AT|Austria|47.1333|9.8167|Europe/Vienna|0|0
+schwangau|Schwangau|germany|DE|Germany|47.5833|10.7333|Europe/Berlin|0|0
+mittenwald|Mittenwald|germany|DE|Germany|47.4167|11.2500|Europe/Berlin|0|0
+oberaudorf|Oberaudorf|germany|DE|Germany|47.6475|12.1719|Europe/Berlin|0|0
+koenigssee|Schönau am Königssee|germany|DE|Germany|47.5900|12.9900|Europe/Berlin|0|0
+dinkelsbuhl|Dinkelsbühl|germany|DE|Germany|49.0708|10.3194|Europe/Berlin|0|0
+nordlingen|Nördlingen|germany|DE|Germany|48.8511|10.4883|Europe/Berlin|0|0
+wuerzburg|Würzburg|germany|DE|Germany|49.7833|9.9333|Europe/Berlin|0|0
+st-goar|Sankt Goar|germany|DE|Germany|50.1500|7.7167|Europe/Berlin|0|0
+rudesheim|Rüdesheim am Rhein|germany|DE|Germany|49.9833|7.9306|Europe/Berlin|0|0
+boppard|Boppard|germany|DE|Germany|50.2314|7.5908|Europe/Berlin|0|0
+speyer|Speyer|germany|DE|Germany|49.3194|8.4311|Europe/Berlin|0|0
+worms|Worms|germany|DE|Germany|49.6319|8.3653|Europe/Berlin|0|0|Worms, Germany
+freiburg-im-breisgau|Freiburg im Breisgau|germany|DE|Germany|47.9950|7.8500|Europe/Berlin|0|0
+titisee|Titisee-Neustadt|germany|DE|Germany|47.9122|8.2147|Europe/Berlin|0|0
+triberg|Triberg im Schwarzwald|germany|DE|Germany|48.1308|8.2317|Europe/Berlin|0|0
+meersburg|Meersburg|germany|DE|Germany|47.7000|9.2667|Europe/Berlin|0|0
+friedrichshafen|Friedrichshafen|germany|DE|Germany|47.6500|9.4833|Europe/Berlin|0|0
+ulm|Ulm|germany|DE|Germany|48.3986|9.9911|Europe/Berlin|0|0
+augsburg|Augsburg|germany|DE|Germany|48.3689|10.8978|Europe/Berlin|0|0
+passau|Passau|germany|DE|Germany|48.5744|13.4647|Europe/Berlin|0|0
+wismar|Wismar|germany|DE|Germany|53.9000|11.4667|Europe/Berlin|0|0
+stralsund|Stralsund|germany|DE|Germany|54.3092|13.0819|Europe/Berlin|0|0
+rostock|Rostock|germany|DE|Germany|54.0833|12.1333|Europe/Berlin|0|0
+binz|Binz|germany|DE|Germany|54.4000|13.6000|Europe/Berlin|0|0
+sellin|Sellin|germany|DE|Germany|54.3833|13.6917|Europe/Berlin|0|0
+putbus|Putbus|germany|DE|Germany|54.3545|13.4749|Europe/Berlin|0|0
+meissen|Meissen|germany|DE|Germany|51.1667|13.4833|Europe/Berlin|0|0
+goerlitz|Görlitz|germany|DE|Germany|51.1528|14.9872|Europe/Berlin|0|0
+halle|Halle|germany|DE|Germany|51.4828|11.9697|Europe/Berlin|0|0|Halle (Saale)
+magdeburg|Magdeburg|germany|DE|Germany|52.1317|11.6392|Europe/Berlin|0|0
+flensburg|Flensburg|germany|DE|Germany|54.7819|9.4367|Europe/Berlin|0|0
+luebeck-travemunde|Travemünde|germany|DE|Germany|53.9667|10.8667|Europe/Berlin|0|0
+sylt-westerland|Westerland|germany|DE|Germany|54.9100|8.3075|Europe/Berlin|0|0|Westerland, Germany
+norderney|Norderney|germany|DE|Germany|53.7072|7.1469|Europe/Berlin|0|0
+juist|Juist|germany|DE|Germany|53.6786|6.9975|Europe/Berlin|0|0
+borkum|Borkum|germany|DE|Germany|53.5881|6.6697|Europe/Berlin|0|0
+helgoland|Heligoland|germany|DE|Germany|54.1825|7.8853|Europe/Berlin|0|0
+volendam|Volendam|netherlands|NL|Netherlands|52.4994|5.0675|Europe/Amsterdam|0|0
+marken|Marken|netherlands|NL|Netherlands|52.4583|5.1067|Europe/Amsterdam|0|0
+edam|Edam|netherlands|NL|Netherlands|52.5167|5.0500|Europe/Amsterdam|0|0|Edam, Netherlands
+hoorn|Hoorn|netherlands|NL|Netherlands|52.6500|5.0667|Europe/Amsterdam|0|0
+enkhuizen|Enkhuizen|netherlands|NL|Netherlands|52.7000|5.3000|Europe/Amsterdam|0|0
+alkmaar|Alkmaar|netherlands|NL|Netherlands|52.6333|4.7500|Europe/Amsterdam|0|0
+gouda|Gouda|netherlands|NL|Netherlands|52.0111|4.7111|Europe/Amsterdam|0|0|Gouda, South Holland
+valkenburg|Valkenburg aan de Geul|netherlands|NL|Netherlands|50.8650|5.8311|Europe/Amsterdam|0|0
+zaanse-schans|Zaanse Schans|netherlands|NL|Netherlands|52.4739|4.8164|Europe/Amsterdam|0|0
+zaandam|Zaandam|netherlands|NL|Netherlands|52.4333|4.8333|Europe/Amsterdam|0|0
+veere|Veere|netherlands|NL|Netherlands|51.5481|3.6667|Europe/Amsterdam|0|0
+scheveningen|Scheveningen|netherlands|NL|Netherlands|52.1081|4.2731|Europe/Amsterdam|0|0
+leeuwarden|Leeuwarden|netherlands|NL|Netherlands|53.2000|5.7833|Europe/Amsterdam|0|0
+leuven|Leuven|belgium|BE|Belgium|50.8833|4.7000|Europe/Brussels|0|0
+mechelen|Mechelen|belgium|BE|Belgium|51.0278|4.4806|Europe/Brussels|0|0
+namur|Namur|belgium|BE|Belgium|50.4667|4.8667|Europe/Brussels|0|0
+durbuy|Durbuy|belgium|BE|Belgium|50.3522|5.4563|Europe/Brussels|0|0
+spa-belgium|Spa|belgium|BE|Belgium|50.4925|5.8642|Europe/Brussels|0|0|Spa, Belgium
+tournai|Tournai|belgium|BE|Belgium|50.6056|3.3881|Europe/Brussels|0|0
+ypres|Ypres|belgium|BE|Belgium|50.8508|2.8850|Europe/Brussels|0|0
+knokke|Knokke-Heist|belgium|BE|Belgium|51.3333|3.2833|Europe/Brussels|0|0
+vianden|Vianden|luxembourg|LU|Luxembourg|49.9000|6.2000|Europe/Luxembourg|0|0
+echternach|Echternach|luxembourg|LU|Luxembourg|49.8117|6.4217|Europe/Luxembourg|0|0
+clervaux|Clervaux|luxembourg|LU|Luxembourg|50.0500|6.0333|Europe/Luxembourg|0|0
+escaldes|Escaldes-Engordany|andorra|AD|Andorra|42.5089|1.5408|Europe/Andorra|0|0|Escaldes–Engordany
+triesenberg|Triesenberg|liechtenstein|LI|Liechtenstein|47.1181|9.5433|Europe/Vaduz|0|0
+st-julians|St. Julian's|malta|MT|Malta|35.9186|14.4900|Europe/Malta|0|0|St. Julian's, Malta
+marsaxlokk|Marsaxlokk|malta|MT|Malta|35.8417|14.5447|Europe/Malta|0|0
+protaras|Protaras|cyprus|CY|Cyprus|35.0150|34.0542|Asia/Nicosia|0|0
+kyrenia|Kyrenia|cyprus|CY|Cyprus|35.3403|33.3192|Asia/Nicosia|0|0
+uchisar|Uçhisar|turkiye|TR|Turkey|38.6289|34.8033|Europe/Istanbul|0|0
+urgup|Ürgüp|turkiye|TR|Turkey|38.6314|34.9131|Europe/Istanbul|0|0
+avanos|Avanos|turkiye|TR|Turkey|38.7150|34.8467|Europe/Istanbul|0|0
+kusadasi|Kuşadası|turkiye|TR|Turkey|37.8597|27.2597|Europe/Istanbul|0|0
+oludeniz|Ölüdeniz|turkiye|TR|Turkey|36.5708|29.1425|Europe/Istanbul|0|0
+alanya|Alanya|turkiye|TR|Turkey|36.5500|32.0000|Europe/Istanbul|0|0
+side|Side|turkiye|TR|Turkey|36.7667|31.3889|Europe/Istanbul|0|0|Side, Turkey
+cesme|Çeşme|turkiye|TR|Turkey|38.3244|26.3031|Europe/Istanbul|0|0
+amasra|Amasra|turkiye|TR|Turkey|41.7494|32.3864|Europe/Istanbul|0|0
+rize|Rize|turkiye|TR|Turkey|41.0247|40.5222|Europe/Istanbul|0|0
+van-turkey|Van|turkiye|TR|Turkey|38.4942|43.3800|Europe/Istanbul|0|0|Van, Turkey
+mardin|Mardin|turkiye|TR|Turkey|37.3131|40.7350|Europe/Istanbul|0|0
+sanliurfa|Şanlıurfa|turkiye|TR|Turkey|37.1583|38.7917|Europe/Istanbul|0|0|Urfa
+hatay-antakya|Antakya|turkiye|TR|Turkey|36.2025|36.1606|Europe/Istanbul|0|0
+naoussa-paros|Naoussa|greece|GR|Greece|37.1228|25.2400|Europe/Athens|0|0|Naousa, Paros
+plaka-milos|Plaka|greece|GR|Greece|36.7417|24.4292|Europe/Athens|0|0|Plaka, Milos
+porto-heli|Porto Cheli|greece|GR|Greece|37.3267|23.1433|Europe/Athens|0|0
+monemvasia|Monemvasia|greece|GR|Greece|36.6878|23.0556|Europe/Athens|0|0
+gytheio|Gytheio|greece|GR|Greece|36.7617|22.5650|Europe/Athens|0|0
+pylos|Pylos|greece|GR|Greece|36.9139|21.6964|Europe/Athens|0|0
+olympia-greece|Olympia|greece|GR|Greece|37.6383|21.6300|Europe/Athens|0|0|Olympia, Greece
+ioannina|Ioannina|greece|GR|Greece|39.6636|20.8522|Europe/Athens|0|0
+metsovo|Metsovo|greece|GR|Greece|39.7703|21.1839|Europe/Athens|0|0
+kavala|Kavala|greece|GR|Greece|40.9333|24.4000|Europe/Athens|0|0
+thasos|Thasos|greece|GR|Greece|40.6833|24.6500|Europe/Athens|0|0
+samothraki|Samothrace|greece|GR|Greece|40.4500|25.5875|Europe/Athens|0|0
+lesbos-mytilene|Mytilene|greece|GR|Greece|39.1036|26.5547|Europe/Athens|0|0
+chios-town|Chios|greece|GR|Greece|38.3725|26.1375|Europe/Athens|0|0|Chios (town)
+samos-vathy|Vathy|greece|GR|Greece|37.7475|26.9825|Europe/Athens|0|0|Vathy, Samos
+patmos|Patmos|greece|GR|Greece|37.3250|26.5417|Europe/Athens|0|0
+lindos|Lindos|greece|GR|Greece|36.0833|28.0833|Europe/Athens|0|0
+symi|Symi|greece|GR|Greece|36.5833|27.8333|Europe/Athens|0|0
+karpathos|Karpathos|greece|GR|Greece|35.5833|27.1333|Europe/Athens|0|0
+agios-nikolaos|Agios Nikolaos|greece|GR|Greece|35.1833|25.7167|Europe/Athens|0|0|Agios Nikolaos, Crete
+elounda|Elounda|greece|GR|Greece|35.2667|25.7167|Europe/Athens|0|0
+sitia|Sitia|greece|GR|Greece|35.2000|26.1000|Europe/Athens|0|0
+sfakia|Chora Sfakion|greece|GR|Greece|35.2008|24.1372|Europe/Athens|0|0|Hora Sfakion
+paxos|Gaios|greece|GR|Greece|39.2000|20.1833|Europe/Athens|0|0
+skiathos|Skiathos|greece|GR|Greece|39.1667|23.4833|Europe/Athens|0|0
+skopelos|Skopelos|greece|GR|Greece|39.1167|23.7167|Europe/Athens|0|0
+alonnissos|Alonnisos|greece|GR|Greece|39.1500|23.8333|Europe/Athens|0|0
+skyros|Skyros|greece|GR|Greece|38.8725|24.5250|Europe/Athens|0|0
+andros-town|Andros|greece|GR|Greece|37.8333|24.9333|Europe/Athens|0|0|Andros (town)
+tinos|Tinos|greece|GR|Greece|37.6167|25.1333|Europe/Athens|0|0
+syros-ermoupoli|Ermoupoli|greece|GR|Greece|37.4333|24.9167|Europe/Athens|0|0
+serifos|Serifos|greece|GR|Greece|37.1500|24.5000|Europe/Athens|0|0
+folegandros|Folegandros|greece|GR|Greece|36.6167|24.9000|Europe/Athens|0|0
+amorgos|Amorgos|greece|GR|Greece|36.8500|25.9000|Europe/Athens|0|0
+asti-palaiokastro|Astypalaia|greece|GR|Greece|36.5500|26.3500|Europe/Athens|0|0
+kalymnos|Kalymnos|greece|GR|Greece|36.9900|26.9850|Europe/Athens|0|0
+leros|Leros|greece|GR|Greece|37.1500|26.8500|Europe/Athens|0|0
+nissyros|Nisyros|greece|GR|Greece|36.5833|27.1667|Europe/Athens|0|0
+furano|Furano|japan|JP|Japan|43.3500|142.3833|Asia/Tokyo|0|0|Furano, Hokkaido
+niseko|Kutchan|japan|JP|Japan|42.8000|140.6833|Asia/Tokyo|0|0|Niseko, Hokkaido
+matsushima|Matsushima|japan|JP|Japan|38.3667|141.0833|Asia/Tokyo|0|0
+hiraizumi|Hiraizumi|japan|JP|Japan|38.9866|141.1138|Asia/Tokyo|0|0
+tottori|Tottori|japan|JP|Japan|35.5000|134.2333|Asia/Tokyo|0|0|Tottori (city)
+tokushima|Tokushima|japan|JP|Japan|34.0667|134.5500|Asia/Tokyo|0|0|Tokushima (city)
+iwakuni|Iwakuni|japan|JP|Japan|34.1664|132.2189|Asia/Tokyo|0|0
+himeji|Himeji|japan|JP|Japan|34.8167|134.6833|Asia/Tokyo|0|0
+kiso-fukushima|Kiso|japan|JP|Japan|35.8425|137.6916|Asia/Tokyo|0|0|Kiso, Nagano (town)
+tsumago|Nagiso|japan|JP|Japan|35.5753|137.5951|Asia/Tokyo|0|0|Tsumago-juku
+ine|Ine|japan|JP|Japan|35.6833|135.2833|Asia/Tokyo|0|0|Ine, Kyoto
+amanohashidate|Miyazu|japan|JP|Japan|35.5694|135.1915|Asia/Tokyo|0|0|Amanohashidate
+suncheon|Suncheon|south-korea|KR|South Korea|34.9506|127.4875|Asia/Seoul|0|0
+chuncheon|Chuncheon|south-korea|KR|South Korea|37.8667|127.7333|Asia/Seoul|0|0
+pyeongchang|Pyeongchang|south-korea|KR|South Korea|37.3667|128.4000|Asia/Seoul|0|0|Pyeongchang County
+cat-ba|Cát Bà|vietnam|VN|Vietnam|20.8000|106.9997|Asia/Ho_Chi_Minh|0|0|Cát Bà Island
+kep|Kep|cambodia|KH|Cambodia|10.4833|104.3000|Asia/Phnom_Penh|0|0|Kep province
+mae-hong-son|Mae Hong Son|thailand|TH|Thailand|19.3011|97.9700|Asia/Bangkok|0|0
+koh-chang|Ko Chang|thailand|TH|Thailand|12.1036|102.3519|Asia/Bangkok|0|0|Ko Chang district
+koh-samet|Ko Samet|thailand|TH|Thailand|12.5678|101.4547|Asia/Bangkok|0|0
+trang|Trang|thailand|TH|Thailand|7.5575|99.6103|Asia/Bangkok|0|0|Trang, Thailand
+hat-yai|Hat Yai|thailand|TH|Thailand|7.0167|100.4667|Asia/Bangkok|0|0
+pangkor|Pangkor Island|malaysia|MY|Malaysia|4.2200|100.5550|Asia/Kuala_Lumpur|0|0
+gili-air|Gili Air|indonesia|ID|Indonesia|-8.3500|116.0600|Asia/Jakarta|0|0|Gili Islands
+kuta-lombok|Kuta|indonesia|ID|Indonesia|-8.9167|116.2833|Asia/Jakarta|0|0|Kuta, Lombok
+dumaguete|Dumaguete|philippines|PH|Philippines|9.3103|123.3081|Asia/Manila|0|0
+iloilo|Iloilo City|philippines|PH|Philippines|10.7000|122.5700|Asia/Manila|0|0
+namche|Namche Bazaar|nepal|NP|Nepal|27.8167|86.7167|Asia/Kathmandu|0|0
+lukla|Lukla|nepal|NP|Nepal|27.6889|86.7306|Asia/Kathmandu|0|0
+arugam-bay|Arugam Bay|sri-lanka|LK|Sri Lanka|6.8500|81.8333|Asia/Colombo|0|0
+ait-benhaddou|Aït Benhaddou|morocco|MA|Morocco|31.0472|-7.1289|Africa/Casablanca|0|0
+zagora|Zagora|morocco|MA|Morocco|30.3306|-5.8381|Africa/Casablanca|0|0|Zagora, Morocco
+ifrane|Ifrane|morocco|MA|Morocco|33.5333|-5.1167|Africa/Casablanca|0|0
+asilah|Asilah|morocco|MA|Morocco|35.4667|-6.0333|Africa/Casablanca|0|0
+larache|Larache|morocco|MA|Morocco|35.1833|-6.1500|Africa/Casablanca|0|0
+taghazout|Taghazout|morocco|MA|Morocco|30.5331|-9.7000|Africa/Casablanca|0|0
+dakhla|Dakhla|morocco|MA|Morocco|23.7081|-15.9456|Africa/Casablanca|0|0|Dakhla, Western Sahara
+carthage|Carthage|tunisia|TN|Tunisia|36.8550|10.3306|Africa/Tunis|0|0|Carthage (municipality)
+abu-simbel|Abu Simbel|egypt|EG|Egypt|22.3369|31.6256|Africa/Cairo|0|0
+marsa-alam|Marsa Alam|egypt|EG|Egypt|25.0667|34.9000|Africa/Cairo|0|0
+el-gouna|El Gouna|egypt|EG|Egypt|27.3850|33.6792|Africa/Cairo|0|0
+mossel-bay|Mossel Bay|south-africa|ZA|South Africa|-34.1833|22.1333|Africa/Johannesburg|0|0
+oudtshoorn|Oudtshoorn|south-africa|ZA|South Africa|-33.5833|22.2000|Africa/Johannesburg|0|0
+kruger-skukuza|Skukuza|south-africa|ZA|South Africa|-24.9958|31.5919|Africa/Johannesburg|0|0
+hoedspruit|Hoedspruit|south-africa|ZA|South Africa|-24.3500|30.9667|Africa/Johannesburg|0|0
+zanzibar-paje|Paje|tanzania|TZ|Tanzania|-6.2665|39.5338|Africa/Dar_es_Salaam|0|0|Paje, Zanzibar
+watamu|Watamu|kenya|KE|Kenya|-3.3500|40.0167|Africa/Nairobi|0|0
+malindi|Malindi|kenya|KE|Kenya|-3.2236|40.1300|Africa/Nairobi|0|0
+luderitz|Lüderitz|namibia|NA|Namibia|-26.6458|15.1539|Africa/Windhoek|0|0
+elmina|Elmina|ghana|GH|Ghana|5.0833|-1.3500|Africa/Accra|0|0
+san-pedro-belize|San Pedro Town|belize|BZ|Belize|17.9214|-87.9611|America/Belize|0|0
+fox-glacier|Fox Glacier|new-zealand|NZ|New Zealand|-43.4660|170.0200|Pacific/Auckland|0|0|Fox Glacier (village)
+persepolis-marvdasht|Marvdasht|iran|IR|Iran|29.8786|52.8067|Asia/Tehran|0|0
+skardu|Skardu|pakistan|PK|Pakistan|35.2903|75.6444|Asia/Karachi|0|0
+hunza-karimabad|Karimabad|pakistan|PK|Pakistan|36.3330|74.6660|Asia/Karachi|0|0|Karimabad, Gilgit-Baltistan
+cox-bazar|Cox's Bazar|bangladesh|BD|Bangladesh|21.4272|92.0050|Asia/Dhaka|0|0
