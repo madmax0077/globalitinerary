@@ -1,0 +1,560 @@
+# Top tourism cities beyond uniqueTop2000. Format:
+# slug|name|countrySlug|CC|countryName|lat|lng|timezone|population|isCapital|wikiTitle?
+nancy|Nancy|france|FR|France|48.6936|6.1846|Europe/Paris|0|0|Nancy, France
+canmore|Canmore|canada|CA|Canada|51.0883|-115.3478|America/Toronto|0|0|Canmore, Alberta
+bocas-town|Bocas Town|panama|PA|Panama|9.3300|-82.2500|America/Panama|0|0|Bocas Town, Bocas del Toro
+minori|Minori|italy|IT|Italy|40.6500|14.6167|Europe/Rome|0|0|Minori, Campania
+malfa|Malfa|italy|IT|Italy|38.5833|14.8333|Europe/Rome|0|0
+mondsee|Mondsee|austria|AT|Austria|47.8567|13.3517|Europe/Vienna|0|0|Mondsee (town)
+scala-amalfi|Scala|italy|IT|Italy|40.6500|14.6000|Europe/Rome|0|0|Scala, Campania
+massalubrense|Massa Lubrense|italy|IT|Italy|40.6111|14.3447|Europe/Rome|0|0
+vico-equense|Vico Equense|italy|IT|Italy|40.6667|14.4333|Europe/Rome|0|0
+ponza|Ponza|italy|IT|Italy|40.9075|12.9525|Europe/Rome|0|0
+orosei|Orosei|italy|IT|Italy|40.3833|9.7000|Europe/Rome|0|0
+cala-gonone|Cala Gonone|italy|IT|Italy|40.2825|9.6319|Europe/Rome|0|0
+palau-sardinia|Palau|italy|IT|Italy|7.5000|134.5000|Europe/Rome|0|0
+scicli|Scicli|italy|IT|Italy|36.7881|14.6978|Europe/Rome|0|0
+marsala|Marsala|italy|IT|Italy|37.7981|12.4342|Europe/Rome|0|0
+mazara|Mazara del Vallo|italy|IT|Italy|37.6500|12.5833|Europe/Rome|0|0
+locorotondo|Locorotondo|italy|IT|Italy|40.7558|17.3264|Europe/Rome|0|0
+cisterino|Cisternino|italy|IT|Italy|40.7333|17.4333|Europe/Rome|0|0
+martina-franca|Martina Franca|italy|IT|Italy|40.6333|17.0333|Europe/Rome|0|0
+trani|Trani|italy|IT|Italy|41.2667|16.4167|Europe/Rome|0|0
+sulmona|Sulmona|italy|IT|Italy|42.0333|13.9333|Europe/Rome|0|0
+scanno|Scanno|italy|IT|Italy|41.9019|13.8844|Europe/Rome|0|0|Scanno, Abruzzo
+ascoli-piceno|Ascoli Piceno|italy|IT|Italy|42.8500|13.5833|Europe/Rome|0|0
+senigallia|Senigallia|italy|IT|Italy|43.7167|13.2167|Europe/Rome|0|0
+spello|Spello|italy|IT|Italy|42.9921|12.6711|Europe/Rome|0|0
+montefalco|Montefalco|italy|IT|Italy|42.8938|12.6524|Europe/Rome|0|0
+narni|Narni|italy|IT|Italy|42.5193|12.5151|Europe/Rome|0|0
+radda-in-chianti|Radda in Chianti|italy|IT|Italy|43.4833|11.3833|Europe/Rome|0|0
+fiesole|Fiesole|italy|IT|Italy|43.8072|11.2919|Europe/Rome|0|0
+carrara|Carrara|italy|IT|Italy|44.0792|10.1000|Europe/Rome|0|0
+bordighera|Bordighera|italy|IT|Italy|43.7833|7.6667|Europe/Rome|0|0
+dolceacqua|Dolceacqua|italy|IT|Italy|43.8500|7.6167|Europe/Rome|0|0
+alba-italy|Alba|italy|IT|Italy|44.7000|8.0333|Europe/Rome|0|0|Alba, Piedmont
+barolo|Barolo|italy|IT|Italy|44.6167|7.9333|Europe/Rome|0|0|Barolo, Piedmont
+la-morra|La Morra|italy|IT|Italy|44.6333|7.9333|Europe/Rome|0|0
+asti|Asti|italy|IT|Italy|44.9000|8.2069|Europe/Rome|0|0
+gargnano|Gargnano|italy|IT|Italy|45.6889|10.6639|Europe/Rome|0|0
+iseo|Iseo|italy|IT|Italy|45.6500|10.0500|Europe/Rome|0|0|Iseo, Lombardy
+lenno|Lenno|italy|IT|Italy|45.9667|9.2000|Europe/Rome|0|0
+verbania|Verbania|italy|IT|Italy|45.9333|8.5333|Europe/Rome|0|0
+predazzo|Predazzo|italy|IT|Italy|46.3167|11.6000|Europe/Rome|0|0
+asiago|Asiago|italy|IT|Italy|45.8667|11.5167|Europe/Rome|0|0
+cogne|Cogne|italy|IT|Italy|45.6081|7.3556|Europe/Rome|0|0
+gressoney|Gressoney-Saint-Jean|italy|IT|Italy|45.7833|7.8167|Europe/Rome|0|0
+champoluc|Champoluc|italy|IT|Italy|45.8333|7.7333|Europe/Rome|0|0
+marciana-marina|Marciana Marina|italy|IT|Italy|42.8000|10.2000|Europe/Rome|0|0
+castellammare-di-stabia|Castellammare di Stabia|italy|IT|Italy|40.6947|14.4803|Europe/Rome|0|0
+ile-de-re|La Flotte|france|FR|France|46.1878|-1.3244|Europe/Paris|0|0
+ile-d-oleron|Le Château-d'Oléron|france|FR|France|45.8858|-1.1947|Europe/Paris|0|0
+hendaye|Hendaye|france|FR|France|43.3600|-1.7700|Europe/Paris|0|0
+bergerac|Bergerac|france|FR|France|44.8536|0.4875|Europe/Paris|0|0|Bergerac, Dordogne
+cahors|Cahors|france|FR|France|44.4483|1.4414|Europe/Paris|0|0
+figeac|Figeac|france|FR|France|44.6086|2.0317|Europe/Paris|0|0
+millau|Millau|france|FR|France|44.0986|3.0783|Europe/Paris|0|0
+rodez|Rodez|france|FR|France|44.3506|2.5750|Europe/Paris|0|0
+castres|Castres|france|FR|France|43.6000|2.2500|Europe/Paris|0|0
+beziers|Béziers|france|FR|France|43.3476|3.2190|Europe/Paris|0|0
+agde|Agde|france|FR|France|43.3108|3.4758|Europe/Paris|0|0
+palavas|Palavas-les-Flots|france|FR|France|43.5303|3.9314|Europe/Paris|0|0
+le-grau-du-roi|Le Grau-du-Roi|france|FR|France|43.5381|4.1372|Europe/Paris|0|0
+saintes-maries|Saintes-Maries-de-la-Mer|france|FR|France|43.4528|4.4286|Europe/Paris|0|0
+manosque|Manosque|france|FR|France|43.8342|5.7839|Europe/Paris|0|0
+sisteron|Sisteron|france|FR|France|44.1911|5.9472|Europe/Paris|0|0
+digne|Digne-les-Bains|france|FR|France|44.0933|6.2364|Europe/Paris|0|0
+moustiers|Moustiers-Sainte-Marie|france|FR|France|43.8483|6.2219|Europe/Paris|0|0
+castellane|Castellane|france|FR|France|43.8475|6.5139|Europe/Paris|0|0
+grasse|Grasse|france|FR|France|43.6667|6.9167|Europe/Paris|0|0
+juan-les-pins|Juan-les-Pins|france|FR|France|43.5711|7.1094|Europe/Paris|0|0
+beaulieu-sur-mer|Beaulieu-sur-Mer|france|FR|France|43.7050|7.3300|Europe/Paris|0|0
+ramatuelle|Ramatuelle|france|FR|France|43.2167|6.6119|Europe/Paris|0|0
+sainte-maxime|Sainte-Maxime|france|FR|France|43.3090|6.6350|Europe/Paris|0|0
+frejus|Fréjus|france|FR|France|43.4330|6.7370|Europe/Paris|0|0
+saint-raphael|Saint-Raphaël|france|FR|France|43.4252|6.7684|Europe/Paris|0|0|Saint-Raphaël, Var
+porquerolles|Porquerolles|france|FR|France|43.0000|6.2167|Europe/Paris|0|0
+la-ciotat|La Ciotat|france|FR|France|43.1769|5.6086|Europe/Paris|0|0
+salon|Salon-de-Provence|france|FR|France|43.6406|5.0972|Europe/Paris|0|0
+pont-du-gard-town|Vers-Pont-du-Gard|france|FR|France|43.9694|4.5250|Europe/Paris|0|0
+banyuls|Banyuls-sur-Mer|france|FR|France|42.4831|3.1281|Europe/Paris|0|0
+ceret|Céret|france|FR|France|42.4892|2.7522|Europe/Paris|0|0
+cadiz-el-puerto|El Puerto de Santa María|spain|ES|Spain|36.6015|-6.2381|Europe/Madrid|0|0
+sanlucar|Sanlúcar de Barrameda|spain|ES|Spain|36.7667|-6.3500|Europe/Madrid|0|0
+zahara|Zahara de la Sierra|spain|ES|Spain|36.8383|-5.3900|Europe/Madrid|0|0
+badajoz|Badajoz|spain|ES|Spain|38.8803|-6.9753|Europe/Madrid|0|0
+ourense|Ourense|spain|ES|Spain|42.3364|-7.8633|Europe/Madrid|0|0
+logrono|Logroño|spain|ES|Spain|42.4650|-2.4456|Europe/Madrid|0|0
+haro|Haro|spain|ES|Spain|42.5833|-2.8500|Europe/Madrid|0|0|Haro, La Rioja
+laguardia|Laguardia|spain|ES|Spain|42.5533|-2.5850|Europe/Madrid|0|0|Laguardia, Álava
+huesca|Huesca|spain|ES|Spain|42.1333|-0.4167|Europe/Madrid|0|0
+jaca|Jaca|spain|ES|Spain|42.5500|-0.5500|Europe/Madrid|0|0
+benasque|Benasque|spain|ES|Spain|42.6000|0.5333|Europe/Madrid|0|0
+portimao|Portimão|portugal|PT|Portugal|37.1369|-8.5383|Europe/Lisbon|0|0
+aljezur|Aljezur|portugal|PT|Portugal|37.3167|-8.8000|Europe/Lisbon|0|0
+monchique|Monchique|portugal|PT|Portugal|37.3167|-8.6000|Europe/Lisbon|0|0
+elvas|Elvas|portugal|PT|Portugal|38.8667|-7.1500|Europe/Lisbon|0|0
+marvao|Marvão|portugal|PT|Portugal|39.3942|-7.3767|Europe/Lisbon|0|0
+monsaraz|Monsaraz|portugal|PT|Portugal|38.4440|-7.3810|Europe/Lisbon|0|0
+crested-butte|Crested Butte|united-states|US|United States|38.8711|-106.9775|America/New_York|0|0|Crested Butte, Colorado
+ouray|Ouray|united-states|US|United States|38.0275|-107.6733|America/New_York|0|0|Ouray, Colorado
+durango|Durango|united-states|US|United States|37.2752|-107.8801|America/New_York|0|0|Durango, Colorado
+kanab|Kanab|united-states|US|United States|37.0356|-112.5311|America/New_York|0|0|Kanab, Utah
+torrey|Torrey|united-states|US|United States|38.2989|-111.4192|America/New_York|0|0|Torrey, Utah
+west-yellowstone|West Yellowstone|united-states|US|United States|44.6622|-111.1069|America/New_York|0|0|West Yellowstone, Montana
+sun-valley|Sun Valley|united-states|US|United States|43.6550|-114.4092|America/New_York|0|0|Sun Valley, Idaho
+ketchum|Ketchum|united-states|US|United States|43.6800|-114.3650|America/New_York|0|0|Ketchum, Idaho
+kennebunkport|Kennebunkport|united-states|US|United States|43.3617|-70.4767|America/New_York|0|0|Kennebunkport, Maine
+camden-me|Camden|united-states|US|United States|44.2431|-69.1100|America/New_York|0|0|Camden, Maine
+sanibel|Sanibel|united-states|US|United States|26.4731|-82.1472|America/New_York|0|0|Sanibel, Florida
+beaufort-sc|Beaufort|united-states|US|United States|32.4333|-80.6833|America/New_York|0|0|Beaufort, South Carolina
+calistoga|Calistoga|united-states|US|United States|38.5814|-122.5828|America/New_York|0|0|Calistoga, California
+pacific-grove|Pacific Grove|united-states|US|United States|36.6178|-121.9167|America/New_York|0|0|Pacific Grove, California
+ojai|Ojai|united-states|US|United States|34.4492|-119.2467|America/New_York|0|0|Ojai, California
+la-jolla|La Jolla|united-states|US|United States|32.8400|-117.2769|America/New_York|0|0
+mariposa|Mariposa|united-states|US|United States|37.4850|-119.9664|America/New_York|0|0|Mariposa, California
+kihei|Kihei|united-states|US|United States|20.7592|-156.4572|America/New_York|0|0|Kīhei, Hawaii
+hana|Hana|united-states|US|United States|20.7700|-155.9942|America/New_York|0|0|Hāna, Hawaii
+poipu|Poipu|united-states|US|United States|21.8842|-159.4642|America/New_York|0|0|Poʻipū, Hawaii
+princeville|Princeville|united-states|US|United States|22.2236|-159.4853|America/New_York|0|0|Princeville, Hawaii
+skagway|Skagway|united-states|US|United States|59.4583|-135.3139|America/New_York|0|0|Skagway, Alaska
+seward|Seward|united-states|US|United States|60.1244|-149.4333|America/New_York|0|0|Seward, Alaska
+homer|Homer|united-states|US|United States|59.6431|-151.5258|America/New_York|0|0|Homer, Alaska
+ucluelet|Ucluelet|canada|CA|Canada|48.9428|-125.5461|America/Toronto|0|0
+squamish|Squamish|canada|CA|Canada|49.7017|-123.1589|America/Toronto|0|0|Squamish, British Columbia
+revelstoke|Revelstoke|canada|CA|Canada|50.9981|-118.1956|America/Toronto|0|0|Revelstoke, British Columbia
+nelson-bc|Nelson|canada|CA|Canada|49.5000|-117.2833|America/Toronto|0|0|Nelson, British Columbia
+tadoussac|Tadoussac|canada|CA|Canada|48.1500|-69.7167|America/Toronto|0|0
+perce|Percé|canada|CA|Canada|48.5333|-64.2167|America/Toronto|0|0|Percé, Quebec
+lunenburg|Lunenburg|canada|CA|Canada|44.3778|-64.3094|America/Toronto|0|0|Lunenburg, Nova Scotia
+rochefort-en-terre|Rochefort-en-Terre|france|FR|France|47.7003|-2.3353|Europe/Paris|0|0
+josselin|Josselin|france|FR|France|47.9567|-2.5472|Europe/Paris|0|0
+vannes-golfe|Golfe du Morbihan|france|FR|France|47.6264|-2.8222|Europe/Paris|0|0|Arradon
+la-trinite-sur-mer|La Trinité-sur-Mer|france|FR|France|47.5861|-3.0283|Europe/Paris|0|0
+belle-ile|Le Palais|france|FR|France|47.3472|-3.1542|Europe/Paris|0|0
+houat|Houat|france|FR|France|47.3903|-2.9561|Europe/Paris|0|0
+groix|Groix|france|FR|France|47.6394|-3.4536|Europe/Paris|0|0
+douarnenez|Douarnenez|france|FR|France|48.0928|-4.3292|Europe/Paris|0|0
+crozon|Crozon|france|FR|France|48.2458|-4.4875|Europe/Paris|0|0
+morlaix|Morlaix|france|FR|France|48.5783|-3.8267|Europe/Paris|0|0
+roscoff|Roscoff|france|FR|France|48.7333|-3.9833|Europe/Paris|0|0
+paimpol|Paimpol|france|FR|France|48.7786|-3.0453|Europe/Paris|0|0
+barneville-carteret|Barneville-Carteret|france|FR|France|49.3810|-1.7550|Europe/Paris|0|0
+coutances|Coutances|france|FR|France|49.0500|-1.4400|Europe/Paris|0|0
+courseulles|Courseulles-sur-Mer|france|FR|France|49.3336|-0.4564|Europe/Paris|0|0
+fecamp|Fécamp|france|FR|France|49.7600|0.3800|Europe/Paris|0|0
+veules-les-roses|Veules-les-Roses|france|FR|France|49.8742|0.8003|Europe/Paris|0|0
+dieppe|Dieppe|france|FR|France|49.9250|1.0750|Europe/Paris|0|0
+le-treport|Le Tréport|france|FR|France|50.0600|1.3700|Europe/Paris|0|0
+arras|Arras|france|FR|France|50.2920|2.7800|Europe/Paris|0|0
+troyes|Troyes|france|FR|France|48.2997|4.0792|Europe/Paris|0|0
+semur|Semur-en-Auxois|france|FR|France|47.4914|4.3336|Europe/Paris|0|0
+flavigny|Flavigny-sur-Ozerain|france|FR|France|47.5128|4.5319|Europe/Paris|0|0
+besancon|Besançon|france|FR|France|47.2400|6.0200|Europe/Paris|0|0
+dole|Dole|france|FR|France|47.0931|5.4906|Europe/Paris|0|0|Dole, Jura
+arbois|Arbois|france|FR|France|46.9036|5.7747|Europe/Paris|0|0
+ornans|Ornans|france|FR|France|47.1060|6.1438|Europe/Paris|0|0
+baume-les-messieurs|Baume-les-Messieurs|france|FR|France|46.7086|5.6492|Europe/Paris|0|0
+saint-gervais|Saint-Gervais-les-Bains|france|FR|France|45.8933|6.7139|Europe/Paris|0|0
+les-houches|Les Houches|france|FR|France|45.8908|6.7992|Europe/Paris|0|0
+argentiere|Argentière|france|FR|France|45.9800|6.9300|Europe/Paris|0|0
+annecy-le-vieux|Annecy-le-Vieux|france|FR|France|45.9200|6.1428|Europe/Paris|0|0
+albertville|Albertville|france|FR|France|45.6767|6.3933|Europe/Paris|0|0
+le-grand-bornand|Le Grand-Bornand|france|FR|France|45.9425|6.4258|Europe/Paris|0|0
+gap|Gap|france|FR|France|44.5594|6.0786|Europe/Paris|0|0|Gap, Hautes-Alpes
+embrun|Embrun|france|FR|France|44.5658|6.4961|Europe/Paris|0|0|Embrun, Hautes-Alpes
+barcelonnette|Barcelonnette|france|FR|France|44.3867|6.6531|Europe/Paris|0|0
+obernai|Obernai|france|FR|France|48.4600|7.4800|Europe/Paris|0|0
+wissembourg|Wissembourg|france|FR|France|49.0400|7.9500|Europe/Paris|0|0
+verdun|Verdun|france|FR|France|49.1620|5.3876|Europe/Paris|0|0
+orleans|Orléans|france|FR|France|47.9025|1.9090|Europe/Paris|0|0
+angers|Angers|france|FR|France|47.4736|-0.5542|Europe/Paris|0|0
+le-croisic|Le Croisic|france|FR|France|47.2939|-2.5092|Europe/Paris|0|0
+guerande|Guérande|france|FR|France|47.3200|-2.4200|Europe/Paris|0|0
+pornic|Pornic|france|FR|France|47.1167|-2.1000|Europe/Paris|0|0
+les-sables-d-olonne|Les Sables-d'Olonne|france|FR|France|46.4972|-1.7833|Europe/Paris|0|0
+rochefort|Rochefort|france|FR|France|45.9421|-0.9588|Europe/Paris|0|0|Rochefort, Charente-Maritime
+cognac|Cognac|france|FR|France|45.7000|-0.3300|Europe/Paris|0|0|Cognac, France
+angouleme|Angoulême|france|FR|France|45.6500|0.1600|Europe/Paris|0|0
+domme|Domme|france|FR|France|44.8022|1.2144|Europe/Paris|0|0|Domme, Dordogne
+tulle|Tulle|france|FR|France|45.2678|1.7706|Europe/Paris|0|0
+brive|Brive-la-Gaillarde|france|FR|France|45.1583|1.5321|Europe/Paris|0|0
+futuroscope-chasseneuil|Chasseneuil-du-Poitou|france|FR|France|46.6519|0.3731|Europe/Paris|0|0
+cauterets|Cauterets|france|FR|France|42.8900|-0.1100|Europe/Paris|0|0
+gavarnie|Gavarnie|france|FR|France|42.7350|-0.0100|Europe/Paris|0|0
+luz-saint-sauveur|Luz-Saint-Sauveur|france|FR|France|42.8725|-0.0006|Europe/Paris|0|0
+saint-lary|Saint-Lary-Soulan|france|FR|France|42.8200|0.3200|Europe/Paris|0|0
+bareges|Barèges|france|FR|France|42.8978|0.0658|Europe/Paris|0|0
+foix|Foix|france|FR|France|42.9664|1.6078|Europe/Paris|0|0
+tarascon-sur-ariege|Tarascon-sur-Ariège|france|FR|France|42.8483|1.6060|Europe/Paris|0|0
+ax-les-thermes|Ax-les-Thermes|france|FR|France|42.7203|1.8397|Europe/Paris|0|0
+lastours|Lastours|france|FR|France|43.3350|2.3797|Europe/Paris|0|0
+narbonne-plage|Narbonne-Plage|france|FR|France|43.1608|3.1669|Europe/Paris|0|0
+gruissan|Gruissan|france|FR|France|43.1078|3.0889|Europe/Paris|0|0
+le-cap-dagde|Cap d'Agde|france|FR|France|43.2842|3.5006|Europe/Paris|0|0
+carpentras|Carpentras|france|FR|France|44.0558|5.0489|Europe/Paris|0|0
+cavaillon|Cavaillon|france|FR|France|43.8375|5.0381|Europe/Paris|0|0
+vence|Vence|france|FR|France|43.7236|7.1142|Europe/Paris|0|0
+saint-paul-de-vence|Saint-Paul-de-Vence|france|FR|France|43.6980|7.1220|Europe/Paris|0|0
+tourrettes|Tourrettes-sur-Loup|france|FR|France|43.7169|7.0606|Europe/Paris|0|0
+mougins|Mougins|france|FR|France|43.6008|6.9956|Europe/Paris|0|0
+valbonne|Valbonne|france|FR|France|43.6424|7.0095|Europe/Paris|0|0
+biot|Biot|france|FR|France|43.6294|7.0961|Europe/Paris|0|0|Biot, Alpes-Maritimes
+villeneuve-loubet|Villeneuve-Loubet|france|FR|France|43.6589|7.1222|Europe/Paris|0|0
+cagnes|Cagnes-sur-Mer|france|FR|France|43.6644|7.1489|Europe/Paris|0|0
+roquebrune-cap-martin|Roquebrune-Cap-Martin|france|FR|France|43.7628|7.4631|Europe/Paris|0|0
+cap-dail|Cap-d'Ail|france|FR|France|43.7219|7.4064|Europe/Paris|0|0
+peille|Peille|france|FR|France|43.8031|7.4025|Europe/Paris|0|0
+peillon|Peillon|france|FR|France|43.7786|7.3828|Europe/Paris|0|0
+sospel|Sospel|france|FR|France|43.8781|7.4492|Europe/Paris|0|0
+breil|Breil-sur-Roya|france|FR|France|43.9381|7.5150|Europe/Paris|0|0
+tende|Tende|france|FR|France|44.0886|7.5942|Europe/Paris|0|0
+saorge|Saorge|france|FR|France|43.9883|7.5531|Europe/Paris|0|0
+sant-agnello|Sant'Agnello|italy|IT|Italy|40.6333|14.4000|Europe/Rome|0|0
+anacapri|Anacapri|italy|IT|Italy|40.5500|14.2167|Europe/Rome|0|0
+lacco-ameno|Lacco Ameno|italy|IT|Italy|40.7500|13.8833|Europe/Rome|0|0
+benevento|Benevento|italy|IT|Italy|41.1333|14.7833|Europe/Rome|0|0
+paestum|Capaccio Paestum|italy|IT|Italy|40.4222|15.0053|Europe/Rome|0|0|Paestum
+agropoli|Agropoli|italy|IT|Italy|40.3500|14.9833|Europe/Rome|0|0
+palinuro|Palinuro|italy|IT|Italy|40.0333|15.2833|Europe/Rome|0|0
+reggio-calabria|Reggio Calabria|italy|IT|Italy|38.1114|15.6619|Europe/Rome|0|0
+giardini-naxos|Giardini Naxos|italy|IT|Italy|37.8363|15.2707|Europe/Rome|0|0
+selinunte|Castelvetrano|italy|IT|Italy|37.5836|12.8247|Europe/Rome|0|0|Selinunte
+mondello|Mondello|italy|IT|Italy|38.2008|13.3231|Europe/Rome|0|0
+nuoro|Nuoro|italy|IT|Italy|40.3167|9.3333|Europe/Rome|0|0
+san-teodoro|San Teodoro|italy|IT|Italy|40.7667|9.6667|Europe/Rome|0|0|San Teodoro, Sardinia
+costa-rei|Muravera|italy|IT|Italy|39.2519|9.5739|Europe/Rome|0|0|Costa Rei
+sovana|Sovana|italy|IT|Italy|42.6569|11.6444|Europe/Rome|0|0
+saturnia|Saturnia|italy|IT|Italy|42.6664|11.5042|Europe/Rome|0|0
+porto-santo-stefano|Porto Santo Stefano|italy|IT|Italy|42.4353|11.1175|Europe/Rome|0|0
+porto-ercole|Porto Ercole|italy|IT|Italy|42.3939|11.2036|Europe/Rome|0|0
+giannutri|Giannutri|italy|IT|Italy|42.2500|11.1000|Europe/Rome|0|0
+giglio|Isola del Giglio|italy|IT|Italy|42.3550|10.9050|Europe/Rome|0|0
+la-spezia|La Spezia|italy|IT|Italy|44.1000|9.8167|Europe/Rome|0|0
+ventimiglia|Ventimiglia|italy|IT|Italy|43.7903|7.6083|Europe/Rome|0|0
+brescia|Brescia|italy|IT|Italy|45.5417|10.2167|Europe/Rome|0|0
+cremona|Cremona|italy|IT|Italy|45.1333|10.0247|Europe/Rome|0|0
+brixen|Brixen|italy|IT|Italy|46.7167|11.6500|Europe/Rome|0|0
+ancona|Ancona|italy|IT|Italy|43.6169|13.5167|Europe/Rome|0|0
+ostia|Ostia|italy|IT|Italy|41.7332|12.2789|Europe/Rome|0|0|Ostia (Rome)
+san-felice-circeo|San Felice Circeo|italy|IT|Italy|41.2389|13.0964|Europe/Rome|0|0
+ventotene|Ventotene|italy|IT|Italy|40.7975|13.4300|Europe/Rome|0|0
+l-aquila|L'Aquila|italy|IT|Italy|42.3500|13.4000|Europe/Rome|0|0
+udine|Udine|italy|IT|Italy|46.0667|13.2333|Europe/Rome|0|0
+cividale|Cividale del Friuli|italy|IT|Italy|46.1000|13.4333|Europe/Rome|0|0
+grado|Grado|italy|IT|Italy|45.6778|13.3947|Europe/Rome|0|0|Grado, Friuli Venezia Giulia
+zahara-de-los-atunes|Zahara de los Atunes|spain|ES|Spain|36.1353|-5.8456|Europe/Madrid|0|0
+conil|Conil de la Frontera|spain|ES|Spain|36.2667|-6.0833|Europe/Madrid|0|0
+chipiona|Chipiona|spain|ES|Spain|36.7333|-6.4333|Europe/Madrid|0|0
+rota|Rota|spain|ES|Spain|36.6167|-6.3500|Europe/Madrid|0|0|Rota, Spain
+estepona|Estepona|spain|ES|Spain|36.4264|-5.1472|Europe/Madrid|0|0
+fuengirola|Fuengirola|spain|ES|Spain|36.5417|-4.6250|Europe/Madrid|0|0
+torremolinos|Torremolinos|spain|ES|Spain|36.6218|-4.5003|Europe/Madrid|0|0
+almunecar|Almuñécar|spain|ES|Spain|36.7333|-3.6833|Europe/Madrid|0|0
+salobrena|Salobreña|spain|ES|Spain|36.7467|-3.5869|Europe/Madrid|0|0
+motril|Motril|spain|ES|Spain|36.7500|-3.5167|Europe/Madrid|0|0
+mojacar|Mojácar|spain|ES|Spain|37.1403|-1.8514|Europe/Madrid|0|0
+carboneras|Carboneras|spain|ES|Spain|36.9992|-1.8922|Europe/Madrid|0|0
+roquetas|Roquetas de Mar|spain|ES|Spain|36.7642|-2.6147|Europe/Madrid|0|0
+adrennes|Adra|spain|ES|Spain|36.7478|-3.0161|Europe/Madrid|0|0|Adra, Spain
+priego|Priego de Córdoba|spain|ES|Spain|37.4333|-4.1833|Europe/Madrid|0|0
+lucena|Lucena|spain|ES|Spain|37.4089|-4.4853|Europe/Madrid|0|0|Lucena, Córdoba
+montilla|Montilla|spain|ES|Spain|37.5833|-4.6333|Europe/Madrid|0|0
+carmona|Carmona|spain|ES|Spain|37.4667|-5.6333|Europe/Madrid|0|0|Carmona, Spain
+osuna|Osuna|spain|ES|Spain|37.2333|-5.1000|Europe/Madrid|0|0
+ecija|Écija|spain|ES|Spain|37.5411|-5.0794|Europe/Madrid|0|0
+italica|Santiponce|spain|ES|Spain|37.4353|-6.0433|Europe/Madrid|0|0
+isla-cristina|Isla Cristina|spain|ES|Spain|37.1992|-7.3214|Europe/Madrid|0|0
+ayamonte|Ayamonte|spain|ES|Spain|37.2000|-7.4000|Europe/Madrid|0|0
+padstow|Padstow|united-kingdom|GB|United Kingdom|50.5380|-4.9380|Europe/London|0|0
+newquay|Newquay|united-kingdom|GB|United Kingdom|50.4120|-5.0757|Europe/London|0|0
+falmouth|Falmouth|united-kingdom|GB|United Kingdom|50.1500|-5.0700|Europe/London|0|0|Falmouth, Cornwall
+fowey|Fowey|united-kingdom|GB|United Kingdom|50.3353|-4.6372|Europe/London|0|0
+looe|Looe|united-kingdom|GB|United Kingdom|50.3540|-4.4540|Europe/London|0|0
+polperro|Polperro|united-kingdom|GB|United Kingdom|50.3311|-4.5197|Europe/London|0|0
+mevagissey|Mevagissey|united-kingdom|GB|United Kingdom|50.2702|-4.7874|Europe/London|0|0
+mousehole|Mousehole|united-kingdom|GB|United Kingdom|50.0830|-5.5390|Europe/London|0|0
+lands-end-sennen|Sennen|united-kingdom|GB|United Kingdom|50.0700|-5.6950|Europe/London|0|0
+tintagel|Tintagel|united-kingdom|GB|United Kingdom|50.6630|-4.7500|Europe/London|0|0
+boscastle|Boscastle|united-kingdom|GB|United Kingdom|50.6840|-4.6929|Europe/London|0|0
+port-isaac|Port Isaac|united-kingdom|GB|United Kingdom|50.5935|-4.8312|Europe/London|0|0
+bude|Bude|united-kingdom|GB|United Kingdom|50.8240|-4.5420|Europe/London|0|0
+clovelly|Clovelly|united-kingdom|GB|United Kingdom|50.9983|-4.3987|Europe/London|0|0
+lynton|Lynton|united-kingdom|GB|United Kingdom|51.2290|-3.8370|Europe/London|0|0
+lynmouth|Lynmouth|united-kingdom|GB|United Kingdom|51.2294|-3.8294|Europe/London|0|0
+ilfracombe|Ilfracombe|united-kingdom|GB|United Kingdom|51.2080|-4.1200|Europe/London|0|0
+barnstaple|Barnstaple|united-kingdom|GB|United Kingdom|51.0800|-4.0600|Europe/London|0|0
+dartmouth|Dartmouth|united-kingdom|GB|United Kingdom|50.3510|-3.5790|Europe/London|0|0|Dartmouth, Devon
+salcombe|Salcombe|united-kingdom|GB|United Kingdom|50.2370|-3.7820|Europe/London|0|0
+totnes|Totnes|united-kingdom|GB|United Kingdom|50.4320|-3.6840|Europe/London|0|0
+plymouth|Plymouth|united-kingdom|GB|United Kingdom|50.3714|-4.1422|Europe/London|0|0
+lyme-regis|Lyme Regis|united-kingdom|GB|United Kingdom|50.7250|-2.9353|Europe/London|0|0
+bridport|Bridport|united-kingdom|GB|United Kingdom|50.7336|-2.7584|Europe/London|0|0
+weymouth|Weymouth|united-kingdom|GB|United Kingdom|50.6097|-2.4547|Europe/London|0|0|Weymouth, Dorset
+lulworth|West Lulworth|united-kingdom|GB|United Kingdom|50.6261|-2.2476|Europe/London|0|0
+swanage|Swanage|united-kingdom|GB|United Kingdom|50.6080|-1.9600|Europe/London|0|0
+poole|Poole|united-kingdom|GB|United Kingdom|50.7167|-1.9833|Europe/London|0|0
+avebury|Avebury|united-kingdom|GB|United Kingdom|51.4286|-1.8542|Europe/London|0|0
+bradford-on-avon|Bradford-on-Avon|united-kingdom|GB|United Kingdom|51.3470|-2.2510|Europe/London|0|0
+lacock|Lacock|united-kingdom|GB|United Kingdom|51.4150|-2.1230|Europe/London|0|0
+cirencester|Cirencester|united-kingdom|GB|United Kingdom|51.7167|-1.9667|Europe/London|0|0
+stow-on-the-wold|Stow-on-the-Wold|united-kingdom|GB|United Kingdom|51.9300|-1.7225|Europe/London|0|0
+burford|Burford|united-kingdom|GB|United Kingdom|51.8080|-1.6370|Europe/London|0|0
+chipping-campden|Chipping Campden|united-kingdom|GB|United Kingdom|52.0520|-1.7790|Europe/London|0|0
+broadway-worcs|Broadway|united-kingdom|GB|United Kingdom|52.0400|-1.8600|Europe/London|0|0|Broadway, Worcestershire
+warwick|Warwick|united-kingdom|GB|United Kingdom|52.2800|-1.5900|Europe/London|0|0
+ely|Ely|united-kingdom|GB|United Kingdom|52.3981|0.2622|Europe/London|0|0|Ely, Cambridgeshire
+norwich|Norwich|united-kingdom|GB|United Kingdom|52.6286|1.2928|Europe/London|0|0
+southwold|Southwold|united-kingdom|GB|United Kingdom|52.3270|1.6800|Europe/London|0|0
+alburgh|Aldeburgh|united-kingdom|GB|United Kingdom|52.1500|1.6000|Europe/London|0|0
+woodbridge|Woodbridge|united-kingdom|GB|United Kingdom|52.0939|1.3200|Europe/London|0|0|Woodbridge, Suffolk
+colchester|Colchester|united-kingdom|GB|United Kingdom|51.8917|0.9030|Europe/London|0|0
+lewes|Lewes|united-kingdom|GB|United Kingdom|50.8747|0.0117|Europe/London|0|0
+rye|Rye|united-kingdom|GB|United Kingdom|50.9500|0.7300|Europe/London|0|0|Rye, East Sussex
+hastings|Hastings|united-kingdom|GB|United Kingdom|50.8550|0.5833|Europe/London|0|0
+eastbourne|Eastbourne|united-kingdom|GB|United Kingdom|50.7700|0.2800|Europe/London|0|0
+whitstable|Whitstable|united-kingdom|GB|United Kingdom|51.3610|1.0260|Europe/London|0|0
+margate|Margate|united-kingdom|GB|United Kingdom|51.3850|1.3838|Europe/London|0|0
+broadstairs|Broadstairs|united-kingdom|GB|United Kingdom|51.3589|1.4394|Europe/London|0|0
+dover|Dover|united-kingdom|GB|United Kingdom|51.1295|1.3089|Europe/London|0|0
+folkestone|Folkestone|united-kingdom|GB|United Kingdom|51.0792|1.1794|Europe/London|0|0
+tunbridge-wells|Royal Tunbridge Wells|united-kingdom|GB|United Kingdom|51.1320|0.2630|Europe/London|0|0
+sevenoaks|Sevenoaks|united-kingdom|GB|United Kingdom|51.2781|0.1874|Europe/London|0|0
+henley|Henley-on-Thames|united-kingdom|GB|United Kingdom|51.5357|-0.9030|Europe/London|0|0
+marlow|Marlow|united-kingdom|GB|United Kingdom|51.5700|-0.7800|Europe/London|0|0|Marlow, Buckinghamshire
+harrogate|Harrogate|united-kingdom|GB|United Kingdom|53.9919|-1.5378|Europe/London|0|0
+whitby|Whitby|united-kingdom|GB|United Kingdom|54.4867|-0.6156|Europe/London|0|0
+robin-hoods-bay|Robin Hood's Bay|united-kingdom|GB|United Kingdom|54.4336|-0.5344|Europe/London|0|0
+richmond-yorks|Richmond|united-kingdom|GB|United Kingdom|54.4031|-1.7369|Europe/London|0|0|Richmond, North Yorkshire
+skipton|Skipton|united-kingdom|GB|United Kingdom|53.9622|-2.0164|Europe/London|0|0
+settle|Settle|united-kingdom|GB|United Kingdom|54.0681|-2.2778|Europe/London|0|0|Settle, North Yorkshire
+haworth|Haworth|united-kingdom|GB|United Kingdom|53.8300|-1.9600|Europe/London|0|0
+hebden-bridge|Hebden Bridge|united-kingdom|GB|United Kingdom|53.7420|-2.0090|Europe/London|0|0
+lake-district-keswick|Keswick|united-kingdom|GB|United Kingdom|54.6008|-3.1375|Europe/London|0|0|Keswick, Cumbria
+ambleside|Ambleside|united-kingdom|GB|United Kingdom|54.4300|-2.9630|Europe/London|0|0
+windermere|Windermere|united-kingdom|GB|United Kingdom|54.3760|-2.9070|Europe/London|0|0|Windermere, Cumbria (town)
+grasmere|Grasmere|united-kingdom|GB|United Kingdom|54.4581|-3.0246|Europe/London|0|0|Grasmere (village)
+coniston|Coniston|united-kingdom|GB|United Kingdom|54.3680|-3.0730|Europe/London|0|0|Coniston, Cumbria
+bowness|Bowness-on-Windermere|united-kingdom|GB|United Kingdom|54.3644|-2.9181|Europe/London|0|0
+kendal|Kendal|united-kingdom|GB|United Kingdom|54.3260|-2.7450|Europe/London|0|0
+carlisle|Carlisle|united-kingdom|GB|United Kingdom|54.8947|-2.9364|Europe/London|0|0
+alnmouth|Alnmouth|united-kingdom|GB|United Kingdom|55.3879|-1.6124|Europe/London|0|0
+alnwick|Alnwick|united-kingdom|GB|United Kingdom|55.4134|-1.7069|Europe/London|0|0
+bamburgh|Bamburgh|united-kingdom|GB|United Kingdom|55.6040|-1.7220|Europe/London|0|0
+holy-island|Holy Island|united-kingdom|GB|United Kingdom|55.6800|-1.8025|Europe/London|0|0|Lindisfarne
+berwick|Berwick-upon-Tweed|united-kingdom|GB|United Kingdom|55.7692|-2.0025|Europe/London|0|0
+broadford|Broadford|united-kingdom|GB|United Kingdom|57.2410|-5.9070|Europe/London|0|0|Broadford, Skye
+mallaig|Mallaig|united-kingdom|GB|United Kingdom|57.0038|-5.8272|Europe/London|0|0
+plockton|Plockton|united-kingdom|GB|United Kingdom|57.3380|-5.6523|Europe/London|0|0
+ullapool|Ullapool|united-kingdom|GB|United Kingdom|57.9000|-5.1660|Europe/London|0|0
+durness|Durness|united-kingdom|GB|United Kingdom|58.5700|-4.7500|Europe/London|0|0
+john-o-groats|John o' Groats|united-kingdom|GB|United Kingdom|58.6372|-3.0689|Europe/London|0|0
+thurso|Thurso|united-kingdom|GB|United Kingdom|58.5960|-3.5210|Europe/London|0|0
+kirkwall|Kirkwall|united-kingdom|GB|United Kingdom|58.9810|-2.9600|Europe/London|0|0
+stromness|Stromness|united-kingdom|GB|United Kingdom|58.9600|-3.3000|Europe/London|0|0
+lerwick|Lerwick|united-kingdom|GB|United Kingdom|60.1550|-1.1450|Europe/London|0|0
+stornoway|Stornoway|united-kingdom|GB|United Kingdom|58.2090|-6.3870|Europe/London|0|0
+tobermory|Tobermory|united-kingdom|GB|United Kingdom|56.6200|-6.0700|Europe/London|0|0|Tobermory, Mull
+iona|Iona|united-kingdom|GB|United Kingdom|56.3300|-6.4100|Europe/London|0|0
+staffa|Fionnphort|united-kingdom|GB|United Kingdom|56.3250|-6.3650|Europe/London|0|0
+st-davids|St Davids|united-kingdom|GB|United Kingdom|51.8820|-5.2690|Europe/London|0|0
+aberystwyth|Aberystwyth|united-kingdom|GB|United Kingdom|52.4140|-4.0810|Europe/London|0|0
+llanberis|Llanberis|united-kingdom|GB|United Kingdom|53.1190|-4.1310|Europe/London|0|0
+portmeirion|Portmeirion|united-kingdom|GB|United Kingdom|52.9131|-4.0992|Europe/London|0|0
+harlech|Harlech|united-kingdom|GB|United Kingdom|52.8600|-4.1050|Europe/London|0|0
+pwllheli|Pwllheli|united-kingdom|GB|United Kingdom|52.8870|-4.4180|Europe/London|0|0
+caernarfon|Caernarfon|united-kingdom|GB|United Kingdom|53.1400|-4.2700|Europe/London|0|0
+beaumaris|Beaumaris|united-kingdom|GB|United Kingdom|53.2670|-4.0930|Europe/London|0|0
+holyhead|Holyhead|united-kingdom|GB|United Kingdom|53.3090|-4.6330|Europe/London|0|0
+portrush|Portrush|united-kingdom|GB|United Kingdom|55.2047|-6.6522|Europe/London|0|0
+portstewart|Portstewart|united-kingdom|GB|United Kingdom|55.1800|-6.7110|Europe/London|0|0
+ballycastle|Ballycastle|united-kingdom|GB|United Kingdom|55.2050|-6.2580|Europe/London|0|0|Ballycastle, County Antrim
+achill|Keel|ireland|IE|Ireland|53.9667|-10.0833|Europe/Dublin|0|0|Keel, County Mayo
+clifden|Clifden|ireland|IE|Ireland|53.4890|-10.0210|Europe/Dublin|0|0
+roundstone|Roundstone|ireland|IE|Ireland|53.3950|-9.9180|Europe/Dublin|0|0|Roundstone, County Galway
+doolin|Doolin|ireland|IE|Ireland|53.0160|-9.3770|Europe/Dublin|0|0
+lisdoonvarna|Lisdoonvarna|ireland|IE|Ireland|53.0303|-9.2894|Europe/Dublin|0|0
+lahinch|Lahinch|ireland|IE|Ireland|52.9370|-9.3450|Europe/Dublin|0|0
+ennis|Ennis|ireland|IE|Ireland|52.8463|-8.9807|Europe/Dublin|0|0
+adare|Adare|ireland|IE|Ireland|52.5640|-8.7900|Europe/Dublin|0|0
+kenmare|Kenmare|ireland|IE|Ireland|51.8801|-9.5835|Europe/Dublin|0|0
+cahersiveen|Cahersiveen|ireland|IE|Ireland|51.9480|-10.2240|Europe/Dublin|0|0
+waterville|Waterville|ireland|IE|Ireland|51.8276|-10.1722|Europe/Dublin|0|0|Waterville, County Kerry
+skellig|Portmagee|ireland|IE|Ireland|51.8856|-10.3661|Europe/Dublin|0|0
+tralee|Tralee|ireland|IE|Ireland|52.2675|-9.6962|Europe/Dublin|0|0
+cobh|Cobh|ireland|IE|Ireland|51.8510|-8.2967|Europe/Dublin|0|0
+clonakilty|Clonakilty|ireland|IE|Ireland|51.6219|-8.8864|Europe/Dublin|0|0
+skibbereen|Skibbereen|ireland|IE|Ireland|51.5492|-9.2675|Europe/Dublin|0|0
+glengarriff|Glengarriff|ireland|IE|Ireland|51.7500|-9.5520|Europe/Dublin|0|0
+waterford|Waterford|ireland|IE|Ireland|52.2567|-7.1292|Europe/Dublin|0|0
+wexford|Wexford|ireland|IE|Ireland|52.3383|-6.4617|Europe/Dublin|0|0
+carlingford|Carlingford|ireland|IE|Ireland|54.0429|-6.1861|Europe/Dublin|0|0|Carlingford, County Louth
+howth|Howth|ireland|IE|Ireland|53.3860|-6.0660|Europe/Dublin|0|0
+malahide|Malahide|ireland|IE|Ireland|53.4508|-6.1544|Europe/Dublin|0|0
+sligo|Sligo|ireland|IE|Ireland|54.2667|-8.4833|Europe/Dublin|0|0
+donegal-town|Donegal|ireland|IE|Ireland|54.6540|-8.1100|Europe/Dublin|0|0|Donegal (town)
+letterkenny|Letterkenny|ireland|IE|Ireland|54.9566|-7.7203|Europe/Dublin|0|0
+malin-head|Malin|ireland|IE|Ireland|55.2500|-7.2700|Europe/Dublin|0|0|Malin, County Donegal
+bundoran|Bundoran|ireland|IE|Ireland|54.4754|-8.2838|Europe/Dublin|0|0
+jerome-az|Jerome|united-states|US|United States|34.7489|-112.1083|America/New_York|0|0|Jerome, Arizona
+prescott|Prescott|united-states|US|United States|34.5853|-112.4469|America/New_York|0|0|Prescott, Arizona
+tombstone|Tombstone|united-states|US|United States|31.7389|-110.0875|America/New_York|0|0|Tombstone, Arizona
+bisbee|Bisbee|united-states|US|United States|31.4481|-109.9283|America/New_York|0|0|Bisbee, Arizona
+williams-az|Williams|united-states|US|United States|35.2594|-112.1511|America/New_York|0|0|Williams, Arizona
+winslow|Winslow|united-states|US|United States|35.0244|-110.7194|America/New_York|0|0|Winslow, Arizona
+holbrook|Holbrook|united-states|US|United States|34.9042|-110.1672|America/New_York|0|0|Holbrook, Arizona
+bluff|Bluff|united-states|US|United States|37.2844|-109.5517|America/New_York|0|0|Bluff, Utah
+mexican-hat|Mexican Hat|united-states|US|United States|37.1761|-109.8778|America/New_York|0|0|Mexican Hat, Utah
+escalante|Escalante|united-states|US|United States|37.7703|-111.6022|America/New_York|0|0|Escalante, Utah
+richfield|Richfield|united-states|US|United States|38.7658|-112.0875|America/New_York|0|0|Richfield, Utah
+cedar-city|Cedar City|united-states|US|United States|37.6775|-113.0953|America/New_York|0|0|Cedar City, Utah
+st-george-ut|St. George|united-states|US|United States|37.1025|-113.5771|America/New_York|0|0|St. George, Utah
+hurricane-ut|Hurricane|united-states|US|United States|37.1472|-113.3667|America/New_York|0|0|Hurricane, Utah
+brian-head|Brian Head|united-states|US|United States|37.6978|-112.8417|America/New_York|0|0|Brian Head, Utah
+alta|Alta|united-states|US|United States|40.5808|-111.6372|America/New_York|0|0|Alta, Utah
+snowbird|Snowbird|united-states|US|United States|40.5811|-111.6564|America/New_York|0|0|Snowbird, Utah
+heber|Heber City|united-states|US|United States|40.5069|-111.4133|America/New_York|0|0|Heber City, Utah
+silverton-co|Silverton|united-states|US|United States|37.8117|-107.6644|America/New_York|0|0|Silverton, Colorado
+snowmass|Snowmass Village|united-states|US|United States|39.2458|-106.9367|America/New_York|0|0|Snowmass Village, Colorado
+beaver-creek|Avon|united-states|US|United States|39.6319|-106.4894|America/New_York|0|0|Avon, Colorado
+keystone-co|Keystone|united-states|US|United States|39.5900|-105.9383|America/New_York|0|0|Keystone, Colorado
+frisco-co|Frisco|united-states|US|United States|39.5792|-106.0914|America/New_York|0|0|Frisco, Colorado
+silverthorne|Silverthorne|united-states|US|United States|39.6400|-106.0783|America/New_York|0|0|Silverthorne, Colorado
+winter-park|Winter Park|united-states|US|United States|39.8786|-105.7828|America/New_York|0|0|Winter Park, Colorado
+estes-park|Estes Park|united-states|US|United States|40.3808|-105.5222|America/New_York|0|0|Estes Park, Colorado
+grand-lake|Grand Lake|united-states|US|United States|40.2506|-105.8244|America/New_York|0|0|Grand Lake, Colorado
+glenwood-springs|Glenwood Springs|united-states|US|United States|39.5456|-107.3347|America/New_York|0|0|Glenwood Springs, Colorado
+manitou-springs|Manitou Springs|united-states|US|United States|38.8575|-104.9128|America/New_York|0|0|Manitou Springs, Colorado
+taos-ski-valley|Taos Ski Valley|united-states|US|United States|36.5900|-105.4369|America/New_York|0|0|Taos Ski Valley, New Mexico
+las-cruces|Las Cruces|united-states|US|United States|32.3144|-106.7789|America/New_York|0|0|Las Cruces, New Mexico
+carlsbad-nm|Carlsbad|united-states|US|United States|32.4119|-104.2364|America/New_York|0|0|Carlsbad, New Mexico
+roswell|Roswell|united-states|US|United States|33.3942|-104.5228|America/New_York|0|0|Roswell, New Mexico
+wilson-wy|Wilson|united-states|US|United States|43.4864|-110.8792|America/New_York|0|0|Wilson, Wyoming
+teton-village|Teton Village|united-states|US|United States|43.5864|-110.8267|America/New_York|0|0|Teton Village, Wyoming
+thermopolis|Thermopolis|united-states|US|United States|43.6478|-108.2139|America/New_York|0|0|Thermopolis, Wyoming
+sheridan-wy|Sheridan|united-states|US|United States|44.7967|-106.9589|America/New_York|0|0|Sheridan, Wyoming
+lander|Lander|united-states|US|United States|42.8331|-108.7325|America/New_York|0|0|Lander, Wyoming
+pinedale|Pinedale|united-states|US|United States|42.8661|-109.8647|America/New_York|0|0|Pinedale, Wyoming
+gardiner|Gardiner|united-states|US|United States|45.0619|-110.7556|America/New_York|0|0|Gardiner, Montana
+cooke-city|Cooke City|united-states|US|United States|45.0158|-109.8900|America/New_York|0|0|Cooke City, Montana
+red-lodge|Red Lodge|united-states|US|United States|45.1933|-109.2486|America/New_York|0|0|Red Lodge, Montana
+big-sky|Big Sky|united-states|US|United States|45.2600|-111.3100|America/New_York|0|0|Big Sky, Montana
+kalispell|Kalispell|united-states|US|United States|48.2339|-114.3389|America/New_York|0|0|Kalispell, Montana
+glacier-west|West Glacier|united-states|US|United States|48.4931|-113.9786|America/New_York|0|0|West Glacier, Montana
+st-mary|St. Mary|united-states|US|United States|48.7428|-113.4275|America/New_York|0|0|St. Mary, Montana
+stanley-id|Stanley|united-states|US|United States|44.2150|-114.9364|America/New_York|0|0|Stanley, Idaho
+mccall|McCall|united-states|US|United States|44.9108|-116.1208|America/New_York|0|0|McCall, Idaho
+coeur-dalene|Coeur d'Alene|united-states|US|United States|47.6928|-116.7800|America/New_York|0|0|Coeur d'Alene, Idaho
+leavenworth|Leavenworth|united-states|US|United States|47.5950|-120.6628|America/New_York|0|0|Leavenworth, Washington
+winthrop|Winthrop|united-states|US|United States|48.4717|-120.1792|America/New_York|0|0|Winthrop, Washington
+friday-harbor|Friday Harbor|united-states|US|United States|48.5331|-123.0764|America/New_York|0|0|Friday Harbor, Washington
+anacortes|Anacortes|united-states|US|United States|48.5019|-122.6236|America/New_York|0|0|Anacortes, Washington
+port-townsend|Port Townsend|united-states|US|United States|48.1153|-122.7619|America/New_York|0|0|Port Townsend, Washington
+port-angeles|Port Angeles|united-states|US|United States|48.1264|-123.4778|America/New_York|0|0|Port Angeles, Washington
+forks|Forks|united-states|US|United States|47.9503|-124.3856|America/New_York|0|0|Forks, Washington
+seaside-or|Seaside|united-states|US|United States|45.9956|-123.9139|America/New_York|0|0|Seaside, Oregon
+hood-river|Hood River|united-states|US|United States|45.7094|-121.5217|America/New_York|0|0|Hood River, Oregon
+sisters|Sisters|united-states|US|United States|44.2928|-121.5531|America/New_York|0|0|Sisters, Oregon
+ashland|Ashland|united-states|US|United States|42.1914|-122.7008|America/New_York|0|0|Ashland, Oregon
+jacksonville-or|Jacksonville|united-states|US|United States|42.3144|-122.9672|America/New_York|0|0|Jacksonville, Oregon
+cambria|Cambria|united-states|US|United States|35.5542|-121.0875|America/New_York|0|0|Cambria, California
+morro-bay|Morro Bay|united-states|US|United States|35.3672|-120.8467|America/New_York|0|0|Morro Bay, California
+pismo|Pismo Beach|united-states|US|United States|35.1483|-120.6481|America/New_York|0|0|Pismo Beach, California
+solvang|Solvang|united-states|US|United States|34.5939|-120.1397|America/New_York|0|0|Solvang, California
+newport-beach|Newport Beach|united-states|US|United States|33.6167|-117.8975|America/New_York|0|0|Newport Beach, California
+coronado|Coronado|united-states|US|United States|32.6781|-117.1725|America/New_York|0|0|Coronado, California
+twentynine-palms|Twentynine Palms|united-states|US|United States|34.1356|-116.0542|America/New_York|0|0|Twentynine Palms, California
+death-valley-furnace-creek|Furnace Creek|united-states|US|United States|36.4581|-116.8708|America/New_York|0|0|Furnace Creek, California
+lone-pine|Lone Pine|united-states|US|United States|36.6061|-118.0794|America/New_York|0|0|Lone Pine, California
+bishop|Bishop|united-states|US|United States|37.3667|-118.3958|America/New_York|0|0|Bishop, California
+lee-vining|Lee Vining|united-states|US|United States|37.9550|-119.1283|America/New_York|0|0|Lee Vining, California
+groveland|Groveland|united-states|US|United States|37.8317|-120.2533|America/New_York|0|0|Groveland, California
+tahoe-city|Tahoe City|united-states|US|United States|39.1722|-120.1389|America/New_York|0|0|Tahoe City, California
+yountville|Yountville|united-states|US|United States|38.4031|-122.3622|America/New_York|0|0|Yountville, California
+st-helena|St. Helena|united-states|US|United States|-15.9667|-5.7000|America/New_York|0|0|Saint Helena
+fort-bragg|Fort Bragg|united-states|US|United States|39.4457|-123.8044|America/New_York|0|0|Fort Bragg, California
+eureka|Eureka|united-states|US|United States|40.8019|-124.1636|America/New_York|0|0|Eureka, California
+arcata|Arcata|united-states|US|United States|40.8681|-124.0906|America/New_York|0|0|Arcata, California
+sausalito|Sausalito|united-states|US|United States|37.8592|-122.4853|America/New_York|0|0|Sausalito, California
+tiburon|Tiburon|united-states|US|United States|37.8736|-122.4567|America/New_York|0|0|Tiburon, California
+half-moon-bay|Half Moon Bay|united-states|US|United States|37.4589|-122.4369|America/New_York|0|0|Half Moon Bay, California
+capitola|Capitola|united-states|US|United States|36.9764|-121.9547|America/New_York|0|0|Capitola, California
+wailea|Wailea|united-states|US|United States|20.6900|-156.4392|America/New_York|0|0|Wailea, Hawaii
+kaanapali|Kaanapali|united-states|US|United States|20.9347|-156.6794|America/New_York|0|0|Kāʻanapali, Hawaii
+kapalua|Kapalua|united-states|US|United States|20.9967|-156.6531|America/New_York|0|0|Kapalua, Hawaii
+paia|Paia|united-states|US|United States|20.9106|-156.3764|America/New_York|0|0|Pāʻia, Hawaii
+volcano-village|Volcano|united-states|US|United States|19.4497|-155.2356|America/New_York|0|0|Volcano, Hawaii
+waimea-hawaii|Waimea|united-states|US|United States|20.0203|-155.6678|America/New_York|0|0|Waimea, Hawaiʻi County, Hawaii
+hanalei|Hanalei|united-states|US|United States|22.2067|-159.5008|America/New_York|0|0|Hanalei, Hawaii
+kapaa|Kapaʻa|united-states|US|United States|22.0883|-159.3378|America/New_York|0|0|Kapaʻa, Hawaii
+waikiki|Waikiki|united-states|US|United States|21.2752|-157.8312|America/New_York|0|0|Waikīkī
+kailua|Kailua|united-states|US|United States|21.3975|-157.7394|America/New_York|0|0|Kailua, Hawaii
+haines|Haines|united-states|US|United States|59.2339|-135.4469|America/New_York|0|0|Haines, Alaska
+glacier-bay-gustavus|Gustavus|united-states|US|United States|58.4164|-135.7456|America/New_York|0|0|Gustavus, Alaska
+valdez|Valdez|united-states|US|United States|61.1308|-146.3483|America/New_York|0|0|Valdez, Alaska
+denali-park|Denali Park|united-states|US|United States|63.4300|-150.3200|America/New_York|0|0|Denali National Park and Preserve
+talkeetna|Talkeetna|united-states|US|United States|62.3239|-150.1094|America/New_York|0|0|Talkeetna, Alaska
+acadia-northeast|Northeast Harbor|united-states|US|United States|44.2942|-68.2897|America/New_York|0|0|Northeast Harbor, Maine
+rockland-me|Rockland|united-states|US|United States|44.1250|-69.1317|America/New_York|0|0|Rockland, Maine
+boothbay|Boothbay Harbor|united-states|US|United States|43.8506|-69.6278|America/New_York|0|0|Boothbay Harbor, Maine
+ogunquit|Ogunquit|united-states|US|United States|43.2531|-70.6075|America/New_York|0|0|Ogunquit, Maine
+portsmouth-nh|Portsmouth|united-states|US|United States|43.0581|-70.7825|America/New_York|0|0|Portsmouth, New Hampshire
+north-conway|North Conway|united-states|US|United States|44.0536|-71.1283|America/New_York|0|0|North Conway, New Hampshire
+stowe|Stowe|united-states|US|United States|44.5006|-72.7183|America/New_York|0|0|Stowe, Vermont
+woodstock-vt|Woodstock|united-states|US|United States|43.6069|-72.5472|America/New_York|0|0|Woodstock, Vermont
+lenox|Lenox|united-states|US|United States|42.3564|-73.2853|America/New_York|0|0|Lenox, Massachusetts
+stockbridge|Stockbridge|united-states|US|United States|42.2875|-73.3208|America/New_York|0|0|Stockbridge, Massachusetts
+chatham-ma|Chatham|united-states|US|United States|41.6819|-69.9603|America/New_York|0|0|Chatham, Massachusetts
+hyannis|Hyannis|united-states|US|United States|41.6528|-70.2833|America/New_York|0|0|Hyannis, Massachusetts
+edgartown|Edgartown|united-states|US|United States|41.3889|-70.5139|America/New_York|0|0|Edgartown, Massachusetts
+oak-bluffs|Oak Bluffs|united-states|US|United States|41.4542|-70.5625|America/New_York|0|0|Oak Bluffs, Massachusetts
+block-island|New Shoreham|united-states|US|United States|41.1697|-71.5800|America/New_York|0|0|Block Island
+ocean-city-nj|Ocean City|united-states|US|United States|39.2695|-74.5998|America/New_York|0|0|Ocean City, New Jersey
+atlantic-city|Atlantic City|united-states|US|United States|39.3625|-74.4250|America/New_York|0|0|Atlantic City, New Jersey
+st-michaels|St. Michaels|united-states|US|United States|38.7836|-76.2222|America/New_York|0|0|Saint Michaels, Maryland
+luray|Luray|united-states|US|United States|38.6633|-78.4819|America/New_York|0|0|Luray, Virginia
+kitty-hawk|Kitty Hawk|united-states|US|United States|36.0769|-75.7047|America/New_York|0|0|Kitty Hawk, North Carolina
+duck|Duck|united-states|US|United States|36.1697|-75.7553|America/New_York|0|0|Duck, North Carolina
+ocracoke|Ocracoke|united-states|US|United States|35.1128|-75.9758|America/New_York|0|0|Ocracoke, North Carolina
+blowing-rock|Blowing Rock|united-states|US|United States|36.1297|-81.6706|America/New_York|0|0|Blowing Rock, North Carolina
+tybee|Tybee Island|united-states|US|United States|32.0075|-80.8450|America/New_York|0|0|Tybee Island, Georgia
+st-simons|St. Simons|united-states|US|United States|31.1597|-81.3886|America/New_York|0|0|St. Simons, Georgia
+amelia-island|Fernandina Beach|united-states|US|United States|30.6361|-81.4561|America/New_York|0|0|Fernandina Beach, Florida
+cocoa-beach|Cocoa Beach|united-states|US|United States|28.3202|-80.6089|America/New_York|0|0|Cocoa Beach, Florida
+islamorada|Islamorada|united-states|US|United States|24.9358|-80.6136|America/New_York|0|0|Islamorada, Florida
+captiva|Captiva|united-states|US|United States|26.5111|-82.1894|America/New_York|0|0|Captiva, Florida
+siesta-key|Siesta Key|united-states|US|United States|27.2781|-82.5517|America/New_York|0|0|Siesta Key, Florida
+st-pete-beach|St. Pete Beach|united-states|US|United States|27.7364|-82.7475|America/New_York|0|0|St. Pete Beach, Florida
+pigeon-forge|Pigeon Forge|united-states|US|United States|35.7981|-83.5639|America/New_York|0|0|Pigeon Forge, Tennessee
+fredericksburg-tx|Fredericksburg|united-states|US|United States|30.2639|-98.8747|America/New_York|0|0|Fredericksburg, Texas
+marfa|Marfa|united-states|US|United States|30.3106|-104.0256|America/New_York|0|0|Marfa, Texas
+terlingua|Terlingua|united-states|US|United States|29.2992|-103.5794|America/New_York|0|0|Terlingua, Texas
+waterton|Waterton Park|canada|CA|Canada|49.0517|-113.9142|America/Toronto|0|0
+golden-bc|Golden|canada|CA|Canada|51.3019|-116.9667|America/Toronto|0|0|Golden, British Columbia
+kaslo|Kaslo|canada|CA|Canada|49.9133|-116.9114|America/Toronto|0|0
+fernie|Fernie|canada|CA|Canada|49.5042|-115.0628|America/Toronto|0|0|Fernie, British Columbia
+kimberley-bc|Kimberley|canada|CA|Canada|49.6697|-115.9775|America/Toronto|0|0|Kimberley, British Columbia
+penticton|Penticton|canada|CA|Canada|49.5008|-119.5939|America/Toronto|0|0
+vernon|Vernon|canada|CA|Canada|50.2670|-119.2720|America/Toronto|0|0|Vernon, British Columbia
+sidney-bc|Sidney|canada|CA|Canada|48.6506|-123.3986|America/Toronto|0|0|Sidney, British Columbia
+baie-saint-paul|Baie-Saint-Paul|canada|CA|Canada|47.4500|-70.5000|America/Toronto|0|0
+la-malbaie|La Malbaie|canada|CA|Canada|47.6500|-70.1500|America/Toronto|0|0
+gaspe|Gaspé|canada|CA|Canada|48.8317|-64.4867|America/Toronto|0|0|Gaspé, Quebec
+stratford-on|Stratford|canada|CA|Canada|43.3708|-80.9819|America/Toronto|0|0|Stratford, Ontario
+picton-on|Picton|canada|CA|Canada|44.0083|-77.1389|America/Toronto|0|0|Picton, Ontario
+tobermory-on|Tobermory|canada|CA|Canada|45.2500|-81.6667|America/Toronto|0|0|Tobermory, Ontario
+parry-sound|Parry Sound|canada|CA|Canada|45.3539|-80.0361|America/Toronto|0|0|Parry Sound, Ontario
+mahone-bay|Mahone Bay|canada|CA|Canada|44.5000|-64.2167|America/Toronto|0|0
+peggys-cove|Peggy's Cove|canada|CA|Canada|44.4928|-63.9175|America/Toronto|0|0|Peggys Cove, Nova Scotia
+baddeck|Baddeck|canada|CA|Canada|46.1000|-60.7542|America/Toronto|0|0
+cheticamp|Chéticamp|canada|CA|Canada|46.6379|-61.0091|America/Toronto|0|0|Chéticamp, Nova Scotia
+ingonish|Ingonish|canada|CA|Canada|46.6392|-60.4081|America/Toronto|0|0
+cavendish|Cavendish|canada|CA|Canada|46.4833|-63.3833|America/Toronto|0|0|Cavendish, Prince Edward Island
+trinity-nl|Trinity|canada|CA|Canada|48.3756|-53.3947|America/Toronto|0|0|Trinity, Newfoundland and Labrador
+bonavista|Bonavista|canada|CA|Canada|48.6597|-53.1208|America/Toronto|0|0|Bonavista, Newfoundland and Labrador
+gros-morne-rocky|Rocky Harbour|canada|CA|Canada|49.5944|-57.9194|America/Toronto|0|0|Rocky Harbour, Newfoundland and Labrador
+iqaluit|Iqaluit|canada|CA|Canada|63.7494|-68.5217|America/Toronto|0|0
+whitehorse|Whitehorse|canada|CA|Canada|60.7242|-135.0561|America/Toronto|0|0
+dawson|Dawson City|canada|CA|Canada|64.0600|-139.4319|America/Toronto|0|0
+yellowknife|Yellowknife|canada|CA|Canada|62.4536|-114.3700|America/Toronto|0|0
+churchill|Churchill|canada|CA|Canada|58.7808|-94.1869|America/Toronto|0|0|Churchill, Manitoba

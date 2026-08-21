@@ -1,0 +1,2050 @@
+# Top ~500 tourist cities beyond uniqueTop2000.
+# slug|name|countrySlug|CC|countryName|wikiTitle
+nancy|Nancy|france|FR|France|Nancy, France
+tossa-de-mar|Tossa de Mar|spain|ES|Spain|Tossa de Mar
+ciutadella|Ciutadella|spain|ES|Spain|Ciutadella de Menorca
+adeje|Adeje|spain|ES|Spain|Adeje, Santa Cruz de Tenerife
+sagres|Sagres|portugal|PT|Portugal|Sagres, Vila do Bispo
+hofn|Höfn|iceland|IS|Iceland|Höfn
+bushmills|Bushmills|united-kingdom|GB|United Kingdom|Bushmills
+ao-nang|Ao Nang|thailand|TH|Thailand|Ao Nang
+lumbini|Lumbini|nepal|NP|Nepal|Lumbini
+canmore|Canmore|canada|CA|Canada|Canmore, Alberta
+bocas-town|Bocas Town|panama|PA|Panama|Bocas Town, Bocas del Toro
+minori|Minori|italy|IT|Italy|Minori, Campania
+vietri-sul-mare|Vietri sul Mare|italy|IT|Italy|Vietri sul Mare
+atrani|Atrani|italy|IT|Italy|Atrani
+cetara|Cetara|italy|IT|Italy|Cetara
+furore|Furore|italy|IT|Italy|Furore
+orbetello|Orbetello|italy|IT|Italy|Orbetello
+gaeta|Gaeta|italy|IT|Italy|Gaeta
+sperlonga|Sperlonga|italy|IT|Italy|Sperlonga
+malfa|Malfa|italy|IT|Italy|Malfa
+portoferraio|Portoferraio|italy|IT|Italy|Portoferraio
+capoliveri|Capoliveri|italy|IT|Italy|Capoliveri
+forte-dei-marmi|Forte dei Marmi|italy|IT|Italy|Forte dei Marmi
+sestri-levante|Sestri Levante|italy|IT|Italy|Sestri Levante
+vieste|Vieste|italy|IT|Italy|Vieste
+peschici|Peschici|italy|IT|Italy|Peschici
+otranto|Otranto|italy|IT|Italy|Otranto
+cervinia|Cervinia|italy|IT|Italy|Breuil-Cervinia
+ainhoa|Ainhoa|france|FR|France|Ainhoa
+arcos-de-la-frontera|Arcos de la Frontera|spain|ES|Spain|Arcos de la Frontera
+denia|Dénia|spain|ES|Spain|Dénia
+javea|Xàbia|spain|ES|Spain|Xàbia
+altea|Altea|spain|ES|Spain|Altea
+cazorla|Cazorla|spain|ES|Spain|Cazorla
+baeza|Baeza|spain|ES|Spain|Baeza
+plasencia|Plasencia|spain|ES|Spain|Plasencia
+blanes|Blanes|spain|ES|Spain|Blanes
+bardonecchia|Bardonecchia|italy|IT|Italy|Bardonecchia
+alassio|Alassio|italy|IT|Italy|Alassio
+finale-ligure|Finale Ligure|italy|IT|Italy|Finale Ligure
+camogli|Camogli|italy|IT|Italy|Camogli
+mondsee|Mondsee|austria|AT|Austria|Mondsee (town)
+feldkirch|Feldkirch|austria|AT|Austria|Feldkirch
+middelburg|Middelburg|netherlands|NL|Netherlands|Middelburg
+ayder|Ayder|turkiye|TR|Turkey|Ayder
+apollonia-sifnos|Apollonia|greece|GR|Greece|Apollonia (Sifnos)
+hikkaduwa|Hikkaduwa|sri-lanka|LK|Sri Lanka|Hikkaduwa
+hammamet|Hammamet|tunisia|TN|Tunisia|Hammamet
+praiano|Praiano|italy|IT|Italy|Praiano
+scala-amalfi|Scala|italy|IT|Italy|Scala, Campania
+conca-dei-marini|Conca dei Marini|italy|IT|Italy|Conca dei Marini
+massalubrense|Massa Lubrense|italy|IT|Italy|Massa Lubrense
+vico-equense|Vico Equense|italy|IT|Italy|Vico Equense
+forio|Forio|italy|IT|Italy|Forio
+ischia-porto|Ischia|italy|IT|Italy|Ischia, Campania
+ponza|Ponza|italy|IT|Italy|Ponza
+orosei|Orosei|italy|IT|Italy|Orosei
+cala-gonone|Cala Gonone|italy|IT|Italy|Cala Gonone
+santa-teresa-gallura|Santa Teresa Gallura|italy|IT|Italy|Santa Teresa Gallura
+palau-sardinia|Palau|italy|IT|Italy|Palau, Sardinia
+stintino|Stintino|italy|IT|Italy|Stintino
+carloforte|Carloforte|italy|IT|Italy|Carloforte
+modica|Modica|italy|IT|Italy|Modica
+scicli|Scicli|italy|IT|Italy|Scicli
+marsala|Marsala|italy|IT|Italy|Marsala
+sciacca|Sciacca|italy|IT|Italy|Sciacca
+mazara|Mazara del Vallo|italy|IT|Italy|Mazara del Vallo
+locorotondo|Locorotondo|italy|IT|Italy|Locorotondo
+cisterino|Cisternino|italy|IT|Italy|Cisternino
+martina-franca|Martina Franca|italy|IT|Italy|Martina Franca
+trani|Trani|italy|IT|Italy|Trani
+barletta|Barletta|italy|IT|Italy|Barletta
+sulmona|Sulmona|italy|IT|Italy|Sulmona
+scanno|Scanno|italy|IT|Italy|Scanno, Abruzzo
+ascoli-piceno|Ascoli Piceno|italy|IT|Italy|Ascoli Piceno
+senigallia|Senigallia|italy|IT|Italy|Senigallia
+spello|Spello|italy|IT|Italy|Spello
+montefalco|Montefalco|italy|IT|Italy|Montefalco
+narni|Narni|italy|IT|Italy|Narni
+greve-in-chianti|Greve in Chianti|italy|IT|Italy|Greve in Chianti
+radda-in-chianti|Radda in Chianti|italy|IT|Italy|Radda in Chianti
+gaiole|Gaiole in Chianti|italy|IT|Italy|Gaiole in Chianti
+fiesole|Fiesole|italy|IT|Italy|Fiesole
+carrara|Carrara|italy|IT|Italy|Carrara
+levanto|Levanto|italy|IT|Italy|Levanto
+noli|Noli|italy|IT|Italy|Noli
+bordighera|Bordighera|italy|IT|Italy|Bordighera
+dolceacqua|Dolceacqua|italy|IT|Italy|Dolceacqua
+alba-italy|Alba|italy|IT|Italy|Alba, Piedmont
+barolo|Barolo|italy|IT|Italy|Barolo, Piedmont
+la-morra|La Morra|italy|IT|Italy|La Morra
+asti|Asti|italy|IT|Italy|Asti
+gargnano|Gargnano|italy|IT|Italy|Gargnano
+salo|Salò|italy|IT|Italy|Salò
+iseo|Iseo|italy|IT|Italy|Iseo, Lombardy
+lenno|Lenno|italy|IT|Italy|Lenno
+verbania|Verbania|italy|IT|Italy|Verbania
+cannobio|Cannobio|italy|IT|Italy|Cannobio
+bormio|Bormio|italy|IT|Italy|Bormio
+moena|Moena|italy|IT|Italy|Moena
+predazzo|Predazzo|italy|IT|Italy|Predazzo
+asiago|Asiago|italy|IT|Italy|Asiago
+cogne|Cogne|italy|IT|Italy|Cogne
+gressoney|Gressoney-Saint-Jean|italy|IT|Italy|Gressoney-Saint-Jean
+champoluc|Champoluc|italy|IT|Italy|Champoluc
+marciana-marina|Marciana Marina|italy|IT|Italy|Marciana Marina
+porto-azzurro|Porto Azzurro|italy|IT|Italy|Porto Azzurro
+castellammare-di-stabia|Castellammare di Stabia|italy|IT|Italy|Castellammare di Stabia
+monopoli-italy|Monopoli|italy|IT|Italy|Monopoli
+polignano|Polignano a Mare|italy|IT|Italy|Polignano a Mare
+ostuni|Ostuni|italy|IT|Italy|Ostuni
+lecce|Lecce|italy|IT|Italy|Lecce
+matera|Matera|italy|IT|Italy|Matera
+alberobello|Alberobello|italy|IT|Italy|Alberobello
+san-gimignano|San Gimignano|italy|IT|Italy|San Gimignano
+orvieto|Orvieto|italy|IT|Italy|Orvieto
+assisi|Assisi|italy|IT|Italy|Assisi
+siena|Siena|italy|IT|Italy|Siena
+lucca|Lucca|italy|IT|Italy|Lucca
+pienza|Pienza|italy|IT|Italy|Pienza
+montepulciano|Montepulciano|italy|IT|Italy|Montepulciano
+montalcino|Montalcino|italy|IT|Italy|Montalcino
+volterra|Volterra|italy|IT|Italy|Volterra
+portofino|Portofino|italy|IT|Italy|Portofino
+cinque-terre|Riomaggiore|italy|IT|Italy|Riomaggiore
+bellagio|Bellagio|italy|IT|Italy|Bellagio
+varenna|Varenna|italy|IT|Italy|Varenna
+sirmione|Sirmione|italy|IT|Italy|Sirmione
+positano|Positano|italy|IT|Italy|Positano
+amalfi|Amalfi|italy|IT|Italy|Amalfi
+ravello|Ravello|italy|IT|Italy|Ravello
+taormina|Taormina|italy|IT|Italy|Taormina
+cefalu|Cefalù|italy|IT|Italy|Cefalù
+erice|Erice|italy|IT|Italy|Erice
+capri|Capri|italy|IT|Italy|Capri
+procida|Procida|italy|IT|Italy|Procida
+honfleur|Honfleur|france|FR|France|Honfleur
+etretat|Étretat|france|FR|France|Étretat
+saint-malo|Saint-Malo|france|FR|France|Saint-Malo
+mont-saint-michel|Le Mont-Saint-Michel|france|FR|France|Mont-Saint-Michel
+bayeux|Bayeux|france|FR|France|Bayeux
+colmar|Colmar|france|FR|France|Colmar
+strasbourg|Strasbourg|france|FR|France|Strasbourg
+avignon|Avignon|france|FR|France|Avignon
+arles|Arles|france|FR|France|Arles
+aix-en-provence|Aix-en-Provence|france|FR|France|Aix-en-Provence
+carcassonne|Carcassonne|france|FR|France|Carcassonne
+sarlat|Sarlat-la-Canéda|france|FR|France|Sarlat-la-Canéda
+rocamadour|Rocamadour|france|FR|France|Rocamadour
+biarritz|Biarritz|france|FR|France|Biarritz
+annecy|Annecy|france|FR|France|Annecy
+chamonix|Chamonix|france|FR|France|Chamonix
+megeve|Megève|france|FR|France|Megève
+courchevel|Courchevel|france|FR|France|Courchevel
+val-disere|Val-d'Isère|france|FR|France|Val-d'Isère
+gordes|Gordes|france|FR|France|Gordes
+lourdes|Lourdes|france|FR|France|Lourdes
+dijon|Dijon|france|FR|France|Dijon
+beaune|Beaune|france|FR|France|Beaune
+metz|Metz|france|FR|France|Metz
+nimes|Nîmes|france|FR|France|Nîmes
+perpignan|Perpignan|france|FR|France|Perpignan
+pau|Pau|france|FR|France|Pau, Pyrénées-Atlantiques
+vannes|Vannes|france|FR|France|Vannes
+la-rochelle|La Rochelle|france|FR|France|La Rochelle
+ile-de-re|La Flotte|france|FR|France|La Flotte
+ile-d-oleron|Le Château-d'Oléron|france|FR|France|Le Château-d'Oléron
+cap-ferret-village|Lège-Cap-Ferret|france|FR|France|Lège-Cap-Ferret
+saint-jean-de-luz|Saint-Jean-de-Luz|france|FR|France|Saint-Jean-de-Luz
+hendaye|Hendaye|france|FR|France|Hendaye
+bayonne|Bayonne|france|FR|France|Bayonne
+dax|Dax|france|FR|France|Dax, Landes
+arcachon|Arcachon|france|FR|France|Arcachon
+saint-emilion|Saint-Émilion|france|FR|France|Saint-Émilion
+bergerac|Bergerac|france|FR|France|Bergerac, Dordogne
+cahors|Cahors|france|FR|France|Cahors
+figeac|Figeac|france|FR|France|Figeac
+millau|Millau|france|FR|France|Millau
+rodez|Rodez|france|FR|France|Rodez
+albi|Albi|france|FR|France|Albi
+castres|Castres|france|FR|France|Castres
+carcassonne-cite|Carcassonne|france|FR|France|Cité de Carcassonne
+narbonne|Narbonne|france|FR|France|Narbonne
+beziers|Béziers|france|FR|France|Béziers
+sete|Sète|france|FR|France|Sète
+agde|Agde|france|FR|France|Agde
+palavas|Palavas-les-Flots|france|FR|France|Palavas-les-Flots
+aigues-mortes|Aigues-Mortes|france|FR|France|Aigues-Mortes
+le-grau-du-roi|Le Grau-du-Roi|france|FR|France|Le Grau-du-Roi
+saintes-maries|Saintes-Maries-de-la-Mer|france|FR|France|Saintes-Maries-de-la-Mer
+arles-camargue|Arles|france|FR|France|Arles
+saint-remy|Saint-Rémy-de-Provence|france|FR|France|Saint-Rémy-de-Provence
+les-baux|Les Baux-de-Provence|france|FR|France|Les Baux-de-Provence
+orange|Orange|france|FR|France|Orange, Vaucluse
+avignon-dup|Avignon|france|FR|France|Avignon
+isle-sur-sorgue|L'Isle-sur-la-Sorgue|france|FR|France|L'Isle-sur-la-Sorgue
+fontaine-vaucluse|Fontaine-de-Vaucluse|france|FR|France|Fontaine-de-Vaucluse
+gordes-dup|Gordes|france|FR|France|Gordes
+rousillon|Roussillon|france|FR|France|Roussillon, Vaucluse
+lourmarin|Lourmarin|france|FR|France|Lourmarin
+bonnieux|Bonnieux|france|FR|France|Bonnieux
+menerbes|Ménerbes|france|FR|France|Ménerbes
+apt|Apt|france|FR|France|Apt, Vaucluse
+manosque|Manosque|france|FR|France|Manosque
+sisteron|Sisteron|france|FR|France|Sisteron
+digne|Digne-les-Bains|france|FR|France|Digne-les-Bains
+moustiers|Moustiers-Sainte-Marie|france|FR|France|Moustiers-Sainte-Marie
+castellane|Castellane|france|FR|France|Castellane
+grasse|Grasse|france|FR|France|Grasse
+cannes|Cannes|france|FR|France|Cannes
+antibes|Antibes|france|FR|France|Antibes
+juan-les-pins|Juan-les-Pins|france|FR|France|Juan-les-Pins
+nice|Nice|france|FR|France|Nice
+villefranche|Villefranche-sur-Mer|france|FR|France|Villefranche-sur-Mer
+beaulieu-sur-mer|Beaulieu-sur-Mer|france|FR|France|Beaulieu-sur-Mer
+eze|Èze|france|FR|France|Èze
+menton|Menton|france|FR|France|Menton
+monaco|Monaco|monaco|MC|Monaco|Monaco
+saint-tropez|Saint-Tropez|france|FR|France|Saint-Tropez
+ramatuelle|Ramatuelle|france|FR|France|Ramatuelle
+sainte-maxime|Sainte-Maxime|france|FR|France|Sainte-Maxime
+frejus|Fréjus|france|FR|France|Fréjus
+saint-raphael|Saint-Raphaël|france|FR|France|Saint-Raphaël, Var
+hyeres|Hyères|france|FR|France|Hyères
+porquerolles|Porquerolles|france|FR|France|Porquerolles
+cassis|Cassis|france|FR|France|Cassis
+bandol|Bandol|france|FR|France|Bandol
+sanary|Sanary-sur-Mer|france|FR|France|Sanary-sur-Mer
+la-ciotat|La Ciotat|france|FR|France|La Ciotat
+marseille|Marseille|france|FR|France|Marseille
+aix|Aix-en-Provence|france|FR|France|Aix-en-Provence
+salon|Salon-de-Provence|france|FR|France|Salon-de-Provence
+avignon2|Avignon|france|FR|France|Avignon
+nimes2|Nîmes|france|FR|France|Nîmes
+uzes|Uzès|france|FR|France|Uzès
+pont-du-gard-town|Vers-Pont-du-Gard|france|FR|France|Vers-Pont-du-Gard
+collioure|Collioure|france|FR|France|Collioure
+banyuls|Banyuls-sur-Mer|france|FR|France|Banyuls-sur-Mer
+ceret|Céret|france|FR|France|Céret
+perpignan2|Perpignan|france|FR|France|Perpignan
+andorre-la-vieille|Andorra la Vella|andorra|AD|Andorra|Andorra la Vella
+ronda|Ronda|spain|ES|Spain|Ronda
+granada|Granada|spain|ES|Spain|Granada
+cordoba|Córdoba|spain|ES|Spain|Córdoba, Spain
+seville|Seville|spain|ES|Spain|Seville
+cadiz|Cádiz|spain|ES|Spain|Cádiz
+jerez|Jerez de la Frontera|spain|ES|Spain|Jerez de la Frontera
+tarifa|Tarifa|spain|ES|Spain|Tarifa
+gibraltar|Gibraltar|gibraltar|GI|Gibraltar|Gibraltar
+marbella|Marbella|spain|ES|Spain|Marbella
+nerja|Nerja|spain|ES|Spain|Nerja
+mijas|Mijas|spain|ES|Spain|Mijas
+antequera|Antequera|spain|ES|Spain|Antequera
+setenil|Setenil de las Bodegas|spain|ES|Spain|Setenil de las Bodegas
+vejer|Vejer de la Frontera|spain|ES|Spain|Vejer de la Frontera
+cadiz-el-puerto|El Puerto de Santa María|spain|ES|Spain|El Puerto de Santa María
+sanlucar|Sanlúcar de Barrameda|spain|ES|Spain|Sanlúcar de Barrameda
+zahara|Zahara de la Sierra|spain|ES|Spain|Zahara de la Sierra
+grazalema|Grazalema|spain|ES|Spain|Grazalema
+ubeda|Úbeda|spain|ES|Spain|Úbeda
+jaen|Jaén|spain|ES|Spain|Jaén, Spain
+caceres|Cáceres|spain|ES|Spain|Cáceres, Spain
+trujillo|Trujillo|spain|ES|Spain|Trujillo, Cáceres
+merida|Mérida|spain|ES|Spain|Mérida, Spain
+badajoz|Badajoz|spain|ES|Spain|Badajoz
+salamanca|Salamanca|spain|ES|Spain|Salamanca
+avila|Ávila|spain|ES|Spain|Ávila, Spain
+segovia|Segovia|spain|ES|Spain|Segovia
+toledo|Toledo|spain|ES|Spain|Toledo, Spain
+cuenca|Cuenca|spain|ES|Spain|Cuenca, Spain
+albarracin|Albarracín|spain|ES|Spain|Albarracín
+teruel|Teruel|spain|ES|Spain|Teruel
+santiago|Santiago de Compostela|spain|ES|Spain|Santiago de Compostela
+lugo|Lugo|spain|ES|Spain|Lugo
+pontevedra|Pontevedra|spain|ES|Spain|Pontevedra
+vigo|Vigo|spain|ES|Spain|Vigo
+ourense|Ourense|spain|ES|Spain|Ourense
+leon|León|spain|ES|Spain|León, Spain
+burgos|Burgos|spain|ES|Spain|Burgos
+santander|Santander|spain|ES|Spain|Santander, Spain
+santillana|Santillana del Mar|spain|ES|Spain|Santillana del Mar
+comillas|Comillas|spain|ES|Spain|Comillas
+llanes|Llanes|spain|ES|Spain|Llanes
+gijon|Gijón|spain|ES|Spain|Gijón
+oviedo|Oviedo|spain|ES|Spain|Oviedo
+cudillero|Cudillero|spain|ES|Spain|Cudillero
+san-sebastian|San Sebastián|spain|ES|Spain|San Sebastián
+bilbao|Bilbao|spain|ES|Spain|Bilbao
+pamplona|Pamplona|spain|ES|Spain|Pamplona
+logrono|Logroño|spain|ES|Spain|Logroño
+haro|Haro|spain|ES|Spain|Haro, La Rioja
+laguardia|Laguardia|spain|ES|Spain|Laguardia, Álava
+zaragoza|Zaragoza|spain|ES|Spain|Zaragoza
+huesca|Huesca|spain|ES|Spain|Huesca
+jaca|Jaca|spain|ES|Spain|Jaca
+benasque|Benasque|spain|ES|Spain|Benasque
+barcelona|Barcelona|spain|ES|Spain|Barcelona
+sitges|Sitges|spain|ES|Spain|Sitges
+tarragona|Tarragona|spain|ES|Spain|Tarragona
+girona|Girona|spain|ES|Spain|Girona
+figueres|Figueres|spain|ES|Spain|Figueres
+cadaques|Cadaqués|spain|ES|Spain|Cadaqués
+lloret|Lloret de Mar|spain|ES|Spain|Lloret de Mar
+valencia|Valencia|spain|ES|Spain|Valencia
+peniscola|Peñíscola|spain|ES|Spain|Peñíscola
+morella|Morella|spain|ES|Spain|Morella, Castellón
+alicante|Alicante|spain|ES|Spain|Alicante
+elche|Elche|spain|ES|Spain|Elche
+calpe|Calp|spain|ES|Spain|Calp
+benidorm|Benidorm|spain|ES|Spain|Benidorm
+murcia|Murcia|spain|ES|Spain|Murcia
+cartagena-spain|Cartagena|spain|ES|Spain|Cartagena, Spain
+palma|Palma|spain|ES|Spain|Palma de Mallorca
+soller|Sóller|spain|ES|Spain|Sóller
+alcudia|Alcúdia|spain|ES|Spain|Alcúdia
+ibiza|Ibiza|spain|ES|Spain|Ibiza (town)
+formentera|Formentera|spain|ES|Spain|Formentera
+mao|Mahón|spain|ES|Spain|Mahón
+las-palmas|Las Palmas|spain|ES|Spain|Las Palmas
+tenerife-santa-cruz|Santa Cruz de Tenerife|spain|ES|Spain|Santa Cruz de Tenerife
+puerto-de-la-cruz|Puerto de la Cruz|spain|ES|Spain|Puerto de la Cruz
+lagos|Lagos|portugal|PT|Portugal|Lagos, Portugal
+albufeira|Albufeira|portugal|PT|Portugal|Albufeira
+faro|Faro|portugal|PT|Portugal|Faro, Portugal
+tavira|Tavira|portugal|PT|Portugal|Tavira
+olhao|Olhão|portugal|PT|Portugal|Olhão
+portimao|Portimão|portugal|PT|Portugal|Portimão
+aljezur|Aljezur|portugal|PT|Portugal|Aljezur
+monchique|Monchique|portugal|PT|Portugal|Monchique
+lisbon|Lisbon|portugal|PT|Portugal|Lisbon
+cascais|Cascais|portugal|PT|Portugal|Cascais
+sintra|Sintra|portugal|PT|Portugal|Sintra
+estoril|Estoril|portugal|PT|Portugal|Estoril
+sesimbra|Sesimbra|portugal|PT|Portugal|Sesimbra
+setubal|Setúbal|portugal|PT|Portugal|Setúbal
+evora|Évora|portugal|PT|Portugal|Évora
+elvas|Elvas|portugal|PT|Portugal|Elvas
+marvao|Marvão|portugal|PT|Portugal|Marvão
+monsaraz|Monsaraz|portugal|PT|Portugal|Monsaraz
+obidos|Óbidos|portugal|PT|Portugal|Óbidos, Portugal
+nazare|Nazaré|portugal|PT|Portugal|Nazaré, Portugal
+fatima|Fátima|portugal|PT|Portugal|Fátima, Portugal
+batalha|Batalha|portugal|PT|Portugal|Batalha, Portugal
+tomar|Tomar|portugal|PT|Portugal|Tomar
+alcobaca|Alcobaça|portugal|PT|Portugal|Alcobaça, Portugal
+coimbra|Coimbra|portugal|PT|Portugal|Coimbra
+aveiro|Aveiro|portugal|PT|Portugal|Aveiro, Portugal
+viseu|Viseu|portugal|PT|Portugal|Viseu
+guimaraes|Guimarães|portugal|PT|Portugal|Guimarães
+braga|Braga|portugal|PT|Portugal|Braga
+porto|Porto|portugal|PT|Portugal|Porto
+lamego|Lamego|portugal|PT|Portugal|Lamego
+peso-da-regua|Peso da Régua|portugal|PT|Portugal|Peso da Régua
+pinhao|Pinhão|portugal|PT|Portugal|Pinhão (Alijó)
+chaves|Chaves|portugal|PT|Portugal|Chaves, Portugal
+braganca|Bragança|portugal|PT|Portugal|Bragança, Portugal
+funchal|Funchal|portugal|PT|Portugal|Funchal
+porto-moniz|Porto Moniz|portugal|PT|Portugal|Porto Moniz
+santana-madeira|Santana|portugal|PT|Portugal|Santana, Madeira
+ponta-delgada|Ponta Delgada|portugal|PT|Portugal|Ponta Delgada
+angra|Angra do Heroísmo|portugal|PT|Portugal|Angra do Heroísmo
+horta|Horta|portugal|PT|Portugal|Horta, Azores
+furnas|Furnas|portugal|PT|Portugal|Furnas
+grindelwald|Grindelwald|switzerland|CH|Switzerland|Grindelwald
+lauterbrunnen|Lauterbrunnen|switzerland|CH|Switzerland|Lauterbrunnen
+wengen|Wengen|switzerland|CH|Switzerland|Wengen
+murren|Mürren|switzerland|CH|Switzerland|Mürren
+interlaken|Interlaken|switzerland|CH|Switzerland|Interlaken
+zermatt|Zermatt|switzerland|CH|Switzerland|Zermatt
+saas-fee|Saas-Fee|switzerland|CH|Switzerland|Saas-Fee
+verbier|Verbier|switzerland|CH|Switzerland|Verbier
+crans-montana|Crans-Montana|switzerland|CH|Switzerland|Crans-Montana
+gstaad|Gstaad|switzerland|CH|Switzerland|Gstaad
+st-moritz|St. Moritz|switzerland|CH|Switzerland|St. Moritz
+davos|Davos|switzerland|CH|Switzerland|Davos
+klosters|Klosters|switzerland|CH|Switzerland|Klosters
+andermatt|Andermatt|switzerland|CH|Switzerland|Andermatt
+engelberg|Engelberg|switzerland|CH|Switzerland|Engelberg
+lucerne|Lucerne|switzerland|CH|Switzerland|Lucerne
+lugano|Lugano|switzerland|CH|Switzerland|Lugano
+locarno|Locarno|switzerland|CH|Switzerland|Locarno
+ascona|Ascona|switzerland|CH|Switzerland|Ascona
+montreux|Montreux|switzerland|CH|Switzerland|Montreux
+lausanne|Lausanne|switzerland|CH|Switzerland|Lausanne
+geneva|Geneva|switzerland|CH|Switzerland|Geneva
+bern|Bern|switzerland|CH|Switzerland|Bern
+basel|Basel|switzerland|CH|Switzerland|Basel
+gruyeres|Gruyères|switzerland|CH|Switzerland|Gruyères
+appenzell|Appenzell|switzerland|CH|Switzerland|Appenzell
+thun|Thun|switzerland|CH|Switzerland|Thun
+spiez|Spiez|switzerland|CH|Switzerland|Spiez
+brienz|Brienz|switzerland|CH|Switzerland|Brienz
+kandersteg|Kandersteg|switzerland|CH|Switzerland|Kandersteg
+adelboden|Adelboden|switzerland|CH|Switzerland|Adelboden
+flims|Flims|switzerland|CH|Switzerland|Flims
+laax|Laax|switzerland|CH|Switzerland|Laax
+arosa|Arosa|switzerland|CH|Switzerland|Arosa
+lenzerheide|Lenzerheide|switzerland|CH|Switzerland|Lenzerheide
+pontresina|Pontresina|switzerland|CH|Switzerland|Pontresina
+sils|Sils im Engadin/Segl|switzerland|CH|Switzerland|Sils im Engadin/Segl
+stein-am-rhein|Stein am Rhein|switzerland|CH|Switzerland|Stein am Rhein
+schaffhausen|Schaffhausen|switzerland|CH|Switzerland|Schaffhausen
+solothurn|Solothurn|switzerland|CH|Switzerland|Solothurn
+vevey|Vevey|switzerland|CH|Switzerland|Vevey
+nyon|Nyon|switzerland|CH|Switzerland|Nyon
+sion|Sion|switzerland|CH|Switzerland|Sion, Switzerland
+martigny|Martigny|switzerland|CH|Switzerland|Martigny
+hallstatt|Hallstatt|austria|AT|Austria|Hallstatt
+hallstatt-obertraun|Obertraun|austria|AT|Austria|Obertraun
+zell-am-see|Zell am See|austria|AT|Austria|Zell am See
+kitzbuhel|Kitzbühel|austria|AT|Austria|Kitzbühel
+mayrhofen|Mayrhofen|austria|AT|Austria|Mayrhofen
+st-anton|St. Anton am Arlberg|austria|AT|Austria|St Anton am Arlberg
+ischgl|Ischgl|austria|AT|Austria|Ischgl
+solden|Sölden|austria|AT|Austria|Sölden
+lech|Lech|austria|AT|Austria|Lech (Vorarlberg)
+innsbruck|Innsbruck|austria|AT|Austria|Innsbruck
+salzburg|Salzburg|austria|AT|Austria|Salzburg
+graz|Graz|austria|AT|Austria|Graz
+vienna|Vienna|austria|AT|Austria|Vienna
+linz|Linz|austria|AT|Austria|Linz
+bregenz|Bregenz|austria|AT|Austria|Bregenz
+gmunden|Gmunden|austria|AT|Austria|Gmunden
+bad-ischl|Bad Ischl|austria|AT|Austria|Bad Ischl
+st-wolfgang|Sankt Wolfgang im Salzkammergut|austria|AT|Austria|Sankt Wolfgang im Salzkammergut
+st-gilgen|Sankt Gilgen|austria|AT|Austria|Sankt Gilgen
+saalbach|Saalbach-Hinterglemm|austria|AT|Austria|Saalbach-Hinterglemm
+schladming|Schladming|austria|AT|Austria|Schladming
+bad-gastein|Bad Gastein|austria|AT|Austria|Bad Gastein
+seefeld|Seefeld in Tirol|austria|AT|Austria|Seefeld in Tirol
+alpbach|Alpbach|austria|AT|Austria|Alpbach
+kufstein|Kufstein|austria|AT|Austria|Kufstein
+heidelberg|Heidelberg|germany|DE|Germany|Heidelberg
+rothensburg|Rothenburg ob der Tauber|germany|DE|Germany|Rothenburg ob der Tauber
+bamberg|Bamberg|germany|DE|Germany|Bamberg
+regensburg|Regensburg|germany|DE|Germany|Regensburg
+nuremberg|Nuremberg|germany|DE|Germany|Nuremberg
+fussen|Füssen|germany|DE|Germany|Füssen
+garmisch|Garmisch-Partenkirchen|germany|DE|Germany|Garmisch-Partenkirchen
+berchtesgaden|Berchtesgaden|germany|DE|Germany|Berchtesgaden
+lindau|Lindau|germany|DE|Germany|Lindau
+konstanz|Konstanz|germany|DE|Germany|Konstanz
+freiburg|Freiburg im Breisgau|germany|DE|Germany|Freiburg im Breisgau
+baden-baden|Baden-Baden|germany|DE|Germany|Baden-Baden
+trier|Trier|germany|DE|Germany|Trier
+cochem|Cochem|germany|DE|Germany|Cochem
+bacharach|Bacharach|germany|DE|Germany|Bacharach
+rudesheim|Rüdesheim am Rhein|germany|DE|Germany|Rüdesheim am Rhein
+koblenz|Koblenz|germany|DE|Germany|Koblenz
+mainz|Mainz|germany|DE|Germany|Mainz
+wiesbaden|Wiesbaden|germany|DE|Germany|Wiesbaden
+potsdam|Potsdam|germany|DE|Germany|Potsdam
+dresden|Dresden|germany|DE|Germany|Dresden
+leipzig|Leipzig|germany|DE|Germany|Leipzig
+weimar|Weimar|germany|DE|Germany|Weimar
+erfurt|Erfurt|germany|DE|Germany|Erfurt
+quedlinburg|Quedlinburg|germany|DE|Germany|Quedlinburg
+goslar|Goslar|germany|DE|Germany|Goslar
+wernigerode|Wernigerode|germany|DE|Germany|Wernigerode
+luebeck|Lübeck|germany|DE|Germany|Lübeck
+wismar|Wismar|germany|DE|Germany|Wismar
+stralsund|Stralsund|germany|DE|Germany|Stralsund
+binz|Binz|germany|DE|Germany|Binz
+norderney|Norderney|germany|DE|Germany|Norderney
+helgoland|Heligoland|germany|DE|Germany|Heligoland
+dinkelsbuhl|Dinkelsbühl|germany|DE|Germany|Dinkelsbühl
+nordlingen|Nördlingen|germany|DE|Germany|Nördlingen
+wuerzburg|Würzburg|germany|DE|Germany|Würzburg
+passau|Passau|germany|DE|Germany|Passau
+ulm|Ulm|germany|DE|Germany|Ulm
+augsburg|Augsburg|germany|DE|Germany|Augsburg
+meersburg|Meersburg|germany|DE|Germany|Meersburg
+titisee|Titisee-Neustadt|germany|DE|Germany|Titisee-Neustadt
+meissen|Meissen|germany|DE|Germany|Meissen
+goerlitz|Görlitz|germany|DE|Germany|Görlitz
+schwerin|Schwerin|germany|DE|Germany|Schwerin
+sylt|Westerland|germany|DE|Germany|Westerland, Germany
+giethoorn|Giethoorn|netherlands|NL|Netherlands|Giethoorn
+volendam|Volendam|netherlands|NL|Netherlands|Volendam
+marken|Marken|netherlands|NL|Netherlands|Marken
+edam|Edam|netherlands|NL|Netherlands|Edam, Netherlands
+haarlem|Haarlem|netherlands|NL|Netherlands|Haarlem
+leiden|Leiden|netherlands|NL|Netherlands|Leiden
+delft|Delft|netherlands|NL|Netherlands|Delft
+gouda|Gouda|netherlands|NL|Netherlands|Gouda, South Holland
+utrecht|Utrecht|netherlands|NL|Netherlands|Utrecht
+maastricht|Maastricht|netherlands|NL|Netherlands|Maastricht
+zaanse-schans|Zaanse Schans|netherlands|NL|Netherlands|Zaanse Schans
+kinderdijk|Kinderdijk|netherlands|NL|Netherlands|Kinderdijk
+the-hague|The Hague|netherlands|NL|Netherlands|The Hague
+scheveningen|Scheveningen|netherlands|NL|Netherlands|Scheveningen
+bruges|Bruges|belgium|BE|Belgium|Bruges
+ghent|Ghent|belgium|BE|Belgium|Ghent
+antwerp|Antwerp|belgium|BE|Belgium|Antwerp
+brussels|Brussels|belgium|BE|Belgium|Brussels
+dinant|Dinant|belgium|BE|Belgium|Dinant
+durbuy|Durbuy|belgium|BE|Belgium|Durbuy
+ypres|Ypres|belgium|BE|Belgium|Ypres
+leuven|Leuven|belgium|BE|Belgium|Leuven
+luxembourg|Luxembourg City|luxembourg|LU|Luxembourg|Luxembourg City
+vianden|Vianden|luxembourg|LU|Luxembourg|Vianden
+echternach|Echternach|luxembourg|LU|Luxembourg|Echternach
+vaduz|Vaduz|liechtenstein|LI|Liechtenstein|Vaduz
+san-marino|San Marino|san-marino|SM|San Marino|City of San Marino
+valletta|Valletta|malta|MT|Malta|Valletta
+mdina|Mdina|malta|MT|Malta|Mdina
+marsaxlokk|Marsaxlokk|malta|MT|Malta|Marsaxlokk
+gozo|Victoria|malta|MT|Malta|Victoria, Gozo
+paphos|Paphos|cyprus|CY|Cyprus|Paphos
+limassol|Limassol|cyprus|CY|Cyprus|Limassol
+ayia-napa|Ayia Napa|cyprus|CY|Cyprus|Ayia Napa
+kyrenia|Kyrenia|cyprus|CY|Cyprus|Kyrenia
+goreme|Göreme|turkiye|TR|Turkey|Göreme
+uchisar|Uçhisar|turkiye|TR|Turkey|Uçhisar
+urgup|Ürgüp|turkiye|TR|Turkey|Ürgüp
+pamukkale|Pamukkale|turkiye|TR|Turkey|Pamukkale
+selcuk|Selçuk|turkiye|TR|Turkey|Selçuk
+kusadasi|Kuşadası|turkiye|TR|Turkey|Kuşadası
+bodrum|Bodrum|turkiye|TR|Turkey|Bodrum
+fethiye|Fethiye|turkiye|TR|Turkey|Fethiye
+oludeniz|Ölüdeniz|turkiye|TR|Turkey|Ölüdeniz
+kas|Kaş|turkiye|TR|Turkey|Kaş
+antalya|Antalya|turkiye|TR|Turkey|Antalya
+alanya|Alanya|turkiye|TR|Turkey|Alanya
+cesme|Çeşme|turkiye|TR|Turkey|Çeşme
+safranbolu|Safranbolu|turkiye|TR|Turkey|Safranbolu
+amasra|Amasra|turkiye|TR|Turkey|Amasra
+mardin|Mardin|turkiye|TR|Turkey|Mardin
+sanliurfa|Şanlıurfa|turkiye|TR|Turkey|Şanlıurfa
+istanbul|Istanbul|turkiye|TR|Turkey|Istanbul
+izmir|İzmir|turkiye|TR|Turkey|İzmir
+mykonos|Mykonos|greece|GR|Greece|Mykonos
+oia|Oia|greece|GR|Greece|Oia, Greece
+fira|Fira|greece|GR|Greece|Fira
+naxos|Naxos|greece|GR|Greece|Naxos (city)
+paros|Paros|greece|GR|Greece|Parikia
+milos|Milos|greece|GR|Greece|Milos
+hydra|Hydra|greece|GR|Greece|Hydra (island)
+nafplio|Nafplio|greece|GR|Greece|Nafplio
+monemvasia|Monemvasia|greece|GR|Greece|Monemvasia
+delphi|Delphi|greece|GR|Greece|Delphi
+kalambaka|Kalabaka|greece|GR|Greece|Kalabaka
+chania|Chania|greece|GR|Greece|Chania
+rethymno|Rethymno|greece|GR|Greece|Rethymno
+heraklion|Heraklion|greece|GR|Greece|Heraklion
+rhodes|Rhodes|greece|GR|Greece|Rhodes (city)
+lindos|Lindos|greece|GR|Greece|Lindos
+corfu|Corfu|greece|GR|Greece|Corfu (city)
+zakynthos|Zakynthos|greece|GR|Greece|Zakynthos (city)
+skiathos|Skiathos|greece|GR|Greece|Skiathos
+folegandros|Folegandros|greece|GR|Greece|Folegandros
+amorgos|Amorgos|greece|GR|Greece|Amorgos
+patmos|Patmos|greece|GR|Greece|Patmos
+symi|Symi|greece|GR|Greece|Symi
+tinos|Tinos|greece|GR|Greece|Tinos
+syros|Ermoupoli|greece|GR|Greece|Ermoupoli
+andros|Andros|greece|GR|Greece|Andros (town)
+ios|Ios|greece|GR|Greece|Ios (island)
+sifnos|Sifnos|greece|GR|Greece|Sifnos
+serifos|Serifos|greece|GR|Greece|Serifos
+lefkada|Lefkada|greece|GR|Greece|Lefkada
+kefalonia|Argostoli|greece|GR|Greece|Argostoli
+kos|Kos|greece|GR|Greece|Kos (city)
+thessaloniki|Thessaloniki|greece|GR|Greece|Thessaloniki
+athens|Athens|greece|GR|Greece|Athens
+hakone|Hakone|japan|JP|Japan|Hakone
+nikko|Nikkō|japan|JP|Japan|Nikkō
+takayama|Takayama|japan|JP|Japan|Takayama, Gifu
+kanazawa|Kanazawa|japan|JP|Japan|Kanazawa
+shirakawa-go|Shirakawa|japan|JP|Japan|Shirakawa, Gifu (village)
+nara|Nara|japan|JP|Japan|Nara (city)
+hiroshima|Hiroshima|japan|JP|Japan|Hiroshima
+miyajima|Hatsukaichi|japan|JP|Japan|Itsukushima
+beppu|Beppu|japan|JP|Japan|Beppu
+yufuin|Yufuin|japan|JP|Japan|Yufuin, Ōita
+kusatsu|Kusatsu|japan|JP|Japan|Kusatsu, Gunma
+karuizawa|Karuizawa|japan|JP|Japan|Karuizawa
+niseko|Niseko|japan|JP|Japan|Niseko, Hokkaido
+furano|Furano|japan|JP|Japan|Furano, Hokkaido
+otaru|Otaru|japan|JP|Japan|Otaru
+hakodate|Hakodate|japan|JP|Japan|Hakodate
+sapporo|Sapporo|japan|JP|Japan|Sapporo
+kamakura|Kamakura|japan|JP|Japan|Kamakura
+matsumoto|Matsumoto|japan|JP|Japan|Matsumoto
+himeji|Himeji|japan|JP|Japan|Himeji
+naoshima|Naoshima|japan|JP|Japan|Naoshima
+kurashiki|Kurashiki|japan|JP|Japan|Kurashiki
+naha|Naha|japan|JP|Japan|Naha
+ishigaki|Ishigaki|japan|JP|Japan|Ishigaki, Okinawa
+gyeongju|Gyeongju|south-korea|KR|South Korea|Gyeongju
+jeonju|Jeonju|south-korea|KR|South Korea|Jeonju
+jeju|Jeju City|south-korea|KR|South Korea|Jeju City
+seogwipo|Seogwipo|south-korea|KR|South Korea|Seogwipo
+busan|Busan|south-korea|KR|South Korea|Busan
+sokcho|Sokcho|south-korea|KR|South Korea|Sokcho
+gangneung|Gangneung|south-korea|KR|South Korea|Gangneung
+andong|Andong|south-korea|KR|South Korea|Andong
+yangshuo|Yangshuo|china|CN|China|Yangshuo County
+guilin|Guilin|china|CN|China|Guilin
+lijiang|Lijiang|china|CN|China|Lijiang
+dali|Dali|china|CN|China|Dali City
+pingyao|Pingyao|china|CN|China|Pingyao
+zhangjiajie|Zhangjiajie|china|CN|China|Zhangjiajie
+suzhou|Suzhou|china|CN|China|Suzhou
+hangzhou|Hangzhou|china|CN|China|Hangzhou
+xiamen|Xiamen|china|CN|China|Xiamen
+chengdu|Chengdu|china|CN|China|Chengdu
+xian|Xi'an|china|CN|China|Xi'an
+sapa|Sa Pa|vietnam|VN|Vietnam|Sa Pa
+ninh-binh|Ninh Bình|vietnam|VN|Vietnam|Ninh Bình
+ha-giang|Hà Giang|vietnam|VN|Vietnam|Hà Giang
+hoi-an|Hội An|vietnam|VN|Vietnam|Hội An
+hue|Huế|vietnam|VN|Vietnam|Huế
+dalat|Da Lat|vietnam|VN|Vietnam|Da Lat
+phu-quoc|Phú Quốc|vietnam|VN|Vietnam|Phú Quốc
+nha-trang|Nha Trang|vietnam|VN|Vietnam|Nha Trang
+ha-long|Hạ Long|vietnam|VN|Vietnam|Ha Long
+cat-ba|Cát Bà|vietnam|VN|Vietnam|Cát Bà Island
+luang-prabang|Luang Prabang|laos|LA|Laos|Luang Prabang
+vang-vieng|Vang Vieng|laos|LA|Laos|Vang Vieng
+siem-reap|Siem Reap|cambodia|KH|Cambodia|Siem Reap
+kampot|Kampot|cambodia|KH|Cambodia|Kampot (city)
+kep|Kep|cambodia|KH|Cambodia|Kep, Cambodia
+chiang-mai|Chiang Mai|thailand|TH|Thailand|Chiang Mai
+chiang-rai|Chiang Rai|thailand|TH|Thailand|Chiang Rai
+pai|Pai|thailand|TH|Thailand|Pai, Thailand
+sukhothai|Sukhothai|thailand|TH|Thailand|Sukhothai
+ayutthaya|Ayutthaya|thailand|TH|Thailand|Phra Nakhon Si Ayutthaya (city)
+hua-hin|Hua Hin|thailand|TH|Thailand|Hua Hin district
+koh-samui|Ko Samui|thailand|TH|Thailand|Ko Samui
+koh-phangan|Ko Pha-ngan|thailand|TH|Thailand|Ko Pha-ngan
+koh-tao|Ko Tao|thailand|TH|Thailand|Ko Tao
+krabi|Krabi|thailand|TH|Thailand|Krabi
+koh-lanta|Ko Lanta|thailand|TH|Thailand|Ko Lanta
+koh-chang|Ko Chang|thailand|TH|Thailand|Ko Chang
+phi-phi|Ko Phi Phi|thailand|TH|Thailand|Ko Phi Phi
+kanchanaburi|Kanchanaburi|thailand|TH|Thailand|Kanchanaburi
+mae-hong-son|Mae Hong Son|thailand|TH|Thailand|Mae Hong Son
+georgetown|George Town|malaysia|MY|Malaysia|George Town, Penang
+malacca|Malacca City|malaysia|MY|Malaysia|Malacca City
+langkawi|Kuah|malaysia|MY|Malaysia|Kuah
+kota-kinabalu|Kota Kinabalu|malaysia|MY|Malaysia|Kota Kinabalu
+kuching|Kuching|malaysia|MY|Malaysia|Kuching
+cameron-highlands|Tanah Rata|malaysia|MY|Malaysia|Tanah Rata
+ipoh|Ipoh|malaysia|MY|Malaysia|Ipoh
+ubud|Ubud|indonesia|ID|Indonesia|Ubud
+canggu|Canggu|indonesia|ID|Indonesia|Canggu
+seminyak|Seminyak|indonesia|ID|Indonesia|Seminyak
+nusa-penida|Nusa Penida|indonesia|ID|Indonesia|Nusa Penida
+gili-trawangan|Gili Trawangan|indonesia|ID|Indonesia|Gili Trawangan
+gili-air|Gili Air|indonesia|ID|Indonesia|Gili Air
+yogyakarta|Yogyakarta|indonesia|ID|Indonesia|Yogyakarta
+labuan-bajo|Labuan Bajo|indonesia|ID|Indonesia|Labuan Bajo
+el-nido|El Nido|philippines|PH|Philippines|El Nido, Palawan
+coron|Coron|philippines|PH|Philippines|Coron, Palawan
+boracay|Boracay|philippines|PH|Philippines|Boracay
+siargao|General Luna|philippines|PH|Philippines|General Luna, Surigao del Norte
+vigan|Vigan|philippines|PH|Philippines|Vigan
+baguio|Baguio|philippines|PH|Philippines|Baguio
+cebu|Cebu City|philippines|PH|Philippines|Cebu City
+dumaguete|Dumaguete|philippines|PH|Philippines|Dumaguete
+jaipur|Jaipur|india|IN|India|Jaipur
+udaipur|Udaipur|india|IN|India|Udaipur
+jodhpur|Jodhpur|india|IN|India|Jodhpur
+jaisalmer|Jaisalmer|india|IN|India|Jaisalmer
+pushkar|Pushkar|india|IN|India|Pushkar
+varanasi|Varanasi|india|IN|India|Varanasi
+agra|Agra|india|IN|India|Agra
+rishikesh|Rishikesh|india|IN|India|Rishikesh
+manali|Manali|india|IN|India|Manali, Himachal Pradesh
+shimla|Shimla|india|IN|India|Shimla
+darjeeling|Darjeeling|india|IN|India|Darjeeling
+leh|Leh|india|IN|India|Leh
+kochi|Kochi|india|IN|India|Kochi, India
+alleppey|Alappuzha|india|IN|India|Alappuzha
+munnar|Munnar|india|IN|India|Munnar
+varkala|Varkala|india|IN|India|Varkala
+hampi|Hampi|india|IN|India|Hampi
+goa|Panaji|india|IN|India|Panaji
+pondicherry|Puducherry|india|IN|India|Pondicherry
+mysore|Mysuru|india|IN|India|Mysore
+madurai|Madurai|india|IN|India|Madurai
+kathmandu|Kathmandu|nepal|NP|Nepal|Kathmandu
+pokhara|Pokhara|nepal|NP|Nepal|Pokhara
+bhaktapur|Bhaktapur|nepal|NP|Nepal|Bhaktapur
+namche|Namche Bazaar|nepal|NP|Nepal|Namche Bazaar
+thimphu|Thimphu|bhutan|BT|Bhutan|Thimphu
+paro|Paro|bhutan|BT|Bhutan|Paro
+punakha|Punakha|bhutan|BT|Bhutan|Punakha
+kandy|Kandy|sri-lanka|LK|Sri Lanka|Kandy
+galle|Galle|sri-lanka|LK|Sri Lanka|Galle
+ella|Ella|sri-lanka|LK|Sri Lanka|Ella, Sri Lanka
+sigiriya|Sigiriya|sri-lanka|LK|Sri Lanka|Sigiriya
+mirissa|Mirissa|sri-lanka|LK|Sri Lanka|Mirissa
+unawatuna|Unawatuna|sri-lanka|LK|Sri Lanka|Unawatuna
+arugam-bay|Arugam Bay|sri-lanka|LK|Sri Lanka|Arugam Bay
+bagan|Bagan|myanmar|MM|Myanmar|Bagan
+inle|Nyaungshwe|myanmar|MM|Myanmar|Nyaungshwe
+marrakech|Marrakesh|morocco|MA|Morocco|Marrakesh
+fes|Fez|morocco|MA|Morocco|Fez, Morocco
+chefchaouen|Chefchaouen|morocco|MA|Morocco|Chefchaouen
+essaouira|Essaouira|morocco|MA|Morocco|Essaouira
+merzouga|Merzouga|morocco|MA|Morocco|Merzouga
+ouarzazate|Ouarzazate|morocco|MA|Morocco|Ouarzazate
+ait-benhaddou|Aït Benhaddou|morocco|MA|Morocco|Aït Benhaddou
+agadir|Agadir|morocco|MA|Morocco|Agadir
+taghazout|Taghazout|morocco|MA|Morocco|Taghazout
+asilah|Asilah|morocco|MA|Morocco|Asilah
+ifrane|Ifrane|morocco|MA|Morocco|Ifrane
+tunis|Tunis|tunisia|TN|Tunisia|Tunis
+sidi-bou-said|Sidi Bou Said|tunisia|TN|Tunisia|Sidi Bou Said
+kairouan|Kairouan|tunisia|TN|Tunisia|Kairouan
+tozeur|Tozeur|tunisia|TN|Tunisia|Tozeur
+luxor|Luxor|egypt|EG|Egypt|Luxor
+aswan|Aswan|egypt|EG|Egypt|Aswan
+hurghada|Hurghada|egypt|EG|Egypt|Hurghada
+sharm|Sharm El Sheikh|egypt|EG|Egypt|Sharm El Sheikh
+dahab|Dahab|egypt|EG|Egypt|Dahab
+siwa|Siwa Oasis|egypt|EG|Egypt|Siwa Oasis
+giza|Giza|egypt|EG|Egypt|Giza
+abu-simbel|Abu Simbel|egypt|EG|Egypt|Abu Simbel
+cape-town|Cape Town|south-africa|ZA|South Africa|Cape Town
+stellenbosch|Stellenbosch|south-africa|ZA|South Africa|Stellenbosch
+franschhoek|Franschhoek|south-africa|ZA|South Africa|Franschhoek
+hermanus|Hermanus|south-africa|ZA|South Africa|Hermanus
+knysna|Knysna|south-africa|ZA|South Africa|Knysna
+plettenberg|Plettenberg Bay|south-africa|ZA|South Africa|Plettenberg Bay
+stone-town|Stone Town|tanzania|TZ|Tanzania|Stone Town
+arusha|Arusha|tanzania|TZ|Tanzania|Arusha
+nungwi|Nungwi|tanzania|TZ|Tanzania|Nungwi
+paje|Paje|tanzania|TZ|Tanzania|Paje, Zanzibar
+nairobi|Nairobi|kenya|KE|Kenya|Nairobi
+diani|Diani Beach|kenya|KE|Kenya|Diani Beach
+lamu|Lamu|kenya|KE|Kenya|Lamu
+watamu|Watamu|kenya|KE|Kenya|Watamu
+kigali|Kigali|rwanda|RW|Rwanda|Kigali
+musanze|Musanze|rwanda|RW|Rwanda|Musanze
+victoria-falls|Victoria Falls|zimbabwe|ZW|Zimbabwe|Victoria Falls, Zimbabwe
+livingstone|Livingstone|zambia|ZM|Zambia|Livingstone, Zambia
+maun|Maun|botswana|BW|Botswana|Maun, Botswana
+kasane|Kasane|botswana|BW|Botswana|Kasane
+swakopmund|Swakopmund|namibia|NA|Namibia|Swakopmund
+sesriem|Sesriem|namibia|NA|Namibia|Sesriem
+luderitz|Lüderitz|namibia|NA|Namibia|Lüderitz
+lalibela|Lalibela|ethiopia|ET|Ethiopia|Lalibela
+gondar|Gondar|ethiopia|ET|Ethiopia|Gondar
+axum|Axum|ethiopia|ET|Ethiopia|Axum
+cape-coast|Cape Coast|ghana|GH|Ghana|Cape Coast
+elmina|Elmina|ghana|GH|Ghana|Elmina
+saint-louis-sn|Saint-Louis|senegal|SN|Senegal|Saint-Louis, Senegal
+goree|Gorée|senegal|SN|Senegal|Gorée
+aspen|Aspen|united-states|US|United States|Aspen, Colorado
+telluride|Telluride|united-states|US|United States|Telluride, Colorado
+vail|Vail|united-states|US|United States|Vail, Colorado
+breckenridge|Breckenridge|united-states|US|United States|Breckenridge, Colorado
+steamboat|Steamboat Springs|united-states|US|United States|Steamboat Springs, Colorado
+crested-butte|Crested Butte|united-states|US|United States|Crested Butte, Colorado
+ouray|Ouray|united-states|US|United States|Ouray, Colorado
+durango|Durango|united-states|US|United States|Durango, Colorado
+park-city|Park City|united-states|US|United States|Park City, Utah
+moab|Moab|united-states|US|United States|Moab, Utah
+kanab|Kanab|united-states|US|United States|Kanab, Utah
+torrey|Torrey|united-states|US|United States|Torrey, Utah
+springdale|Springdale|united-states|US|United States|Springdale, Utah
+page|Page|united-states|US|United States|Page, Arizona
+sedona|Sedona|united-states|US|United States|Sedona, Arizona
+flagstaff|Flagstaff|united-states|US|United States|Flagstaff, Arizona
+tucson|Tucson|united-states|US|United States|Tucson, Arizona
+scottsdale|Scottsdale|united-states|US|United States|Scottsdale, Arizona
+santa-fe|Santa Fe|united-states|US|United States|Santa Fe, New Mexico
+taos|Taos|united-states|US|United States|Taos, New Mexico
+jackson|Jackson|united-states|US|United States|Jackson, Wyoming
+cody|Cody|united-states|US|United States|Cody, Wyoming
+west-yellowstone|West Yellowstone|united-states|US|United States|West Yellowstone, Montana
+whitefish|Whitefish|united-states|US|United States|Whitefish, Montana
+sun-valley|Sun Valley|united-states|US|United States|Sun Valley, Idaho
+ketchum|Ketchum|united-states|US|United States|Ketchum, Idaho
+bar-harbor|Bar Harbor|united-states|US|United States|Bar Harbor, Maine
+kennebunkport|Kennebunkport|united-states|US|United States|Kennebunkport, Maine
+camden-me|Camden|united-states|US|United States|Camden, Maine
+cape-may|Cape May|united-states|US|United States|Cape May, New Jersey
+nags-head|Nags Head|united-states|US|United States|Nags Head, North Carolina
+st-augustine|St. Augustine|united-states|US|United States|St. Augustine, Florida
+key-west|Key West|united-states|US|United States|Key West
+key-largo|Key Largo|united-states|US|United States|Key Largo, Florida
+sanibel|Sanibel|united-states|US|United States|Sanibel, Florida
+naples-fl|Naples|united-states|US|United States|Naples, Florida
+charleston|Charleston|united-states|US|United States|Charleston, South Carolina
+savannah|Savannah|united-states|US|United States|Savannah, Georgia
+beaufort-sc|Beaufort|united-states|US|United States|Beaufort, South Carolina
+hilton-head|Hilton Head Island|united-states|US|United States|Hilton Head Island, South Carolina
+asheville|Asheville|united-states|US|United States|Asheville, North Carolina
+gatlinburg|Gatlinburg|united-states|US|United States|Gatlinburg, Tennessee
+napa|Napa|united-states|US|United States|Napa, California
+healdsburg|Healdsburg|united-states|US|United States|Healdsburg, California
+calistoga|Calistoga|united-states|US|United States|Calistoga, California
+carmel|Carmel-by-the-Sea|united-states|US|United States|Carmel-by-the-Sea, California
+pacific-grove|Pacific Grove|united-states|US|United States|Pacific Grove, California
+santa-barbara|Santa Barbara|united-states|US|United States|Santa Barbara, California
+ojai|Ojai|united-states|US|United States|Ojai, California
+laguna-beach|Laguna Beach|united-states|US|United States|Laguna Beach, California
+la-jolla|La Jolla|united-states|US|United States|La Jolla
+palm-springs|Palm Springs|united-states|US|United States|Palm Springs, California
+mammoth-lakes|Mammoth Lakes|united-states|US|United States|Mammoth Lakes, California
+south-lake-tahoe|South Lake Tahoe|united-states|US|United States|South Lake Tahoe, California
+truckee|Truckee|united-states|US|United States|Truckee, California
+mariposa|Mariposa|united-states|US|United States|Mariposa, California
+lahaina|Lahaina|united-states|US|United States|Lahaina, Hawaii
+kihei|Kihei|united-states|US|United States|Kihei, Hawaii
+hana|Hana|united-states|US|United States|Hana, Hawaii
+poipu|Poipu|united-states|US|United States|Poipu, Hawaii
+princeville|Princeville|united-states|US|United States|Princeville, Hawaii
+sitka|Sitka|united-states|US|United States|Sitka, Alaska
+ketchikan|Ketchikan|united-states|US|United States|Ketchikan, Alaska
+skagway|Skagway|united-states|US|United States|Skagway, Alaska
+seward|Seward|united-states|US|United States|Seward, Alaska
+homer|Homer|united-states|US|United States|Homer, Alaska
+juneau|Juneau|united-states|US|United States|Juneau, Alaska
+newport-ri|Newport|united-states|US|United States|Newport, Rhode Island
+provincetown|Provincetown|united-states|US|United States|Provincetown, Massachusetts
+nantucket|Nantucket|united-states|US|United States|Nantucket
+martha-vineyard|Vineyard Haven|united-states|US|United States|Vineyard Haven, Massachusetts
+new-orleans|New Orleans|united-states|US|United States|New Orleans
+nashville|Nashville|united-states|US|United States|Nashville, Tennessee
+austin|Austin|united-states|US|United States|Austin, Texas
+honolulu|Honolulu|united-states|US|United States|Honolulu
+whistler|Whistler|canada|CA|Canada|Whistler, British Columbia
+banff|Banff|canada|CA|Canada|Banff
+jasper|Jasper|canada|CA|Canada|Jasper, Alberta
+lake-louise|Lake Louise|canada|CA|Canada|Lake Louise, Alberta
+tofino|Tofino|canada|CA|Canada|Tofino
+ucluelet|Ucluelet|canada|CA|Canada|Ucluelet
+squamish|Squamish|canada|CA|Canada|Squamish, British Columbia
+revelstoke|Revelstoke|canada|CA|Canada|Revelstoke, British Columbia
+kelowna|Kelowna|canada|CA|Canada|Kelowna
+nelson-bc|Nelson|canada|CA|Canada|Nelson, British Columbia
+niagara-on-the-lake|Niagara-on-the-Lake|canada|CA|Canada|Niagara-on-the-Lake
+quebec-city|Quebec City|canada|CA|Canada|Quebec City
+tadoussac|Tadoussac|canada|CA|Canada|Tadoussac
+perce|Percé|canada|CA|Canada|Percé, Quebec
+lunenburg|Lunenburg|canada|CA|Canada|Lunenburg, Nova Scotia
+halifax|Halifax|canada|CA|Canada|Halifax, Nova Scotia
+st-johns|St. John's|canada|CA|Canada|St. John's, Newfoundland and Labrador
+charlottetown|Charlottetown|canada|CA|Canada|Charlottetown
+victoria-bc|Victoria|canada|CA|Canada|Victoria, British Columbia
+tulum|Tulum|mexico|MX|Mexico|Tulum, Quintana Roo
+playa-del-carmen|Playa del Carmen|mexico|MX|Mexico|Playa del Carmen
+cancun|Cancún|mexico|MX|Mexico|Cancún
+isla-mujeres|Isla Mujeres|mexico|MX|Mexico|Isla Mujeres
+cozumel|San Miguel de Cozumel|mexico|MX|Mexico|San Miguel de Cozumel
+merida|Mérida|mexico|MX|Mexico|Mérida, Yucatán
+valladolid-mx|Valladolid|mexico|MX|Mexico|Valladolid, Yucatán
+oaxaca|Oaxaca|mexico|MX|Mexico|Oaxaca City
+san-miguel|San Miguel de Allende|mexico|MX|Mexico|San Miguel de Allende
+guanajuato|Guanajuato|mexico|MX|Mexico|Guanajuato City
+puerto-vallarta|Puerto Vallarta|mexico|MX|Mexico|Puerto Vallarta
+sayulita|Sayulita|mexico|MX|Mexico|Sayulita
+cabo|Cabo San Lucas|mexico|MX|Mexico|Cabo San Lucas
+loreto|Loreto|mexico|MX|Mexico|Loreto, Baja California Sur
+antigua|Antigua Guatemala|guatemala|GT|Guatemala|Antigua Guatemala
+panajachel|Panajachel|guatemala|GT|Guatemala|Panajachel
+flores|Flores|guatemala|GT|Guatemala|Flores, El Petén
+san-pedro-belize|San Pedro|belize|BZ|Belize|San Pedro Town
+placencia|Placencia|belize|BZ|Belize|Placencia
+la-fortuna|La Fortuna|costa-rica|CR|Costa Rica|La Fortuna, Costa Rica
+monteverde|Monteverde|costa-rica|CR|Costa Rica|Monteverde
+manuel-antonio|Quepos|costa-rica|CR|Costa Rica|Quepos
+tamarindo|Tamarindo|costa-rica|CR|Costa Rica|Tamarindo, Costa Rica
+puerto-viejo|Puerto Viejo de Talamanca|costa-rica|CR|Costa Rica|Puerto Viejo de Talamanca
+cartagena|Cartagena|colombia|CO|Colombia|Cartagena, Colombia
+medellin|Medellín|colombia|CO|Colombia|Medellín
+salento|Salento|colombia|CO|Colombia|Salento, Quindío
+villa-de-leyva|Villa de Leyva|colombia|CO|Colombia|Villa de Leyva
+santa-marta|Santa Marta|colombia|CO|Colombia|Santa Marta, Colombia
+cusco|Cusco|peru|PE|Peru|Cusco
+aguas-calientes|Aguas Calientes|peru|PE|Peru|Aguas Calientes
+arequipa|Arequipa|peru|PE|Peru|Arequipa
+puno|Puno|peru|PE|Peru|Puno
+huaraz|Huaraz|peru|PE|Peru|Huaraz
+paracas|Paracas|peru|PE|Peru|Paracas District
+quito|Quito|ecuador|EC|Ecuador|Quito
+cuenca-ec|Cuenca|ecuador|EC|Ecuador|Cuenca, Ecuador
+banos|Baños de Agua Santa|ecuador|EC|Ecuador|Baños de Agua Santa
+puerto-ayora|Puerto Ayora|ecuador|EC|Ecuador|Puerto Ayora
+uyuni|Uyuni|bolivia|BO|Bolivia|Uyuni
+sucre|Sucre|bolivia|BO|Bolivia|Sucre
+copacabana-bo|Copacabana|bolivia|BO|Bolivia|Copacabana, Bolivia
+bariloche|Bariloche|argentina|AR|Argentina|San Carlos de Bariloche
+el-calafate|El Calafate|argentina|AR|Argentina|El Calafate
+ushuaia|Ushuaia|argentina|AR|Argentina|Ushuaia
+mendoza|Mendoza|argentina|AR|Argentina|Mendoza, Argentina
+salta|Salta|argentina|AR|Argentina|Salta
+puerto-iguazu|Puerto Iguazú|argentina|AR|Argentina|Puerto Iguazú
+valparaiso|Valparaíso|chile|CL|Chile|Valparaíso
+san-pedro-atacama|San Pedro de Atacama|chile|CL|Chile|San Pedro de Atacama
+puerto-varas|Puerto Varas|chile|CL|Chile|Puerto Varas
+puerto-natales|Puerto Natales|chile|CL|Chile|Puerto Natales
+hanga-roa|Hanga Roa|chile|CL|Chile|Hanga Roa
+paraty|Paraty|brazil|BR|Brazil|Paraty
+buzios|Búzios|brazil|BR|Brazil|Armação dos Búzios
+ouro-preto|Ouro Preto|brazil|BR|Brazil|Ouro Preto
+fernando-de-noronha|Fernando de Noronha|brazil|BR|Brazil|Fernando de Noronha
+salvador|Salvador|brazil|BR|Brazil|Salvador, Bahia
+florianopolis|Florianópolis|brazil|BR|Brazil|Florianópolis
+punta-del-este|Punta del Este|uruguay|UY|Uruguay|Punta del Este
+colonia|Colonia del Sacramento|uruguay|UY|Uruguay|Colonia del Sacramento
+havana|Havana|cuba|CU|Cuba|Havana
+trinidad-cu|Trinidad|cuba|CU|Cuba|Trinidad, Cuba
+vinales|Viñales|cuba|CU|Cuba|Viñales
+punta-cana|Punta Cana|dominican-republic|DO|Dominican Republic|Punta Cana
+montego-bay|Montego Bay|jamaica|JM|Jamaica|Montego Bay
+negril|Negril|jamaica|JM|Jamaica|Negril
+nassau|Nassau|bahamas|BS|Bahamas|Nassau, Bahamas
+harbour-island|Dunmore Town|bahamas|BS|Bahamas|Dunmore Town
+oranjestad|Oranjestad|aruba|AW|Aruba|Oranjestad, Aruba
+willemstad|Willemstad|curacao|CW|Curaçao|Willemstad
+soufriere|Soufrière|saint-lucia|LC|Saint Lucia|Soufrière, Saint Lucia
+queenstown|Queenstown|new-zealand|NZ|New Zealand|Queenstown, New Zealand
+wanaka|Wānaka|new-zealand|NZ|New Zealand|Wānaka
+rotorua|Rotorua|new-zealand|NZ|New Zealand|Rotorua
+taupo|Taupō|new-zealand|NZ|New Zealand|Taupō
+kaikoura|Kaikōura|new-zealand|NZ|New Zealand|Kaikōura
+paihia|Paihia|new-zealand|NZ|New Zealand|Paihia
+te-anau|Te Anau|new-zealand|NZ|New Zealand|Te Anau
+franz-josef|Franz Josef|new-zealand|NZ|New Zealand|Franz Josef / Waiau
+fox-glacier|Fox Glacier|new-zealand|NZ|New Zealand|Fox Glacier (town)
+cairns|Cairns|australia|AU|Australia|Cairns
+port-douglas|Port Douglas|australia|AU|Australia|Port Douglas
+airlie-beach|Airlie Beach|australia|AU|Australia|Airlie Beach
+gold-coast|Gold Coast|australia|AU|Australia|Gold Coast (Australia)
+byron-bay|Byron Bay|australia|AU|Australia|Byron Bay
+noosa|Noosa Heads|australia|AU|Australia|Noosa Heads
+yulara|Yulara|australia|AU|Australia|Yulara
+alice-springs|Alice Springs|australia|AU|Australia|Alice Springs
+broome|Broome|australia|AU|Australia|Broome, Western Australia
+margaret-river|Margaret River|australia|AU|Australia|Margaret River, Western Australia
+hobart|Hobart|australia|AU|Australia|Hobart
+nadi|Nadi|fiji|FJ|Fiji|Nadi
+papeete|Papeete|french-polynesia|PF|French Polynesia|Papeete
+vaitape|Vaitape|french-polynesia|PF|French Polynesia|Vaitape
+moorea|Mo'orea|french-polynesia|PF|French Polynesia|Moorea
+petra|Wadi Musa|jordan|JO|Jordan|Wadi Musa
+aqaba|Aqaba|jordan|JO|Jordan|Aqaba
+jerash|Jerash|jordan|JO|Jordan|Jerash
+jerusalem|Jerusalem|israel|IL|Israel|Jerusalem
+tel-aviv|Tel Aviv|israel|IL|Israel|Tel Aviv
+eilat|Eilat|israel|IL|Israel|Eilat
+beirut|Beirut|lebanon|LB|Lebanon|Beirut
+byblos|Byblos|lebanon|LB|Lebanon|Byblos
+muscat|Muscat|oman|OM|Oman|Muscat
+nizwa|Nizwa|oman|OM|Oman|Nizwa
+salalah|Salalah|oman|OM|Oman|Salalah
+alula|AlUla|saudi-arabia|SA|Saudi Arabia|Al-'Ula
+yerevan|Yerevan|armenia|AM|Armenia|Yerevan
+dilijan|Dilijan|armenia|AM|Armenia|Dilijan
+tbilisi|Tbilisi|georgia|GE|Georgia|Tbilisi
+batumi|Batumi|georgia|GE|Georgia|Batumi
+kazbegi|Stepantsminda|georgia|GE|Georgia|Stepantsminda
+baku|Baku|azerbaijan|AZ|Azerbaijan|Baku
+sheki|Shaki|azerbaijan|AZ|Azerbaijan|Shaki, Azerbaijan
+samarkand|Samarkand|uzbekistan|UZ|Uzbekistan|Samarkand
+bukhara|Bukhara|uzbekistan|UZ|Uzbekistan|Bukhara
+khiva|Khiva|uzbekistan|UZ|Uzbekistan|Khiva
+almaty|Almaty|kazakhstan|KZ|Kazakhstan|Almaty
+isfahan|Isfahan|iran|IR|Iran|Isfahan
+shiraz|Shiraz|iran|IR|Iran|Shiraz
+yazd|Yazd|iran|IR|Iran|Yazd
+skardu|Skardu|pakistan|PK|Pakistan|Skardu
+karimabad|Karimabad|pakistan|PK|Pakistan|Karimabad, Pakistan
+cox-bazar|Cox's Bazar|bangladesh|BD|Bangladesh|Cox's Bazar
+male|Malé|maldives|MV|Maldives|Malé
+victoria-sc|Victoria|seychelles|SC|Seychelles|Victoria, Seychelles
+la-digue|La Digue|seychelles|SC|Seychelles|La Digue
+praslin|Praslin|seychelles|SC|Seychelles|Praslin
+port-louis|Port Louis|mauritius|MU|Mauritius|Port Louis
+grand-baie|Grand Baie|mauritius|MU|Mauritius|Grand Baie
+antananarivo|Antananarivo|madagascar|MG|Madagascar|Antananarivo
+nosy-be|Nosy Be|madagascar|MG|Madagascar|Nosy Be
+morondava|Morondava|madagascar|MG|Madagascar|Morondava
+dubrovnik|Dubrovnik|croatia|HR|Croatia|Dubrovnik
+split|Split|croatia|HR|Croatia|Split
+rovinj|Rovinj|croatia|HR|Croatia|Rovinj
+hvar|Hvar|croatia|HR|Croatia|Hvar
+korcula|Korčula|croatia|HR|Croatia|Korčula
+zadar|Zadar|croatia|HR|Croatia|Zadar
+trogir|Trogir|croatia|HR|Croatia|Trogir
+pula|Pula|croatia|HR|Croatia|Pula
+opatija|Opatija|croatia|HR|Croatia|Opatija
+makarska|Makarska|croatia|HR|Croatia|Makarska
+kotor|Kotor|montenegro|ME|Montenegro|Kotor
+budva|Budva|montenegro|ME|Montenegro|Budva
+perast|Perast|montenegro|ME|Montenegro|Perast
+mostar|Mostar|bosnia-and-herzegovina|BA|Bosnia and Herzegovina|Mostar
+sarajevo|Sarajevo|bosnia-and-herzegovina|BA|Bosnia and Herzegovina|Sarajevo
+bled|Bled|slovenia|SI|Slovenia|Bled
+piran|Piran|slovenia|SI|Slovenia|Piran
+ljubljana|Ljubljana|slovenia|SI|Slovenia|Ljubljana
+ohrid|Ohrid|north-macedonia|MK|North Macedonia|Ohrid
+berat|Berat|albania|AL|Albania|Berat
+gjirokaster|Gjirokastër|albania|AL|Albania|Gjirokastër
+sarande|Sarandë|albania|AL|Albania|Sarandë
+krakow|Kraków|poland|PL|Poland|Kraków
+gdansk|Gdańsk|poland|PL|Poland|Gdańsk
+wroclaw|Wrocław|poland|PL|Poland|Wrocław
+zakopane|Zakopane|poland|PL|Poland|Zakopane
+torun|Toruń|poland|PL|Poland|Toruń
+poznan|Poznań|poland|PL|Poland|Poznań
+malbork|Malbork|poland|PL|Poland|Malbork
+prague|Prague|czechia|CZ|Czech Republic|Prague
+cesky-krumlov|Český Krumlov|czechia|CZ|Czech Republic|Český Krumlov
+kutna-hora|Kutná Hora|czechia|CZ|Czech Republic|Kutná Hora
+karlovy-vary|Karlovy Vary|czechia|CZ|Czech Republic|Karlovy Vary
+telc|Telč|czechia|CZ|Czech Republic|Telč
+olomouc|Olomouc|czechia|CZ|Czech Republic|Olomouc
+budapest|Budapest|hungary|HU|Hungary|Budapest
+eger|Eger|hungary|HU|Hungary|Eger
+pecs|Pécs|hungary|HU|Hungary|Pécs
+sopron|Sopron|hungary|HU|Hungary|Sopron
+bratislava|Bratislava|slovakia|SK|Slovakia|Bratislava
+high-tatras|Vysoké Tatry|slovakia|SK|Slovakia|Vysoké Tatry
+sighisoara|Sighișoara|romania|RO|Romania|Sighișoara
+brasov|Brașov|romania|RO|Romania|Brașov
+sibiu|Sibiu|romania|RO|Romania|Sibiu
+veliko-tarnovo|Veliko Tarnovo|bulgaria|BG|Bulgaria|Veliko Tarnovo
+nessebar|Nesebar|bulgaria|BG|Bulgaria|Nesebar
+plovdiv|Plovdiv|bulgaria|BG|Bulgaria|Plovdiv
+lviv|Lviv|ukraine|UA|Ukraine|Lviv
+tallinn|Tallinn|estonia|EE|Estonia|Tallinn
+tartu|Tartu|estonia|EE|Estonia|Tartu
+riga|Riga|latvia|LV|Latvia|Riga
+sigulda|Sigulda|latvia|LV|Latvia|Sigulda
+vilnius|Vilnius|lithuania|LT|Lithuania|Vilnius
+trakai|Trakai|lithuania|LT|Lithuania|Trakai
+bergen|Bergen|norway|NO|Norway|Bergen
+flam|Flåm|norway|NO|Norway|Flåm
+geiranger|Geiranger|norway|NO|Norway|Geiranger
+alesund|Ålesund|norway|NO|Norway|Ålesund
+tromso|Tromsø|norway|NO|Norway|Tromsø
+svolvaer|Svolvær|norway|NO|Norway|Svolvær
+stockholm|Stockholm|sweden|SE|Sweden|Stockholm
+visby|Visby|sweden|SE|Sweden|Visby
+kiruna|Kiruna|sweden|SE|Sweden|Kiruna
+are|Åre|sweden|SE|Sweden|Åre
+helsinki|Helsinki|finland|FI|Finland|Helsinki
+rovaniemi|Rovaniemi|finland|FI|Finland|Rovaniemi
+porvoo|Porvoo|finland|FI|Finland|Porvoo
+levi|Levi|finland|FI|Finland|Levi, Finland
+reykjavik|Reykjavík|iceland|IS|Iceland|Reykjavík
+akureyri|Akureyri|iceland|IS|Iceland|Akureyri
+vik|Vík í Mýrdal|iceland|IS|Iceland|Vík í Mýrdal
+husavik|Húsavík|iceland|IS|Iceland|Húsavík
+dublin|Dublin|ireland|IE|Ireland|Dublin
+galway|Galway|ireland|IE|Ireland|Galway
+killarney|Killarney|ireland|IE|Ireland|Killarney
+dingle|Dingle|ireland|IE|Ireland|Dingle
+kilkenny|Kilkenny|ireland|IE|Ireland|Kilkenny
+kinsale|Kinsale|ireland|IE|Ireland|Kinsale
+cork|Cork|ireland|IE|Ireland|Cork (city)
+edinburgh|Edinburgh|united-kingdom|GB|United Kingdom|Edinburgh
+bath|Bath|united-kingdom|GB|United Kingdom|Bath, Somerset
+york|York|united-kingdom|GB|United Kingdom|York
+oxford|Oxford|united-kingdom|GB|United Kingdom|Oxford
+cambridge|Cambridge|united-kingdom|GB|United Kingdom|Cambridge
+chester|Chester|united-kingdom|GB|United Kingdom|Chester
+canterbury|Canterbury|united-kingdom|GB|United Kingdom|Canterbury
+brighton|Brighton|united-kingdom|GB|United Kingdom|Brighton
+st-ives|St Ives|united-kingdom|GB|United Kingdom|St Ives, Cornwall
+stratford|Stratford-upon-Avon|united-kingdom|GB|United Kingdom|Stratford-upon-Avon
+bibury|Bibury|united-kingdom|GB|United Kingdom|Bibury
+castle-combe|Castle Combe|united-kingdom|GB|United Kingdom|Castle Combe
+bourton|Bourton-on-the-Water|united-kingdom|GB|United Kingdom|Bourton-on-the-Water
+portree|Portree|united-kingdom|GB|United Kingdom|Portree
+inverness|Inverness|united-kingdom|GB|United Kingdom|Inverness
+fort-william|Fort William|united-kingdom|GB|United Kingdom|Fort William, Highland
+st-andrews|St Andrews|united-kingdom|GB|United Kingdom|St Andrews
+conwy|Conwy|united-kingdom|GB|United Kingdom|Conwy
+tenby|Tenby|united-kingdom|GB|United Kingdom|Tenby
+betws|Betws-y-Coed|united-kingdom|GB|United Kingdom|Betws-y-Coed
+belfast|Belfast|united-kingdom|GB|United Kingdom|Belfast
+derry|Derry|united-kingdom|GB|United Kingdom|Derry
+stonehenge-amesbury|Amesbury|united-kingdom|GB|United Kingdom|Amesbury
+salisbury|Salisbury|united-kingdom|GB|United Kingdom|Salisbury
+windsor|Windsor|united-kingdom|GB|United Kingdom|Windsor, Berkshire
+penzance|Penzance|united-kingdom|GB|United Kingdom|Penzance
+oban|Oban|united-kingdom|GB|United Kingdom|Oban
+stirling|Stirling|united-kingdom|GB|United Kingdom|Stirling
+cardiff|Cardiff|united-kingdom|GB|United Kingdom|Cardiff
+london|London|united-kingdom|GB|United Kingdom|London
+paris|Paris|france|FR|France|Paris
+rome|Rome|italy|IT|Italy|Rome
+venice|Venice|italy|IT|Italy|Venice
+florence|Florence|italy|IT|Italy|Florence
+milan|Milan|italy|IT|Italy|Milan
+amsterdam|Amsterdam|netherlands|NL|Netherlands|Amsterdam
+berlin|Berlin|germany|DE|Germany|Berlin
+munich|Munich|germany|DE|Germany|Munich
+cologne|Cologne|germany|DE|Germany|Cologne
+zurich|Zurich|switzerland|CH|Switzerland|Zurich
+madrid|Madrid|spain|ES|Spain|Madrid
+barcelona-dup|Barcelona|spain|ES|Spain|Barcelona
+lisbon-dup|Lisbon|portugal|PT|Portugal|Lisbon
+porto-dup|Porto|portugal|PT|Portugal|Porto
+tokyo|Tokyo|japan|JP|Japan|Tokyo
+kyoto|Kyoto|japan|JP|Japan|Kyoto
+osaka|Osaka|japan|JP|Japan|Osaka
+seoul|Seoul|south-korea|KR|South Korea|Seoul
+beijing|Beijing|china|CN|China|Beijing
+shanghai|Shanghai|china|CN|China|Shanghai
+hong-kong|Hong Kong|hong-kong|HK|Hong Kong|Hong Kong
+singapore|Singapore|singapore|SG|Singapore|Singapore
+bangkok|Bangkok|thailand|TH|Thailand|Bangkok
+dubai|Dubai|united-arab-emirates|AE|United Arab Emirates|Dubai
+new-york|New York City|united-states|US|United States|New York City
+los-angeles|Los Angeles|united-states|US|United States|Los Angeles
+san-francisco|San Francisco|united-states|US|United States|San Francisco
+las-vegas|Las Vegas|united-states|US|United States|Las Vegas
+miami|Miami|united-states|US|United States|Miami
+sydney|Sydney|australia|AU|Australia|Sydney
+melbourne|Melbourne|australia|AU|Australia|Melbourne
+auckland|Auckland|new-zealand|NZ|New Zealand|Auckland
+# Extra wave: smaller tourist towns likely missing from the 2700-city set
+rochefort-en-terre|Rochefort-en-Terre|france|FR|France|Rochefort-en-Terre
+josselin|Josselin|france|FR|France|Josselin
+vannes-golfe|Golfe du Morbihan|france|FR|France|Arradon
+la-trinite-sur-mer|La Trinité-sur-Mer|france|FR|France|La Trinité-sur-Mer
+carnac-plage|Carnac|france|FR|France|Carnac
+belle-ile|Le Palais|france|FR|France|Le Palais
+houat|Houat|france|FR|France|Houat
+groix|Groix|france|FR|France|Groix
+concarneau|Concarneau|france|FR|France|Concarneau
+pont-aven|Pont-Aven|france|FR|France|Pont-Aven
+locronan|Locronan|france|FR|France|Locronan
+quimper|Quimper|france|FR|France|Quimper
+douarnenez|Douarnenez|france|FR|France|Douarnenez
+crozon|Crozon|france|FR|France|Crozon
+morlaix|Morlaix|france|FR|France|Morlaix
+roscoff|Roscoff|france|FR|France|Roscoff
+perros-guirec|Perros-Guirec|france|FR|France|Perros-Guirec
+paimpol|Paimpol|france|FR|France|Paimpol
+dinan|Dinan|france|FR|France|Dinan
+dinard|Dinard|france|FR|France|Dinard
+cancale|Cancale|france|FR|France|Cancale
+granville|Granville|france|FR|France|Granville, Manche
+barfleur|Barfleur|france|FR|France|Barfleur
+barneville-carteret|Barneville-Carteret|france|FR|France|Barneville-Carteret
+coutances|Coutances|france|FR|France|Coutances
+bayeux-calvados|Bayeux|france|FR|France|Bayeux
+arromanches|Arromanches-les-Bains|france|FR|France|Arromanches-les-Bains
+courseulles|Courseulles-sur-Mer|france|FR|France|Courseulles-sur-Mer
+cabourg|Cabourg|france|FR|France|Cabourg
+trouville|Trouville-sur-Mer|france|FR|France|Trouville-sur-Mer
+deauville|Deauville|france|FR|France|Deauville
+honfleur-calvados|Honfleur|france|FR|France|Honfleur
+fecamp|Fécamp|france|FR|France|Fécamp
+etretat-normandy|Étretat|france|FR|France|Étretat
+veules-les-roses|Veules-les-Roses|france|FR|France|Veules-les-Roses
+dieppe|Dieppe|france|FR|France|Dieppe
+le-treport|Le Tréport|france|FR|France|Le Tréport
+amiens|Amiens|france|FR|France|Amiens
+arras|Arras|france|FR|France|Arras
+lille|Lille|france|FR|France|Lille
+reims|Reims|france|FR|France|Reims
+epernay|Épernay|france|FR|France|Épernay
+troyes|Troyes|france|FR|France|Troyes
+auxerre|Auxerre|france|FR|France|Auxerre
+vezelay|Vézelay|france|FR|France|Vézelay
+semur|Semur-en-Auxois|france|FR|France|Semur-en-Auxois
+flavigny|Flavigny-sur-Ozerain|france|FR|France|Flavigny-sur-Ozerain
+beaune-burgundy|Beaune|france|FR|France|Beaune
+nuits-saint-georges|Nuits-Saint-Georges|france|FR|France|Nuits-Saint-Georges
+gevrey-chambertin|Gevrey-Chambertin|france|FR|France|Gevrey-Chambertin
+dijon-cote|Dijon|france|FR|France|Dijon
+besancon|Besançon|france|FR|France|Besançon
+dole|Dole|france|FR|France|Dole, Jura
+arbois|Arbois|france|FR|France|Arbois
+ornans|Ornans|france|FR|France|Ornans
+baume-les-messieurs|Baume-les-Messieurs|france|FR|France|Baume-les-Messieurs
+chamonix-mont-blanc|Chamonix|france|FR|France|Chamonix
+megeve-alps|Megève|france|FR|France|Megève
+saint-gervais|Saint-Gervais-les-Bains|france|FR|France|Saint-Gervais-les-Bains
+les-houches|Les Houches|france|FR|France|Les Houches
+argentiere|Argentière|france|FR|France|Argentière
+talloires|Talloires|france|FR|France|Talloires
+annecy-le-vieux|Annecy-le-Vieux|france|FR|France|Annecy-le-Vieux
+yvoire|Yvoire|france|FR|France|Yvoire
+evian|Évian-les-Bains|france|FR|France|Évian-les-Bains
+thonon|Thonon-les-Bains|france|FR|France|Thonon-les-Bains
+aix-les-bains|Aix-les-Bains|france|FR|France|Aix-les-Bains
+chambery|Chambéry|france|FR|France|Chambéry
+albertville|Albertville|france|FR|France|Albertville
+bourg-saint-maurice|Bourg-Saint-Maurice|france|FR|France|Bourg-Saint-Maurice
+tignes|Tignes|france|FR|France|Tignes
+val-thorens|Val Thorens|france|FR|France|Val Thorens
+meribel|Méribel|france|FR|France|Méribel
+la-plagne|La Plagne|france|FR|France|La Plagne
+les-arcs|Les Arcs|france|FR|France|Les Arcs
+morzine|Morzine|france|FR|France|Morzine
+avoriaz|Avoriaz|france|FR|France|Avoriaz
+la-clusaz|La Clusaz|france|FR|France|La Clusaz
+le-grand-bornand|Le Grand-Bornand|france|FR|France|Le Grand-Bornand
+alpe-dhuez|Alpe d'Huez|france|FR|France|Alpe d'Huez
+les-deux-alpes|Les Deux Alpes|france|FR|France|Les Deux Alpes
+serre-chevalier|Serre Chevalier|france|FR|France|Serre Chevalier
+briancon|Briançon|france|FR|France|Briançon
+gap|Gap|france|FR|France|Gap, Hautes-Alpes
+embrun|Embrun|france|FR|France|Embrun, Hautes-Alpes
+barcelonnette|Barcelonnette|france|FR|France|Barcelonnette
+ribeauville|Ribeauvillé|france|FR|France|Ribeauvillé
+riquewihr|Riquewihr|france|FR|France|Riquewihr
+eguisheim|Eguisheim|france|FR|France|Eguisheim
+kaysersberg|Kaysersberg|france|FR|France|Kaysersberg
+colmar-alsace|Colmar|france|FR|France|Colmar
+strasbourg-alsace|Strasbourg|france|FR|France|Strasbourg
+obernai|Obernai|france|FR|France|Obernai
+wissembourg|Wissembourg|france|FR|France|Wissembourg
+nancy-lorraine|Nancy|france|FR|France|Nancy, France
+metz-lorraine|Metz|france|FR|France|Metz
+verdun|Verdun|france|FR|France|Verdun
+chartres|Chartres|france|FR|France|Chartres
+orleans|Orléans|france|FR|France|Orléans
+blois|Blois|france|FR|France|Blois
+amboise|Amboise|france|FR|France|Amboise
+tours|Tours|france|FR|France|Tours
+chinon|Chinon|france|FR|France|Chinon
+saumur|Saumur|france|FR|France|Saumur
+angers|Angers|france|FR|France|Angers
+nantes|Nantes|france|FR|France|Nantes
+la-baule|La Baule-Escoublac|france|FR|France|La Baule-Escoublac
+le-croisic|Le Croisic|france|FR|France|Le Croisic
+guerande|Guérande|france|FR|France|Guérande
+pornic|Pornic|france|FR|France|Pornic
+les-sables-d-olonne|Les Sables-d'Olonne|france|FR|France|Les Sables-d'Olonne
+ile-de-re-st-martin|Saint-Martin-de-Ré|france|FR|France|Saint-Martin-de-Ré
+la-rochelle-charente|La Rochelle|france|FR|France|La Rochelle
+rochefort|Rochefort|france|FR|France|Rochefort, Charente-Maritime
+cognac|Cognac|france|FR|France|Cognac, France
+angouleme|Angoulême|france|FR|France|Angoulême
+perigord-sarlat|Sarlat-la-Canéda|france|FR|France|Sarlat-la-Canéda
+beynac|Beynac-et-Cazenac|france|FR|France|Beynac-et-Cazenac
+la-roque-gageac|La Roque-Gageac|france|FR|France|La Roque-Gageac
+domme|Domme|france|FR|France|Domme, Dordogne
+rocamadour-lot|Rocamadour|france|FR|France|Rocamadour
+saint-cirq|Saint-Cirq-Lapopie|france|FR|France|Saint-Cirq-Lapopie
+conques|Conques|france|FR|France|Conques
+collonges|Collonges-la-Rouge|france|FR|France|Collonges-la-Rouge
+tulle|Tulle|france|FR|France|Tulle
+brive|Brive-la-Gaillarde|france|FR|France|Brive-la-Gaillarde
+limoges|Limoges|france|FR|France|Limoges
+poitiers|Poitiers|france|FR|France|Poitiers
+futuroscope-chasseneuil|Chasseneuil-du-Poitou|france|FR|France|Chasseneuil-du-Poitou
+la-rochelle2|La Rochelle|france|FR|France|La Rochelle
+biarritz-basque|Biarritz|france|FR|France|Biarritz
+saint-jean-de-luz-basque|Saint-Jean-de-Luz|france|FR|France|Saint-Jean-de-Luz
+saint-jean-pied-de-port|Saint-Jean-Pied-de-Port|france|FR|France|Saint-Jean-Pied-de-Port
+esplette|Espelette|france|FR|France|Espelette
+sare|Sare|france|FR|France|Sare
+ainhoa-basque|Ainhoa|france|FR|France|Ainhoa
+bayonne-basque|Bayonne|france|FR|France|Bayonne
+pau-bearn|Pau|france|FR|France|Pau, Pyrénées-Atlantiques
+lourdes-hautes|Lourdes|france|FR|France|Lourdes
+cauterets|Cauterets|france|FR|France|Cauterets
+gavarnie|Gavarnie|france|FR|France|Gavarnie
+luz-saint-sauveur|Luz-Saint-Sauveur|france|FR|France|Luz-Saint-Sauveur
+saint-lary|Saint-Lary-Soulan|france|FR|France|Saint-Lary-Soulan
+bareges|Barèges|france|FR|France|Barèges
+foix|Foix|france|FR|France|Foix
+tarascon-sur-ariege|Tarascon-sur-Ariège|france|FR|France|Tarascon-sur-Ariège
+ax-les-thermes|Ax-les-Thermes|france|FR|France|Ax-les-Thermes
+carcassonne-aude|Carcassonne|france|FR|France|Carcassonne
+minerve|Minerve|france|FR|France|Minerve, Hérault
+lastours|Lastours|france|FR|France|Lastours
+narbonne-plage|Narbonne-Plage|france|FR|France|Narbonne-Plage
+gruissan|Gruissan|france|FR|France|Gruissan
+le-cap-dagde|Cap d'Agde|france|FR|France|Cap d'Agde
+sete-herault|Sète|france|FR|France|Sète
+montpellier|Montpellier|france|FR|France|Montpellier
+aigues-mortes-gard|Aigues-Mortes|france|FR|France|Aigues-Mortes
+uzes-gard|Uzès|france|FR|France|Uzès
+nimes-gard|Nîmes|france|FR|France|Nîmes
+arles-bouches|Arles|france|FR|France|Arles
+avignon-vaucluse|Avignon|france|FR|France|Avignon
+orange-vaucluse|Orange|france|FR|France|Orange, Vaucluse
+vaison|Vaison-la-Romaine|france|FR|France|Vaison-la-Romaine
+carpentras|Carpentras|france|FR|France|Carpentras
+cavaillon|Cavaillon|france|FR|France|Cavaillon
+aix-provence|Aix-en-Provence|france|FR|France|Aix-en-Provence
+cassis-calanques|Cassis|france|FR|France|Cassis
+marseille-provence|Marseille|france|FR|France|Marseille
+toulon|Toulon|france|FR|France|Toulon
+hyeres-var|Hyères|france|FR|France|Hyères
+saint-tropez-var|Saint-Tropez|france|FR|France|Saint-Tropez
+cannes-alpes|Cannes|france|FR|France|Cannes
+nice-alpes|Nice|france|FR|France|Nice
+menton-alpes|Menton|france|FR|France|Menton
+eze-alpes|Èze|france|FR|France|Èze
+villefranche-alpes|Villefranche-sur-Mer|france|FR|France|Villefranche-sur-Mer
+antibes-alpes|Antibes|france|FR|France|Antibes
+grasse-alpes|Grasse|france|FR|France|Grasse
+vence|Vence|france|FR|France|Vence
+saint-paul-de-vence|Saint-Paul-de-Vence|france|FR|France|Saint-Paul-de-Vence
+tourrettes|Tourrettes-sur-Loup|france|FR|France|Tourrettes-sur-Loup
+mougins|Mougins|france|FR|France|Mougins
+valbonne|Valbonne|france|FR|France|Valbonne
+biot|Biot|france|FR|France|Biot, Alpes-Maritimes
+villeneuve-loubet|Villeneuve-Loubet|france|FR|France|Villeneuve-Loubet
+cagnes|Cagnes-sur-Mer|france|FR|France|Cagnes-sur-Mer
+beaulieu|Beaulieu-sur-Mer|france|FR|France|Beaulieu-sur-Mer
+roquebrune-cap-martin|Roquebrune-Cap-Martin|france|FR|France|Roquebrune-Cap-Martin
+cap-dail|Cap-d'Ail|france|FR|France|Cap-d'Ail
+peille|Peille|france|FR|France|Peille
+peillon|Peillon|france|FR|France|Peillon
+sospel|Sospel|france|FR|France|Sospel
+breil|Breil-sur-Roya|france|FR|France|Breil-sur-Roya
+tende|Tende|france|FR|France|Tende
+saorge|Saorge|france|FR|France|Saorge
+# Italy extra
+praiano-amalfi|Praiano|italy|IT|Italy|Praiano
+furore-amalfi|Furore|italy|IT|Italy|Furore
+atrani-amalfi|Atrani|italy|IT|Italy|Atrani
+minori-amalfi|Minori|italy|IT|Italy|Minori, Campania
+maiori-amalfi|Maiori|italy|IT|Italy|Maiori
+vietri-amalfi|Vietri sul Mare|italy|IT|Italy|Vietri sul Mare
+cetara-amalfi|Cetara|italy|IT|Italy|Cetara
+piano-di-sorrento|Piano di Sorrento|italy|IT|Italy|Piano di Sorrento
+meta|Meta|italy|IT|Italy|Meta, Campania
+sant-agnello|Sant'Agnello|italy|IT|Italy|Sant'Agnello
+nerano|Massa Lubrense|italy|IT|Italy|Nerano
+capri-town|Capri|italy|IT|Italy|Capri (town)
+anacapri|Anacapri|italy|IT|Italy|Anacapri
+forio-ischia|Forio|italy|IT|Italy|Forio
+lacco-ameno|Lacco Ameno|italy|IT|Italy|Lacco Ameno
+casamicciola|Casamicciola Terme|italy|IT|Italy|Casamicciola Terme
+procida-town|Procida|italy|IT|Italy|Procida
+ischia-ponte|Ischia Ponte|italy|IT|Italy|Ischia Ponte
+sorrento|Sorrento|italy|IT|Italy|Sorrento
+pompeii|Pompeii|italy|IT|Italy|Pompeii
+herculaneum|Herculaneum|italy|IT|Italy|Herculaneum
+naples|Naples|italy|IT|Italy|Naples
+caserta|Caserta|italy|IT|Italy|Caserta
+benevento|Benevento|italy|IT|Italy|Benevento
+salerno|Salerno|italy|IT|Italy|Salerno
+paestum|Capaccio Paestum|italy|IT|Italy|Paestum
+agropoli|Agropoli|italy|IT|Italy|Agropoli
+palinuro|Palinuro|italy|IT|Italy|Palinuro
+maratea|Maratea|italy|IT|Italy|Maratea
+tropea|Tropea|italy|IT|Italy|Tropea
+scilla|Scilla|italy|IT|Italy|Scilla, Calabria
+reggio-calabria|Reggio Calabria|italy|IT|Italy|Reggio Calabria
+taormina-sicily|Taormina|italy|IT|Italy|Taormina
+giardini-naxos|Giardini Naxos|italy|IT|Italy|Giardini Naxos
+catania|Catania|italy|IT|Italy|Catania
+syracuse|Syracuse|italy|IT|Italy|Syracuse, Sicily
+noto|Noto|italy|IT|Italy|Noto
+modica-sicily|Modica|italy|IT|Italy|Modica
+ragusa-ibla|Ragusa|italy|IT|Italy|Ragusa, Sicily
+agrigento|Agrigento|italy|IT|Italy|Agrigento
+selinunte|Castelvetrano|italy|IT|Italy|Selinunte
+trapani|Trapani|italy|IT|Italy|Trapani
+erice-sicily|Erice|italy|IT|Italy|Erice
+san-vito-lo-capo|San Vito Lo Capo|italy|IT|Italy|San Vito Lo Capo
+castellammare-golfo|Castellammare del Golfo|italy|IT|Italy|Castellammare del Golfo
+palermo|Palermo|italy|IT|Italy|Palermo
+mondello|Mondello|italy|IT|Italy|Mondello
+cefalu-sicily|Cefalù|italy|IT|Italy|Cefalù
+lipari-aeolian|Lipari|italy|IT|Italy|Lipari
+stromboli-aeolian|Stromboli|italy|IT|Italy|Stromboli
+panarea-aeolian|Panarea|italy|IT|Italy|Panarea
+vulcano-aeolian|Vulcano|italy|IT|Italy|Vulcano (island)
+pantelleria-island|Pantelleria|italy|IT|Italy|Pantelleria
+lampedusa-island|Lampedusa|italy|IT|Italy|Lampedusa
+cagliari|Cagliari|italy|IT|Italy|Cagliari
+alghero|Alghero|italy|IT|Italy|Alghero
+castelsardo|Castelsardo|italy|IT|Italy|Castelsardo
+bosa|Bosa|italy|IT|Italy|Bosa
+nuoro|Nuoro|italy|IT|Italy|Nuoro
+olbia|Olbia|italy|IT|Italy|Olbia
+porto-cervo|Porto Cervo|italy|IT|Italy|Porto Cervo
+porto-rotondo|Porto Rotondo|italy|IT|Italy|Porto Rotondo
+san-teodoro|San Teodoro|italy|IT|Italy|San Teodoro, Sardinia
+villasimius|Villasimius|italy|IT|Italy|Villasimius
+costa-rei|Muravera|italy|IT|Italy|Costa Rei
+pisa|Pisa|italy|IT|Italy|Pisa
+lucca-tuscany|Lucca|italy|IT|Italy|Lucca
+viareggio-tuscany|Viareggio|italy|IT|Italy|Viareggio
+forte-marmi|Forte dei Marmi|italy|IT|Italy|Forte dei Marmi
+pietrasanta-tuscany|Pietrasanta|italy|IT|Italy|Pietrasanta
+siena-tuscany|Siena|italy|IT|Italy|Siena
+san-gimignano-tuscany|San Gimignano|italy|IT|Italy|San Gimignano
+volterra-tuscany|Volterra|italy|IT|Italy|Volterra
+pienza-tuscany|Pienza|italy|IT|Italy|Pienza
+montepulciano-tuscany|Montepulciano|italy|IT|Italy|Montepulciano
+montalcino-tuscany|Montalcino|italy|IT|Italy|Montalcino
+cortona-tuscany|Cortona|italy|IT|Italy|Cortona
+arezzo|Arezzo|italy|IT|Italy|Arezzo
+florence|Florence|italy|IT|Italy|Florence
+fiesole-tuscany|Fiesole|italy|IT|Italy|Fiesole
+pitigliano-tuscany|Pitigliano|italy|IT|Italy|Pitigliano
+sovana|Sovana|italy|IT|Italy|Sovana
+saturnia|Saturnia|italy|IT|Italy|Saturnia
+orbetello-tuscany|Orbetello|italy|IT|Italy|Orbetello
+porto-santo-stefano|Porto Santo Stefano|italy|IT|Italy|Porto Santo Stefano
+porto-ercole|Porto Ercole|italy|IT|Italy|Porto Ercole
+giannutri|Giannutri|italy|IT|Italy|Giannutri
+giglio|Isola del Giglio|italy|IT|Italy|Isola del Giglio
+elba-portoferraio|Portoferraio|italy|IT|Italy|Portoferraio
+elba-marciana|Marciana Marina|italy|IT|Italy|Marciana Marina
+elba-capoliveri|Capoliveri|italy|IT|Italy|Capoliveri
+cinque-terre-monterosso|Monterosso al Mare|italy|IT|Italy|Monterosso al Mare
+cinque-terre-vernazza|Vernazza|italy|IT|Italy|Vernazza
+cinque-terre-corniglia|Corniglia|italy|IT|Italy|Corniglia
+cinque-terre-manarola|Manarola|italy|IT|Italy|Manarola
+cinque-terre-riomaggiore|Riomaggiore|italy|IT|Italy|Riomaggiore
+portovenere|Porto Venere|italy|IT|Italy|Porto Venere
+lerici|Lerici|italy|IT|Italy|Lerici
+la-spezia|La Spezia|italy|IT|Italy|La Spezia
+sestri-levante-liguria|Sestri Levante|italy|IT|Italy|Sestri Levante
+rapallo|Rapallo|italy|IT|Italy|Rapallo
+santa-margherita|Santa Margherita Ligure|italy|IT|Italy|Santa Margherita Ligure
+portofino-liguria|Portofino|italy|IT|Italy|Portofino
+camogli-liguria|Camogli|italy|IT|Italy|Camogli
+genoa|Genoa|italy|IT|Italy|Genoa
+alassio-liguria|Alassio|italy|IT|Italy|Alassio
+finale-liguria|Finale Ligure|italy|IT|Italy|Finale Ligure
+noli-liguria|Noli|italy|IT|Italy|Noli
+sanremo|Sanremo|italy|IT|Italy|Sanremo
+bordighera-liguria|Bordighera|italy|IT|Italy|Bordighera
+ventimiglia|Ventimiglia|italy|IT|Italy|Ventimiglia
+milan|Milan|italy|IT|Italy|Milan
+bergamo|Bergamo|italy|IT|Italy|Bergamo
+brescia|Brescia|italy|IT|Italy|Brescia
+cremona|Cremona|italy|IT|Italy|Cremona
+mantua|Mantua|italy|IT|Italy|Mantua
+verona|Verona|italy|IT|Italy|Verona
+vicenza|Vicenza|italy|IT|Italy|Vicenza
+padua|Padua|italy|IT|Italy|Padua
+venice|Venice|italy|IT|Italy|Venice
+chioggia|Chioggia|italy|IT|Italy|Chioggia
+treviso|Treviso|italy|IT|Italy|Treviso
+asolo|Asolo|italy|IT|Italy|Asolo
+bassano|Bassano del Grappa|italy|IT|Italy|Bassano del Grappa
+cortina|Cortina d'Ampezzo|italy|IT|Italy|Cortina d'Ampezzo
+bolzano|Bolzano|italy|IT|Italy|Bolzano
+merano|Merano|italy|IT|Italy|Merano
+brixen|Brixen|italy|IT|Italy|Brixen
+brunico|Bruneck|italy|IT|Italy|Bruneck
+ortisei|Urtijëi|italy|IT|Italy|Urtijëi
+selva|Selva di Val Gardena|italy|IT|Italy|Sëlva
+corvara|Corvara|italy|IT|Italy|Corvara in Badia
+canazei|Canazei|italy|IT|Italy|Canazei
+madonna-campiglio|Madonna di Campiglio|italy|IT|Italy|Madonna di Campiglio
+trento|Trento|italy|IT|Italy|Trento
+riva-garda|Riva del Garda|italy|IT|Italy|Riva del Garda
+malcesine|Malcesine|italy|IT|Italy|Malcesine
+limone-garda|Limone sul Garda|italy|IT|Italy|Limone sul Garda
+sirmione-garda|Sirmione|italy|IT|Italy|Sirmione
+desenzano|Desenzano del Garda|italy|IT|Italy|Desenzano del Garda
+peschiera-garda|Peschiera del Garda|italy|IT|Italy|Peschiera del Garda
+bardolino|Bardolino|italy|IT|Italy|Bardolino
+garda|Garda|italy|IT|Italy|Garda, Veneto
+bellagio-como|Bellagio|italy|IT|Italy|Bellagio
+varenna-como|Varenna|italy|IT|Italy|Varenna
+menaggio|Menaggio|italy|IT|Italy|Menaggio
+como|Como|italy|IT|Italy|Como
+stresa|Stresa|italy|IT|Italy|Stresa
+verbania-maggiore|Verbania|italy|IT|Italy|Verbania
+cannobio-maggiore|Cannobio|italy|IT|Italy|Cannobio
+aosta|Aosta|italy|IT|Italy|Aosta
+courmayeur|Courmayeur|italy|IT|Italy|Courmayeur
+cervinia-aosta|Cervinia|italy|IT|Italy|Breuil-Cervinia
+bormio-lombardy|Bormio|italy|IT|Italy|Bormio
+livigno|Livigno|italy|IT|Italy|Livigno
+turin|Turin|italy|IT|Italy|Turin
+alba|Alba|italy|IT|Italy|Alba, Piedmont
+asti-piedmont|Asti|italy|IT|Italy|Asti
+barolo-piedmont|Barolo|italy|IT|Italy|Barolo, Piedmont
+bologna|Bologna|italy|IT|Italy|Bologna
+modena|Modena|italy|IT|Italy|Modena
+parma|Parma|italy|IT|Italy|Parma
+ravenna|Ravenna|italy|IT|Italy|Ravenna
+rimini|Rimini|italy|IT|Italy|Rimini
+san-marino-city|San Marino|san-marino|SM|San Marino|City of San Marino
+urbino|Urbino|italy|IT|Italy|Urbino
+ancona|Ancona|italy|IT|Italy|Ancona
+senigallia-marche|Senigallia|italy|IT|Italy|Senigallia
+ascoli|Ascoli Piceno|italy|IT|Italy|Ascoli Piceno
+perugia|Perugia|italy|IT|Italy|Perugia
+assisi-umbria|Assisi|italy|IT|Italy|Assisi
+spoleto|Spoleto|italy|IT|Italy|Spoleto
+orvieto-umbria|Orvieto|italy|IT|Italy|Orvieto
+todi|Todi|italy|IT|Italy|Todi
+gubbio|Gubbio|italy|IT|Italy|Gubbio
+spello-umbria|Spello|italy|IT|Italy|Spello
+civita|Civita di Bagnoregio|italy|IT|Italy|Civita di Bagnoregio
+rome|Rome|italy|IT|Italy|Rome
+tivoli|Tivoli|italy|IT|Italy|Tivoli
+ostia|Ostia|italy|IT|Italy|Ostia (Rome)
+gaeta-lazio|Gaeta|italy|IT|Italy|Gaeta
+sperlonga-lazio|Sperlonga|italy|IT|Italy|Sperlonga
+terracina|Terracina|italy|IT|Italy|Terracina
+san-felice-circeo|San Felice Circeo|italy|IT|Italy|San Felice Circeo
+ponza-island|Ponza|italy|IT|Italy|Ponza
+ventotene|Ventotene|italy|IT|Italy|Ventotene
+lecce-puglia|Lecce|italy|IT|Italy|Lecce
+ostuni-puglia|Ostuni|italy|IT|Italy|Ostuni
+alberobello-puglia|Alberobello|italy|IT|Italy|Alberobello
+polignano-puglia|Polignano a Mare|italy|IT|Italy|Polignano a Mare
+monopoli-puglia|Monopoli|italy|IT|Italy|Monopoli
+otranto-puglia|Otranto|italy|IT|Italy|Otranto
+gallipoli-puglia|Gallipoli|italy|IT|Italy|Gallipoli, Apulia
+vieste-gargano|Vieste|italy|IT|Italy|Vieste
+peschici-gargano|Peschici|italy|IT|Italy|Peschici
+matera-basilicata|Matera|italy|IT|Italy|Matera
+bari|Bari|italy|IT|Italy|Bari
+trani-puglia|Trani|italy|IT|Italy|Trani
+pescara|Pescara|italy|IT|Italy|Pescara
+sulmona-abruzzo|Sulmona|italy|IT|Italy|Sulmona
+l-aquila|L'Aquila|italy|IT|Italy|L'Aquila
+trieste|Trieste|italy|IT|Italy|Trieste
+udine|Udine|italy|IT|Italy|Udine
+cividale|Cividale del Friuli|italy|IT|Italy|Cividale del Friuli
+grado|Grado|italy|IT|Italy|Grado, Friuli-Venezia Giulia
+lido-di-jesolo|Jesolo|italy|IT|Italy|Jesolo
+caorle|Caorle|italy|IT|Italy|Caorle
+# Spain extra smaller
+zahara-de-los-atunes|Zahara de los Atunes|spain|ES|Spain|Zahara de los Atunes
+conil|Conil de la Frontera|spain|ES|Spain|Conil de la Frontera
+chipiona|Chipiona|spain|ES|Spain|Chipiona
+rota|Rota|spain|ES|Spain|Rota, Andalusia
+estepona|Estepona|spain|ES|Spain|Estepona
+fuengirola|Fuengirola|spain|ES|Spain|Fuengirola
+torremolinos|Torremolinos|spain|ES|Spain|Torremolinos
+malaga|Málaga|spain|ES|Spain|Málaga
+nerja-axarquia|Nerja|spain|ES|Spain|Nerja
+frigiliana|Frigiliana|spain|ES|Spain|Frigiliana
+almunecar|Almuñécar|spain|ES|Spain|Almuñécar
+salobrena|Salobreña|spain|ES|Spain|Salobreña
+motril|Motril|spain|ES|Spain|Motril
+almeria|Almería|spain|ES|Spain|Almería
+mojacar|Mojácar|spain|ES|Spain|Mojácar
+san-jose-almeria|San José|spain|ES|Spain|San José, Almería
+cabo-de-gata|San José|spain|ES|Spain|Cabo de Gata
+carboneras|Carboneras|spain|ES|Spain|Carboneras
+roquetas|Roquetas de Mar|spain|ES|Spain|Roquetas de Mar
+adrennes|Adra|spain|ES|Spain|Adra, Spain
+ubeda-jaen|Úbeda|spain|ES|Spain|Úbeda
+baeza-jaen|Baeza|spain|ES|Spain|Baeza
+cazorla-jaen|Cazorla|spain|ES|Spain|Cazorla
+priego|Priego de Córdoba|spain|ES|Spain|Priego de Córdoba
+lucena|Lucena|spain|ES|Spain|Lucena, Córdoba
+montilla|Montilla|spain|ES|Spain|Montilla
+carmona|Carmona|spain|ES|Spain|Carmona, Spain
+osuna|Osuna|spain|ES|Spain|Osuna
+ecija|Écija|spain|ES|Spain|Écija
+italica|Santiponce|spain|ES|Spain|Santiponce
+aracena|Aracena|spain|ES|Spain|Aracena
+huelva|Huelva|spain|ES|Spain|Huelva
+mazagon|Mazagón|spain|ES|Spain|Mazagón
+isla-cristina|Isla Cristina|spain|ES|Spain|Isla Cristina
+ayamonte|Ayamonte|spain|ES|Spain|Ayamonte
+# UK extra
+padstow|Padstow|united-kingdom|GB|United Kingdom|Padstow
+newquay|Newquay|united-kingdom|GB|United Kingdom|Newquay
+st-ives-cornwall|St Ives|united-kingdom|GB|United Kingdom|St Ives, Cornwall
+falmouth|Falmouth|united-kingdom|GB|United Kingdom|Falmouth, Cornwall
+fowey|Fowey|united-kingdom|GB|United Kingdom|Fowey
+looe|Looe|united-kingdom|GB|United Kingdom|Looe
+polperro|Polperro|united-kingdom|GB|United Kingdom|Polperro
+mevagissey|Mevagissey|united-kingdom|GB|United Kingdom|Mevagissey
+mousehole|Mousehole|united-kingdom|GB|United Kingdom|Mousehole
+lands-end-sennen|Sennen|united-kingdom|GB|United Kingdom|Sennen
+tintagel|Tintagel|united-kingdom|GB|United Kingdom|Tintagel
+boscastle|Boscastle|united-kingdom|GB|United Kingdom|Boscastle
+port-isaac|Port Isaac|united-kingdom|GB|United Kingdom|Port Isaac
+bude|Bude|united-kingdom|GB|United Kingdom|Bude
+clovelly|Clovelly|united-kingdom|GB|United Kingdom|Clovelly
+lynton|Lynton|united-kingdom|GB|United Kingdom|Lynton
+lynmouth|Lynmouth|united-kingdom|GB|United Kingdom|Lynmouth
+ilfracombe|Ilfracombe|united-kingdom|GB|United Kingdom|Ilfracombe
+barnstaple|Barnstaple|united-kingdom|GB|United Kingdom|Barnstaple
+exeter|Exeter|united-kingdom|GB|United Kingdom|Exeter
+dartmouth|Dartmouth|united-kingdom|GB|United Kingdom|Dartmouth, Devon
+salcombe|Salcombe|united-kingdom|GB|United Kingdom|Salcombe
+totnes|Totnes|united-kingdom|GB|United Kingdom|Totnes
+plymouth|Plymouth|united-kingdom|GB|United Kingdom|Plymouth
+lyme-regis|Lyme Regis|united-kingdom|GB|United Kingdom|Lyme Regis
+bridport|Bridport|united-kingdom|GB|United Kingdom|Bridport
+weymouth|Weymouth|united-kingdom|GB|United Kingdom|Weymouth, Dorset
+lulworth|West Lulworth|united-kingdom|GB|United Kingdom|West Lulworth
+swanage|Swanage|united-kingdom|GB|United Kingdom|Swanage
+poole|Poole|united-kingdom|GB|United Kingdom|Poole
+bournemouth|Bournemouth|united-kingdom|GB|United Kingdom|Bournemouth
+salisbury-wilts|Salisbury|united-kingdom|GB|United Kingdom|Salisbury
+stonehenge|Amesbury|united-kingdom|GB|United Kingdom|Amesbury
+avebury|Avebury|united-kingdom|GB|United Kingdom|Avebury
+bradford-on-avon|Bradford-on-Avon|united-kingdom|GB|United Kingdom|Bradford-on-Avon
+lacock|Lacock|united-kingdom|GB|United Kingdom|Lacock
+castel-combe|Castle Combe|united-kingdom|GB|United Kingdom|Castle Combe
+cirencester|Cirencester|united-kingdom|GB|United Kingdom|Cirencester
+stow-on-the-wold|Stow-on-the-Wold|united-kingdom|GB|United Kingdom|Stow-on-the-Wold
+bourton-on-the-water|Bourton-on-the-Water|united-kingdom|GB|United Kingdom|Bourton-on-the-Water
+bibury-glos|Bibury|united-kingdom|GB|United Kingdom|Bibury
+burford|Burford|united-kingdom|GB|United Kingdom|Burford
+chipping-campden|Chipping Campden|united-kingdom|GB|United Kingdom|Chipping Campden
+broadway-worcs|Broadway|united-kingdom|GB|United Kingdom|Broadway, Worcestershire
+stratford-avon|Stratford-upon-Avon|united-kingdom|GB|United Kingdom|Stratford-upon-Avon
+warwick|Warwick|united-kingdom|GB|United Kingdom|Warwick
+oxford-oxon|Oxford|united-kingdom|GB|United Kingdom|Oxford
+cambridge-cambs|Cambridge|united-kingdom|GB|United Kingdom|Cambridge
+ely|Ely|united-kingdom|GB|United Kingdom|Ely, Cambridgeshire
+norwich|Norwich|united-kingdom|GB|United Kingdom|Norwich
+southwold|Southwold|united-kingdom|GB|United Kingdom|Southwold
+alburgh|Aldeburgh|united-kingdom|GB|United Kingdom|Aldeburgh
+woodbridge|Woodbridge|united-kingdom|GB|United Kingdom|Woodbridge, Suffolk
+colchester|Colchester|united-kingdom|GB|United Kingdom|Colchester
+brighton-sussex|Brighton|united-kingdom|GB|United Kingdom|Brighton
+lewes|Lewes|united-kingdom|GB|United Kingdom|Lewes
+rye|Rye|united-kingdom|GB|United Kingdom|Rye, East Sussex
+hastings|Hastings|united-kingdom|GB|United Kingdom|Hastings
+eastbourne|Eastbourne|united-kingdom|GB|United Kingdom|Eastbourne
+canterbury-kent|Canterbury|united-kingdom|GB|United Kingdom|Canterbury
+whitstable|Whitstable|united-kingdom|GB|United Kingdom|Whitstable
+margate|Margate|united-kingdom|GB|United Kingdom|Margate
+broadstairs|Broadstairs|united-kingdom|GB|United Kingdom|Broadstairs
+dover|Dover|united-kingdom|GB|United Kingdom|Dover
+folkestone|Folkestone|united-kingdom|GB|United Kingdom|Folkestone
+tunbridge-wells|Royal Tunbridge Wells|united-kingdom|GB|United Kingdom|Royal Tunbridge Wells
+sevenoaks|Sevenoaks|united-kingdom|GB|United Kingdom|Sevenoaks
+windsor-berks|Windsor|united-kingdom|GB|United Kingdom|Windsor, Berkshire
+henley|Henley-on-Thames|united-kingdom|GB|United Kingdom|Henley-on-Thames
+marlow|Marlow|united-kingdom|GB|United Kingdom|Marlow, Buckinghamshire
+york-yorks|York|united-kingdom|GB|United Kingdom|York
+harrogate|Harrogate|united-kingdom|GB|United Kingdom|Harrogate
+whitby|Whitby|united-kingdom|GB|United Kingdom|Whitby
+scarborough|Scarborough|united-kingdom|GB|United Kingdom|Scarborough, North Yorkshire
+robin-hoods-bay|Robin Hood's Bay|united-kingdom|GB|United Kingdom|Robin Hood's Bay
+richmond-yorks|Richmond|united-kingdom|GB|United Kingdom|Richmond, North Yorkshire
+skipton|Skipton|united-kingdom|GB|United Kingdom|Skipton
+settle|Settle|united-kingdom|GB|United Kingdom|Settle, North Yorkshire
+haworth|Haworth|united-kingdom|GB|United Kingdom|Haworth
+hebden-bridge|Hebden Bridge|united-kingdom|GB|United Kingdom|Hebden Bridge
+chester-cheshire|Chester|united-kingdom|GB|United Kingdom|Chester
+liverpool|Liverpool|united-kingdom|GB|United Kingdom|Liverpool
+manchester|Manchester|united-kingdom|GB|United Kingdom|Manchester
+lake-district-keswick|Keswick|united-kingdom|GB|United Kingdom|Keswick, Cumbria
+ambleside|Ambleside|united-kingdom|GB|United Kingdom|Ambleside
+windermere|Windermere|united-kingdom|GB|United Kingdom|Windermere, Cumbria (town)
+grasmere|Grasmere|united-kingdom|GB|United Kingdom|Grasmere (village)
+coniston|Coniston|united-kingdom|GB|United Kingdom|Coniston, Cumbria
+bowness|Bowness-on-Windermere|united-kingdom|GB|United Kingdom|Bowness-on-Windermere
+kendal|Kendal|united-kingdom|GB|United Kingdom|Kendal
+carlisle|Carlisle|united-kingdom|GB|United Kingdom|Carlisle
+durham|Durham|united-kingdom|GB|United Kingdom|Durham, England
+newcastle|Newcastle upon Tyne|united-kingdom|GB|United Kingdom|Newcastle upon Tyne
+alnmouth|Alnmouth|united-kingdom|GB|United Kingdom|Alnmouth
+alnwick|Alnwick|united-kingdom|GB|United Kingdom|Alnwick
+bamburgh|Bamburgh|united-kingdom|GB|United Kingdom|Bamburgh
+holy-island|Holy Island|united-kingdom|GB|United Kingdom|Lindisfarne
+berwick|Berwick-upon-Tweed|united-kingdom|GB|United Kingdom|Berwick-upon-Tweed
+edinburgh-scotland|Edinburgh|united-kingdom|GB|United Kingdom|Edinburgh
+glasgow|Glasgow|united-kingdom|GB|United Kingdom|Glasgow
+st-andrews-fife|St Andrews|united-kingdom|GB|United Kingdom|St Andrews
+stirling-scotland|Stirling|united-kingdom|GB|United Kingdom|Stirling
+inverness-scotland|Inverness|united-kingdom|GB|United Kingdom|Inverness
+fort-william-highland|Fort William|united-kingdom|GB|United Kingdom|Fort William, Highland
+oban-argyll|Oban|united-kingdom|GB|United Kingdom|Oban
+portree-skye|Portree|united-kingdom|GB|United Kingdom|Portree
+broadford|Broadford|united-kingdom|GB|United Kingdom|Broadford, Skye
+mallaig|Mallaig|united-kingdom|GB|United Kingdom|Mallaig
+plockton|Plockton|united-kingdom|GB|United Kingdom|Plockton
+ullapool|Ullapool|united-kingdom|GB|United Kingdom|Ullapool
+durness|Durness|united-kingdom|GB|United Kingdom|Durness
+john-o-groats|John o' Groats|united-kingdom|GB|United Kingdom|John o' Groats
+thurso|Thurso|united-kingdom|GB|United Kingdom|Thurso
+kirkwall|Kirkwall|united-kingdom|GB|United Kingdom|Kirkwall
+stromness|Stromness|united-kingdom|GB|United Kingdom|Stromness
+lerwick|Lerwick|united-kingdom|GB|United Kingdom|Lerwick
+stornoway|Stornoway|united-kingdom|GB|United Kingdom|Stornoway
+portree2|Portree|united-kingdom|GB|United Kingdom|Portree
+tobermory|Tobermory|united-kingdom|GB|United Kingdom|Tobermory, Mull
+iona|Iona|united-kingdom|GB|United Kingdom|Iona
+staffa|Fionnphort|united-kingdom|GB|United Kingdom|Fionnphort
+cardiff-wales|Cardiff|united-kingdom|GB|United Kingdom|Cardiff
+swansea|Swansea|united-kingdom|GB|United Kingdom|Swansea
+tenby-wales|Tenby|united-kingdom|GB|United Kingdom|Tenby
+st-davids|St Davids|united-kingdom|GB|United Kingdom|St Davids
+aberystwyth|Aberystwyth|united-kingdom|GB|United Kingdom|Aberystwyth
+conwy-wales|Conwy|united-kingdom|GB|United Kingdom|Conwy
+llandudno|Llandudno|united-kingdom|GB|United Kingdom|Llandudno
+betws-y-coed|Betws-y-Coed|united-kingdom|GB|United Kingdom|Betws-y-Coed
+llanberis|Llanberis|united-kingdom|GB|United Kingdom|Llanberis
+portmeirion|Portmeirion|united-kingdom|GB|United Kingdom|Portmeirion
+harlech|Harlech|united-kingdom|GB|United Kingdom|Harlech
+pwllheli|Pwllheli|united-kingdom|GB|United Kingdom|Pwllheli
+caernarfon|Caernarfon|united-kingdom|GB|United Kingdom|Caernarfon
+beaumaris|Beaumaris|united-kingdom|GB|United Kingdom|Beaumaris
+holyhead|Holyhead|united-kingdom|GB|United Kingdom|Holyhead
+belfast-ni|Belfast|united-kingdom|GB|United Kingdom|Belfast
+derry-ni|Derry|united-kingdom|GB|United Kingdom|Derry
+portrush|Portrush|united-kingdom|GB|United Kingdom|Portrush
+portstewart|Portstewart|united-kingdom|GB|United Kingdom|Portstewart
+bushmills-antrim|Bushmills|united-kingdom|GB|United Kingdom|Bushmills
+ballycastle|Ballycastle|united-kingdom|GB|United Kingdom|Ballycastle, County Antrim
+newcastle-down|Newcastle|united-kingdom|GB|United Kingdom|Newcastle, County Down
+# Ireland extra
+westport|Westport|ireland|IE|Ireland|Westport, County Mayo
+achill|Keel|ireland|IE|Ireland|Keel, County Mayo
+clifden|Clifden|ireland|IE|Ireland|Clifden
+roundstone|Roundstone|ireland|IE|Ireland|Roundstone, County Galway
+doolin|Doolin|ireland|IE|Ireland|Doolin
+lisdoonvarna|Lisdoonvarna|ireland|IE|Ireland|Lisdoonvarna
+lahinch|Lahinch|ireland|IE|Ireland|Lahinch
+ennis|Ennis|ireland|IE|Ireland|Ennis
+limerick|Limerick|ireland|IE|Ireland|Limerick
+adare|Adare|ireland|IE|Ireland|Adare
+kenmare|Kenmare|ireland|IE|Ireland|Kenmare
+cahersiveen|Cahersiveen|ireland|IE|Ireland|Cahersiveen
+waterville|Waterville|ireland|IE|Ireland|Waterville, County Kerry
+skellig|Portmagee|ireland|IE|Ireland|Portmagee
+dingle-kerry|Dingle|ireland|IE|Ireland|Dingle
+tralee|Tralee|ireland|IE|Ireland|Tralee
+killarney-kerry|Killarney|ireland|IE|Ireland|Killarney
+kinsale-cork|Kinsale|ireland|IE|Ireland|Kinsale
+cobh|Cobh|ireland|IE|Ireland|Cobh
+clonakilty|Clonakilty|ireland|IE|Ireland|Clonakilty
+skibbereen|Skibbereen|ireland|IE|Ireland|Skibbereen
+bantry|Bantry|ireland|IE|Ireland|Bantry
+glengarriff|Glengarriff|ireland|IE|Ireland|Glengarriff
+cork-city|Cork|ireland|IE|Ireland|Cork (city)
+waterford|Waterford|ireland|IE|Ireland|Waterford
+wexford|Wexford|ireland|IE|Ireland|Wexford
+kilkenny-city|Kilkenny|ireland|IE|Ireland|Kilkenny
+carlingford|Carlingford|ireland|IE|Ireland|Carlingford, County Louth
+howth|Howth|ireland|IE|Ireland|Howth
+malahide|Malahide|ireland|IE|Ireland|Malahide
+sligo|Sligo|ireland|IE|Ireland|Sligo
+donegal-town|Donegal|ireland|IE|Ireland|Donegal (town)
+letterkenny|Letterkenny|ireland|IE|Ireland|Letterkenny
+malin-head|Malin|ireland|IE|Ireland|Malin, County Donegal
+bundoran|Bundoran|ireland|IE|Ireland|Bundoran
+# US extra
+sedona-az|Sedona|united-states|US|United States|Sedona, Arizona
+jerome-az|Jerome|united-states|US|United States|Jerome, Arizona
+prescott|Prescott|united-states|US|United States|Prescott, Arizona
+tombstone|Tombstone|united-states|US|United States|Tombstone, Arizona
+bisbee|Bisbee|united-states|US|United States|Bisbee, Arizona
+williams-az|Williams|united-states|US|United States|Williams, Arizona
+winslow|Winslow|united-states|US|United States|Winslow, Arizona
+holbrook|Holbrook|united-states|US|United States|Holbrook, Arizona
+page-az|Page|united-states|US|United States|Page, Arizona
+kanab-ut|Kanab|united-states|US|United States|Kanab, Utah
+moab-ut|Moab|united-states|US|United States|Moab, Utah
+bluff|Bluff|united-states|US|United States|Bluff, Utah
+mexican-hat|Mexican Hat|united-states|US|United States|Mexican Hat, Utah
+escalante|Escalante|united-states|US|United States|Escalante, Utah
+boulder-ut|Boulder|united-states|US|United States|Boulder, Utah
+torrey-ut|Torrey|united-states|US|United States|Torrey, Utah
+richfield|Richfield|united-states|US|United States|Richfield, Utah
+cedar-city|Cedar City|united-states|US|United States|Cedar City, Utah
+st-george-ut|St. George|united-states|US|United States|St. George, Utah
+zion-springdale|Springdale|united-states|US|United States|Springdale, Utah
+hurricane-ut|Hurricane|united-states|US|United States|Hurricane, Utah
+brian-head|Brian Head|united-states|US|United States|Brian Head, Utah
+alta|Alta|united-states|US|United States|Alta, Utah
+snowbird|Snowbird|united-states|US|United States|Snowbird, Utah
+park-city-ut|Park City|united-states|US|United States|Park City, Utah
+heber|Heber City|united-states|US|United States|Heber City, Utah
+moab2|Moab|united-states|US|United States|Moab, Utah
+durango-co|Durango|united-states|US|United States|Durango, Colorado
+silverton-co|Silverton|united-states|US|United States|Silverton, Colorado
+ouray-co|Ouray|united-states|US|United States|Ouray, Colorado
+telluride-co|Telluride|united-states|US|United States|Telluride, Colorado
+crested-butte-co|Crested Butte|united-states|US|United States|Crested Butte, Colorado
+aspen-co|Aspen|united-states|US|United States|Aspen, Colorado
+snowmass|Snowmass Village|united-states|US|United States|Snowmass Village, Colorado
+vail-co|Vail|united-states|US|United States|Vail, Colorado
+beaver-creek|Avon|united-states|US|United States|Avon, Colorado
+breckenridge-co|Breckenridge|united-states|US|United States|Breckenridge, Colorado
+keystone-co|Keystone|united-states|US|United States|Keystone, Colorado
+frisco-co|Frisco|united-states|US|United States|Frisco, Colorado
+silverthorne|Silverthorne|united-states|US|United States|Silverthorne, Colorado
+steamboat-co|Steamboat Springs|united-states|US|United States|Steamboat Springs, Colorado
+winter-park|Winter Park|united-states|US|United States|Winter Park, Colorado
+estes-park|Estes Park|united-states|US|United States|Estes Park, Colorado
+grand-lake|Grand Lake|united-states|US|United States|Grand Lake, Colorado
+glenwood-springs|Glenwood Springs|united-states|US|United States|Glenwood Springs, Colorado
+manitou-springs|Manitou Springs|united-states|US|United States|Manitou Springs, Colorado
+colorado-springs|Colorado Springs|united-states|US|United States|Colorado Springs, Colorado
+boulder-co|Boulder|united-states|US|United States|Boulder, Colorado
+denver|Denver|united-states|US|United States|Denver
+santa-fe-nm|Santa Fe|united-states|US|United States|Santa Fe, New Mexico
+taos-nm|Taos|united-states|US|United States|Taos, New Mexico
+taos-ski-valley|Taos Ski Valley|united-states|US|United States|Taos Ski Valley, New Mexico
+albuquerque|Albuquerque|united-states|US|United States|Albuquerque, New Mexico
+las-cruces|Las Cruces|united-states|US|United States|Las Cruces, New Mexico
+carlsbad-nm|Carlsbad|united-states|US|United States|Carlsbad, New Mexico
+roswell|Roswell|united-states|US|United States|Roswell, New Mexico
+jackson-wy|Jackson|united-states|US|United States|Jackson, Wyoming
+wilson-wy|Wilson|united-states|US|United States|Wilson, Wyoming
+teton-village|Teton Village|united-states|US|United States|Teton Village, Wyoming
+cody-wy|Cody|united-states|US|United States|Cody, Wyoming
+thermopolis|Thermopolis|united-states|US|United States|Thermopolis, Wyoming
+sheridan-wy|Sheridan|united-states|US|United States|Sheridan, Wyoming
+buffalo-wy|Buffalo|united-states|US|United States|Buffalo, Wyoming
+lander|Lander|united-states|US|United States|Lander, Wyoming
+pinedale|Pinedale|united-states|US|United States|Pinedale, Wyoming
+west-yellowstone-mt|West Yellowstone|united-states|US|United States|West Yellowstone, Montana
+gardiner|Gardiner|united-states|US|United States|Gardiner, Montana
+cooke-city|Cooke City|united-states|US|United States|Cooke City, Montana
+red-lodge|Red Lodge|united-states|US|United States|Red Lodge, Montana
+bozeman|Bozeman|united-states|US|United States|Bozeman, Montana
+big-sky|Big Sky|united-states|US|United States|Big Sky, Montana
+whitefish-mt|Whitefish|united-states|US|United States|Whitefish, Montana
+kalispell|Kalispell|united-states|US|United States|Kalispell, Montana
+glacier-west|West Glacier|united-states|US|United States|West Glacier, Montana
+st-mary|St. Mary|united-states|US|United States|St. Mary, Montana
+missoula|Missoula|united-states|US|United States|Missoula, Montana
+sun-valley-id|Sun Valley|united-states|US|United States|Sun Valley, Idaho
+ketchum-id|Ketchum|united-states|US|United States|Ketchum, Idaho
+stanley-id|Stanley|united-states|US|United States|Stanley, Idaho
+mccall|McCall|united-states|US|United States|McCall, Idaho
+coeur-dalene|Coeur d'Alene|united-states|US|United States|Coeur d'Alene, Idaho
+spokane|Spokane|united-states|US|United States|Spokane, Washington
+leavenworth|Leavenworth|united-states|US|United States|Leavenworth, Washington
+winthrop|Winthrop|united-states|US|United States|Winthrop, Washington
+friday-harbor|Friday Harbor|united-states|US|United States|Friday Harbor, Washington
+anacortes|Anacortes|united-states|US|United States|Anacortes, Washington
+port-townsend|Port Townsend|united-states|US|United States|Port Townsend, Washington
+port-angeles|Port Angeles|united-states|US|United States|Port Angeles, Washington
+forks|Forks|united-states|US|United States|Forks, Washington
+cannon-beach|Cannon Beach|united-states|US|United States|Cannon Beach, Oregon
+seaside-or|Seaside|united-states|US|United States|Seaside, Oregon
+astoria|Astoria|united-states|US|United States|Astoria, Oregon
+hood-river|Hood River|united-states|US|United States|Hood River, Oregon
+bend|Bend|united-states|US|United States|Bend, Oregon
+sisters|Sisters|united-states|US|United States|Sisters, Oregon
+ashland|Ashland|united-states|US|United States|Ashland, Oregon
+jacksonville-or|Jacksonville|united-states|US|United States|Jacksonville, Oregon
+newport-or|Newport|united-states|US|United States|Newport, Oregon
+carmel-ca|Carmel-by-the-Sea|united-states|US|United States|Carmel-by-the-Sea, California
+pacific-grove-ca|Pacific Grove|united-states|US|United States|Pacific Grove, California
+monterey-ca|Monterey|united-states|US|United States|Monterey, California
+big-sur-village|Big Sur|united-states|US|United States|Big Sur
+cambria|Cambria|united-states|US|United States|Cambria, California
+morro-bay|Morro Bay|united-states|US|United States|Morro Bay, California
+pismo|Pismo Beach|united-states|US|United States|Pismo Beach, California
+solvang|Solvang|united-states|US|United States|Solvang, California
+ojai-ca|Ojai|united-states|US|United States|Ojai, California
+santa-barbara-ca|Santa Barbara|united-states|US|United States|Santa Barbara, California
+santa-monica|Santa Monica|united-states|US|United States|Santa Monica, California
+malibu|Malibu|united-states|US|United States|Malibu, California
+laguna-ca|Laguna Beach|united-states|US|United States|Laguna Beach, California
+newport-beach|Newport Beach|united-states|US|United States|Newport Beach, California
+la-jolla-ca|La Jolla|united-states|US|United States|La Jolla
+coronado|Coronado|united-states|US|United States|Coronado, California
+palm-springs-ca|Palm Springs|united-states|US|United States|Palm Springs, California
+palm-desert|Palm Desert|united-states|US|United States|Palm Desert, California
+joshua-tree|Joshua Tree|united-states|US|United States|Joshua Tree, California
+twentynine-palms|Twentynine Palms|united-states|US|United States|Twentynine Palms, California
+death-valley-furnace-creek|Furnace Creek|united-states|US|United States|Furnace Creek, California
+lone-pine|Lone Pine|united-states|US|United States|Lone Pine, California
+bishop|Bishop|united-states|US|United States|Bishop, California
+mammoth-ca|Mammoth Lakes|united-states|US|United States|Mammoth Lakes, California
+lee-vining|Lee Vining|united-states|US|United States|Lee Vining, California
+yosemite-village|Yosemite Valley|united-states|US|United States|Yosemite Valley
+mariposa-ca|Mariposa|united-states|US|United States|Mariposa, California
+groveland|Groveland|united-states|US|United States|Groveland, California
+south-lake-tahoe-ca|South Lake Tahoe|united-states|US|United States|South Lake Tahoe, California
+tahoe-city|Tahoe City|united-states|US|United States|Tahoe City, California
+truckee-ca|Truckee|united-states|US|United States|Truckee, California
+napa-ca|Napa|united-states|US|United States|Napa, California
+yountville|Yountville|united-states|US|United States|Yountville, California
+st-helena|St. Helena|united-states|US|United States|St. Helena, California
+calistoga-ca|Calistoga|united-states|US|United States|Calistoga, California
+healdsburg-ca|Healdsburg|united-states|US|United States|Healdsburg, California
+sonoma-ca|Sonoma|united-states|US|United States|Sonoma, California
+mendocino|Mendocino|united-states|US|United States|Mendocino, California
+fort-bragg|Fort Bragg|united-states|US|United States|Fort Bragg, California
+eureka|Eureka|united-states|US|United States|Eureka, California
+arcata|Arcata|united-states|US|United States|Arcata, California
+sausalito|Sausalito|united-states|US|United States|Sausalito, California
+sausalito-marin|Sausalito|united-states|US|United States|Sausalito, California
+tiburon|Tiburon|united-states|US|United States|Tiburon, California
+half-moon-bay|Half Moon Bay|united-states|US|United States|Half Moon Bay, California
+santa-cruz|Santa Cruz|united-states|US|United States|Santa Cruz, California
+capitola|Capitola|united-states|US|United States|Capitola, California
+# Hawaii extra
+kihei-maui|Kihei|united-states|US|United States|Kihei, Hawaii
+wailea|Wailea|united-states|US|United States|Wailea, Hawaii
+kaanapali|Kaanapali|united-states|US|United States|Kaanapali, Hawaii
+kapalua|Kapalua|united-states|US|United States|Kapalua, Hawaii
+hana-maui|Hana|united-states|US|United States|Hana, Hawaii
+paia|Paia|united-states|US|United States|Paia, Hawaii
+lahaina-maui|Lahaina|united-states|US|United States|Lahaina, Hawaii
+kailua-kona|Kailua-Kona|united-states|US|United States|Kailua-Kona, Hawaii
+hilo|Hilo|united-states|US|United States|Hilo, Hawaii
+volcano-village|Volcano|united-states|US|United States|Volcano, Hawaii
+waimea-hawaii|Waimea|united-states|US|United States|Waimea, Hawaii County, Hawaii
+princeville-kauai|Princeville|united-states|US|United States|Princeville, Hawaii
+hanalei|Hanalei|united-states|US|United States|Hanalei, Hawaii
+kapaa|Kapaʻa|united-states|US|United States|Kapaa, Hawaii
+poipu-kauai|Poipu|united-states|US|United States|Poipu, Hawaii
+lihue|Lihue|united-states|US|United States|Lihue, Hawaii
+waikiki|Waikiki|united-states|US|United States|Waikiki
+kailua|Kailua|united-states|US|United States|Kailua, Honolulu County, Hawaii
+lanai-city|Lanai City|united-states|US|United States|Lanai City, Hawaii
+kaunakakai|Kaunakakai|united-states|US|United States|Kaunakakai, Hawaii
+# Alaska extra
+ketchikan-ak|Ketchikan|united-states|US|United States|Ketchikan, Alaska
+sitka-ak|Sitka|united-states|US|United States|Sitka, Alaska
+juneau-ak|Juneau|united-states|US|United States|Juneau, Alaska
+skagway-ak|Skagway|united-states|US|United States|Skagway, Alaska
+haines|Haines|united-states|US|United States|Haines, Alaska
+glacier-bay-gustavus|Gustavus|united-states|US|United States|Gustavus, Alaska
+seward-ak|Seward|united-states|US|United States|Seward, Alaska
+homer-ak|Homer|united-states|US|United States|Homer, Alaska
+valdez|Valdez|united-states|US|United States|Valdez, Alaska
+fairbanks|Fairbanks|united-states|US|United States|Fairbanks, Alaska
+denali-park|Denali Park|united-states|US|United States|Denali Park, Alaska
+talkeetna|Talkeetna|united-states|US|United States|Talkeetna, Alaska
+anchorage|Anchorage|united-states|US|United States|Anchorage
+# East US extra
+bar-harbor-me|Bar Harbor|united-states|US|United States|Bar Harbor, Maine
+acadia-northeast|Northeast Harbor|united-states|US|United States|Northeast Harbor, Maine
+camden-maine|Camden|united-states|US|United States|Camden, Maine
+rockland-me|Rockland|united-states|US|United States|Rockland, Maine
+boothbay|Boothbay Harbor|united-states|US|United States|Boothbay Harbor, Maine
+kennebunkport-me|Kennebunkport|united-states|US|United States|Kennebunkport, Maine
+ogunquit|Ogunquit|united-states|US|United States|Ogunquit, Maine
+portland-me|Portland|united-states|US|United States|Portland, Maine
+portsmouth-nh|Portsmouth|united-states|US|United States|Portsmouth, New Hampshire
+north-conway|North Conway|united-states|US|United States|North Conway, New Hampshire
+stowe|Stowe|united-states|US|United States|Stowe, Vermont
+woodstock-vt|Woodstock|united-states|US|United States|Woodstock, Vermont
+burlington|Burlington|united-states|US|United States|Burlington, Vermont
+lenox|Lenox|united-states|US|United States|Lenox, Massachusetts
+stockbridge|Stockbridge|united-states|US|United States|Stockbridge, Massachusetts
+provincetown-ma|Provincetown|united-states|US|United States|Provincetown, Massachusetts
+chatham-ma|Chatham|united-states|US|United States|Chatham, Massachusetts
+hyannis|Hyannis|united-states|US|United States|Hyannis, Massachusetts
+nantucket-ma|Nantucket|united-states|US|United States|Nantucket
+edgartown|Edgartown|united-states|US|United States|Edgartown, Massachusetts
+oak-bluffs|Oak Bluffs|united-states|US|United States|Oak Bluffs, Massachusetts
+newport-rhode|Newport|united-states|US|United States|Newport, Rhode Island
+block-island|New Shoreham|united-states|US|United States|New Shoreham, Rhode Island
+cape-may-nj|Cape May|united-states|US|United States|Cape May, New Jersey
+ocean-city-nj|Ocean City|united-states|US|United States|Ocean City, New Jersey
+atlantic-city|Atlantic City|united-states|US|United States|Atlantic City, New Jersey
+rehoboth|Rehoboth Beach|united-states|US|United States|Rehoboth Beach, Delaware
+ocean-city-md|Ocean City|united-states|US|United States|Ocean City, Maryland
+annapolis|Annapolis|united-states|US|United States|Annapolis, Maryland
+st-michaels|St. Michaels|united-states|US|United States|St. Michaels, Maryland
+virginia-beach|Virginia Beach|united-states|US|United States|Virginia Beach, Virginia
+williamsburg|Williamsburg|united-states|US|United States|Williamsburg, Virginia
+charlottesville|Charlottesville|united-states|US|United States|Charlottesville, Virginia
+luray|Luray|united-states|US|United States|Luray, Virginia
+outer-banks-nags|Nags Head|united-states|US|United States|Nags Head, North Carolina
+kitty-hawk|Kitty Hawk|united-states|US|United States|Kitty Hawk, North Carolina
+duck|Duck|united-states|US|United States|Duck, North Carolina
+ocracoke|Ocracoke|united-states|US|United States|Ocracoke, North Carolina
+asheville-nc|Asheville|united-states|US|United States|Asheville, North Carolina
+blowing-rock|Blowing Rock|united-states|US|United States|Blowing Rock, North Carolina
+boone|Boone|united-states|US|United States|Boone, North Carolina
+charleston-sc|Charleston|united-states|US|United States|Charleston, South Carolina
+beaufort-south|Beaufort|united-states|US|United States|Beaufort, South Carolina
+hilton-head-sc|Hilton Head Island|united-states|US|United States|Hilton Head Island, South Carolina
+savannah-ga|Savannah|united-states|US|United States|Savannah, Georgia
+tybee|Tybee Island|united-states|US|United States|Tybee Island, Georgia
+st-simons|St. Simons|united-states|US|United States|St. Simons, Georgia
+st-augustine-fl|St. Augustine|united-states|US|United States|St. Augustine, Florida
+amelia-island|Fernandina Beach|united-states|US|United States|Fernandina Beach, Florida
+daytona|Daytona Beach|united-states|US|United States|Daytona Beach, Florida
+cocoa-beach|Cocoa Beach|united-states|US|United States|Cocoa Beach, Florida
+key-west-fl|Key West|united-states|US|United States|Key West
+islamorada|Islamorada|united-states|US|United States|Islamorada, Florida
+key-largo-fl|Key Largo|united-states|US|United States|Key Largo, Florida
+naples-florida|Naples|united-states|US|United States|Naples, Florida
+sanibel-fl|Sanibel|united-states|US|United States|Sanibel, Florida
+captiva|Captiva|united-states|US|United States|Captiva, Florida
+siesta-key|Siesta Key|united-states|US|United States|Siesta Key, Florida
+sarasota|Sarasota|united-states|US|United States|Sarasota, Florida
+clearwater|Clearwater|united-states|US|United States|Clearwater, Florida
+st-pete-beach|St. Pete Beach|united-states|US|United States|St. Pete Beach, Florida
+gatlinburg-tn|Gatlinburg|united-states|US|United States|Gatlinburg, Tennessee
+pigeon-forge|Pigeon Forge|united-states|US|United States|Pigeon Forge, Tennessee
+chattanooga|Chattanooga|united-states|US|United States|Chattanooga, Tennessee
+nashville-tn|Nashville|united-states|US|United States|Nashville, Tennessee
+memphis|Memphis|united-states|US|United States|Memphis, Tennessee
+new-orleans-la|New Orleans|united-states|US|United States|New Orleans
+austin-tx|Austin|united-states|US|United States|Austin, Texas
+san-antonio|San Antonio|united-states|US|United States|San Antonio
+fredericksburg-tx|Fredericksburg|united-states|US|United States|Fredericksburg, Texas
+marfa|Marfa|united-states|US|United States|Marfa, Texas
+terlingua|Terlingua|united-states|US|United States|Terlingua, Texas
+# Canada extra
+canmore-ab|Canmore|canada|CA|Canada|Canmore, Alberta
+lake-louise-ab|Lake Louise|canada|CA|Canada|Lake Louise, Alberta
+banff-ab|Banff|canada|CA|Canada|Banff
+jasper-ab|Jasper|canada|CA|Canada|Jasper, Alberta
+waterton|Waterton Park|canada|CA|Canada|Waterton Park
+tofino-bc|Tofino|canada|CA|Canada|Tofino
+ucluelet-bc|Ucluelet|canada|CA|Canada|Ucluelet
+tanner-bc|Tofino|canada|CA|Canada|Tofino
+squamish-bc|Squamish|canada|CA|Canada|Squamish, British Columbia
+whistler-bc|Whistler|canada|CA|Canada|Whistler, British Columbia
+revelstoke-bc|Revelstoke|canada|CA|Canada|Revelstoke, British Columbia
+golden-bc|Golden|canada|CA|Canada|Golden, British Columbia
+nelson-british|Nelson|canada|CA|Canada|Nelson, British Columbia
+kaslo|Kaslo|canada|CA|Canada|Kaslo
+fernie|Fernie|canada|CA|Canada|Fernie, British Columbia
+kimberley-bc|Kimberley|canada|CA|Canada|Kimberley, British Columbia
+kelowna-bc|Kelowna|canada|CA|Canada|Kelowna
+penticton|Penticton|canada|CA|Canada|Penticton
+vernon|Vernon|canada|CA|Canada|Vernon, British Columbia
+victoria-british|Victoria|canada|CA|Canada|Victoria, British Columbia
+sidney-bc|Sidney|canada|CA|Canada|Sidney, British Columbia
+vancouver|Vancouver|canada|CA|Canada|Vancouver
+quebec|Quebec City|canada|CA|Canada|Quebec City
+tadoussac-qc|Tadoussac|canada|CA|Canada|Tadoussac
+baie-saint-paul|Baie-Saint-Paul|canada|CA|Canada|Baie-Saint-Paul
+la-malbaie|La Malbaie|canada|CA|Canada|La Malbaie
+perce-qc|Percé|canada|CA|Canada|Percé, Quebec
+gaspe|Gaspé|canada|CA|Canada|Gaspé, Quebec
+montreal|Montreal|canada|CA|Canada|Montreal
+ottawa|Ottawa|canada|CA|Canada|Ottawa
+kingston-on|Kingston|canada|CA|Canada|Kingston, Ontario
+niagara-lake|Niagara-on-the-Lake|canada|CA|Canada|Niagara-on-the-Lake
+stratford-on|Stratford|canada|CA|Canada|Stratford, Ontario
+picton-on|Picton|canada|CA|Canada|Picton, Ontario
+tobermory-on|Tobermory|canada|CA|Canada|Tobermory, Ontario
+parry-sound|Parry Sound|canada|CA|Canada|Parry Sound, Ontario
+halifax-ns|Halifax|canada|CA|Canada|Halifax, Nova Scotia
+lunenburg-ns|Lunenburg|canada|CA|Canada|Lunenburg, Nova Scotia
+mahone-bay|Mahone Bay|canada|CA|Canada|Mahone Bay
+peggys-cove|Peggy's Cove|canada|CA|Canada|Peggy's Cove, Nova Scotia
+baddeck|Baddeck|canada|CA|Canada|Baddeck
+cheticamp|Chéticamp|canada|CA|Canada|Chéticamp
+ingonish|Ingonish|canada|CA|Canada|Ingonish
+charlottetown-pe|Charlottetown|canada|CA|Canada|Charlottetown
+cavendish|Cavendish|canada|CA|Canada|Cavendish, Prince Edward Island
+st-johns-nl|St. John's|canada|CA|Canada|St. John's, Newfoundland and Labrador
+trinity-nl|Trinity|canada|CA|Canada|Trinity, Newfoundland and Labrador
+bonavista|Bonavista|canada|CA|Canada|Bonavista, Newfoundland and Labrador
+gros-morne-rocky|Rocky Harbour|canada|CA|Canada|Rocky Harbour, Newfoundland and Labrador
+iqaluit|Iqaluit|canada|CA|Canada|Iqaluit
+whitehorse|Whitehorse|canada|CA|Canada|Whitehorse
+dawson|Dawson City|canada|CA|Canada|Dawson City
+yellowknife|Yellowknife|canada|CA|Canada|Yellowknife
+churchill|Churchill|canada|CA|Canada|Churchill, Manitoba
