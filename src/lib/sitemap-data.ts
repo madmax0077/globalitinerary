@@ -1,10 +1,29 @@
 import { siteConfig } from "@/lib/config";
 import { countries } from "@/data/countries";
-import { cities } from "@/data/cities";
 import { attractions } from "@/data/attractions";
-import { articles, collections } from "@/data/content";
+import { destinationGuides } from "@/data/destination-guides";
+import { citySitemapSlugs } from "@/data/city-sitemap-slugs.generated";
 import { iso2ToIso3, visaMatrix } from "@/data/visa.generated";
-import { isCityIndexable } from "@/lib/content-legitimacy";
+import { listTop100GuideSitemapEntries } from "@/data/top100-guide-meta";
+
+/** Keep sitemap generation off cities.generated.ts (7MB+) so this route can build on Vercel. */
+const COLLECTION_SLUGS = [
+  "luxury-escapes",
+  "beach-paradise",
+  "mountain-adventures",
+  "food-journeys",
+  "ancient-wonders",
+  "island-hopping",
+] as const;
+
+const LEGACY_ARTICLES: { slug: string; date: string; featured: boolean }[] = [
+  { slug: "48-hours-in-tokyo", date: "2026-06-18", featured: true },
+  { slug: "iceland-ring-road-guide", date: "2026-05-30", featured: true },
+  { slug: "italy-food-cities", date: "2026-06-02", featured: false },
+  { slug: "santorini-sunset-secrets", date: "2026-05-12", featured: false },
+  { slug: "dubai-desert-adventure", date: "2026-04-22", featured: false },
+  { slug: "peru-altitude-tips", date: "2026-03-15", featured: false },
+];
 
 export type SitemapEntry = {
   url: string;
@@ -103,14 +122,19 @@ export function buildPageSitemapEntries(): SitemapEntry[] {
     priority: path === "" ? 1 : path === "/blog" || path === "/countries" || path === "/cities" ? 0.9 : 0.8,
   }));
 
-  const collectionRoutes = collections.map((c) => ({
-    url: `${base}/collections/${c.slug}`,
+  const collectionRoutes = COLLECTION_SLUGS.map((slug) => ({
+    url: `${base}/collections/${slug}`,
     lastModified: now,
     changeFrequency: "monthly" as const,
     priority: 0.65,
   }));
 
-  const articleRoutes = articles.map((a) => ({
+  const articleMeta = [
+    ...destinationGuides.map((a) => ({ slug: a.slug, date: a.date, featured: !!a.featured })),
+    ...LEGACY_ARTICLES,
+    ...listTop100GuideSitemapEntries(),
+  ];
+  const articleRoutes = articleMeta.map((a) => ({
     url: `${base}/blog/${a.slug}`,
     lastModified: new Date(a.date),
     changeFrequency: "weekly" as const,
@@ -164,18 +188,18 @@ export function buildCitySitemapEntries(): SitemapEntry[] {
   const base = siteConfig.url;
   const now = SITEMAP_CONTENT_DATE;
   return dedupe(
-    cities.map((c) => ({
-      url: `${base}/cities/${c.slug}`,
+    citySitemapSlugs.map((slug) => ({
+      url: `${base}/cities/${slug}`,
       lastModified: now,
       changeFrequency: "weekly" as const,
-      priority: c.featured ? 0.85 : isCityIndexable(c) ? 0.7 : 0.55,
+      priority: 0.7,
     })),
   );
 }
 
 /**
- * Public URLs for Google. Every city, country, visa page, blog post,
- * collection and attraction is listed so crawlers can discover the full site.
+ * Public URLs for Google. sitemap.xml is the full urlset (so Search Console
+ * URL counts go up). Child sitemaps repeat subsets for crawlers that prefer split files.
  */
 export function buildFullSitemapEntries(): SitemapEntry[] {
   return dedupe([...buildPageSitemapEntries(), ...buildCountrySitemapEntries(), ...buildCitySitemapEntries()]);

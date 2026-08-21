@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { CalendarDays, Clock, MapPin } from "lucide-react";
 import { TOP_100_CITIES, top100ByRegion } from "@/data/top-100-cities";
+import { getTop100GuideLink } from "@/data/top100-city-guides";
 import {
   TOP_100_REGIONS,
   TOP_100_REGION_META,
@@ -138,9 +139,9 @@ export default function Top100CitiesArticlePage() {
             <h2 className="font-display text-2xl font-bold tracking-tight">How to use this list</h2>
             <p className="mt-3 text-lg leading-relaxed text-muted-foreground">
               Pick one primary city for a first visit, then add one complementary stop in the same
-              region (for example Tokyo + Kyoto, Rome + Florence, Dubai + Abu Dhabi). Open each city
-              guide for daily budgets, best time to visit and itinerary ideas. Compare countries on
-              our Compare tool when you are deciding between regions.
+              region (for example Tokyo + Kyoto, Rome + Florence, Dubai + Abu Dhabi). Each city has
+              a live destination page plus a separate 5–15 day itinerary post with trip cost and
+              FAQs. Compare countries on our Compare tool when you are deciding between regions.
             </p>
           </div>
 
@@ -158,6 +159,17 @@ export default function Top100CitiesArticlePage() {
                       <Link href={`/cities/${c.slug}`} className="font-semibold text-primary hover:underline">
                         #{c.rank} {c.name}
                       </Link>
+                      {(() => {
+                        const guide = getTop100GuideLink(c.slug);
+                        return guide ? (
+                          <>
+                            <span className="text-muted-foreground"> · </span>
+                            <Link href={`/blog/${guide.articleSlug}`} className="text-primary hover:underline">
+                              {guide.days}-day plan
+                            </Link>
+                          </>
+                        ) : null;
+                      })()}
                       <span className="text-muted-foreground">
                         {" "}
                         ·{" "}
@@ -215,12 +227,22 @@ export default function Top100CitiesArticlePage() {
                       ))}
                     </p>
                   </div>
-                  <Link
-                    href={`/cities/${c.slug}`}
-                    className="hidden self-center text-xs font-semibold text-primary hover:underline sm:inline"
-                  >
-                    City guide →
-                  </Link>
+                  <span className="hidden self-center text-right text-xs font-semibold sm:block">
+                    <Link href={`/cities/${c.slug}`} className="text-primary hover:underline">
+                      City guide
+                    </Link>
+                    {(() => {
+                      const guide = getTop100GuideLink(c.slug);
+                      return guide ? (
+                        <>
+                          <span className="text-muted-foreground"> · </span>
+                          <Link href={`/blog/${guide.articleSlug}`} className="text-primary hover:underline">
+                            {guide.days}-day plan
+                          </Link>
+                        </>
+                      ) : null;
+                    })()}
+                  </span>
                 </li>
               ))}
             </ol>

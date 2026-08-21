@@ -1,8 +1,11 @@
+import Link from "next/link";
 import { PageHero } from "@/components/shared/page-hero";
 import { ArticleCard } from "@/components/shared/article-card";
 import { AdSlot } from "@/components/shared/ad-slot";
 import { Stagger, StaggerItem } from "@/components/ui/reveal";
-import { articles } from "@/data/content";
+import { articles, top100CityGuides } from "@/data/content";
+import { getTop100GuideLink } from "@/data/top100-city-guides";
+import { TOP_100_CITIES } from "@/data/top-100-cities";
 import { buildMetadata } from "@/lib/seo";
 import { siteConfig } from "@/lib/config";
 
@@ -24,7 +27,9 @@ export const metadata = {
 };
 
 export default function BlogPage() {
-  const [featured, ...rest] = articles;
+  const cityGuideSlugs = new Set(top100CityGuides.map((a) => a.slug));
+  const editorial = articles.filter((a) => !cityGuideSlugs.has(a.slug));
+  const [featured, ...rest] = editorial;
 
   return (
     <>
@@ -48,6 +53,38 @@ export default function BlogPage() {
             </StaggerItem>
           ))}
         </Stagger>
+
+        <section className="mt-16">
+          <h2 className="font-display text-3xl font-bold tracking-tight">
+            Top 100 city itineraries
+          </h2>
+          <p className="mt-3 max-w-2xl text-muted-foreground">
+            A separate 5–15 day plan and trip-cost guide for each city on our 2026 ranking —
+            the same format as our Bali, Dubai, London and Paris itineraries.
+          </p>
+          <ul className="mt-8 grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
+            {TOP_100_CITIES.map((c) => {
+              const link = getTop100GuideLink(c.slug);
+              if (!link) return null;
+              return (
+                <li key={c.slug}>
+                  <Link
+                    href={`/blog/${link.articleSlug}`}
+                    className="flex items-baseline justify-between gap-3 rounded-2xl border border-border bg-card px-4 py-3 text-sm shadow-soft hover:border-primary/40"
+                  >
+                    <span>
+                      <span className="font-semibold">{c.name}</span>
+                      <span className="text-muted-foreground"> · {c.country}</span>
+                    </span>
+                    <span className="shrink-0 text-xs font-semibold text-primary">
+                      {link.days} days
+                    </span>
+                  </Link>
+                </li>
+              );
+            })}
+          </ul>
+        </section>
 
         <AdSlot slot="blog-list" className="mt-12 min-h-[140px]" />
       </div>

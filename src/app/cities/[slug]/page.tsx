@@ -39,6 +39,7 @@ import { WeatherNow } from "@/components/tools/weather-now";
 import { ClimateChart } from "@/components/tools/climate-chart";
 import { BudgetCalculator } from "@/components/tools/budget-calculator";
 import { calculatorDefaultsForCity } from "@/lib/travel-budgets";
+import { getTop100GuideLink } from "@/data/top100-city-guides";
 import { Badge } from "@/components/ui/badge";
 import { Reveal } from "@/components/ui/reveal";
 import {
@@ -140,6 +141,7 @@ export default async function CityPage({
   const { slug } = await params;
   const city = getCity(slug);
   if (!city) notFound();
+  const itineraryGuide = getTop100GuideLink(city.slug);
 
   const country = getCountry(city.countrySlug);
   const cityAttractions = getAttractionsByCity(city.slug);
@@ -342,7 +344,25 @@ export default async function CityPage({
               <div className="mt-8">
                 <ItineraryPlanner days={city.itinerary} />
               </div>
+              {itineraryGuide && (
+                <p className="mt-4 text-sm text-muted-foreground">
+                  Prefer a full {itineraryGuide.days}-day trip with costs and FAQs? Read the{" "}
+                  <Link href={`/blog/${itineraryGuide.articleSlug}`} className="font-semibold text-primary hover:underline">
+                    {city.name} itinerary guide
+                  </Link>
+                  .
+                </p>
+              )}
             </div>
+          )}
+          {city.itinerary.length === 0 && itineraryGuide && (
+            <p className="rounded-2xl border border-border bg-card px-5 py-4 text-sm text-muted-foreground shadow-soft">
+              Planning a longer stay? Open the{" "}
+              <Link href={`/blog/${itineraryGuide.articleSlug}`} className="font-semibold text-primary hover:underline">
+                {itineraryGuide.days}-day {city.name} itinerary
+              </Link>{" "}
+              for a day-by-day plan, trip cost and FAQs.
+            </p>
           )}
 
           {/* Trip cost */}

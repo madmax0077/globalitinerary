@@ -56,8 +56,16 @@ export default async function ArticlePage({
   const article = getArticle(slug);
   if (!article) notFound();
 
-  const related = articles.filter((a) => a.slug !== article.slug).slice(0, 3);
   const tagSet = new Set(article.tags.map((t) => t.toLowerCase()));
+  const related = articles
+    .filter((a) => a.slug !== article.slug)
+    .map((a) => ({
+      a,
+      score: a.tags.filter((t) => tagSet.has(t.toLowerCase())).length + (a.featured ? 0.5 : 0),
+    }))
+    .sort((x, y) => y.score - x.score)
+    .slice(0, 3)
+    .map((x) => x.a);
   const relatedCountries = countries
     .filter((c) => tagSet.has(c.name.toLowerCase()) || tagSet.has(c.continent.toLowerCase()))
     .slice(0, 4);

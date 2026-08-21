@@ -15,7 +15,10 @@ function escapeXml(value: string): string {
 /** RSS feed for blog discovery (Google / Feedly / aggregators). */
 export async function GET() {
   const items = [...articles]
-    .sort((a, b) => +new Date(b.date) - +new Date(a.date))
+    .sort((a, b) => {
+      if (!!a.featured !== !!b.featured) return a.featured ? -1 : 1;
+      return +new Date(b.date) - +new Date(a.date);
+    })
     .slice(0, 40)
     .map((a) => {
       const link = `${siteConfig.url}/blog/${a.slug}`;
