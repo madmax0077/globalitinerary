@@ -13,6 +13,9 @@ export type SitemapEntry = {
   priority: number;
 };
 
+/** Bump this when city/country content is bulk-updated so crawlers see a new lastmod. */
+export const SITEMAP_CONTENT_DATE = new Date("2026-08-21T00:00:00.000Z");
+
 function escapeXml(value: string): string {
   return value
     .replace(/&/g, "&amp;")
@@ -20,6 +23,15 @@ function escapeXml(value: string): string {
     .replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;")
     .replace(/'/g, "&apos;");
+}
+
+function dedupe(entries: SitemapEntry[]): SitemapEntry[] {
+  const seen = new Set<string>();
+  return entries.filter((entry) => {
+    if (seen.has(entry.url)) return false;
+    seen.add(entry.url);
+    return true;
+  });
 }
 
 export function entriesToUrlsetXml(entries: SitemapEntry[]): string {
@@ -42,13 +54,27 @@ ${body}
 `;
 }
 
-/**
- * Public URLs for Google. Every city, country, visa page, blog post,
- * collection and attraction is listed so crawlers can discover the full site.
- */
-export function buildFullSitemapEntries(): SitemapEntry[] {
+export function sitemapIndexXml(locs: { loc: string; lastModified: Date }[]): string {
+  const body = locs
+    .map((item) => {
+      const lastmod = item.lastModified.toISOString().slice(0, 10);
+      return `  <sitemap>
+    <loc>${escapeXml(item.loc)}</loc>
+    <lastmod>${lastmod}</lastmod>
+  </sitemap>`;
+    })
+    .join("\n");
+
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${body}
+</sitemapindex>
+`;
+}
+
+export function buildPageSitemapEntries(): SitemapEntry[] {
   const base = siteConfig.url;
-  const now = new Date();
+  const now = SITEMAP_CONTENT_DATE;
 
   const staticRoutes = [
     "",
@@ -105,6 +131,13 @@ export function buildFullSitemapEntries(): SitemapEntry[] {
     priority: 0.7,
   }));
 
+  return dedupe([...staticRoutes, rssRoute, ...collectionRoutes, ...articleRoutes, ...attractionRoutes]);
+}
+
+export function buildCountrySitemapEntries(): SitemapEntry[] {
+  const base = siteConfig.url;
+  const now = SITEMAP_CONTENT_DATE;
+
   const countryRoutes = countries.map((c) => ({
     url: `${base}/countries/${c.slug}`,
     lastModified: now,
@@ -124,32 +157,42 @@ export function buildFullSitemapEntries(): SitemapEntry[] {
       priority: 0.7,
     }));
 
-  const cityRoutes = cities.map((c) => ({
-    url: `${base}/cities/${c.slug}`,
-    lastModified: now,
-    changeFrequency: "weekly" as const,
-    priority: c.featured ? 0.85 : isCityIndexable(c) ? 0.7 : 0.55,
-  }));
+  return dedupe([...countryRoutes, ...visaRoutes]);
+}
 
-  const seen = new Set<string>();
-  return [
-    ...staticRoutes,
-    rssRoute,
-    ...collectionRoutes,
-    ...articleRoutes,
-    ...attractionRoutes,
-    ...countryRoutes,
-    ...visaRoutes,
-    ...cityRoutes,
-  ].filter((entry) => {
-    if (seen.has(entry.url)) return false;
-    seen.add(entry.url);
-    return true;
-  });
+export function buildCitySitemapEntries(): SitemapEntry[] {
+  const base = siteConfig.url;
+  const now = SITEMAP_CONTENT_DATE;
+  return dedupe(
+    cities.map((c) => ({
+      url: `${base}/cities/${c.slug}`,
+      lastModified: now,
+      changeFrequency: "weekly" as const,
+      priority: c.featured ? 0.85 : isCityIndexable(c) ? 0.7 : 0.55,
+    })),
+  );
+}
+
+/**
+ * Public URLs for Google. Every city, country, visa page, blog post,
+ * collection and attraction is listed so crawlers can discover the full site.
+ */
+export function buildFullSitemapEntries(): SitemapEntry[] {
+  return dedupe([...buildPageSitemapEntries(), ...buildCountrySitemapEntries(), ...buildCitySitemapEntries()]);
 }
 
 export function buildFullSitemapXml(): string {
   return entriesToUrlsetXml(buildFullSitemapEntries());
+}
+
+export function buildSitemapIndexXml(): string {
+  const base = siteConfig.url;
+  const lastModified = SITEMAP_CONTENT_DATE;
+  return sitemapIndexXml([
+    { loc: `${base}/sitemap-pages.xml`, lastModified },
+    { loc: `${base}/sitemap-countries.xml`, lastModified },
+    { loc: `${base}/sitemap-cities.xml`, lastModified },
+  ]);
 }
 
 export const sitemapXmlHeaders = {

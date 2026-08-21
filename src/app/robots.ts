@@ -16,7 +16,12 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ["/admin", "/api/", "/favorites"],
       },
     ],
-    sitemap: `${siteConfig.url}/sitemap.xml`,
+    sitemap: [
+      `${siteConfig.url}/sitemap.xml`,
+      `${siteConfig.url}/sitemap-cities.xml`,
+      `${siteConfig.url}/sitemap-countries.xml`,
+      `${siteConfig.url}/sitemap-pages.xml`,
+    ],
     host: siteConfig.url,
   };
 }
