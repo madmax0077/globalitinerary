@@ -15,16 +15,18 @@ const trending = [
   { label: "Dubai", href: "/cities/dubai" },
 ];
 
-const stats = [
-  { value: "195", label: "Countries" },
-  { value: "1,700+", label: "City guides" },
-  { value: "6", label: "Continents" },
-  { value: "Free", label: "To explore" },
-];
+function heroStats(cityCount: number) {
+  return [
+    { value: "195", label: "Countries" },
+    { value: `${cityCount.toLocaleString()}+`, label: "City guides" },
+    { value: "6", label: "Continents" },
+    { value: "Free", label: "To explore" },
+  ];
+}
 
 const ease = [0.22, 1, 0.36, 1] as const;
 
-export function Hero() {
+export function Hero({ cityCount }: { cityCount: number }) {
   return (
     <section className="relative flex min-h-[100svh] items-center overflow-hidden">
       {/* Background */}
@@ -118,7 +120,7 @@ export function Hero() {
           transition={{ duration: 0.7, delay: 0.4, ease }}
           className="mt-16 grid max-w-2xl grid-cols-2 gap-4 sm:grid-cols-4"
         >
-          {stats.map((s) => (
+          {heroStats(cityCount).map((s) => (
             <div
               key={s.label}
               className="rounded-2xl bg-white/10 p-4 text-white backdrop-blur-md ring-1 ring-white/15"

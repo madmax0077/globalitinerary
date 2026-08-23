@@ -17,6 +17,7 @@ import { countries } from "@/data/countries";
 import { cities } from "@/data/cities";
 import { attractions } from "@/data/attractions";
 import { articles } from "@/data/content";
+import { citySitemapSlugs } from "@/data/city-sitemap-slugs.generated";
 import { buildMetadata, JsonLd, organizationJsonLd, websiteJsonLd } from "@/lib/seo";
 
 export const metadata = buildMetadata({
@@ -44,14 +45,14 @@ function Section({
   );
 }
 
-const worldStats = [
-  { value: 195, suffix: "", label: "Countries covered" },
-  { value: 1700, suffix: "+", label: "City guides" },
-  { value: 20, suffix: "+", label: "Travel guides & itineraries" },
-  { value: 6, suffix: "", label: "Continents" },
-];
-
 export default function Home() {
+  const cityGuideCount = citySitemapSlugs.length;
+  const worldStats = [
+    { value: 195, suffix: "", label: "Countries covered" },
+    { value: cityGuideCount, suffix: "+", label: "City guides" },
+    { value: 20, suffix: "+", label: "Travel guides & itineraries" },
+    { value: 6, suffix: "", label: "Continents" },
+  ];
   const trendingCountries = countries.filter((c) => c.trending);
   const featuredCities = cities.filter((c) => c.featured).slice(0, 8);
   const featuredAttractions = attractions.filter((a) => a.featured);
@@ -60,7 +61,7 @@ export default function Home() {
   return (
     <>
       <JsonLd data={[organizationJsonLd(), websiteJsonLd()]} />
-      <Hero />
+      <Hero cityCount={cityGuideCount} />
 
       {/* Trending countries */}
       <Section>
