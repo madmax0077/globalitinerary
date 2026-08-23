@@ -1,0 +1,509 @@
+# Top tourism cities beyond uniqueTop3000. Format:
+# slug|name|countrySlug|CC|countryName|lat|lng|timezone|population|isCapital|wikiTitle?
+amelia|Amelia|italy|IT|Italy|42.5589|12.4120|Europe/Rome|0|0|Amelia, Umbria
+sutri|Sutri|italy|IT|Italy|42.2333|12.2833|Europe/Rome|0|0
+tuscania|Tuscania|italy|IT|Italy|42.4183|11.8708|Europe/Rome|0|0
+tarquinia|Tarquinia|italy|IT|Italy|42.2492|11.7561|Europe/Rome|0|0
+cerveteri|Cerveteri|italy|IT|Italy|42.0075|12.1050|Europe/Rome|0|0
+bracciano|Bracciano|italy|IT|Italy|42.1000|12.1833|Europe/Rome|0|0
+tivoli|Tivoli|italy|IT|Italy|41.9597|12.7981|Europe/Rome|0|0|Tivoli, Lazio
+anagni|Anagni|italy|IT|Italy|41.7422|13.1583|Europe/Rome|0|0
+fiuggi|Fiuggi|italy|IT|Italy|41.8000|13.2167|Europe/Rome|0|0
+alatri|Alatri|italy|IT|Italy|41.7264|13.3422|Europe/Rome|0|0
+gaeta|Gaeta|italy|IT|Italy|41.2167|13.5667|Europe/Rome|0|0
+sperlonga|Sperlonga|italy|IT|Italy|41.2667|13.4333|Europe/Rome|0|0
+formia|Formia|italy|IT|Italy|41.2564|13.6069|Europe/Rome|0|0
+terracina|Terracina|italy|IT|Italy|41.2833|13.2500|Europe/Rome|0|0
+sabaudia|Sabaudia|italy|IT|Italy|41.3014|13.0261|Europe/Rome|0|0
+vasto|Vasto|italy|IT|Italy|42.1167|14.7069|Europe/Rome|0|0
+giulianova|Giulianova|italy|IT|Italy|42.7500|13.9500|Europe/Rome|0|0
+roccaraso|Roccaraso|italy|IT|Italy|41.8511|14.0792|Europe/Rome|0|0
+pescocostanzo|Pescocostanzo|italy|IT|Italy|41.8872|14.0664|Europe/Rome|0|0
+pacentro|Pacentro|italy|IT|Italy|42.0504|13.9915|Europe/Rome|0|0
+termoli|Termoli|italy|IT|Italy|42.0028|14.9947|Europe/Rome|0|0
+agnone|Agnone|italy|IT|Italy|41.8104|14.3785|Europe/Rome|0|0
+isernia|Isernia|italy|IT|Italy|41.6028|14.2397|Europe/Rome|0|0
+sciacca|Sciacca|italy|IT|Italy|37.5092|13.0889|Europe/Rome|0|0
+piazza-armerina|Piazza Armerina|italy|IT|Italy|37.3833|14.3667|Europe/Rome|0|0
+caltagirone|Caltagirone|italy|IT|Italy|37.2375|14.5125|Europe/Rome|0|0
+enna|Enna|italy|IT|Italy|37.5633|14.2761|Europe/Rome|0|0
+castelbuono|Castelbuono|italy|IT|Italy|37.9333|14.1000|Europe/Rome|0|0
+bosa|Bosa|italy|IT|Italy|40.2990|8.4978|Europe/Rome|0|0
+castelsardo|Castelsardo|italy|IT|Italy|40.9144|8.7128|Europe/Rome|0|0
+stintino|Stintino|italy|IT|Italy|40.9378|8.2276|Europe/Rome|0|0
+carloforte|Carloforte|italy|IT|Italy|39.1450|8.3054|Europe/Rome|0|0
+sant-antioco|Sant'Antioco|italy|IT|Italy|39.0350|8.4125|Europe/Rome|0|0
+dorgali|Dorgali|italy|IT|Italy|40.2916|9.5876|Europe/Rome|0|0
+arbatax|Arbatax|italy|IT|Italy|39.9270|9.7020|Europe/Rome|0|0
+baunei|Baunei|italy|IT|Italy|40.0309|9.6643|Europe/Rome|0|0
+santa-maria-navarrese|Santa Maria Navarrese|italy|IT|Italy|39.9889|9.6889|Europe/Rome|0|0
+les-eyzies|Les Eyzies|france|FR|France|44.9360|1.0180|Europe/Paris|0|0
+montignac|Montignac-Lascaux|france|FR|France|45.0675|1.1622|Europe/Paris|0|0
+autoire|Autoire|france|FR|France|44.8553|1.8200|Europe/Paris|0|0
+loubressac|Loubressac|france|FR|France|44.8720|1.8038|Europe/Paris|0|0
+carennac|Carennac|france|FR|France|44.9194|1.7331|Europe/Paris|0|0
+martel|Martel|france|FR|France|44.9378|1.6097|Europe/Paris|0|0|Martel, Lot
+souillac|Souillac|france|FR|France|44.9006|1.4790|Europe/Paris|0|0|Souillac, Lot
+chenonceaux|Chenonceaux|france|FR|France|47.3331|1.0692|Europe/Paris|0|0
+langeais|Langeais|france|FR|France|47.3267|0.4069|Europe/Paris|0|0
+fontevraud|Fontevraud-l'Abbaye|france|FR|France|47.1831|0.0506|Europe/Paris|0|0
+vendome|Vendôme|france|FR|France|47.7936|1.0664|Europe/Paris|0|0
+beaugency|Beaugency|france|FR|France|47.7792|1.6325|Europe/Paris|0|0
+les-gets|Les Gets|france|FR|France|46.1606|6.6708|Europe/Paris|0|0
+samoens|Samoëns|france|FR|France|46.0847|6.7281|Europe/Paris|0|0
+bonifacio|Bonifacio|france|FR|France|41.3868|9.1569|Europe/Paris|0|0|Bonifacio, Corse-du-Sud
+calvi|Calvi|france|FR|France|42.5686|8.7569|Europe/Paris|0|0|Calvi, Haute-Corse
+corte|Corte|france|FR|France|42.3064|9.1514|Europe/Paris|0|0|Corte, Haute-Corse
+porto-vecchio|Porto-Vecchio|france|FR|France|41.5917|9.2803|Europe/Paris|0|0
+sartene|Sartène|france|FR|France|41.6217|8.9742|Europe/Paris|0|0
+ile-rousse|L'Île-Rousse|france|FR|France|42.6356|8.9381|Europe/Paris|0|0
+deia|Deià|spain|ES|Spain|39.7500|2.6500|Europe/Madrid|0|0
+valldemossa|Valldemossa|spain|ES|Spain|39.7117|2.6226|Europe/Madrid|0|0
+pollenca|Pollença|spain|ES|Spain|39.8772|3.0164|Europe/Madrid|0|0
+arta-mallorca|Artà|spain|ES|Spain|39.7000|3.3500|Europe/Madrid|0|0
+santanyi|Santanyí|spain|ES|Spain|39.3542|3.1283|Europe/Madrid|0|0
+andratx|Andratx|spain|ES|Spain|39.5833|2.4167|Europe/Madrid|0|0
+ciutadella|Ciutadella de Menorca|spain|ES|Spain|40.0014|3.8364|Europe/Madrid|0|0
+mao-menorca|Maó|spain|ES|Spain|39.8875|4.2611|Europe/Madrid|0|0|Mahón
+fornells|Fornells|spain|ES|Spain|40.0556|4.1306|Europe/Madrid|0|0|Fornells, Menorca
+hondarribia|Hondarribia|spain|ES|Spain|43.3667|-1.7958|Europe/Madrid|0|0
+getaria|Getaria|spain|ES|Spain|43.3044|-2.2036|Europe/Madrid|0|0|Getaria, Spain
+zarautz|Zarautz|spain|ES|Spain|43.2833|-2.1667|Europe/Madrid|0|0
+lekeitio|Lekeitio|spain|ES|Spain|43.3639|-2.5049|Europe/Madrid|0|0
+bermeo|Bermeo|spain|ES|Spain|43.4200|-2.7264|Europe/Madrid|0|0
+mundaka|Mundaka|spain|ES|Spain|43.4072|-2.6983|Europe/Madrid|0|0
+guernica|Gernika-Lumo|spain|ES|Spain|43.3167|-2.6667|Europe/Madrid|0|0|Guernica
+elciego|Elciego|spain|ES|Spain|42.5167|-2.6167|Europe/Madrid|0|0
+baiona|Baiona|spain|ES|Spain|42.1178|-8.8506|Europe/Madrid|0|0|Baiona, Pontevedra
+tui|Tui|spain|ES|Spain|42.0481|-8.6444|Europe/Madrid|0|0|Tui, Pontevedra
+allariz|Allariz|spain|ES|Spain|42.1833|-7.8000|Europe/Madrid|0|0
+ribadavia|Ribadavia|spain|ES|Spain|42.2833|-8.1333|Europe/Madrid|0|0
+velas|Velas|portugal|PT|Portugal|38.6819|-28.2092|Europe/Lisbon|0|0|Velas, Azores
+machico|Machico|portugal|PT|Portugal|32.7000|-16.7667|Europe/Lisbon|0|0|Machico, Madeira
+camara-de-lobos|Câmara de Lobos|portugal|PT|Portugal|32.6953|-16.9781|Europe/Lisbon|0|0
+ribeira-brava|Ribeira Brava|portugal|PT|Portugal|32.6833|-17.0500|Europe/Lisbon|0|0|Ribeira Brava, Madeira
+tilos|Tilos|greece|GR|Greece|36.4333|27.3667|Europe/Athens|0|0
+kasos|Kasos|greece|GR|Greece|35.3975|26.9250|Europe/Athens|0|0
+chalki|Chalki|greece|GR|Greece|36.2333|27.5667|Europe/Athens|0|0|Halki (Greece)
+kastellorizo|Kastellorizo|greece|GR|Greece|36.1450|29.5850|Europe/Athens|0|0
+kythira|Kythira|greece|GR|Greece|36.2575|22.9975|Europe/Athens|0|0
+elafonisos|Elafonisos|greece|GR|Greece|36.4875|22.9625|Europe/Athens|0|0
+poros|Poros|greece|GR|Greece|37.5167|23.4833|Europe/Athens|0|0
+aegina|Aegina|greece|GR|Greece|37.7300|23.4900|Europe/Athens|0|0
+agistri|Agistri|greece|GR|Greece|37.6950|23.3500|Europe/Athens|0|0
+painswick|Painswick|united-kingdom|GB|United Kingdom|51.7860|-2.1940|Europe/London|0|0
+tetbury|Tetbury|united-kingdom|GB|United Kingdom|51.6360|-2.1580|Europe/London|0|0
+moreton-in-marsh|Moreton-in-Marsh|united-kingdom|GB|United Kingdom|51.9880|-1.7010|Europe/London|0|0
+winchcombe|Winchcombe|united-kingdom|GB|United Kingdom|51.9550|-1.9650|Europe/London|0|0
+frome|Frome|united-kingdom|GB|United Kingdom|51.2280|-2.3240|Europe/London|0|0
+wells-somerset|Wells|united-kingdom|GB|United Kingdom|51.2094|-2.6450|Europe/London|0|0|Wells, Somerset
+glastonbury|Glastonbury|united-kingdom|GB|United Kingdom|51.1475|-2.7175|Europe/London|0|0
+sherborne|Sherborne|united-kingdom|GB|United Kingdom|50.9469|-2.5171|Europe/London|0|0
+shaftesbury|Shaftesbury|united-kingdom|GB|United Kingdom|51.0059|-2.1969|Europe/London|0|0
+sidmouth|Sidmouth|united-kingdom|GB|United Kingdom|50.6800|-3.2390|Europe/London|0|0
+marazion|Marazion|united-kingdom|GB|United Kingdom|50.1250|-5.4760|Europe/London|0|0
+st-mawes|St Mawes|united-kingdom|GB|United Kingdom|50.1580|-5.0180|Europe/London|0|0
+cashel|Cashel|ireland|IE|Ireland|52.5167|-7.8894|Europe/Dublin|0|0|Cashel, County Tipperary
+sneem|Sneem|ireland|IE|Ireland|51.8384|-9.8998|Europe/Dublin|0|0
+ballyvaughan|Ballyvaughan|ireland|IE|Ireland|53.1156|-9.1494|Europe/Dublin|0|0
+kinvara|Kinvara|ireland|IE|Ireland|53.1390|-8.9380|Europe/Dublin|0|0
+dunfanaghy|Dunfanaghy|ireland|IE|Ireland|55.1830|-7.9710|Europe/Dublin|0|0
+ardara|Ardara|ireland|IE|Ireland|54.7667|-8.4000|Europe/Dublin|0|0|Ardara, County Donegal
+bantry|Bantry|ireland|IE|Ireland|51.6798|-9.4532|Europe/Dublin|0|0
+schull|Schull|ireland|IE|Ireland|51.5266|-9.5481|Europe/Dublin|0|0
+beilstein|Beilstein|germany|DE|Germany|50.1103|7.2394|Europe/Berlin|0|0|Beilstein, Rhineland-Palatinate
+oberwesel|Oberwesel|germany|DE|Germany|50.1075|7.7264|Europe/Berlin|0|0
+st-goarshausen|Sankt Goarshausen|germany|DE|Germany|50.1547|7.7153|Europe/Berlin|0|0
+kobern|Kobern-Gondorf|germany|DE|Germany|50.3047|7.4572|Europe/Berlin|0|0
+alf|Alf|germany|DE|Germany|50.0564|7.1247|Europe/Berlin|0|0|Alf, Rhineland-Palatinate
+traben-trarbach|Traben-Trarbach|germany|DE|Germany|49.9511|7.1167|Europe/Berlin|0|0
+bernkastel|Bernkastel-Kues|germany|DE|Germany|49.9161|7.0694|Europe/Berlin|0|0
+neef|Neef|germany|DE|Germany|50.0917|7.1392|Europe/Berlin|0|0
+ediger|Ediger-Eller|germany|DE|Germany|50.0981|7.1508|Europe/Berlin|0|0
+kröv|Kröv|germany|DE|Germany|49.9776|7.0846|Europe/Berlin|0|0
+pirna|Pirna|germany|DE|Germany|50.9622|13.9403|Europe/Berlin|0|0
+bad-schandau|Bad Schandau|germany|DE|Germany|50.9167|14.1500|Europe/Berlin|0|0
+konigstein-sachsen|Königstein|germany|DE|Germany|50.9189|14.0714|Europe/Berlin|0|0|Königstein, Saxony
+thale|Thale|germany|DE|Germany|51.7500|11.0500|Europe/Berlin|0|0
+blankenburg|Blankenburg|germany|DE|Germany|51.7953|10.9622|Europe/Berlin|0|0|Blankenburg (Harz)
+schierke|Schierke|germany|DE|Germany|51.7639|10.6647|Europe/Berlin|0|0
+braunlage|Braunlage|germany|DE|Germany|51.7269|10.6119|Europe/Berlin|0|0
+clausthal-zellerfeld|Clausthal-Zellerfeld|germany|DE|Germany|51.8050|10.3356|Europe/Berlin|0|0
+grainau|Grainau|germany|DE|Germany|47.4761|11.0247|Europe/Berlin|0|0
+ettenheim|Ettenheim|germany|DE|Germany|48.2556|7.8119|Europe/Berlin|0|0
+gengenbach|Gengenbach|germany|DE|Germany|48.4000|8.0167|Europe/Berlin|0|0
+haslach|Haslach|germany|DE|Germany|48.2778|8.0869|Europe/Berlin|0|0|Haslach im Kinzigtal
+wolfach|Wolfach|germany|DE|Germany|48.3000|8.2167|Europe/Berlin|0|0
+schluchsee|Schluchsee|germany|DE|Germany|47.8214|8.1528|Europe/Berlin|0|0
+todtnau|Todtnau|germany|DE|Germany|47.8333|7.9500|Europe/Berlin|0|0
+staufen|Staufen im Breisgau|germany|DE|Germany|47.8814|7.7314|Europe/Berlin|0|0
+breisach|Breisach|germany|DE|Germany|48.0333|7.5833|Europe/Berlin|0|0
+strobl|Strobl|austria|AT|Austria|47.7167|13.4667|Europe/Vienna|0|0
+bad-aussee|Bad Aussee|austria|AT|Austria|47.6100|13.7828|Europe/Vienna|0|0
+altaussee|Altaussee|austria|AT|Austria|47.6100|13.7828|Europe/Vienna|0|0
+grundlsee|Grundlsee|austria|AT|Austria|47.6267|13.8375|Europe/Vienna|0|0
+bad-mitterndorf|Bad Mitterndorf|austria|AT|Austria|47.5550|13.9292|Europe/Vienna|0|0
+filzmoos|Filzmoos|austria|AT|Austria|47.4333|13.5167|Europe/Vienna|0|0
+radstadt|Radstadt|austria|AT|Austria|47.3833|13.4667|Europe/Vienna|0|0
+zell-am-ziller|Zell am Ziller|austria|AT|Austria|47.2331|11.8819|Europe/Vienna|0|0
+fugen|Fügen|austria|AT|Austria|47.3500|11.8333|Europe/Vienna|0|0
+schwaz|Schwaz|austria|AT|Austria|47.3500|11.7000|Europe/Vienna|0|0
+bad-goisern|Bad Goisern|austria|AT|Austria|47.6500|13.6167|Europe/Vienna|0|0|Bad Goisern am Hallstättersee
+ebensee|Ebensee|austria|AT|Austria|47.8083|13.7750|Europe/Vienna|0|0|Ebensee am Traunsee
+altmunster|Altmünster|austria|AT|Austria|47.9014|13.7514|Europe/Vienna|0|0
+trogen|Trogen|switzerland|CH|Switzerland|47.4000|9.4667|Europe/Zurich|0|0|Trogen, Switzerland
+herisau|Herisau|switzerland|CH|Switzerland|47.3833|9.2667|Europe/Zurich|0|0
+diessenhofen|Diessenhofen|switzerland|CH|Switzerland|47.6833|8.7500|Europe/Zurich|0|0
+rheinau|Rheinau|switzerland|CH|Switzerland|47.6500|8.6000|Europe/Zurich|0|0|Rheinau, Switzerland
+laufenburg|Laufenburg|switzerland|CH|Switzerland|47.5667|8.0667|Europe/Zurich|0|0|Laufenburg, Aargau
+aarau|Aarau|switzerland|CH|Switzerland|47.4000|8.0500|Europe/Zurich|0|0
+biel|Biel/Bienne|switzerland|CH|Switzerland|47.1333|7.2500|Europe/Zurich|0|0
+yverdon|Yverdon-les-Bains|switzerland|CH|Switzerland|46.7785|6.6408|Europe/Zurich|0|0
+rolle|Rolle|switzerland|CH|Switzerland|46.4500|6.3333|Europe/Zurich|0|0
+nyon-coppet|Coppet|switzerland|CH|Switzerland|46.3167|6.1917|Europe/Zurich|0|0
+bulle|Bulle|switzerland|CH|Switzerland|46.6167|7.0500|Europe/Zurich|0|0
+château-doeux|Château-d'Œx|switzerland|CH|Switzerland|46.4667|7.1167|Europe/Zurich|0|0
+saanen|Saanen|switzerland|CH|Switzerland|46.4833|7.2667|Europe/Zurich|0|0
+lenk|Lenk im Simmental|switzerland|CH|Switzerland|46.4500|7.4333|Europe/Zurich|0|0
+leukerbad|Leukerbad|switzerland|CH|Switzerland|46.3833|7.6333|Europe/Zurich|0|0
+saint-maurice|Saint-Maurice|switzerland|CH|Switzerland|46.2167|7.0000|Europe/Zurich|0|0|Saint-Maurice, Switzerland
+aigle|Aigle|switzerland|CH|Switzerland|46.3167|6.9667|Europe/Zurich|0|0
+bex|Bex|switzerland|CH|Switzerland|46.2500|7.0167|Europe/Zurich|0|0
+villars|Villars-sur-Ollon|switzerland|CH|Switzerland|46.2956|7.0556|Europe/Zurich|0|0
+leysin|Leysin|switzerland|CH|Switzerland|46.3333|7.0000|Europe/Zurich|0|0
+champéry|Champéry|switzerland|CH|Switzerland|46.1833|6.8667|Europe/Zurich|0|0
+morgins|Morgins|switzerland|CH|Switzerland|46.2382|6.8519|Europe/Zurich|0|0
+nendaz|Nendaz|switzerland|CH|Switzerland|46.1833|7.3000|Europe/Zurich|0|0
+le-chable|Le Châble|switzerland|CH|Switzerland|46.0833|7.2000|Europe/Zurich|0|0
+zinal|Zinal|switzerland|CH|Switzerland|46.1333|7.6167|Europe/Zurich|0|0
+grimentz|Grimentz|switzerland|CH|Switzerland|46.1808|7.5761|Europe/Zurich|0|0
+evolene|Evolène|switzerland|CH|Switzerland|46.1167|7.5000|Europe/Zurich|0|0
+alderney-st-anne|St Anne|guernsey|GG|Guernsey|49.7133|-2.2058|Europe/Guernsey|0|0|Saint Anne, Alderney
+sark|Sark|guernsey|GG|Guernsey|49.4331|-2.3608|Europe/Guernsey|0|0
+herm|Herm|guernsey|GG|Guernsey|49.4667|-2.4500|Europe/Guernsey|0|0
+onjuku|Onjuku|japan|JP|Japan|35.1915|140.3488|Asia/Tokyo|0|0
+katsuura-chiba|Katsuura|japan|JP|Japan|35.1500|140.3167|Asia/Tokyo|0|0|Katsuura, Chiba
+tateyama-chiba|Tateyama|japan|JP|Japan|34.9966|139.8700|Asia/Tokyo|0|0|Tateyama, Chiba
+kamogawa|Kamogawa|japan|JP|Japan|35.1140|140.0989|Asia/Tokyo|0|0|Kamogawa, Chiba
+choshi|Chōshi|japan|JP|Japan|35.7346|140.8268|Asia/Tokyo|0|0
+narita|Narita|japan|JP|Japan|35.7767|140.3183|Asia/Tokyo|0|0|Narita, Chiba
+sawara|Katori|japan|JP|Japan|35.8830|140.5000|Asia/Tokyo|0|0|Sawara, Chiba
+ashikaga|Ashikaga|japan|JP|Japan|36.3402|139.4497|Asia/Tokyo|0|0|Ashikaga, Tochigi
+mashiko|Mashiko|japan|JP|Japan|36.4673|140.0934|Asia/Tokyo|0|0|Mashiko, Tochigi
+shiobara|Nasushiobara|japan|JP|Japan|36.9617|140.0461|Asia/Tokyo|0|0
+naganohara|Naganohara|japan|JP|Japan|36.5523|138.6542|Asia/Tokyo|0|0
+minakami|Minakami|japan|JP|Japan|36.6786|138.9991|Asia/Tokyo|0|0|Minakami, Gunma
+ikaho|Shibukawa|japan|JP|Japan|36.3894|139.0633|Asia/Tokyo|0|0|Shibukawa, Gunma
+saku|Saku|japan|JP|Japan|36.2488|138.4769|Asia/Tokyo|0|0|Saku, Nagano
+komoro|Komoro|japan|JP|Japan|36.3275|138.4258|Asia/Tokyo|0|0|Komoro, Nagano
+ueda|Ueda|japan|JP|Japan|36.4019|138.2491|Asia/Tokyo|0|0|Ueda, Nagano
+suwa|Suwa|japan|JP|Japan|36.0391|138.1140|Asia/Tokyo|0|0|Suwa, Nagano
+okaya|Okaya|japan|JP|Japan|36.0671|138.0493|Asia/Tokyo|0|0|Okaya, Nagano
+shimo-suwa|Shimosuwa|japan|JP|Japan|36.0696|138.0802|Asia/Tokyo|0|0
+chino|Chino|japan|JP|Japan|35.9955|138.1588|Asia/Tokyo|0|0|Chino, Nagano
+azumino|Azumino|japan|JP|Japan|36.3039|137.9058|Asia/Tokyo|0|0
+omachi-nagano|Ōmachi|japan|JP|Japan|36.5030|137.8511|Asia/Tokyo|0|0|Ōmachi, Nagano
+itoigawa|Itoigawa|japan|JP|Japan|37.0390|137.8627|Asia/Tokyo|0|0
+joetsu|Jōetsu|japan|JP|Japan|37.1479|138.2361|Asia/Tokyo|0|0|Jōetsu, Niigata
+myoko|Myōkō|japan|JP|Japan|37.0252|138.2535|Asia/Tokyo|0|0|Myōkō, Niigata
+nozawa|Nozawaonsen|japan|JP|Japan|36.9228|138.4406|Asia/Tokyo|0|0
+otari|Otari|japan|JP|Japan|36.7791|137.9083|Asia/Tokyo|0|0|Otari, Nagano
+iida|Iida|japan|JP|Japan|35.5150|137.8214|Asia/Tokyo|0|0|Iida, Nagano
+ina-nagano|Ina|japan|JP|Japan|35.8275|137.9540|Asia/Tokyo|0|0|Ina, Nagano
+obama-fukui|Obama|japan|JP|Japan|35.4957|135.7466|Asia/Tokyo|0|0|Obama, Fukui
+tsuruga|Tsuruga|japan|JP|Japan|35.6452|136.0555|Asia/Tokyo|0|0|Tsuruga, Fukui
+awara|Awara|japan|JP|Japan|36.2113|136.2290|Asia/Tokyo|0|0|Awara, Fukui
+kaga-ishikawa|Kaga|japan|JP|Japan|36.3028|136.3150|Asia/Tokyo|0|0|Kaga, Ishikawa
+wajima|Wajima|japan|JP|Japan|37.3906|136.8992|Asia/Tokyo|0|0|Wajima, Ishikawa
+suzu|Suzu|japan|JP|Japan|37.4363|137.2605|Asia/Tokyo|0|0|Suzu, Ishikawa
+nanao|Nanao|japan|JP|Japan|37.0431|136.9674|Asia/Tokyo|0|0|Nanao, Ishikawa
+takaoka|Takaoka|japan|JP|Japan|36.7541|137.0257|Asia/Tokyo|0|0|Takaoka, Toyama
+kurobe|Kurobe|japan|JP|Japan|36.8667|137.4500|Asia/Tokyo|0|0|Kurobe, Toyama
+tateyama-toyama|Tateyama|japan|JP|Japan|36.6636|137.3137|Asia/Tokyo|0|0|Tateyama, Toyama
+maizuru|Maizuru|japan|JP|Japan|35.4667|135.3833|Asia/Tokyo|0|0
+toyooka|Toyooka|japan|JP|Japan|35.5500|134.8167|Asia/Tokyo|0|0|Toyooka, Hyōgo
+yumura|Shinonsen|japan|JP|Japan|35.6236|134.4489|Asia/Tokyo|0|0|Shin'onsen, Hyōgo
+tanabe|Tanabe|japan|JP|Japan|33.7333|135.3833|Asia/Tokyo|0|0|Tanabe, Wakayama
+kudoyama|Kudoyama|japan|JP|Japan|34.2833|135.5667|Asia/Tokyo|0|0
+nachikatsuura|Nachikatsuura|japan|JP|Japan|33.6333|135.9333|Asia/Tokyo|0|0
+shingu|Shingū|japan|JP|Japan|33.7167|136.0000|Asia/Tokyo|0|0|Shingū, Wakayama
+kumano|Kumano|japan|JP|Japan|33.8886|136.1002|Asia/Tokyo|0|0|Kumano, Mie
+owase|Owase|japan|JP|Japan|34.0708|136.1910|Asia/Tokyo|0|0
+shima|Shima|japan|JP|Japan|34.3333|136.8333|Asia/Tokyo|0|0|Shima, Mie
+geoje|Geoje|south-korea|KR|South Korea|34.8500|128.5833|Asia/Seoul|0|0
+namhae|Namhae|south-korea|KR|South Korea|34.8375|127.8922|Asia/Seoul|0|0|Namhae County
+hadong|Hadong|south-korea|KR|South Korea|35.0667|127.7500|Asia/Seoul|0|0|Hadong County
+gurye|Gurye|south-korea|KR|South Korea|35.2094|127.4644|Asia/Seoul|0|0|Gurye County
+jindo|Jindo|south-korea|KR|South Korea|34.4831|126.2619|Asia/Seoul|0|0|Jindo County
+wando|Wando|south-korea|KR|South Korea|34.3167|126.7500|Asia/Seoul|0|0|Wando County
+ulleung|Ulleung|south-korea|KR|South Korea|37.5011|130.8564|Asia/Seoul|0|0|Ulleungdo
+pocheon|Pocheon|south-korea|KR|South Korea|37.8947|127.2002|Asia/Seoul|0|0
+yangpyeong|Yangpyeong|south-korea|KR|South Korea|37.4833|127.5500|Asia/Seoul|0|0|Yangpyeong County
+yeoju|Yeoju|south-korea|KR|South Korea|37.3000|127.6333|Asia/Seoul|0|0
+icheon|Icheon|south-korea|KR|South Korea|37.2667|127.4333|Asia/Seoul|0|0
+yeongju|Yeongju|south-korea|KR|South Korea|36.8058|128.6239|Asia/Seoul|0|0
+bonghwa|Bonghwa|south-korea|KR|South Korea|36.8906|128.7365|Asia/Seoul|0|0|Bonghwa County
+yeongyang|Yeongyang|south-korea|KR|South Korea|36.6667|129.1122|Asia/Seoul|0|0|Yeongyang County
+uljin|Uljin|south-korea|KR|South Korea|37.0000|129.4000|Asia/Seoul|0|0|Uljin County
+samcheok|Samcheok|south-korea|KR|South Korea|37.4500|129.1650|Asia/Seoul|0|0
+donghae|Donghae|south-korea|KR|South Korea|37.5248|129.1143|Asia/Seoul|0|0|Donghae, Gangwon
+taebaek|Taebaek|south-korea|KR|South Korea|37.1678|128.9908|Asia/Seoul|0|0
+jeongseon|Jeongseon|south-korea|KR|South Korea|37.3792|128.6647|Asia/Seoul|0|0|Jeongseon County
+inje|Inje|south-korea|KR|South Korea|38.0667|128.1667|Asia/Seoul|0|0|Inje County
+goseong-gangwon|Goseong|south-korea|KR|South Korea|38.3810|128.4696|Asia/Seoul|0|0|Goseong County, Gangwon
+san-vicente-palawan|San Vicente|philippines|PH|Philippines|10.5281|119.2542|Asia/Manila|0|0|San Vicente, Palawan
+siquijor|Siquijor|philippines|PH|Philippines|9.1800|123.5800|Asia/Manila|0|0
+bacolod|Bacolod|philippines|PH|Philippines|10.6765|122.9509|Asia/Manila|0|0
+boracay-caticlan|Malay|philippines|PH|Philippines|11.8997|121.9094|Asia/Manila|0|0|Malay, Aklan
+kalibo|Kalibo|philippines|PH|Philippines|11.7072|122.3700|Asia/Manila|0|0
+roxas-capiz|Roxas|philippines|PH|Philippines|11.5894|122.7511|Asia/Manila|0|0|Roxas City
+puerto-galera|Puerto Galera|philippines|PH|Philippines|13.5000|120.9542|Asia/Manila|0|0
+san-juan-la-union|San Juan|philippines|PH|Philippines|16.6700|120.3300|Asia/Manila|0|0|San Juan, La Union
+laoag|Laoag|philippines|PH|Philippines|18.1978|120.5936|Asia/Manila|0|0
+pagudpud|Pagudpud|philippines|PH|Philippines|18.5614|120.7878|Asia/Manila|0|0
+legazpi|Legazpi|philippines|PH|Philippines|13.1300|123.7300|Asia/Manila|0|0|Legazpi, Albay
+surigao|Surigao City|philippines|PH|Philippines|9.7897|125.4958|Asia/Manila|0|0
+camiguin-mambajao|Mambajao|philippines|PH|Philippines|9.2500|124.7200|Asia/Manila|0|0
+daet|Daet|philippines|PH|Philippines|14.1142|122.9564|Asia/Manila|0|0
+naga-bicol|Naga|philippines|PH|Philippines|13.6244|123.1864|Asia/Manila|0|0|Naga, Camarines Sur
+sorsogon|Sorsogon City|philippines|PH|Philippines|12.9742|124.0058|Asia/Manila|0|0
+taiping|Taiping|malaysia|MY|Malaysia|4.8500|100.7333|Asia/Kuala_Lumpur|0|0|Taiping, Perak
+brinchang|Brinchang|malaysia|MY|Malaysia|4.4910|101.3885|Asia/Kuala_Lumpur|0|0
+fraser-bukit|Bukit Fraser|malaysia|MY|Malaysia|3.7119|101.7364|Asia/Kuala_Lumpur|0|0|Fraser's Hill
+kota-bharu|Kota Bharu|malaysia|MY|Malaysia|6.1333|102.2500|Asia/Kuala_Lumpur|0|0
+kuala-terengganu|Kuala Terengganu|malaysia|MY|Malaysia|5.3292|103.1361|Asia/Kuala_Lumpur|0|0
+kuantan|Kuantan|malaysia|MY|Malaysia|3.8167|103.3333|Asia/Kuala_Lumpur|0|0
+cherating|Cherating|malaysia|MY|Malaysia|4.1293|103.3870|Asia/Kuala_Lumpur|0|0
+tioman-tekek|Tekek|malaysia|MY|Malaysia|2.8167|104.1833|Asia/Kuala_Lumpur|0|0|Tioman Island
+perhentian-kecil|Kampung Pasir Hantu|malaysia|MY|Malaysia|5.9167|102.7333|Asia/Kuala_Lumpur|0|0|Perhentian Islands
+langkawi-kuah|Kuah|malaysia|MY|Malaysia|6.3167|99.8500|Asia/Kuala_Lumpur|0|0
+tawau|Tawau|malaysia|MY|Malaysia|4.2583|117.8944|Asia/Kuala_Lumpur|0|0
+miri|Miri|malaysia|MY|Malaysia|4.3925|113.9861|Asia/Kuala_Lumpur|0|0
+sibu|Sibu|malaysia|MY|Malaysia|2.2878|111.8308|Asia/Kuala_Lumpur|0|0
+bintulu|Bintulu|malaysia|MY|Malaysia|3.1733|113.0433|Asia/Kuala_Lumpur|0|0
+kasol|Kasol|india|IN|India|32.0097|77.3139|Asia/Kolkata|0|0
+tosh|Tosh|india|IN|India|32.0145|77.4536|Asia/Kolkata|0|0|Tosh, Himachal Pradesh
+malana|Malana|india|IN|India|32.0628|77.2606|Asia/Kolkata|0|0|Malana, Himachal Pradesh
+naggar|Naggar|india|IN|India|32.1200|77.1700|Asia/Kolkata|0|0|Naggar, Himachal Pradesh
+kullu|Kullu|india|IN|India|31.9500|77.1100|Asia/Kolkata|0|0
+manikaran|Manikaran|india|IN|India|32.0269|77.3452|Asia/Kolkata|0|0
+bir|Bir|india|IN|India|32.0500|76.7000|Asia/Kolkata|0|0|Bir, Himachal Pradesh
+dalhousie|Dalhousie|india|IN|India|32.5300|75.9800|Asia/Kolkata|0|0|Dalhousie, India
+khajjiar|Khajjiar|india|IN|India|32.5462|76.0581|Asia/Kolkata|0|0
+kasauli|Kasauli|india|IN|India|30.9000|76.9600|Asia/Kolkata|0|0
+almora|Almora|india|IN|India|29.5971|79.6591|Asia/Kolkata|0|0
+ranikhet|Ranikhet|india|IN|India|29.6500|79.4200|Asia/Kolkata|0|0
+auli|Auli|india|IN|India|30.5289|79.5703|Asia/Kolkata|0|0|Auli, India
+joshimath|Joshimath|india|IN|India|30.5550|79.5650|Asia/Kolkata|0|0
+badrinath|Badrinath|india|IN|India|30.7440|79.4930|Asia/Kolkata|0|0
+kedarnath|Kedarnath|india|IN|India|30.7300|79.0700|Asia/Kolkata|0|0
+haridwar|Haridwar|india|IN|India|29.9450|78.1630|Asia/Kolkata|0|0
+dehradun|Dehradun|india|IN|India|30.3450|78.0290|Asia/Kolkata|0|0
+sarnath|Sarnath|india|IN|India|25.3780|83.0251|Asia/Kolkata|0|0
+bodh-gaya|Bodh Gaya|india|IN|India|24.6950|84.9925|Asia/Kolkata|0|0
+rajgir|Rajgir|india|IN|India|25.0300|85.4200|Asia/Kolkata|0|0
+kalimpong|Kalimpong|india|IN|India|27.0600|88.4700|Asia/Kolkata|0|0
+pemayangtse|Pelling|india|IN|India|27.1800|88.1400|Asia/Kolkata|0|0
+lachung|Lachung|india|IN|India|27.6900|88.7460|Asia/Kolkata|0|0
+lachen|Lachen|india|IN|India|27.7167|88.5578|Asia/Kolkata|0|0|Lachen, Sikkim
+cherrapunji|Cherrapunji|india|IN|India|25.2840|91.7210|Asia/Kolkata|0|0
+mawlynnong|Mawlynnong|india|IN|India|25.1997|91.9317|Asia/Kolkata|0|0
+majuli|Majuli|india|IN|India|27.0000|94.2167|Asia/Kolkata|0|0
+bomdila|Bomdila|india|IN|India|27.2650|92.4200|Asia/Kolkata|0|0
+ziro|Ziro|india|IN|India|27.5664|93.8314|Asia/Kolkata|0|0
+aizawl|Aizawl|india|IN|India|23.7330|92.7180|Asia/Kolkata|0|0
+agartala|Agartala|india|IN|India|23.8314|91.2869|Asia/Kolkata|0|0
+auroville|Auroville|india|IN|India|12.0069|79.8106|Asia/Kolkata|0|0
+coonoor|Coonoor|india|IN|India|11.3450|76.7950|Asia/Kolkata|0|0
+yelagiri|Yelagiri|india|IN|India|12.5781|78.6407|Asia/Kolkata|0|0
+yercaud|Yercaud|india|IN|India|11.7794|78.2034|Asia/Kolkata|0|0
+karaikal|Karaikal|india|IN|India|10.9327|79.8319|Asia/Kolkata|0|0
+rameswaram|Rameswaram|india|IN|India|9.2880|79.3130|Asia/Kolkata|0|0
+kanyakumari|Kanyakumari|india|IN|India|8.0883|77.5385|Asia/Kolkata|0|0
+wayanad-sultan|Sultan Bathery|india|IN|India|11.6700|76.2800|Asia/Kolkata|0|0
+coorg-virajpet|Virajpet|india|IN|India|12.2000|75.8000|Asia/Kolkata|0|0
+mudigere|Mudigere|india|IN|India|13.1370|75.6060|Asia/Kolkata|0|0
+sringeri|Sringeri|india|IN|India|13.4200|75.2500|Asia/Kolkata|0|0
+jog-falls-sagara|Sagara|india|IN|India|14.1667|75.0333|Asia/Kolkata|0|0|Sagara, Karnataka
+villa-la-angostura|Villa La Angostura|argentina|AR|Argentina|-40.7625|-71.6463|America/Argentina/Buenos_Aires|0|0
+san-martin-andes|San Martín de los Andes|argentina|AR|Argentina|-40.1667|-71.3500|America/Argentina/Buenos_Aires|0|0
+villa-traful|Villa Traful|argentina|AR|Argentina|-40.6667|-71.4000|America/Argentina/Buenos_Aires|0|0
+junin-de-los-andes|Junín de los Andes|argentina|AR|Argentina|-39.9167|-71.0667|America/Argentina/Buenos_Aires|0|0
+esquel|Esquel|argentina|AR|Argentina|-42.9000|-71.3167|America/Argentina/Buenos_Aires|0|0|Esquel, Argentina
+trevelin|Trevelin|argentina|AR|Argentina|-43.0833|-71.4667|America/Argentina/Buenos_Aires|0|0
+cholila|Cholila|argentina|AR|Argentina|-42.5167|-71.4500|America/Argentina/Buenos_Aires|0|0|Cholila, Argentina
+epuyen|Epuyén|argentina|AR|Argentina|-42.2333|-71.3500|America/Argentina/Buenos_Aires|0|0
+lago-puelo|Lago Puelo|argentina|AR|Argentina|-42.1653|-71.6369|America/Argentina/Buenos_Aires|0|0|Puelo Lake
+el-maiten|El Maitén|argentina|AR|Argentina|-42.0500|-71.1667|America/Argentina/Buenos_Aires|0|0
+perito-moreno-town|Perito Moreno|argentina|AR|Argentina|-46.5886|-70.9242|America/Argentina/Buenos_Aires|0|0|Perito Moreno, Santa Cruz
+los-antiguos|Los Antiguos|argentina|AR|Argentina|-46.5472|-71.6306|America/Argentina/Buenos_Aires|0|0
+chile-chico|Chile Chico|chile|CL|Chile|-46.5403|-71.7222|America/Santiago|0|0
+cochrane|Cochrane|chile|CL|Chile|-47.2547|-72.5750|America/Santiago|0|0|Cochrane, Chile
+villa-ohiggins|Villa O'Higgins|chile|CL|Chile|-48.4683|-72.5600|America/Santiago|0|0
+caleta-tortel|Caleta Tortel|chile|CL|Chile|-47.7833|-73.5333|America/Santiago|0|0
+puerto-cisnes|Puerto Cisnes|chile|CL|Chile|-44.7500|-72.7000|America/Santiago|0|0
+puerto-aysen|Puerto Aysén|chile|CL|Chile|-45.4025|-72.6900|America/Santiago|0|0
+chaiten|Chaitén|chile|CL|Chile|-42.9167|-72.7000|America/Santiago|0|0
+futaleufu|Futaleufú|chile|CL|Chile|-43.1833|-71.8667|America/Santiago|0|0|Futaleufú, Chile
+palena|Palena|chile|CL|Chile|-43.6167|-71.8000|America/Santiago|0|0|Palena, Chile
+hornopiren|Hornopirén|chile|CL|Chile|-41.9662|-72.4706|America/Santiago|0|0
+frutillar|Frutillar|chile|CL|Chile|-41.1228|-73.0581|America/Santiago|0|0
+puerto-octay|Puerto Octay|chile|CL|Chile|-40.9667|-72.9000|America/Santiago|0|0
+entrelagos|Entre Lagos|chile|CL|Chile|-40.6856|-72.6025|America/Santiago|0|0
+villarrica|Villarrica|chile|CL|Chile|-39.2667|-72.2167|America/Santiago|0|0|Villarrica, Chile
+lican-ray|Lican Ray|chile|CL|Chile|-39.4874|-72.1579|America/Santiago|0|0|Licán Ray
+coñaripe|Coñaripe|chile|CL|Chile|-39.5679|-72.0075|America/Santiago|0|0
+valdivia|Valdivia|chile|CL|Chile|-39.8139|-73.2458|America/Santiago|0|0
+niebla|Niebla|chile|CL|Chile|-39.8714|-73.3963|America/Santiago|0|0|Niebla, Chile
+corral|Corral|chile|CL|Chile|-39.8883|-73.4325|America/Santiago|0|0|Corral, Chile
+mehuin|Mehuín|chile|CL|Chile|-39.4428|-73.2114|America/Santiago|0|0
+constitucion|Constitución|chile|CL|Chile|-35.3333|-72.4167|America/Santiago|0|0|Constitución, Chile
+pichilemu|Pichilemu|chile|CL|Chile|-34.3850|-72.0050|America/Santiago|0|0
+santa-cruz-chile|Santa Cruz|chile|CL|Chile|-34.6372|-71.3631|America/Santiago|0|0|Santa Cruz, Chile
+lolol|Lolol|chile|CL|Chile|-34.7261|-71.6447|America/Santiago|0|0
+exmouth|Exmouth|australia|AU|Australia|-21.9331|114.1281|Australia/Sydney|0|0|Exmouth, Western Australia
+coral-bay|Coral Bay|australia|AU|Australia|-23.1447|113.7764|Australia/Sydney|0|0|Coral Bay, Western Australia
+carnarvon|Carnarvon|australia|AU|Australia|-24.8839|113.6569|Australia/Sydney|0|0|Carnarvon, Western Australia
+kalbarri|Kalbarri|australia|AU|Australia|-27.7100|114.1600|Australia/Sydney|0|0|Kalbarri, Western Australia
+geraldton|Geraldton|australia|AU|Australia|-28.7744|114.6089|Australia/Sydney|0|0
+dongara|Dongara|australia|AU|Australia|-29.2510|114.9340|Australia/Sydney|0|0|Dongara, Western Australia
+jurien-bay|Jurien Bay|australia|AU|Australia|-30.2970|115.0420|Australia/Sydney|0|0|Jurien Bay, Western Australia
+cervantes|Cervantes|australia|AU|Australia|-30.5000|115.0660|Australia/Sydney|0|0|Cervantes, Western Australia
+lancelin|Lancelin|australia|AU|Australia|-31.0140|115.3300|Australia/Sydney|0|0|Lancelin, Western Australia
+dunsborough|Dunsborough|australia|AU|Australia|-33.6167|115.1000|Australia/Sydney|0|0|Dunsborough, Western Australia
+busselton|Busselton|australia|AU|Australia|-33.6478|115.3458|Australia/Sydney|0|0
+augusta-wa|Augusta|australia|AU|Australia|-34.3120|115.1590|Australia/Sydney|0|0|Augusta, Western Australia
+albany-wa|Albany|australia|AU|Australia|-35.0228|117.8814|Australia/Sydney|0|0|Albany, Western Australia
+denmark-wa|Denmark|australia|AU|Australia|-34.9600|117.3531|Australia/Sydney|0|0|Denmark, Western Australia
+esperance|Esperance|australia|AU|Australia|-33.8611|121.8919|Australia/Sydney|0|0|Esperance, Western Australia
+eucla|Eucla|australia|AU|Australia|-31.6750|128.8831|Australia/Sydney|0|0|Eucla, Western Australia
+coffin-bay|Coffin Bay|australia|AU|Australia|-34.6244|135.4697|Australia/Sydney|0|0
+strathalbyn|Strathalbyn|australia|AU|Australia|-35.2667|138.9000|Australia/Sydney|0|0|Strathalbyn, South Australia
+angaston|Angaston|australia|AU|Australia|-34.5000|139.0500|Australia/Sydney|0|0|Angaston, South Australia
+clare|Clare|australia|AU|Australia|-33.8333|138.6000|Australia/Sydney|0|0|Clare, South Australia
+mclaren-vale|McLaren Vale|australia|AU|Australia|-35.2194|138.5436|Australia/Sydney|0|0
+willunga|Willunga|australia|AU|Australia|-35.2740|138.5535|Australia/Sydney|0|0|Willunga, South Australia
+port-elliot|Port Elliot|australia|AU|Australia|-35.5346|138.6788|Australia/Sydney|0|0|Port Elliot, South Australia
+robes|Robe|australia|AU|Australia|-37.1641|139.7541|Australia/Sydney|0|0|Robe, South Australia
+beachport|Beachport|australia|AU|Australia|-37.4836|140.0084|Australia/Sydney|0|0
+mount-gambier|Mount Gambier|australia|AU|Australia|-37.8294|140.7828|Australia/Sydney|0|0
+portland-vic|Portland|australia|AU|Australia|-38.3333|141.6000|Australia/Sydney|0|0|Portland, Victoria
+port-fairy|Port Fairy|australia|AU|Australia|-38.3667|142.2333|Australia/Sydney|0|0
+warrnambool|Warrnambool|australia|AU|Australia|-38.3825|142.4814|Australia/Sydney|0|0
+apollo-bay|Apollo Bay|australia|AU|Australia|-38.7500|143.6500|Australia/Sydney|0|0
+lorne|Lorne|australia|AU|Australia|-38.5333|143.9667|Australia/Sydney|0|0|Lorne, Victoria
+torquay|Torquay|australia|AU|Australia|-38.3333|144.3167|Australia/Sydney|0|0|Torquay, Victoria
+queenscliff|Queenscliff|australia|AU|Australia|-38.2667|144.6500|Australia/Sydney|0|0|Queenscliff, Victoria
+sorrento-vic|Sorrento|australia|AU|Australia|-38.3389|144.7408|Australia/Sydney|0|0|Sorrento, Victoria
+mornington|Mornington|australia|AU|Australia|-38.2280|145.0620|Australia/Sydney|0|0|Mornington, Victoria
+phillip-island-cowes|Cowes|australia|AU|Australia|-38.4511|145.2419|Australia/Sydney|0|0|Cowes, Victoria
+wonthaggi|Wonthaggi|australia|AU|Australia|-38.6056|145.5917|Australia/Sydney|0|0
+lakes-entrance|Lakes Entrance|australia|AU|Australia|-37.8667|147.9833|Australia/Sydney|0|0
+metung|Metung|australia|AU|Australia|-37.8833|147.8500|Australia/Sydney|0|0
+paynesville|Paynesville|australia|AU|Australia|-37.9167|147.7167|Australia/Sydney|0|0|Paynesville, Victoria
+mallacoota|Mallacoota|australia|AU|Australia|-37.5500|149.7500|Australia/Sydney|0|0
+eden-nsw|Eden|australia|AU|Australia|-37.0667|149.9000|Australia/Sydney|0|0|Eden, New South Wales
+merimbula|Merimbula|australia|AU|Australia|-36.8981|149.9011|Australia/Sydney|0|0
+narooma|Narooma|australia|AU|Australia|-36.2000|150.1333|Australia/Sydney|0|0|Narooma, New South Wales
+batehaven|Batemans Bay|australia|AU|Australia|-35.7081|150.1744|Australia/Sydney|0|0
+ulladulla|Ulladulla|australia|AU|Australia|-35.3486|150.4678|Australia/Sydney|0|0
+berry|Berry|australia|AU|Australia|-34.7753|150.6939|Australia/Sydney|0|0|Berry, New South Wales
+kangaroo-valley|Kangaroo Valley|australia|AU|Australia|-34.7333|150.5333|Australia/Sydney|0|0|Kangaroo Valley, New South Wales
+bowral|Bowral|australia|AU|Australia|-34.4792|150.4181|Australia/Sydney|0|0
+bundanoon|Bundanoon|australia|AU|Australia|-34.6500|150.3000|Australia/Sydney|0|0|Bundanoon, New South Wales
+bellingen|Bellingen|australia|AU|Australia|-30.4333|152.9000|Australia/Sydney|0|0|Bellingen, New South Wales
+dorrigo|Dorrigo|australia|AU|Australia|-30.3333|152.7167|Australia/Sydney|0|0|Dorrigo, New South Wales
+coffs-harbour|Coffs Harbour|australia|AU|Australia|-30.3022|153.1189|Australia/Sydney|0|0
+sawtell|Sawtell|australia|AU|Australia|-30.3833|153.1000|Australia/Sydney|0|0|Sawtell, New South Wales
+port-macquarie|Port Macquarie|australia|AU|Australia|-31.4333|152.9000|Australia/Sydney|0|0
+forster|Forster|australia|AU|Australia|-32.1806|152.5117|Australia/Sydney|0|0|Forster, New South Wales
+nelson-bay|Nelson Bay|australia|AU|Australia|-32.7150|152.1511|Australia/Sydney|0|0|Nelson Bay, New South Wales
+bangalow|Bangalow|australia|AU|Australia|-28.7000|153.5167|Australia/Sydney|0|0
+brunswick-heads|Brunswick Heads|australia|AU|Australia|-28.5333|153.5500|Australia/Sydney|0|0
+murwillumbah|Murwillumbah|australia|AU|Australia|-28.3275|153.3958|Australia/Sydney|0|0
+kingscliff|Kingscliff|australia|AU|Australia|-28.2564|153.5781|Australia/Sydney|0|0|Kingscliff, New South Wales
+sunshine-beach|Sunshine Beach|australia|AU|Australia|-26.4072|153.1055|Australia/Sydney|0|0|Sunshine Beach, Queensland
+rainbow-beach|Rainbow Beach|australia|AU|Australia|-25.9075|153.0888|Australia/Sydney|0|0|Rainbow Beach, Queensland
+agnes-water|Agnes Water|australia|AU|Australia|-24.2125|151.9032|Australia/Sydney|0|0|Agnes Water, Queensland
+seventeen-seventy|Seventeen Seventy|australia|AU|Australia|-24.1633|151.8852|Australia/Sydney|0|0|Seventeen Seventy, Queensland
+yeppoon|Yeppoon|australia|AU|Australia|-23.1288|150.7444|Australia/Sydney|0|0
+mission-beach|Mission Beach|australia|AU|Australia|-17.8677|146.1075|Australia/Sydney|0|0|Mission Beach, Queensland
+tully|Tully|australia|AU|Australia|-17.9311|145.9242|Australia/Sydney|0|0|Tully, Queensland
+innisfail|Innisfail|australia|AU|Australia|-17.5238|146.0311|Australia/Sydney|0|0|Innisfail, Queensland
+mossman|Mossman|australia|AU|Australia|-16.4604|145.3736|Australia/Sydney|0|0|Mossman, Queensland
+cooktown|Cooktown|australia|AU|Australia|-15.4722|145.2522|Australia/Sydney|0|0|Cooktown, Queensland
+weipa|Weipa|australia|AU|Australia|-12.6300|141.8786|Australia/Sydney|0|0
+wick|Wick|united-kingdom|GB|United Kingdom|58.4540|-3.0890|Europe/London|0|0|Wick, Caithness
+dornoch|Dornoch|united-kingdom|GB|United Kingdom|57.8800|-4.0300|Europe/London|0|0
+tain|Tain|united-kingdom|GB|United Kingdom|57.8118|-4.0567|Europe/London|0|0
+cromarty|Cromarty|united-kingdom|GB|United Kingdom|57.6810|-4.0350|Europe/London|0|0
+fortrose|Fortrose|united-kingdom|GB|United Kingdom|57.5820|-4.1320|Europe/London|0|0
+nairn|Nairn|united-kingdom|GB|United Kingdom|57.5860|-3.8690|Europe/London|0|0
+forres|Forres|united-kingdom|GB|United Kingdom|57.6080|-3.6200|Europe/London|0|0
+elgin|Elgin|united-kingdom|GB|United Kingdom|57.6486|-3.3153|Europe/London|0|0|Elgin, Moray
+lossiemouth|Lossiemouth|united-kingdom|GB|United Kingdom|57.7189|-3.2875|Europe/London|0|0
+findhorn|Findhorn|united-kingdom|GB|United Kingdom|57.6590|-3.6110|Europe/London|0|0
+cullen|Cullen|united-kingdom|GB|United Kingdom|57.6914|-2.8192|Europe/London|0|0|Cullen, Moray
+portsoy|Portsoy|united-kingdom|GB|United Kingdom|57.6830|-2.6880|Europe/London|0|0
+macduff|Macduff|united-kingdom|GB|United Kingdom|57.6710|-2.4970|Europe/London|0|0|Macduff, Aberdeenshire
+fraserburgh|Fraserburgh|united-kingdom|GB|United Kingdom|57.6930|-2.0050|Europe/London|0|0
+peterhead|Peterhead|united-kingdom|GB|United Kingdom|57.5091|-1.7832|Europe/London|0|0
+stonehaven|Stonehaven|united-kingdom|GB|United Kingdom|56.9640|-2.2110|Europe/London|0|0
+montrose|Montrose|united-kingdom|GB|United Kingdom|56.7080|-2.4670|Europe/London|0|0|Montrose, Angus
+arbroath|Arbroath|united-kingdom|GB|United Kingdom|56.5610|-2.5860|Europe/London|0|0
+carnoustie|Carnoustie|united-kingdom|GB|United Kingdom|56.5010|-2.7100|Europe/London|0|0
+anstruther|Anstruther|united-kingdom|GB|United Kingdom|56.2234|-2.7027|Europe/London|0|0
+crail|Crail|united-kingdom|GB|United Kingdom|56.2608|-2.6263|Europe/London|0|0
+pittenweem|Pittenweem|united-kingdom|GB|United Kingdom|56.2140|-2.7290|Europe/London|0|0
+elie|Elie|united-kingdom|GB|United Kingdom|56.1899|-2.8233|Europe/London|0|0|Elie and Earlsferry
+falkland|Falkland|united-kingdom|GB|United Kingdom|56.2500|-3.2000|Europe/London|0|0|Falkland, Fife
+culross|Culross|united-kingdom|GB|United Kingdom|56.0554|-3.6293|Europe/London|0|0
+dunfermline|Dunfermline|united-kingdom|GB|United Kingdom|56.0719|-3.4393|Europe/London|0|0
+linlithgow|Linlithgow|united-kingdom|GB|United Kingdom|55.9791|-3.6105|Europe/London|0|0
+south-queensferry|South Queensferry|united-kingdom|GB|United Kingdom|55.9900|-3.3980|Europe/London|0|0
+north-berwick|North Berwick|united-kingdom|GB|United Kingdom|56.0580|-2.7170|Europe/London|0|0
+dunbar|Dunbar|united-kingdom|GB|United Kingdom|56.0027|-2.5169|Europe/London|0|0
+eyemouth|Eyemouth|united-kingdom|GB|United Kingdom|55.8710|-2.0930|Europe/London|0|0
+coldingham|Coldingham|united-kingdom|GB|United Kingdom|55.8833|-2.1666|Europe/London|0|0
+alacati|Alaçatı|turkiye|TR|Türkiye|38.2814|26.3742|Europe/Istanbul|0|0
+sirince|Şirince|turkiye|TR|Türkiye|37.9414|27.4331|Europe/Istanbul|0|0
+didim|Didim|turkiye|TR|Türkiye|37.3756|27.2678|Europe/Istanbul|0|0
+datca|Datça|turkiye|TR|Türkiye|36.7283|27.6869|Europe/Istanbul|0|0
+marmaris|Marmaris|turkiye|TR|Türkiye|36.8533|28.2708|Europe/Istanbul|0|0
+kalkan|Kalkan|turkiye|TR|Türkiye|36.2667|29.4111|Europe/Istanbul|0|0
+kekova-ucagiz|Kaleköy|turkiye|TR|Türkiye|36.1908|29.8614|Europe/Istanbul|0|0
+demre|Demre|turkiye|TR|Türkiye|36.2472|29.9828|Europe/Istanbul|0|0
+cirali|Çıralı|turkiye|TR|Türkiye|36.3967|30.4731|Europe/Istanbul|0|0
+amasya|Amasya|turkiye|TR|Türkiye|40.6500|35.8331|Europe/Istanbul|0|0
+uzungol|Uzungöl|turkiye|TR|Türkiye|40.6192|40.2950|Europe/Istanbul|0|0
+artvin|Artvin|turkiye|TR|Türkiye|41.1833|41.8181|Europe/Istanbul|0|0
+kars|Kars|turkiye|TR|Türkiye|40.6078|43.0958|Europe/Istanbul|0|0
+midyat|Midyat|turkiye|TR|Türkiye|37.4167|41.3697|Europe/Istanbul|0|0
+hasankeyf|Hasankeyf|turkiye|TR|Türkiye|37.7147|41.4131|Europe/Istanbul|0|0
+ahlat|Ahlat|turkiye|TR|Türkiye|38.7528|42.4944|Europe/Istanbul|0|0
+bitlis|Bitlis|turkiye|TR|Türkiye|38.4000|42.1083|Europe/Istanbul|0|0
+iskenderun|İskenderun|turkiye|TR|Türkiye|36.5817|36.1650|Europe/Istanbul|0|0
+mersin|Mersin|turkiye|TR|Türkiye|36.7944|34.6272|Europe/Istanbul|0|0
+tarsus|Tarsus|turkiye|TR|Türkiye|36.9165|34.8951|Europe/Istanbul|0|0|Tarsus, Mersin
+adana|Adana|turkiye|TR|Türkiye|37.0000|35.3213|Europe/Istanbul|0|0
+konya|Konya|turkiye|TR|Türkiye|37.8744|32.4931|Europe/Istanbul|0|0
+beysehir|Beyşehir|turkiye|TR|Türkiye|37.6764|31.7261|Europe/Istanbul|0|0
+egirdir|Eğirdir|turkiye|TR|Türkiye|37.8750|30.8506|Europe/Istanbul|0|0
+isparta|Isparta|turkiye|TR|Türkiye|37.7647|30.5567|Europe/Istanbul|0|0
+afyon|Afyonkarahisar|turkiye|TR|Türkiye|38.7578|30.5386|Europe/Istanbul|0|0
+eskisehir|Eskişehir|turkiye|TR|Türkiye|39.7714|30.5183|Europe/Istanbul|0|0
+iznik|İznik|turkiye|TR|Türkiye|40.4292|29.7211|Europe/Istanbul|0|0
+yenisehir|Yenişehir|turkiye|TR|Türkiye|40.2644|29.6531|Europe/Istanbul|0|0|Yenişehir, Bursa
+cumalikizik|Cumalıkızık|turkiye|TR|Türkiye|40.1750|29.1731|Europe/Istanbul|0|0
+odunpazari|Odunpazarı|turkiye|TR|Türkiye|39.7589|30.5258|Europe/Istanbul|0|0
+bolu|Bolu|turkiye|TR|Türkiye|40.7347|31.6075|Europe/Istanbul|0|0
+yungas-coroico|Coroico|bolivia|BO|Bolivia|-16.1833|-67.7333|America/La_Paz|0|0
+sorata|Sorata|bolivia|BO|Bolivia|-15.7733|-68.6481|America/La_Paz|0|0
+vallegrande|Vallegrande|bolivia|BO|Bolivia|-18.4833|-64.1000|America/La_Paz|0|0
+tarabuco|Tarabuco|bolivia|BO|Bolivia|-19.1667|-64.9167|America/La_Paz|0|0
+tupiza|Tupiza|bolivia|BO|Bolivia|-21.4375|-65.7158|America/La_Paz|0|0
+villazon|Villazón|bolivia|BO|Bolivia|-22.0911|-65.5961|America/La_Paz|0|0
+hopkins|Hopkins|belize|BZ|Belize|16.8667|-88.2833|America/Belize|0|0|Hopkins, Belize
+dangriga|Dangriga|belize|BZ|Belize|16.9667|-88.2167|America/Belize|0|0
+corozal|Corozal Town|belize|BZ|Belize|18.4000|-88.4000|America/Belize|0|0
+punta-gorda|Punta Gorda|belize|BZ|Belize|16.0989|-88.8094|America/Belize|0|0|Punta Gorda, Belize
