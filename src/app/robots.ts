@@ -15,6 +15,11 @@ export default function robots(): MetadataRoute.Robots {
         allow: "/",
         disallow: ["/admin", "/api/", "/favorites"],
       },
+      {
+        userAgent: "Baiduspider",
+        allow: "/",
+        disallow: ["/admin", "/api/", "/favorites"],
+      },
     ],
     sitemap: [
       `${siteConfig.url}/sitemap.xml`,

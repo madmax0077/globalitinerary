@@ -59,6 +59,9 @@ export const metadata: Metadata = {
     ...(process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION
       ? { google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION }
       : {}),
+    ...(process.env.NEXT_PUBLIC_BAIDU_SITE_VERIFY
+      ? { other: { "baidu-site-verification": process.env.NEXT_PUBLIC_BAIDU_SITE_VERIFY } }
+      : {}),
   },
   icons: {
     // favicon.ico first — Google Discover/Search prefer this URL over /icon

@@ -69,6 +69,56 @@ async function submitBingWebmaster(urlList: string[]) {
   };
 }
 
+const BAIDU_SITEMAPS = [
+  `${siteConfig.url}/sitemap.xml`,
+  `${siteConfig.url}/sitemap-pages.xml`,
+  `${siteConfig.url}/sitemap-countries.xml`,
+];
+
+async function baiduPost(token: string, site: string, lines: string[], type?: "sitemap") {
+  const endpoint = new URL("http://data.zz.baidu.com/urls");
+  endpoint.searchParams.set("site", site);
+  endpoint.searchParams.set("token", token);
+  if (type) endpoint.searchParams.set("type", type);
+
+  const res = await fetch(endpoint.toString(), {
+    method: "POST",
+    headers: { "Content-Type": "text/plain" },
+    body: lines.join("\n"),
+  });
+  const text = await res.text();
+  let parsed: unknown = text;
+  try {
+    parsed = JSON.parse(text);
+  } catch {
+    /* keep raw */
+  }
+  return { ok: res.ok, status: res.status, body: parsed };
+}
+
+/** Baidu 普通收录 — sitemap + a small daily URL push (quota is often 10/day without ICP). */
+async function submitBaidu(urlList: string[]) {
+  const token = process.env.BAIDU_PUSH_TOKEN;
+  if (!token) return { skipped: true as const, reason: "BAIDU_PUSH_TOKEN not set" };
+
+  const site = process.env.BAIDU_SITE_URL || siteConfig.url;
+  const limit = Math.min(50, Math.max(1, Number(process.env.BAIDU_DAILY_LIMIT || 10) || 10));
+
+  const [sitemap, urls] = await Promise.all([
+    baiduPost(token, site, BAIDU_SITEMAPS, "sitemap"),
+    baiduPost(token, site, urlList.slice(0, limit)),
+  ]);
+
+  return {
+    skipped: false as const,
+    ok: sitemap.ok && urls.ok,
+    sitemap,
+    urls,
+    submittedUrls: urlList.slice(0, limit).length,
+    submittedSitemaps: BAIDU_SITEMAPS,
+  };
+}
+
 /**
  * Daily IndexNow + Bing URL Submission (100 URLs / day, rotating).
  * Cron: GET /api/indexnow
@@ -106,13 +156,14 @@ export async function GET(request: Request) {
   }
 
   try {
-    const [indexNow, bing] = await Promise.all([
+    const [indexNow, bing, baidu] = await Promise.all([
       submitIndexNow(urls),
       submitBingWebmaster(urls),
+      submitBaidu(urls),
     ]);
 
     return NextResponse.json({
-      ok: indexNow.ok && (bing.skipped || bing.ok),
+      ok: indexNow.ok && (bing.skipped || bing.ok) && (baidu.skipped || baidu.ok),
       submitted: urls.length,
       batch,
       totalBatches,
@@ -120,6 +171,7 @@ export async function GET(request: Request) {
       pool: all.length,
       indexNow,
       bing,
+      baidu,
     });
   } catch (e) {
     return NextResponse.json(
