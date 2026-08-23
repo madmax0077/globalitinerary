@@ -9,16 +9,18 @@ export function ArticleCard({
   article,
   className,
   horizontal = false,
+  kicker,
 }: {
   article: Article;
   className?: string;
   horizontal?: boolean;
+  kicker?: string;
 }) {
   return (
     <Link
       href={`/blog/${article.slug}`}
       className={cn(
-        "group flex overflow-hidden rounded-3xl border border-border bg-card shadow-soft transition-all hover:-translate-y-1 hover:shadow-lift",
+        "group flex h-full overflow-hidden rounded-3xl border border-border bg-card shadow-soft transition-all hover:-translate-y-1 hover:shadow-lift",
         horizontal ? "flex-col sm:flex-row" : "flex-col",
         className
       )}
@@ -41,6 +43,11 @@ export function ArticleCard({
         </Badge>
       </div>
       <div className="flex flex-1 flex-col p-5">
+        {kicker && (
+          <p className="mb-1.5 text-[11px] font-semibold uppercase tracking-[0.14em] text-muted-foreground">
+            {kicker}
+          </p>
+        )}
         <h3 className="font-display text-lg font-bold leading-snug transition-colors group-hover:text-primary">
           {article.title}
         </h3>

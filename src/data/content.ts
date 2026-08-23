@@ -2,6 +2,7 @@ import type { Article, Collection, Testimonial } from "@/lib/types";
 import { PHOTOS, unsplash } from "@/lib/images";
 import { destinationGuides } from "@/data/destination-guides";
 import { top100CityGuides } from "@/data/top100-city-guides";
+import { top200CityGuides } from "@/data/top200-city-guides";
 
 const authors = {
   amelia: { name: "Amelia Chen", role: "Senior Travel Editor", avatar: "https://i.pravatar.cc/160?img=47" },
@@ -129,10 +130,15 @@ const legacyArticles: Article[] = [
   },
 ];
 
-/** Destination guides first (newer, featured), then existing articles, then Top 100 city itineraries. */
-export const articles: Article[] = [...destinationGuides, ...legacyArticles, ...top100CityGuides];
+/** Destination guides first, then legacy stories, then Top 100 and ranks 101–200 itineraries. */
+export const articles: Article[] = [
+  ...destinationGuides,
+  ...legacyArticles,
+  ...top100CityGuides,
+  ...top200CityGuides,
+];
 
-export { top100CityGuides };
+export { top100CityGuides, top200CityGuides };
 
 export const collections: Collection[] = [
   { slug: "luxury-escapes", title: "Luxury Escapes", description: "Five-star stays and once-in-a-lifetime experiences", image: unsplash(PHOTOS.maldives, 1200), count: 42, accent: "primary" },

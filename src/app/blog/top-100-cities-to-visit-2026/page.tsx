@@ -202,9 +202,9 @@ export default function Top100CitiesArticlePage() {
               {TOP_100_CITIES.map((c) => (
                 <li
                   key={c.slug}
-                  className="grid grid-cols-[2.5rem_1fr] gap-2 rounded-2xl border border-border bg-card px-3 py-3 text-sm shadow-soft sm:grid-cols-[3rem_1fr_auto]"
+                  className="grid grid-cols-[2.75rem_minmax(0,1fr)] items-start gap-3 rounded-2xl border border-border bg-card px-4 py-3.5 text-sm shadow-soft sm:grid-cols-[3rem_minmax(0,1fr)_auto]"
                 >
-                  <span className="font-display text-lg font-bold text-primary">{c.rank}</span>
+                  <span className="pt-0.5 font-display text-lg font-bold tabular-nums text-primary">{c.rank}</span>
                   <div>
                     <Link href={`/cities/${c.slug}`} className="font-semibold hover:text-primary hover:underline">
                       {c.name}
@@ -246,6 +246,16 @@ export default function Top100CitiesArticlePage() {
                 </li>
               ))}
             </ol>
+          </div>
+
+          <div className="rounded-3xl border border-border bg-card p-5 shadow-soft">
+            <p className="text-sm text-muted-foreground">
+              Finished the Top 100? Open the{" "}
+              <Link href="/blog/top-200-cities-to-visit-2026" className="font-semibold text-primary hover:underline">
+                101–200 city blogs
+              </Link>{" "}
+              — each city is its own itinerary post (Hoi An, Jaipur, Granada, Banff and more).
+            </p>
           </div>
 
           <div>

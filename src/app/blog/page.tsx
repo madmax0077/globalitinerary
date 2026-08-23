@@ -3,7 +3,7 @@ import { PageHero } from "@/components/shared/page-hero";
 import { ArticleCard } from "@/components/shared/article-card";
 import { AdSlot } from "@/components/shared/ad-slot";
 import { Stagger, StaggerItem } from "@/components/ui/reveal";
-import { articles, top100CityGuides } from "@/data/content";
+import { articles, top100CityGuides, top200CityGuides } from "@/data/content";
 import { getTop100GuideLink } from "@/data/top100-city-guides";
 import { TOP_100_CITIES } from "@/data/top-100-cities";
 import { buildMetadata } from "@/lib/seo";
@@ -27,8 +27,13 @@ export const metadata = {
 };
 
 export default function BlogPage() {
-  const cityGuideSlugs = new Set(top100CityGuides.map((a) => a.slug));
-  const editorial = articles.filter((a) => !cityGuideSlugs.has(a.slug));
+  const cityGuideSlugs = new Set([
+    ...top100CityGuides.map((a) => a.slug),
+    ...top200CityGuides.map((a) => a.slug),
+  ]);
+  const editorial = articles.filter(
+    (a) => !cityGuideSlugs.has(a.slug) && a.slug !== "top-200-cities-to-visit-2026",
+  );
   const [featured, ...rest] = editorial;
 
   return (
@@ -46,9 +51,9 @@ export default function BlogPage() {
           </div>
         )}
 
-        <Stagger className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+        <Stagger className="grid items-stretch gap-6 md:grid-cols-2 lg:grid-cols-3">
           {rest.map((a) => (
-            <StaggerItem key={a.slug}>
+            <StaggerItem key={a.slug} className="h-full">
               <ArticleCard article={a} />
             </StaggerItem>
           ))}
@@ -59,8 +64,11 @@ export default function BlogPage() {
             Top 100 city itineraries
           </h2>
           <p className="mt-3 max-w-2xl text-muted-foreground">
-            A separate 5–15 day plan and trip-cost guide for each city on our 2026 ranking —
-            the same format as our Bali, Dubai, London and Paris itineraries.
+            A separate 5–15 day plan and trip-cost guide for each city on our{" "}
+            <Link href="/blog/top-100-cities-to-visit-2026" className="font-semibold text-primary hover:underline">
+              2026 Top 100 ranking
+            </Link>{" "}
+            — the same format as our Bali, Dubai, London and Paris itineraries.
           </p>
           <ul className="mt-8 grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
             {TOP_100_CITIES.map((c) => {
@@ -84,6 +92,23 @@ export default function BlogPage() {
               );
             })}
           </ul>
+        </section>
+
+        <section className="mt-16">
+          <h2 className="font-display text-3xl font-bold tracking-tight">
+            101–200 city blogs
+          </h2>
+          <p className="mt-3 max-w-2xl text-muted-foreground">
+            A separate post for each city — same format as Bali, Dubai and the Top 100 city guides.
+            Click a card to open that city’s day-by-day itinerary.
+          </p>
+          <Stagger className="mt-8 grid items-stretch gap-6 md:grid-cols-2 lg:grid-cols-3">
+            {top200CityGuides.map((article) => (
+              <StaggerItem key={article.slug} className="h-full">
+                <ArticleCard article={article} />
+              </StaggerItem>
+            ))}
+          </Stagger>
         </section>
 
         <AdSlot slot="blog-list" className="mt-12 min-h-[140px]" />

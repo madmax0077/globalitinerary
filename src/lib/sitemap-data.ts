@@ -4,7 +4,7 @@ import { attractions } from "@/data/attractions";
 import { destinationGuides } from "@/data/destination-guides";
 import { citySitemapSlugs } from "@/data/city-sitemap-slugs.generated";
 import { iso2ToIso3, visaMatrix } from "@/data/visa.generated";
-import { listTop100GuideSitemapEntries } from "@/data/top100-guide-meta";
+import { listTop100GuideSitemapEntries, listTop200GuideSitemapEntries } from "@/data/top100-guide-meta";
 
 /** Keep sitemap generation off cities.generated.ts (7MB+) so this route can build on Vercel. */
 const COLLECTION_SLUGS = [
@@ -33,7 +33,7 @@ export type SitemapEntry = {
 };
 
 /** Bump this when city/country content is bulk-updated so crawlers see a new lastmod. */
-export const SITEMAP_CONTENT_DATE = new Date("2026-08-21T00:00:00.000Z");
+export const SITEMAP_CONTENT_DATE = new Date("2026-08-23T00:00:00.000Z");
 
 function escapeXml(value: string): string {
   return value
@@ -133,6 +133,7 @@ export function buildPageSitemapEntries(): SitemapEntry[] {
     ...destinationGuides.map((a) => ({ slug: a.slug, date: a.date, featured: !!a.featured })),
     ...LEGACY_ARTICLES,
     ...listTop100GuideSitemapEntries(),
+    ...listTop200GuideSitemapEntries(),
   ];
   const articleRoutes = articleMeta.map((a) => ({
     url: `${base}/blog/${a.slug}`,

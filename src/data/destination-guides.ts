@@ -41,6 +41,33 @@ export const destinationGuides: Article[] = [
     ],
   },
   {
+    id: "dg-top200-2026",
+    slug: "top-200-cities-to-visit-2026",
+    title: "101–200 City Itineraries: Separate Guides for Each City",
+    excerpt:
+      "Browse the next hundred city blogs — each destination has its own 5–15 day itinerary post, not one combined ranking.",
+    cover: unsplash(PHOTOS.cityNight, 1600),
+    category: "Guides",
+    tags: ["Top 200", "Cities", "2026", "Travel Planning", "City Guides", "Itineraries"],
+    author: authors.amelia,
+    date: "2026-08-23",
+    readingTime: 4,
+    featured: false,
+    sections: [
+      {
+        body: "After the Top 100, these are the next hundred cities travellers actually plan trips around — from Hoi An and Jaipur to Granada, Banff and Perth. Every city has a live guide plus a separate 5–15 day itinerary. Open the full ranking at /blog/top-200-cities-to-visit-2026.",
+      },
+      {
+        heading: "How this list continues the Top 100",
+        body: "Ranks 101–200 follow the same editorial method: well-known tourist hubs that already have a city page on Global Itinerary. They are not filler megacities. Always check visas and current travel advice for your passport.",
+      },
+      {
+        heading: "How to use these guides",
+        body: "Pick one city as a primary stay, add one complementary stop in the same region, and open the matching N-day plan for costs and FAQs. Pair this list with the Top 100 ranking if you are still choosing a first destination.",
+      },
+    ],
+  },
+  {
     id: "dg-bali",
     slug: "7-day-bali-itinerary-trip-cost-2026",
     title: "7-Day Bali Itinerary & Trip Cost Guide (2026)",
