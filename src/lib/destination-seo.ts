@@ -27,20 +27,6 @@ export function enrichCountryFaqs(country: Country): FAQ[] {
       question: `How do I plan travel to ${country.name}?`,
       answer: `Use this ${country.name} travel guide for best time to visit, top cities, sample routes, budget tips and visa entry rules — then build a day-by-day plan around ${country.capital} and nearby highlights.`,
     },
-    {
-      question: `What currency is used in ${country.name}?`,
-      answer: `${country.name} uses the ${country.currency} (${country.currencyCode}). Our converter on this page shows a live mid-market rate from US dollars into ${country.currencyCode}.`,
-    },
-    {
-      question: `What language is spoken in ${country.name}?`,
-      answer: `The main language${country.languages.length > 1 ? "s" : ""} in ${country.name} ${country.languages.length > 1 ? "are" : "is"} ${country.languages.join(", ")}. Major tourist areas often have English signage, but a few local phrases still help.`,
-    },
-    {
-      question: `How do I get around ${country.name}?`,
-      answer: country.transportation.endsWith(".")
-        ? country.transportation
-        : `${country.transportation}.`,
-    },
   ];
   return mergeFaqs(country.faqs || [], defaults);
 }
@@ -120,14 +106,18 @@ export function cityTripPlanCopy(city: City): string {
 }
 
 function mergeFaqs(existing: FAQ[], defaults: FAQ[]): FAQ[] {
+  // Keep the destination's own questions intact. Only fill gaps on thin pages —
+  // do not dump every generic Q into the same accordion.
+  if (existing.length >= 3) return existing;
   const seen = new Set(existing.map((f) => normalizeQ(f.question)));
   const out = [...existing];
   for (const f of defaults) {
+    if (out.length >= 6) break;
     if (seen.has(normalizeQ(f.question))) continue;
     out.push(f);
     seen.add(normalizeQ(f.question));
   }
-  return out.slice(0, 10);
+  return out;
 }
 
 function normalizeQ(q: string) {
