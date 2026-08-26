@@ -378,11 +378,31 @@ function costBody(city: City, days: number): string {
 
 function faqBody(city: City, days: number): string {
   const stay = city.stayAreas?.[0]?.name;
-  const fromCity = (city.faqs || [])
-    .slice(0, 2)
-    .map((f) => `${f.question} ${f.answer}`)
-    .join(" ");
-  return `Is ${days} days enough for ${city.name}? Yes for a first visit at this pace — longer is better if you want side trips. Where should you stay? ${stay ? `${stay} is a strong first-timer base;` : "Stay central;"} read neighbourhood notes on the city guide. Do you need a car? Usually no in the urban core. ${withStop(city.transport || "Use local transit and ride-hails")} ${fromCity} Always verify visas and current travel advice for your passport before you fly.`;
+  const pairs = [
+    {
+      question: `Is ${days} days enough for ${city.name}?`,
+      answer:
+        "Yes for a first visit at this pace — longer is better if you want side trips.",
+    },
+    {
+      question: `Where should you stay in ${city.name}?`,
+      answer: stay
+        ? `${stay} is a strong first-timer base; read neighbourhood notes on the city guide.`
+        : "Stay central; read neighbourhood notes on the city guide.",
+    },
+    {
+      question: `Do you need a car in ${city.name}?`,
+      answer: `Usually no in the urban core. ${withStop(city.transport || "Use local transit and ride-hails")}`,
+    },
+    ...(city.faqs || []).slice(0, 2),
+    {
+      question: "Do I need to check visas before I fly?",
+      answer: "Always verify visas and current travel advice for your passport before you fly.",
+    },
+  ];
+  return pairs
+    .map((f) => `${f.question}\n-----\n${f.answer}`)
+    .join("\n\n");
 }
 
 export type ItinerarySeries = "top100" | "top200";

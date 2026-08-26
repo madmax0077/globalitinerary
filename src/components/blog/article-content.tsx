@@ -64,6 +64,19 @@ function parseCostPills(body: string): { label: string; value: string }[] {
 }
 
 function parseFaqPairs(body: string): { question: string; answer: string }[] {
+  const dashed = body
+    .split(/\n\s*\n/)
+    .map((chunk) => chunk.trim())
+    .filter(Boolean)
+    .flatMap((chunk) => {
+      const parts = chunk.split(/\n?-----+\n?/).map((s) => s.trim());
+      if (parts.length >= 2 && parts[0] && parts[1]) {
+        return [{ question: parts[0], answer: parts.slice(1).join(" ").trim() }];
+      }
+      return [];
+    });
+  if (dashed.length >= 2) return dashed;
+
   const matches = [...body.matchAll(/([A-Z][^?]{6,140}\?)\s*/g)];
   if (matches.length < 2) return [];
   const pairs: { question: string; answer: string }[] = [];
