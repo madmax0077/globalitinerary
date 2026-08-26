@@ -168,6 +168,9 @@ export interface Author {
   name: string;
   role: string;
   avatar: string;
+  slug?: string;
+  bio?: string;
+  focus?: string;
 }
 
 export interface ArticleSection {

@@ -9,8 +9,8 @@ export const siteConfig = {
   ogImage: "/opengraph-image",
   locale: "en_US",
   twitter: "@globalitinerary",
-  /** Public profiles for Organization sameAs (add real URLs when accounts exist). */
-  sameAs: [] as readonly string[],
+  /** Public profiles for Organization sameAs. */
+  sameAs: ["https://x.com/globalitinerary"] as readonly string[],
   keywords: [
     "travel guide",
     "travel itinerary",

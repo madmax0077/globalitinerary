@@ -1,7 +1,7 @@
 import { PageHero } from "@/components/shared/page-hero";
 import { RoutePlanner, type RouteCity } from "@/components/tools/route-planner";
 import { cities } from "@/data/cities";
-import { buildMetadata } from "@/lib/seo";
+import { buildMetadata, breadcrumbJsonLd, webApplicationJsonLd, JsonLd } from "@/lib/seo";
 
 export const metadata = buildMetadata({
   title: "Multi-City Route Planner — Plan a Multi-Stop Trip (2026)",
@@ -35,6 +35,20 @@ export default function RoutePlannerPage() {
 
   return (
     <>
+      <JsonLd
+        data={[
+          breadcrumbJsonLd([
+            { name: "Home", url: "/" },
+            { name: "Route planner", url: "/route-planner" },
+          ]),
+          webApplicationJsonLd({
+            name: "Multi-City Route Planner",
+            url: "/route-planner",
+            description:
+              "Add the cities you want to visit and get the best order to travel them, plus distances and rough flight times between each stop.",
+          }),
+        ]}
+      />
       <PageHero
         eyebrow="Stitch your trip together"
         title="Multi-city route planner"

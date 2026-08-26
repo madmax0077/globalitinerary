@@ -27,6 +27,20 @@ export function enrichCountryFaqs(country: Country): FAQ[] {
       question: `How do I plan travel to ${country.name}?`,
       answer: `Use this ${country.name} travel guide for best time to visit, top cities, sample routes, budget tips and visa entry rules — then build a day-by-day plan around ${country.capital} and nearby highlights.`,
     },
+    {
+      question: `What currency is used in ${country.name}?`,
+      answer: `${country.name} uses the ${country.currency} (${country.currencyCode}). Our converter on this page shows a live mid-market rate from US dollars into ${country.currencyCode}.`,
+    },
+    {
+      question: `What language is spoken in ${country.name}?`,
+      answer: `The main language${country.languages.length > 1 ? "s" : ""} in ${country.name} ${country.languages.length > 1 ? "are" : "is"} ${country.languages.join(", ")}. Major tourist areas often have English signage, but a few local phrases still help.`,
+    },
+    {
+      question: `How do I get around ${country.name}?`,
+      answer: country.transportation.endsWith(".")
+        ? country.transportation
+        : `${country.transportation}.`,
+    },
   ];
   return mergeFaqs(country.faqs || [], defaults);
 }
@@ -74,6 +88,37 @@ export function enrichCityFaqs(city: City): FAQ[] {
   return mergeFaqs(city.faqs || [], defaults);
 }
 
+/** Original planning paragraph — uses this page's data, not a wiki article. */
+export function countryTripPlanCopy(
+  country: Country,
+  extras: { cityCount: number; attractionCount: number; routeNames: string[] },
+): string {
+  const route =
+    extras.routeNames.length >= 2
+      ? `A practical first loop is ${extras.routeNames.join(" → ")}.`
+      : `Start in ${country.capital} and add nearby cities only if you have the days.`;
+  const days =
+    extras.cityCount >= 12 ? "10–14" : extras.cityCount >= 5 ? "7–10" : "5–7";
+  const attractions =
+    extras.attractionCount > 0
+      ? ` We also flag ${extras.attractionCount} standout attraction${extras.attractionCount === 1 ? "" : "s"} worth building a day around.`
+      : "";
+  return `Most first-time trips to ${country.name} work in ${days} days: fly into ${country.capital}, then move only as far as your energy allows. ${route} Mid-range travellers typically budget ${country.budgetPerDay} per person per day on the ground (flights extra). Best time: ${country.bestTime.replace(/\.$/, "")}. This route, cost band and city shortlist are Global Itinerary’s own planning layer — not a copy of another guidebook.${attractions}`;
+}
+
+export function cityTripPlanCopy(city: City): string {
+  const sights = (city.thingsToDo ?? []).filter(Boolean).slice(0, 3);
+  const days = city.itinerary?.length ?? 0;
+  const stay = days > 0 ? `Plan about ${days} days.` : `Most people stay 2–4 days.`;
+  const focus = sights.length
+    ? ` If time is short, prioritise ${sights.join(", ")} instead of racing the whole list.`
+    : "";
+  const cost = city.tripCost
+    ? ` Mid-range ground costs are about ${city.tripCost.mid} ${city.tripCost.currency} per person per day, excluding international flights.`
+    : "";
+  return `${city.name} is a stop in ${city.countryName}, not a country-in-a-weekend. ${stay}${focus}${cost} Best time: ${city.bestTime.replace(/\.$/, "")}. Rankings, stay length and cost bands on this page come from Global Itinerary’s trip-planning models.`;
+}
+
 function mergeFaqs(existing: FAQ[], defaults: FAQ[]): FAQ[] {
   const seen = new Set(existing.map((f) => normalizeQ(f.question)));
   const out = [...existing];
@@ -82,7 +127,7 @@ function mergeFaqs(existing: FAQ[], defaults: FAQ[]): FAQ[] {
     out.push(f);
     seen.add(normalizeQ(f.question));
   }
-  return out.slice(0, 8);
+  return out.slice(0, 10);
 }
 
 function normalizeQ(q: string) {

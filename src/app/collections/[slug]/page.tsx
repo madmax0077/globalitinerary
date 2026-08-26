@@ -8,7 +8,7 @@ import { Breadcrumbs } from "@/components/shared/breadcrumbs";
 import { DestinationCard } from "@/components/shared/destination-card";
 import { Badge } from "@/components/ui/badge";
 import { Stagger, StaggerItem } from "@/components/ui/reveal";
-import { buildMetadata, breadcrumbJsonLd, JsonLd } from "@/lib/seo";
+import { buildMetadata, breadcrumbJsonLd, collectionPageJsonLd, JsonLd } from "@/lib/seo";
 
 export const revalidate = 86400;
 
@@ -76,10 +76,19 @@ export default async function CollectionPage({
   return (
     <>
       <JsonLd
-        data={breadcrumbJsonLd([
-          { name: "Collections", url: "/collections" },
-          { name: collection.title, url: `/collections/${collection.slug}` },
-        ])}
+        data={[
+          breadcrumbJsonLd([
+            { name: "Collections", url: "/collections" },
+            { name: collection.title, url: `/collections/${collection.slug}` },
+          ]),
+          collectionPageJsonLd({
+            name: collection.title,
+            description: collection.description,
+            url: `/collections/${collection.slug}`,
+            numberOfItems: collection.count,
+            items: picks.map((p) => ({ name: p.title, url: p.href })),
+          }),
+        ]}
       />
       <section className="relative flex min-h-[52vh] items-end overflow-hidden">
         <div className="absolute inset-0 -z-10">

@@ -44,7 +44,7 @@ export function Gallery({ images, title }: { images: string[]; title: string }) 
           >
             <Image
               src={src}
-              alt={`${title} photo ${i + 1}`}
+              alt={`${title} travel photo ${i + 1} of ${images.length} — destinations and landmarks in the ${title} guide`}
               fill
               sizes="(max-width:640px) 45vw, 22vw"
               className="object-cover transition-transform duration-500 group-hover:scale-110"
@@ -89,7 +89,7 @@ export function Gallery({ images, title }: { images: string[]; title: string }) 
             >
               <Image
                 src={images[index]}
-                alt={`${title} photo ${index + 1}`}
+                alt={`${title} travel photo ${index + 1} of ${images.length} — destinations and landmarks in the ${title} guide`}
                 fill
                 sizes="90vw"
                 className="object-contain"

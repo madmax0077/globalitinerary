@@ -11,6 +11,7 @@ import { CookieConsent } from "@/components/layout/cookie-consent";
 import { GoogleAnalytics } from "@/components/shared/google-analytics";
 import { Ezoic } from "@/components/shared/ezoic";
 import { siteConfig, adsenseClientId, gaMeasurementId } from "@/lib/config";
+import { JsonLd, organizationJsonLd, websiteJsonLd } from "@/lib/seo";
 
 const adsenseClient = adsenseClientId;
 
@@ -32,7 +33,7 @@ export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
   title: {
     default: `${siteConfig.name} — ${siteConfig.tagline}`,
-    template: `%s · ${siteConfig.name}`,
+    template: "%s",
   },
   description: siteConfig.description,
   keywords: [...siteConfig.keywords],
@@ -54,7 +55,17 @@ export const metadata: Metadata = {
     creator: siteConfig.twitter,
     site: siteConfig.twitter,
   },
-  robots: { index: true, follow: true },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+      "max-video-preview": -1,
+    },
+  },
   verification: {
     ...(process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION
       ? { google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION }
@@ -94,6 +105,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning className={`${inter.variable} ${jakarta.variable}`}>
       <body className="min-h-dvh antialiased">
+        <JsonLd data={[organizationJsonLd(), websiteJsonLd()]} />
         <Providers>
           <a
             href="#main"

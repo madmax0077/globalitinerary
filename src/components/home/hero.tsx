@@ -33,7 +33,7 @@ export function Hero({ cityCount }: { cityCount: number }) {
       <div className="absolute inset-0 -z-10">
         <Image
           src={unsplash(PHOTOS.santoriniDomes, 2600)}
-          alt="A breathtaking travel destination at golden hour"
+          alt="Santorini, Greece at golden hour — travel inspiration from Global Itinerary"
           fill
           priority
           sizes="100vw"

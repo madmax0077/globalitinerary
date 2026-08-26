@@ -16,6 +16,7 @@ import { ArticleContent } from "@/components/blog/article-content";
 import { SectionHeading } from "@/components/shared/section-heading";
 import { buildMetadata, breadcrumbJsonLd, articleJsonLd, JsonLd } from "@/lib/seo";
 import { siteConfig } from "@/lib/config";
+import { getAuthorByName, authorUrl } from "@/data/authors";
 
 export const revalidate = 3600;
 export const dynamicParams = true;
@@ -81,6 +82,7 @@ export default async function ArticlePage({
     month: "long",
     day: "numeric",
   });
+  const byline = getAuthorByName(article.author.name);
 
   return (
     <>
@@ -96,7 +98,13 @@ export default async function ArticlePage({
             image: article.cover,
             datePublished: article.date,
             author: article.author.name,
+            authorUrl: byline ? authorUrl(byline) : undefined,
             url: `${siteConfig.url}/blog/${article.slug}`,
+            articleSection: article.category,
+            wordCount: article.sections.reduce(
+              (n, s) => n + s.body.split(/\s+/).filter(Boolean).length,
+              0,
+            ),
           }),
         ]}
       />
@@ -122,15 +130,26 @@ export default async function ArticlePage({
 
                 <div className="mt-6 flex flex-wrap items-center justify-between gap-4 rounded-2xl border border-border bg-card px-4 py-3 shadow-soft sm:px-5">
                   <div className="flex items-center gap-3">
-                    <Image
+                    {/* SVG avatars are self-hosted; skip next/image optimizer */}
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img
                       src={article.author.avatar}
-                      alt={article.author.name}
+                      alt={`${article.author.name}, ${article.author.role}`}
                       width={44}
                       height={44}
                       className="size-11 rounded-full object-cover"
                     />
                     <div>
-                      <p className="text-sm font-semibold">{article.author.name}</p>
+                      {byline ? (
+                        <Link
+                          href={`/authors/${byline.slug}`}
+                          className="text-sm font-semibold hover:text-primary hover:underline"
+                        >
+                          {article.author.name}
+                        </Link>
+                      ) : (
+                        <p className="text-sm font-semibold">{article.author.name}</p>
+                      )}
                       <p className="text-xs text-muted-foreground">{article.author.role}</p>
                     </div>
                   </div>

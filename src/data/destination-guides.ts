@@ -1,11 +1,6 @@
 import type { Article } from "@/lib/types";
 import { PHOTOS, unsplash } from "@/lib/images";
-
-const authors = {
-  amelia: { name: "Amelia Chen", role: "Senior Travel Editor", avatar: "https://i.pravatar.cc/160?img=47" },
-  marco: { name: "Marco Rossi", role: "Photographer & Writer", avatar: "https://i.pravatar.cc/160?img=12" },
-  sofia: { name: "Sofia Ahmed", role: "Adventure Correspondent", avatar: "https://i.pravatar.cc/160?img=32" },
-};
+import { authors } from "@/data/authors";
 
 /** Full destination guides published under /blog — itinerary, best time, trip cost, FAQs. */
 export const destinationGuides: Article[] = [

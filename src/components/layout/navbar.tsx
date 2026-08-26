@@ -167,7 +167,7 @@ export function Navbar() {
                         className="flex items-center gap-3 rounded-xl px-2 py-1.5 transition-colors hover:bg-muted"
                       >
                         <span className="relative size-9 overflow-hidden rounded-lg">
-                          <Image src={c.image} alt="" fill sizes="36px" className="object-cover" />
+                          <Image src={c.image} alt={`${c.name} travel photo`} fill sizes="36px" className="object-cover" />
                         </span>
                         <span>
                           <span className="block text-sm font-semibold">{c.name}</span>

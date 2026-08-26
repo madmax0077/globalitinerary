@@ -23,7 +23,7 @@ export async function generateMetadata({
   const country = getCountry(slug);
   if (!country) return {};
   return buildMetadata({
-    title: `${country.name} Visa Requirements 2026 — Do I Need a Visa?`,
+    title: `${country.name} Visa Requirements 2026`,
     description: `Check ${country.name} visa requirements by nationality: find out if you need a visa, if it's visa-free or visa-on-arrival, and the documents you'll need for a tourist, business, student or work visa.`,
     path: `/countries/${country.slug}/visa`,
     image: country.heroImage,

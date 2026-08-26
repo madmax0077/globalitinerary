@@ -4,7 +4,9 @@ import * as React from "react";
 import { ArrowRightLeft } from "lucide-react";
 import { formatMoney, currencySymbol } from "@/lib/currency";
 
-// All world currency codes supported by open.er-api.com (ISO 4217).
+const FEATURED_CODES = [
+  "USD", "EUR", "GBP", "INR", "JPY", "AUD", "CAD", "SGD", "AED", "CHF", "NZD", "THB", "KRW",
+];
 const CURRENCY_CODES = [
   "AED", "AFN", "ALL", "AMD", "ANG", "AOA", "ARS", "AUD", "AWG", "AZN",
   "BAM", "BBD", "BDT", "BGN", "BHD", "BIF", "BMD", "BND", "BOB", "BRL",
@@ -69,6 +71,14 @@ export function CurrencyConverter({
   const [rate, setRate] = React.useState<number | null>(null);
   const [status, setStatus] = React.useState<"loading" | "ok" | "error">("loading");
   const [updated, setUpdated] = React.useState<string | null>(null);
+  const [showAllCurrencies, setShowAllCurrencies] = React.useState(false);
+
+  const visibleOptions = React.useMemo(() => {
+    if (showAllCurrencies) return options;
+    const keep = new Set([...FEATURED_CODES, target, base]);
+    const featured = options.filter((o) => keep.has(o.code));
+    return featured.length >= 2 ? featured : options;
+  }, [options, showAllCurrencies, target, base]);
 
   React.useEffect(() => {
     let active = true;
@@ -120,7 +130,7 @@ export function CurrencyConverter({
             className="max-w-[9rem] rounded-xl border border-border bg-background px-3 py-2 text-sm outline-none focus:border-primary"
             aria-label="From currency"
           >
-            {options.map((o) => (
+            {visibleOptions.map((o) => (
               <option key={o.code} value={o.code}>
                 {o.label}
               </option>
@@ -153,6 +163,13 @@ export function CurrencyConverter({
         {updated && status === "ok" && (
           <p className="text-[11px] text-muted-foreground">Rates: {updated}</p>
         )}
+        <button
+          type="button"
+          onClick={() => setShowAllCurrencies((v) => !v)}
+          className="text-left text-xs font-medium text-primary hover:underline"
+        >
+          {showAllCurrencies ? "Show common currencies" : "More currencies"}
+        </button>
       </div>
     </div>
   );

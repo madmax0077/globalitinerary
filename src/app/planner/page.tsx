@@ -12,7 +12,7 @@ import { DestinationFinder, type FinderCountry } from "@/components/tools/destin
 import { DistanceCalculator, type DistanceCity } from "@/components/tools/distance-calculator";
 import { countries } from "@/data/countries";
 import { cities } from "@/data/cities";
-import { buildMetadata } from "@/lib/seo";
+import { buildMetadata, breadcrumbJsonLd, webApplicationJsonLd, JsonLd } from "@/lib/seo";
 import { calculatorDefaultsForCountry } from "@/lib/travel-budgets";
 
 export const metadata = buildMetadata({
@@ -57,6 +57,17 @@ export default function PlannerPage() {
 
   return (
     <>
+      <JsonLd
+        data={[
+          breadcrumbJsonLd([{ name: "Trip Planner", url: "/planner" }]),
+          webApplicationJsonLd({
+            name: "Trip Planner",
+            url: "/planner",
+            description:
+              "Search destinations, estimate a budget, build a packing list and plan a multi-city route in one place.",
+          }),
+        ]}
+      />
       <PageHero
         eyebrow="Trip planner"
         title="Plan your perfect journey"

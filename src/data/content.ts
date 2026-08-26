@@ -3,12 +3,7 @@ import { PHOTOS, unsplash } from "@/lib/images";
 import { destinationGuides } from "@/data/destination-guides";
 import { top100CityGuides } from "@/data/top100-city-guides";
 import { top200CityGuides } from "@/data/top200-city-guides";
-
-const authors = {
-  amelia: { name: "Amelia Chen", role: "Senior Travel Editor", avatar: "https://i.pravatar.cc/160?img=47" },
-  marco: { name: "Marco Rossi", role: "Photographer & Writer", avatar: "https://i.pravatar.cc/160?img=12" },
-  sofia: { name: "Sofia Ahmed", role: "Adventure Correspondent", avatar: "https://i.pravatar.cc/160?img=32" },
-};
+import { authors } from "@/data/authors";
 
 const legacyArticles: Article[] = [
   {

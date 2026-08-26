@@ -2,7 +2,7 @@ import { PageHero } from "@/components/shared/page-hero";
 import { PackingGenerator, type PackCountry } from "@/components/tools/packing-generator";
 import { countries } from "@/data/countries";
 import { travelFacts } from "@/data/travel-facts.generated";
-import { buildMetadata } from "@/lib/seo";
+import { buildMetadata, breadcrumbJsonLd, webApplicationJsonLd, JsonLd } from "@/lib/seo";
 
 export const metadata = buildMetadata({
   title: "Packing List Generator — What to Pack for Any Trip (2026)",
@@ -32,6 +32,20 @@ export default function PackingListPage() {
 
   return (
     <>
+      <JsonLd
+        data={[
+          breadcrumbJsonLd([
+            { name: "Home", url: "/" },
+            { name: "Packing list", url: "/packing-list" },
+          ]),
+          webApplicationJsonLd({
+            name: "Packing List Generator",
+            url: "/packing-list",
+            description:
+              "Build a personalised travel packing list from destination, trip length, trip type and weather — including the right power adapter.",
+          }),
+        ]}
+      />
       <PageHero
         eyebrow="Pack smart"
         title="Packing list generator"

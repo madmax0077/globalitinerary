@@ -103,6 +103,12 @@ export default async function AttractionPage({
             lat: attraction.coordinates.lat,
             lng: attraction.coordinates.lng,
             address: attraction.address,
+            slug: attraction.slug,
+            cityName: attraction.cityName,
+            citySlug: attraction.citySlug,
+            countryName: attraction.countryName,
+            countryCode: country?.id,
+            category: attraction.category,
           }),
           faqJsonLd(attraction.faqs),
         ]}

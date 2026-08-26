@@ -15,6 +15,7 @@ import { Badge } from "@/components/ui/badge";
 import { SectionHeading } from "@/components/shared/section-heading";
 import { buildMetadata, breadcrumbJsonLd, articleJsonLd, itemListJsonLd, JsonLd } from "@/lib/seo";
 import { siteConfig } from "@/lib/config";
+import { authors, authorUrl } from "@/data/authors";
 import { PHOTOS, unsplash } from "@/lib/images";
 
 const SLUG = "top-100-cities-to-visit-2026";
@@ -65,7 +66,9 @@ export default function Top100CitiesArticlePage() {
             description: EXCERPT,
             image: COVER,
             datePublished: DATE,
-            author: "Amelia Chen",
+            author: authors.amelia.name,
+            authorUrl: authorUrl(authors.amelia),
+            articleSection: "Guides",
             url: `${siteConfig.url}/blog/${SLUG}`,
           }),
           itemListJsonLd(
@@ -94,8 +97,12 @@ export default function Top100CitiesArticlePage() {
 
         <div className="mt-6 flex flex-wrap items-center justify-between gap-4 border-y border-border py-4">
           <div>
-            <p className="text-sm font-semibold">Amelia Chen</p>
-            <p className="text-xs text-muted-foreground">Senior Travel Editor</p>
+            <p className="text-sm font-semibold">
+              <Link href={`/authors/${authors.amelia.slug}`} className="hover:text-primary hover:underline">
+                {authors.amelia.name}
+              </Link>
+            </p>
+            <p className="text-xs text-muted-foreground">{authors.amelia.role}</p>
           </div>
           <div className="flex items-center gap-4 text-sm text-muted-foreground">
             <span className="flex items-center gap-1.5">

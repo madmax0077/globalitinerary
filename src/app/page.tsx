@@ -18,7 +18,7 @@ import { cities } from "@/data/cities";
 import { attractions } from "@/data/attractions";
 import { articles } from "@/data/content";
 import { citySitemapSlugs } from "@/data/city-sitemap-slugs.generated";
-import { buildMetadata, JsonLd, organizationJsonLd, websiteJsonLd } from "@/lib/seo";
+import { buildMetadata } from "@/lib/seo";
 
 export const metadata = buildMetadata({
   title: "Travel Guides, Itineraries & Things to Do Worldwide",
@@ -60,7 +60,6 @@ export default function Home() {
 
   return (
     <>
-      <JsonLd data={[organizationJsonLd(), websiteJsonLd()]} />
       <Hero cityCount={cityGuideCount} />
 
       {/* Trending countries */}

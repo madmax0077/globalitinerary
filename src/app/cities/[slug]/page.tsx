@@ -49,7 +49,7 @@ import {
   touristDestinationJsonLd,
   JsonLd,
 } from "@/lib/seo";
-import { enrichCityFaqs } from "@/lib/destination-seo";
+import { enrichCityFaqs, cityTripPlanCopy } from "@/lib/destination-seo";
 import { resolveCityTimezone } from "@/lib/timezone";
 
 function haversine(a: { lat: number; lng: number }, b: { lat: number; lng: number }) {
@@ -80,7 +80,7 @@ export async function generateMetadata({
   const indexable = isCityIndexable(city);
   return {
     ...buildMetadata({
-      title: `${city.name}, ${city.countryName} Travel Guide — Things to Do & Itinerary`,
+      title: `${city.name} Travel Guide: Things to Do & Costs`,
       description: indexable
         ? `Things to do in ${city.name}, ${city.countryName}: top attractions, itinerary ideas, where to stay, best time to visit, local food and travel tips.`
         : `Overview of ${city.name}, ${city.countryName}. Browse nearby destinations and country guides on Global Itinerary.`,
@@ -99,7 +99,19 @@ export async function generateMetadata({
         ...(city.categories ?? []),
       ],
     }),
-    robots: { index: true, follow: true },
+    robots: indexable
+      ? {
+          index: true,
+          follow: true,
+          googleBot: {
+            index: true,
+            follow: true,
+            "max-image-preview": "large" as const,
+            "max-snippet": -1,
+            "max-video-preview": -1,
+          },
+        }
+      : { index: false, follow: true },
   };
 }
 
@@ -181,8 +193,6 @@ export default async function CityPage({
   const indexable = isCityIndexable(city);
   const schema = [
     breadcrumbJsonLd([
-      { name: "Home", url: "/" },
-      { name: "Countries", url: "/countries" },
       { name: city.countryName, url: `/countries/${city.countrySlug}` },
       { name: city.name, url: `/cities/${city.slug}` },
     ]),
@@ -192,6 +202,12 @@ export default async function CityPage({
       image: city.heroImage,
       lat: city.coordinates.lat,
       lng: city.coordinates.lng,
+      url: `/cities/${city.slug}`,
+      country: city.countryName,
+      containedInPlace: {
+        name: city.countryName,
+        url: `/countries/${city.countrySlug}`,
+      },
     }),
     ...(indexable ? [faqJsonLd(faqs)] : []),
   ];
@@ -205,7 +221,7 @@ export default async function CityPage({
         <div className="absolute inset-0 -z-10">
           <Image
             src={city.heroImage}
-            alt={`Things to do in ${city.name}, ${city.countryName}`}
+            alt={`${city.name}, ${city.countryName} — things to do and trip planning photo`}
             fill
             priority
             sizes="100vw"
@@ -265,6 +281,9 @@ export default async function CityPage({
             </h2>
             <p className="mt-4 text-lg leading-relaxed text-muted-foreground">
               {city.overview}
+            </p>
+            <p className="mt-4 text-base leading-relaxed text-muted-foreground">
+              {cityTripPlanCopy(city)}
             </p>
           </Reveal>
 

@@ -1,6 +1,7 @@
 import { PageHero } from "@/components/shared/page-hero";
 import { CollectionsGrid } from "@/components/home/collections-grid";
-import { buildMetadata } from "@/lib/seo";
+import { collections } from "@/data/content";
+import { buildMetadata, breadcrumbJsonLd, collectionPageJsonLd, JsonLd } from "@/lib/seo";
 
 export const revalidate = 86400;
 
@@ -14,6 +15,21 @@ export const metadata = buildMetadata({
 export default function CollectionsPage() {
   return (
     <>
+      <JsonLd
+        data={[
+          breadcrumbJsonLd([{ name: "Collections", url: "/collections" }]),
+          collectionPageJsonLd({
+            name: "Travel Collections",
+            description:
+              "Curated travel collections — luxury escapes, beach paradises, mountain adventures, food journeys and more.",
+            url: "/collections",
+            items: collections.map((c) => ({
+              name: c.title,
+              url: `/collections/${c.slug}`,
+            })),
+          }),
+        ]}
+      />
       <PageHero
         eyebrow="Collections"
         title="Travel by mood, not just map"

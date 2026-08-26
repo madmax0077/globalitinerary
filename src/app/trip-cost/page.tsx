@@ -2,7 +2,7 @@ import { PageHero } from "@/components/shared/page-hero";
 import { TripCostEstimator, type CostCountry } from "@/components/tools/trip-cost";
 import { countries } from "@/data/countries";
 import { travelFacts } from "@/data/travel-facts.generated";
-import { buildMetadata } from "@/lib/seo";
+import { buildMetadata, breadcrumbJsonLd, webApplicationJsonLd, JsonLd } from "@/lib/seo";
 
 export const metadata = buildMetadata({
   title: "Trip Cost Estimator — How Much Does a Trip Cost? (2026)",
@@ -36,6 +36,20 @@ export default function TripCostPage() {
 
   return (
     <>
+      <JsonLd
+        data={[
+          breadcrumbJsonLd([
+            { name: "Home", url: "/" },
+            { name: "Trip cost", url: "/trip-cost" },
+          ]),
+          webApplicationJsonLd({
+            name: "Trip Cost Estimator",
+            url: "/trip-cost",
+            description:
+              "Estimate the total cost of a trip based on destination, trip length, travellers, and daily budget for flights, accommodation, food, transport and activities.",
+          }),
+        ]}
+      />
       <PageHero
         eyebrow="Budget with confidence"
         title="Trip cost estimator"

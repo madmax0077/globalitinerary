@@ -87,7 +87,9 @@ export const footerNav = {
   ],
   Company: [
     { label: "About", href: "/about" },
+    { label: "Authors", href: "/authors" },
     { label: "Travel Guides", href: "/blog" },
+    { label: "Sitemap", href: "/sitemap" },
     { label: "Contact", href: "/contact" },
   ],
   Resources: [

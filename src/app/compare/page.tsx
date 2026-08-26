@@ -1,7 +1,7 @@
 import { PageHero } from "@/components/shared/page-hero";
 import { CompareTool, type CompareCountry } from "@/components/tools/compare-tool";
 import { countries } from "@/data/countries";
-import { buildMetadata } from "@/lib/seo";
+import { buildMetadata, breadcrumbJsonLd, webApplicationJsonLd, JsonLd } from "@/lib/seo";
 
 export const metadata = buildMetadata({
   title: "Compare Destinations Side by Side",
@@ -46,6 +46,20 @@ export default function ComparePage() {
 
   return (
     <>
+      <JsonLd
+        data={[
+          breadcrumbJsonLd([
+            { name: "Home", url: "/" },
+            { name: "Compare", url: "/compare" },
+          ]),
+          webApplicationJsonLd({
+            name: "Compare Destinations",
+            url: "/compare",
+            description:
+              "Compare any two countries side by side — best time to visit, daily budget, currency, visa rules, safety and weather.",
+          }),
+        ]}
+      />
       <PageHero
         eyebrow="Decide with confidence"
         title="Compare destinations"

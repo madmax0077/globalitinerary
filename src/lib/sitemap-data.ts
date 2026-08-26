@@ -5,6 +5,7 @@ import { destinationGuides } from "@/data/destination-guides";
 import { citySitemapSlugs } from "@/data/city-sitemap-slugs.generated";
 import { iso2ToIso3, visaMatrix } from "@/data/visa.generated";
 import { listTop100GuideSitemapEntries, listTop200GuideSitemapEntries } from "@/data/top100-guide-meta";
+import { authorList } from "@/data/authors";
 
 /** Keep sitemap generation off cities.generated.ts (7MB+) so this route can build on Vercel. */
 const COLLECTION_SLUGS = [
@@ -33,7 +34,7 @@ export type SitemapEntry = {
 };
 
 /** Bump this when city/country content is bulk-updated so crawlers see a new lastmod. */
-export const SITEMAP_CONTENT_DATE = new Date("2026-08-23T00:00:00.000Z");
+export const SITEMAP_CONTENT_DATE = new Date("2026-08-26T00:00:00.000Z");
 
 function escapeXml(value: string): string {
   return value
@@ -110,6 +111,8 @@ export function buildPageSitemapEntries(): SitemapEntry[] {
     "/trip-cost",
     "/etias-ees",
     "/about",
+    "/authors",
+    "/sitemap",
     "/contact",
     "/privacy",
     "/terms",
@@ -120,6 +123,13 @@ export function buildPageSitemapEntries(): SitemapEntry[] {
     lastModified: now,
     changeFrequency: "weekly" as const,
     priority: path === "" ? 1 : path === "/blog" || path === "/countries" || path === "/cities" ? 0.9 : 0.8,
+  }));
+
+  const authorRoutes = authorList.map((a) => ({
+    url: `${base}/authors/${a.slug}`,
+    lastModified: now,
+    changeFrequency: "monthly" as const,
+    priority: 0.6,
   }));
 
   const collectionRoutes = COLLECTION_SLUGS.map((slug) => ({
@@ -156,7 +166,7 @@ export function buildPageSitemapEntries(): SitemapEntry[] {
     priority: 0.7,
   }));
 
-  return dedupe([...staticRoutes, rssRoute, ...collectionRoutes, ...articleRoutes, ...attractionRoutes]);
+  return dedupe([...staticRoutes, rssRoute, ...authorRoutes, ...collectionRoutes, ...articleRoutes, ...attractionRoutes]);
 }
 
 export function buildCountrySitemapEntries(): SitemapEntry[] {

@@ -45,9 +45,11 @@ import {
   breadcrumbJsonLd,
   faqJsonLd,
   touristDestinationJsonLd,
+  touristTripJsonLd,
   JsonLd,
 } from "@/lib/seo";
-import { enrichCountryFaqs } from "@/lib/destination-seo";
+import { enrichCountryFaqs, countryTripPlanCopy } from "@/lib/destination-seo";
+import { CountryCityDirectory } from "@/components/shared/country-city-directory";
 import { formatTimezoneLabel, resolveCountryTimezone } from "@/lib/timezone";
 import { formatNumber } from "@/lib/utils";
 import { currencySymbol } from "@/lib/currency";
@@ -105,7 +107,7 @@ export async function generateMetadata({
   if (!country) return {};
   const name = country.name;
   return buildMetadata({
-    title: `${name} Travel Guide — Visit ${name} & Plan Your Trip`,
+    title: `${name} Travel Guide: Best Time, Cities & Costs`,
     description: `Visit ${name}: travel guide with best time to visit, top cities, sample itineraries, budget tips, safety advice and visa rules for travel to ${name}.`,
     path: `/countries/${country.slug}`,
     image: country.heroImage,
@@ -198,6 +200,25 @@ export default async function CountryPage({
     { icon: Wallet, label: "Budget / day", value: country.budgetPerDay },
   ];
   const faqs = enrichCountryFaqs(country);
+  const featuredCityCards = (() => {
+    const picked: City[] = [];
+    const seen = new Set<string>();
+    for (const slug of country.topCitySlugs || []) {
+      const match = cities.find((c) => c.slug === slug);
+      if (match && !seen.has(match.slug)) {
+        picked.push(match);
+        seen.add(match.slug);
+      }
+    }
+    for (const city of cities) {
+      if (picked.length >= 8) break;
+      if (!seen.has(city.slug)) {
+        picked.push(city);
+        seen.add(city.slug);
+      }
+    }
+    return picked.slice(0, 8);
+  })();
 
   return (
     <>
@@ -214,7 +235,25 @@ export default async function CountryPage({
             image: country.heroImage,
             lat: country.coordinates.lat,
             lng: country.coordinates.lng,
+            url: `/countries/${country.slug}`,
+            country: country.name,
+            containsPlace: featuredCityCards.map((c) => ({
+              name: c.name,
+              url: `/cities/${c.slug}`,
+            })),
           }),
+          ...(route.length >= 2
+            ? [
+                touristTripJsonLd({
+                  name: `A route through ${country.name}`,
+                  description: `A suggested loop connecting ${country.name}'s major cities by proximity — a practical order for a multi-city trip.`,
+                  stops: route.map((c) => ({
+                    name: c.name,
+                    url: `/cities/${c.slug}`,
+                  })),
+                }),
+              ]
+            : []),
           faqJsonLd(faqs),
         ]}
       />
@@ -224,7 +263,7 @@ export default async function CountryPage({
         <div className="absolute inset-0 -z-10">
           <Image
             src={country.heroImage}
-            alt={`Visit ${country.name} — travel guide`}
+            alt={`${country.name} travel photo — plan a trip to ${country.capital}`}
             fill
             priority
             sizes="100vw"
@@ -282,6 +321,13 @@ export default async function CountryPage({
                 visa requirements
               </Link>
               .
+            </p>
+            <p className="mt-4 text-base leading-relaxed text-muted-foreground">
+              {countryTripPlanCopy(country, {
+                cityCount: cities.length,
+                attractionCount: attractionsList.length,
+                routeNames: route.map((c) => c.name),
+              })}
             </p>
           </Reveal>
 
@@ -368,9 +414,9 @@ export default async function CountryPage({
           {/* Top cities */}
           {cities.length > 0 && (
             <div>
-              <SectionHeading eyebrow="Where to go" title="Top cities" />
+              <SectionHeading eyebrow="Where to go" title={`Top cities in ${country.name}`} />
               <div className="mt-8 grid grid-cols-1 gap-5 sm:grid-cols-2">
-                {cities.map((c) => (
+                {featuredCityCards.map((c) => (
                   <DestinationCard
                     key={c.slug}
                     href={`/cities/${c.slug}`}
@@ -384,6 +430,11 @@ export default async function CountryPage({
                   />
                 ))}
               </div>
+              {cities.length > 8 && (
+                <div className="mt-8">
+                  <CountryCityDirectory countryName={country.name} cities={cities} />
+                </div>
+              )}
             </div>
           )}
 

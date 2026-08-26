@@ -51,7 +51,7 @@ export function DestinationCard({
       <div className={cn("relative w-full overflow-hidden", aspects[aspect])}>
         <Image
           src={image}
-          alt={title}
+          alt={`${title} travel photo`}
           fill
           sizes={sizes}
           priority={priority}
