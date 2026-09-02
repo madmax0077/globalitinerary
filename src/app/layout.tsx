@@ -1,7 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import Script from "next/script";
 import { Inter, Plus_Jakarta_Sans } from "next/font/google";
-import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 import { Providers } from "@/components/providers";
 import { Navbar } from "@/components/layout/navbar";
@@ -132,7 +131,6 @@ export default function RootLayout({
         ) : null}
         <GoogleAnalytics id={gaMeasurementId} />
         <Ezoic />
-        <Analytics />
       </body>
     </html>
   );

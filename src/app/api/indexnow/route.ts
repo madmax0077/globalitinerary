@@ -13,10 +13,12 @@ function authorized(request: Request): boolean {
 
   if (request.headers.get("x-vercel-cron") === "1") return true;
   if (cronSecret && auth === `Bearer ${cronSecret}`) return true;
-  if (expectedToken) return token === expectedToken;
+  if (expectedToken && token === expectedToken) return true;
   // Local preview only — production needs a token or cron header.
-  if (process.env.VERCEL_ENV === "production") return false;
-  return !expectedToken && !cronSecret;
+  if (process.env.NODE_ENV !== "production" && !expectedToken && !cronSecret) {
+    return true;
+  }
+  return false;
 }
 
 async function submitIndexNow(urlList: string[]) {
