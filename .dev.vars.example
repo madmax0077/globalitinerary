@@ -1,4 +1,0 @@
-NEXTJS_ENV=development
-NEXT_PUBLIC_SITE_URL=http://localhost:3000
-CRON_SECRET=dev-cron-secret
-INDEXNOW_TOKEN=
