@@ -2,7 +2,6 @@ import { PageHero } from "@/components/shared/page-hero";
 import { CompareTool, type CompareCountry } from "@/components/tools/compare-tool";
 import { countries } from "@/data/countries";
 import { buildMetadata, breadcrumbJsonLd, webApplicationJsonLd, JsonLd } from "@/lib/seo";
-import { REVALIDATE_GUIDE_SECONDS } from "@/lib/isr";
 
 export const metadata = buildMetadata({
   title: "Compare Destinations Side by Side",
@@ -19,7 +18,7 @@ export const metadata = buildMetadata({
   ],
 });
 
-export const revalidate = REVALIDATE_GUIDE_SECONDS;
+export const revalidate = 604800;
 
 export default function ComparePage() {
   const list: CompareCountry[] = countries.map((c) => ({

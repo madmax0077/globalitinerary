@@ -7,9 +7,8 @@ import { authorList } from "@/data/authors";
 import { continents } from "@/lib/navigation";
 import { buildMetadata, breadcrumbJsonLd, JsonLd } from "@/lib/seo";
 import { siteConfig } from "@/lib/config";
-import { REVALIDATE_FEED_SECONDS } from "@/lib/isr";
 
-export const revalidate = REVALIDATE_FEED_SECONDS;
+export const revalidate = 86400;
 
 export const metadata = buildMetadata({
   title: "Sitemap",

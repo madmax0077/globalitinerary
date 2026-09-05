@@ -4,9 +4,8 @@ import { DestinationCard } from "@/components/shared/destination-card";
 import { SectionHeading } from "@/components/shared/section-heading";
 import { countries } from "@/data/countries";
 import { buildMetadata } from "@/lib/seo";
-import { REVALIDATE_GUIDE_SECONDS } from "@/lib/isr";
 
-export const revalidate = REVALIDATE_GUIDE_SECONDS;
+export const revalidate = 604800;
 
 export const metadata = buildMetadata({
   title: "Explore the World Map",

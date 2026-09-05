@@ -4,9 +4,8 @@ import { AdSlot } from "@/components/shared/ad-slot";
 import { countries } from "@/data/countries";
 import { continents } from "@/lib/navigation";
 import { buildMetadata } from "@/lib/seo";
-import { REVALIDATE_GUIDE_SECONDS } from "@/lib/isr";
 
-export const revalidate = REVALIDATE_GUIDE_SECONDS;
+export const revalidate = 604800;
 
 export const metadata = buildMetadata({
   title: "All Countries",

@@ -30,9 +30,8 @@ import {
   touristAttractionJsonLd,
   JsonLd,
 } from "@/lib/seo";
-import { REVALIDATE_GUIDE_SECONDS } from "@/lib/isr";
 
-export const revalidate = REVALIDATE_GUIDE_SECONDS;
+export const revalidate = 604800;
 export const dynamicParams = true;
 
 export function generateStaticParams() {

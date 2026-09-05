@@ -6,9 +6,8 @@ import { authorList, authorUrl, getAuthorBySlug } from "@/data/authors";
 import { articles } from "@/data/content";
 import { buildMetadata, breadcrumbJsonLd, personJsonLd, JsonLd } from "@/lib/seo";
 import { siteConfig } from "@/lib/config";
-import { REVALIDATE_FEED_SECONDS } from "@/lib/isr";
 
-export const revalidate = REVALIDATE_FEED_SECONDS;
+export const revalidate = 86400;
 
 export function generateStaticParams() {
   return authorList.map((a) => ({ slug: a.slug }));

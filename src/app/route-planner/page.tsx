@@ -2,7 +2,6 @@ import { PageHero } from "@/components/shared/page-hero";
 import { RoutePlanner, type RouteCity } from "@/components/tools/route-planner";
 import { cities } from "@/data/cities";
 import { buildMetadata, breadcrumbJsonLd, webApplicationJsonLd, JsonLd } from "@/lib/seo";
-import { REVALIDATE_GUIDE_SECONDS } from "@/lib/isr";
 
 export const metadata = buildMetadata({
   title: "Multi-City Route Planner — Plan a Multi-Stop Trip (2026)",
@@ -19,7 +18,7 @@ export const metadata = buildMetadata({
   ],
 });
 
-export const revalidate = REVALIDATE_GUIDE_SECONDS;
+export const revalidate = 604800;
 
 export default function RoutePlannerPage() {
   // Cap client payload — full catalog is ~8k cities and freezes the page.

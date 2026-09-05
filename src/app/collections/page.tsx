@@ -2,9 +2,8 @@ import { PageHero } from "@/components/shared/page-hero";
 import { CollectionsGrid } from "@/components/home/collections-grid";
 import { collections } from "@/data/content";
 import { buildMetadata, breadcrumbJsonLd, collectionPageJsonLd, JsonLd } from "@/lib/seo";
-import { REVALIDATE_GUIDE_SECONDS } from "@/lib/isr";
 
-export const revalidate = REVALIDATE_GUIDE_SECONDS;
+export const revalidate = 604800;
 
 export const metadata = buildMetadata({
   title: "Travel Collections",

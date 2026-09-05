@@ -3,7 +3,6 @@ import { PackingGenerator, type PackCountry } from "@/components/tools/packing-g
 import { countries } from "@/data/countries";
 import { travelFacts } from "@/data/travel-facts.generated";
 import { buildMetadata, breadcrumbJsonLd, webApplicationJsonLd, JsonLd } from "@/lib/seo";
-import { REVALIDATE_GUIDE_SECONDS } from "@/lib/isr";
 
 export const metadata = buildMetadata({
   title: "Packing List Generator — What to Pack for Any Trip (2026)",
@@ -21,7 +20,7 @@ export const metadata = buildMetadata({
   ],
 });
 
-export const revalidate = REVALIDATE_GUIDE_SECONDS;
+export const revalidate = 604800;
 
 export default function PackingListPage() {
   const list: PackCountry[] = countries.map((c) => ({

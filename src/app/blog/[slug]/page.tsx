@@ -17,9 +17,8 @@ import { SectionHeading } from "@/components/shared/section-heading";
 import { buildMetadata, breadcrumbJsonLd, articleJsonLd, JsonLd } from "@/lib/seo";
 import { siteConfig } from "@/lib/config";
 import { getAuthorByName, authorUrl } from "@/data/authors";
-import { REVALIDATE_FEED_SECONDS } from "@/lib/isr";
 
-export const revalidate = REVALIDATE_FEED_SECONDS;
+export const revalidate = 86400;
 export const dynamicParams = true;
 
 export function generateStaticParams() {

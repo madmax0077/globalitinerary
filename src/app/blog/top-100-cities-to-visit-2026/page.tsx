@@ -17,7 +17,6 @@ import { buildMetadata, breadcrumbJsonLd, articleJsonLd, itemListJsonLd, JsonLd 
 import { siteConfig } from "@/lib/config";
 import { authors, authorUrl } from "@/data/authors";
 import { PHOTOS, unsplash } from "@/lib/images";
-import { REVALIDATE_FEED_SECONDS } from "@/lib/isr";
 
 const SLUG = "top-100-cities-to-visit-2026";
 const TITLE = "Top 100 Cities to Visit in 2026: A Practical Traveller’s Ranking";
@@ -26,7 +25,7 @@ const EXCERPT =
 const DATE = "2026-08-17";
 const COVER = unsplash(PHOTOS.cityNight, 1600);
 
-export const revalidate = REVALIDATE_FEED_SECONDS;
+export const revalidate = 86400;
 
 export const metadata = buildMetadata({
   title: TITLE,

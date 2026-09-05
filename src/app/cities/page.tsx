@@ -10,9 +10,8 @@ import {
 } from "@/lib/city-taxonomy";
 import { buildMetadata } from "@/lib/seo";
 import { siteConfig } from "@/lib/config";
-import { REVALIDATE_GUIDE_SECONDS } from "@/lib/isr";
 
-export const revalidate = REVALIDATE_GUIDE_SECONDS;
+export const revalidate = 604800;
 
 type SearchParams = Promise<Record<string, string | string[] | undefined>>;
 

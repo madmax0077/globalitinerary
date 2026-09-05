@@ -8,9 +8,8 @@ import { getTop100GuideLink } from "@/data/top100-city-guides";
 import { TOP_100_CITIES } from "@/data/top-100-cities";
 import { buildMetadata } from "@/lib/seo";
 import { siteConfig } from "@/lib/config";
-import { REVALIDATE_FEED_SECONDS } from "@/lib/isr";
 
-export const revalidate = REVALIDATE_FEED_SECONDS;
+export const revalidate = 86400;
 
 export const metadata = {
   ...buildMetadata({
