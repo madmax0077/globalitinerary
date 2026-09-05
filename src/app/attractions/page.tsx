@@ -3,8 +3,9 @@ import { Explorer, type ExplorerItem } from "@/components/shared/explorer";
 import { AdSlot } from "@/components/shared/ad-slot";
 import { attractions } from "@/data/attractions";
 import { buildMetadata } from "@/lib/seo";
+import { REVALIDATE_GUIDE_SECONDS } from "@/lib/isr";
 
-export const revalidate = 86400;
+export const revalidate = REVALIDATE_GUIDE_SECONDS;
 
 export const metadata = buildMetadata({
   title: "Top Attractions",

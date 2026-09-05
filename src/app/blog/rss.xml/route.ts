@@ -1,7 +1,8 @@
 import { articles } from "@/data/content";
 import { siteConfig } from "@/lib/config";
+import { REVALIDATE_FEED_SECONDS } from "@/lib/isr";
 
-export const revalidate = 3600;
+export const revalidate = REVALIDATE_FEED_SECONDS;
 
 function escapeXml(value: string): string {
   return value

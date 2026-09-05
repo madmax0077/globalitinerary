@@ -1,8 +1,9 @@
 import { NextResponse } from "next/server";
 import { buildCountrySitemapEntries, entriesToUrlsetXml, sitemapXmlHeaders } from "@/lib/sitemap-data";
+import { REVALIDATE_FEED_SECONDS } from "@/lib/isr";
 
 export const dynamic = "force-static";
-export const revalidate = 3600;
+export const revalidate = REVALIDATE_FEED_SECONDS;
 
 export function GET() {
   return new NextResponse(entriesToUrlsetXml(buildCountrySitemapEntries()), { headers: sitemapXmlHeaders });

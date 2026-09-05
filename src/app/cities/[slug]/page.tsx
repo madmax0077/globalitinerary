@@ -51,6 +51,7 @@ import {
 } from "@/lib/seo";
 import { enrichCityFaqs, cityTripPlanCopy } from "@/lib/destination-seo";
 import { resolveCityTimezone } from "@/lib/timezone";
+import { REVALIDATE_GUIDE_SECONDS } from "@/lib/isr";
 
 function haversine(a: { lat: number; lng: number }, b: { lat: number; lng: number }) {
   const R = 6371;
@@ -62,7 +63,7 @@ function haversine(a: { lat: number; lng: number }, b: { lat: number; lng: numbe
   return 2 * R * Math.asin(Math.sqrt(h));
 }
 
-export const revalidate = 86400;
+export const revalidate = REVALIDATE_GUIDE_SECONDS;
 export const dynamicParams = true;
 
 export function generateStaticParams() {

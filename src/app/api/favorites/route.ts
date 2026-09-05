@@ -4,7 +4,7 @@ import { cities } from "@/data/cities";
 import { attractions } from "@/data/attractions";
 
 export const runtime = "nodejs";
-export const revalidate = 86400;
+export const dynamic = "force-dynamic";
 
 type FavoriteItem = {
   bookmarkId: string;

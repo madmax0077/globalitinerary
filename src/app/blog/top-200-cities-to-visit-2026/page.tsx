@@ -8,13 +8,14 @@ import { getTop100GuideLink } from "@/data/top100-city-guides";
 import { buildMetadata, breadcrumbJsonLd, itemListJsonLd, JsonLd } from "@/lib/seo";
 import { siteConfig } from "@/lib/config";
 import Link from "next/link";
+import { REVALIDATE_FEED_SECONDS } from "@/lib/isr";
 
 const SLUG = "top-200-cities-to-visit-2026";
 const TITLE = "101–200 City Itineraries: Separate Guides for Each City";
 const EXCERPT =
   "One standalone blog post per city — a 5–15 day plan, best time to visit and trip cost, the same way we published the Top 100 city guides.";
 
-export const revalidate = 3600;
+export const revalidate = REVALIDATE_FEED_SECONDS;
 
 export const metadata = buildMetadata({
   title: TITLE,

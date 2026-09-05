@@ -6,8 +6,9 @@ import { iso2ToIso3, visaColumn } from "@/data/visa.generated";
 import { PageHero } from "@/components/shared/page-hero";
 import { VisaChecker } from "@/components/tools/visa-checker";
 import { buildMetadata, breadcrumbJsonLd, JsonLd } from "@/lib/seo";
+import { REVALIDATE_GUIDE_SECONDS } from "@/lib/isr";
 
-export const revalidate = 86400;
+export const revalidate = REVALIDATE_GUIDE_SECONDS;
 export const dynamicParams = true;
 
 export function generateStaticParams() {

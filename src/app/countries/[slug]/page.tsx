@@ -53,6 +53,7 @@ import { CountryCityDirectory } from "@/components/shared/country-city-directory
 import { formatTimezoneLabel, resolveCountryTimezone } from "@/lib/timezone";
 import { formatNumber } from "@/lib/utils";
 import { currencySymbol } from "@/lib/currency";
+import { REVALIDATE_GUIDE_SECONDS } from "@/lib/isr";
 import type { City } from "@/lib/types";
 
 function haversine(a: { lat: number; lng: number }, b: { lat: number; lng: number }) {
@@ -90,7 +91,7 @@ function buildRoute(cities: City[], capital: string): City[] {
   return route;
 }
 
-export const revalidate = 86400;
+export const revalidate = REVALIDATE_GUIDE_SECONDS;
 export const dynamicParams = true;
 
 export function generateStaticParams() {

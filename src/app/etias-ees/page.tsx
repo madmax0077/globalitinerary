@@ -2,6 +2,7 @@ import Link from "next/link";
 import { PageHero } from "@/components/shared/page-hero";
 import { FaqSection } from "@/components/shared/faq-section";
 import { buildMetadata, breadcrumbJsonLd, faqJsonLd, JsonLd } from "@/lib/seo";
+import { REVALIDATE_GUIDE_SECONDS } from "@/lib/isr";
 
 export const metadata = buildMetadata({
   title: "ETIAS & EES Explained (2026) — Do You Need ETIAS for Europe?",
@@ -24,7 +25,7 @@ export const metadata = buildMetadata({
   ],
 });
 
-export const revalidate = 86400;
+export const revalidate = REVALIDATE_GUIDE_SECONDS;
 
 const breadcrumbs = [
   { name: "Home", href: "/" },

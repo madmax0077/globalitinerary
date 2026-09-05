@@ -19,6 +19,7 @@ import { attractions } from "@/data/attractions";
 import { articles } from "@/data/content";
 import { citySitemapSlugs } from "@/data/city-sitemap-slugs.generated";
 import { buildMetadata } from "@/lib/seo";
+import { REVALIDATE_HOME_SECONDS } from "@/lib/isr";
 
 export const metadata = buildMetadata({
   title: "Travel Guides, Itineraries & Things to Do Worldwide",
@@ -27,7 +28,7 @@ export const metadata = buildMetadata({
   path: "/",
 });
 
-export const revalidate = 3600;
+export const revalidate = REVALIDATE_HOME_SECONDS;
 
 function Section({
   children,

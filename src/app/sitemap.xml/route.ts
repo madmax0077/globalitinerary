@@ -1,12 +1,13 @@
 import { NextResponse } from "next/server";
 import { buildFullSitemapXml, sitemapXmlHeaders } from "@/lib/sitemap-data";
+import { REVALIDATE_FEED_SECONDS } from "@/lib/isr";
 
 /**
  * Full sitemap at /sitemap.xml so Search Console reports every city, country, and blog URL.
  * Child files /sitemap-cities.xml, /sitemap-countries.xml, /sitemap-pages.xml still exist.
  */
 export const dynamic = "force-static";
-export const revalidate = 3600;
+export const revalidate = REVALIDATE_FEED_SECONDS;
 
 export function GET() {
   try {

@@ -9,8 +9,9 @@ import { DestinationCard } from "@/components/shared/destination-card";
 import { Badge } from "@/components/ui/badge";
 import { Stagger, StaggerItem } from "@/components/ui/reveal";
 import { buildMetadata, breadcrumbJsonLd, collectionPageJsonLd, JsonLd } from "@/lib/seo";
+import { REVALIDATE_GUIDE_SECONDS } from "@/lib/isr";
 
-export const revalidate = 86400;
+export const revalidate = REVALIDATE_GUIDE_SECONDS;
 
 export function generateStaticParams() {
   return collections.map((c) => ({ slug: c.slug }));
