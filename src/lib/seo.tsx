@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { siteConfig } from "@/lib/config";
+import { getImageCredit } from "@/lib/image-credits";
 
 interface PageSeo {
   title: string;
@@ -79,27 +80,27 @@ export function absUrl(path: string): string {
   return `${siteConfig.url}${path.startsWith("/") ? path : `/${path}`}`;
 }
 
+/**
+ * Declaring `license` opts the image into Google's licensable-image feature,
+ * which then expects creator, copyrightNotice and acquireLicensePage. We only
+ * make that claim for photos whose photographer we actually know; for the rest
+ * a plain ImageObject is emitted so nothing is attributed to a guess.
+ */
 export function imageObjectJsonLd(url: string, caption?: string) {
   const contentUrl = absUrl(url);
-  const isUnsplash = contentUrl.includes("images.unsplash.com");
-  const isWiki =
-    contentUrl.includes("wikimedia.org") || contentUrl.includes("wikipedia.org");
+  const credit = getImageCredit(contentUrl);
   return {
     "@type": "ImageObject" as const,
     contentUrl,
     url: contentUrl,
     ...(caption ? { caption } : {}),
-    ...(isUnsplash
+    ...(credit
       ? {
-          creditText: "Unsplash",
-          license: "https://unsplash.com/license",
-          acquireLicensePage: "https://unsplash.com/license",
-        }
-      : {}),
-    ...(isWiki
-      ? {
-          creditText: "Wikimedia Commons",
-          license: "https://creativecommons.org/licenses/by-sa/4.0/",
+          creator: { "@type": "Person" as const, name: credit.artist },
+          creditText: credit.creditText,
+          copyrightNotice: credit.artist,
+          acquireLicensePage: credit.filePage,
+          ...(credit.licenseUrl ? { license: credit.licenseUrl } : {}),
         }
       : {}),
   };

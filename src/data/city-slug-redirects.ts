@@ -92,3 +92,8 @@ export const CITY_SLUG_REDIRECTS: Record<string, string> = {
 export function canonicalCitySlug(slug: string): string {
   return CITY_SLUG_REDIRECTS[slug] ?? slug;
 }
+
+/** Redirect sources are aliases, never indexable canonical city URLs. */
+export function isRedirectSourceCitySlug(slug: string): boolean {
+  return Object.prototype.hasOwnProperty.call(CITY_SLUG_REDIRECTS, slug);
+}

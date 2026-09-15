@@ -16,6 +16,8 @@ import { getCountry } from "@/data/countries";
 import { Breadcrumbs } from "@/components/shared/breadcrumbs";
 import { DestinationCard } from "@/components/shared/destination-card";
 import { Gallery } from "@/components/shared/gallery";
+import { PhotoCredit } from "@/components/shared/photo-credit";
+import { getImageCredit } from "@/lib/image-credits";
 import { FaqSection } from "@/components/shared/faq-section";
 import { ShareButtons } from "@/components/shared/share-buttons";
 import { MapPlaceholder } from "@/components/shared/map-placeholder";
@@ -154,6 +156,7 @@ export default async function AttractionPage({
             </div>
             <ShareButtons title={attraction.name} onDark />
           </div>
+          <PhotoCredit credit={getImageCredit(attraction.heroImage)} onDark className="mt-6" />
         </div>
       </section>
 
@@ -205,7 +208,11 @@ export default async function AttractionPage({
           <div>
             <SectionHeading eyebrow="In pictures" title="Gallery" />
             <div className="mt-8">
-              <Gallery images={attraction.gallery} title={attraction.name} />
+              <Gallery
+                images={attraction.gallery}
+                title={attraction.name}
+                credits={attraction.gallery.map((src) => getImageCredit(src))}
+              />
             </div>
           </div>
 

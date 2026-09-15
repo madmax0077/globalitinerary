@@ -28,6 +28,8 @@ import { isCityIndexable } from "@/lib/content-legitimacy";
 import { Breadcrumbs } from "@/components/shared/breadcrumbs";
 import { DestinationCard } from "@/components/shared/destination-card";
 import { Gallery } from "@/components/shared/gallery";
+import { PhotoCredit } from "@/components/shared/photo-credit";
+import { getImageCredit } from "@/lib/image-credits";
 import { FaqSection } from "@/components/shared/faq-section";
 import { ShareButtons } from "@/components/shared/share-buttons";
 import { MapPlaceholder } from "@/components/shared/map-placeholder";
@@ -191,6 +193,8 @@ export default async function CityPage({
   ].filter((f) => f.value);
   const faqs = enrichCityFaqs(city);
   const indexable = isCityIndexable(city);
+  const heroCredit = getImageCredit(city.heroImage);
+  const galleryCredits = city.gallery.map((src) => getImageCredit(src));
   const schema = [
     breadcrumbJsonLd([
       { name: city.countryName, url: `/countries/${city.countrySlug}` },
@@ -270,6 +274,7 @@ export default async function CityPage({
             </div>
             <ShareButtons title={`${city.name} Travel Guide`} onDark />
           </div>
+          <PhotoCredit credit={heroCredit} onDark className="mt-6" />
         </div>
       </section>
 
@@ -576,7 +581,7 @@ export default async function CityPage({
           <div>
             <SectionHeading eyebrow="In pictures" title={`${city.name} gallery`} />
             <div className="mt-8">
-              <Gallery images={city.gallery} title={city.name} />
+              <Gallery images={city.gallery} title={city.name} credits={galleryCredits} />
             </div>
           </div>
 

@@ -5,9 +5,27 @@ import Image from "next/image";
 import { AnimatePresence, motion } from "framer-motion";
 import { ChevronLeft, ChevronRight, X } from "lucide-react";
 import { cn } from "@/lib/utils";
+import type { ImageCredit } from "@/lib/image-credits";
 
-export function Gallery({ images, title }: { images: string[]; title: string }) {
+export function Gallery({
+  images,
+  title,
+  credits = [],
+}: {
+  images: string[];
+  title: string;
+  /** Parallel to `images`; null where the photographer is unknown. */
+  credits?: (ImageCredit | null)[];
+}) {
   const [index, setIndex] = React.useState<number | null>(null);
+
+  const photographers = React.useMemo(() => {
+    const seen = new Map<string, ImageCredit>();
+    for (const credit of credits) {
+      if (credit && !seen.has(credit.artist)) seen.set(credit.artist, credit);
+    }
+    return [...seen.values()];
+  }, [credits]);
 
   const close = () => setIndex(null);
   const prev = React.useCallback(
@@ -53,6 +71,26 @@ export function Gallery({ images, title }: { images: string[]; title: string }) 
           </button>
         ))}
       </div>
+
+      {photographers.length > 0 && (
+        <p className="mt-3 text-xs text-muted-foreground">
+          Photos:{" "}
+          {photographers.map((credit, i) => (
+            <React.Fragment key={credit.artist}>
+              {i > 0 && ", "}
+              <a
+                href={credit.filePage}
+                target="_blank"
+                rel="noopener noreferrer nofollow"
+                className="underline underline-offset-2 hover:opacity-80"
+              >
+                {credit.artist}
+              </a>
+            </React.Fragment>
+          ))}{" "}
+          — via Wikimedia Commons
+        </p>
+      )}
 
       <AnimatePresence>
         {index !== null && (
@@ -105,9 +143,24 @@ export function Gallery({ images, title }: { images: string[]; title: string }) 
             >
               <ChevronRight className="size-6" />
             </button>
-            <p className="absolute bottom-6 text-sm text-white/70">
-              {index + 1} / {images.length}
-            </p>
+            <div className="absolute bottom-6 max-w-[80vw] text-center text-sm text-white/70">
+              <p>
+                {index + 1} / {images.length}
+              </p>
+              {credits[index] ? (
+                <p className="mt-1 text-xs">
+                  <a
+                    href={credits[index]!.filePage}
+                    target="_blank"
+                    rel="noopener noreferrer nofollow"
+                    onClick={(e) => e.stopPropagation()}
+                    className="underline underline-offset-2 hover:opacity-80"
+                  >
+                    {credits[index]!.creditText}
+                  </a>
+                </p>
+              ) : null}
+            </div>
           </motion.div>
         )}
       </AnimatePresence>

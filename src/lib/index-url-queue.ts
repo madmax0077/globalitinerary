@@ -5,6 +5,7 @@
 import { siteConfig } from "@/lib/config";
 import { destinationGuides } from "@/data/destination-guides";
 import { citySitemapSlugs } from "@/data/city-sitemap-slugs.generated";
+import { isRedirectSourceCitySlug } from "@/data/city-slug-redirects";
 import {
   listTop100GuideSitemapEntries,
   listTop200GuideSitemapEntries,
@@ -62,6 +63,8 @@ export function listIndexableUrls(): string[] {
     push(abs(`/blog/${slug}`));
   }
   for (const slug of citySitemapSlugs) {
+    // Never submit an alias that resolves through a permanent redirect.
+    if (isRedirectSourceCitySlug(slug)) continue;
     push(abs(`/cities/${slug}`));
   }
 

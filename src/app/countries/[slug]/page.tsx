@@ -23,6 +23,8 @@ import { getCountryInfo } from "@/data/country-info.generated";
 import { Breadcrumbs } from "@/components/shared/breadcrumbs";
 import { DestinationCard } from "@/components/shared/destination-card";
 import { Gallery } from "@/components/shared/gallery";
+import { PhotoCredit } from "@/components/shared/photo-credit";
+import { getImageCredit } from "@/lib/image-credits";
 import { FaqSection } from "@/components/shared/faq-section";
 import { ShareButtons } from "@/components/shared/share-buttons";
 import { MapPlaceholder } from "@/components/shared/map-placeholder";
@@ -298,6 +300,7 @@ export default async function CountryPage({
             </div>
             <ShareButtons title={`${country.name} Travel Guide`} onDark />
           </div>
+          <PhotoCredit credit={getImageCredit(country.heroImage)} onDark className="mt-6" />
         </div>
       </section>
 
@@ -465,7 +468,11 @@ export default async function CountryPage({
           <div>
             <SectionHeading eyebrow="In pictures" title={`${country.name} gallery`} />
             <div className="mt-8">
-              <Gallery images={country.gallery} title={country.name} />
+              <Gallery
+                images={country.gallery}
+                title={country.name}
+                credits={country.gallery.map((src) => getImageCredit(src))}
+              />
             </div>
           </div>
 

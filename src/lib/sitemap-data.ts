@@ -3,6 +3,7 @@ import { countries } from "@/data/countries";
 import { attractions } from "@/data/attractions";
 import { destinationGuides } from "@/data/destination-guides";
 import { citySitemapSlugs } from "@/data/city-sitemap-slugs.generated";
+import { isRedirectSourceCitySlug } from "@/data/city-slug-redirects";
 import { iso2ToIso3, visaMatrix } from "@/data/visa.generated";
 import { listTop100GuideSitemapEntries, listTop200GuideSitemapEntries } from "@/data/top100-guide-meta";
 import { authorList } from "@/data/authors";
@@ -199,12 +200,16 @@ export function buildCitySitemapEntries(): SitemapEntry[] {
   const base = siteConfig.url;
   const now = SITEMAP_CONTENT_DATE;
   return dedupe(
-    citySitemapSlugs.map((slug) => ({
-      url: `${base}/cities/${slug}`,
-      lastModified: now,
-      changeFrequency: "weekly" as const,
-      priority: 0.7,
-    })),
+    citySitemapSlugs
+      // Defense in depth: generated lists already omit aliases, but a redirect
+      // source must never be advertised to crawlers as an indexable URL.
+      .filter((slug) => !isRedirectSourceCitySlug(slug))
+      .map((slug) => ({
+        url: `${base}/cities/${slug}`,
+        lastModified: now,
+        changeFrequency: "weekly" as const,
+        priority: 0.7,
+      })),
   );
 }
 
