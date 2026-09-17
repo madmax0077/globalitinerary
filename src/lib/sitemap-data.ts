@@ -35,7 +35,7 @@ export type SitemapEntry = {
 };
 
 /** Bump this when city/country content is bulk-updated so crawlers see a new lastmod. */
-export const SITEMAP_CONTENT_DATE = new Date("2026-08-26T00:00:00.000Z");
+export const SITEMAP_CONTENT_DATE = new Date("2026-09-17T00:00:00.000Z");
 
 function escapeXml(value: string): string {
   return value
