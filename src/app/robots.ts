@@ -32,6 +32,5 @@ export default function robots(): MetadataRoute.Robots {
       `${siteConfig.url}/sitemap-countries.xml`,
       `${siteConfig.url}/sitemap-pages.xml`,
     ],
-    host: siteConfig.url,
   };
 }
