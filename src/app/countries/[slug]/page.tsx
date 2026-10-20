@@ -51,6 +51,7 @@ import {
   JsonLd,
 } from "@/lib/seo";
 import { enrichCountryFaqs, countryTripPlanCopy } from "@/lib/destination-seo";
+import { isCountryIndexable } from "@/lib/content-legitimacy";
 import { CountryCityDirectory } from "@/components/shared/country-city-directory";
 import { formatTimezoneLabel, resolveCountryTimezone } from "@/lib/timezone";
 import { formatNumber } from "@/lib/utils";
@@ -108,7 +109,9 @@ export async function generateMetadata({
   const country = getCountry(slug);
   if (!country) return {};
   const name = country.name;
-  return buildMetadata({
+  const indexable = isCountryIndexable(country);
+  return {
+    ...buildMetadata({
     title: `${name} Travel Guide: Best Time, Cities & Costs`,
     description: `Visit ${name}: travel guide with best time to visit, top cities, sample itineraries, budget tips, safety advice and visa rules for travel to ${name}.`,
     path: `/countries/${country.slug}`,
@@ -125,7 +128,21 @@ export async function generateMetadata({
       `plan a trip to ${name}`,
       ...country.tags,
     ],
-  });
+    }),
+    robots: indexable
+      ? {
+          index: true,
+          follow: true,
+          googleBot: {
+            index: true,
+            follow: true,
+            "max-image-preview": "large" as const,
+            "max-snippet": -1,
+            "max-video-preview": -1,
+          },
+        }
+      : { index: false, follow: true },
+  };
 }
 
 export default async function CountryPage({

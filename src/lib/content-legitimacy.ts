@@ -1,6 +1,6 @@
 /** Detect invented/template destination copy so we never show it as facts. */
 
-import type { City } from "@/lib/types";
+import type { City, Country } from "@/lib/types";
 
 const TEMPLATE_SIGHT_RE =
   /historic center \/ Old Town|main square and landmark viewpoints|cathedral \/ historic church|temple \/ shrine circuit|historic mosque \/ medina walk|central market or bazaar|regional museum in |Scenic park, waterfront or hillside walk in |Signature day trip from |Sunset viewpoint overlooking /i;
@@ -44,45 +44,82 @@ export function honestCityOverview(overview: string | undefined, name: string, c
   return overview;
 }
 
+function practicalDepth(parts: {
+  itinerary?: { length: number } | null;
+  restaurants?: { length: number } | null;
+  hotels?: { length: number } | null;
+  stays?: { length: number } | null;
+  tips?: { length: number } | null;
+  faqs?: { length: number } | null;
+  localFoods?: { length: number } | null;
+}): number {
+  const restaurants = parts.restaurants?.length ?? 0;
+  const stays = (parts.stays?.length ?? 0) || (parts.hotels?.length ?? 0);
+  const days = parts.itinerary?.length ?? 0;
+  const tips = parts.tips?.length ?? 0;
+  const faqs = parts.faqs?.length ?? 0;
+  const foods = parts.localFoods?.length ?? 0;
+  return (
+    (days >= 2 ? 1 : 0) +
+    (restaurants >= 3 ? 1 : 0) +
+    (stays >= 2 ? 1 : 0) +
+    (tips >= 3 ? 1 : 0) +
+    (faqs >= 2 ? 1 : 0) +
+    (foods >= 3 ? 1 : 0)
+  );
+}
+
+function isStubOverview(overview?: string): boolean {
+  const text = overview?.trim() ?? "";
+  return (
+    text.length < 120 ||
+    /^Travel guide for /i.test(text) ||
+    isGenericCityOverview(text) ||
+    /Use this guide for trip planning/i.test(text) ||
+    /distinctive slice of the world to explore/i.test(text)
+  );
+}
+
 /**
- * Whether a city page is strong enough to index in Google.
- * Pages with real visitor listings (sights, eats, stays) should be indexed
- * even when the intro copy is a short honest stub. Empty shells stay out of
- * the sitemap so they cannot dilute rankings.
+ * A city page is indexable only when it is a real guide: several genuine
+ * sights, plus planning detail (itinerary, food, stays, tips or FAQs).
+ * A category tag or a short name list is not enough. Stub intros are allowed
+ * only when the rest of the page is deep, so landmark guides stay in.
  */
 export function isCityIndexable(
   city: Pick<
     City,
-    | "featured"
-    | "categories"
     | "thingsToDo"
     | "overview"
-    | "tagline"
-    | "countryName"
     | "itinerary"
     | "restaurants"
     | "hotels"
     | "stays"
+    | "tips"
+    | "faqs"
+    | "localFoods"
   >,
 ): boolean {
-  if (city.featured) return true;
-  if (city.categories && city.categories.length > 0) return true;
-
   const sights = filterRealSights(city.thingsToDo).length;
-  const restaurants = city.restaurants?.length ?? 0;
-  const stays = (city.stays?.length ?? 0) || (city.hotels?.length ?? 0);
-  const hasItinerary = (city.itinerary?.length ?? 0) > 0;
+  const depth = practicalDepth(city);
+  if (sights < 4 || depth < 2) return false;
+  if (isStubOverview(city.overview) && depth < 4) return false;
+  return true;
+}
 
-  // Real places to visit — this is a usable guide even without unique prose.
-  if (sights >= 3) return true;
-  if (sights >= 2 && (hasItinerary || restaurants >= 2 || stays >= 2)) return true;
-
-  const overview = city.overview ?? "";
-  const thinOverview =
-    overview.length < 140 ||
-    /^Travel guide for /i.test(overview) ||
-    isGenericCityOverview(overview);
-  if (!thinOverview && (sights >= 1 || restaurants >= 2 || stays >= 2)) return true;
-
-  return false;
+/**
+ * Generated country shells share one template sentence and no history or
+ * culture. Editorial guides keep history, culture or a real FAQ set.
+ */
+export function isCountryIndexable(
+  country: Pick<Country, "overview" | "history" | "culture" | "faqs" | "featured" | "trending">,
+): boolean {
+  const history = (country.history ?? "").trim().length;
+  const culture = (country.culture ?? "").trim().length;
+  const faqs = country.faqs?.length ?? 0;
+  const editorial = history >= 80 || culture >= 80 || faqs >= 2;
+  if (!editorial && !(country.featured || country.trending)) return false;
+  // A template intro is acceptable when history or culture is actually written.
+  if (isStubOverview(country.overview) && history < 80 && culture < 80) return false;
+  return editorial || !!(country.featured || country.trending);
 }

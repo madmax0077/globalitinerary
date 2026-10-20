@@ -4,6 +4,7 @@ import { attractions } from "@/data/attractions";
 import { destinationGuides } from "@/data/destination-guides";
 import { citySitemapSlugs } from "@/data/city-sitemap-slugs.generated";
 import { isRedirectSourceCitySlug } from "@/data/city-slug-redirects";
+import { isCountryIndexable } from "@/lib/content-legitimacy";
 import { iso2ToIso3, visaMatrix } from "@/data/visa.generated";
 import { listTop100GuideSitemapEntries, listTop200GuideSitemapEntries } from "@/data/top100-guide-meta";
 import { authorList } from "@/data/authors";
@@ -35,7 +36,7 @@ export type SitemapEntry = {
 };
 
 /** Bump this when city/country content is bulk-updated so crawlers see a new lastmod. */
-export const SITEMAP_CONTENT_DATE = new Date("2026-09-17T00:00:00.000Z");
+export const SITEMAP_CONTENT_DATE = new Date("2026-10-20T00:00:00.000Z");
 
 function escapeXml(value: string): string {
   return value
@@ -174,12 +175,14 @@ export function buildCountrySitemapEntries(): SitemapEntry[] {
   const base = siteConfig.url;
   const now = SITEMAP_CONTENT_DATE;
 
-  const countryRoutes = countries.map((c) => ({
-    url: `${base}/countries/${c.slug}`,
-    lastModified: now,
-    changeFrequency: "weekly" as const,
-    priority: c.featured || c.trending ? 0.9 : 0.85,
-  }));
+  const countryRoutes = countries
+    .filter(isCountryIndexable)
+    .map((c) => ({
+      url: `${base}/countries/${c.slug}`,
+      lastModified: now,
+      changeFrequency: "weekly" as const,
+      priority: c.featured || c.trending ? 0.9 : 0.85,
+    }));
 
   const visaRoutes = countries
     .filter((c) => {
