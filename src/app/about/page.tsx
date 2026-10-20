@@ -8,7 +8,7 @@ import { buildMetadata } from "@/lib/seo";
 import { authorList } from "@/data/authors";
 
 export const metadata = buildMetadata({
-  title: "About Us",
+  title: "About Global Itinerary: Our Editors & How We Research Guides",
   description: `How ${siteConfig.name} builds travel guides: original itineraries and trip-cost models, named editors, and clearly sourced practical notes.`,
   path: "/about",
 });

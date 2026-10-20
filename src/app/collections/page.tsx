@@ -6,9 +6,9 @@ import { buildMetadata, breadcrumbJsonLd, collectionPageJsonLd, JsonLd } from "@
 export const revalidate = 604800;
 
 export const metadata = buildMetadata({
-  title: "Travel Collections",
+  title: "Travel Collections: Beaches, Mountains, Food & Luxury Trips",
   description:
-    "Curated travel collections — luxury escapes, beach paradises, mountain adventures, food journeys and more. Travel by mood.",
+    "Curated destination collections by travel style: luxury escapes, beach holidays, mountain adventures, food journeys, ancient wonders and island hopping.",
   path: "/collections",
 });
 

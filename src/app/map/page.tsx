@@ -8,9 +8,9 @@ import { buildMetadata } from "@/lib/seo";
 export const revalidate = 604800;
 
 export const metadata = buildMetadata({
-  title: "Explore the World Map",
+  title: "World Travel Map: Explore Destinations, Cities & Itineraries",
   description:
-    "Explore destinations across the globe on our interactive travel map. Tap any pin for detailed guides and itineraries.",
+    "Explore destinations on our interactive world travel map. Tap any pin to open city guides, sample itineraries, costs and the best time to visit.",
   path: "/map",
 });
 

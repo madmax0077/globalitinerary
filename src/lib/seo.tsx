@@ -13,9 +13,24 @@ interface PageSeo {
   keywords?: string[];
 }
 
+/** Trim to `max` chars on a sentence/clause/word boundary (never mid-word). */
+function clampText(text: string, max: number, minKeep: number): string {
+  const clean = text.replace(/\s+/g, " ").trim();
+  if (clean.length <= max) return clean;
+  const slice = clean.slice(0, max);
+  const sentence = Math.max(slice.lastIndexOf(". "), slice.lastIndexOf("; "));
+  if (sentence >= minKeep) return slice.slice(0, sentence + 1);
+  const word = slice.lastIndexOf(" ");
+  const cut = (word >= minKeep ? slice.slice(0, word) : slice).replace(/[\s,;:–—-]+$/, "");
+  return `${cut}…`;
+}
+
+export const clampTitle = (t: string) => clampText(t, 70, 40);
+export const clampDescription = (d: string) => clampText(d, 160, 100);
+
 export function buildMetadata({
-  title,
-  description,
+  title: rawTitle,
+  description: rawDescription,
   path,
   image,
   type = "website",
@@ -23,6 +38,8 @@ export function buildMetadata({
   authors,
   keywords,
 }: PageSeo): Metadata {
+  const title = clampTitle(rawTitle);
+  const description = clampDescription(rawDescription);
   const url = `${siteConfig.url}${path}`;
   const ogImage = image ?? `${siteConfig.url}${siteConfig.ogImage}`;
 

@@ -13,9 +13,9 @@ export const revalidate = 86400;
 
 export const metadata = {
   ...buildMetadata({
-    title: "Travel Guides & Stories",
+    title: "Travel Blog: Itineraries, Trip Costs & Destination Guides",
     description:
-      "Inspiration, itineraries, tips and deep dives from the Global Itinerary editorial team — everything you need to plan your next journey.",
+      "Itineraries, trip-cost breakdowns, visa tips and destination deep dives from the Global Itinerary editorial team to help you plan your next trip.",
     path: "/blog",
   }),
   alternates: {

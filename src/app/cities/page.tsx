@@ -36,7 +36,7 @@ export async function generateMetadata({
       ? `${filter} Cities — Travel Guides & Things to Do`
       : q
         ? `Cities matching “${q}” — Global Itinerary`
-        : "Popular Cities",
+        : "City Travel Guides: Things to Do, Costs & Itineraries",
     description: filter
       ? `Browse ${filter} city travel guides — things to do, budgets, itineraries and planning tips.`
       : "Browse cities by continent and travel style — city breaks, beaches, food, history and more — with guides for things to do, budgets and itineraries.",

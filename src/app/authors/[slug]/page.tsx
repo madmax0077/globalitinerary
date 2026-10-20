@@ -22,7 +22,7 @@ export async function generateMetadata({
   const author = getAuthorBySlug(slug);
   if (!author) return {};
   return buildMetadata({
-    title: `${author.name} — ${author.role}`,
+    title: `${author.name} — ${author.role} at Global Itinerary`,
     description: author.bio,
     path: `/authors/${author.slug}`,
     image: author.avatar,

@@ -4,8 +4,8 @@ import { siteConfig } from "@/lib/config";
 import { buildMetadata } from "@/lib/seo";
 
 export const metadata = buildMetadata({
-  title: "Contact Us",
-  description: `Get in touch with the ${siteConfig.name} team.`,
+  title: "Contact Global Itinerary: Feedback, Corrections & Partnerships",
+  description: `Contact the ${siteConfig.name} team to suggest a correction, send travel feedback, report an issue or ask about partnerships and press.`,
   path: "/contact",
 });
 

@@ -7,9 +7,9 @@ import { buildMetadata } from "@/lib/seo";
 export const revalidate = 604800;
 
 export const metadata = buildMetadata({
-  title: "Top Attractions",
+  title: "Top Attractions & Landmarks to Visit Around the World",
   description:
-    "Explore the world's most breathtaking landmarks, museums, natural wonders and historic sites with detailed visitor guides.",
+    "Guides to the world's top landmarks, museums, natural wonders and historic sites, with opening tips, best time to go and how to visit.",
   path: "/attractions",
 });
 

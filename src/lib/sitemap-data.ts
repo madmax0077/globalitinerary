@@ -154,13 +154,6 @@ export function buildPageSitemapEntries(): SitemapEntry[] {
     priority: a.featured ? 0.9 : 0.8,
   }));
 
-  const rssRoute = {
-    url: `${base}/blog/rss.xml`,
-    lastModified: now,
-    changeFrequency: "daily" as const,
-    priority: 0.5,
-  };
-
   const attractionRoutes = attractions.map((a) => ({
     url: `${base}/attractions/${a.slug}`,
     lastModified: now,
@@ -168,7 +161,7 @@ export function buildPageSitemapEntries(): SitemapEntry[] {
     priority: 0.7,
   }));
 
-  return dedupe([...staticRoutes, rssRoute, ...authorRoutes, ...collectionRoutes, ...articleRoutes, ...attractionRoutes]);
+  return dedupe([...staticRoutes, ...authorRoutes, ...collectionRoutes, ...articleRoutes, ...attractionRoutes]);
 }
 
 export function buildCountrySitemapEntries(): SitemapEntry[] {

@@ -8,9 +8,9 @@ import { buildMetadata } from "@/lib/seo";
 export const revalidate = 604800;
 
 export const metadata = buildMetadata({
-  title: "All Countries",
+  title: "Country Travel Guides: Visas, Best Time to Visit & Costs",
   description:
-    "Browse in-depth travel guides to every country on earth — culture, visas, best times to visit, top cities and unmissable attractions.",
+    "Travel guides for every country: visa rules, best time to visit, top cities, budget tips, culture and safety. Pick a country to start planning.",
   path: "/countries",
 });
 

@@ -16,9 +16,9 @@ import { buildMetadata, breadcrumbJsonLd, webApplicationJsonLd, JsonLd } from "@
 import { calculatorDefaultsForCountry } from "@/lib/travel-budgets";
 
 export const metadata = buildMetadata({
-  title: "Plan Your Trip",
+  title: "Trip Planner: Build Your Travel Itinerary by Destination",
   description:
-    "Start planning your next adventure with Global Itinerary. Search destinations, build itineraries and get inspired.",
+    "Plan your next trip: search destinations, pick the best time to go, build a day-by-day itinerary and estimate costs with Global Itinerary.",
   path: "/planner",
 });
 

@@ -25,7 +25,7 @@ export async function generateMetadata({
   const collection = collections.find((c) => c.slug === slug);
   if (!collection) return {};
   return buildMetadata({
-    title: collection.title,
+    title: `${collection.title}: Curated Destinations & Travel Guides`,
     description: collection.description,
     path: `/collections/${collection.slug}`,
     image: collection.image,
