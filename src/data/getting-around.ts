@@ -864,6 +864,14 @@ const REGION_RIDES: Record<string, string[]> = {
   Oceania: ["uber"],
 };
 
+/**
+ * Countries with a dedicated MegaEsim page. Keyed by ISO-2; the value is the
+ * destination URL. Add more entries here to switch a country to the linked line.
+ */
+export const MEGAESIM_URLS: Record<string, string> = {
+  BA: "https://megaesim.com/bosnia-and-herzegovina-esim/",
+};
+
 export type ResolvedGettingAround = GettingAround & { curated: boolean };
 
 /** Returns curated data for a country, or a sensible regional fallback. */

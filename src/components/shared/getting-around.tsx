@@ -1,6 +1,7 @@
 import { Car, Smartphone, ExternalLink, Wifi } from "lucide-react";
 import {
   getGettingAround,
+  MEGAESIM_URLS,
   RIDE_APPS,
   LOCAL_APPS,
   type LocalApp,
@@ -21,6 +22,7 @@ export function GettingAround({
   countryName: string;
 }) {
   const data = getGettingAround(iso2, continent);
+  const esimUrl = MEGAESIM_URLS[(iso2 || "").toUpperCase()];
   const apps = data.rides.map(resolveApp).filter((a): a is LocalApp => Boolean(a));
 
   return (
@@ -102,10 +104,25 @@ export function GettingAround({
             ))}
           </ul>
 
-          {data.esimNote && (
+          {(esimUrl || data.esimNote) && (
             <p className="mt-4 flex items-start gap-2 rounded-2xl bg-emerald-500/5 px-4 py-3 text-sm leading-relaxed text-muted-foreground">
               <Wifi className="mt-0.5 size-4 shrink-0 text-emerald-600 dark:text-emerald-400" />
-              <span>{data.esimNote}</span>
+              {esimUrl ? (
+                <span>
+                  eSIM: a MegaEsim{" "}
+                  <a
+                    href={esimUrl}
+                    target="_blank"
+                    rel="sponsored noopener noreferrer"
+                    className="font-semibold text-foreground underline underline-offset-2 hover:text-primary"
+                  >
+                    {countryName} eSIM
+                  </a>{" "}
+                  gets you online the moment you land, with no airport SIM queue.
+                </span>
+              ) : (
+                <span>{data.esimNote}</span>
+              )}
             </p>
           )}
         </div>
